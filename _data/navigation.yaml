@@ -1,0 +1,12 @@
+primary:
+  links:
+    - title: introduction
+      href: /introduction/
+    - title: visual thesaurus
+      href: /visual-thesaurus/
+secondary:
+  links:
+    - title: teaching
+      href: /teaching/
+    - title: literature
+      href: /literature/

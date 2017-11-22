@@ -1,0 +1,6 @@
+---
+# json otuput for the weekly tags...
+---
+[
+  {% for lang in site.languages%}"{{lang}}"{%unless forloop.last %},{% endunless%}{% endfor %}
+]

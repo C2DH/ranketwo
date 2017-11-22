@@ -1,0 +1,50 @@
+---
+---
+
+$black: #151515;
+$almost-black: #1C090B;
+$light-grey: ligh­ten­($almost-black, 30%);
+$yellow: #FAF54F;
+$almost-white: #FCF4D9;
+$white: #ffffff;
+
+body{
+  background: $white;
+  color: $almost-black;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.navbar{
+  padding: 2rem 0;
+
+  ul li{
+    padding: 0 1rem;
+  }
+
+
+}
+
+.excerpt{
+  font-size: 2em;
+  margin-top: 2em;
+}
+
+footer{
+  color: grey;
+  margin-top: 4rem;
+}
+
+
+li.active a, a.active{
+    background-color: cyan;
+  }
+
+a{
+    color: $black;
+}
+
+
+#contents > p > div.placeholder {
+  margin: 2em;
+  background: #ccc;
+}

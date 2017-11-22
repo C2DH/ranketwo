@@ -1,0 +1,8 @@
+---
+# json otuput for the weekly tags...
+---
+[
+  {% for doc in site.data.documents %}{
+    "title": "{{doc.title}}","slug": "{{doc.slug}}","year": "{{doc.year}}","author":"{{doc.author}}"
+  }{%unless forloop.last %},{% endunless%}{% endfor %}
+]

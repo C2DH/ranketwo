@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang='{{ page.lang }}'>
+<head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta http-equiv="Content-Language" content="{{ page.lang }}">
+    <title>{% if page.title %}{{page.title}} · {% endif %}{{site.title}}</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css?v=' | relative_url }}" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+</head>
+<body>
+  {% include nav.html %}
+  
+
+  {{content}}
+
+
+  {% include footer.html %}
+
+  <script src="{{ '/assets/js/d3.v4.min.js' | relative_url }}"></script>
+  {% if page.documents %}
+  <script>
+    var __docs = {
+      {% for docid in page.documents %}
+        {% assign docs = site.data.documents | where:"id",docid %}
+        "{{docid}}":{{ docs[0] | jsonify}}{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    };
+
+  </script>
+  {% endif %}
+
+  <script src="{{ '/assets/js/runtime.js' | relative_url }}"></script>
+</body>
+</html>

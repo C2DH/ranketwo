@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<div class='container'>
+  <div class='page'>
+    <h1>{{page.title}}</h1>
+
+    {% assign paragraphs = page.content | split: site.excerpt_separator %}
+    <div class="excerpt">{{paragraphs[0] | markdownify}}</div>
+
+    <div class='contents' id="contents">
+    {{paragraphs[1] | markdownify}}
+    </div>
+  </div>
+</div>

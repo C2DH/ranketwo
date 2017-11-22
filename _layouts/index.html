@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<div class='container'>
+    <div id='wrapper'>
+
+    <h1>{{page.title}}</h1>
+
+    {% assign paragraphs = page.content | split: site.excerpt_separator %}
+    <div class="excerpt">{{paragraphs[0]}}</div>
+    <div class="contents">
+      {{paragraphs[1]}}
+    </div>
+  </div>
+</div>
