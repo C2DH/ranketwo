@@ -14,20 +14,6 @@ body{
   font-family: 'Work Sans', sans-serif;
 }
 
-.navbar{
-  padding: 2rem 0;
-
-  ul li{
-    padding: 0 1rem;
-  }
-
-
-}
-
-.excerpt{
-  font-size: 2em;
-  margin-top: 2em;
-}
 
 footer{
   color: grey;
@@ -44,7 +30,61 @@ a{
 }
 
 
+
+/* ID speecific */
+#table-of-contents-wrapper{
+  position: absolute;
+  top: 255px; // media stuff
+  z-index: -1;
+  min-height: 300px;
+  right: 0;
+  left: 0;
+}
+
+.navbar{
+  padding: 2rem 0;
+
+  ul li{
+    padding: 0 1rem;
+  }
+
+
+}
+
+.excerpt{
+  font-size: 2em;
+  margin-top: 2em;
+}
+
+
 #contents > p > div.placeholder {
   margin: 2em;
   background: #ccc;
 }
+
+
+/* clip */
+section{
+  background: #ddd;
+  .playposit-wrapper{
+    height: 300px;
+    background: $almost-black;
+  }
+}
+.component{
+  margin-top: 1em;
+  position: relative;
+
+  .lines{
+    position:absolute;
+    left:0;top:0;bottom:0;width: 9px;
+    background: #00FFFF;
+    border-left: 3px solid #FF00FF;
+  }
+  .multiplied{
+    position:absolute;
+    left:3px;top:0;bottom:0;width: 2px;
+    background-color: #0000FF
+  }
+}
+

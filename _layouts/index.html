@@ -11,5 +11,20 @@ layout: default
     <div class="contents">
       {{paragraphs[1]}}
     </div>
+
+    <ul>
+      {% assign units = site.units|where:"layout","unit" %}
+      {% for unit in units%}
+      <li><a href='{{unit.url | relative_url}}'>{{unit.title}}</a></li>
+        {% assign subunits = site.units|where:"unit",unit.slug %}
+        <ul>
+          {% for subunit in subunits%}
+          <li>{{subunit.title}} - {{subunit.url}}</li>
+          {% endfor %}
+        </ul>
+        
+      </ul>
+      {% endfor %}
+    </ul>
   </div>
 </div>

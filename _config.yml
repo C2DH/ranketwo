@@ -5,3 +5,9 @@ excerpt_separator: '<!-- more -->'
 
 permalink: /:lang/:title.html
 title: RankeTwo
+
+
+collections:
+  units:
+    output: true
+    permalink: /u/:path/

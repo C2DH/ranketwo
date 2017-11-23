@@ -1,0 +1,81 @@
+---
+layout: default
+---
+{% assign subunits = site.units|where:"unit",page.slug %}
+{% assign clips = subunits|where:"layout","clip" %}
+{% assign lessons = subunits|where:"layout","lesson" %}
+    
+
+<!-- main container -->
+<div class='container'>
+  <div class='row'>
+    <div class='col-sm-8'>
+  <div class='page'>
+    <h1>{{page.title}}</h1>
+    {{page.tags}}
+    {% assign paragraphs = page.content | split: site.excerpt_separator %}
+    <div class="excerpt">{{paragraphs[0] | markdownify}}</div>
+
+    <div class='contents' id="contents">
+    {{paragraphs[1] | markdownify}}
+
+    </div>
+
+    
+    
+    
+    
+  </div>
+    </div>
+  </div>
+</div>
+
+{% for clip in clips %}
+<div class='component'>
+  <div class='lines'></div>
+  <div class="multiplied"></div>
+  <div class='container'>
+    <div class='row'>
+      <div class='col-sm-8'>
+      {% include clip.html %}
+      </div>
+    </div>
+  </div>
+</div>
+{% endfor %}
+
+{% for lesson in lessons %}
+<div class='component'>
+  <div class='lines'></div>
+  <div class='container'>
+    <div class='row'>
+      <div class='col-sm-8'>
+      {% include lesson.html %}
+      </div>
+    </div>
+  </div>
+</div>
+{% endfor %}
+
+
+<!-- table of contents contaier -->
+<div id='table-of-contents-wrapper'>
+<div class='container' >
+  <div class='row'>
+    <div class='col-sm-4 ml-auto'>
+      <!-- ToC -->
+      <h4> table of contents </h4>
+      <ul>
+      {% for clip in clips %}
+        <li>{{clip.title}}</li>
+      {% endfor %}
+    </ul>
+      <ul>
+      {% for lesson in lessons %}
+        <li>{{lesson.title}}</li>
+      {% endfor %}
+    </ul>
+    </div>
+  </div>
+</div>
+</div>
