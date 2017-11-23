@@ -1,9 +1,10 @@
 ---
 ---
 
+
 $black: #151515;
 $almost-black: #1C090B;
-$light-grey: ligh­ten­($almost-black, 30%);
+$light-grey: #ccc;
 $yellow: #FAF54F;
 $almost-white: #FCF4D9;
 $white: #ffffff;
@@ -64,27 +65,93 @@ a{
 
 
 /* clip */
-section{
-  background: #ddd;
+.subunit {
   .playposit-wrapper{
     height: 300px;
     background: $almost-black;
   }
+
+  section{
+    position: relative;
+    margin-top: 25px;
+
+    h3.excerpt{
+      font-weight: bold;
+      font-size:inherit;
+      line-height: inherit;
+    }
+
+    aside{
+      position: absolute;
+      left: -220px;
+      text-align: right;
+      width: 200px;
+      // font-weight: bold;
+    }
+  }
 }
+
+
 .component{
-  margin-top: 1em;
+  margin-top: 50px;
+  margin-bottom: 100px;
   position: relative;
 
-  .lines{
-    position:absolute;
-    left:0;top:0;bottom:0;width: 9px;
-    background: #00FFFF;
-    border-left: 3px solid #FF00FF;
-  }
+
   .multiplied{
     position:absolute;
-    left:3px;top:0;bottom:0;width: 2px;
-    background-color: #0000FF
+    
   }
 }
 
+.lines{
+    position:absolute;
+    left:0;top:0;bottom:0;
+    border-left: 3px solid #FF00FF;
+    width: 100%;
+
+    .type{
+      border: 2px solid $almost-black;
+      position: absolute;
+      height: 25px;
+      right: 0px;
+      top: -25px;
+      line-height: 20px;
+      font-size: 13px;
+      font-weight: 700;
+      text-transform: uppercase;
+
+      > span{
+        padding: 0 8px;
+      }
+    }
+
+    .line{
+      position: absolute;
+      
+      &.left{
+        left:0px;top:0;bottom:0;width: 1px;
+        background-color: #0000FF
+      }
+
+      &.right{
+        width: 4px;
+        left: 1px;
+        bottom: 0px;
+        top: 0;
+        background-color: #00FFFF;
+      }
+      &.top{
+        left:-3px;top:-5px;height: 5px; width: 100%;
+        background-color: $white;
+        border-bottom: 2px solid $almost-black;
+        border-top: 1px solid $light-grey;
+      }
+
+    }
+  }
+
+
+
+
+@import "media-queries";

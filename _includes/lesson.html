@@ -1,6 +1,40 @@
-<section class="lesson">
-  <h3>{{lesson.title}}</h3>
+<div class="subunit lesson">
+  <h3>{{subunit.title}}</h3>
 
   
-  {{clip.content}}
-</section>
+  {{subunit.content}}
+
+  {% assign sections = site.units|where:"parent",subunit.slug %}
+
+  {% assign assignments = sections|where:"type","assignment" %}
+
+  {% for section in assignments %}
+    <section>
+      <aside><b>assignment #{{forloop.index}}</b><br>{{section.title}}</aside>
+      <div>
+        {% assign paragraphs = section.content | split: site.excerpt_separator %}
+        <h3 class="excerpt">{{paragraphs[0]}}</h3>
+        <div class="contents">
+          {{paragraphs[1] | markdownify }}
+        </div>
+
+
+      </div>
+        
+    </section>
+  {% endfor %}
+
+</div>
+<script>
+  // enrich document table with documents coming from lessons components. cfr 
+  var candidates = [
+    {% for section in sections %}
+    {% for docid in section.documents %}
+      {% assign docs = site.data.documents | where:"id",docid %}
+      {{ docs[0] | jsonify}}{% unless forloop.last %}},{% endunless %}
+    {% endfor %}
+    {% endfor %}
+  ];
+
+  window.enrich_documents_list(candidates);
+</script>

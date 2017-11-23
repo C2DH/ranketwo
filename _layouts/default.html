@@ -14,13 +14,6 @@
 <body>
   {% include nav.html %}
   
-
-  {{content}}
-
-
-  {% include footer.html %}
-
-  <script src="{{ '/assets/js/d3.v4.min.js' | relative_url }}"></script>
   {% if page.documents %}
   <script>
     var __docs = {
@@ -29,10 +22,23 @@
         "{{docid}}":{{ docs[0] | jsonify}}{% unless forloop.last %},{% endunless %}
       {% endfor %}
     };
-
+    // call this function on your specific places
+    window.enrich_documents_list = function(docs){
+      console.log('enrichDocumentsList')
+      for (i in docs){
+        console.log('add ', d);
+      }
+    }
   </script>
   {% endif %}
 
+
+  {{content}}
+
+
+  {% include footer.html %}
+
+  <script src="{{ '/assets/js/d3.v4.min.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/runtime.js' | relative_url }}"></script>
 </body>
 </html>

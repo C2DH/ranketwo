@@ -1,9 +1,8 @@
 ---
 layout: default
 ---
-{% assign subunits = site.units|where:"unit",page.slug %}
-{% assign clips = subunits|where:"layout","clip" %}
-{% assign lessons = subunits|where:"layout","lesson" %}
+{% assign subunits = site.units|where:"parent",page.slug| sort: 'type'  %}
+
     
 
 <!-- main container -->
@@ -30,32 +29,28 @@ layout: default
   </div>
 </div>
 
-{% for clip in clips %}
+{% for subunit in subunits %}
+
 <div class='component'>
-  <div class='lines'></div>
-  <div class="multiplied"></div>
+  <div class='lines'>
+    <div class="line left"></div>
+    <div class="line right"></div>
+    <div class='line top'></div>
+    <div class='type'>
+      <span>{{subunit.type}}</span></div>
+  </div>
   <div class='container'>
     <div class='row'>
       <div class='col-sm-8'>
-      {% include clip.html %}
+      
+      {% include {{subunit.type}}.html %}
+
       </div>
     </div>
   </div>
 </div>
 {% endfor %}
 
-{% for lesson in lessons %}
-<div class='component'>
-  <div class='lines'></div>
-  <div class='container'>
-    <div class='row'>
-      <div class='col-sm-8'>
-      {% include lesson.html %}
-      </div>
-    </div>
-  </div>
-</div>
-{% endfor %}
 
 
 <!-- table of contents contaier -->
@@ -66,15 +61,10 @@ layout: default
       <!-- ToC -->
       <h4> table of contents </h4>
       <ul>
-      {% for clip in clips %}
-        <li>{{clip.title}}</li>
+      {% for subunit in subunits %}
+        <li>{{subunit.title}}</li>
       {% endfor %}
-    </ul>
-      <ul>
-      {% for lesson in lessons %}
-        <li>{{lesson.title}}</li>
-      {% endfor %}
-    </ul>
+      </ul>
     </div>
   </div>
 </div>

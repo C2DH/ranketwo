@@ -1,7 +1,7 @@
 ---
 title: Lesson 1 - David Boder, a biography
-layout: lesson
-unit: boder
+type: lesson
+parent: boder
 ---
 Very long lesson here
 <!-- more -->
