@@ -23,5 +23,6 @@ If a particular language with regard to such a topic is dominant on the web, wha
 
 Complete this table with your findings. 
 
+| | |
 |---|---|
-|What information might be missing on the web and why? | |
+| What information might be missing on the web and why? | |

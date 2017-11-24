@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-{% assign subunits = site.units|where:"parent",page.slug| sort: 'type'  %}
+{% assign components = site.units|where:"parent",page.slug| sort: 'type'  %}
+{% assign clips = components|where:"type","clip" %}
+{% assign lessons = components|where:"type","lesson" %}
 
     
 
@@ -13,13 +15,9 @@ layout: default
     <h1>{{page.title}}</h1>
     {{page.tags}}
     {% assign paragraphs = page.content | split: site.excerpt_separator %}
-    <div class="excerpt">{{paragraphs[0] | markdownify}}</div>
+    <div>{{paragraphs[0] | markdownify}}</div>
 
-    <div class='contents' id="contents">
-    {{paragraphs[1] | markdownify}}
-
-    </div>
-
+    
     
     
     
@@ -29,26 +27,26 @@ layout: default
   </div>
 </div>
 
-{% for subunit in subunits %}
+{% for component in clips %}
+  {% include component.html %}
+{% endfor %}
 
-<div class='component'>
-  <div class='lines'>
-    <div class="line left"></div>
-    <div class="line right"></div>
-    <div class='line top'></div>
-    <div class='type'>
-      <span>{{subunit.type}}</span></div>
-  </div>
-  <div class='container'>
-    <div class='row'>
-      <div class='col-sm-8'>
-      
-      {% include {{subunit.type}}.html %}
-
+<div class='component-wrapper introduction scrollspy'>
+<div class='container'>
+  <div class='row'>
+    <div class='col-sm-8'>
+      <div class='page'>
+        <div class='contents' id="contents">
+          {{paragraphs[1] | markdownify}}
+        </div>
       </div>
     </div>
   </div>
 </div>
+</div>
+
+{% for component in lessons %}
+  {% include component.html %}
 {% endfor %}
 
 
@@ -61,8 +59,36 @@ layout: default
       <!-- ToC -->
       <h4> table of contents </h4>
       <ul>
-      {% for subunit in subunits %}
-        <li>{{subunit.title}}</li>
+      {% for component in clips %}
+        <li>
+          <div class='lines'>
+            <div class="group">
+            <div class="line left"></div>
+            <div class="line right"></div>
+            </div>
+          </div>
+          <a><span>{{component.title}}</span></a>
+        </li>
+      {% endfor %}
+        <li>
+          <div class='lines'>
+            <div class="group">
+            <div class="line left"></div>
+            <div class="line right"></div>
+            </div>
+          </div>
+        <a><span>introduction</span></a>
+        </li>
+      {% for component in lessons %}
+        <li>
+          <div class='lines'>
+            <div class="group">
+            <div class="line left"></div>
+            <div class="line right"></div>
+            </div>
+          </div>
+        <a><span>{{component.title}}</span></a>
+        </li>
       {% endfor %}
       </ul>
     </div>

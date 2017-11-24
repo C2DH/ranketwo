@@ -5,19 +5,22 @@ tags: holocaust studies, media studies
 author: steff
 ---
 
-This teaching unit is about applying Digital Source Criticism to accounts on the Holocaust
+A series of Lessons on Holocaust Testimonies and Media Technology, to apply Digital Source Criticism to accounts on the Holocaust.
 
-## A series of Lessons on Holocaust Testimonies and Media Technology
 
-### Introduction 
+<!-- more -->
 
 In the clip you have just viewed you have been introduced to the very first recordings of testimonies of concentration camp survivors by David Boder and to how they have been transformed into a web resource. In the following lessons special attention will be given to this collection, but the overall approach is to more in general address the interplay between political agency and progress in media technology with regard to  audiovisual representations of accounts on the Holocaust in digital form. The objective is to teach students how to apply source criticism on audiovisual testimonies on the Holocaust that are retrievable on the web. Five iconic recordings of narratives and images of the Holocaust that can be found online, are the reference frame for the assignments. The following recordings have been created in different time periods, by different actors, with different technologies and different goals, and have all been recontextualised as digital objects on the web: 
 
-1) the very first footage shot by the US army right after the liberation of concentration camps in Germany in spring 1945, 
-2) the  sound recordings of David Boder from 1946 
-3) the recordings of the trial of Eichmann in 1961
-4) the documentary Shoah by Claude Lanzmann published in 1985
-5) the Shoah Visual History collection of interviews initiated in 1999
+1. the very first footage shot by the US army right after the liberation of concentration camps in Germany in spring 1945, 
+
+2. the  sound recordings of David Boder from 1946 
+
+3. the recordings of the trial of Eichmann in 1961
+
+4. the documentary Shoah by Claude Lanzmann published in 1985
+
+5. the Shoah Visual History collection of interviews initiated in 1999
 
 The themes and concepts addressed in the assignments stem from a combination of disciplines: historiography of the Holocaust, media studies, history of technology, information science and digital history. Consequently, the assignments offer the opportunity to train skills that the ‘hybrid’ historian of the 21st century should master: reflexivity as consumer of historical knowledge, critical reading and writing, knowing his or her way around the library, archive, and web, conducting web research, critically assessing the origin and context of digital sources, collaborating online and applying digital tools for research, analysis,presentation and dissemination of research results. 
 

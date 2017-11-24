@@ -19,6 +19,8 @@ body{
 footer{
   color: grey;
   margin-top: 4rem;
+  margin-bottom: 4rem;
+  height: 200px;
 }
 
 
@@ -40,6 +42,68 @@ a{
   min-height: 300px;
   right: 0;
   left: 0;
+
+  h4{
+    font-weight: bold;
+    font-size:inherit;
+    line-height: inherit;
+    padding-top: 20px;
+  }
+
+  ul {
+    margin:0;
+    padding:0;
+    li{
+      list-style-type: none;
+      position: relative;
+      margin-bottom: 10px;
+
+      .lines{
+        border-color: transparent;
+        transition: border-color 0.2s ease-in-out;
+      }
+      .line.right{
+          background-color: transparent;
+      }
+      .group{
+        position:absolute;
+        top:0;
+        bottom:0;
+        width: 10px;
+        left:0;
+        transform-origin:left top;
+        transition: transform 0.2s ease-in-out;
+      }
+      a{
+        padding-left: 15px;
+        display: block;
+
+        span{
+          transition: background-color 0.2s ease-in-out;
+        }
+      }
+      &.active {
+        .lines{
+          border-color: #FF00FF;
+        }
+        .line.right{
+          background-color: cyan;
+        }
+        a{
+          background-color: transparent;
+          span{
+            background-color: cyan;
+          }
+        }
+      }
+    }
+  }
+
+  &.fixed{
+    position: fixed;
+    transform: translateY(-255px);
+  }
+
 }
 
 .navbar{
@@ -65,7 +129,7 @@ a{
 
 
 /* clip */
-.subunit {
+.component {
   .playposit-wrapper{
     height: 300px;
     background: $almost-black;
@@ -91,18 +155,38 @@ a{
   }
 }
 
+.component.clip{
+  padding-top: 10px;
+  h3{
+    font-weight: bold;
+    font-size:inherit;
+    line-height: inherit;
+  }
+}
 
-.component{
+
+.component-wrapper{
   margin-top: 50px;
   margin-bottom: 100px;
   position: relative;
 
-
-  .multiplied{
-    position:absolute;
-    
+  &.clip{
+    margin-top: 10px;
+    margin-bottom: 0px;
   }
+
+  &.introduction{
+    h2, h3 {
+      font-weight: bold;
+      font-size:inherit;
+      line-height: inherit;
+    }
+  }
+
+
 }
+
+
 
 .lines{
     position:absolute;
