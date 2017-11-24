@@ -1,10 +1,11 @@
 ---
-title: David Boder & his Wire Recordings
+title: David Boder et ses Wire Recordings
 layout: unit
 tags: holocaust studies, media studies
 author: steff
-lang: en
+lang: fr
 link: /u/boder/
+permalink: /fr/u/boder/
 ---
 
 A series of Lessons on Holocaust Testimonies and Media Technology, to apply Digital Source Criticism to accounts on the Holocaust.

@@ -1,15 +1,12 @@
 home:
   en: index
   fr: accueil
-  pt: casa
-ask the historian:
-  en: ask the historian
-  fr: demande à l'historien
-  pt: "?"
-collection days:
-  en: collection days
-  fr: jous de collecion
-  pt: "?"
+introduction:
+  en: about the project
+  fr: projet
+teaching-units:
+  en: teaching units
+  fr: unités de lessons
 all stories:
   en: all stories
   fr: voir memoires

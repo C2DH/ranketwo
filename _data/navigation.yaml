@@ -2,6 +2,8 @@ primary:
   links:
     - title: introduction
       href: /introduction/
+    - title: teaching-units
+      href: /
     - title: visual thesaurus
       href: /visual-thesaurus/
 secondary:

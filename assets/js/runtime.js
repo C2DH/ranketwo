@@ -93,7 +93,7 @@ function resizing(){
   console.log('(resizing)')
 
   // store the offset top position for the table of content.
-  if(_toc) {
+  if(_toc.length) {
     _toc_offsettop = _toc.node().offsetTop;
   }
 
