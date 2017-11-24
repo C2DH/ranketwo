@@ -1,1 +1,1 @@
-<li {% if page.link == link.href %}class='active'{% endif %}><a {% if page.lang == site.default_lang %} href='{{link.href | absolute_url}}' {% else %} href='{{page.lang | absolute_url}}{{link.href}}'{% endif %}>{% assign key=link.title%}{% include t.html %}</a></li>
+<li {% if page.link == link.href %}class='active'{% endif %}><a {% if page.lang == site.default_lang %} href='{{link.href | relative_url}}' {% else %} href='{{page.lang | relative_url}}{{link.href}}'{% endif %}>{% assign key=link.title%}{% include t.html %}</a></li>
