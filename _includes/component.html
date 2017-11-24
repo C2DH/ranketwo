@@ -1,0 +1,18 @@
+<div class='component-wrapper {{component.type}} scrollspy'>
+  <div class='lines'>
+    <div class="line left"></div>
+    <div class="line right"></div>
+    <div class='line top'></div>
+    <div class='type'>
+      <span>{{component.type}}</span></div>
+  </div>
+  <div class='container'>
+    <div class='row'>
+      <div class='col-sm-8'>
+      
+      {% include component.{{component.type}}.html %}
+
+      </div>
+    </div>
+  </div>
+</div>
