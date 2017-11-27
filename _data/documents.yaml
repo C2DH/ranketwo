@@ -8,7 +8,7 @@
         author: 'Sebastian Munster'
         date:
             en_us: 1570
-        reference: 'By Sebastian Munster (http://bigthink.com/ideas/21192) [Public domain], via Wikimedia Commons'
+        reference: 'By Sebastian Munster [Public domain](http://bigthink.com/ideas/21192), via Wikimedia Commons'
     url: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Europe_As_A_Queen_Sebastian_Munster_1570.jpg'
     _id: 2af93460fd464c12aaabfc0616945a05
     _resolved: true
@@ -39,7 +39,12 @@
     title: 'Transmutability: Digital Decontextualization, Manipulation, and Recontextualization as a New Source of Value in the Production and Consumption of Culture Products'
     slug: hughes-lang-transmutability-decontextualization
     type: pdf
-    data: {}
+    data:
+        title:
+            en_us: 'Transmutability: Digital Decontextualization, Manipulation, and Recontextualization as a New Source of Value in the Production and Consumption of Culture Products'
+        author: 'J. Hughes, Karl Lang'
+        date:
+            en_us: 2006
     url: 'https://pdfs.semanticscholar.org/42c1/6ffce5745a4cfee1aba0cbe521e45e9fd363.pdf'
     _id: 39712bcf127e485eb6281331055cd987
     _resolved: true

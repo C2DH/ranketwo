@@ -8,6 +8,7 @@ $light-grey: #ccc;
 $yellow: #FAF54F;
 $almost-white: #FCF4D9;
 $white: #ffffff;
+$cyan: cyan;
 
 body{
   background: $white;
@@ -332,4 +333,5 @@ li.author{
 
 }
 
+@import "layouts/literature";
 @import "media-queries";

@@ -1,0 +1,19 @@
+.literature{
+  h3{
+    font-weight: bold;
+    font-size: inherit;
+    line-height: inherit;
+  }
+  li{
+    margin-bottom: 2.5em;
+  }
+
+  a{
+    color: black;
+    text-decoration: underline;
+  
+    &:hover{
+      background-color: $cyan;
+    }
+  }
+}
