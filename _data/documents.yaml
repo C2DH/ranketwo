@@ -1,11 +1,208 @@
 -
-  title: Document Example IN Two Lines or More
-  id: document-example
-  author: Daniele Guido
-  year: 2017
-
+    title: Cosmographia
+    slug: cosmographia
+    type: image
+    data:
+        title:
+            en_us: Cosmographia
+        author: 'Sebastian Munster'
+        date:
+            en_us: 1570
+    url: 'https://en.wikipedia.org/wiki/Europa_regina#/media/File:Europe_As_A_Queen_Sebastian_Munster_1570.jpg'
+    _id: 2af93460fd464c12aaabfc0616945a05
 -
-  title: Document Example B IN Two Lines or More
-  id: document-example-b
-  author: Daniele Guido
-  year: 2017
+    title: 'Zeugnisse Überlebender der Shoah in den digitalen Medien'
+    slug: bothe-zeugnisse-uberlebender-der-shoah
+    type: link
+    data:
+        title:
+            en_us: 'Zeugnisse Überlebender der Shoah in den digitalen Medien'
+        author: 'Alina Bothe'
+        reference: 'Alina Bothe, Zeugnisse Überlebender der Shoah in den digitalen Medien. Eine quellenkritische Reflexion '
+    url: 'http://www.zentrum-juedische-studien.de/person/bothe-alina/publikationen/'
+    _id: 770512837e6d4024b8e0fafa3c2fdf40
+-
+    title: 'PORTRAIT DE L''HISTORIEN-NE EN CYBORG'
+    slug: delalande-vincent-historien-cyborg
+    type: link
+    data:
+        title:
+            en_us: 'PORTRAIT DE L''HISTORIEN-NE EN CYBORG'
+        author: 'Nicolas Delalande, Julien Vincent,'
+        date:
+            en_us: 2011
+    url: 'https://www.cairn.info/revue-d-histoire-moderne-et-contemporaine-2011-5-page-5.htm'
+    _id: f94cf70be5884be4a14db02b8ebd10e2
+-
+    title: 'Transmutability: Digital Decontextualization, Manipulation, and Recontextualization as a New Source of Value in the Production and Consumption of Culture Products'
+    slug: hughes-lang-transmutability-decontextualization
+    type: link
+    data:
+        title:
+            en_us: 'Transmutability: Digital Decontextualization, Manipulation, and Recontextualization as a New Source of Value in the Production and Consumption of Culture Products'
+        author: 'J. Hughes, Karl Lang'
+        date:
+            en_us: 2006
+    url: 'https://pdfs.semanticscholar.org/42c1/6ffce5745a4cfee1aba0cbe521e45e9fd363.pdf'
+    _id: 39712bcf127e485eb6281331055cd987
+-
+    title: 'Towards A New Digital Historicism? Doing History in the Age of Abundance'
+    slug: fickers-towards-digital-historicism-age-abundance
+    type: link
+    data:
+        title:
+            en_us: 'Towards A New Digital Historicism? Doing History in the Age of Abundance'
+        author: 'Andreas Fickers'
+        date:
+            en_us: 2012
+    url: 'http://rdbg.tuxic.nl/euscreen-ojs/index.php/view/article/view/jethc004'
+    _id: ea7f93fb98bc408aa73e21d9c787f391
+-
+    title: 'Information and Digital Literacy'
+    slug: hjorland-information-digital-literacy
+    type: link
+    data:
+        title:
+            en_us: 'Information and Digital Literacy'
+        author: HJorland
+    url: 'http://revistas.ua.pt/index.php/prismacom/article/view/684'
+    _id: 758320d0f3b74b04a4d8c56436bb7436
+-
+    title: 'Digital Forensics and Born-Digital Content in Cultural Heritage'
+    slug: kirschbaum-digital-forensics-cultural-heritage
+    type: pdf
+    data:
+        title:
+            en_us: 'Digital Forensics and Born-Digital Content in Cultural Heritage'
+        author: 'Matthew Kirschbaum'
+    url: 'https://www.clir.org/pubs/reports/pub149/pub149.pdf'
+    _id: d4424e0d72ef4857acac1247bcd56eef
+-
+    title: 'Digitale Daten als Quellen der Geschichtswissenschaft. Eine Einführung.'
+    slug: margulies-digitale-geschichtswissenschaft-einfuhrung
+    type: link
+    data:
+        title:
+            en_us: 'Digitale Daten als Quellen der Geschichtswissenschaft. Eine Einführung.'
+        author: 'Simon Margulies'
+        date:
+            en_us: 2009
+    url: 'https://dg.philhist.unibas.ch/forschung/abschlussarbeiten/detailseite/?tx_x4equalificationgeneral_pi1%5BshowUid%5D=5349'
+    _id: 9b88bf02c05643d1a1b2bc0913d38a5b
+-
+    title: 'OUVRIR L''ATELIER DE L''HISTORIEN. MÉDIAS SOCIAUX ET CARNETS DE RECHERCHE EN LIGNE'
+    slug: mounier-ouvrir-atelier-historien
+    type: link
+    data:
+        title:
+            en_us: 'OUVRIR L''ATELIER DE L''HISTORIEN. MÉDIAS SOCIAUX ET CARNETS DE RECHERCHE EN LIGNE'
+        author: 'Pierrre Mounier'
+        date:
+            en_us: 2011
+    url: 'https://www.cairn.info/revue-d-histoire-moderne-et-contemporaine-2011-5-page-101.htm'
+    _id: c1585fb7c0574e48983b8d1c9cf87c3e
+-
+    title: 'The Evidentiary Basis of Digital History in Companion to Digital History. '
+    slug: owens-digital-sources-digital-archives
+    type: link
+    data:
+        title:
+            en_us: 'The Evidentiary Basis of Digital History in Companion to Digital History. '
+        author: 'Trevor Owens '
+    url: 'https://osf.io/preprints/socarxiv/t5rdy/'
+    _id: 16b646ebeb724f85a38eca75a47ad760
+-
+    title: 'On Crapp detection'
+    slug: rheingold-crapp-detection
+    type: link
+    data:
+        title:
+            en_us: 'On Crapp detection'
+        author: 'Howard Rheingold'
+        date:
+            en_us: 2013
+    url: 'http://rheingold.com/2013/crap-detection-mini-course/ retrieved 1-5-2017.'
+    _id: 0936999249574c35ac3e403dd820db88
+-
+    title: 'Genuine Internetdaten als historischeQuellen – Entwurf einer korrealistischen Quellentheorie'
+    slug: schreiber-genuine-internetdaten-quellen
+    type: link
+    data:
+        title:
+            en_us: 'Genuine Internetdaten als historischeQuellen – Entwurf einer korrealistischen Quellentheorie'
+        author: 'Catharina Schreiber'
+    url: 'http://universaar.uni-saarland.de/journals/index.php/zdg/article/view/292/357'
+    _id: bd6e17063d214cf1825e1589f3f26712
+-
+    title: 'Googling the Archive: Digital Tools and the Practice of History'''
+    slug: solberg-advances-history-rhetoric
+    type: link
+    data:
+        title:
+            en_us: 'Googling the Archive: Digital Tools and the Practice of History'''
+        author: 'Janinen Solberg'
+    url: 'https://doi.org/10.1080/15362426.2012.657052'
+    _id: af7e0f221dc44181b3f8c6c5a536c3b8
+-
+    title: 'Historical Understandings in the Quantum Age'
+    slug: sternfeld-understanding-quantum-age
+    type: link
+    data:
+        title:
+            en_us: 'Historical Understandings in the Quantum Age'
+        author: 'Joshua Sternfeld'
+        date:
+            en_us: 2014
+    url: 'http://journalofdigitalhumanities.org/3-2/historical-understanding-in-thequantum-age'
+    _id: c64e5d54f01b44b9bba7ed6c3c045f55
+-
+    title: 'Digitisation and Digital Resources in the Humanities'
+    slug: terras-digitisation-resources-humanities
+    type: link
+    data:
+        title:
+            en_us: 'Digitisation and Digital Resources in the Humanities'
+        author: 'Melissa Terras '
+        date:
+            en_us: 2012
+    url: 'http://www.facetpublishing.co.uk/title.php?id=047661#.Wdy32EyB364'
+    _id: 18ad38ab609747168e10efe74a96265d
+-
+    title: 'Recontextualisation; ce que les média s numériques font aux documents audiovisuels'
+    slug: treleani-recontextualisation-audiovisuels
+    type: link
+    data:
+        title:
+            en_us: 'Recontextualisation; ce que les média s numériques font aux documents audiovisuels'
+        author: 'Matteo Treleani '
+        date:
+            en_us: 2013
+    url: 'http://www.cairn.info/publications-de-Treleani-Matteo--99590.htm'
+    _id: d42555ec56df48cab0a8c701d7aa7c6d
+-
+    title: 'On Digital History'
+    slug: zaagsma-digital-history
+    type: link
+    data:
+        title:
+            en_us: 'On Digital History'
+        author: 'Gerben Zaagsma '
+        date:
+            en_us: 2013
+    url: 'https://www.bmgn-lchr.nl/articles/abstract/10.18352/bmgn-lchr.9344/'
+    _id: 362375ae41d3485882026c41c25a910e
+-
+    title: code
+    slug: code
+    type: video
+    data:
+        title:
+            en_us: code
+        author: 'Owen Platt'
+        date:
+            en_us: 2009
+        abstract:
+            en_us: 'a conversation between a computer and a morse telegraph key (in the matrix) with dialogue in binary and morse code.'
+    url: 'https://vimeo.com/7254674'
+    _id: d7848fc244874540b92ed38f159d2fec
+    _resolved: true

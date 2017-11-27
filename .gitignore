@@ -4,3 +4,8 @@ _site/
 .jekyll-metadata
 
 scripts/node_modules
+scripts/settings.js
+
+__*.*
+records.json
+package-lock.json
