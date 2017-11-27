@@ -80,12 +80,24 @@ async.waterfall([
         return _d;
       }).forEach(d => {
         console.log(_bl('    merging:'), '/',_ye(d.slug),'/');
-        // last slug win all
-        db.records.update({
-          slug: d.slug, 
-        }, d, {
-          upsert: true
-        })
+        // get if any
+        let org = db.records.findOne({slug: d.slug});
+        if(org){
+          d.data = { ... org.data, ... d.data}
+          db.records.update({
+            _id: org._id, 
+          }, d, {
+            upsert: true
+          })
+        } else{
+          // last slug win all
+          db.records.update({
+            slug: d.slug, 
+          }, d, {
+            upsert: true
+          })
+        }
+
       });
     setImmediate(next);
   },

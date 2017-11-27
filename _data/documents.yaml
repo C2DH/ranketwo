@@ -10,7 +10,7 @@
             en_us: 1570
         reference: 'By Sebastian Munster [Public domain](http://bigthink.com/ideas/21192), via Wikimedia Commons'
     url: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Europe_As_A_Queen_Sebastian_Munster_1570.jpg'
-    _id: 2af93460fd464c12aaabfc0616945a05
+    _id: 48f6a11c22c145ca9d25a3079f697d05
     _resolved: true
 -
     title: 'Zeugnisse Überlebender der Shoah in den digitalen Medien'
@@ -22,7 +22,7 @@
         author: 'Alina Bothe'
         reference: 'Alina Bothe, Zeugnisse Überlebender der Shoah in den digitalen Medien. Eine quellenkritische Reflexion '
     url: 'http://www.zentrum-juedische-studien.de/person/bothe-alina/publikationen/'
-    _id: 770512837e6d4024b8e0fafa3c2fdf40
+    _id: caefa4fe9b084e2e85f60f8986677cea
 -
     title: 'PORTRAIT DE L''HISTORIEN-NE EN CYBORG'
     slug: delalande-vincent-historien-cyborg
@@ -34,7 +34,7 @@
         date:
             en_us: 2011
     url: 'https://www.cairn.info/revue-d-histoire-moderne-et-contemporaine-2011-5-page-5.htm'
-    _id: f94cf70be5884be4a14db02b8ebd10e2
+    _id: 6c6e4addd524490db2a1bc3ad428240d
 -
     title: 'Transmutability: Digital Decontextualization, Manipulation, and Recontextualization as a New Source of Value in the Production and Consumption of Culture Products'
     slug: hughes-lang-transmutability-decontextualization
@@ -46,7 +46,7 @@
         date:
             en_us: 2006
     url: 'https://pdfs.semanticscholar.org/42c1/6ffce5745a4cfee1aba0cbe521e45e9fd363.pdf'
-    _id: 39712bcf127e485eb6281331055cd987
+    _id: f50a193bd7e2405981dd006aefbabd05
     _resolved: true
 -
     title: 'Towards A New Digital Historicism? Doing History in the Age of Abundance'
@@ -59,7 +59,7 @@
         date:
             en_us: 2012
     url: 'http://rdbg.tuxic.nl/euscreen-ojs/index.php/view/article/view/jethc004'
-    _id: ea7f93fb98bc408aa73e21d9c787f391
+    _id: e9d52ee7927144c09335cf4fe5d29442
 -
     title: 'Information and Digital Literacy'
     slug: hjorland-information-digital-literacy
@@ -69,7 +69,7 @@
             en_us: 'Information and Digital Literacy'
         author: HJorland
     url: 'http://revistas.ua.pt/index.php/prismacom/article/view/684'
-    _id: 758320d0f3b74b04a4d8c56436bb7436
+    _id: 0dad47ed13e847ba9dce31634460bffe
 -
     title: 'Digital Forensics and Born-Digital Content in Cultural Heritage'
     slug: kirschbaum-digital-forensics-cultural-heritage
@@ -79,7 +79,7 @@
             en_us: 'Digital Forensics and Born-Digital Content in Cultural Heritage'
         author: 'Matthew Kirschbaum'
     url: 'https://www.clir.org/pubs/reports/pub149/pub149.pdf'
-    _id: d4424e0d72ef4857acac1247bcd56eef
+    _id: 4d424b1f6f734758ab743f600091c2ba
     _resolved: true
 -
     title: 'Digitale Daten als Quellen der Geschichtswissenschaft. Eine Einführung.'
@@ -92,7 +92,7 @@
         date:
             en_us: 2009
     url: 'https://dg.philhist.unibas.ch/forschung/abschlussarbeiten/detailseite/?tx_x4equalificationgeneral_pi1%5BshowUid%5D=5349'
-    _id: 9b88bf02c05643d1a1b2bc0913d38a5b
+    _id: 19aa23edd8a04f868e2adbe9710751c5
 -
     title: 'OUVRIR L''ATELIER DE L''HISTORIEN. MÉDIAS SOCIAUX ET CARNETS DE RECHERCHE EN LIGNE'
     slug: mounier-ouvrir-atelier-historien
@@ -104,7 +104,7 @@
         date:
             en_us: 2011
     url: 'https://www.cairn.info/revue-d-histoire-moderne-et-contemporaine-2011-5-page-101.htm'
-    _id: c1585fb7c0574e48983b8d1c9cf87c3e
+    _id: 57169de0b0924a38a97f77d07a20076f
 -
     title: 'The Evidentiary Basis of Digital History in Companion to Digital History. '
     slug: owens-digital-sources-digital-archives
@@ -114,7 +114,7 @@
             en_us: 'The Evidentiary Basis of Digital History in Companion to Digital History. '
         author: 'Trevor Owens '
     url: 'https://osf.io/preprints/socarxiv/t5rdy/'
-    _id: 16b646ebeb724f85a38eca75a47ad760
+    _id: ed72c1a916e94f338a03346c2971b84f
 -
     title: 'On Crapp detection'
     slug: rheingold-crapp-detection
@@ -126,7 +126,7 @@
         date:
             en_us: 2013
     url: 'http://rheingold.com/2013/crap-detection-mini-course/ retrieved 1-5-2017.'
-    _id: 0936999249574c35ac3e403dd820db88
+    _id: 6fea1b050a1d46179924fc715ee30e19
 -
     title: 'Genuine Internetdaten als historischeQuellen – Entwurf einer korrealistischen Quellentheorie'
     slug: schreiber-genuine-internetdaten-quellen
@@ -136,7 +136,7 @@
             en_us: 'Genuine Internetdaten als historischeQuellen – Entwurf einer korrealistischen Quellentheorie'
         author: 'Catharina Schreiber'
     url: 'http://universaar.uni-saarland.de/journals/index.php/zdg/article/view/292/357'
-    _id: bd6e17063d214cf1825e1589f3f26712
+    _id: fcf82b63edab41c8b8707f16162c63de
 -
     title: 'Googling the Archive: Digital Tools and the Practice of History'''
     slug: solberg-advances-history-rhetoric
@@ -146,7 +146,7 @@
             en_us: 'Googling the Archive: Digital Tools and the Practice of History'''
         author: 'Janinen Solberg'
     url: 'https://doi.org/10.1080/15362426.2012.657052'
-    _id: af7e0f221dc44181b3f8c6c5a536c3b8
+    _id: 66f45015005b45059a601f2fc62cdd99
 -
     title: 'Historical Understandings in the Quantum Age'
     slug: sternfeld-understanding-quantum-age
@@ -158,7 +158,7 @@
         date:
             en_us: 2014
     url: 'http://journalofdigitalhumanities.org/3-2/historical-understanding-in-thequantum-age'
-    _id: c64e5d54f01b44b9bba7ed6c3c045f55
+    _id: 130f4e3b075b407dae9d0fb34f6eb222
 -
     title: 'Digitisation and Digital Resources in the Humanities'
     slug: terras-digitisation-resources-humanities
@@ -170,7 +170,7 @@
         date:
             en_us: 2012
     url: 'http://www.facetpublishing.co.uk/title.php?id=047661#.Wdy32EyB364'
-    _id: 18ad38ab609747168e10efe74a96265d
+    _id: e18fe3ea7b2e49d4a2fd6d6f879684cf
 -
     title: 'Recontextualisation; ce que les média s numériques font aux documents audiovisuels'
     slug: treleani-recontextualisation-audiovisuels
@@ -182,7 +182,7 @@
         date:
             en_us: 2013
     url: 'http://www.cairn.info/publications-de-Treleani-Matteo--99590.htm'
-    _id: d42555ec56df48cab0a8c701d7aa7c6d
+    _id: d515a385468842ef8d307263b7d29b64
 -
     title: 'On Digital History'
     slug: zaagsma-digital-history
@@ -194,12 +194,35 @@
         date:
             en_us: 2013
     url: 'https://www.bmgn-lchr.nl/articles/abstract/10.18352/bmgn-lchr.9344/'
-    _id: 362375ae41d3485882026c41c25a910e
+    _id: 8497bb755c2b4149b9fe424daa94ce2d
 -
     title: code
     slug: code
     type: video
     data:
+        embed:
+            provider_url: 'https://vimeo.com/'
+            thumbnail_height: 480
+            author_name: 'Owen Platt'
+            height: 480
+            thumbnail_url: 'https://i.vimeocdn.com/video/30601280_640.jpg'
+            upload_date: '2009-10-25 18:55:23'
+            width: 640
+            description: 'a conversation between a computer and a morse telegraph key (in the matrix) with dialogue in binary and morse code.'
+            uri: /videos/7254674
+            title: code
+            duration: 94
+            video_id: 7254674
+            url: 'https://vimeo.com/7254674'
+            author_url: 'https://vimeo.com/omplatt'
+            is_plus: '0'
+            account_type: basic
+            type: video
+            html: '<iframe src="https://player.vimeo.com/video/7254674" width="640" height="480" frameborder="0" title="code" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
+            thumbnail_url_with_play_button: 'https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F30601280_640.jpg&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png'
+            thumbnail_width: 640
+            provider_name: Vimeo
+            version: '1.0'
         title:
             en_us: code
         author: 'Owen Platt'
@@ -208,5 +231,5 @@
         abstract:
             en_us: 'a conversation between a computer and a morse telegraph key (in the matrix) with dialogue in binary and morse code.'
     url: 'https://vimeo.com/7254674'
-    _id: d7848fc244874540b92ed38f159d2fec
+    _id: c4972e115d944794a93dd1252e800c48
     _resolved: true
