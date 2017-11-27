@@ -6,7 +6,10 @@
     <div class='col-sm-4'>
       <div class='h-100 d-inline-block'>
         <div class='clip'>
-          {{clips[0].title}}
+          {% assign covers = site.data.documents | where: "slug", clips[0].documents[0] %}
+          {% if covers %}
+          {{covers[0].data.embed.html}}
+          {% endif %}
         </div>
       </div>
     </div>
