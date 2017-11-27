@@ -130,6 +130,18 @@ async.waterfall([
               console.log(_gr('    v'), _bl('Noembed request success!\n      - provider_url:'), body.provider_url)
       
               record.data.embed = body;
+
+              // update html iframe if any
+              if(record.data.embed.html){
+                record.data.embed.html = record.data.embed.html.replace(/(<iframe [^>]+)width=["']*([^"'\s]+)["']*/, function(m,a,b) {
+                  return a + ' width="100%"';//
+                }).replace(/(<iframe [^>]+)height=["']*([^"'\s]+)["']*/, function(m,a,b) {
+                  
+                  return a + ' height="100%"';//
+                })
+                
+              }
+              
               record._resolved = true;
               db.records.update({
                 _id: record._id
