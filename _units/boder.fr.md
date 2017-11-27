@@ -1,8 +1,11 @@
 ---
 title: David Boder et ses Wire Recordings
 layout: unit
-tags: holocaust studies, media studies
-author: steff
+tags: 
+  - holocaust studies
+  - media studies
+authors: 
+  - stefania-scagliola
 lang: fr
 link: /u/boder/
 permalink: /fr/u/boder/

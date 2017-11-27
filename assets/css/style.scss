@@ -32,7 +32,11 @@ a{
     color: $black;
 }
 
-
+ul{
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
 
 /* ID speecific */
 #table-of-contents-wrapper{
@@ -107,10 +111,23 @@ a{
 }
 
 .navbar{
-  padding: 2rem 0;
+  padding: 50px 0 0 0;
 
+  &.navbar-last{
+    padding-top: 25px;
+    padding-bottom: 50px;
+  }
+  ul{
+    padding:0
+  }
   ul li{
     padding: 0 1rem;
+    &.first{
+      padding-left: 0;
+    }
+    &.last{
+      padding-right: 0;
+    }
   }
 
 
@@ -127,6 +144,20 @@ a{
   background: #ccc;
 }
 
+/*
+  list of
+*/
+ul.list-of{
+  list-style-type: none;
+  padding: 0;
+  margin: 20px 0 0 0;
+
+  > li{
+    margin: 0 0 20px 0
+  }
+
+
+}
 
 /* clip */
 .component {
@@ -186,7 +217,20 @@ a{
 
 }
 
+.type{
+  border: 2px solid $almost-black;
+  
+  height: 25px;
+  
+  line-height: 20px;
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
 
+  > span{
+    padding: 0 8px;
+  }
+}
 
 .lines{
     position:absolute;
@@ -195,20 +239,11 @@ a{
     width: 100%;
 
     .type{
-      border: 2px solid $almost-black;
       position: absolute;
-      height: 25px;
       right: 0px;
       top: -25px;
-      line-height: 20px;
-      font-size: 13px;
-      font-weight: 700;
-      text-transform: uppercase;
-
-      > span{
-        padding: 0 8px;
-      }
     }
+    
 
     .line{
       position: absolute;
@@ -236,6 +271,65 @@ a{
   }
 
 
+li.unit{
+  
+  .clip{
+    height: 100%;
+    background-color: $almost-black;
+  }
 
+  .metadata{
+    min-height: 100px;
+
+  }
+  h2{
+    font-size: 1.2em;
+    line-height: inherit;
+    font-weight: bold;
+  }
+
+  .authors{
+    margin-top: 1em;
+  }
+
+  table.list-of.subunits{
+    margin-left: 1em;
+    td{
+      padding: 1em;
+      vertical-align: middle;
+    }
+    h4{
+      font-size: inherit;
+      line-height: inherit;
+      font-weight: bold;
+      margin:0;
+      padding:0;
+    }
+    p{
+      margin: 0;
+      padding: 0;
+    }
+  }
+
+}
+
+li.author{
+  list-style-type: none;
+  h3{
+    font-size: inherit;
+    line-height: inherit;
+    font-weight: bold;
+        padding: 0;
+    margin: 0;
+  }
+  .picture{
+    background-size: contain;
+    height: 45px;
+    width: 45px;
+    // float: left;
+    margin-right: 1em;
+  }
+
+}
 
 @import "media-queries";

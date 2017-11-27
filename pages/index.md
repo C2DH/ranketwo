@@ -3,10 +3,10 @@ layout: index
 lang: en
 permalink: /
 link: /
-title: ranke.2
+title: very nice website, pal.
 ---
 
-hello
+a brief history of time.
 <!-- more -->
 
-hello
+

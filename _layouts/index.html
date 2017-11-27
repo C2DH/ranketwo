@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class='container'>
-    <div id='wrapper'>
+  <div id='wrapper'>
 
     <h1>{{page.title}}</h1>
 
@@ -12,18 +12,10 @@ layout: default
       {{paragraphs[1]}}
     </div>
 
-    <ul>
-      {% assign units = site.units|where:"layout","unit" %}
+    <ul class="list-of units">
+      {% assign units = site.units|where:"layout","unit"|where:"lang", page.lang %}
       {% for unit in units%}
-      <li>
-        <a href='{{unit.url | relative_url}}'>{{unit.title}}</a>
-        {% assign subunits = site.units|where:"parent",unit.slug %}
-        <ul>
-          {% for subunit in subunits%}
-          <li>{{subunit.title}} - {{subunit.url}}</li>
-          {% endfor %}
-        </ul>
-      </li>
+      {% include li.unit.html %}
       {% endfor %}
     </ul>
   </div>

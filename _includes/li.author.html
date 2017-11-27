@@ -1,0 +1,18 @@
+
+{% assign _authors = site.authors | where: "slug", author %}
+{% assign _author = _authors[0] %}
+
+
+<li class='author'>
+  <table>
+    <tr>
+      <td><div class="picture" style='background-image: url({{ _author.picture | relative_url}});'></div>
+        
+      </td>
+      <td class='align-middle'>
+        <h3>{% if unit %}<span style='font-weight: normal'>{% assign key="by"%}{% include t.html %}</span>{% endif %}{{_author.title}}</h3>
+        {% if unit %} <div>{{unit.date | date: '%d/%m, %Y' }}</div>{% endif %}
+      </td>
+    </tr>
+  </table>
+</li>

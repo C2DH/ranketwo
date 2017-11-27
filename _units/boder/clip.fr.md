@@ -1,10 +1,11 @@
 ---
 title: David Boder, from wire recorder to website
 type: clip
-parent: boder
+parent: boder.fr
 duration: 5
 ---
-This is the small boder don't boder.
+
+This is the small boder don't boder. (fr version)
 
 <!-- more --> 
 David Boder, from wire recorder to website

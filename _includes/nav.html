@@ -1,10 +1,6 @@
 <div class="container">
-  <nav class="navbar navbar-light bg-faded">
+  <nav class="navbar navbar-light bg-faded ">
       <a class="navbar-brand{% if page.link == "/" %} active{% endif %}"  {% if page.lang == site.default_lang %} href='{{"/" | absolute_url}}'' {% else %} href="{{page.lang | absolute_url}}/" {% endif %}>{{site.title}}</a>
-    
-
-    
-    
 
     <div>
       {% for lang in site.languages %}
@@ -13,14 +9,14 @@
     </div>
   </nav>
   
-  <nav class="navbar navbar-light bg-faded">
-    <ul class="nav navbar">
+  <nav class="navbar navbar-light bg-faded navbar-last">
+    <ul class="nav">
     {% for link in site.data.navigation.primary.links %}
       {%include link.html%}
     {% endfor %}
     </ul>
 
-    <ul class="nav navbar">
+    <ul class="nav">
     {% for link in site.data.navigation.secondary.links %}
       {%include link.html%}
     {% endfor %}

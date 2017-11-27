@@ -1,0 +1,11 @@
+{
+  "name": "ranketwo-scripts",
+  "version": "1.0.0",
+  "description": "A few scripts to handle _data section and to minimize JS resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniele Guido",
+  "license": "ISC"
+}

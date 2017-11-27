@@ -11,3 +11,15 @@ all stories:
   en: all stories
   fr: voir memoires
   pt: "?"
+by:
+  en: by
+  fr: de
+type.clip:
+  en: C & Q
+  fr: C & Q
+type.lesson:
+  en: M
+  fr: M
+type.reference:
+  en: Ref.
+  fr: Réf.

@@ -1,8 +1,13 @@
 ---
 title: Transformation
 layout: unit
-tags: tag1, tag2
-author: Stefania
+tags: 
+  - tag1
+  - tag2
+authors: 
+  - stefania-scagliola
+lang: en
+link: /u/transformation/
 ---
 
 intro unita e intro clip (snippet)

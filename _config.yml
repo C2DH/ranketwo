@@ -11,3 +11,6 @@ collections:
   units:
     output: true
     permalink: /u/:path/
+  authors:
+    output: true
+    permalink: /a/:path/
