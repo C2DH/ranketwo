@@ -3,10 +3,10 @@ layout: index
 lang: en
 permalink: /
 link: /
-title: very nice website, pal.
+title: A series of lessons on Digital Source Criticism
 ---
 
-a brief history of time.
+
 <!-- more -->
 
 
