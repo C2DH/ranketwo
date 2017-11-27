@@ -8,8 +8,10 @@
         author: 'Sebastian Munster'
         date:
             en_us: 1570
-    url: 'https://en.wikipedia.org/wiki/Europa_regina#/media/File:Europe_As_A_Queen_Sebastian_Munster_1570.jpg'
+        reference: 'By Sebastian Munster (http://bigthink.com/ideas/21192) [Public domain], via Wikimedia Commons'
+    url: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Europe_As_A_Queen_Sebastian_Munster_1570.jpg'
     _id: 2af93460fd464c12aaabfc0616945a05
+    _resolved: true
 -
     title: 'Zeugnisse Überlebender der Shoah in den digitalen Medien'
     slug: bothe-zeugnisse-uberlebender-der-shoah
@@ -36,15 +38,11 @@
 -
     title: 'Transmutability: Digital Decontextualization, Manipulation, and Recontextualization as a New Source of Value in the Production and Consumption of Culture Products'
     slug: hughes-lang-transmutability-decontextualization
-    type: link
-    data:
-        title:
-            en_us: 'Transmutability: Digital Decontextualization, Manipulation, and Recontextualization as a New Source of Value in the Production and Consumption of Culture Products'
-        author: 'J. Hughes, Karl Lang'
-        date:
-            en_us: 2006
+    type: pdf
+    data: {}
     url: 'https://pdfs.semanticscholar.org/42c1/6ffce5745a4cfee1aba0cbe521e45e9fd363.pdf'
     _id: 39712bcf127e485eb6281331055cd987
+    _resolved: true
 -
     title: 'Towards A New Digital Historicism? Doing History in the Age of Abundance'
     slug: fickers-towards-digital-historicism-age-abundance
@@ -77,6 +75,7 @@
         author: 'Matthew Kirschbaum'
     url: 'https://www.clir.org/pubs/reports/pub149/pub149.pdf'
     _id: d4424e0d72ef4857acac1247bcd56eef
+    _resolved: true
 -
     title: 'Digitale Daten als Quellen der Geschichtswissenschaft. Eine Einführung.'
     slug: margulies-digitale-geschichtswissenschaft-einfuhrung

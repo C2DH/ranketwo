@@ -13,5 +13,8 @@ module.exports = {
     documents:{
       path: '../_data/documents.yaml'
     }
+  },
+  contents: {
+    path: './__contents'
   }
 }

@@ -3,6 +3,7 @@ const fs          = require('fs'),
       db          = require('diskdb'),
       ns          = require('nested-structure'),
       clc         = require('cli-color'),
+      path        = require('path'),
       YAML        = require('yamljs'),
       async       = require('async'),
       request     = require('request'),
@@ -99,10 +100,10 @@ async.waterfall([
       
     let q = async.queue((record, callback) => {
         record.data = {}
+        console.log(_bl('    type:'),_ye(record.type),_bl('- url:'), record.url);
 
         if(record.type == 'video') {
-          console.log(_bl('    type:'),_ye(record.type),_bl('- url:'), record.url);
-
+          
         
           // youtube video or vimeo video, oembeddable.
           // enrich with oembed
@@ -125,12 +126,33 @@ async.waterfall([
             
             callback();
           })
-        } else if(record.type == 'pdf') {
-          // download pdf image in cache folder and use google drive pdf viewer
-          setImmediate(callback);
-        } else if(record.type == 'image') {
-          // download image in cache folder.
-          setImmediate(callback);
+        } else if(record.type == 'pdf' || record.type == 'image') {
+          let filepath = path.join(settings.contents.path, record.slug + path.extname(record.url));
+          request
+            .get({
+              url: record.url,
+              rejectUnauthorized: false
+            })
+            .on('error', (err) => {
+              console.log(err)
+              callback();
+            })
+            .on('response', (res) => {
+              console.log(_bl('    ... status:'),res.statusCode, _bl('\n    ... content-type:'), res.headers['content-type']) // 'image/png'
+              
+            })
+            .on('end', (res) => {
+              console.log(_gr('    v'), _bl('Request success!\n      - local file:'), filepath)
+
+              record._resolved = true;
+
+              db.records.update({
+                _id: record._id
+              }, record);
+
+              callback();
+            })
+            .pipe(fs.createWriteStream(filepath));
         } else {
           console.log(_bl('    type:'),_ye(record.type),'not supported yet, skypping');
 

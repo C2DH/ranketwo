@@ -7,5 +7,6 @@ scripts/node_modules
 scripts/settings.js
 
 __*.*
+__*
 records.json
 package-lock.json
