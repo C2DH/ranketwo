@@ -15,6 +15,8 @@ A series of Lessons on Holocaust Testimonies and Media Technology, to apply Digi
 
 <!-- more -->
 
+## Applying source criticism to accounts on the HOLOCAUST published on the web 
+
 In the clip you have just viewed you have been introduced to the very first recordings of testimonies of concentration camp survivors by David Boder and to how they have been transformed into a web resource. In the following lessons special attention will be given to this collection, but the overall approach is to more in general address the interplay between political agency and progress in media technology with regard to  audiovisual representations of accounts on the Holocaust in digital form. The objective is to teach students how to apply source criticism on audiovisual testimonies on the Holocaust that are retrievable on the web. Five iconic recordings of narratives and images of the Holocaust that can be found online, are the reference frame for the assignments. The following recordings have been created in different time periods, by different actors, with different technologies and different goals, and have all been recontextualised as digital objects on the web: 
 
 1. the very first footage shot by the US army right after the liberation of concentration camps in Germany in spring 1945, 
