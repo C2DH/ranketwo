@@ -1,18 +1,22 @@
 ---
-title: Transformation
+title: Transformation; how the digital creates new realities 
 layout: unit
 tags: 
-  - tag1
-  - tag2
+  - digital technology 
+  - manipulation
+  - transformation
+  - remix
+  - illusions
+  - exact copies
 authors: 
   - stefania-scagliola
 lang: en
 link: /u/transformation/
 ---
 
-intro unita e intro clip (snippet)
+
 
 <!-- more -->
 
-intro differenti lezioni
+
  
