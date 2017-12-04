@@ -3,7 +3,14 @@ title: An Exercise in Self-reflection
 type: assignment
 parent: lesson-01
 documents: 
-  - document-example
+  - hughes-lang-transmutability
+  - Juergens-Scent-Digital-Dilemmas
+  - Lagoze-Big-Data-integrity- control 
+  - Latham-Criticism-Digital-Reproduction
+  - Owens-Sources-Evidentiary-Digital-History 
+  - Schreiber-Genuine-Internetdaten-korrealistischen-Quellentheorie
+  - Sternfeld-Historical-Understandings-Quantum-Age
+  - kuhn-web-three-point-virtual-real
 ---
 
 An Exercise in Self-reflection: Personalizing and Localizing the topic (1,5 hour - BA -  laptop)
