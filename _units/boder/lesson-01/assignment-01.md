@@ -30,7 +30,15 @@ Find out and document whether there is a commemoration and/or monument related t
 
 [](/d/document-example)
 
-Find out and document whether there is a museum, archive or documentation centre in your neighbourhood, town, region or country that covers this topic and has a special collection of historical documents. What is it about? Does it include personal testimonies such as diaries, letters, memoirs, oral histories? 
-Find out and document when the subject of the concentration camps with accounts of testimonies was first represented in newspapers, radio and television in your region, town and/country. In most countries National Libraries and Broadcasting Corporations have a published a digitized corpus or the catalogue of their material online. 
- Write a blog of max 750 words on the basis of your findings. Include 3 images. Click here for info about how to write a blog (before you start reading/listening, 
- reflect on why you would trust the information on this website) 
+Find out and document whether there is a museum, archive or documentation centre in your neighbourhood, town, region or country that covers this topic and has a special collection of historical documents. 
+What is it about? Does it include personal testimonies such as diaries, letters, memoirs, oral histories? 
+Find out and document when the subject of the concentration camps with accounts of testimonies was first represented in newspapers, radio and television in your region, town and/country. 
+In most countries National Libraries and Broadcasting Corporations have a published a digitized corpus or the catalogue of their material online. 
+
+image germans murder  - image eichmann - image holocaust tv series 
+  
+ Write a blog of max 750 words on the basis of your findings.
+ Click here to listen to a podcast with prof. Tim Hitchkock about introducing blogging into the historical practice 
+ Click here for a series of lessons to teach students how to write a blog. Add 3 images to your blog
+ Click here to learn how to deal with copyright on the web. 
+ Open another Padlet page, where you can post your blogs.  
