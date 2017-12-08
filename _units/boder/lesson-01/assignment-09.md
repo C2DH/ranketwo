@@ -4,7 +4,7 @@ type: assignment
 parent: lesson-01
 ---
 Read Annette Wieviorka’s The Era of the Witness, Cornell University Press, 2006, 192 pages.                 
-
+[](doc/wieviorka-era-witness)
 
 Create an account to create an  online noticeboard  in which you can  collaborate with others: [padlet](www.padlet.com) 
 Make a summary of each chapter in a separate space.  This can be created by clicking on the + on the right lower side. 
