@@ -11,7 +11,7 @@ Try and find additional information in the archive, articles/photos of historica
 Complement your research done for assignment 2. with a brief description of 500 words of what you have found in the archive (content) and a photo of it. 
 Complement the table created in assignment 2, by completing additional fields with your findings  about the differences between web research and real life research in an archive (method). 
 
-image monument jewish children - image monument Berlin 
+[]()image monument jewish children - image monument Berlin 
 
 
 
