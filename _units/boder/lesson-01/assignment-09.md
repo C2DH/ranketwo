@@ -2,6 +2,8 @@
 title: Reading and annotating 
 type: assignment
 parent: lesson-01
+documents:
+- wieviorka-era-witness
 ---
 Read Annette Wieviorka’s The Era of the Witness, Cornell University Press, 2006, 192 pages.                 
 [](doc/wieviorka-era-witness)
