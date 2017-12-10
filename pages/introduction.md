@@ -30,7 +30,7 @@ next to that: ball-63527_1920.jpg
 
 [](/d/document-example-b) 
 
-## the need to learn new skills
+## The need to learn new skills
 
 But there is more they need to master. Now that huge amounts of data can be collected and processed in no time, from any place with access to the web, regardless of the physical limitations of what a human brain alone can handle, historians need the skills to deal with changes in terms of scale, speed and spatial context. 
 
