@@ -10,9 +10,9 @@ documents:
 ---
  
 
- Each TEACHING UNIT consists of a Metadata Scheme, a Clip & Quiz,  a Lesson, and a Workshop 
+ Each **TEACHING UNIT** consists of a **Metadata Scheme**, a **Clip & Quiz**,  a **Lesson**, and a **Workshop** 
 
-METADATA     
+**METADATA**     
 
 The metadata scheme describes the characteristics of the teaching unit:
 1. Tags about the topic, discipline and source type
@@ -22,13 +22,13 @@ The metadata scheme describes the characteristics of the teaching unit:
 
 
 
-C & Q  - ⟴    
+**C & Q ** - ⟴    
 CLIP AND QUIZ 
 
 The Clip consists of an animation, a web-lecture,a podcast or slideshow with voice- over. You can also choose to watch an interactive version of the clip with a quiz or assignment. Watching the enlarged version takes a maximum of 10 minutes, which makes it suitable  to use in the classroom to get to  know the subject, or as homework or as an introduction to a topic. It has a low threshold and is geared towards a general audience. It also contains instructions on how to use the quiz tool with alternative videos of your choice. 
 
 
-L   - ⟴    
+**L **  - ⟴    
 LESSON WITH ASSIGNMENTS  
 
 
@@ -42,7 +42,7 @@ A structuring and comparing assignment
 A  digital creation assignment 
 
 
-W  - ⟴    
+**W ** - ⟴    
 WORKSHOP 
 
 Workshop description containing a variety of teaching resources for organizing a workshop of 2 or 3 consecutive days in which a group of students creates a multimodal digital publication in the form of a digital map, an e-book, a podcast, a video-essay, or an enhanced publication. 
