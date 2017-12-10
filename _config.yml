@@ -4,7 +4,7 @@ languages: ["en", "fr", "de"]
 excerpt_separator: '<!-- more -->'
 
 permalink: /:lang/:title.html
-title: RankeTwo
+title: Teaching Digitial Source Criticism
 
 exclude: [scripts/]
 collections:

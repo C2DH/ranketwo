@@ -1,6 +1,7 @@
 ---
 title: David Boder & his Wire Recordings
-layout: unit
+type: introduction
+parent: boder
 tags: 
   - holocaust studies
   - media studies

@@ -1,8 +1,11 @@
 ---
-title: Collecting data away from the screen; interviewing your relatives (3 to 4 hours - BA - laptop -  smart phone)
+title: Collecting data away from the screen
 type: assignment
 parent: lesson-01
 ---
+
+Interviewing your relatives (3 to 4 hours - BA - laptop -  smart phone)
+<!-- more -->
 
 Bring the images along that you have collected in the archive for the next part of the assignment 
 Interview your parents and grandparents or other people you know well, belonging to different generations. Use a voice recorder to conduct at least 2 short interviews of about 10 min about how the narrator got acquainted with the subject of the Holocaust. Try and get as much historical context as possible: age, time and place, situation, peers, medium, reaction. You can use the scans of the front pages/articles/photos to stimulate the memory of your interviewees, but take into account the age and background of your interviewee to assess whether the newspaper article/photo will be recognized. This reminiscence method is  a well known technique to make people’s memories resurface or to trigger associations. 

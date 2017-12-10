@@ -111,11 +111,21 @@ ul{
 
 }
 
+.navbar-brand{
+  // font-size: inherit;
+  font-weight: bold;
+  border-bottom: 2px solid;
+  a{
+    padding: 0 10px;
+  }
+
+}
+
 .navbar{
   padding: 50px 0 0 0;
 
   &.navbar-last{
-    padding-top: 25px;
+    padding-top: 10px;
     padding-bottom: 50px;
   }
   ul{
@@ -227,7 +237,7 @@ ul.list-of{
   font-size: 13px;
   font-weight: 700;
   text-transform: uppercase;
-
+  white-space: nowrap;
   > span{
     padding: 0 8px;
   }
@@ -333,5 +343,5 @@ li.author{
 
 }
 
-@import "layouts/literature";
+@import "layouts/literature", "layouts/unit";
 @import "media-queries";

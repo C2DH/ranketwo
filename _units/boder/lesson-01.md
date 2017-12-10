@@ -1,5 +1,6 @@
 ---
 title: Lesson 1 - Reflecting on knowledge production about Holocaust experiences
+type: lesson
 duration: 4 hours in total 
 parent: boder
 lang: en

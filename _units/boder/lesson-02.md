@@ -1,5 +1,6 @@
 ---
 title: Lesson 2 - 
+type: lesson
 duration: 4 hours in total 
 parent: boder
 lang: en
