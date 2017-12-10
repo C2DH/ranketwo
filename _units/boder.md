@@ -1,5 +1,5 @@
 ---
-title: David Boder & his Wire Recordings; source criticism applied to testimonies on the Holocaust published on the web 
+title: David Boder & his wire recordings;source criticism applied to Holocaust testimonies on the web 
 layout: unit
 tags: 
   - holocaust studies
