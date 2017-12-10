@@ -3,7 +3,7 @@ layout: page
 lang: en
 permalink: /introduction/
 link: /introduction/
-title: introduction
+title: 
 documents:
   - document-example
   - document-example-b
