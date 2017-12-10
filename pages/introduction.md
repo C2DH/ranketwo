@@ -3,11 +3,13 @@ layout: page
 lang: en
 permalink: /introduction/
 link: /introduction/
-title: **Teaching Digital Source Criticism** is a platform that offers lessons that deal with the impact of digitization and of the world wide web on the practice of historical research 
+title: introduction
 documents:
   - document-example
   - document-example-b
 ---
+ 
+ **Teaching Digital Source Criticism** is a platform that offers lessons that deal with the impact of digitization and of the world wide web on the practice of historical research 
  
 <!-- more -->
 Questioning the authenticity of a document  by finding out who created it, at which time, for which purpose and in which context, has always formed the basis of critical historical scholarship. Now that we have unlimited access to data through the web, either to digital born or retro-digitized material, an additional layer of manipulation and interpretation needs to be questioned. 
