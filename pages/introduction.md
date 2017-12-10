@@ -20,11 +20,21 @@ A digital text, image or recording, may appear to be similar to its analog versi
 
 Taking the analog object out of its original context, whether a private household, an archive, museum or library,  converting it to digits, enriching the result with meta data, and publishing it online so that  Google can index it, means that the object has undergone a whole series of changes that affect its appearance and informative value. Historians of the 21st century who will increasingly be dependent on digital data and non-textual sources, need to be aware of these changes and of the specific nature of digital objects.
 
+image:DBPB_1970_377_Leopold_von_Ranke.jpg - caption: German historian Leopold von Ranke is attributed the role of introducing source criticism into the university
+
+next to that: WikiXDC_National_Archives_Tour_Hall_-_Stierch.jpg - caption: storage in the national archives in Washington DC
+
+next to that: Digitalisation_in_National_Centre_of_Manuscripts_of_Georgia.jpg - caption: the scanning of a manuscript at the Georgian Institute of Manuscripts
+
+next to that: ball-63527_1920.jpg 
+
 [](/d/document-example-b) 
 
 ## the need to learn new skills
 
-But there is more they need to master. Now that huge amounts of data can be collected and processed in no time, from any place with access to the web, regardless of the physical limitations of what a human brain alone can handle, historians need the skills to deal with changes in terms of scale, speed and spatial context. In a way this could be compared to how the introduction of the microscope and telescope in the 16th century, changed the scale at which phenomena could be perceived and studied. Moreover, applying digital methods to historical data, brings two worlds together that traditionally were each other’s opposites:  that of unique human lived experiences and expressions and that of mathematical calculations that can be reproduced. Combining the best of both worlds therefore asks for a broad variety of skills, a hybrid approach. 
+But there is more they need to master. Now that huge amounts of data can be collected and processed in no time, from any place with access to the web, regardless of the physical limitations of what a human brain alone can handle, historians need the skills to deal with changes in terms of scale, speed and spatial context. 
+
+In a way this could be compared to how the introduction of the microscope and telescope in the 16th century, changed the scale at which phenomena could be perceived and studied. Moreover, applying digital methods to historical data, brings two worlds together that traditionally were each other’s opposites:  that of unique human lived experiences and expressions and that of mathematical calculations that can be reproduced. Combining the best of both worlds therefore asks for a broad variety of skills, a hybrid approach. 
 
 Consequently the  lessons we offer are a crossover between history, archival studies, ancillary sciences, information science and computer science.  In our view this multidisciplinary approach is necessary to foster a new generation of digital savvy scholars, who ask the right questions to digital content and are able to organize, analyse and present digital data with the help of digital tools. 
 
