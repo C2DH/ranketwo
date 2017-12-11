@@ -33,27 +33,36 @@ If a particular language with regard to such a topic is dominant on the web, wha
 
 Complete this table with your findings. 
 
-| | |
-|---|---|
-| What information might be missing on the web and why? | |
-|---|---|
-| What information might be missing on the web with regard to the previous questions and why? ||
-|---|---|
-| How have you changed your search strategy after reading the tips for improving your search results? ||
-|---|---|
-| Document what you have found out about oral history testimonies/memoirs/diaries  about the Holocaust in your village/town/region/country ||
-|---|---|
-| Document what you have found out about commemorations/monuments in your village/town/region/country ||
-|---|---|
-| If your search was not successful, what does this say about the historical relevance of this topic for the community in which you live/work? ||
-|---|---|
-| Does the historian have a special responsibility with regard to disseminating knowledge about this subject? ||
-|---|---|
-| To what extent is knowledge about the topic bound to language? ||
-|---|---|
-
-
-
+<table>
+  <tr>
+    <th>What information might be missing on the web and why?</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>What information might be missing on the web with regard to the previous questions and why?</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>How have you changed your search strategy after reading the tips for improving your search results?</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Document what you have found out about oral history testimonies/memoirs/diaries about the Holocaust in your village/town/region/country</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>If your search was not successful, what does this say about the historical relevance of this topic for the community in which you live/work?</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Does the historian have a special responsibility with regard to disseminating knowledge about this subject?</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>To what extent is knowledge about the topic bound to language? </th>
+    <td></td>
+  </tr>
+</table>
 
 
 
