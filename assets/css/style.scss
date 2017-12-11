@@ -351,5 +351,21 @@ li.author{
 
 }
 
+
+table{
+  border: 2px solid;
+  font-size: 0.8em;
+  th {
+    text-align: left;
+    width: 50%;
+    border: 1px solid;
+    padding: 10px;
+    font-weight: normal;
+  }
+  td{
+    width: 50%;
+    border: 1px solid;
+  }
+}
 @import "layouts/literature", "layouts/unit";
 @import "media-queries";
