@@ -4,6 +4,7 @@ layout: default
 {% assign components = site.units|where:"parent",page.slug| sort: 'type'  %}
 {% assign clips = components|where:"type","clip" %}
 {% assign lessons = components|where:"type","lesson" %}
+{% assign introductions = components|where:"type","introduction" %}
 
     
 
@@ -13,7 +14,9 @@ layout: default
     <div class='col-sm-8'>
   <div class='page unit'>
     <h1>{{page.title}}</h1>
-    {{page.tags}}
+    {% for tag in page.tags %}
+    <a href="/">{{tag}}</a>{% unless forloop.last %}&nbsp;&mdash;{% endunless %}
+    {% endfor %}
     {% assign paragraphs = page.content | split: site.excerpt_separator %}
     <div>{{paragraphs[0] | markdownify}}</div>
 
@@ -31,19 +34,11 @@ layout: default
   {% include component.html %}
 {% endfor %}
 
-<div class='component-wrapper introduction scrollspy'>
-<div class='container'>
-  <div class='row'>
-    <div class='col-sm-8'>
-      <div class='page'>
-        <div class='contents' id="contents">
-          {{paragraphs[1] | markdownify}}
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-</div>
+{% for component in introductions %}
+  {% include component.html %}
+
+{% endfor %}
+
 
 {% for component in lessons %}
   {% include component.html %}
@@ -70,6 +65,7 @@ layout: default
           <a><span>{{component.title}}</span></a>
         </li>
       {% endfor %}
+      {% for component in introductions %}
         <li>
           <div class='lines'>
             <div class="group">
@@ -79,6 +75,7 @@ layout: default
           </div>
         <a><span>introduction</span></a>
         </li>
+      {% endfor %}
       {% for component in lessons %}
         <li>
           <div class='lines'>

@@ -113,8 +113,12 @@ ul{
 
 .navbar-brand{
   // font-size: inherit;
-  font-weight: bold;
-  border-bottom: 2px solid;
+      border-bottom: 1px solid;
+    font-size: inherit;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+    line-height: 1;
+
   a{
     padding: 0 10px;
   }
@@ -282,8 +286,8 @@ ul.list-of{
   }
 
 
-li.unit{
-  
+ul.list-of > li.unit{
+  margin-bottom:  50px;
   .clip{
     height: 100%;
     background-color: $almost-black;

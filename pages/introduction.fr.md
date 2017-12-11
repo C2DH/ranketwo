@@ -1,8 +1,8 @@
 ---
 layout: page
 lang: fr
-permalink: /fr/about/
-link: /about/
+permalink: /fr/introduction/
+link: /introduction/
 title: Le projet.
 ---
 

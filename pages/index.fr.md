@@ -3,9 +3,8 @@ layout: index
 lang: fr
 permalink: /fr/
 link: /
-title: Join the harvest (fr)
+title: A series of lessons on Digital Source Criticism
 ---
 
 bonjour!
 <!-- more -->
-weekly challenge..

@@ -1,6 +1,6 @@
 theme: minima
 default_lang: en
-languages: ["en", "fr", "de"]
+languages: ["en", "fr"]
 excerpt_separator: '<!-- more -->'
 
 permalink: /:lang/:title.html

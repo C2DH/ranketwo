@@ -4,19 +4,10 @@
 {% assign lessons = subunits|where:"type","lesson" %}
 <li class="unit">
   <div class='row'>
-    <div class='col-sm-4'>
-      <div class='h-100 d-inline-block'>
-        <div class='clip'>
-          {% assign covers = site.data.documents | where: "slug", clips[0].documents[0] %}
-          {% if covers %}
-          {{covers[0].data.embed.html}}
-          {% endif %}
-        </div>
-      </div>
-    </div>
-    <div class='col-sm-8'>
+    
+    <div class='col-sm-7'>
       <div class="row">
-        <div class='col-sm-8'>
+        <div class='col-sm-12'>
           <div class='metadata'>
             <h2><a href='{{unit.url | relative_url}}'>{{unit.title}}</a></h2>
             <!-- {{unit.link}} {{unit.path}} -->
@@ -29,15 +20,25 @@
             <blockquote>{{unit.excerpt }}</blockquote>
           </div>
         </div>
-        <div class='col-sm-4'>
+        <!-- <div class='col-sm-4'>
           {% for alt_unit in altlanguages %}
               {{alt_unit.lang}}
             {% endfor %}
+        </div> -->
+      </div>
+    </div>
+    <div class='col-sm-5'>
+      <div class='h-100 d-inline-block'>
+        <div class='clip'>
+          {% assign covers = site.data.documents | where: "slug", clips[0].documents[0] %}
+          {% if covers %}
+          {{covers[0].data.embed.html}}
+          {% endif %}
         </div>
       </div>
     </div>
   </div>
-  <div style='position:relative; background: #ccc'>
+  <div style='position:relative; background: #f0f0f0'>
     <div class='lines'>
       <div class='line left'></div>
         <div class='line right'></div>
