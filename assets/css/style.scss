@@ -33,7 +33,8 @@ li.active a, a.active{
   }
 
 a{
-    color: $black;
+  color: $black;
+  text-decoration: underline;
 }
 
 ul{
