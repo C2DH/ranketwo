@@ -22,7 +22,7 @@ Complement your research done for assignment 2. with a brief description of 500 
 
 Complement the table created in assignment 2, by completing additional fields with your findings  about the differences between web research and real life research in an archive (method). 
 
-[]()image monument jewish children - image monument Berlin 
+[](jewish-children)[](berlin-monument)
 
 
 
