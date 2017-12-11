@@ -1,3 +1,4 @@
+
 ---
 title: An Exercise in Self-reflection
 type: assignment
@@ -6,6 +7,7 @@ documents:
 - germans-murder-jews
 - eichmann-tv
 - holocaust-meryl-streep
+ordering: 2
 ---
 
 An Exercise in Self-reflection: Personalizing and Localizing the topic (1,5 hour - BA -  laptop)

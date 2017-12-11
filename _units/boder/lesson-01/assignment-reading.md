@@ -4,6 +4,7 @@ type: assignment
 parent: lesson-01
 documents:
 - wieviorka-era-witness
+ordering: 1
 ---
 
 here image: wieviorka-witness-era.png 

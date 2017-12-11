@@ -5,6 +5,7 @@ parent: lesson-01
 documents:
 - berlin-monument
 - jewish-children
+ordering: 4
 ---
 
 

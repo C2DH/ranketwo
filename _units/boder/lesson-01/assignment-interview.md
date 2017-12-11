@@ -2,6 +2,7 @@
 title: Collecting data away from the screen
 type: assignment
 parent: lesson-01
+ordering: 5
 ---
 
 Interviewing your relatives (3 to 4 hours - BA - laptop -  smart phone)

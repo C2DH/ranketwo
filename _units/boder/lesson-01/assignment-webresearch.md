@@ -6,6 +6,7 @@ documents:
 - shoah-narrators1
 - shoah-narrators2
 - russian-man
+ordering: 3
 ---
 
 Critical Web Research. Document and reflect on how you tried to find the answers to the questions above (1,5 hour - BA - laptop - group discussion)  
