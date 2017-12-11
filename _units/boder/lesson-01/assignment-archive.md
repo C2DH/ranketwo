@@ -25,7 +25,7 @@ Complement the table created in assignment 2, by completing additional fields wi
 []()image monument jewish children - image monument Berlin 
 
 
-**Below should be put in a table** 
+
 
 Where  do you start to look for  information? Describe the physical space and how you use technology
 
