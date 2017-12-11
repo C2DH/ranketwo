@@ -6,7 +6,7 @@
 
   {% assign sections = site.units|where:"parent",component.slug %}
 
-  {% assign assignments = sections|where:"type","assignment" %}
+  {% assign assignments = sections|where:"type","assignment"|sort: 'ordering' %}
 
   {% for section in assignments %}
     <section class='scrollspy'>
