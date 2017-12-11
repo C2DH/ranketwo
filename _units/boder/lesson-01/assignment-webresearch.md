@@ -30,6 +30,7 @@ Is this problematic and do historians have a special responsibility to bridge th
 
 If a particular language with regard to such a topic is dominant on the web, what does this mean for the dissemination of this type of knowledge?
 
+[](shoah-narrators1) [](shoah-narrators2) [](russian-man)
 
 Complete this table with your findings. 
 
