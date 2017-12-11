@@ -10,12 +10,12 @@ documents:
 ---
 
 
-This platform consists of  **Teaching Units** that offer teaching material with a variety of time slots and complexity. 
+This platform consists of  **Teaching Units** that offer teaching material about **Digital Source Criticism** with a variety of time slots and complexity. Each teaching unit starts off with a **short audiovisual clip** combined with a **quiz**, and is followed by a series of **assignments**. The last part consists of a **tutorial for a workshop** with the aim of creating a digital object. 
 
 
 <!-- more -->
-First a **short video** is presented with a **quiz**, followed by a series of **assignments**. The last part consists of a **tutorial for a workshop**.
 
+**Why should we address the topic of Digital Source Criticism?**
 
 Questioning the authenticity of a document  by finding out who created it, at which time, for which purpose and in which context, has always formed the basis of critical historical scholarship. Now that we have unlimited access to data through the web, either to digital born or retro-digitized material, an additional layer of manipulation and interpretation needs to be questioned. 
 
@@ -42,4 +42,28 @@ But there is more they need to master. Now that huge amounts of data can be coll
 In a way this could be compared to how the introduction of the microscope and telescope in the 16th century, changed the scale at which phenomena could be perceived and studied. Moreover, applying digital methods to historical data, brings two worlds together that traditionally were each other’s opposites:  that of unique human lived experiences and expressions and that of mathematical calculations that can be reproduced. Combining the best of both worlds therefore asks for a broad variety of skills, a hybrid approach. 
 
 Consequently the  lessons we offer are a crossover between history, archival studies, ancillary sciences, information science and computer science.  In our view this multidisciplinary approach is necessary to foster a new generation of digital savvy scholars, who ask the right questions to digital content and are able to organize, analyse and present digital data with the help of digital tools. 
+
+
+**Objectives** 
+
+Students who complete one or more of these lessons will:
+
+1. understand the impact of digitization and of the web on the role of the archive/archivist and on the methods of research for history/historians:
+2. learn how digital objects are created (retro, digital born, conversion)
+3. learn to question the concept of the ‘original’
+4. learn how information is added to a digital document/object (meta-data)
+5. learn how data is published online and made searchable
+6. understand the impact of search engines on the selection of sources
+7. understand the various phases of the research process and which tools you can use for each phase 
+8. be able to apply a number of digital tools on data in a basic way
+9. understand what the tools actually do with the data: the underlying mathematical and manipulative principle
+10.understand how the outcome of research can be presented in multimodal/transmodal non-linear narratives (storytelling) with the help of tools.
+
+**Key Terms** 
+  
+ ‘meta-source criticism :  the creation, enrichment and identification of digitized and digital born sources 
+ ‘Tool criticism’:
+ ‘Remix and re-contextualisation’, re-use of data in a digital context 
+ 
+
 
