@@ -7,6 +7,10 @@ title:
 documents:
   - document-example
   - document-example-b
+  - ranke-stamp
+  - archive-records
+  - digitization-book-georgia
+  - digital-world 
 ---
 
 
@@ -25,13 +29,8 @@ A digital text, image or recording, may appear to be similar to its analog versi
 
 Taking the analog object out of its original context, whether a private household, an archive, museum or library,  converting it to digits, enriching the result with meta data, and publishing it online so that  Google can index it, means that the object has undergone a whole series of changes that affect its appearance and informative value. Historians of the 21st century who will increasingly be dependent on digital data and non-textual sources, need to be aware of these changes and of the specific nature of digital objects.
 
-image:DBPB_1970_377_Leopold_von_Ranke.jpg - caption: German historian Leopold von Ranke is attributed the role of introducing source criticism into the university
+[](ranke-stamp) [](archive-records) [](digitization-book-georgia) [](digital-world)
 
-next to that: WikiXDC_National_Archives_Tour_Hall_-_Stierch.jpg - caption: storage in the national archives in Washington DC
-
-next to that: Digitalisation_in_National_Centre_of_Manuscripts_of_Georgia.jpg - caption: the scanning of a manuscript at the Georgian Institute of Manuscripts
-
-next to that: ball-63527_1920.jpg 
 
 [](/d/document-example-b) 
 
