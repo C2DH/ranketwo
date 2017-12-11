@@ -40,10 +40,13 @@ image germans murder  - image eichmann - image holocaust tv series
   
  Write a blog of max 750 words on the basis of your findings.
  Click [here](https://bloggingforhistorians.wordpress.com/2013/03/05/historyonics-blog-tim-hitchcock-interview-2/)to read a   
- blog about blogging for historians 
+ blog about blogging for historians. 
+ 
  Click [here](https://teacherchallenge.edublogs.org/step-1-set-up-your-class-blog) for a series of lessons on how to write   
  a blog. 
+ 
  Add 3 images to your blog
  Click [here](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/481194/c-notice-201401.pdf) to learn how to deal   
- with copyright on the web. 
+ with copyright on the web.
+ 
  Open another [Padlet](www.padlet.com) page, where you can post your blogs.  
