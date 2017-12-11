@@ -2,7 +2,11 @@
 title: Collecting data away from the screen; Connecting to the tangible archive  (3 to 4 hours - BA - laptop - smartphone - travelling)  
 type: assignment
 parent: lesson-01
+documents:
+- berlin-monument
+- jewish-children
 ---
+
 
 <!-- more -->
 
@@ -23,6 +27,7 @@ Complement the table created in assignment 2, by completing additional fields wi
 
 
 Archive/museum/library/documentation centre 
+
 Where  do you start to look for  information? Describe the physical space and how you use technology
 
 
