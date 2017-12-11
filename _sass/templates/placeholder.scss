@@ -25,5 +25,13 @@
   &.with-cover {
     min-height: 100px;
   }
+}
 
+.placeholder-gallery{
+  background: #f0f0f0;
+  margin: 20px 0;
+
+  .placeholder{
+    min-height: 100px;
+  }
 }

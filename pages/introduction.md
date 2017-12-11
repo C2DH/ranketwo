@@ -29,10 +29,8 @@ A digital text, image or recording, may appear to be similar to its analog versi
 
 Taking the analog object out of its original context, whether a private household, an archive, museum or library,  converting it to digits, enriching the result with meta data, and publishing it online so that  Google can index it, means that the object has undergone a whole series of changes that affect its appearance and informative value. Historians of the 21st century who will increasingly be dependent on digital data and non-textual sources, need to be aware of these changes and of the specific nature of digital objects.
 
-[](ranke-stamp) [](archive-records) [](digitization-book-georgia) [](digital-world)
+[](ranke-stamp,archive-records,digitization-book-georgia,digital-world)
 
-
-[](/d/document-example-b) 
 
 ### The need to learn new skills
 

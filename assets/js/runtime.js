@@ -151,6 +151,82 @@ function throttle(func, wait, options) {
 
 var scrollspies = []
 
+function _buildPlaceholder(placeholder_id){
+  var doc = window.ranketwo.docs[placeholder_id];
+  if(!doc){
+    console.warn('_buildPlaceholder() failed, doc is undefined... placeholder_id:', placeholder_id)
+    return;
+  }
+  var placeholder = document.createElement("div");
+  
+  placeholder.className = 'placeholder'
+  placeholder.setAttribute('data-id', placeholder_id);
+  
+  
+  var _placeholder = d3.select(placeholder);
+
+  
+  if(doc.attachment){
+    _placeholder.classed('with-cover', true);
+    _placeholder.
+      append('img')
+        .classed('cover', true)
+        .attr('src', "{{'/assets/images/attachments/' | relative_url }}" + doc.attachment)
+  }
+  if(!doc.data) {
+    return;
+  }
+  try{
+  var _metadata = _placeholder
+    .append('div')
+      .classed('metadata', true)
+
+
+  _metadata.
+    append('h4')
+      .classed('title', true)
+        .append('a')
+          .attr('href', doc.url)
+          .attr('target', '_blank')
+          .text(doc.title)
+
+  _metadata
+    .append('div')
+      .classed('author', true)
+      .text(doc.author || doc.data.author)
+
+  _metadata
+    .append('div')
+      .classed('year', true)
+      .text(doc.year || doc.data.date.en_us )
+  } catch(e) {
+
+  }
+  return placeholder;
+}
+
+
+function _buildPlaceholderGallery(placeholder_ids) {
+  console.log('_buildPlaceholderGallery()', placeholder_ids.length);
+  var placeholder  = document.createElement('div');
+  placeholder.className = 'placeholder-gallery row no-gutters'
+  placeholder.setAttribute('data-id', placeholder_ids.join(','));
+  // .classed('gallery', true);
+
+  for(var i=0,l=placeholder_ids.length; i <l ; i++) {
+    var col = document.createElement('div')
+    col.className = 'col-sm-6 col-md-6'
+    placeholder.append(col);
+    var n = _buildPlaceholder(placeholder_ids[i]);
+    if(n) {
+      console.log(n)
+      col.append(n);
+    }
+  }
+  console.log(placeholder)
+  return placeholder;
+}
+
 // get all the a on document loadedd.
 document.addEventListener("DOMContentLoaded", function(e) {
   /* Your D3.js here */
@@ -162,63 +238,31 @@ document.addEventListener("DOMContentLoaded", function(e) {
   
 
   _documents = d3.selectAll('.contents > p > a').select(function() {
-    var attr = this.getAttribute('href');
+    var attr = this.getAttribute('href'),
+        placeholder;
+
     if(attr.indexOf('/d/') === 0 || attr.indexOf('/') === -1 ) {
-      var placeholder_id = attr.split('/').join('-').replace(/^-d-/,'');
-      console.log('placeholder_id', placeholder_id)
-    
-      if(!window.ranketwo.docs[placeholder_id]){
-        console.warn('document with id:', placeholder_id, 'not found. Skipping placeholder...')
-        return;
-      }
-      var doc = window.ranketwo.docs[placeholder_id];
+      if(attr.split(',').length > 1) {
 
-      var placeholder = document.createElement("div");
-      
-      placeholder.className = 'placeholder'
-      placeholder.setAttribute('data-id', placeholder_id);
-      
-      
-      var _placeholder = d3.select(placeholder);
-
-      
-      if(doc.attachment){
-        _placeholder.classed('with-cover', true);
-        _placeholder.
-          append('img')
-            .classed('cover', true)
-            .attr('src', "{{'/assets/images/attachments/' | relative_url }}" + doc.attachment)
-      }
-      if(!doc.data) {
-        return;
-      }
-      try{
-      var _metadata = _placeholder
-        .append('div')
-          .classed('metadata', true)
-
-
-      _metadata.
-        append('h4')
-          .classed('title', true)
-            .append('a')
-              .attr('href', doc.url)
-              .attr('target', '_blank')
-              .text(doc.title)
-
-      _metadata
-        .append('div')
-          .classed('author', true)
-          .text(doc.author || doc.data.author)
-
-      _metadata
-        .append('div')
-          .classed('year', true)
-          .text(doc.year || doc.data.date.en_us )
-      } catch(e) {
+        placeholder = _buildPlaceholderGallery(attr.split(','));
         
-      }
+      } else {
+        var placeholder_id = attr.split('/').join('-').replace(/^-d-/,'');
+        console.log('placeholder_id', placeholder_id)
+        _buildPlaceholder(placeholder_id)
+      
+        if(!window.ranketwo.docs[placeholder_id]){
+          console.warn('document with id:', placeholder_id, 'not found. Skipping placeholder...')
+          return;
+        }
+        
+        placeholder = _buildPlaceholder(placeholder_id);
+        if(!placeholder){
+          console.warn('document with id:', placeholder_id, 'failed built.')
+          return;
+        }
       // create title, year, author and caption if provided.
+      }
 
       return this.parentNode.insertBefore(placeholder, this);
     }
