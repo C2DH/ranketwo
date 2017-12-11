@@ -4,11 +4,12 @@ primary:
       href: /introduction/
     - title: teaching-units
       href: /
-    - title: visual thesaurus
-      href: /visual-thesaurus/
+    - title: structure of teaching
+      href: /structure-of-the-teaching/
 secondary:
   links:
-    - title: teaching
-      href: /teaching/
+    
     - title: literature
       href: /literature/
+    - title: visual thesaurus
+      href: /visual-thesaurus/
