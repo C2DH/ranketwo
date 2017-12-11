@@ -6,6 +6,7 @@ ordering: 5
 ---
 
 Interviewing your relatives (3 to 4 hours - BA - laptop -  smart phone)
+
 <!-- more -->
 
 Bring the images along that you have collected in the archive for the next part of the assignment. 
