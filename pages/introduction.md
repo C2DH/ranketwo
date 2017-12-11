@@ -15,7 +15,7 @@ This platform consists of  **Teaching Units** that offer teaching material about
 
 <!-- more -->
 
-**Why should we address the topic of Digital Source Criticism?**
+### Why should we address the topic of Digital Source Criticism? 
 
 Questioning the authenticity of a document  by finding out who created it, at which time, for which purpose and in which context, has always formed the basis of critical historical scholarship. Now that we have unlimited access to data through the web, either to digital born or retro-digitized material, an additional layer of manipulation and interpretation needs to be questioned. 
 
@@ -44,7 +44,7 @@ In a way this could be compared to how the introduction of the microscope and te
 Consequently the  lessons we offer are a crossover between history, archival studies, ancillary sciences, information science and computer science.  In our view this multidisciplinary approach is necessary to foster a new generation of digital savvy scholars, who ask the right questions to digital content and are able to organize, analyse and present digital data with the help of digital tools. 
 
 
-**Objectives** 
+### Objectives 
 
 Students who complete one or more of these lessons will:
 
@@ -59,7 +59,7 @@ Students who complete one or more of these lessons will:
 9. understand what the tools actually do with the data: the underlying mathematical and manipulative principle
 10.understand how the outcome of research can be presented in multimodal/transmodal non-linear narratives (storytelling) with the help of tools.
 
-**Key Terms** 
+### Key Terms 
   
  ‘meta-source criticism :  the creation, enrichment and identification of digitized and digital born sources 
  ‘Tool criticism’:
