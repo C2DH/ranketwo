@@ -9,7 +9,7 @@ $yellow: #FAF54F;
 $almost-white: #FCF4D9;
 $white: #ffffff;
 
-$highlight: cyan;
+$highlight: #99ffff;
 
 
 body{
@@ -34,7 +34,12 @@ li.active a, a.active{
 
 a{
   color: $black;
+  
+}
+
+p a{
   text-decoration: underline;
+  background-color: $highlight;
 }
 
 ul{
@@ -369,4 +374,5 @@ li.author{
   }
 }
 @import "layouts/literature", "layouts/unit";
+@import "templates/placeholder";
 @import "media-queries";

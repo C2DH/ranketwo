@@ -1,3 +1,6 @@
+---
+
+---
 /* runtime 
   
   This script handles the Table of contents fixed on scrolling and the loading of documents data.
@@ -158,15 +161,18 @@ document.addEventListener("DOMContentLoaded", function(e) {
 
   
 
-  _documents = d3.selectAll('#contents > p > a').select(function() {
-    
+  _documents = d3.selectAll('.contents > p > a').select(function() {
     var attr = this.getAttribute('href');
-    if(attr.indexOf('/d/') === 0) {
-      var placeholder_id = attr.split('/').join('-').replace('-d-','');
+    if(attr.indexOf('/d/') === 0 || attr.indexOf('/') === -1 ) {
+      var placeholder_id = attr.split('/').join('-').replace(/^-d-/,'');
+      console.log('placeholder_id', placeholder_id)
+    
       if(!window.ranketwo.docs[placeholder_id]){
         console.warn('document with id:', placeholder_id, 'not found. Skipping placeholder...')
         return;
       }
+      var doc = window.ranketwo.docs[placeholder_id];
+
       var placeholder = document.createElement("div");
       
       placeholder.className = 'placeholder'
@@ -175,25 +181,43 @@ document.addEventListener("DOMContentLoaded", function(e) {
       
       var _placeholder = d3.select(placeholder);
 
+      
+      if(doc.attachment){
+        _placeholder.classed('with-cover', true);
+        _placeholder.
+          append('img')
+            .classed('cover', true)
+            .attr('src', "{{'/assets/images/attachments/' | relative_url }}" + doc.attachment)
+      }
+      if(!doc.data) {
+        return;
+      }
+      try{
       var _metadata = _placeholder
         .append('div')
           .classed('metadata', true)
 
+
       _metadata.
-        append('span')
+        append('h4')
           .classed('title', true)
-          .text(window.ranketwo.docs[placeholder_id].title)
+            .append('a')
+              .attr('href', doc.url)
+              .attr('target', '_blank')
+              .text(doc.title)
 
       _metadata
-        .append('span')
+        .append('div')
           .classed('author', true)
-          .text(window.ranketwo.docs[placeholder_id].author)
+          .text(doc.author || doc.data.author)
 
       _metadata
-        .append('span')
+        .append('div')
           .classed('year', true)
-          .text(window.ranketwo.docs[placeholder_id].year)
-
+          .text(doc.year || doc.data.date.en_us )
+      } catch(e) {
+        
+      }
       // create title, year, author and caption if provided.
 
       return this.parentNode.insertBefore(placeholder, this);

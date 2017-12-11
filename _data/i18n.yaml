@@ -18,8 +18,11 @@ type.clip:
   en: C & Q
   fr: C & Q
 type.lesson:
-  en: M
-  fr: M
+  en: L
+  fr: L
 type.reference:
   en: Ref.
   fr: Réf.
+type.workshop:
+  en: W
+  fr: W

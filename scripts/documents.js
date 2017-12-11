@@ -65,7 +65,9 @@ async.waterfall([
           type: d.type,
           data:{}
         };
-        
+        if(d.attachment && d.attachment.length){
+          _d.attachment = d.attachment.trim()
+        }
         if(d.url && d.url.length) {
           _d.url = d.url.trim();
         }

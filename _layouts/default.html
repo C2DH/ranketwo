@@ -19,10 +19,14 @@
       var that = this;
       this.docs = {};
 
-      this.enrich = function(docs) {
-        console.log('enrichDocumentsList', docs)
+      this.enrich = function(docs, namespace) {
+        console.log('Ranketwo.enrichDocumentsList', docs.length, '- from:',namespace)
         for (var i=0,l=docs.length; i< l;i++){
-          this.docs[docs[i].id] = docs[i];
+          if(!docs[i])
+            continue; // skip undefined
+          
+          console.log('  - ', docs[i].slug);
+          this.docs[docs[i].slug] = docs[i];
         }
       }
     }
@@ -33,10 +37,10 @@
   
     window.ranketwo.enrich([
       {% for docid in page.documents %}
-        {% assign docs = site.data.documents | where:"id",docid %}
+        {% assign docs = site.data.documents | where:"slug",docid %}
         {{ docs[0] | jsonify}}{% unless forloop.last %},{% endunless %}
       {% endfor %}
-    ]);
+    ], '{{page.path}}');
     // call this function on your specific places
     // window.documentList
   

@@ -26,13 +26,14 @@
 
 </div>
 <script>
+  // components.lessons.html
   // enrich document table with documents coming from lessons subunits. cfr 
   ranketwo.enrich([
     {% for section in sections %}
     {% for docid in section.documents %}
-      {% assign docs = site.data.documents | where:"id",docid %}
-      {{ docs[0] | jsonify}}{% unless forloop.last %}},{% endunless %}
+      {% assign docs = site.data.documents | where:"slug", docid %}
+      {% if docs[0] %}{{ docs[0] | jsonify}}{% else %}{error: 'not-found', slug:'{{docid}}'}{% endif %}{% unless forloop.last %},{% endunless %}
+    {% endfor %}{% unless forloop.last %},{% endunless %}
     {% endfor %}
-    {% endfor %}
-  ]);
+  ], '{{component.path}}');
 </script>

@@ -1,0 +1,29 @@
+.placeholder {
+  clear: both;
+  position: relative;
+  background: #f0f0f0;
+
+  .metadata{
+    margin: 10px;
+    
+  }
+  .cover{
+    max-height: 100px;
+    margin-right: 10px;
+    float: left;
+  }
+
+  h4{
+    font-size: inherit;
+    font-weight: bold;
+    padding-top: 10px;
+  }
+
+  div.year,div.author{
+    display: inline-block;
+  }
+  &.with-cover {
+    min-height: 100px;
+  }
+
+}

@@ -3,7 +3,7 @@ title: Reading and annotating
 type: assignment
 parent: lesson-01
 documents:
-- wieviorka-era-witness
+- wieviorka-witness-era
 ordering: 1
 ---
 
@@ -11,7 +11,7 @@ Read Annette Wieviorka’s The Era of the Witness, Cornell University Press, 200
 
 <!-- more -->
 
-[](wieviorka-era-witness)
+[](wieviorka-witness-era)
 
 Create an account to create an  online noticeboard  in which you can  collaborate with others: [padlet](www.padlet.com) 
 Make a summary of each chapter in a separate space.  This can be created by clicking on the + on the right lower side. 
