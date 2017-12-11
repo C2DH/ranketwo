@@ -32,17 +32,15 @@ Find out and document whether there is a commemoration and/or monument related t
 When was this initiated and by whom? 
 Is it connected to an event, a place or a person or more in general to a social group?
 
-[](/d/document-example)
-
 Find out and document whether there is a museum, archive or documentation centre in your neighbourhood, town, region or country that covers this topic and has a special collection of historical documents. 
 What is it about? 
 Does it include personal testimonies such as diaries, letters, memoirs, oral histories? 
 
 Find out and document when the subject of the concentration camps with accounts of testimonies was first represented in newspapers, radio and television in your region, town and/country. 
-In most countries National Libraries and Broadcasting Corporations have a published a digitized corpus or the catalogue of their material online. 
+In most countries National Libraries and Broadcasting Corporations have a published a digitized corpus or the catalogue of their material online.
+ 
+[](germans-murder-jews) [](eichmann-tv) [](holocaust-meryl-streep)
 
-image germans murder  - image eichmann - image holocaust tv series 
-  
  Write a blog of max 750 words on the basis of your findings.
  Click [here](https://bloggingforhistorians.wordpress.com/2013/03/05/historyonics-blog-tim-hitchcock-interview-2/)to read a   
  blog about blogging for historians. 
