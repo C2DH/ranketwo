@@ -1,4 +1,3 @@
-
 ---
 title: An Exercise in Self-reflection
 type: assignment
