@@ -8,7 +8,9 @@ $light-grey: #ccc;
 $yellow: #FAF54F;
 $almost-white: #FCF4D9;
 $white: #ffffff;
-$cyan: cyan;
+
+$highlight: cyan;
+
 
 body{
   background: $white;
@@ -18,7 +20,7 @@ body{
 
 
 footer{
-  color: grey;
+  color: $light-grey;
   margin-top: 4rem;
   margin-bottom: 4rem;
   height: 200px;
@@ -26,7 +28,8 @@ footer{
 
 
 li.active a, a.active{
-    background-color: cyan;
+    // background-color: $highlight;
+    text-decoration: underline;
   }
 
 a{
@@ -92,12 +95,12 @@ ul{
           border-color: #FF00FF;
         }
         .line.right{
-          background-color: cyan;
+          background-color: $highlight;
         }
         a{
           background-color: transparent;
           span{
-            background-color: cyan;
+            background-color: $highlight;
           }
         }
       }
@@ -113,7 +116,7 @@ ul{
 
 .navbar-brand{
   // font-size: inherit;
-      border-bottom: 1px solid;
+      border-bottom: 2px solid;
     font-size: inherit;
     margin-bottom: 10px;
     padding-bottom: 20px;
@@ -151,6 +154,7 @@ ul{
 .excerpt{
   font-size: 2em;
   margin-top: 2em;
+  margin-bottom: 3em;
 }
 
 
