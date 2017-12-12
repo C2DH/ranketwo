@@ -1,6 +1,7 @@
 ---
 title: Collecting data away from the screen; Connecting to the tangible archive  (3 to 4 hours - BA - laptop - smartphone - travelling)  
 type: assignment
+unit: boder
 parent: lesson-01
 documents:
 - berlin-monument

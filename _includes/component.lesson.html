@@ -4,14 +4,17 @@
   
   {{component.content}}
 
-  {% assign sections = site.units|where:"parent",component.slug %}
+  {% assign sections = site.units|where:"parent",component.slug%}
 
   {% assign assignments = sections|where:"type","assignment"|sort: 'ordering' %}
 
   {% for section in assignments %}
+    {% assign _section_unit_path = section.path | replace_first: '_units/','' | replace_first: '.md','' | split: '/' | first %}
+    {% if _section_unit_path == _component_unit_path %}
     <section class='scrollspy'>
-      <aside><b>assignment #{{forloop.index}}</b><br>{{section.title}}</aside>
+      <aside><b>assignment #{{section.ordering}}</b><br>{{section.title}}</aside>
       <div>
+        {{_section_unit_path}}
         {% assign paragraphs = section.content | split: site.excerpt_separator %}
         <h3 class="excerpt">{{paragraphs[0] | markdownify}}</h3>
         <div class="contents">
@@ -22,6 +25,7 @@
       </div>
         
     </section>
+    {% endif %}
   {% endfor %}
 
 </div>
