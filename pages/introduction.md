@@ -14,23 +14,28 @@ documents:
 ---
 
 
-This platform consists of  **Teaching Units** that offer teaching material about **Digital Source Criticism** with a variety of time slots and complexity. Each teaching unit starts off with a **short audiovisual clip** combined with a **quiz**, and is followed by a series of **assignments**. The last part consists of a **tutorial for a workshop** with the aim of creating a digital object. 
+This platform consists of  **Teaching Units** that offer teaching material about **Digital Source Criticism** with a variety of time slots and complexity. 
 
 
 <!-- more -->
+
+
+Each teaching unit starts off with a **short audiovisual clip** combined with a **quiz**, and is followed by a series of **assignments**. The last part consists of a **tutorial for a workshop** with the aim of creating a digital object. 
+
 
 ### Why should we address the topic of Digital Source Criticism? 
 
 Questioning the authenticity of a document  by finding out who created it, at which time, for which purpose and in which context, has always formed the basis of critical historical scholarship. Now that we have unlimited access to data through the web, either to digital born or retro-digitized material, an additional layer of manipulation and interpretation needs to be questioned. 
 
-[](/d/document-example)
+
+[](ranke-stamp,archive-records)
+
 
 A digital text, image or recording, may appear to be similar to its analog version, but is actually a collection of digits arranged in a particular order that offers a representation of the original that can be viewed on a screen, without its material characteristics.
 
 Taking the analog object out of its original context, whether a private household, an archive, museum or library,  converting it to digits, enriching the result with meta data, and publishing it online so that  Google can index it, means that the object has undergone a whole series of changes that affect its appearance and informative value. Historians of the 21st century who will increasingly be dependent on digital data and non-textual sources, need to be aware of these changes and of the specific nature of digital objects.
 
-[](ranke-stamp,archive-records,digitization-book-georgia,digital-world)
-
+[](digitization-book-georgia,digital-world)
 
 ### The need to learn new skills
 

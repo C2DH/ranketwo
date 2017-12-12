@@ -58,6 +58,7 @@ ul{
   pointer-events: none;
 
   h4{
+    pointer-events: auto;
     font-weight: bold;
     font-size:inherit;
     line-height: inherit;
@@ -68,12 +69,16 @@ ul{
     pointer-events: auto;
     margin:0;
     padding:0 0 20px 0;
+
     li{
+      pointer-events: auto;
       list-style-type: none;
       position: relative;
       margin-bottom: 10px;
 
       .lines{
+        pointer-events: none;
+      
         border-color: transparent;
         transition: border-color 0.2s ease-in-out;
       }
@@ -90,9 +95,14 @@ ul{
         transition: transform 0.2s ease-in-out;
       }
       a{
+        pointer-events: auto;
         padding-left: 15px;
         display: block;
 
+        &:hover{
+          text-decoration: underline;
+          background: transparent
+        }
         span{
           transition: background-color 0.2s ease-in-out;
         }
@@ -381,6 +391,10 @@ li.author{
 
 }
 
+.contents h3{
+  font-size: inherit;
+  font-weight: bold;
+}
 
 .contents table{
   border: 2px solid;

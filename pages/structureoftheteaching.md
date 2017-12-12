@@ -1,8 +1,8 @@
 ---
 layout: page
 lang: en
-permalink: /structureoftheteaching/
-link: /structureoftheteaching/
+permalink: /structure-of-the-teaching/
+link: /structure-of-the-teaching/
 title: structure of the teaching unit
 documents:
   - document-example
@@ -10,9 +10,11 @@ documents:
 ---
  
 
- Each **TEACHING UNIT** consists of a **Metadata Scheme**, a **Clip & Quiz**,  a **Lesson**, and a **Workshop** 
+Each **TEACHING UNIT** consists of a **Metadata Scheme**, a **Clip & Quiz**,  a **Lesson**, and a **Workshop** 
 
-**METADATA**     
+<!-- more -->
+
+### Metadata   
 
 The metadata scheme describes the characteristics of the teaching unit:
 1. Tags about the topic, discipline and source type

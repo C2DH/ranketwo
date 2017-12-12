@@ -267,6 +267,7 @@
     url: 'https://commons.wikimedia.org/wiki/File%3AWikiXDC_National_Archives_Tour_Hall_-_Stierch.jpg'
     _id: 946766ca09124917b7c4ef33c76e2eaf
     _resolved: true
+    attachment: WikiXDC_National_Archives_Tour_Hall_-_Stierch.jpg
 -
     title: 'scanning of Georgian manuscript '
     slug: digitization-book-georgia
@@ -281,6 +282,7 @@
     url: 'https://commons.wikimedia.org/wiki/File%3ADigitalisation_in_National_Centre_of_Manuscripts_of_Georgia.jpg'
     _id: 2bf38c2af700421a86e2aeac3181b023
     _resolved: true
+    attachment: Digitalisation_in_National_Centre_of_Manuscripts_of_Georgia.jpg
 -
     title: 'illustration of digital techniology'
     slug: digital-world
@@ -294,6 +296,7 @@
     url: 'https://pixabay.com/en/ball-http-www-crash-administrator-63527/'
     _id: b843897724f74b5198ad96c98729113f
     _resolved: true
+    attachment: ball-63527_1920.jpg
 -
     title: 'Eichmann trial on tv'
     slug: eichmann-tv
@@ -1153,3 +1156,12 @@
     attachment: wieviorka-witness-era.png
     url: 'https://books.google.lu/books?id=8sbtTtJyUgYC&pg=PA96&lpg=PA96&dq=the+era+of+the+witness&source=bl&ots=yyq46OwU6o&sig=oRGzVgk3wFbCkwUgFnmUuFzUxmw&hl=en&sa=X&ved=0ahUKEwjagbn9gc7XAhWiAMAKHbiABiA4ChDoAQgmMAA#v=onepage&q=the%20era%20of%20the%20witness&f=false'
     _id: b57498dbe51d4e6e8c30a8249e451c64
+-
+    title: 'The_five_senses;_sight,_surrounded_by_vignettes_showing_the_Wellcome_V0025316.jpg'
+    slug: the-senses
+    type: image
+    data:
+        author: 'The_five_senses;_sight,_surrounded_by_vignettes_showing_the_Wellcome_V0025316.jpg'
+    url: 'https://drive.google.com/open?id=0B7nKRZHLqpMbV2taeS1vSmhYQ2s'
+    _id: 912b4f4f9bbe4dc0a473c37be868b961
+    _resolved: true

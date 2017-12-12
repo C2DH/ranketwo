@@ -8,9 +8,10 @@
     
   }
   .cover{
-    max-height: 100px;
+    // max-height: 100px;
     margin-right: 10px;
     float: left;
+    width: 50%;
   }
 
   h4{
@@ -33,5 +34,12 @@
 
   .placeholder{
     min-height: 100px;
+  }
+
+  .cover{
+    // max-height: 100px;
+    margin-right: 10px;
+    float: left;
+    width: 50%;
   }
 }
