@@ -62,7 +62,7 @@ layout: default
             <div class="line right"></div>
             </div>
           </div>
-          <a><span>{{component.title}}</span></a>
+          <a href='#c-{{component.slug}}'><span>{{component.title}}</span></a>
         </li>
       {% endfor %}
       {% for component in introductions %}
@@ -73,7 +73,7 @@ layout: default
             <div class="line right"></div>
             </div>
           </div>
-        <a><span>introduction</span></a>
+        <a href='#c-{{component.slug}}'><span>introduction</span></a>
         </li>
       {% endfor %}
       {% for component in lessons %}
@@ -84,7 +84,7 @@ layout: default
             <div class="line right"></div>
             </div>
           </div>
-        <a><span>{{component.title}}</span></a>
+        <a href='#c-{{component.slug}}'><span>{{component.title}}</span></a>
         </li>
       {% endfor %}
       </ul>

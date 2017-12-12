@@ -2,7 +2,7 @@
 title: David Boder, from wire recorder to website
 type: clip
 parent: boder
-duration: 6 min
+duration: 6
 documents: 
   - code
 ---

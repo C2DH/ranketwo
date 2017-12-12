@@ -1,7 +1,7 @@
 ---
 title: Lesson 2 - Multimodality and recontextualisation
 type: lesson
-duration: 4 hours in total 
+duration: 120 
 parent: boder
 lang: en
 ---
