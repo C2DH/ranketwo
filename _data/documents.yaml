@@ -1,19 +1,4 @@
 -
-    title: Cosmographia
-    slug: cosmographia
-    type: image
-    data:
-        title:
-            en_us: Cosmographia
-        author: 'Sebastian Munster'
-        date:
-            en_us: 1570
-        reference: 'By Sebastian Munster [Public domain](http://bigthink.com/ideas/21192), via Wikimedia Commons'
-    url: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Europe_As_A_Queen_Sebastian_Munster_1570.jpg'
-    _id: 48f6a11c22c145ca9d25a3079f697d05
-    _resolved: true
-    attachment: image/Europe_As_A_Queen_Sebastian_Munster_1570.jpg
--
     title: 'Zeugnisse Überlebender der Shoah in den digitalen Medien'
     slug: bothe-zeugnisse-uberlebender-der-shoah
     type: link
