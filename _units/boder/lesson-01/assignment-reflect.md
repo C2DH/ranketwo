@@ -39,7 +39,11 @@ Does it include personal testimonies such as diaries, letters, memoirs, oral his
 Find out and document when the subject of the concentration camps with accounts of testimonies was first represented in newspapers, radio and television in your region, town and/country. 
 In most countries National Libraries and Broadcasting Corporations have a published a digitized corpus or the catalogue of their material online.
  
-[](germans-murder-jews) [](eichmann-tv) [](holocaust-meryl-streep)
+[](germans-murder-jews)
+
+[](eichmann-tv)
+
+[](holocaust-meryl-streep)
 
  Write a blog of max 750 words on the basis of your findings.
  Click [here](https://bloggingforhistorians.wordpress.com/2013/03/05/historyonics-blog-tim-hitchcock-interview-2/)to read a   

@@ -1165,3 +1165,14 @@
     url: 'https://drive.google.com/open?id=0B7nKRZHLqpMbV2taeS1vSmhYQ2s'
     _id: 912b4f4f9bbe4dc0a473c37be868b961
     _resolved: true
+-
+    title: 'Holocaust Memorial Day: Telegraph revealed Nazi gas chambers three years before liberation of Auschwitz'
+    slug: germans-murder-jews
+    type: link
+    data:
+        author: 'David Blair'
+        date:
+            en_us: 2015
+    attachment: germans-murder-jews.png
+    url: 'http://www.telegraph.co.uk/history/world-war-two/11370972/Holocaust-Memorial-Day-Telegraph-revealed-Nazi-gas-chambers-three-years-before-liberation-of-Auschwitz.html'
+    _id: 2cf1b20cd2f64a6d8d68f9ee675bc994
