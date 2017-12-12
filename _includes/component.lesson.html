@@ -14,7 +14,7 @@
     <section class='scrollspy'>
       <aside><b>assignment #{{section.ordering}}</b><br>{{section.title}}</aside>
       <div>
-        {{_section_unit_path}}
+        <!-- {{_section_unit_path}} -->
         {% assign paragraphs = section.content | split: site.excerpt_separator %}
         <h3 class="excerpt">{{paragraphs[0] | markdownify}}</h3>
         <div class="contents">
