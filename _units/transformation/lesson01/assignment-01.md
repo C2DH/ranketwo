@@ -6,7 +6,7 @@ documents:
 ordering: 1
 ---
 
- View this [clip](https://www.microsoft.com/en-us/research/video/automatic-speech-recognition-overview/) about how Image Recognition works 
+ View this [clip](https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures?utm_campaign=tedspread--a&utm_medium=referral&utm_source=tedcomshare) about how Image Recognition works 
  lecture by Preethi Jyothi, a computer scientist from Bombay University 
  
 Then view the clip about Transformation again, stop the clip and make print screens of 5 images of your choice, upload them into Google     Image searcher and try to find the original of the source.
