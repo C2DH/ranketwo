@@ -1,3 +1,0 @@
----
-parent: lesson-02
----
