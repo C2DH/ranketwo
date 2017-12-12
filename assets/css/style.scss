@@ -19,22 +19,21 @@ body{
 }
 
 
-footer{
-  color: $light-grey;
-  margin-top: 4rem;
-  margin-bottom: 4rem;
-  height: 200px;
-}
 
 
-li.active a, a.active{
-    // background-color: $highlight;
-    text-decoration: underline;
-  }
+
+// li.active a, a.active{
+//     // background-color: $highlight;
+//     text-decoration: underline;
+//   }
 
 a{
   color: $black;
   
+}
+
+a:hover{
+  background-color: $highlight;
 }
 
 p a{
@@ -56,6 +55,7 @@ ul{
   min-height: 300px;
   right: 0;
   left: 0;
+  pointer-events: none;
 
   h4{
     font-weight: bold;
@@ -65,6 +65,7 @@ ul{
   }
 
   ul {
+    pointer-events: auto;
     margin:0;
     padding:0 0 20px 0;
     li{
@@ -128,14 +129,19 @@ ul{
     padding-bottom: 20px;
     line-height: 1;
 
+  font-weight: bold;
   a{
     padding: 0 10px;
+
+    
   }
 
 }
 
 .navbar{
   padding: 50px 0 0 0;
+
+  padding: 0 5px;
 
   &.navbar-last{
     padding-top: 10px;
@@ -146,6 +152,15 @@ ul{
   }
   ul li{
     padding: 0 1rem;
+    
+    a {
+      padding: 0 5px;
+      border: 2px solid transparent;
+    }
+
+    &.active a {
+      border-color: $almost-black;
+    }
     &.first{
       padding-left: 0;
     }
@@ -383,5 +398,6 @@ li.author{
   }
 }
 @import "layouts/literature", "layouts/unit";
+@import "includes/footer";
 @import "templates/placeholder";
 @import "media-queries";
