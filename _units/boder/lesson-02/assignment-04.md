@@ -1,11 +1,16 @@
 ---
 title: Recording technology and structuring audio, video and text to publish testimonies on the web.  
 type: assignment
-parent: lesson-2
---- 
+parent: lesson-02
+ordering: 4
+---
+
 This assignment is meant to make you conscious of the technological processes that are involved when transforming a combination of analog 
 data consisting of running texts (transcripts and essays) and structured texts (metadata about person and interview) and video or 
-audio recordings, that are kept in an archive, into a digital resource that is published on the web. 
+audio recordings, that are kept in an archive, into a digital resource that is published on the web.
+
+<!-- more -->
+
 On the basis of the 6 key questions that should be asked to a source to determine its origin and authenticity: 
 what, where, who, why, when and how, you are supposed to collect data about the origin and transformation processes of the 5 
 recordings presented in this lesson. 

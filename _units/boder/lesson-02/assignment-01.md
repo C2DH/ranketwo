@@ -1,13 +1,17 @@
 ---
 title:  The difference in impact and response between viewing Images, hearing sounds and reading text 
 type: assignment
-parent: lesson-2
+parent: lesson-02
 documents:
 - the-senses
 ordering: 1
 ---
-Many of these articles discuss how various media were used to document experiences in concentration camps. At the same time they refer to 
+Many of these articles discuss how various media were used to document experiences in concentration camps. 
+At the same time they refer to 
 the limitations and affordances of specific media with regard to engagement with an audience.  
+
+<!-- more -->
+
 
 - First read all the following articles: 
 Shandler, Boder, Gigliotti, Rosen, Pinchevski, Fellows, Lanzmann/Larson and Rodowick, 

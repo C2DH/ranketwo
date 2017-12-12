@@ -1,14 +1,15 @@
 ---
 title: Time, technology and the changing nature of witness accounts  
 type: assignment
-parent: lesson-2
+parent: lesson-02
 documents:
 - the-senses
-ordering: 1
+ordering: 3
 ---   
 In the various articles the term ‘witness’, ‘survivor’, or ‘displaced person’ are recurrent. Technology has made it possible to 
 recontextualize accounts that were created in very specific circumstances. They are published integrally on the web, or parts of them 
 are shown, with the possibility to visit a place to hear/view the whole story, or to order material online. 
+<!-- more --> 
 The different contexts beg the question of whether the status of ‘witness’  in a fresh account given in a displacement camp in 1946,
 or in a court room in Jerusalem in 1961, or in someone’s  own living room in 2001, retains its character and meaning, when published 
 on the web? Does the role of the narrator change and how can the reception of his narrative be assessed? 

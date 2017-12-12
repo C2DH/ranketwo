@@ -1,13 +1,13 @@
 ---
 title: Language and terminology in survivor testimonies
 type: assignment
-parent: lesson-2
+parent: lesson-02
 documents:
 ordering: 2
 ---
 In various articles particular uses of language are discussed. Special attention is given to ‘terms’ that were not yet ‘coined’ in 1946, 
 and to the fact that accounts were given in so many different languages.
-
+<!-- more -->
 - Read the following articles: Boder, Deblinger, Muller, Pinchevski, Kuhn-Kennedy and the first pages of Lanzmann’s text of the documentary
  which can be viewed online through Amazon (https://www.amazon.com/Shoah-Complete-Text-Acclaimed-Holocaust/dp/0306806657) 
  
