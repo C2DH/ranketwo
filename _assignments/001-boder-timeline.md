@@ -19,12 +19,13 @@ What was going on during his lifetime with regard to personal drawbacks, technol
 
 ## 1. Create an entry in one of the dates in the timeline
 
-### Click on the timeline ‘Boder’s biography’. You will see a chronological sequence of dates.
+- Click on the timeline ‘Boder’s biography’. 
+    You will see a chronological sequence of dates.
               
-### Choose two dates and create an entry with a max of ...words, 
-For background information on Boder’s life, consult the first two links in the last box (ADD link  TO VOICES OF THE HOLOCAUST     http://voices.iit.edu/david_boder after History Lesson (add 5 min in title : 5 min History Lesson)
+- Choose two dates and create an entry with a max of ...words, 
+    For background information on Boder’s life, consult the first two links in the last box (ADD link  TO VOICES OF THE HOLOCAUST     http://voices.iit.edu/david_boder after History Lesson (add 5 min in title : 5 min History Lesson)
 
-### Add a link to an appropriate image that you have found on the web.
+- Add a link to an appropriate image that you have found on the web.
 
 ## 2. Create two new dates and entries in the timeline 
 
@@ -36,15 +37,15 @@ Put together at least 4 entries on a timeline about a topic  that is related to 
 You could consider: 
 
 - Politics and societal developments  
-  Think of the political situation of the countries in which he lived or traveled to: Latvia, Russia, Siberia, Japan, Mexico, United  States,Europe. 
+    Think of the political situation of the countries in which he lived or traveled to: Latvia, Russia, Siberia, Japan, Mexico, United  States,Europe. 
 
-### Technology  
-Think of  inventions with regard to recording or communication technology. 
+- Technology  
+    Think of  inventions with regard to recording or communication technology. 
 
-### The History of Psychology 
-Think of the developments in this science and the creation of the American National Mental Health Institution.
+- The History of Psychology 
+    Think of the developments in this science and the creation of the American National Mental Health Institution.
 
-### The history of the interview
+- The history of the interview
 
  
 ## 4. Copyright Law and the web 
