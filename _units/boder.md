@@ -9,6 +9,8 @@ tags:
   - oral history
   - translation studies
   - psychology
+assignement:
+  - 001-boder-timeline
 authors: 
   - stefania-scagliola
 lang: en
