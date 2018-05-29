@@ -1,24 +1,29 @@
 ---
 layout: page
+title: "Contributing to a timeline on Boder’s biography and the historical context of his time"
+tags:
+ - historical consciousness
+ - consulting web resources
+ - comparing parallel societal developments
+ - conscious use of images on the web
 ---
 
 In the clip the focus is most on the creation and transformation of David Boder’s collection. But the motives to create such a resource and the expertise and mindset needed to envision such a project, seem very much influenced by David Boder’s  course of life and the political-technological- scientific context in which he operated. This assignment introduces you to a digital tool with which you can create a timeline that can be populate and shared with others. The purpose is to make you aware of the connection between the creation of a historical source, a database with 121 audio interviews on  experiences of concentration camp survivors, and the world in which its creator,  a Jewish Latvian scholar in psychology who had to flee his country, was educated and influenced. 
 What was going on during his lifetime with regard to personal drawbacks, technological innovation, scientific progress and  political conflict? 
 
-<!-- more -->
+<!-- briefing:student -->
 
-    Open the box Boder’s biography  again, and read the various sections 
+## Start your engines!
+Follow theese steps .... to be able to complete one or more of these assignments below
+- Open the box Boder’s biography  again, and read the various sections 
+- Go to the timeline  application Kitikoti.  
+- Complete the credentials of the account that has been created to complete this assignment
+    Username:......
+    Password:......
 
-    Go to the timeline  application Kitikoti.  
-
-    Complete the credentials of the account that has been created to complete this assignment
-              Username:......
-              Password:......
-    
-    Complete one or more of these assignments:
 
 ## 1. Create an entry in one of the dates in the timeline
-
+- Test 
 - Click on the timeline ‘Boder’s biography’. 
     You will see a chronological sequence of dates.
               
@@ -31,7 +36,7 @@ What was going on during his lifetime with regard to personal drawbacks, technol
 
 These can be subjects related to Boder’s life, such as: When and  where did Boder study in Leipzig? When was the wire recorded invented?
 
-## 3.   Create a new account and a new timeline.                           
+## 3. Create a new account and a new timeline.                           
 Follow the instructions that are supplied here. 
 Put together at least 4 entries on a timeline about a topic  that is related to Boder’s course of life.
 You could consider: 
@@ -52,3 +57,30 @@ You could consider:
 For assignment 2 and 3 you have to take into account the legal principles that exist with regard to the reuse of images on the web.  Infringement of copyright can lead to high fines. The best way to
 protect yourself it to either use copyright free material, or to make sure the web-environment is not public.
 Check which of the images that you have used for your timeline are open source and which cannot be used.                       
+
+<!-- briefing:teacher -->
+
+## Requirements
+strong WIFI, accesso to Ranke.2, computer or laptop,  application on labtop or computer to view video, account for timeline, 
+
+## Form of output
+a contribution to or the creation of an online timeline
+
+## Learning outcomes
+learning to place a historical source, its creation, form and appearance into a broader societal context, learning the basic principle of an online timeline, learning how to take into consideration intellectual property rights 
+
+## Time effort:    
+1.   10 min                                       
+2.   20 min
+3.  120 min  
+
+
+## Reading/viewing  suggestions:  
+
+Click [here](https://cft.vanderbilt.edu/guides-sub-pages/digital-timelines/) to access the list of learning goals that can be achieved by creating a digital timeline. These have been published by the VanderBilt University in Nashville Tennessee. 
+
+Document about the affordances and limitation of various tools to create timelines in a classroom context. Meant to help the lecturer make a choice. 
+
+Webpage where you can find useful information about how to handle copyright on the web 
+              
+
