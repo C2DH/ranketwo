@@ -3,10 +3,11 @@ layout: default
 ---
 {% assign components = site.units|where:"parent",page.slug| sort: 'type'  %}
 {% assign clips = components|where:"type","clip" %}
+{% assign quizzes = components|where:"type","quiz" %}
 {% assign lessons = components|where:"type","lesson" %}
 {% assign introductions = components|where:"type","introduction" %}
 
-    
+
 
 <!-- main container -->
 <div class='container'>
@@ -20,17 +21,21 @@ layout: default
     {% assign paragraphs = page.content | split: site.excerpt_separator %}
     <div>{{paragraphs[0] | markdownify}}</div>
 
-    
-    
-    
-    
-    
+
+
+
+
+
   </div>
     </div>
   </div>
 </div>
 
 {% for component in clips %}
+  {% include component.html %}
+{% endfor %}
+
+{% for component in quizzes %}
   {% include component.html %}
 {% endfor %}
 

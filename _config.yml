@@ -14,3 +14,6 @@ collections:
   authors:
     output: true
     permalink: /a/:path/
+  assignments:
+    output: true
+    permalink: /assignment/:path/

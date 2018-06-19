@@ -5,8 +5,7 @@
     <div class="line left"></div>
     <div class="line right"></div>
     <div class='line top'></div>
-    <div class='type'>
-      <span>{{component.type}}</span></div>
+    <div class='type'>{% assign key = component.type %}{% include t.html %}</div>
   </div>
   <div class='container'>
     <div class='row'>
@@ -20,7 +19,7 @@
 {% if component.documents %}
 <script>
   // script for generic components.
-  // enrich document table with documents coming from component documents. cfr 
+  // enrich document table with documents coming from component documents. cfr
   ranketwo.enrich([
     {% for docid in component.documents %}
       {% assign docs = site.data.documents | where:"slug",docid %}
