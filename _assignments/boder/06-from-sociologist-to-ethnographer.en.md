@@ -3,6 +3,11 @@ layout: page
 unit: boder
 title: From sociologist to ethnographer
 order: 6
+tags: 
+- historical consciousness
+- consulting web resources
+- comparing parallel societal developments
+- conscious use of images on the web
 ---
 
 # The vvvv rationale of this assignment:
