@@ -10,7 +10,7 @@ tags:
 - conscious use of images on the web
 ---
 
-# The vvvv rationale of this assignment:
+# The rationale of this assignment:
 
 Boder’s approach shifted from that of a classical social scientist looking for evidence,
 to that of an ethnographer documenting people’s expressions.
