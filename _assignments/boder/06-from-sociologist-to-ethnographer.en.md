@@ -5,7 +5,7 @@ title: From sociologist to ethnographer
 order: 6
 ---
 
-# The rationale of this assignment:
+# The vvvv rationale of this assignment:
 
 Boder’s approach shifted from that of a classical social scientist looking for evidence,
 to that of an ethnographer documenting people’s expressions.
