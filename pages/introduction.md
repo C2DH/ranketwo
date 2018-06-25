@@ -14,7 +14,7 @@ documents:
 ---
 
 
-This platform consists of  **Teaching Units** that offer teaching material about **Digital Source Criticism** with a variety of time slots and complexity. 
+This platform consists of  **Lessons** that offer teaching material about **Digital Source Criticism** with a variety of time slots and complexity. 
 
 
 <!-- more -->
