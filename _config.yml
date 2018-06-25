@@ -4,7 +4,7 @@ languages: ["en", "fr", "de"]
 excerpt_separator: '<!-- more -->'
 
 permalink: /:lang/:title.html
-title: Teaching Digitial Source Criticism
+title: Ranke.2 - Source Criticism in the Digital Age 
 
 exclude: [scripts/]
 collections:
