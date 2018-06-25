@@ -14,7 +14,7 @@ body{
   }
   .container {
     width: auto;
-    margin-right: $margin-768px;
+    margin-right: 0;
     margin-left: $margin-768px
   }
 
@@ -37,8 +37,8 @@ body{
   }
   .container {
     width: auto;
-    margin-right: $margin-992px;
-    margin-left: $margin-992px
+    margin-right: 0;
+    margin-left: $margin-992px;
   }
 
   .lines{
@@ -62,7 +62,7 @@ body{
 
   .container {
     width: auto;
-    margin-right: $margin-1200px;
+    margin-right: 0;
     margin-left: $margin-1200px;
   }
 

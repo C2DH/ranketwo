@@ -4,29 +4,30 @@ layout: default
 {% assign components = site.units|where:"parent",page.slug| sort: 'type'  %}
 {% assign clips = components|where:"type","clip" %}
 {% assign quizzes = components|where:"type","quiz" %}
-{% assign lessons = components|where:"type","lesson" %}
-{% assign introductions = components|where:"type","introduction" %}
+{% assign interactives = components|where:"type","interactive" %}
 
+{% assign introductions = components|where:"type","introduction" %}
+{% assign assignments = site.assignments|where:"unit",page.slug| sort: 'order'  %}
 
 
 <!-- main container -->
 <div class='container'>
   <div class='row'>
     <div class='col-sm-8'>
-  <div class='page unit'>
-    <h1>{{page.title}}</h1>
-    {% for tag in page.tags %}
-    <a href="/">{{tag}}</a>{% unless forloop.last %}&nbsp;&mdash;{% endunless %}
-    {% endfor %}
-    {% assign paragraphs = page.content | split: site.excerpt_separator %}
-    <div>{{paragraphs[0] | markdownify}}</div>
+      <div class='page unit'>
+        <h1>{{page.title}}</h1>
+        {% for tag in page.tags %}
+          <a href="/">{{tag}}</a>{% unless forloop.last %}&nbsp;&mdash;{% endunless %}
+        {% endfor %}
+        {% assign paragraphs = page.content | split: site.excerpt_separator %}
+        <div>{{paragraphs[0] | markdownify}}</div>
 
 
 
 
 
 
-  </div>
+      </div>
     </div>
   </div>
 </div>
@@ -39,18 +40,19 @@ layout: default
   {% include component.html %}
 {% endfor %}
 
+{% for component in interactives %}
+  {% include component.html %}
+{% endfor %}
+
 {% for component in introductions %}
   {% include component.html %}
-
 {% endfor %}
 
-
-{% for component in lessons %}
+{% for component in assignments %}
   {% include component.html %}
 {% endfor %}
 
-
-
+{% assign toc = clips | concat: quizzes | concat: interactives | concat: introductions | concat: assignments %}
 <!-- table of contents contaier -->
 <div id='table-of-contents-wrapper'>
 <div class='container' >
@@ -59,7 +61,7 @@ layout: default
       <!-- ToC -->
       <h4> table of contents </h4>
       <ul>
-      {% for component in clips %}
+      {% for component in toc %}
         <li>
           <div class='lines'>
             <div class="group">
@@ -67,29 +69,9 @@ layout: default
             <div class="line right"></div>
             </div>
           </div>
-          <a href='#c-{{component.slug}}'><span>{{component.title}}</span></a>
-        </li>
-      {% endfor %}
-      {% for component in introductions %}
-        <li>
-          <div class='lines'>
-            <div class="group">
-            <div class="line left"></div>
-            <div class="line right"></div>
-            </div>
-          </div>
-        <a href='#c-{{component.slug}}'><span>introduction</span></a>
-        </li>
-      {% endfor %}
-      {% for component in lessons %}
-        <li>
-          <div class='lines'>
-            <div class="group">
-            <div class="line left"></div>
-            <div class="line right"></div>
-            </div>
-          </div>
-        <a href='#c-{{component.slug}}'><span>{{component.title}}</span></a>
+          <a href='#c-{{component.slug}}'>{% if component.type == "assignment"%}
+            {% assign key="assignment n." %}<h5>&mdash; {% include t.html %}#{{component.order}}</h5>
+            {% endif %}<span>{{component.title}}</span></a>
         </li>
       {% endfor %}
       </ul>

@@ -1,13 +1,14 @@
 <div class="component clip">
   <h3>{{component.title}}</h3>
-  <div class='playposit-wrapper'>
-    {% assign covers = site.data.documents | where: "slug", component.documents[0] %}
-  {% if covers %}
-  {{covers[0].data.embed.html}}
+  {% assign cover = site.data.documents | where: "slug", component.documents[0] | first %}
+  {% if cover %}
+    <div class='iframe-wrapper {{cover.aspectratio}}'>
+      <div class='inner'>
+        {{cover.data.embed.html}}
+      </div>
+    </div>
+    <div class='caption'>
+      {{component.content}}
+    </div>
   {% endif %}
-  </div>
-  <div class='caption'>
-  {{component.content}}
-  </div>
-
 </div>

@@ -1,7 +1,9 @@
+{% assign _component_unit_path = component.path | replace_first: '_units/','' | replace_first: '.md','' | split: '/' | first %}
+
 <div class="component lesson">
   <h3>{{component.title}}</h3>
 
-  
+
   {{component.content}}
 
   {% assign sections = site.units|where:"parent",component.slug%}
@@ -23,7 +25,7 @@
 
 
       </div>
-        
+
     </section>
     {% endif %}
   {% endfor %}
@@ -31,7 +33,7 @@
 </div>
 <script>
   // components.lessons.html
-  // enrich document table with documents coming from lessons subunits. cfr 
+  // enrich document table with documents coming from lessons subunits. cfr
   ranketwo.enrich([
     {% for section in sections %}
     {% for docid in section.documents %}

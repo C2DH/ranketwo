@@ -29,7 +29,7 @@ body{
 
 a{
   color: $black;
-  
+
 }
 
 a:hover{
@@ -86,7 +86,7 @@ ul{
 
       .lines{
         pointer-events: none;
-      
+
         border-color: transparent;
         transition: border-color 0.2s ease-in-out;
       }
@@ -124,7 +124,7 @@ ul{
         }
         a{
           background-color: transparent;
-          span{
+          > span{
             background-color: $highlight;
           }
         }
@@ -151,7 +151,7 @@ ul{
   a{
     padding: 0 10px;
 
-    
+
   }
 
 }
@@ -170,7 +170,7 @@ ul{
   }
   ul li{
     padding: 0 1rem;
-    
+
     a {
       padding: 0 5px;
       border: 2px solid transparent;
@@ -217,78 +217,13 @@ ul.list-of{
 
 }
 
-/* clip */
-.component {
-  .playposit-wrapper{
-    height: 300px;
-    background: $almost-black;
-  }
 
-  section{
-    position: relative;
-    margin-top: 25px;
-
-    h3.excerpt{
-      font-weight: bold;
-      font-size:inherit;
-      line-height: inherit;
-    }
-
-    aside{
-      position: absolute;
-      left: -220px;
-      text-align: right;
-      width: 200px;
-      // font-weight: bold;
-    }
-  }
-}
-
-.component.clip{
-  padding-top: 10px;
-  h3{
-    font-weight: bold;
-    font-size:inherit;
-    line-height: inherit;
-  }
-
-
-}
-
-
-.component-wrapper{
-  margin-top: 50px;
-  margin-bottom: 100px;
-  position: relative;
-
-  &.clip{
-    margin-top: 10px;
-    margin-bottom: 0px;
-    background-color: #e0e0e0;
-    padding-bottom: 10px;
-
-    .caption{
-      font-size: .8em;
-      margin: 1em 0;
-    }
-  }
-
-  &.introduction{
-    h2, h3 {
-      font-weight: bold;
-      font-size:inherit;
-      line-height: inherit;
-    }
-  }
-
-
-}
 
 .type{
   border: 2px solid $almost-black;
-  
+
   height: 25px;
-  
+
   line-height: 20px;
   font-size: 13px;
   font-weight: 700;
@@ -310,11 +245,11 @@ ul.list-of{
       right: 0px;
       top: -25px;
     }
-    
+
 
     .line{
       position: absolute;
-      
+
       &.left{
         left:0px;top:0;bottom:0;width: 1px;
         background-color: #0000FF
@@ -420,6 +355,6 @@ li.author{
   }
 }
 @import "layouts/literature", "layouts/unit";
-@import "includes/footer";
+@import "includes/footer", "includes/component";
 @import "templates/placeholder";
 @import "media-queries";

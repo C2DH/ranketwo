@@ -11,9 +11,9 @@
     <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css?v=' | relative_url }}" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 </head>
-<body>
+<body class='{{page.layout}}'>
   {% include nav.html %}
-  
+
   <script>
     function Ranketwo() {
       var that = this;
@@ -24,17 +24,17 @@
         for (var i=0,l=docs.length; i< l;i++){
           if(!docs[i])
             continue; // skip undefined
-          
+
           console.log('  - ', docs[i].slug);
           this.docs[docs[i].slug] = docs[i];
         }
       }
     }
-    
+
     window.ranketwo = new Ranketwo();
-  
+
     {% if page.documents %}
-  
+
     window.ranketwo.enrich([
       {% for docid in page.documents %}
         {% assign docs = site.data.documents | where:"slug",docid %}
@@ -43,7 +43,7 @@
     ], '{{page.path}}');
     // call this function on your specific places
     // window.documentList
-  
+
     {% endif %}
   </script>
 

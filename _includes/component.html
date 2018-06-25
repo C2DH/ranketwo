@@ -1,6 +1,5 @@
-{% assign _component_unit_path = component.path | replace_first: '_units/','' | replace_first: '.md','' | split: '/' | first %}
 <a class='anchor' id='c-{{component.slug}}'></a>
-<div class='component-wrapper {{component.type}} scrollspy'>
+<div class='component-wrapper {{component.type}} scrollspy {%if component.type == "interactive" %}full-height{% endif %}'>
   <div class='lines'>
     <div class="line left"></div>
     <div class="line right"></div>
@@ -10,7 +9,7 @@
   <div class='container'>
     <div class='row'>
       <div class='col-sm-8'>
-      {% include component.{{component.type}}.html %}
+        {% include component.{{component.type}}.html %}
       </div>
     </div>
   </div>

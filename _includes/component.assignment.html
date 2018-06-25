@@ -1,0 +1,10 @@
+<div class="component assignment">
+  <section>
+  <h3>{{component.title}}</h3>
+  {% assign excerpt = component.content | split: site.excerpt_separator | first %}
+  <blockquote>{{excerpt | markdownify}}</blockquote>
+  {{component.url}}
+
+    <aside><b>assignment #{{component.order}}</b><br>{{component.duration}}</aside>
+  </section>
+</div>

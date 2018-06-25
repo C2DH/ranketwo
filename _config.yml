@@ -16,4 +16,4 @@ collections:
     permalink: /a/:path/
   assignments:
     output: true
-    permalink: /assignment/:path/
+    permalink: /assignment/:slug/

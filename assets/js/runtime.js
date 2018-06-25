@@ -1,18 +1,18 @@
 ---
 
 ---
-/* runtime 
-  
+/* runtime
+
   This script handles the Table of contents fixed on scrolling and the loading of documents data.
 
 */
 var _window        = d3.select(window),
     _toc, // table of contents, cfr. unit.html
-    _toc_offsettop = 0,// table of contents offsettop, stored locally. 
+    _toc_offsettop = 0,// table of contents offsettop, stored locally.
     _toc_isfixed = false,
 
     _documents,
-    
+
     scrollspy = {
       _li: null,
       timer: null,
@@ -21,7 +21,7 @@ var _window        = d3.select(window),
     };
 
 
-// debounce 
+// debounce
 function debounce(fn, delay) {
   var timer = null;
   return function () {
@@ -67,7 +67,7 @@ var scrollspyingthrottle = throttle(scrollspying, 100);
 // activate table of contents items on scrolling
 function scrolling(){
   // console.log('- sY:', window.scrollY, '- h:',window.innerHeight, window.scrollY > _toc_offsettop);
-  
+
   // check table of contents
   if(window.scrollY > _toc_offsettop){
     if(!_toc_isfixed) {
@@ -77,7 +77,7 @@ function scrolling(){
   } else if(_toc_isfixed) {
     _toc_isfixed = false;
     _toc.classed('fixed', false);
-  } 
+  }
 
   // check table of scrollpsies
   for(var i=0, l=scrollspy.anchors.length; i < l; i++) {
@@ -103,6 +103,12 @@ function resizing(){
   // calculate the offsettops and height for the component-wrapper to be scrollspied.
   d3.selectAll('body > div.scrollspy').select(function(_, i) {
     // console.log(arguments, )
+    // debugger;
+
+    // if(this.classList.contains('full-height')){
+    //   console.log('(resizing) -> full-height', window.innerHeight)
+    //   this.style.height = parseInt(window.innerHeight*.8)  + 'px';
+    // }
     var rect = this.getBoundingClientRect(); // correct before scrolling
     scrollspy.anchors[i] = {
       height: rect.height,
@@ -164,7 +170,7 @@ function browseToScrollspy(index) {
 //       return t < 0.5 ? 16 * t * t * t * t * t : 1 + 16 * (--t) * t * t * t * t;
 //     }
 //   };
-  
+
 // }
 
 function throttle(func, wait, options) {
@@ -208,14 +214,14 @@ function _buildPlaceholder(placeholder_id){
     return;
   }
   var placeholder = document.createElement("div");
-  
+
   placeholder.className = 'placeholder'
   placeholder.setAttribute('data-id', placeholder_id);
-  
-  
+
+
   var _placeholder = d3.select(placeholder);
 
-  
+
   if(doc.attachment){
     _placeholder.classed('with-cover', true);
     _placeholder.
@@ -285,7 +291,7 @@ document.addEventListener("DOMContentLoaded", function(e) {
   // add Toable of Content wrapper ypos if any.
   _toc = d3.select('#table-of-contents-wrapper');
 
-  
+
 
   _documents = d3.selectAll('.contents > p > a').select(function() {
     var attr = this.getAttribute('href'),
@@ -295,17 +301,17 @@ document.addEventListener("DOMContentLoaded", function(e) {
       if(attr.split(',').length > 1) {
 
         placeholder = _buildPlaceholderGallery(attr.split(','));
-        
+
       } else {
         var placeholder_id = attr.split('/').join('-').replace(/^-d-/,'');
         console.log('placeholder_id', placeholder_id)
         _buildPlaceholder(placeholder_id)
-      
+
         if(!window.ranketwo.docs[placeholder_id]){
           console.warn('document with id:', placeholder_id, 'not found. Skipping placeholder...')
           return;
         }
-        
+
         placeholder = _buildPlaceholder(placeholder_id);
         if(!placeholder){
           console.warn('document with id:', placeholder_id, 'failed built.')
@@ -318,7 +324,7 @@ document.addEventListener("DOMContentLoaded", function(e) {
     }
   });
 
-  // 
+  //
   scrollspy._li = _toc.selectAll('ul li')
 
   // call resizing and scrolling function
