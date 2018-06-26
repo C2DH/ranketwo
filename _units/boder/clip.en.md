@@ -1,6 +1,7 @@
 ---
 title: Animation on David Boder and his interview collection
 type: clip
+lang: en
 parent: boder
 duration: 390
 aspect-ratio: "ratio-16-9"
