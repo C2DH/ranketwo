@@ -2,10 +2,10 @@ primary:
   links:
     - title: introduction
       href: /introduction/
-    - title: structure of the teaching material: SMALL - MEDIUM - LARGE
-      href: /structure-of-teaching-material-SMALL-MEDIUM-LARGE/
-    - title: 2 teaching modules 
-      href: /2-teaching-modules/
+    - title: structure of the teaching modules
+      href: /structure-of-teaching-modules/
+    - title: teaching modules 
+      href: /teaching-modules/
 secondary:
   links:
     
