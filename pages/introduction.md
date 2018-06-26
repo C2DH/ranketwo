@@ -14,7 +14,7 @@ documents:
 ---
 
 
-This platform consists of  **Lessons** that offer teaching material about **Digital Source Criticism** with a variety of time slots and complexity. 
+**Ranke.2 - Source Criticism in the Digital Age** is a teaching platform with lessons on how to apply source criticism to historical sources that are digitized and published online
 
 
 <!-- more -->
@@ -59,7 +59,7 @@ Students who complete one or more of these lessons will:
  7. understand the various phases of the research process and which tools you can use for each phase 
  8. be able to apply a number of digital tools on data in a basic way
  9. understand what the tools actually do with the data: the underlying mathematical and manipulative principle
-10.understand how the outcome of research can be presented in multimodal/transmodal non-linear narratives (storytelling) with the help of tools.
+10. understand how the outcome of research can be presented in multimodal/transmodal non-linear narratives (storytelling) with the help of tools.
 
 ### Key Terms 
   
