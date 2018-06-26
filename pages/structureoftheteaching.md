@@ -1,39 +1,26 @@
 ---
 layout: page
 lang: en
-permalink: /structure-of-the-teaching/
-link: /structure-of-the-teaching/
-title: structure of the teaching unit
+permalink: /structure-of-the-teaching-modules/
+link: /structure-of-the-teaching-modules/
+title: structure of the teaching modules
 documents:
   - document-example
   - document-example-b
 ---
  
 
-Each **TEACHING UNIT** consists of a **Metadata Scheme**, a **Clip & Quiz**,  a **Lesson**, and a **Workshop** 
+
 
 <!-- more -->
 
-### Metadata   
 
-The metadata scheme describes the characteristics of the teaching unit:
-1. Tags about the topic, discipline and source type
-2. Target audience
-3. Time span of the various assignments 
-4. ECTS (European Credits Transfer accreditation System) 
+**How is the content organized?** - ⟴    
+Each teaching module consists of a **SMALL**, **MEDIUM**, and **LARGE** component, with an increasing level of complexity and time effort 
 
 
-
-**C & Q** - ⟴    
-**CLIP AND QUIZ** 
-
-The Clip consists of an animation, a web-lecture,a podcast or slideshow with voice- over. You can also choose to watch an interactive version of the clip with a quiz or assignment. Watching the enlarged version takes a maximum of 10 minutes, which makes it suitable  to use in the classroom to get to  know the subject, or as homework or as an introduction to a topic. It has a low threshold and is geared towards a general audience. It also contains instructions on how to use the quiz tool with alternative videos of your choice. 
-
-
-**L**  - ⟴    
-**LESSON WITH ASSIGNMENTS**  
-
-
+**SMALL**  - ⟴    
+ 
 A Lesson contains a variety of individual and collaborative assignments for bachelor students of humanities. Each assignments takes about 1,5 to 4 hours to accomplish. 
 
 Each Lesson consists of:
