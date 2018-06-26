@@ -45,7 +45,6 @@ In a way this could be compared to how the introduction of the microscope and te
 
 Consequently the  lessons we offer are a crossover between history, archival studies, ancillary sciences, information science and computer science.  In our view this multidisciplinary approach is necessary to foster a new generation of digital savvy scholars, who ask the right questions to digital content and are able to organize, analyse and present digital data with the help of digital tools. 
 
-
 ### Objectives 
 
 Students who complete one or more of these lessons will:
