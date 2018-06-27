@@ -1,9 +1,9 @@
 ---
 layout: page
 lang: en
-permalink: /structure-of-the-teaching-modules/
-link: /structure-of-the-teaching-modules/
-title: structure of the teaching modules
+permalink: /structure-of-teaching-modules/
+link: /structure-of-teaching-modules/
+title: structure of teaching modules
 documents:
   - document-example
   - document-example-b
