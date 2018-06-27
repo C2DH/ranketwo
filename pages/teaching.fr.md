@@ -1,8 +1,8 @@
 ---
 layout: page
 lang: fr
-permalink: /fr/teaching/
-link: /teaching/
+permalink: /fr/teaching-modules/
+link: /teaching-modules/
 title: Teaching
 ---
 
