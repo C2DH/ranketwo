@@ -38,7 +38,7 @@ A lecturer can choose one or more modules or assignments that can be completed a
 - How the topic of digital source criticism fits into a given course (most applicable is the subject ‘introduction into research methods’   
   that is generally offered in the first year of a bachelor study)
 - The level of digital savviness of pupils and lecturers
-- The amount of available time 
+- The amount of available time
 
 
 **How to choose an assignment?**
