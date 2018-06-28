@@ -3,10 +3,10 @@ layout: page
 lang: en
 permalink: /teaching-modules/
 link: /teaching-modules/
-title: Teaching!
+title: A Series of Teaching Modules on the topic of Digital Source Criticism
 ---
 
-***A series of Teaching Modules on the topic of Digital Source Criticism*** 
+
  
 <!-- more -->
 
