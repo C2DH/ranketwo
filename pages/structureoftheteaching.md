@@ -42,6 +42,7 @@ that is generally offered in the first year of a bachelor study)
 
 
 **How to choose an assignment?**
+
 As this lessons are not bound to enrolment and there is no teacher available to monitor progress and offer feedback, lecturers should assess themselves how to integrate the content into their own lessons. To support a lecturer’s choice, each assignment offers metadata about the time-effort, learning outcomes, key words and practical requirements. There is also the possibility to  download a pdf of the assignment, in order to integrate it somewhere else. The same applies to a template that students can use for completing their assignments.
 
 
