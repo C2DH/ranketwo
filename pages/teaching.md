@@ -6,6 +6,7 @@ link: /teaching-modules/
 title: Teaching!
 ---
 
-Ask the historian. 
+***A series of Teaching Modules on the topic of Digital Source Criticism***
+ 
 <!-- more -->
 en plus...
