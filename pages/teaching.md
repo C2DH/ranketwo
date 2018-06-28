@@ -27,7 +27,7 @@ Mediatype: audiovisual, interviews
 
 Tags: Holocaust Studies, History of Communication Technology, Media Studies, Linguistics, Oral History, Translation Studies 
 
-<!-- more -->
+
 
 
 ***Transformation; How the Digital Creates New Realities***
@@ -45,7 +45,7 @@ Media type: digital objects in general
 Tags: theory of knowledge, media studies, digital culture, greek mythology, innovation, speech retrieval , 
 image recognition, 
 
-<!-- more -->
+
 
 
 ***From the Archival to the Digital Turn*** 
@@ -63,5 +63,5 @@ Media type: photos, letters, e-mails,
 Tags: theory of knowledge, media studies, digital culture, greek mythology, innovation, speech retrieval , 
 image recognition, 
 
-<!-- more -->
+
 
