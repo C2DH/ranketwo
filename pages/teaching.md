@@ -34,6 +34,8 @@ Tags: Holocaust Studies, History of Communication Technology, Media Studies, Lin
 
 Animation on the theme of transformation and how digital technology shapes new realities 
 
+Content:
+
 SMALL:  animation + quiz 
 
 MEDIUM: animation + 6 assignments 
@@ -49,6 +51,8 @@ image recognition,
 ***From the Archival to the Digital Turn*** 
 
 Animation on how the method of source criticism has been affected by the Digital Turn
+
+Content:
 
 SMALL:  animation + quiz 
 
