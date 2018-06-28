@@ -34,7 +34,9 @@ The objective of the tutorial is to go through all the steps required to create 
 **How can you use the modules?**
 
 A lecturer can choose one or more modules or assignments that can be completed and discussed in class or can be given as homework. Considerations for the lecturer to choose which material to use could be: 
-- How the topic of digital source criticism fits into a given course (most applicable is the subject ‘introduction into research methods’ that is generally offered in the first year of a bachelor study)
+
+- How the topic of digital source criticism fits into a given course (most applicable is the subject ‘introduction into research methods’   
+  that is generally offered in the first year of a bachelor study)
 - The level of digital savviness of pupils and lecturers
 - The amount of available time 
 
