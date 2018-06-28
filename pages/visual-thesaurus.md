@@ -1,11 +1,11 @@
 ---
 layout: page
 lang: en
-permalink: /visual-thesaurus/
-link: /visual-thesaurus/
-title: Visual Thesaurus
+permalink: /genealogy/
+link: /genealogy/
+title: genealogy of the term Digital Source Criticism
 ---
 
-visual thesaurus (en)
+genealogy (en)
 <!-- more -->
 en plus...
