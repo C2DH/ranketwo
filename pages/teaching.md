@@ -11,6 +11,7 @@ title: A Series of Teaching Modules on the topic of Digital Source Criticism
 <!-- more -->
 
 ***David Boder; From wirerecorder to website***
+
 Animation on how the collection of interviews with concentration camp survivors created by David Boder with a wire 
 recorded in 1946, has been turned into an interactive website in 2009. 
 
