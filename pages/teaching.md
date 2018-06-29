@@ -4,11 +4,15 @@ lang: en
 permalink: /teaching-modules/
 link: /teaching-modules/
 title: A Series of Teaching Modules on the topic of Digital Source Criticism
+documents: 
+- Boder-wirerecorder
 ---
 
 
  
 <!-- more -->
+
+[](Boder-wirerecorder)
 
 ***David Boder; From wirerecorder to website***
 
