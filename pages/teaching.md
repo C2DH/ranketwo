@@ -71,3 +71,17 @@ image recognition,
 
 
 
+**How can you use the modules?**
+
+A lecturer can choose one or more modules or assignments that can be completed and discussed in class or can be given as homework. Considerations for the lecturer to choose which material to use could be: 
+
+1. How the topic of digital source criticism fits into a given course (most applicable is the subject ‘introduction into research methods’   
+that is generally offered in the first year of a bachelor study)
+2. The level of digital savviness of pupils and lecturers
+3. The amount of available time
+
+
+**How to choose an assignment?**
+
+
+As this lessons are not bound to enrolment and there is no teacher available to monitor progress and offer feedback, lecturers should assess themselves how to integrate the content into their own lessons. To support a lecturer’s choice, each assignment offers metadata about the time-effort, learning outcomes, key words and practical requirements. There is also the possibility to  download a pdf of the assignment, in order to integrate it somewhere else. The same applies to a template that students can use for completing their assignments.
