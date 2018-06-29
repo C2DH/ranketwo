@@ -6,6 +6,7 @@ link: /teaching-modules/
 title: A Series of Teaching Modules on the topic of Digital Source Criticism
 documents: 
 - Boder-wirerecorder
+- Transformation-Galilei
 ---
 
 
@@ -63,4 +64,7 @@ Media type: photos, letters, e-mails,
 
 Tags: theory of knowledge, media studies, digital culture, greek mythology, innovation, speech retrieval , 
 image recognition, 
+
+
+[](Transformation-Galilei)
 
