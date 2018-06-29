@@ -16,6 +16,7 @@ Animation on how the collection of interviews with concentration camp survivors 
 recorded in 1946, has been turned into an interactive website in 2009. 
 
 Content:
+
 ***SMALL***: animation + quiz
 
 ***MEDIUM***: interactive animation + 12 assignments 
@@ -27,19 +28,19 @@ Content:
 ***Tags***: Holocaust Studies, History of Communication Technology, Media Studies, Linguistics, Oral History, Translation Studies 
 
 
-
 ***Transformation; How the Digital Creates New Realities***
 
 Animation on the theme of transformation and how digital technology shapes new realities 
 
 Content:
-SMALL:  animation + quiz 
 
-MEDIUM: animation + 6 assignments 
+***SMALL***: animation + quiz 
 
-Media type: digital objects in general 
+***MEDIUM***: animation + 6 assignments 
 
-Tags: theory of knowledge, media studies, digital culture, greek mythology, innovation, speech retrieval , 
+***Mediatype***: digital objects in general 
+
+***Tags***:theory of knowledge, media studies, digital culture, greek mythology, innovation, speech retrieval , 
 image recognition, 
 
 
