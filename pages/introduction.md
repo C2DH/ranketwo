@@ -19,9 +19,7 @@ documents:
 
 <!-- more -->
 
-<!-- 
-Each teaching unit starts off with a **short audiovisual clip** combined with a **quiz**, and is followed by a series of **assignments**. The last part consists of a **tutorial for a workshop** with the aim of creating a digital object. 
- -->
+
 
 ### Why should we address the topic of Digital Source Criticism? 
 
