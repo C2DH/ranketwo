@@ -17,10 +17,15 @@ recorded in 1946, has been turned into an interactive website in 2009.
 
 Content:
 ***SMALL***: animation + quiz
+
 ***MEDIUM***: interactive animation + 12 assignments 
+
 ***LARGE***: tutorial for hands on workshop
+
 ***Mediatype***: audiovisual, interviews
+
 ***Tags***: Holocaust Studies, History of Communication Technology, Media Studies, Linguistics, Oral History, Translation Studies 
+
 
 
 ***Transformation; How the Digital Creates New Realities***
