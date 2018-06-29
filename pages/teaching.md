@@ -60,13 +60,13 @@ Animation on how the method of source criticism has been affected by the Digital
 
 Content:
 
-SMALL:  animation + quiz 
+***SMALL***:  animation + quiz 
 
-MEDIUM: animation + 6 assignments 
+***MEDIUM***: animation + 6 assignments 
 
-Media type: photos, letters, e-mails, 
+***Mediatype***: photos, letters, e-mails, 
 
-Tags: theory of knowledge, media studies, digital culture, greek mythology, innovation, speech retrieval , 
+***Tags***: theory of knowledge, media studies, digital culture, greek mythology, innovation, speech retrieval , 
 image recognition, 
 
 
