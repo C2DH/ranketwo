@@ -32,6 +32,7 @@ Tags: Holocaust Studies, History of Communication Technology, Media Studies, Lin
 
 
 
+
 ***Transformation; How the Digital Creates New Realities***
 
 Animation on the theme of transformation and how digital technology shapes new realities 
@@ -46,6 +47,7 @@ Media type: digital objects in general
 
 Tags: theory of knowledge, media studies, digital culture, greek mythology, innovation, speech retrieval , 
 image recognition, 
+
 
 
 
