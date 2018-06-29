@@ -32,6 +32,7 @@ Content:
 
 ***Tags***: Holocaust Studies, History of Communication Technology, Media Studies, Linguistics, Oral History, Translation Studies 
 
+<!-- more -->
 
 ***Transformation; How the Digital Creates New Realities***
 
@@ -48,6 +49,9 @@ Content:
 ***Tags***:theory of knowledge, media studies, digital culture, greek mythology, innovation, speech retrieval , 
 image recognition, 
 
+[](Transformation-Galilei)
+
+<!-- more -->
 
 
 ***From the Archival to the Digital Turn*** 
@@ -66,5 +70,5 @@ Tags: theory of knowledge, media studies, digital culture, greek mythology, inno
 image recognition, 
 
 
-[](Transformation-Galilei)
+<!-- more -->
 
