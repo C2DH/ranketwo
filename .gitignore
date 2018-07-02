@@ -10,3 +10,5 @@ __*.*
 __*
 records.json
 package-lock.json
+.bundle/
+.project
