@@ -3,16 +3,15 @@ layout: page
 lang: en
 permalink: /structure-of-teaching-modules/
 link: /structure-of-teaching-modules/
-title: Structure of teaching modules
+title: 
 documents:
   - document-example
   - document-example-b
 ---
-Each teaching module consists of a **SMALL**, **MEDIUM**, and **LARGE** component, with an increasing level of complexity and time effort   
 
+**Structure of the Teaching Modules** ; Each teaching module consists of a **SMALL**, **MEDIUM**, and **LARGE** component, with an increasing level of complexity and time effort   
 
 <!-- more -->
-
 
 ## SMALL   
 The **SMALL** module consists of a short animation of around 6 to 7 min that is intended to be accessible to a broad audience, regardless of a teaching context. This is followed by a quiz that takes around 10 min.
