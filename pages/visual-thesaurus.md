@@ -8,7 +8,7 @@ title:
 
 
 
-**Ranke.2 - How to define Digital Source Criticism? ** ; what is the origin and what are the different perspectives on the meaning of the term? 
+**Ranke.2 - How to define Digital Source Criticism?** ; what is the origin and what are the different perspectives on the meaning of the term? 
 
 <!-- more -->
 
