@@ -15,7 +15,7 @@ documents:
  
 
 [](Boder-wirerecorder)
-
+{: .extra-spacing}
 ## David Boder; From wirerecorder to website
 
 Animation on how the collection of interviews with concentration camp survivors created by David Boder with a wire 
@@ -34,7 +34,7 @@ Content:
 ***Tags***: Holocaust Studies, History of Communication Technology, Media Studies, Linguistics, Oral History, Translation Studies 
 
 
-
+{: .extra-spacing}
 ## Transformation; How the Digital Creates New Realities
 
 Animation on the theme of transformation and how digital technology shapes new realities 
@@ -54,7 +54,7 @@ image recognition,
 
 
 
-
+{: .extra-spacing}
 ## From the Archival to the Digital Turn
 
 Animation on how the method of source criticism has been affected by the Digital Turn
