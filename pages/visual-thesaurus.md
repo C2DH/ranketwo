@@ -3,13 +3,13 @@ layout: page
 lang: en
 permalink: /genealogy/
 link: /genealogy/
-title: genealogy of the term Digital Source Criticism
+title: How to define Digital Source Criticism? 
 ---
 
 genealogy (en)
 <!-- more -->
 
-***Genealogy of the term Digital Source Criticism***
+***Origin of the term Digital Source Criticism***
 
 Digital 	Latin: finger, 15th c: whole number<10	using data in the form of numerical digits; in context of mathematics, later computer science	http://www.dictionary.com; Google etyomology; Oxford english dictionary
 
