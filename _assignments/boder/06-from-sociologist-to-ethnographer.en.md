@@ -4,6 +4,7 @@ unit: boder
 lang: en
 type: assignment
 title: From sociologist to ethnographer
+cover: /assets/images/attachments/12boxes/12boxes_03.png
 order: 6
 tags:
 - historical consciousness

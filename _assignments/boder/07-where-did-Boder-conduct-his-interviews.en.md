@@ -3,6 +3,7 @@ layout: assignment
 unit: boder
 type: assignment
 title: Where did Boder conduct his interviews?
+cover: /assets/images/attachments/12boxes/12boxes_07.png
 order: 7
 lang: en
 ---

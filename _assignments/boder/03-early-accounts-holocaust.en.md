@@ -4,14 +4,10 @@ unit: boder
 lang: en
 type: assignment
 title: Different ways of documenting people’s accounts of the Holocaust
+cover: /assets/images/attachments/12boxes/12boxes_03.png
 order: 3
 tags: methods of research, data collection, interview protocols, digital archives, privacy, oral history, qualitative data
 ---
-
-show print screen of box with title of topic from index 'Early accounts of the Holocaust'
-
-
-***The rationale of this assignment***
 
 When reflecting on the value and meaning of a source that has
 been published on the web it is important to take the context of

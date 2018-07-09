@@ -1,5 +1,10 @@
 /* clip */
 .component {
+  h4{
+    font-size:inherit;
+    font-weight: bold;
+    margin-top: 2em;
+  }
   .iframe-wrapper{
     background: $almost-black;
     padding-top: 75%;
