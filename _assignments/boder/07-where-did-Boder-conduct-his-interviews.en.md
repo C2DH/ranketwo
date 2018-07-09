@@ -26,7 +26,7 @@ production’ about the Holocaust.
 - Open the box ‘Where did Boder conduct his interviews’  and watch the clip about the displacement camps
 https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
 
-***7a  Envisioning a future life***
+### 7a  Envisioning a future life
 
 The mindsets of the survivors housed in the Displacement Camps was clearly geared towards the future. But there is one
 reference    to commemoration projects.
@@ -40,14 +40,14 @@ reference    to commemoration projects.
 - When did this happen?
 - On the basis of what financial means and with what purpose?
 
-***7b  Documenting the recent past***
+### 7b  Documenting the recent past
 
 Click on this link https://www.kedem-auctions.com/content/two-posters-issued-central-historical-commission-central-committee-liberated-jews-american
 Download the image, enlarge it, and read what it says in the left lower corner.
 Try to find the original place where this poster was created by conducting web research
 Who designed the poster? Where was it created? With what means?
 
-***7c  Displacement camps in 1945 and 1946***
+### 7c  Displacement camps in 1945 and 1946
 
 Boder also visited Displacement Camps. On the website Voices of the Holocaust, a map is shown with all the locations that he visited.
 - Try to find out whether initiatives were taken up in these camps to document the experiencers of the inmates.
@@ -58,7 +58,7 @@ http://vhaonline.usc.edu/login (you have to create an account)
 http://www.dpcamps.org/listDPCampsbyTeamNo.pdf
 
 
-<!-- briefing-lecturers -->
+<!-- briefing-teacher -->
 
 
 Time effort: ?
