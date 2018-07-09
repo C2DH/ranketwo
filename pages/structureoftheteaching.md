@@ -31,7 +31,7 @@ The ***LARGE*** module offers a tutorial for a hands on workshop of one or more 
 The objective of the tutorial is to go through all the steps required to create a digital history project. This can vary from creating a  website or podcast by applying  a storytelling tool,creating a digital exhibit or annotating a corpus of photos. 
 
 
-**How can you use the modules?**
+## How can you use the modules?
 
 A lecturer can choose one or more modules or assignments that can be completed and discussed in class or can be given as homework. Considerations for the lecturer to choose which material to use could be: 
 
