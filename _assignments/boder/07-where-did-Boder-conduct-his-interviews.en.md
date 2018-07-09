@@ -42,7 +42,9 @@ reference    to commemoration projects.
 
 ### 7b  Documenting the recent past
 
+{: .headsup}
 Click on this link https://www.kedem-auctions.com/content/two-posters-issued-central-historical-commission-central-committee-liberated-jews-american
+
 Download the image, enlarge it, and read what it says in the left lower corner.
 Try to find the original place where this poster was created by conducting web research
 Who designed the poster? Where was it created? With what means?
