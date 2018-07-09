@@ -3,10 +3,13 @@ layout: page
 lang: en
 permalink: /genealogy/
 link: /genealogy/
-title: How to define Digital Source Criticism? 
+title: 
 ---
 
-genealogy (en)
+
+
+**Ranke.2 - How to define Digital Source Criticism? ** ; what is the origin and what are the different perspectives on the meaning of the term? 
+
 <!-- more -->
 
 ***Origin of the term Digital Source Criticism***
