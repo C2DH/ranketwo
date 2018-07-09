@@ -4,7 +4,15 @@
     <div class="line left"></div>
     <div class="line right"></div>
     <div class='line top'></div>
-    <div class='type'>{% assign key = component.type %}{% include t.html %}</div>
+    <div class='type'><span>{% assign key = component.type %}{% include t.html %}{% if component.order %}#{{component.order}}{% endif %}</span></div>
+
+    {% if component.size %}
+    <div class='component--metadata'>
+      <div class='component--metadata--duration'>{{component.duration}}</div>
+      <div class='component--metadata--size'>{{component.size}}</div>
+    </div>
+    {% endif %}
+
   </div>
   <div class='container'>
     <div class='row'>

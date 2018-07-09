@@ -35,6 +35,10 @@
       width: 200px;
       top: 0;
       // font-weight: bold;
+
+      .image-wrapper img{
+        width: 100%;
+      }
     }
   }
 }
@@ -69,6 +73,7 @@
       margin: 1em 0;
     }
   }
+
   &.quiz{
     background-color: #d0d0d0;
   }
@@ -90,5 +95,15 @@
     }
   }
 
+  .component--size{
+    position: absolute;
+    right:0;
+    border: 2px solid #1C090B;
+    height: 25px;
+    top: -2px;
+    padding: 0 5px;
+    font-weight: bold;
+    background-color: white;
+  }
 
 }
