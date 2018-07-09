@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: assignment
 unit: boder
+lang: en
 type: assignment
 title: From sociologist to ethnographer
 order: 6
