@@ -1,7 +1,7 @@
 ---
-title: David Boder; From wire recordings to website ; source criticism applied to Holocaust testimonies on the web 
+title: "David Boder: From wire recordings to website. Source criticism applied to Holocaust testimonies on the web"
 layout: unit
-tags: 
+tags:
   - holocaust studies
   - media studies
   - history of technology
@@ -11,16 +11,16 @@ tags:
   - psychology
 assignement:
   - 001-boder-timeline
-authors: 
+authors:
   - stefania-scagliola
 lang: en
+unit_id: boder
 link: /u/boder/
-ects: 
-audience: general public, bachelor, master humanities 
+permalink: /u/boder/
+audience: general public, bachelor, master humanities
 ---
 
 
 
 
 <!-- more -->
-
