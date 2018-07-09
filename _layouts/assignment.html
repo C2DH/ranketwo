@@ -5,9 +5,12 @@ layout: default
 {% assign unit = site.units|where:"layout","unit"|where:"lang",page.lang|where:"unit_id",page.unit | first %}
 <!--  unit: {{unit.id}} -->
 <div class='container'>
-  <div class='page'>
-    <a href="{{unit.permalink | relative_url}}">{{unit.title}}</a>
+  <div class='page assignment'>
+
     <h1>{{page.title}}</h1>
+
+    <div>assignment n. {{page.order}} of <br><a href="{{unit.permalink | relative_url}}">{{unit.title}}</a></div>
+
     {% assign excerpt = page.content | split: site.excerpt_separator | first %}
     <div class="excerpt">{{excerpt | markdownify}}</div>
 
@@ -16,13 +19,15 @@ layout: default
       {% assign briefings = page.content | split: site.excerpt_separator | last | split: site.briefing_separator %}
       {% assign briefing_student = briefings |  first %}
       {% assign briefing_teacher = briefings |  last %}
-      <div>
-      student:
-      {{briefing_student}}
-      </div>
-      <div>
-      teacherchallenge
-      {{briefing_teacher}}
+      <div class='row'>
+        <div class='col-8'>
+          student:
+          {{briefing_student}}
+          </div>
+        <div class='col-4'>
+          teacherchallenge
+          {{briefing_teacher}}
+        </div>
       </div>
     </div>
   </div>
