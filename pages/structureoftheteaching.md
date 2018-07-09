@@ -17,6 +17,10 @@ documents:
 
 The teaching modules have been structured in such a manner that they can serve the needs of students,lecturers or independent learners with limited time, as well as those who really want to study a topic in depth. Each module can consist of a SMALL, MEDIUM or LARGE component.
 
+(could we place here 3 images of sizes of shoes: 35.  -    39.   -   42? ) 
+
+The teaching modules have been structured in such a manner that they can serve the needs of students,lecturers or independent learners with limited time, as well as those who really want to study a topic in depth. Each module can consist of a SMALL, MEDIUM or LARGE component.  
+
 {: .extra-spacing}
 ## SMALL   
 The **SMALL** module consists of a short animation of around 6 to 7 min that is intended to be accessible to a broad audience, regardless of a teaching context. This is followed by a quiz that takes around 10 min.
