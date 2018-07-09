@@ -15,7 +15,7 @@ documents:
 
 [](Boder-wirerecorder)
 
-***David Boder; From wirerecorder to website***
+## David Boder; From wirerecorder to website
 
 Animation on how the collection of interviews with concentration camp survivors created by David Boder with a wire 
 recorded in 1946, has been turned into an interactive website in 2009. 
@@ -34,7 +34,7 @@ Content:
 
 
 
-***Transformation; How the Digital Creates New Realities***
+## Transformation; How the Digital Creates New Realities
 
 Animation on the theme of transformation and how digital technology shapes new realities 
 
@@ -54,7 +54,7 @@ image recognition,
 
 
 
-***From the Archival to the Digital Turn*** 
+## From the Archival to the Digital Turn
 
 Animation on how the method of source criticism has been affected by the Digital Turn
 
