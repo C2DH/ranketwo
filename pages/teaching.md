@@ -3,15 +3,16 @@ layout: page
 lang: en
 permalink: /teaching-modules/
 link: /teaching-modules/
-title: A Series of Teaching Modules on the topic of Digital Source Criticism
+title: 
 documents: 
 - Boder-wirerecorder
 - Transformation-Galilei
 ---
 
 
- 
+**Ranke.2 - The Content of the Teaching Modules**; 
 <!-- more -->
+ 
 
 [](Boder-wirerecorder)
 
