@@ -13,6 +13,10 @@ documents:
 
 <!-- more -->
 
+## What does each component have to offer? 
+
+The teaching modules have been structured in such a manner that they can serve the needs of students,lecturers or independent learners with limited time, as well as those who really want to study a topic in depth. Each module can consist of a SMALL, MEDIUM or LARGE component. 
+
 ## SMALL   
 The **SMALL** module consists of a short animation of around 6 to 7 min that is intended to be accessible to a broad audience, regardless of a teaching context. This is followed by a quiz that takes around 10 min.
 
@@ -33,7 +37,7 @@ that is generally offered in the first year of a bachelor study)
 2. The level of digital savviness of pupils and lecturers
 3. The amount of available time
 
-
+{: .extra-spacing}
 ## How to choose an assignment?
 
 As this lessons are not bound to enrolment and there is no teacher available to monitor progress and offer feedback, lecturers should assess themselves how to integrate the content into their own lessons. To support a lecturer’s choice, each assignment offers metadata about the time-effort, learning outcomes, key words and practical requirements. There is also the possibility to  download a pdf of the assignment, in order to integrate it somewhere else. The same applies to a template that students can use for completing their assignments.
