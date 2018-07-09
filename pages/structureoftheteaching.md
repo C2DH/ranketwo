@@ -8,7 +8,6 @@ documents:
   - document-example
   - document-example-b
 ---
- 
 Each teaching module consists of a **SMALL**, **MEDIUM**, and **LARGE** component, with an increasing level of complexity and time effort   
 
 
