@@ -21,7 +21,7 @@ documents:
 
 
 
-### Why should we address the topic of Digital Source Criticism? 
+## Why should we address the topic of Digital Source Criticism? 
 
 Questioning the authenticity of a document  by finding out who created it, at which time, for which purpose and in which context, has always formed the basis of critical historical scholarship. Now that we have unlimited access to data through the web, either to digital born or retro-digitized material, an additional layer of manipulation and interpretation needs to be questioned. 
 
@@ -35,7 +35,7 @@ Taking the analog object out of its original context, whether a private househol
 
 [](digitization-book-georgia,digital-world)
 
-### The need to learn new skills
+## The need to learn new skills
 
 But there is more they need to master. Now that huge amounts of data can be collected and processed in no time, from any place with access to the web, regardless of the physical limitations of what a human brain alone can handle, historians need the skills to deal with changes in terms of scale, speed and spatial context. 
 
@@ -43,7 +43,7 @@ In a way this could be compared to how the introduction of the microscope and te
 
 Consequently the  lessons we offer are a crossover between history, archival studies, ancillary sciences, information science and computer science.  In our view this multidisciplinary approach is necessary to foster a new generation of digital savvy scholars, who ask the right questions to digital content and are able to organize, analyse and present digital data with the help of digital tools. 
 
-### Objectives 
+## Objectives 
 
 Students who complete one or more of these lessons will:
 
