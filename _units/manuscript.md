@@ -1,5 +1,5 @@
 ---
-title: manuscripts, copies or originals?
+title: Do mediaeval manuscripts need to be photogenic? The lives of the Chronicle of Dalimil
 layout: unit
 tags: 
   - manuscripts 
@@ -9,7 +9,7 @@ tags:
   - dissemination of knowledge
   - esthetic qualities
 authors: 
-  - stefania-scagliola
+  - 
 lang: en
 link: /u/manuscript/
 ---
