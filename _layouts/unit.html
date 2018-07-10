@@ -32,6 +32,10 @@ layout: default
   </div>
 </div>
 
+{% for component in introductions %}
+  {% include component.html %}
+{% endfor %}
+
 {% for component in clips %}
   {% include component.html %}
 {% endfor %}
@@ -41,10 +45,6 @@ layout: default
 {% endfor %}
 
 {% for component in interactives %}
-  {% include component.html %}
-{% endfor %}
-
-{% for component in introductions %}
   {% include component.html %}
 {% endfor %}
 
