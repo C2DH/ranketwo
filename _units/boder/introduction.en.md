@@ -1,8 +1,8 @@
 ---
-title: Introduction and assignments
+title: Introduction
 type: introduction
 parent: boder
-tags: holocaust studies, media studies, history of technology, linguistics, oral history, translation studies, psychology
+tags: holocaust studies, media studies, history of technology oral history,
   -
   -
 lang: en
@@ -14,7 +14,7 @@ link: /u/boder/
 <!-- more -->
 
 
-Animation on how the collection of interviews with concentration camp survivors created by David Boder with a wire
+Lesson on how the collection of interviews with concentration camp survivors created by David Boder with a wire
 Recorded in 1946, has been turned into an interactive website in 2009.
 
 SMALL:    animation + quiz
