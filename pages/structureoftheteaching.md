@@ -15,11 +15,10 @@ documents:
 
 ## What does each component have to offer? 
 
-The teaching modules have been structured in such a manner that they can serve the needs of students,lecturers or independent learners with limited time, as well as those who really want to study a topic in depth. Each module can consist of a SMALL, MEDIUM or LARGE component.
+The lessons have been structured in such a manner that they can serve the needs of students,lecturers or independent learners with limited time, as well as those who really want to study a topic in depth. Each lesson can consist of a SMALL, MEDIUM or LARGE component.
 
 (could we place here 3 images of sizes of shoes: 35.  -    39.   -   42? ) 
 
-The lessons have been structured in such a manner that they can serve the needs of students,lecturers or independent learners with limited time, as well as those who really want to study a topic in depth. Each module can consist of a SMALL, MEDIUM or LARGE component.  
 
 {: .extra-spacing}
 ## SMALL   
@@ -33,13 +32,15 @@ The **LARGE** module offers a tutorial for a hands on workshop of one or more da
 The objective of the tutorial is to go through all the steps required to create a digital history project. This can vary from creating a  website or podcast by applying a storytelling tool, creating a digital exhibit or annotating a corpus of photos. 
 
 {: .extra-spacing}
-## How can you use the modules?
+## How can you use the lessons?
 
-A lecturer can choose one or more modules or assignments that can be completed and discussed in class or can be given as homework. Considerations for the lecturer to choose which material to use can be: 
+A lecturer can choose one or more components of a lesson, or one or more assignments that can be completed and discussed in class or can be given as homework. Considerations for the lecturer to choose which material to use could be:  
 
 1. How the topic of digital source criticism fits into a given course (most applicable is the subject ‘introduction into research methods’   
 that is generally offered in the first year of a bachelor study) - see for a number of suggestions section .......
+
 2. The level of digital savviness of pupils and lecturers - see for an easy survey on digital literacy for your students to take section .......
+
 3. The amount of available time - see for the time effort the meta data of each assignment 
 
 {: .extra-spacing}
