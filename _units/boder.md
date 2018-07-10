@@ -5,9 +5,7 @@ tags:
   - holocaust studies
   - history of communication technology
   - media studies
-  - linguistics
   - oral history
-  - translation studies
 lang: en
 unit_id: boder
 link: /u/boder/
@@ -21,7 +19,7 @@ mediatype: audiovisual, interviews
 
 ---
 
-Animation on how the collection of interviews with concentration camp survivors created by David Boder with a wire recorded in 1946, has been turned into an interactive website in 2009.
+Animation on how the collection of interviews with concentration camp survivors created by David Boder in 1946 has been turned into an interactive website in 2009.
 
 
 <!-- more -->
