@@ -9,7 +9,7 @@ documents:
   - document-example-b
 ---
 
-**Ranke.2 - Structure of the Lessons** ; Each teaching module consists of several components with an increasing level of complexity and time effort   
+**Ranke.2 - Structure of the Lessons** ; Each lesson consists of several components with an increasing level of complexity and time effort   
 
 <!-- more -->
 
@@ -19,7 +19,7 @@ The teaching modules have been structured in such a manner that they can serve t
 
 (could we place here 3 images of sizes of shoes: 35.  -    39.   -   42? ) 
 
-The teaching modules have been structured in such a manner that they can serve the needs of students,lecturers or independent learners with limited time, as well as those who really want to study a topic in depth. Each module can consist of a SMALL, MEDIUM or LARGE component.  
+The lessons have been structured in such a manner that they can serve the needs of students,lecturers or independent learners with limited time, as well as those who really want to study a topic in depth. Each module can consist of a SMALL, MEDIUM or LARGE component.  
 
 {: .extra-spacing}
 ## SMALL   
