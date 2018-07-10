@@ -9,7 +9,7 @@ documents:
   - document-example-b
 ---
 
-**Ranke.2 - Structure of the Teaching Modules** ; Each teaching module consists of several components with an increasing level of complexity and time effort   
+**Ranke.2 - Structure of the Lessons** ; Each teaching module consists of several components with an increasing level of complexity and time effort   
 
 <!-- more -->
 
