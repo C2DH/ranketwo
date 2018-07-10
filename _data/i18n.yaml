@@ -1,7 +1,7 @@
 home:
   en: index
   fr: accueil
-introduction:
+about:
   en: about the project 
   fr: projet
 teaching-units:
@@ -32,6 +32,8 @@ quiz:
   en: answer this quiz
 interactive:
   en: watch this interactive animation
+introduction:
+  en: about the project 
 assigments:
   en: complete these assignments
 rationale of this assignment:
