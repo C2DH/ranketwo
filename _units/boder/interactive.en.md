@@ -1,11 +1,11 @@
 ---
-title: "Interactive animation: David Boder"
+title: "Animation in an interactive mode"
 lang: en
 type: interactive
 parent: boder
 duration: 60
 iframe:
-  src: https://allthingsmoving.com/DB_interactive/index.html
+  src: https://allthingsmoving.com/DB_interactive_2018_07_07/#Intro 
   cover:
 ---
 
