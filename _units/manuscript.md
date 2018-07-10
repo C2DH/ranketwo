@@ -10,6 +10,11 @@ tags:
   - esthetic qualities
 authors: 
   - 
+ components:
+  small: animation + quiz
+  medium: animation + 6 assignments,  
+ 
+mediatype: manuscripts, digitized manuscripts 
 lang: en
 link: /u/manuscript/
 ---
