@@ -1,8 +1,8 @@
 ---
 layout: page
 lang: en
-permalink: /genealogy/
-link: /genealogy/
+permalink: /define-dsc/
+link: /define-dsc/
 title: 
 ---
 
