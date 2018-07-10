@@ -9,10 +9,8 @@ iframe:
   cover:
 ---
 
-Animation in a Quiz mode - 10 min
-
 {: .headsup}                            
-Read this Introduction before you take the Quiz!
+**Read this Introduction before you take the Quiz!**
 
 This quiz is meant to test your understanding of the topic. The animation is shown again, but it is interrupted by 8 multiple choice
 questions that appear on the screen, that you have to answer to continue the clip.
@@ -21,7 +19,7 @@ appears.  To answer question 7 and 8, however, you need to combine details that 
 [clicking on this link](//assets/images/attachments/12boxes/12boxes_01.png).
 But first answer questions 1 to 6.
 
-Open this link and take the Quiz!
+**Open this link and take the Quiz!**
 
 
 <!-- more -->
