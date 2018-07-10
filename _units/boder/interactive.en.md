@@ -9,11 +9,6 @@ iframe:
   cover:
 ---
 
-iframe:
-  src: https://app.playposit.com/share/258439/797374/David-Boders-Interview-collection
-  cover:
----
-
  {: .headsup} 
  **Read this Introduction before hou enter the interactive animation!**
             
