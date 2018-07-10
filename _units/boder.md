@@ -12,6 +12,7 @@ components:
   medium: interactive animation + 12 assignments, video animated lecture + 5 assignments 
   large: tutorial for hands on workshop
 mediatype: audiovisual, interviews
+order: 1
 
 ---
 
