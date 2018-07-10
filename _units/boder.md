@@ -14,6 +14,4 @@ components:
 mediatype: audiovisual, interviews
 
 ---
-
-<!-- more -->
 Lesson on how the interview collection of psychologist David Boder with survivors of concentration camps created in 1946 has been turned into a website in 2000 and 2009. 
