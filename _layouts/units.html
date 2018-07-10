@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<div class='container'>
+  <div id='wrapper'>
+
+    {% if page.title %}<h1>{{page.title}}</h1>{% endif %}
+
+    {% assign paragraphs = page.content | split: site.excerpt_separator %}
+    <div class="excerpt">{{paragraphs[0] | markdownify }}</div>
+    <div class="contents">
+      {{paragraphs[1]}}
+    </div>
+
+    <ul class="list-of units">
+      {% assign units = site.units|where:"layout","unit"|where:"lang", page.lang %}
+      {% for unit in units%}
+      {% include li.unit.html %}
+      {% endfor %}
+    </ul>
+  </div>
+</div>
