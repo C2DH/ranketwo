@@ -2,16 +2,12 @@
 layout: assignment
 unit: boder
 type: assignment
-title:  Who are these people? Photography  and identity 
+title: Who are these people? Photography and identity 
 order: 4 
 cover: /assets/images/attachments/12boxes/12boxes_04.png
-tags: re-use of photographs, metadata, ownership, digital  
-             archives 
+tags: re-use of photographs, metadata, ownership, digital archives 
 ---
 
-
-
-***The rationale of this assignment***
 
 In the animation about Boder, photographs of victims and of
 families have been used without clarifying their identity. This is
