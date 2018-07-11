@@ -8,8 +8,6 @@ order: 12
 lang: en
 ---
 
-The rationale of this assignment  
-
 In 1946 Edith Zierer, who was only fifteen years old, was
 interviewed by David Boder in Bellevue, an orphanage for
 displaced  Jewish children in the neighbourhood of Paris. The
