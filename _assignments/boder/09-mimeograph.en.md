@@ -3,11 +3,11 @@ layout: assignment
 unit: boder
 type: assignment
 title: "A mimeographed copy compared to a digital copy"
+cover: /assets/images/attachments/12boxes/12boxes_09.png
 order: 9
 lang: en
 ---
 
-The rationale of this assignment
 
 The possibilities for reproduction of text and images increased 
 considerably during Boder’s lifetime.  Besides the mimeograph, 
