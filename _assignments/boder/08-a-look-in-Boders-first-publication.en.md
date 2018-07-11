@@ -7,7 +7,7 @@ order: 8
 lang: en
 ---
 
-The rationale of this assignment
+
 
 Boder reworked his basic sources, the transcripts of his interviews, to be published in his first book. In the interactive version you can see a PDF  version of part of his book. When consulting a book consisting of a textual representation of a spoken interview that has been translated from German to English, one should be conscious of the alterations that occur.
 The purpose of this assignment is to show how one source, an audio recording,  can be  represented in different forms, depending on the specific  conventions of the medium.  You are going to compare the same interview, as it was published in thebook in 1948 with its digital online representation created  in 2009.
