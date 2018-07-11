@@ -16,9 +16,6 @@ layout: default
     <div class='col-sm-8'>
       <div class='page unit'>
         <h1>{{page.title}}</h1>
-        {% for tag in page.tags %}
-          <a href="/">{{tag}}</a>{% unless forloop.last %}&nbsp;&mdash;{% endunless %}
-        {% endfor %}
         {% assign paragraphs = page.content | split: site.excerpt_separator %}
         <div>{{paragraphs[0] | markdownify}}</div>
 
