@@ -12,7 +12,6 @@ tags:
   - conscious use of images on the web
 ---
 
-show print screen of box with title of topic from index 'Boder's biography'
 
 
 ***The rationale of this assignment***
@@ -34,7 +33,7 @@ Open the box Boder’s biography  again, and read the various sections
 https://allthingsmoving.com/DBinteractive/#Index
 
 {: .headsup}
-Go to the timeline  application Tiki-Toki.
+Go to the timeline  application Tiki-Toki. (https://www.tiki-toki.com/)   
 
 Complete the credentials of the account that has been created for this
 assignment
@@ -71,8 +70,7 @@ When were the American Newsreels about the camps shown to the American audience?
 1c      ***Create a new account and a new timeline***
 
 Follow the instructions that are supplied in the Tutorial
-Put together at least 4 entries on a timeline about a topic  that is related either to Boder’s course of life, or to other early accounts on
-experiences in concentration camps.  You could consider:
+Put together at least 4 entries on a timeline about a topic  that is related either to Boder’s course of life, or to other early accounts on experiences in concentration camps.  You could consider:
 
 Politics and societal developments:    Think of the political situation of the countries in which Bode lived or travelled to: Latvia, Russia, Siberia, Japan, Mexico, United States, Europe.
 
@@ -109,13 +107,13 @@ Write a short abstract in your template of 150 words on what you have found on t
 (what should be shown in a parallel box is this)
 
 
-1. For an overview about handling copyright click here.
+1. For an overview about handling copyright click here: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/481194/c-notice-201401.pdf 
 
-2. For a video clip on the principles of Creative Commons click here
+2. For a video clip on the principles of Creative Commons click here: https://youtu.be/1DKm96Ftfko 
 
-    for French click here
+   for French click here
 
-3.  For a clip about the origin and history of copyright click here
+3.  For a clip about the origin and history of copyright click here: https://vimeo.com/36881035 
 
 4..  For  websites that offer images free of copyright click on one of the links below:
       https://ccsearch.creativecommons.org
@@ -145,7 +143,7 @@ online timeline, learning to deal with intellectual property rights
 
 Reading/viewing  suggestions:
 
-For an overview of learning goals that can be achieved through creating digital timelines click here.
- For assessing the pros and cons of different tools for creating timelines click here
+For an overview of learning goals that can be achieved through creating digital timelines click here: https://cft.vanderbilt.edu/guides-sub-pages/digital-timelines/ 
+For assessing the pros and cons of different tools for creating timelines click here: https://docs.google.com/document/d/1uprzcDAFaCgK_1TB-A4QxkUjWIMrkWZOG6kAXQdhdDg/edit 
 Link to Tutorial for creating Timeline with Tiki-Toki: https://drive.google.com/drive/folders/1sV1BRipvgPlv0NZpiMLErfcPs3L1AOvy
-Tiki-Toki gives you the possibility of upgrading your account to a teacher’s account, unlocking the “group edit” feature for you and your students. The teacher’s account will provide the teacher with new features and several account keys for the students.
+Tiki-Toki gives you the possibility of upgrading your account to a teacher’s account (125 $ a year), unlocking the “group edit” feature for you and your students. The teacher’s account will provide the teacher with new features and several account keys for the students.
