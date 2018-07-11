@@ -67,12 +67,3 @@ Learning outcomes:
 
 Reading/viewing  suggestions:
 Beate Muller, Translating Trauma, Boder’s 1946 interviews with Holocaust survivors https://www.euppublishing.com/doi/abs/10.3366/tal.2014.0155
-
-
-Time effort: ?
-
-Requirements:  strong WIFI, access to Ranke.2, computer or laptop,  application on labtop or computer to view video,
-
-Learning outcomes:
-
-Reading/viewing  suggestions:
