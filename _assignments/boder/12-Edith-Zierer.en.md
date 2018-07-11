@@ -3,7 +3,7 @@ layout: assignment
 unit: boder
 type: assignment
 title: A snippet of text from Edith Zierer’s story in 1946  
-cover: /assets/images/attachments/12boxes/12boxes_12.png
+cover:/assets/images/attachments/12boxes/12boxes_12.png
 order: 12
 lang: en
 ---
