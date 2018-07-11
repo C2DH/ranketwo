@@ -3,7 +3,7 @@ layout: assignment
 unit: boder
 lang: en
 type: assignment
-title:  Boder’s approach: from statistics to human expression
+title:  "Boder’s approach: from statistics to human expression"
 cover: /assets/images/attachments/12boxes/12boxes_06.png
 order: 6
 tags: multimodality, capturing sound and images, access to audiovisual sources, 
