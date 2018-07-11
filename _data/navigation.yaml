@@ -2,14 +2,13 @@ primary:
   links:
     - title: about
       href: /introduction/
-    - title: structure of teaching modules
+    - title: structure of lessons
       href: /structure-of-teaching-modules/
-    - title: teaching modules 
+    - title: content of lessons 
       href: /teaching-modules/
 secondary:
   links:
     
     - title: How to define Digital Source Criticism?
       href: /define-dsc/
-   
-   
+ 
