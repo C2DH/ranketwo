@@ -8,7 +8,6 @@ order: 11
 lang: en
 ---
 
-The rationale of this assignment 
 
 The statements of Iranian president Ahmadinejad in 2005 in the press are said   to be decisive for mobilizing resources to publish
 all of Boder’s work online. Understandably, statements that put into question whether the
