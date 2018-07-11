@@ -35,14 +35,14 @@ Go to the timeline  application Tiki-Toki. (https://www.tiki-toki.com/)
 
 Complete the credentials of the account that has been created for this
 assignment
-               Username: Assignment1TikiToki
-               Password: davidboder
+Username: Assignment1TikiToki
+Password: davidboder
 
 You will see a timeline with only dates that relate to David Boder’s life.
 This is the basis to complete the  assignments below
 
 
-1a      ***Create an entry in one of the dates in the timeline***
+***1a Create an entry in one of the dates in the timeline***
 
 -      The chronological sequence of dates needs to be complemented with information.
 
@@ -57,7 +57,7 @@ Remember to save your entries!!!
 
 
 
-1b      ***Create two new entries with text and images in the timeline***
+ ***1b Create two new entries with text and images in the timeline***
 
 These can be subjects related to Boder’s life, such as:
 When and  where did Boder study?
@@ -65,7 +65,7 @@ When was the wire recorder invented?
 When were the American Newsreels about the camps shown to the American audience?
 
 
-1c      ***Create a new account and a new timeline***
+ ***1c Create a new account and a new timeline***
 
 Follow the instructions that are supplied in the Tutorial
 Put together at least 4 entries on a timeline about a topic  that is related either to Boder’s course of life, or to other early accounts on experiences in concentration camps.  You could consider:
@@ -86,7 +86,7 @@ always have the basis of your content on your own computer as
 a backup.
 
 
-1d    ***Copyright Law and the web***
+  ***1d Copyright Law and the web***
 
 For assignment 1b and 1c  you have to take into account the legal
 principles that exist with regard to the reuse of images on the web.
@@ -125,7 +125,7 @@ Write a short abstract in your template of 150 words on what you have found on t
 5. you can also set your settings in Google on free images:
     http://images.google.com/advanced_image_search?hl=en
 
-<!-- briefing-teacher -->
+<!--briefing-teacher -->
 
 Requirements:
 
