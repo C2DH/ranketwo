@@ -3,10 +3,11 @@ layout: assignment
 unit: boder
 type: assignment
 title: "A look in Boder’s book: Transformation from spoken language to typed text"
+cover: /assets/images/attachments/12boxes/12boxes_08.png
 order: 8
 lang: en
+tags: methods of research, data collection, interview protocols, digital archives, privacy, oral history, qualitative data
 ---
-
 
 
 Boder reworked his basic sources, the transcripts of his interviews, to be published in his first book. In the interactive version you can see a PDF  version of part of his book. When consulting a book consisting of a textual representation of a spoken interview that has been translated from German to English, one should be conscious of the alterations that occur.
