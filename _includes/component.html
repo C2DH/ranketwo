@@ -4,7 +4,9 @@
     <div class="line left"></div>
     <div class="line right"></div>
     <div class='line top'></div>
-    <div class='type'><span>{% assign key = component.type %}{% include t.html %}{% if component.order %}#{{component.order}}{% endif %}</span></div>
+    {% unless component.order and component.order != 1 %}
+        <div class='type'><span>{% assign key = component.type %}{% include t.html %}</span></div>
+    {% endunless %}
 
     {% if component.size %}
     <div class='component--metadata'>
