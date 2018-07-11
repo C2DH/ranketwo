@@ -14,8 +14,6 @@ tags:
 
 
 
-***The rationale of this assignment***
-
 In the animation you watched the focus is mostly on the creation and  transformation  of David Boder’s collection from
 analogue source to online web resource. But the historical context also deserves some attention. Boder’s expertise and mindset
 were also the result of what he encountered during his life in terms of personal drawbacks, technological innovation, scientific
