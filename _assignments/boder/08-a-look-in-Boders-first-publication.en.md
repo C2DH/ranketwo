@@ -62,7 +62,8 @@ Requirements:  strong WIFI, access to Ranke.2, computer or laptop, application o
 account for timeline,
 
 Learning outcomes:
-- understanding the interplay between the conventions of a method for collecting data, the convention of the medium through which this data is shared and spread and the appearance of its representation
+- understanding the interplay between the conventions of a method for collecting data
+- the convention of the medium through which this data is shared and spread and the appearance of its representation
 
 Reading/viewing  suggestions:
 Beate Muller, Translating Trauma, Boder’s 1946 interviews with Holocaust survivors https://www.euppublishing.com/doi/abs/10.3366/tal.2014.0155
