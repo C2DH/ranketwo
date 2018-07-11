@@ -2,9 +2,9 @@
 layout: assignment
 unit: boder
 type: assignment
-title: 
+title: Where and how can Boder’s work be consluted?
 cover: /assets/images/attachments/12boxes/12boxes_11.png
-order: 11
+order: 10
 lang: en
 ---
 
