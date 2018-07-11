@@ -68,6 +68,12 @@ Time effort: ?
 
 Requirements:  strong WIFI, access to Ranke.2, computer or laptop,  application on labtop or computer to view video,
 
-Learning outcomes:
+Learning outcomes: 
+- learning about circumstances in the displacement camps
+- learning to search with image recognition 
+- learning to conduct web research 
+
 
 Reading/viewing  suggestions:
+
+blog about historical blog 
