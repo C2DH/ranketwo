@@ -1,0 +1,12 @@
+<div class="component clip">
+  <h3>{{component.title}}</h3>
+  <div class='caption'>
+    {{component.content | markdownify}}
+  </div>
+  <div class='iframe-wrapper'>
+    <div class='inner'>
+      <iframe width="100%" height="100%" src="{{component.iframe.src}}" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+    </div>
+  </div>
+
+</div>
