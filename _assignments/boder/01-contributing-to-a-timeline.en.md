@@ -39,7 +39,8 @@ Username: Assignment1TikiToki
 Password: davidboder
 
 You will see a timeline with only dates that relate to David Boder’s life.
-This is the basis to complete the  assignments below
+This is the basis to complete the assignments below.
+Further instructions for a very detailed step by step approach are provided in this tutorial (link)
 
 
 ***1a Create an entry in one of the dates in the timeline***
@@ -47,13 +48,15 @@ This is the basis to complete the  assignments below
 -      The chronological sequence of dates needs to be complemented with information.
 
 Choose two dates to create an entry.
-For background information on possible entries, go to the box ‘links’, the last section of Boder’s biography, and consult the website
-Voices of the Holocaust and the clip 5 min History.
-Open your template and go to the table for assignment 1a
-Write 2 entries of max 100 words
-Look for an appropriate image on the web and add copy the links to these images in the same table
-Now cut and paste the entries and the links to the photos and place  them in the timeline, following the instructions in the provided tutorial
-Remember to save your entries!!!
+For more background information on Boder besides what is provided in the black box, you can click on  ‘links’, the last section of Boder’s biography, and consult the following resources:
+- Voices of the Holocaust
+- Clip 5 min History.
+
+- Open your template and go to the table for assignment 1a
+- Write 2 entries of max 100 words in the appropiate field.
+- Look for an appropriate image on the web and copy the links to these images in the same field
+Now cut and paste the entries and the links to the photos and place them in the timeline (if it is not clear how to proceed, read the tutorial) 
+Remember to regularly save your entries in your answer template, as well as in the online timeline!
 
 
 
@@ -63,11 +66,12 @@ These can be subjects related to Boder’s life, such as:
 When and  where did Boder study?
 When was the wire recorder invented?
 When were the American Newsreels about the camps shown to the American audience?
-
+Document your findings in the appropiate field in the template
 
  ***1c Create a new account and a new timeline***
 
-Follow the instructions that are supplied in the Tutorial
+Follow the instructions that are provided in the Tutorial
+
 Put together at least 4 entries on a timeline about a topic  that is related either to Boder’s course of life, or to other early accounts on experiences in concentration camps.  You could consider:
 
 Politics and societal developments:    Think of the political situation of the countries in which Bode lived or travelled to: Latvia, Russia, Siberia, Japan, Mexico, United States, Europe.
@@ -80,10 +84,7 @@ The history of  interview collections:  Who introduced creating collections of r
 
 A chronological list of audio and film recordings with testimonies of experiences in concentration camps: Think of war trials, television, radio, the web
 
-Remember to first document your research in your template,
-and then    paste it into the online timeline. This way you will
-always have the basis of your content on your own computer as
-a backup.
+Remember to regularly save your entries in your answer template, as well as in the online timeline!
 
 
   ***1d Copyright Law and the web***
