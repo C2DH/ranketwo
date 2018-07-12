@@ -126,7 +126,7 @@ Write a short abstract in your template of 150 words on what you have found on t
 5. you can also set your settings in Google on free images:
     http://images.google.com/advanced_image_search?hl=en
 
-<!--briefing-teacher -->
+<!-- briefing-teacher -->
 
 Requirements:
 
