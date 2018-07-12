@@ -23,12 +23,12 @@ layout: default
       {% assign briefing_teacher = briefings |  last %}
       <div class='row'>
         <div class='col-8'>
-          <h3>{% assign key="briefing student" %}{% include t.html %}</h3>
+          <h2>{% assign key="briefing student" %}{% include t.html %}</h2>
 
           {{briefing_student}}
           </div>
         <div class='col-4'>
-          <h3>{% assign key="briefing teacher" %}{% include t.html %}</h3>
+          <h2>{% assign key="briefing teacher" %}{% include t.html %}</h2>
 
           {{briefing_teacher}}
         </div>
