@@ -5,6 +5,7 @@ layout: default
 {% assign clips = components|where:"type","clip" %}
 {% assign quizzes = components|where:"type","quiz" %}
 {% assign interactives = components|where:"type","interactive" %}
+{% assign videolectures = components|where:"type","videolecture" %}
 
 {% assign introductions = components|where:"type","introduction" %}
 {% assign assignments = site.assignments|where:"unit",page.slug| sort: 'order'  %}
@@ -45,11 +46,16 @@ layout: default
   {% include component.html %}
 {% endfor %}
 
+{% for component in videolectures %}
+  {% include component.html %}
+{% endfor %}
+
+
 {% for component in assignments %}
   {% include component.html %}
 {% endfor %}
 
-{% assign toc = clips | concat: quizzes | concat: interactives | concat: introductions %}
+{% assign toc = introductions | concat: clips | concat: quizzes | concat: interactives | concat: videolectures %}
 <!-- table of contents contaier -->
 <div id='table-of-contents-wrapper'>
 <div class='container' >
