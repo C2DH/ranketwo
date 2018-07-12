@@ -1,6 +1,7 @@
 ---
 layout: assignment
 unit: boder
+lang: en
 type: assignment
 title: contributing to a timeline
 order: 1
@@ -55,7 +56,7 @@ For more background information on Boder besides what is provided in the black b
 - Open your template and go to the table for assignment 1a
 - Write 2 entries of max 100 words in the appropiate field.
 - Look for an appropriate image on the web and copy the links to these images in the same field
-Now cut and paste the entries and the links to the photos and place them in the timeline (if it is not clear how to proceed, read the tutorial) 
+Now cut and paste the entries and the links to the photos and place them in the timeline (if it is not clear how to proceed, read the tutorial)
 Remember to regularly save your entries in your answer template, as well as in the online timeline!
 
 
@@ -106,13 +107,13 @@ Write a short abstract in your template of 150 words on what you have found on t
 (what should be shown in a parallel box is this)
 
 
-1. For an overview about handling copyright click here: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/481194/c-notice-201401.pdf 
+1. For an overview about handling copyright click here: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/481194/c-notice-201401.pdf
 
-2. For a video clip on the principles of Creative Commons click here: https://youtu.be/1DKm96Ftfko 
+2. For a video clip on the principles of Creative Commons click here: https://youtu.be/1DKm96Ftfko
 
    for French click here
 
-3.  For a clip about the origin and history of copyright click here: https://vimeo.com/36881035 
+3.  For a clip about the origin and history of copyright click here: https://vimeo.com/36881035
 
 4..  For  websites that offer images free of copyright click on one of the links below:
       https://ccsearch.creativecommons.org
@@ -142,7 +143,7 @@ online timeline, learning to deal with intellectual property rights
 
 Reading/viewing  suggestions:
 
-For an overview of learning goals that can be achieved through creating digital timelines click here: https://cft.vanderbilt.edu/guides-sub-pages/digital-timelines/ 
-For assessing the pros and cons of different tools for creating timelines click here: https://docs.google.com/document/d/1uprzcDAFaCgK_1TB-A4QxkUjWIMrkWZOG6kAXQdhdDg/edit 
+For an overview of learning goals that can be achieved through creating digital timelines click here: https://cft.vanderbilt.edu/guides-sub-pages/digital-timelines/
+For assessing the pros and cons of different tools for creating timelines click here: https://docs.google.com/document/d/1uprzcDAFaCgK_1TB-A4QxkUjWIMrkWZOG6kAXQdhdDg/edit
 Link to Tutorial for creating Timeline with Tiki-Toki: https://drive.google.com/drive/folders/1sV1BRipvgPlv0NZpiMLErfcPs3L1AOvy
 Tiki-Toki gives you the possibility of upgrading your account to a teacher’s account (125 $ a year), unlocking the “group edit” feature for you and your students. The teacher’s account will provide the teacher with new features and several account keys for the students.
