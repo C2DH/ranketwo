@@ -65,4 +65,4 @@ Reading/viewing  suggestions:
      University in the   US click here: https://www.youtube.com/watch?v=sOyOH_kWAdQ
 
   2. For an article by historian Trevor Owens on how digitization
-     affects the character of a historical source click here: https://osf.io/preprints/socarxiv/t5rdy/https:/osf.io/preprints/socarxiv/t5rdy/
+     affects the character of a historical source click here: http://www.trevorowens.org/2015/12/digital-sources-digital-archives-the-evidentiary-basis-of-digital-history-draft/ 
