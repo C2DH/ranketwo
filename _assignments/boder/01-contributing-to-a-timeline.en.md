@@ -28,28 +28,29 @@ You will be  conducting critical web research and will be contributing to a digi
 
 <!-- briefing-student -->
 
-Open the box Boder’s biography  again, and read the various sections
+## Briefing student
+- Open the box Boder’s biography  again, and read the various sections
 https://allthingsmoving.com/DBinteractive/#Index
+  {: .headsup}
+- Go to the timeline  application Tiki-Toki. (https://www.tiki-toki.com/)   
+- Complete the credentials of the account that has been created for this
 
-{: .headsup}
-Go to the timeline  application Tiki-Toki. (https://www.tiki-toki.com/)   
-
-Complete the credentials of the account that has been created for this
-assignment
-Username: Assignment1TikiToki
-Password: davidboder
+  > assignment
+    Username: Assignment1TikiToki
+    Password: davidboder
 
 You will see a timeline with only dates that relate to David Boder’s life.
 This is the basis to complete the assignments below.
 Further instructions for a very detailed step by step approach are provided in this tutorial (link)
 
 
-***1a Create an entry in one of the dates in the timeline***
+## a. Create an entry in one of the dates in the timeline
 
 -      The chronological sequence of dates needs to be complemented with information.
 
 Choose two dates to create an entry.
 For more background information on Boder besides what is provided in the black box, you can click on  ‘links’, the last section of Boder’s biography, and consult the following resources:
+
 - Voices of the Holocaust
 - Clip 5 min History.
 
@@ -61,7 +62,7 @@ Remember to regularly save your entries in your answer template, as well as in t
 
 
 
- ***1b Create two new entries with text and images in the timeline***
+## a. Create two new entries with text and images in the timeline
 
 These can be subjects related to Boder’s life, such as:
 When and  where did Boder study?
@@ -69,7 +70,7 @@ When was the wire recorder invented?
 When were the American Newsreels about the camps shown to the American audience?
 Document your findings in the appropiate field in the template
 
- ***1c Create a new account and a new timeline***
+## c Create a new account and a new timeline
 
 Follow the instructions that are provided in the Tutorial
 
@@ -88,7 +89,7 @@ A chronological list of audio and film recordings with testimonies of experience
 Remember to regularly save your entries in your answer template, as well as in the online timeline!
 
 
-  ***1d Copyright Law and the web***
+## d Copyright Law and the web
 
 For assignment 1b and 1c  you have to take into account the legal
 principles that exist with regard to the reuse of images on the web.
@@ -129,21 +130,24 @@ Write a short abstract in your template of 150 words on what you have found on t
 
 <!-- briefing-teacher -->
 
-Requirements:
+#### Requirements
 
-strong WIFI, accesso to Ranke.2, computer or laptop,
-application on laptop or computer to view video, account for timeline,
+Fast WIFI connection, access to Ranke.2, computer or laptop,
+application on laptop or computer to view video, account on Tiki-Toki for timeline.
 
 
-Learning outcomes:
+#### Learning outcomes
 
-learning to place a historical source, its creation, form and
+Learning to place a historical source, its creation, form and
 appearance into a broader societal context, learning the basic principle of an
 online timeline, learning to deal with intellectual property rights
 
-Reading/viewing  suggestions:
+#### Reading/viewing  suggestions
 
-For an overview of learning goals that can be achieved through creating digital timelines click here: https://cft.vanderbilt.edu/guides-sub-pages/digital-timelines/
-For assessing the pros and cons of different tools for creating timelines click here: https://docs.google.com/document/d/1uprzcDAFaCgK_1TB-A4QxkUjWIMrkWZOG6kAXQdhdDg/edit
-Link to Tutorial for creating Timeline with Tiki-Toki: https://drive.google.com/drive/folders/1sV1BRipvgPlv0NZpiMLErfcPs3L1AOvy
+For an overview of learning goals that can be achieved through creating digital timelines, see [Vanderbilt guide]( https://cft.vanderbilt.edu/guides-sub-pages/digital-timelines/)
+
+For assessing the pros and cons of different tools for creating timelines, [follow this guide](https://docs.google.com/document/d/1uprzcDAFaCgK_1TB-A4QxkUjWIMrkWZOG6kAXQdhdDg/edit)
+
+Link to [Tutorial](https://drive.google.com/drive/folders/1sV1BRipvgPlv0NZpiMLErfcPs3L1AOvy) for creating Timeline with Tiki-Toki.
+
 Tiki-Toki gives you the possibility of upgrading your account to a teacher’s account (125 $ a year), unlocking the “group edit” feature for you and your students. The teacher’s account will provide the teacher with new features and several account keys for the students.
