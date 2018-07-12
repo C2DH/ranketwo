@@ -17,11 +17,11 @@ link: /u/boder/
 Lesson about how the collection of interviews with concentration camp survivors created by psychologist David Boder in 1946 has been turned into an interactive website in 2009.
 
 
-***What is the objective of this lesson?***
+## What is the objective of this lesson?
 
 The objective of this lesson is to teach students to apply source criticism to audio interviews that have been recorded with an obsolete technology in 1946, and have been digitized and published on the web in 2000 and 2009. Source criticism comes down to asking questions to a source about its origin, authenticity, informational and artefactual value. When applying it to digital content that is published online this requires an understanding of the alterations of the content during the various transformation processes. In this lesson we discuss whether the meaning and value of an interview changes when it is transferred from its original context of creation, to a contenxt of preservation, and eventually to a context of digitization.
 
-***How is the content organized?***
+## How is the content organized?***
 
 The lesson consists of three modules with increasing level of complexity and time effort.
 
