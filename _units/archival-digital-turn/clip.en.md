@@ -5,6 +5,9 @@ lang: en
 parent: archival-digital-turn
 duration: 390
 aspect-ratio: "ratio-16-9"
+iframe:
+  src: https://vimeo.com/279642612/c338eef53b
+  cover:
 documents:
   - archival-digital-turn
 ---
