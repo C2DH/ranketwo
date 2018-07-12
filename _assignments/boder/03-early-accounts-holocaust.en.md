@@ -54,14 +54,14 @@ Laura Jockusch ; Collect and record: https://global.oup.com/academic/product/col
 
 
 
-2.a      ***Source Criticism***
+3a      ***Source Criticism***
 
 Go to the Tab  On DEGOB and click on The Protocols. Read the text on the methodology that was applied.
 Go to the website Voices of the Holocaust, and open the Tab About the Project, read the first three sub tabs: David Boder, Voices Project, Project Notes.
 Apply source criticism to both the Hungarian testimonies and Boder’s interviews by completing the table in your template
 
 
-2.b      ***A first exploration of the archives: how verbs are used***
+3b      ***A first exploration of the archives: how verbs are used***
 
 Go to the website with the collection of protocols collected by the Hungarian National Commission for  Deportees http://degob.org/.
 Search with the key word ‘help’ to get an idea of how search in
@@ -71,7 +71,7 @@ Try to do the same with http://voices.iit.edu/voices_project
 What strikes you when assessing the search results?
 Document the answers in your template
 
-2.c      ***A second exploration of the archives: how key characters are  represented***
+3c      ***A second exploration of the archives: how key characters are  represented***
 
   Compare how a respondent describes the selection
   process for the gas  chambers and the role of
@@ -83,7 +83,7 @@ Document the answers in your template
 - What strikes you as different between the summarized interview and  the literal transcript of the interview?
 - Document the answer in your template
 
-2.d     ***A third exploration of the archives: the identity of the speaker***
+3d     ***A third exploration of the archives: the identity of the speaker***
 
 Compare the protocol of a 15 year old girl in  http://degob.org/
 (select Female and date of birth 1931 in the search environment) with listening to the interview of Boder with 15 year old Edith Zierer.
