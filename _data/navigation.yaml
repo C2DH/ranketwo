@@ -1,5 +1,7 @@
 primary:
   links:
+    - title: Home
+      href: /
     - title: About
       href: /introduction/
     - title: Structure of Lessons
