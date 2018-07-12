@@ -7,25 +7,11 @@ about:
 teaching-units:
   en: teaching units
   fr: unités de lessons
-all stories:
-  en: all stories
-  fr: voir memoires
-  pt: "?"
 by:
   en: by
   fr: de
-type.clip:
-  en: C & Q
-  fr: C & Q
-type.lesson:
-  en: L
-  fr: L
-type.reference:
-  en: Ref.
-  fr: Réf.
-type.workshop:
-  en: W
-  fr: W
+briefing teacher:
+  en: briefing lecturer
 clip:
   en: watch this animation
 quiz:
