@@ -5,6 +5,9 @@
   </div>
   <div class='iframe-wrapper'>
     {% assign covers = site.data.documents | where: "slug", component.documents[0] %}
+    <div class='inner'>
+      <iframe width="100%" height="100%" src="{{component.iframe.src}}" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+    </div>
   </div>
 
 
