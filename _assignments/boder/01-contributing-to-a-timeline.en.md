@@ -129,7 +129,7 @@ Write a short abstract in your template of 150 words on what you have found on t
     http://images.google.com/advanced_image_search?hl=en
 
 <!-- briefing-teacher -->
-## (for the lecturer)
+## briefing lecturer
 
 #### Requirements
 
