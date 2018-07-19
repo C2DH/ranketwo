@@ -29,19 +29,18 @@ You will be  conducting critical web research and will be contributing to a digi
 <!-- briefing-student -->
 
 ## Briefing student
-- Open the box Boder’s biography  again, and read the various sections
-https://allthingsmoving.com/DBinteractive/#Index
+- Open the box **Boder’s biography** again, and read the various sections
+  https://allthingsmoving.com/DBinteractive/#Index
   {: .headsup}
-- Go to the timeline  application Tiki-Toki. (https://www.tiki-toki.com/)   
-- Complete the credentials of the account that has been created for this
-
-  > assignment
-    Username: Assignment1TikiToki
-    Password: davidboder
+- Go to the timeline [application Tiki-Toki](https://www.tiki-toki.com/) 
+- Complete the credentials of the account that has been created for this assignment
+    
+    Username: **Assignment1TikiToki**
+    Password: **davidboder**
 
 You will see a timeline with only dates that relate to David Boder’s life.
 This is the basis to complete the assignments below.
-Further instructions for a very detailed step by step approach are provided in this tutorial (link)
+If you need more guidance, then follow the step by step instructions provided in [this tutorial](https://docs.google.com/document/d/1T3tyqnxxN9C1XT1SFvQ8PF6axZRX_EitGElhcuZ7g9c/edit?usp=sharing/) 
 
 
 ## a. Create an entry in one of the dates in the timeline
@@ -119,17 +118,17 @@ Write a short abstract in your template of 150 words on what you have found on t
 4..  For  websites that offer images free of copyright click on one of the links below:
       https://ccsearch.creativecommons.org
       https://www.flickr.com/creativecommons/
-     https://www.flickr.com/commons/usage/
-     https://commons.wikimedia.org/wiki/Main_Page
-     https://diva.sfsu.edu/collections/world
-     https://www.europeana.eu/portal/en
-     https://pixabay.com
+      https://www.flickr.com/commons/usage/
+      https://commons.wikimedia.org/wiki/Main_Page
+      https://diva.sfsu.edu/collections/world
+      https://www.europeana.eu/portal/en
+      https://pixabay.com
 
 5. you can also set your settings in Google on free images:
     http://images.google.com/advanced_image_search?hl=en
 
 <!-- briefing-teacher -->
-## briefing lecturer
+## Briefing lecturer
 
 #### Requirements
 
