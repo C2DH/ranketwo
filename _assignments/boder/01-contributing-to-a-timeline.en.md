@@ -88,7 +88,7 @@ A chronological list of audio and film recordings with testimonies of experience
 Remember to regularly save your entries in your answer template, as well as in the online timeline!
 
 
-## d Copyright Law and the web
+## d. Copyright Law and the web
 
 For assignment 1b and 1c  you have to take into account the legal
 principles that exist with regard to the reuse of images on the web.
