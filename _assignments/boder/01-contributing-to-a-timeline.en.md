@@ -61,7 +61,7 @@ Remember to regularly save your entries in your answer template, as well as in t
 
 
 
-## a. Create two new entries with text and images in the timeline
+## b. Create two new entries with text and images in the timeline
 
 These can be subjects related to Boder’s life, such as:
 When and  where did Boder study?
@@ -69,7 +69,7 @@ When was the wire recorder invented?
 When were the American Newsreels about the camps shown to the American audience?
 Document your findings in the appropiate field in the template
 
-## c Create a new account and a new timeline
+## c. Create a new account and a new timeline
 
 Follow the instructions that are provided in the Tutorial
 
@@ -144,10 +144,9 @@ online timeline, learning to deal with intellectual property rights
 
 #### Reading/viewing  suggestions
 
-For an overview of learning goals that can be achieved through creating digital timelines, see [Vanderbilt guide]( https://cft.vanderbilt.edu/guides-sub-pages/digital-timelines/)
+For an overview of learning goals that can be achieved through creating digital timelines, see  the teaching guide of the Vanderbilt University [Vanderbilt University]( https://cft.vanderbilt.edu/guides-sub-pages/digital-timelines/)
 
-For assessing the pros and cons of different tools for creating timelines, [follow this guide](https://docs.google.com/document/d/1uprzcDAFaCgK_1TB-A4QxkUjWIMrkWZOG6kAXQdhdDg/edit)
+For assessing the pros and cons of different tools for creating timelines, [consult this guide](https://docs.google.com/document/d/1uprzcDAFaCgK_1TB-A4QxkUjWIMrkWZOG6kAXQdhdDg/edit)
 
-Link to [Tutorial](https://drive.google.com/drive/folders/1sV1BRipvgPlv0NZpiMLErfcPs3L1AOvy) for creating Timeline with Tiki-Toki.
 
 Tiki-Toki gives you the possibility of upgrading your account to a teacher’s account (125 $ a year), unlocking the “group edit” feature for you and your students. The teacher’s account will provide the teacher with new features and several account keys for the students.
