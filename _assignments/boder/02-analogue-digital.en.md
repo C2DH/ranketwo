@@ -29,7 +29,7 @@ from analogue to digital affected our use of technology.
 <!-- briefing-student -->
 
 
-
+<!— section --> 
 2a      ***Recordings and physics***
 
 
@@ -38,7 +38,7 @@ What are the three principles of physics that play a role in the transfer of inf
 Document the answer in your template.
 
 
-
+<!— section --> 
 2b      *** Digital and analogue recording***
 
 Watch this clip about how a digital recorder works
