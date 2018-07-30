@@ -39,7 +39,7 @@ Document the answer in your template.
 
 
 <!--section --> 
-2b      *** Digital and analogue recording***
+2b      ***Digital and analogue recording***
 
 Watch this clip about how a digital recorder works
 What is the key difference between analogue and digital recording?
