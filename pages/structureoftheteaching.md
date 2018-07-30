@@ -26,7 +26,7 @@ The **SMALL** module is meant as a short introduction to a topic related to sour
 
 
 ## MEDIUM  
-The **MEDIUM**module is meant to be used in a teaching context and therefore offers information for both students and lecturers. It consists of a series of assignments that address the various topics more in depth, that have been presented in the animation. Its target group are bachelor students and their lecturers. The assignments are suited for collaborative work for 2 or 3 students and the time effort varies from 30 to 90 minutes. Each assignment offers specific information about learning outcomes.
+The **MEDIUM** module is meant to be used in a teaching context and therefore offers information for both students and lecturers. It consists of a series of assignments that address the various topics more in depth, that have been presented in the animation. Its target group are bachelor students and their lecturers. The assignments are suited for collaborative work for 2 or 3 students and the time effort varies from 30 to 90 minutes. Each assignment offers specific information about learning outcomes.
 
 
 ## LARGE
