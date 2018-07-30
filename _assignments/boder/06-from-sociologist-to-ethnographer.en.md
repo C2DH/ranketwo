@@ -20,10 +20,12 @@ Open the box  Boder’s approach
 https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro 
 Watch the footage 
 
+<!--section --> 
 ***6a Reconstructing the sequence of transformations: film footage*** 
 Try to reconstruct the steps in the creation and dissemination of the film footage and its presence online
 Document your findings in your template 
 
+<!--section --> 
 ***6b  Reconstructing the sequence of transformations: a song***  
 Listen to the songs through this link: https://centerhistorypsychology.wordpress.com/2016/09/02/dr-boder-and-the-missing-songs/ 
 Get information about how this song was composed through this link (still to be researched) 
