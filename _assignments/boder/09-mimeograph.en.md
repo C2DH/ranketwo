@@ -27,7 +27,7 @@ disseminate their work.
 Watch the clip about reproduction technologies in the 50s
 https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
 
-
+<!--section --> 
 ***9a Comparing reproduction technologies***
 
 
@@ -41,6 +41,7 @@ Complete the table with the comparison between
 - the copy machine
 - the digital computer  
 
+<!--section --> 
 ***9b What is an authentic source***
 
 Assess whether the result  of applying  these reproduction technologies can be considered as an authentic historical source?
