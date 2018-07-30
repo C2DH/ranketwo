@@ -57,7 +57,7 @@ Now cut and paste the entries and the links to the photos and place them in the 
 Remember to regularly save your entries in your answer template, as well as in the online timeline!
 
 
-<!-- section —> 
+<!-- section --> 
 ## b. Create two new entries with text and images in the timeline
 
 These can be subjects related to Boder’s life, such as:
