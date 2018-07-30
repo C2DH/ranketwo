@@ -39,7 +39,7 @@ You will see a timeline with only dates that relate to David Boder’s life.
 This is the basis to complete the assignments below.
 If you need more guidance, then follow the step by step instructions provided in [this tutorial](https://docs.google.com/document/d/1T3tyqnxxN9C1XT1SFvQ8PF6axZRX_EitGElhcuZ7g9c/edit?usp=sharing/) 
 
-<!-- section —> 
+<!-- section --> 
 ## a. Create an entry in one of the dates in the timeline
 
 -      The chronological sequence of dates needs to be complemented with information.
@@ -66,7 +66,7 @@ When was the wire recorder invented?
 When were the American Newsreels about the camps shown to the American audience?
 Document your findings in the appropiate field in the template
 
-<!-- section —> 
+<!-- section --> 
 ## c. Create a new account and a new timeline
 
 Follow the instructions that are provided in the Tutorial
@@ -85,7 +85,7 @@ A chronological list of audio and film recordings with testimonies of experience
 
 Remember to regularly save your entries in your answer template, as well as in the online timeline!
 
-<!-- section —> 
+<!-- section --> 
 ## d. Copyright Law and the web
 
 For assignment 1b and 1c  you have to take into account the legal
