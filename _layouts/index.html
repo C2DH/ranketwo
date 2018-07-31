@@ -12,11 +12,5 @@ layout: default
       {{paragraphs[1]}}
     </div>
 
-    <ul class="list-of units">
-      {% assign units = site.units|where:"layout","unit"|where:"lang", page.lang | sort: 'order'%}
-      {% for unit in units%}
-      {% include li.unit.html %}
-      {% endfor %}
-    </ul>
   </div>
 </div>
