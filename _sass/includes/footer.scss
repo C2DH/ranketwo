@@ -1,9 +1,8 @@
 footer{
-  
-  color: $light-grey;
+  color: $transparent-white;
   margin-top: 2em;
   padding: 2em 0;
   background: $almost-black;
-    border-top: 1px solid blue;
-    box-shadow: 0px -3px 0px cyan, inset 0px 2px 0px magenta;
+  border-top: 1px solid blue;
+  box-shadow: 0px -3px 0px cyan, inset 0px 2px 0px magenta;
 }

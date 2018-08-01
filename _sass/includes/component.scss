@@ -77,10 +77,46 @@
       // font-size: .8em;
       margin: 1em 0;
     }
+
+    background-color: $almost-black;
+
+    h3{
+      color: $white;
+      margin-top: 30px;
+      font-size: inherit;
+      // font-weight: bold;
+      padding-bottom: 25px;
+      margin-bottom: 15px;
+      position: relative;
+    }
+
+    h3::after{
+      position:absolute;
+      content: "";
+      bottom: 0;
+      left: 0;
+      width: 50px;
+      border: 1px solid cyan;
+    }
+
+    div.caption p{
+      color: $almost-white;
+    }
   }
 
-  &.quiz{
+  &.quiz, &.interactive {
+    margin-top: 30px;
     background-color: #d0d0d0;
+
+    h3{
+      color: $almost-black;
+    }
+    h3::after{
+      border-color: magenta;
+    }
+    div.caption p{
+      color: $almost-black;
+    }
   }
 
   &.introduction{

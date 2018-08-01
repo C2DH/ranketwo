@@ -1,22 +1,50 @@
 ---
 layout: default
 ---
-<div class='container'>
-  <div id='wrapper'>
+{% assign headline = page.content | split: site.excerpt_separator | first | markdownify | replace: '<p>', '' | replace: '</p>', ''  %}
+{% assign units = site.units | where:"layout","unit" | where:"lang", page.lang | sort: 'order' %}
 
-    {% if page.title %}<h1>{{page.title}}</h1>{% endif %}
+{% assign videos = 'lascaux' | split: ',' %}
+<div class='wrapper with-gradient' style='height: 95%'>
+  {% for video in videos %}
+  {% assign pos = forloop.index | modulo: 2 %}
 
-    {% assign paragraphs = page.content | split: site.excerpt_separator %}
-    <div class="excerpt">{{paragraphs[0] | markdownify }}</div>
-    <div class="contents">
-      {{paragraphs[1]}}
-    </div>
-
-    <ul class="list-of units">
-      {% assign units = site.units|where:"layout","unit"|where:"lang", page.lang | sort: 'order'%}
-      {% for unit in units%}
-      {% include li.unit.html %}
-      {% endfor %}
-    </ul>
+  <div class='slide' dep='{% if pos == 0 %} even {% else %} odd {% endif %}'>
+    <video autoplay muted loop poster="{{ 'assets/videos'| relative_url }}/{{ video }}/poster.jpg" >
+      <source src="{{ 'assets/videos'| relative_url }}/{{ video }}/source.mp4" type="video/mp4">
+      <source src="{{ 'assets/videos'| relative_url }}/{{ video }}/source.webm" type="video/webm">
+      <source src="{{ 'assets/videos'| relative_url }}/{{ video }}/source.ogv" type="video/ogg">
+    </video>
   </div>
+  {% endfor %}
+
+  <!-- <div class='slide' style='background-image: url({{ 'assets/images/bs-30-11-DW-Kultur-Salzburg-jpg.jpg' | relative_url }}); background-size:cover'></div> -->
+  <div class='container'>
+    <h2 id="index--headline">
+      <span>{{ headline }}</span>
+    </h2>
+  </div>
+</div>
+
+<div class='wrapper' style='border-top: 2px solid magenta; padding: 20px 0 0 0;'>
+<div class='container'>
+  <section class="row">
+      {% for unit in units limit: 4 %}
+        <div class='col-sm-6'>
+          <div class="card" style="width: 100%;">
+            <div class="card-image-wrapper">
+              <div class="card-image" style="background-image: url({{ unit.cover.url | relative_url}})" alt="Card image cap"></div>
+            </div>
+            <div class="card-body">
+              <h5 class="card-title">
+                <a href='{{ unit.url | relative_url }}'>{{ unit.title }}</a></h5>
+              <p class="card-text">{{unit.excerpt}}</p>
+              <a href='{{ unit.url | relative_url }}' class="btn btn-block btn-primary">{% assign key='go to lesson' %}{% include t.html %}</a>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+
+  </section>
+</div>
 </div>

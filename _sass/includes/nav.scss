@@ -1,0 +1,128 @@
+$cyan: cyan;
+$magenta: #f64f59;
+$transparent-white: rgba(255,255,255,.75);
+
+#nav--brand{
+
+  margin: 0;
+  padding-top: 0;
+  // background: #ff00cc; /* fallback for old browsers */
+  // background: linear-gradient(cyan, cyan 90%, rgba(255,255,255,0));
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+  height: 80px;
+  border-top: 2px solid $cyan;
+  padding-bottom: 0;
+}
+// #12c2e9, #c471ed, #f64f59
+
+.nav--pages{
+  position: absolute;
+  top: 80px;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+
+  // border-top: 2px solid $magenta;
+  padding: 0;
+  // border-bottom: 2px solid $white;
+}
+
+#nav--pages--secondary{
+  top: 120px;
+}
+
+.navbar-text{
+  // background: white;
+      padding: 0 3px 5px;
+    margin-top: 7px;
+}
+.navbar-brand{
+  background: transparent;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  // border-left: 2px solid #1C090B;
+  // border-right: 2px solid #1C090B;
+  color: #1c090B;
+  background: cyan;
+  // margin-top: 7px;
+}
+
+nav a{
+  color: $white;
+}
+
+li.nav-item{
+  // border-right: 1px solid magenta;
+  // border-left: 1px solid magenta;
+  border-top: 2px solid transparent;//$transparent-white;
+  transition: border-top-color .25s linear;
+
+  a.nav-link{
+    position: relative;
+  }
+
+  a.nav-link > span {
+    color: $white;
+    transition: color .25s linear;
+  }
+
+  a.nav-link::before{
+    position: absolute;
+    left: .5rem;
+    top: 0;
+    right: .5rem;
+    bottom: 0;
+    content: "";
+    background: cyan;
+    z-index: -1;
+    transform-origin: center;
+    transform: scale(0, .5);
+    transition: transform .25s ease-in-out;
+  }
+
+  a.nav-link:hover{
+    &::before{
+      transform: scale(1, 0.5);
+    }
+    & > span {
+      color: $almost-black;
+    }
+  }
+}
+
+
+li.nav-item.active{
+  // background-color: magenta;
+  color: white;
+  border-top-color: $almost-black;
+  box-shadow: 0px 2px cyan inset, 0px -2px $magenta;
+  //transform: skew(6deg);
+
+  a.nav-link::before{
+    transform: scale(1, 0.5);
+  }
+
+  a.nav-link > span {
+    color: $almost-black;
+  }
+}
+
+a.nav-link {
+  // background-color: white;
+
+  // padding-right: 0;
+  strong{
+    font-weight: normal;
+    color: $white;
+  }
+  & > span {
+    border-bottom: 1px solid;
+    // background: $white ;
+    color: $white;
+    // padding: 0 .3125rem;
+  }
+}

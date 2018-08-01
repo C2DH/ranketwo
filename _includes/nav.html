@@ -1,32 +1,57 @@
-<div class="container">
-  <nav class="navbar navbar-light bg-faded " style='margin-top: 20px;'>
-      <!-- <a class="navbar-brand{% if page.link == "/" %} active{% endif %}"  {% if page.lang == site.default_lang %} href='{{"/" | absolute_url}}'' {% else %} href="{{page.lang | absolute_url}}/" {% endif %}>{{site.title}}</a> -->
-      <a class="navbar-brand"  {% if page.lang == site.default_lang %} href='{{"/" | absolute_url}}'' {% else %} href="{{page.lang | absolute_url}}/" {% endif %}>{{site.title}}</a>
-    <div>
-      <div style='display: inline-block'>{% for lang in site.languages %}
-        <a {% if lang == page.lang %}class='active'{% endif %} {% if lang == site.default_lang %} href='{{page.link | absolute_url}}' {% else %} href='{{lang | absolute_url}}{{page.link}}' {% endif %}>{{lang}}</a>
-      {% endfor %}
-      </div>
-      <div id='logo-c2dh'>
-        <img src='{{ "assets/images/c2dh-logo.png" | relative_url}}' alt='a C2DH production'>
-      </div>
+<nav id='nav--brand' class="navbar navbar-expand-sm">
+  <div class="container">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".dual-nav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class='navbar-text'>
+      <img style='height:40px;' src='{{ "assets/images/c2dh-logo-cyan.svg" | relative_url}}' alt='a C2DH production'>
     </div>
-
-  </nav>
-  
-  <nav class="navbar navbar-light bg-faded navbar-last">
-    <ul class="nav">
-    {% for link in site.data.navigation.primary.links %}
-      {%include link.html%}
+    <!-- <a class="navbar-brand{% if page.link == "/" %} active{% endif %}"  {% if page.lang == site.default_lang %} href='{{"/" | absolute_url}}'' {% else %} href="{{page.lang | absolute_url}}/" {% endif %}>{{site.title}}</a> -->
+    <a class="navbar-brand mx-auto d-block"  {% if page.lang == site.default_lang %} href='{{"/" | absolute_url}}' {% else %} href="{{page.lang | absolute_url}}/" {% endif %}>
+      <strong>{{site.title}}</strong> <span style='letter-spacing:-5px;'>~~~</span>
+      {{site.headline}}
+    </a>
+    <!-- <ul class="nav">
+    {% for lang in site.languages %}
+      <li class='nav-item'>
+        <a class='nav-link {% if lang == page.lang %} active {% endif %}' {% if lang == site.default_lang %} href='{{page.link | absolute_url}}' {% else %} href='{{lang | absolute_url}}{{page.link}}' {% endif %}>{{lang}}</a>
+      </li>
     {% endfor %}
-    </ul>
+    </ul> -->
+    <div class='navbar-text'>
+      <img style='height:30px;' src='{{ "assets/images/unilu-logo-cyan.svg" | relative_url}}' alt='university of Luxembourg'>
+    </div>
+  </div>
+</nav>
 
-    <ul class="nav">
-    {% for link in site.data.navigation.secondary.links %}
-      {%include link.html%}
-    {% endfor %}
-    </ul>
+<nav id='nav--pages--primary' class="nav--pages navbar fixed-top navbar-expand-sm">
+  <div class="container">
+    <div class="navbar-collapse collapse justify-content-between align-items-center w-100">
+      <ul class="navbar-nav mx-auto text-center">
+      {% for link in site.data.navigation.primary.links %}
+        {% include link.html %}
+      {% endfor %}
+
+      </ul>
+    </div>
+  </div>
 
 
-  </nav>
-</div>
+
+</nav>
+
+<nav id='nav--pages--secondary' class="nav--pages navbar fixed-top navbar-expand-sm">
+  <div class="container">
+    <div class="navbar-collapse collapse justify-content-between align-items-center w-100">
+      <ul class="navbar-nav mx-auto text-center">
+      {% for link in site.data.navigation.secondary.links %}
+        {% include link.html %}
+      {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+
+
+</nav>

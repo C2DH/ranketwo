@@ -2,15 +2,14 @@ primary:
   links:
     - title: Home
       href: /
-    - title: About
+    - title: What does Digital Source Criticism mean
+      href: /define-dsc/
+    - title: What is the platform about
       href: /introduction/
-    - title: Pedagogical Approach
-      href: /structure-of-teaching-modules/
-    - title: Overview of Lessons 
-      href: /teaching-modules/
+
 secondary:
   links:
-    
-    - title: Defining Digital Source Criticism
-      href: /define-dsc/
- 
+    - title: Overview of Lessons
+      href: /teaching-modules/
+    - title: How are the Lessons structured
+      href: /structure-of-teaching-modules/

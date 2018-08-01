@@ -1,15 +1,142 @@
 .unit{
-  margin-bottom: 50px;
 
-  h1{
-    font-size: 1.5rem;
-    line-height: 1.5;
-    margin-bottom: 1em;
+}
+
+/* ID speecific */
+#table-of-contents-wrapper{
+  position: absolute;
+  top: 255px; // media stuff
+  z-index: 100;
+  min-height: 300px;
+  right: 0;
+  left: 0;
+  pointer-events: none;
+
+  h4{
+    pointer-events: auto;
     font-weight: bold;
+    font-size:inherit;
+    line-height: inherit;
+    padding-top: 20px;
   }
 
-  h5{
-    font-size:inherit;
-    font-weight: bold;
+  ul {
+    pointer-events: auto;
+    margin:0;
+    padding:0 0 20px 0;
+
+    li{
+      pointer-events: auto;
+      list-style-type: none;
+      position: relative;
+      margin-bottom: 10px;
+
+      .lines{
+        pointer-events: none;
+
+        border-color: transparent;
+        transition: border-color 0.2s ease-in-out;
+      }
+      .line.right{
+          background-color: transparent;
+      }
+      .group{
+        position:absolute;
+        top:0;
+        bottom:0;
+        width: 10px;
+        left:0;
+        transform-origin:left top;
+        transition: transform 0.2s ease-in-out;
+      }
+      a{
+        pointer-events: auto;
+        padding-left: 15px;
+        display: block;
+
+        &:hover{
+          text-decoration: underline;
+          background: transparent
+        }
+        span{
+          transition: background-color 0.2s ease-in-out;
+        }
+      }
+      &.active {
+        .lines{
+          border-color: #FF00FF;
+        }
+        .line.right{
+          background-color: $highlight;
+        }
+        a{
+          background-color: transparent;
+          > span{
+            background-color: $highlight;
+          }
+        }
+      }
+    }
+  }
+
+  &.fixed{
+    position: fixed;
+    transform: translateY(-255px);
+  }
+
+}
+
+
+.unit .lines{
+  position:absolute;
+  left:0;top:0;bottom:0;
+  border-left: 3px solid #FF00FF;
+  width: 200px;
+
+  .type{
+    position: absolute;
+    right: 0px;
+    top: -25px;
+  }
+
+
+  .line{
+    position: absolute;
+
+    &.left{
+      left:0px;top:0;bottom:0;width: 1px;
+      background-color: #0000FF
+    }
+
+    &.right{
+      width: 4px;
+      left: 1px;
+      bottom: 0px;
+      top: 0;
+      background-color: #00FFFF;
+    }
+    &.top{
+      left:-3px;top:-5px;height: 5px; width: 100%;
+      background-color: $white;
+      border-bottom: 2px solid $almost-black;
+      border-top: 1px solid $light-grey;
+    }
+
+  }
+}
+
+
+.unit .type{
+  border: 2px solid $almost-black;
+
+  height: 25px;
+
+  line-height: 20px;
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  white-space: nowrap;
+  > span{
+    padding: 0 8px;
   }
 }

@@ -1,367 +1,81 @@
 ---
 ---
-
-
-$black: #151515;
-$almost-black: #1C090B;
-$light-grey: #ccc;
-$yellow: #FAF54F;
-$almost-white: #FCF4D9;
 $white: #ffffff;
+$almost-black: #1C090B;
+$highlight: lime;
+$light-grey: #121212;
+$almost-white: #e0e0e0;
 
-$highlight: #99ffff;
-
-
+html{
+  height: 100%;
+}
 body{
+  height: 100%;
   background: $white;
   color: $almost-black;
   font-family: 'Work Sans', sans-serif;
-  font-size: 15px;
-}
-
-
-
-
-
-// li.active a, a.active{
-//     // background-color: $highlight;
-//     text-decoration: underline;
-//   }
-
-a{
-  color: $black;
 
 }
 
-a:hover{
-  background-color: $highlight;
-}
-
-p a{
-  text-decoration: underline;
-  background-color: $highlight;
-}
-
-/*
-ul{
-  padding: 0;
-  margin: 0;
-  list-style-type: none;
-}
-*/
-
-#logo-c2dh{
-  display: inline-block;
-  width: 90px;
-  img{
-    width: 90px;
-  }
-}
-
-/* ID speecific */
-#table-of-contents-wrapper{
-  position: absolute;
-  top: 255px; // media stuff
-  z-index: 100;
-  min-height: 300px;
-  right: 0;
-  left: 0;
-  pointer-events: none;
-
-  h4{
-    pointer-events: auto;
-    font-weight: bold;
-    font-size:inherit;
-    line-height: inherit;
-    padding-top: 20px;
-  }
-
-  ul {
-    pointer-events: auto;
-    margin:0;
-    padding:0 0 20px 0;
-
-    li{
-      pointer-events: auto;
-      list-style-type: none;
-      position: relative;
-      margin-bottom: 10px;
-
-      .lines{
-        pointer-events: none;
-
-        border-color: transparent;
-        transition: border-color 0.2s ease-in-out;
-      }
-      .line.right{
-          background-color: transparent;
-      }
-      .group{
-        position:absolute;
-        top:0;
-        bottom:0;
-        width: 10px;
-        left:0;
-        transform-origin:left top;
-        transition: transform 0.2s ease-in-out;
-      }
-      a{
-        pointer-events: auto;
-        padding-left: 15px;
-        display: block;
-
-        &:hover{
-          text-decoration: underline;
-          background: transparent
-        }
-        span{
-          transition: background-color 0.2s ease-in-out;
-        }
-      }
-      &.active {
-        .lines{
-          border-color: #FF00FF;
-        }
-        .line.right{
-          background-color: $highlight;
-        }
-        a{
-          background-color: transparent;
-          > span{
-            background-color: $highlight;
-          }
-        }
-      }
-    }
-  }
-
-  &.fixed{
-    position: fixed;
-    transform: translateY(-255px);
-  }
-
-}
-
-.navbar-brand{
-  // font-size: inherit;
-      border-bottom: 2px solid;
-    font-size: inherit;
-    margin-bottom: 10px;
-    padding-bottom: 20px;
-    line-height: 1;
-
+h5{
   font-weight: bold;
-  a{
-    padding: 0 10px;
-
-
-  }
-
+}
+.wrapper{
+  position: relative;
 }
 
-.navbar{
-  padding: 50px 0 0 0;
-
-  padding: 0 5px;
-
-  &.navbar-last{
-    padding-top: 10px;
-    padding-bottom: 50px;
-  }
-  ul{
-    padding:0
-  }
-  ul li{
-    padding: 0 1rem;
-
-    a {
-      padding: 0 5px;
-      border: 2px solid transparent;
-    }
-
-    &.active a {
-      border-color: $almost-black;
-    }
-    &.first{
-      padding-left: 0;
-    }
-    &.last{
-      padding-right: 0;
-    }
-  }
-
-
+.height-100{
+  height: 100%;
 }
 
-.excerpt{
-  font-size: 2em;
-  margin-top: 2em;
-  margin-bottom: 3em;
+.width-100 {
+  width: 100%;
 }
 
 
-#contents > p > div.placeholder {
-  margin: 2em;
-  background: #ccc;
-}
+@import "includes/nav", "includes/footer", "includes/component";
+@import "layouts/index", "layouts/page", "layouts/unit";
 
-/*
-  list of
-*/
-ul.list-of{
-  list-style-type: none;
-  padding: 0;
-  margin: 20px 0 0 0;
 
-  > li{
-    margin: 0 0 20px 0
+/** bootstrap override */
+.card{
+  border-width: 0;
+  border-radius: 0;
+  margin-bottom: 20px;
+      border-top: 2px solid cyan;
+
+  .card-image-wrapper{
+    padding-bottom: 57%;
+    overflow: hidden;
+    position:relative;
   }
 
-
-}
-
-
-
-.type{
-  border: 2px solid $almost-black;
-
-  height: 25px;
-
-  line-height: 20px;
-  font-size: 13px;
-  font-weight: 700;
-  text-transform: uppercase;
-  white-space: nowrap;
-  > span{
-    padding: 0 8px;
-  }
-}
-
-.lines{
-    position:absolute;
-    left:0;top:0;bottom:0;
-    border-left: 3px solid #FF00FF;
+  .card-image{
+    position: absolute;
     width: 100%;
-
-    .type{
-      position: absolute;
-      right: 0px;
-      top: -25px;
-    }
-
-
-    .line{
-      position: absolute;
-
-      &.left{
-        left:0px;top:0;bottom:0;width: 1px;
-        background-color: #0000FF
-      }
-
-      &.right{
-        width: 4px;
-        left: 1px;
-        bottom: 0px;
-        top: 0;
-        background-color: #00FFFF;
-      }
-      &.top{
-        left:-3px;top:-5px;height: 5px; width: 100%;
-        background-color: $white;
-        border-bottom: 2px solid $almost-black;
-        border-top: 1px solid $light-grey;
-      }
-
-    }
-  }
-
-
-ul.list-of > li.unit{
-  margin-bottom:  50px;
-  .clip{
     height: 100%;
+    background-color: $magenta;
+    background-size:cover;
+    background-position: center;
+
+    transition: transform 1s ease-in-out;
+    transform: scale(1);
+  }
+
+  &:hover .card-image{
+    transform: scale(1.1);
+  }
+}
+
+.btn-primary{
+  background: #fff;
+  border-radius: 0;
+  border-width: 0;
+  border-bottom: 2px solid $almost-black;
+  color: $almost-black;
+
+  &:hover{
     background-color: $almost-black;
-  }
-
-  .metadata{
-    min-height: 100px;
-
-  }
-  h2{
-    font-size: 1.2em;
-    line-height: inherit;
-    font-weight: bold;
-  }
-
-  .authors{
-    margin-top: 1em;
-  }
-
-  table.list-of.subunits{
-    margin-left: 1em;
-    td{
-      padding: 1em;
-      vertical-align: middle;
-    }
-    h4{
-      font-size: inherit;
-      line-height: inherit;
-      font-weight: bold;
-      margin:0;
-      padding:0;
-    }
-    p{
-      margin: 0;
-      padding: 0;
-    }
-  }
-
-}
-
-li.author{
-  list-style-type: none;
-  h3{
-    font-size: inherit;
-    line-height: inherit;
-    font-weight: bold;
-        padding: 0;
-    margin: 0;
-  }
-  .picture{
-    background-size: contain;
-    height: 45px;
-    width: 45px;
-    // float: left;
-    margin-right: 1em;
-  }
-
-}
-
-.extra-spacing{
-  margin-top: 1.5em;
-}
-
-.contents h3{
-  font-size: inherit;
-  font-weight: bold;
-}
-
-.contents table{
-  border: 2px solid;
-  font-size: 0.8em;
-  th {
-    text-align: left;
-    width: 50%;
-    border: 1px solid;
-    padding: 10px;
-    font-weight: normal;
-  }
-  td{
-    width: 50%;
-    border: 1px solid;
+    color: $white;
   }
 }
-@import "layouts/literature", "layouts/unit", "layouts/assignment";
-@import "includes/footer", "includes/component";
-@import "templates/placeholder";
-@import "media-queries";
