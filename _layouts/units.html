@@ -2,7 +2,8 @@
 layout: default
 ---
 <div class='container'>
-  <div id='wrapper'>
+  <div class='page'>
+
 
     {% if page.title %}<h1>{{page.title}}</h1>{% endif %}
 
@@ -12,11 +13,14 @@ layout: default
       {{paragraphs[1]}}
     </div>
 
-    <ul class="list-of units">
+    <div class="row">
       {% assign units = site.units|where:"layout","unit"|where:"lang", page.lang %}
-      {% for unit in units%}
-      {% include li.unit.html %}
+      {% for card in units%}
+      <div class='col-md-6 col-lg-4'>
+      {% include card.html %}
+      </div>
       {% endfor %}
+    </div>
     </ul>
   </div>
 </div>

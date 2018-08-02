@@ -2,10 +2,11 @@ div.page{
   margin-top: 200px;
 
   h1 > span{
-      background-color: lime;
+    // background-color: lime;
   }
-  
+
   .excerpt p {
+    font-weight: 300;
     font-size: 2em;
   }
 }

@@ -16,65 +16,68 @@ layout: default
       <source src="{{ 'assets/videos'| relative_url }}/{{ video.id }}/source.webm" type="video/webm">
       <source src="{{ 'assets/videos'| relative_url }}/{{ video.id }}/source.ogv" type="video/ogg">
     </video>
+    <div class='overlay'></div>
+    <figcaption>
+      {{video.caption | markdownify}}
+    </figcaption>
   </div>
   {% endfor %}
 
   <!-- <div class='slide' style='background-image: url({{ 'assets/images/bs-30-11-DW-Kultur-Salzburg-jpg.jpg' | relative_url }}); background-size:cover'></div> -->
-  <div class='container'>
-    <h2 id="index--headline">
-      <!-- <span>{{ headline }}</span> -->
-    </h2>
-    {% for video in videos %}
-    <div id='index--slide-{{video.id}}-caption'></div>
-    {% endfor %}
+  <div id='index--headline-wrapper'>
+    <div class='container'>
+      <h2 id="index--headline"></h2>
+    </div>
   </div>
+
+
 </div>
 
-<div class='wrapper' style='border-top: 2px solid magenta; padding: 20px 0 0 0;'>
+<div id='index--units-wrapper' class='wrapper bt-glitch'>
+  <div class='wrapper-bait'>
+    {% assign key="list of lessons" %}{% include t.html %}
+  </div>
 <div class='container'>
   <section class="row">
-      {% for unit in units limit: 4 %}
+      {% for card in units limit: 4 %}
         <div class='col-sm-6'>
-          <div class="card" style="width: 100%;">
-            <div class="card-image-wrapper">
-              <div class="card-image" style="background-image: url({{ unit.cover.url | relative_url}})" alt="Card image cap"></div>
-            </div>
-            <div class="card-body">
-              <h5 class="card-title">
-                <a href='{{ unit.url | relative_url }}'>{{ unit.title }}</a></h5>
-              <p class="card-text">{{unit.excerpt}}</p>
-              <a href='{{ unit.url | relative_url }}' class="btn btn-block btn-primary">{% assign key='go to lesson' %}{% include t.html %}</a>
-            </div>
-          </div>
+          {% include card.html %}
         </div>
       {% endfor %}
 
   </section>
+  <a href='{{ relative_url }}/teaching-modules' class="btn btn-block btn-primary btn-more">{% assign key='more lessons' %}{% include t.html %}</a>
+
 </div>
 </div>
 
 <script>
     var carousel;
-    var TxtType = function(el, toRotate, period) {
-      this.toRotate = toRotate;
+    var TxtType = function(el, sentences, period) {
+      this.sentences = sentences;
       this.el = el;
       this.loopNum = 0;
       this.period = parseInt(period, 10) || 2000;
       this.txt = '';
       this.tick();
       this.isDeleting = false;
+      this.next = '';
     };
 
     TxtType.prototype.tick = function() {
-        var i = this.loopNum % this.toRotate.length;
-        var fullTxt = this.toRotate[i];
+        var i = this.loopNum % this.sentences.length;
+        var fullTxt = this.sentences[i];
+        var nextIdx = i + 1 > this.sentences.length - 1? 0: i + 1;
 
         if (this.isDeleting) {
-        this.txt = fullTxt.substring(0, this.txt.length - 1);
-        } else {
-        this.txt = fullTxt.substring(0, this.txt.length + 1);
-        }
+          this.txt = fullTxt.substring(0, this.txt.length - 1);
 
+        } else {
+          this.txt = fullTxt.substring(0, this.txt.length + 1);
+        }
+        var next = this.sentences[nextIdx].substring(0, this.txt.length);
+
+        // console.log(this.txt,'\n', next);
         this.el.innerHTML = '<span class="wrap">'+this.txt+'</span>';
 
         var that = this;
@@ -83,12 +86,12 @@ layout: default
         if (this.isDeleting) { delta /= 2; }
 
         if (!this.isDeleting && this.txt === fullTxt) {
-        delta = this.period;
-        this.isDeleting = true;
-        } else if (this.isDeleting && this.txt === '') {
-        this.isDeleting = false;
-        this.loopNum++;
-        delta = 500;
+          delta = this.period;
+          this.isDeleting = true;
+        } else if (this.isDeleting && (this.txt === '' || this.txt === next)) {
+          this.isDeleting = false;
+          this.loopNum++;
+          delta = 500;
         }
 
         setTimeout(function() {
@@ -99,10 +102,11 @@ layout: default
     function initTxtType() {
       console.log('@DOMContentLoaded: initTxtType()');
       new TxtType(document.getElementById('index--headline'), [
+        "Ranke.2 / source criticism in the Digital Age",
         "Ranke.2 is a teaching platform ",
-        "Each lesson deals with how to critically assess and work with digital historical sources",
-        "Each lesson focuses on a particular type of historical source",
-        "Each lesson discusses how to apply source criticism to its digital representation.."
+        "Ranke.2 | Each lesson deals with how to critically assess and work with digital historical sources",
+        "Ranke.2 / Each lesson focuses on a particular type of historical source",
+        "Ranke.2 | Each lesson discusses how to apply source criticism to its digital representation.."
       ], 2000);
     };
 
