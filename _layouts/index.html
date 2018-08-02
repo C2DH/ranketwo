@@ -102,11 +102,9 @@ layout: default
     function initTxtType() {
       console.log('@DOMContentLoaded: initTxtType()');
       new TxtType(document.getElementById('index--headline'), [
-        "Ranke.2 / source criticism in the Digital Age",
-        "Ranke.2 is a teaching platform ",
-        "Ranke.2 | Each lesson deals with how to critically assess and work with digital historical sources",
-        "Ranke.2 / Each lesson focuses on a particular type of historical source",
-        "Ranke.2 | Each lesson discusses how to apply source criticism to its digital representation.."
+        {% for sentence in page.sentences %}
+        "{{sentence}}"{% unless forloop.last %},{% endunless %}
+        {% endfor %}
       ], 2000);
     };
 
