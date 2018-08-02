@@ -4,16 +4,17 @@ layout: default
 {% assign headline = page.content | split: site.excerpt_separator | first | markdownify | replace: '<p>', '' | replace: '</p>', ''  %}
 {% assign units = site.units | where:"layout","unit" | where:"lang", page.lang | sort: 'order' %}
 
-{% assign videos = 'lascaux' | split: ',' %}
-<div class='wrapper with-gradient' style='height: 95%'>
+{% assign videos = page.videos %}
+<div id='index--slide-wrapper' class='wrapper with-gradient' style='height: 95%'>
+  <div class='slide-background'></div>
   {% for video in videos %}
   {% assign pos = forloop.index | modulo: 2 %}
 
-  <div class='slide' dep='{% if pos == 0 %} even {% else %} odd {% endif %}'>
-    <video autoplay muted loop poster="{{ 'assets/videos'| relative_url }}/{{ video }}/poster.jpg" >
-      <source src="{{ 'assets/videos'| relative_url }}/{{ video }}/source.mp4" type="video/mp4">
-      <source src="{{ 'assets/videos'| relative_url }}/{{ video }}/source.webm" type="video/webm">
-      <source src="{{ 'assets/videos'| relative_url }}/{{ video }}/source.ogv" type="video/ogg">
+  <div class='slide' id='index--slide-{{video.id}}' dep='{% if pos == 0 %} even {% else %} odd {% endif %}'>
+    <video autoplay muted loop poster="{{ 'assets/videos'| relative_url }}/{{ video.id }}/poster.jpg" >
+      <source src="{{ 'assets/videos'| relative_url }}/{{ video.id }}/source.mp4" type="video/mp4">
+      <source src="{{ 'assets/videos'| relative_url }}/{{ video.id }}/source.webm" type="video/webm">
+      <source src="{{ 'assets/videos'| relative_url }}/{{ video.id }}/source.ogv" type="video/ogg">
     </video>
   </div>
   {% endfor %}
@@ -21,8 +22,11 @@ layout: default
   <!-- <div class='slide' style='background-image: url({{ 'assets/images/bs-30-11-DW-Kultur-Salzburg-jpg.jpg' | relative_url }}); background-size:cover'></div> -->
   <div class='container'>
     <h2 id="index--headline">
-      <span>{{ headline }}</span>
+      <!-- <span>{{ headline }}</span> -->
     </h2>
+    {% for video in videos %}
+    <div id='index--slide-{{video.id}}-caption'></div>
+    {% endfor %}
   </div>
 </div>
 
@@ -48,3 +52,119 @@ layout: default
   </section>
 </div>
 </div>
+
+<script>
+    var carousel;
+    var TxtType = function(el, toRotate, period) {
+      this.toRotate = toRotate;
+      this.el = el;
+      this.loopNum = 0;
+      this.period = parseInt(period, 10) || 2000;
+      this.txt = '';
+      this.tick();
+      this.isDeleting = false;
+    };
+
+    TxtType.prototype.tick = function() {
+        var i = this.loopNum % this.toRotate.length;
+        var fullTxt = this.toRotate[i];
+
+        if (this.isDeleting) {
+        this.txt = fullTxt.substring(0, this.txt.length - 1);
+        } else {
+        this.txt = fullTxt.substring(0, this.txt.length + 1);
+        }
+
+        this.el.innerHTML = '<span class="wrap">'+this.txt+'</span>';
+
+        var that = this;
+        var delta = 100 - Math.random() * 50;
+
+        if (this.isDeleting) { delta /= 2; }
+
+        if (!this.isDeleting && this.txt === fullTxt) {
+        delta = this.period;
+        this.isDeleting = true;
+        } else if (this.isDeleting && this.txt === '') {
+        this.isDeleting = false;
+        this.loopNum++;
+        delta = 500;
+        }
+
+        setTimeout(function() {
+        that.tick();
+        }, delta);
+    };
+
+    function initTxtType() {
+      console.log('@DOMContentLoaded: initTxtType()');
+      new TxtType(document.getElementById('index--headline'), [
+        "Ranke.2 is a teaching platform ",
+        "Each lesson deals with how to critically assess and work with digital historical sources",
+        "Each lesson focuses on a particular type of historical source",
+        "Each lesson discusses how to apply source criticism to its digital representation.."
+      ], 2000);
+    };
+
+    var Carousel = function(slides) {
+      var _self = this;
+
+      this.slides = [];
+      this.idx = -1;
+
+      // there should be a better way.
+      slides.each(function(d) {
+        _self.slides.push(d3.select(this));
+      });
+
+
+      this.shuffle = function(a) {
+        var j, x, i;
+        for (i = a.length - 1; i > 0; i--) {
+            j = Math.floor(Math.random() * (i + 1));
+            x = a[i];
+            a[i] = a[j];
+            a[j] = x;
+        }
+        return a;
+      }
+
+      this.play = function() {
+        if(_self._play_timer) {
+          clearTimeout(_self._play_timer);
+        }
+        _self.idx++;
+        if(_self.idx > _self.slides.length - 1) {
+          _self.idx = 0;
+        }
+        console.log('index', _self.idx, _self.slides);
+        if(_self.playingSlide){
+          _self.playingSlide.style('display', 'none');
+        }
+        _self.playingSlide = _self.slides[_self.idx];
+        _self.playingSlide.style('display', 'block');
+        _self.playingSlide.select('video').node().load();
+
+        _self._play_timer = setTimeout(_self.play, 5000);
+      }
+
+      // shuffle
+      this.slides = this.shuffle(this.slides);
+      this.play();
+    };
+
+    function initCarousel() {
+      console.log('@DOMContentLoaded: initCarousel()');
+      carousel = new Carousel(d3.select('#index--slide-wrapper').selectAll('.slide'));
+    }
+
+    function playCarousel() {
+
+    }
+
+    document.addEventListener("DOMContentLoaded", function(e) {
+      initTxtType();
+      initCarousel();
+    })
+
+</script>
