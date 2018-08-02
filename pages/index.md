@@ -15,7 +15,7 @@ videos:
     caption: "Automatic data processing. Copyright @ 2018"
     
 sentences:
-  -
+
   - Ranke/2 is a teaching platform on digital source criticism
   - It teaches how to critically assess digital historical sources 
   - It explains how analogue sources are transformed into digital representations
