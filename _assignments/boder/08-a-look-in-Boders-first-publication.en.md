@@ -21,7 +21,7 @@ The purpose of this assignment is to show how one source, an audio recording,  c
 Open the box  ‘A look into Boder’s first publication’
 https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
 
-
+<!--section --> 
 ***8a  Comparing a printed anonymous transcript to its digital version online***
 
 - Read the interview with Jorn Gastfreund (alias for Jurgen Bassfreund) with the short introduction by David Boder. it is 27 pages. This is a digital scan of his printed book.
@@ -42,13 +42,14 @@ Your assignments consists of completing  the table in your template in which you
 - Mark the differences in the first two columns of the table in your template
 
 
-
+<!--section --> 
 ***8b Comparing reading to listening***
 
 - Now listen to the first 5.46 minutes of the interview in German that corresponds to the text.
 - Mark the differences between what you hear and what you have read in the third column of your table.
 
 
+<!--section --> 
 ***8c Reflecting on your experiences***
 
 - Read about how Boder’s handles the issue of language in Beate Muller’s article on Boder’s translations.

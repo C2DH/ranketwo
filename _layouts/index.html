@@ -37,18 +37,18 @@ layout: default
   <div class='wrapper-bait'>
     {% assign key="list of lessons" %}{% include t.html %}
   </div>
-<div class='container'>
-  <section class="row">
-      {% for card in units limit: 4 %}
-        <div class='col-sm-6'>
-          {% include card.html %}
-        </div>
-      {% endfor %}
+  <div class='container'>
+    <section class="row">
+        {% for card in units limit: 4 %}
+          <div class='col-sm-6'>
+            {% include card.html %}
+          </div>
+        {% endfor %}
 
-  </section>
-  <a href='{{ relative_url }}/teaching-modules' class="btn btn-block btn-primary btn-more">{% assign key='more lessons' %}{% include t.html %}</a>
+    </section>
+    <a href='{{ relative_url }}/teaching-modules' class="btn btn-block btn-primary btn-more">{% assign key='more lessons' %}{% include t.html %}</a>
 
-</div>
+  </div>
 </div>
 
 <script>

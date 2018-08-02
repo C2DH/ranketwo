@@ -37,7 +37,7 @@ Then open the box Who are the people on these photos  and read the text
 {: .headsup}
 
 
-
+<!--section --> 
 1a      ***Online content, who is behind it?***
 
 Try to find more background information about these photographs through additional web research 
@@ -50,8 +50,8 @@ How was the photo integrated into the animation?
 Document your findings in your template. 
 
 
-
-1b      ***Photos online used in the right historical context ***
+<!--section --> 
+1b      ***Photos online used in the right historical context***
 
 Compare the photo of the liberated prisoners in this interactive context with how it is used in:
 

@@ -22,10 +22,12 @@ The lessons have been structured in such a manner that they can serve the needs 
 
 {: .extra-spacing}
 ## SMALL   
-The **SMALL** module consists of a short animation of around 6 to 7 min that is intended to be accessible to a broad audience, regardless of a teaching context. This is followed by a quiz that takes around 10 min.
+The **SMALL** module is meant as a short introduction to a topic related to source criticism. It consists of a short animation of around 6 to 7 min in which a number of basic terms and questions are presented. This is followed by a quiz of around 10 min to test one’s understanding of what is conveyed in the animation. The SMALL module is geared towards a broad audience with a general interest, including individual learners who are not part of a teaching context.
+
 
 ## MEDIUM  
-The **MEDIUM** module consists of a series of assignments that address topics that are presented in the animation. Its target group are bachelor students of a humanities discipline and their lecturers. The assignments are suited for collaborative work for 2 or 3 students and the time effort varies from 30 min to 1.30 min.
+The **MEDIUM** module is meant to be used in a teaching context and therefore offers information for both students and lecturers. It consists of a series of assignments that address the various topics more in depth, that have been presented in the animation. Its target group are bachelor students and their lecturers. The assignments are suited for collaborative work for 2 or 3 students and the time effort varies from 30 to 90 minutes. Each assignment offers specific information about learning outcomes.
+
 
 ## LARGE
 The **LARGE** module offers a tutorial for a hands on workshop of one or more days. This should be led by a lecturer who has experience with digital tools and requires some preparation and an appropiate environment such as a computer lab.
