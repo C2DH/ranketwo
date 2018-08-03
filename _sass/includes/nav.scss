@@ -1,6 +1,6 @@
 
 #nav--brand{
-
+  display:none;
   margin: 0;
   padding-top: 0;
   // background: #ff00cc; /* fallback for old browsers */
@@ -29,6 +29,7 @@
 }
 
 #nav--pages--secondary{
+  display:none;
   top: 125px;
 }
 
@@ -123,5 +124,12 @@ a.nav-link {
     // background: $white ;
     color: $white;
     // padding: 0 .3125rem;
+  }
+}
+
+
+@media (min-width: 768px) {
+  #nav--brand, #nav--pages--secondary{
+    display: block;
   }
 }

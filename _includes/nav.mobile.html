@@ -1,0 +1,58 @@
+<nav id='nav--mobile'>
+  <div class='toggler' style='width: 120px;margin-left:-60px'>{% assign key="close menu"%}{% include t.html %}</div>
+  <ul class="navbar-nav left" >
+    {% for link in site.data.navigation.primary.links %}
+    <li class='nav-item {% if page.link == link.href %} active {% endif %}'>
+      <a class="nav-link"
+        {% if page.lang == site.default_lang %}
+          href='{{link.href | absolute_url}}'
+        {% else %}
+          href='{{page.lang | absolute_url}}{{link.href}}'
+        {% endif %}>{% assign key=link.title%}{% include t.html %}</a>
+    </li>
+    {% endfor %}
+  </ul>
+  <ul class="navbar-nav right" >
+    {% for link in site.data.navigation.secondary.links %}
+      <li class='nav-item {% if page.link == link.href %} active {% endif %}'>
+        <a class="nav-link"
+          {% if page.lang == site.default_lang %}
+            href='{{link.href | absolute_url}}'
+          {% else %}
+            href='{{page.lang | absolute_url}}{{link.href}}'
+          {% endif %}>{% assign key=link.title%}{% include t.html %}</a>
+      </li>
+      {% endfor %}
+  </ul>
+
+  <div class='bottom'>
+    <a class="navbar-brand" href='https://wwwen.uni.lu' target='_blank' style='margin-right: 0'>
+     <img style='height:18px' src='{{ "assets/images/unilu-logo-almost-black.svg" | relative_url}}' alt='University of Luxembourg'>
+    </a>
+    <a class="navbar-brand" href="{{'/' | absolute_url}}">
+      {{site.title}}
+    </a>
+    <div class='toggler'><span>menu</span></div>
+    <ul class="languages" >
+      {% for lang in site.languages %}
+      <li class="nav-item {% if lang == page.lang %} active {% endif %}">
+        <a class="nav-link" {% if lang == site.default_lang %} href='{{page.link | absolute_url}}' {% else %} href='{{lang | absolute_url}}{{page.link}}' {% endif %}>{{lang}}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</nav>
+
+<script>
+  // for mobile only
+  document.addEventListener("DOMContentLoaded", function(e) {
+    var _navbarMobile = d3.select('#nav--mobile'),
+        navbarMobileIsOpen = false;
+    _navbarMobile.selectAll('.toggler').on('click', function(){
+      console.log('clicked/touched')
+      navbarMobileIsOpen = !navbarMobileIsOpen;
+      _navbarMobile.classed('active', navbarMobileIsOpen);
+
+    })
+  })
+</script>
