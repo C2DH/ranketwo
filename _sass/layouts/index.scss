@@ -1,7 +1,16 @@
+#index--headline-wrapper{
+  position: absolute;
+  top: 20%;
+  left:0;
+  right: 0;
+  bottom: 0;
+  pointer-events: none;
+  z-index: 2;
+}
 
 #index--headline {
   width: 100%;
-  font-size: 1.5em;
+  font-size: 2em;
   transform: skew(-6deg) rotate(-6deg);
   > span{
     text-shadow: -1px -1px 0 #D53A33, 1px 1px 0 white;
@@ -18,6 +27,9 @@
       text-shadow: -2px -2px 0 #D53A33, 2px 2px 0 white;
     }
   }
+  #index--headline-wrapper{
+    top: 40%;
+  }
 }
 
 body.index{
@@ -30,15 +42,6 @@ body.index{
     right: 0;
     z-index: -1;
     background-color: $almost-black;
-  }
-  #index--headline-wrapper{
-    position: absolute;
-    top: 40%;
-    left:0;
-    right: 0;
-    bottom: 0;
-    pointer-events: none;
-    z-index: 2;
   }
 
   .slide{

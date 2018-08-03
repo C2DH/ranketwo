@@ -27,10 +27,10 @@
 
   <div class='bottom'>
     <a class="navbar-brand" href='https://wwwen.uni.lu' target='_blank' style='margin-right: 0'>
-     <img style='height:18px' src='{{ "assets/images/unilu-logo-almost-black.svg" | relative_url}}' alt='University of Luxembourg'>
+     <img style='height:18px' src='{{ "assets/images/unilu-logo-white.svg" | relative_url}}' alt='University of Luxembourg'>
     </a>
-    <a class="navbar-brand" href="{{'/' | absolute_url}}">
-      {{site.title}}
+    <a class="navbar-text" id='nav-mobile--site-title' href="{{'/' | absolute_url}}">
+      <span>{{site.title}}</span>
     </a>
     <div class='toggler'><span>menu</span></div>
     <ul class="languages" >

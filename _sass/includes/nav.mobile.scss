@@ -1,21 +1,32 @@
-$navbar-mobile-height: 250px;
+$navbar-mobile-height: 290px;
 // navbar mobile
+#nav-mobile--site-title{
+  line-height: 20px;
+  padding-left: 15px;
+  > span{
+    background: cyan;
+    color: $almost-black;
+  }
+}
 #nav--mobile{
   position: fixed;
   left: 0;
   z-index: 1060;
-  background: linear-gradient(to top, rgba(18, 194, 233, 1), rgba(196, 113, 237, 1), rgba(246, 79, 89, 1));
+  background: linear-gradient(to top, rgba(18, 194, 233, .9), rgba(196, 113, 237, .9), rgba(246, 79, 89, .9));
   top: -$navbar-mobile-height;
   height: $navbar-mobile-height  + 50px;
   width: 100%;
   transition: transform .21s ease-in-out;
+
+  box-shadow: 0 1px cyan, inset 0px -1px 0px magenta;
+  border-bottom: 1px solid blue;
 
   &.active{
     transform: translate(0, $navbar-mobile-height);
   }
 
   .navbar-brand{
-    padding: 5px 0 5px 5px;
+    padding: 7px 0 5px 5px;
     background: transparent;
     > img{
       height: 40px;
@@ -29,6 +40,7 @@ $navbar-mobile-height: 250px;
     left: 7px;
     right: 14px;
     overflow: hidden;
+
   }
 
   .toggler{
@@ -64,6 +76,10 @@ $navbar-mobile-height: 250px;
       .nav-link{
             padding: 2px 4px;
       }
+    }
+
+    li.nav-item.active .nav-link{
+      color: $almost-black;
     }
   }
 
