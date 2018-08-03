@@ -13,6 +13,13 @@ videos:
   -
     id: 'automatic-data-processing'
     caption: "Automatic data processing. Copyright @ 2018"
+  -
+    id: dial-phone
+    caption: "*How to Use the Dial Phone* by American Telephone and Telegraph Co. (AT&T)<br>Publication date 1927, source: [archive.org](https://archive.org/details/HowtoUse1927)"
+  -
+    id: rare-manuscript
+    caption: "*Rare Manuscripts Digitized* by CTV<br>Publication date 2013-07-29, source [archive.org](https://archive.org/details/Rare_Manuscripts_Digitized)"
+
 
 sentences:
 

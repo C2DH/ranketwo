@@ -5,20 +5,28 @@ layout: default
 {% assign units = site.units | where:"layout","unit" | where:"lang", page.lang | sort: 'order' %}
 
 {% assign videos = page.videos %}
-<div id='index--slide-wrapper' class='wrapper with-gradient' style='height: 95%'>
+<div id='index--slide-wrapper' class='wrapper with-gradient' style='height: 89%'>
   <div class='slide-background'></div>
+
   {% for video in videos %}
   {% assign pos = forloop.index | modulo: 2 %}
 
   <div class='slide' id='index--slide-{{video.id}}' dep='{% if pos == 0 %} even {% else %} odd {% endif %}'>
-    <video autoplay muted loop poster="{{ 'assets/videos'| relative_url }}/{{ video.id }}/poster.jpg" >
+    <video autoplay muted poster="{{ 'assets/videos'| relative_url }}/{{ video.id }}/poster.jpg" >
       <source src="{{ 'assets/videos'| relative_url }}/{{ video.id }}/source.mp4" type="video/mp4">
       <source src="{{ 'assets/videos'| relative_url }}/{{ video.id }}/source.webm" type="video/webm">
       <source src="{{ 'assets/videos'| relative_url }}/{{ video.id }}/source.ogv" type="video/ogg">
     </video>
     <div class='overlay'></div>
+    <div class='overlay-dotted'></div>
     <figcaption>
-      {{video.caption | markdownify}}
+      <div class='container'>
+        <div class='row'>
+          <div class='col-6 offset-6'>
+            {{video.caption | markdownify}}
+          </div>
+        </div>
+      </div>
     </figcaption>
   </div>
   {% endfor %}
@@ -109,6 +117,8 @@ layout: default
     };
 
     var Carousel = function(slides) {
+
+
       var _self = this;
 
       this.slides = [];
@@ -116,7 +126,11 @@ layout: default
 
       // there should be a better way.
       slides.each(function(d) {
-        _self.slides.push(d3.select(this));
+        var slide = d3.select(this);
+        _self.slides.push({
+          slide: slide,
+          video: slide.select('video')
+        });
       });
 
 
@@ -132,9 +146,9 @@ layout: default
       }
 
       this.play = function() {
-        if(_self._play_timer) {
-          clearTimeout(_self._play_timer);
-        }
+        // if(_self._play_timer) {
+        //   clearTimeout(_self._play_timer);
+        // }
         _self.idx++;
         if(_self.idx > _self.slides.length - 1) {
           _self.idx = 0;
@@ -143,11 +157,22 @@ layout: default
         if(_self.playingSlide){
           _self.playingSlide.style('display', 'none');
         }
-        _self.playingSlide = _self.slides[_self.idx];
+        _self.playingSlide = _self.slides[_self.idx].slide;
         _self.playingSlide.style('display', 'block');
-        _self.playingSlide.select('video').node().load();
 
-        _self._play_timer = setTimeout(_self.play, 5000);
+        _self.player = _self.slides[_self.idx].video.node();
+        _self.player.load();
+        //console.log(duration)
+        console.log('node', _self.player);
+        _self.player.addEventListener('ended', _self.onVideoEnded);
+        // _self._play_timer = setTimeout(_self.play, 5000);
+      }
+
+      this.onVideoEnded = function() {
+        console.log('index', _self.idx, '@ended');
+        _self.player.removeEventListener('ended', _self.onVideoEnded);
+        _self.play();
+        //_self.videos[_self.idx].node().removeEventListener('ended', _self.next);
       }
 
       // shuffle

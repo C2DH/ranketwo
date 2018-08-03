@@ -81,15 +81,26 @@ body.index{
     background: linear-gradient(to top, rgba(18, 194, 233, $index-bg-transparency), rgba(196, 113, 237, $index-bg-transparency), rgba(246, 79, 89, $index-bg-transparency));
   }
 
+  .slide > .overlay-dotted {
+    // background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAF0lEQVQYV2NkYGD4z8DAwMgABXAG8QIAQOoBBeYwAr0AAAAASUVORK5CYII=);
+    // background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAADCAYAAABWKLW/AAAAF0lEQVQYV2NkYGD4z8DAwMgAI0AMDA4AI3EBBMY7CTgAAAAASUVORK5CYII=);
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAABytg0kAAAAFElEQVQYV2NkYGD4z8DAwMjIAAUADikBA/gvnngAAAAASUVORK5CYII=);
+    background-repeat: repeat;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right:0;
+    z-index:3;
+  }
+
   .slide > figcaption{
     position: absolute;
     bottom: 10%;
     color: white;
-    z-index: 3;
-    left: 50%;
-    width: 300px;
-    margin-left: -150px;
-    text-align: center;
+    z-index: 4;
+    left: 0;
+    right: 0;
   }
 
 
