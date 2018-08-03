@@ -3,7 +3,8 @@ default_lang: en
 languages: ["en", "fr", "de"]
 excerpt_separator: '<!-- more -->'
 briefing_separator: '<!-- briefing-teacher -->'
-
+section_separator: '<!-- section -->'
+section_content_separator: '<!-- section-contents -->'
 permalink: /:lang/:title.html
 title: Ranke.2
 headline: Source Criticism in the Digital Age
