@@ -134,7 +134,6 @@ layout: default
         _self.slides.push({
           slide: slide,
           video: slide.select('video').attr('data-idx', _self.slides.length),
-          ready: false
         });
 
       });
@@ -152,11 +151,15 @@ layout: default
       }
 
       this.fadeIn = function(idx) {
-        console.log('%c [Carousel]', 'background: cyan', 'fadeIn - index: ', idx);
+        console.log('%c [Carousel]', 'background: cyan', 'fadeIn - index: ', idx, '- already loaded:', !!_self.slides[idx].loaded);
         _self.currentLoading = idx;
         _self.player = _self.slides[idx].video.node();
-        _self.player.load();
         _self.player.addEventListener('loadeddata', _self.onLoadeddata);
+        _self.player.load();
+        if(_self.slides[idx].loaded){
+          console.log('%c [Carousel]', 'background: cyan', 'fadeIn - index: ', idx, 'just have fun.')
+        }
+        // first time.
       }
 
       this.onLoadeddata = function() {
@@ -171,6 +174,7 @@ layout: default
           _self.fadeOut(_self.currentPlaying);
         }
 
+        _self.slides[idx].loaded = true;
         // attach event addEventListener
         video.addEventListener('ended', _self.onEnded);
 
