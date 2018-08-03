@@ -19,12 +19,6 @@ layout: default
         <h1>{{page.title}}</h1>
         {% assign paragraphs = page.content | split: site.excerpt_separator %}
         <div>{{paragraphs[0] | markdownify}}</div>
-
-
-
-
-
-
       </div>
     </div>
   </div>
@@ -50,10 +44,86 @@ layout: default
   {% include component.html %}
 {% endfor %}
 
+{% if assignments.size %}
+<a class='anchor' id='c-assignments'></a>
+<div class='component-wrapper assignments scrollspy'>
+  <div class='lines'>
+    <div class="line left"></div>
+    <div class="line right"></div>
+  </div>
+  <div class='container'>
+    <!-- one row per introduction; then one row per assignment section -->
+    {% for assignment in assignments %}
 
-{% for component in assignments %}
-  {% include component.html %}
-{% endfor %}
+      {% assign idx = forloop.index | plus: 1 %}
+      {% assign briefings = assignment.content | split: site.excerpt_separator | last | split: site.briefing_separator %}
+      {% assign briefing_student = briefings | first %}
+      {% assign briefing_teacher = briefings | last %}
+      {% assign briefing_sections = briefing_student | split: site.section_separator %}
+
+    <!--  list of assignments. -->
+    <div class='row'>
+      <div class='col-sm-8'>
+        <!-- simple intro -->
+        <div class="component assignments">
+
+          <section>
+          <h3><a href="{{assignment.url | relative_url}}">#{{assignment.order}}/{{assignments.size}} &mdash; {{assignment.title}}</a></h3>
+          <blockquote>{{ assignment.excerpt | markdownify}}</blockquote>
+
+
+            <aside><b>assignment #{{assignment.order}}/{{assignments.size}}</b><br>{{assignment.duration}}
+              {% if assignment.cover %}
+              <div class='image-wrapper'><img src='{{component.cover | relative_url}}'></div>
+
+
+              {% endif %}
+            </aside>
+
+          </section>
+
+          {% for section in briefing_sections %}
+            <div class='assignment--briefing-section'>
+              {% assign contents = section | split: site.section_content_separator %}
+              <div class='assignment--briefing-section--toggler'>
+               {{ contents | first | markdownify }}
+              </div>
+              <div class='assignment--briefing-section--contents' style='display: none'>
+                CONTENTS/ {{ contents | last }}
+              </div>
+            </div>
+          {% endfor %}
+
+        </div>
+      </div>
+      <div class='col-sm-4'>
+        <a class='btn btn-primary' href="{{assignment.url | relative_url}}">{%assign key='permalink'%}{% include t.html %}</a>
+        <a class='btn btn-primary' href="{{assignment.url | relative_url}}">download PDF</a>
+        <hr>
+        <h3>{% assign key="requirements"%}{% include t.html %}</h3>
+        {{ assignment.requirements | markdownify }}
+        <h3>
+        {% assign key="learing outcomes"%}{% include t.html %}</h3>
+        {% for outcome in assignment.outcomes %}
+        {{outcome | markdownify }}
+        {% endfor %}
+
+        <div class='unit--briefing-teacher'>
+          {{briefing_teacher | markdownify}}
+
+        </div>
+      </div>
+    </div>
+
+    
+    <!-- end of row -->
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
+
+
 
 {% assign toc = introductions | concat: clips | concat: quizzes | concat: interactives | concat: videolectures %}
 <!-- table of contents contaier -->
@@ -77,6 +147,17 @@ layout: default
             {% endif %}<span>{{component.title}}</span></a>
         </li>
       {% endfor %}
+      {% if assignments.size %}
+      <li>
+        <div class='lines'>
+          <div class="group">
+          <div class="line left"></div>
+          <div class="line right"></div>
+          </div>
+        </div>
+        <a href='#c-assignments'>{% assign key="assignments" %}{% include t.html %} ({{assignments.size}})</a>
+      </li>
+      {% endif %}
       </ul>
     </div>
   </div>
