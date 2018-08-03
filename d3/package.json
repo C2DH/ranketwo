@@ -1,0 +1,16 @@
+{
+  "name": "d3-custom-example",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "rollup -c && uglifyjs d3.js -c -m -o d3.min.js && cp d3.min.js ../assets/js/d3.custom.min.js"
+  },
+  "devDependencies": {
+    "d3-fetch": "^1.1.0",
+    "d3-selection": "^1.3.0",
+    "d3-transition": "^1.1.1",
+    "mustache": "^2.3.0",
+    "rollup": "^0.63.5",
+    "rollup-plugin-node-resolve": "^3.3.0",
+    "uglify-js": "^3.4.6"
+  }
+}

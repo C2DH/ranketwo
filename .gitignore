@@ -3,6 +3,7 @@ _site/
 .sass-cache/
 .jekyll-metadata
 
+d3/node_modules
 scripts/node_modules
 scripts/settings.js
 
