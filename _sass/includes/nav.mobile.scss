@@ -77,9 +77,8 @@ $navbar-mobile-height: 290px;
             padding: 2px 4px;
       }
     }
-
     li.nav-item.active .nav-link{
-      color: $almost-black;
+        color: $almost-black;
     }
   }
 
@@ -99,7 +98,9 @@ $navbar-mobile-height: 290px;
       left: 50%;
 
     }
-
+    li.nav-item.active{
+      border-top-color: transparent;
+    }
     li{
 
       a{

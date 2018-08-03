@@ -7,7 +7,7 @@ briefing_separator: '<!-- briefing-teacher -->'
 permalink: /:lang/:title.html
 title: Ranke.2
 headline: Source Criticism in the Digital Age
-exclude: [scripts/]
+exclude: [scripts/, d3/]
 collections:
   units:
     output: true
