@@ -11,11 +11,19 @@ tags:
   - consulting web resources
   - comparing parallel societal developments
   - conscious use of images on the web
+
+requirements: Fast WIFI connection, access to Ranke.2, computer or laptop, application on laptop or computer to view video, account on Tiki-Toki for timeline.
+
+outcomes:
+  - Learning to place a historical source, its creation, form and appearance into a broader societal context
+  - Learning the basic principle of an online timeline,
+  - learning to deal with intellectual property rights
+
 ---
 
 
 
-In the animation about David Boder's interview collection that you have probably watched, the focus is mostly on the creation and  transformation from analogue source to online web resource. But the historical context also deserves some attention. Boder’s expertise 
+In the animation about David Boder's interview collection that you have probably watched, the focus is mostly on the creation and  transformation from analogue source to online web resource. But the historical context also deserves some attention. Boder’s expertise
 and mindset were also the result of what he encountered during his life in terms of personal drawbacks, technological innovation, scientific progress and political conflict. This assignment introduces you to a digital tool with which you can create a timeline that can be populated and shared. The purpose is to make you aware of the historical context in which Boder’s  historical sources were created.
 You will be conducting critical web research and will be contributing to a digital timeline.
 
@@ -24,24 +32,24 @@ You will be conducting critical web research and will be contributing to a digit
 
 
 <!-- briefing-student -->
-
-## Briefing student
+### Briefing student
+<!-- section-contents -->
 - Open the box **Boder’s biography** again, and read the various sections
   https://allthingsmoving.com/DBinteractive/#Index
   {: .headsup}
-- Go to the timeline [application Tiki-Toki](https://www.tiki-toki.com/) 
+- Go to the timeline [application Tiki-Toki](https://www.tiki-toki.com/)
 - Complete the credentials of the account that has been created for this assignment
-    
+
     Username: **Assignment1TikiToki**
     Password: **davidboder**
 
 You will see a timeline with only dates that relate to David Boder’s life.
 This is the basis to complete the assignments below.
-If you need more guidance, then follow the step by step instructions provided in [this tutorial](https://docs.google.com/document/d/1T3tyqnxxN9C1XT1SFvQ8PF6axZRX_EitGElhcuZ7g9c/edit?usp=sharing/) 
+If you need more guidance, then follow the step by step instructions provided in [this tutorial](https://docs.google.com/document/d/1T3tyqnxxN9C1XT1SFvQ8PF6axZRX_EitGElhcuZ7g9c/edit?usp=sharing/)
 
-<!-- section --> 
-## a. Create an entry in one of the dates in the timeline
-
+<!-- section -->
+### a. Create an entry in one of the dates in the timeline
+<!-- section-contents -->
 -      The chronological sequence of dates needs to be complemented with information.
 
 Choose two dates to create an entry.
@@ -57,18 +65,18 @@ Now cut and paste the entries and the links to the photos and place them in the 
 Remember to regularly save your entries in your answer template, as well as in the online timeline!
 
 
-<!-- section --> 
-## b. Create two new entries with text and images in the timeline
-
+<!-- section -->
+### b. Create two new entries with text and images in the timeline
+<!-- section-contents -->
 These can be subjects related to Boder’s life, such as:
 When and  where did Boder study?
 When was the wire recorder invented?
 When were the American Newsreels about the camps shown to the American audience?
 Document your findings in the appropiate field in the template
 
-<!-- section --> 
-## c. Create a new account and a new timeline
-
+<!-- section -->
+### c. Create a new account and a new timeline
+<!-- section-contents -->
 Follow the instructions that are provided in the Tutorial
 
 Put together at least 4 entries on a timeline about a topic  that is related either to Boder’s course of life, or to other early accounts on experiences in concentration camps.  You could consider:
@@ -85,9 +93,9 @@ A chronological list of audio and film recordings with testimonies of experience
 
 Remember to regularly save your entries in your answer template, as well as in the online timeline!
 
-<!-- section --> 
-## d. Copyright Law and the web
-
+<!-- section -->
+### d. Copyright Law and the web
+<!-- section-contents -->
 For assignment 1b and 1c  you have to take into account the legal
 principles that exist with regard to the reuse of images on the web.
 Infringement of copyright can lead to high fines. The best way to
@@ -128,17 +136,6 @@ Write a short abstract in your template of 150 words on what you have found on t
 <!-- briefing-teacher -->
 ## Briefing lecturer
 
-#### Requirements
-
-Fast WIFI connection, access to Ranke.2, computer or laptop,
-application on laptop or computer to view video, account on Tiki-Toki for timeline.
-
-
-#### Learning outcomes
-
-Learning to place a historical source, its creation, form and
-appearance into a broader societal context, learning the basic principle of an
-online timeline, learning to deal with intellectual property rights
 
 #### Reading/viewing  suggestions
 
