@@ -13,7 +13,7 @@ mediatype: images, digitized portraits, paintings, collages
 
 ---
 
-Lesson about how digital technology has stirred our imagination and enabled us to create new realities, but at the same time requires us to understand the mechanisms behind digital content, in order to understand the technology that has been applied and assess the origin and character of the sources that have been reused. 
+A lesson about how digital technology has stirred our imagination and enabled us to create new realities, but at the same time requires a degree of familiarity with the mechanisms behind digital content if we are to understand the technology that has been applied and assess the origin and nature of the sources that have been reused. 
 
 <!-- more -->
 
