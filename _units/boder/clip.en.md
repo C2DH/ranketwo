@@ -8,6 +8,7 @@ aspect-ratio: "ratio-16-9"
 documents:
   - david-boder
 ---
-An account on how the collection of interviews with concentrationcamp survivors created by David Boder in 1946 has been turned into an interactive website in 2009
+An account describing how the collection of interviews with concentration camp survivors created by David Boder in 1946 was turned into an interactive website in 2009.
+
 
 <!-- more -->
