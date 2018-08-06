@@ -13,7 +13,13 @@ mediatype: manuscripts, digitized manuscripts
 
 ---
 
-Lesson about how the dynamics of the world wide web have lead to the prioritization of the esthetic value of a medieaval manuscript when it comes to spreading knowledge and creating access, at the expense of its orginal less attractive version that is not illustrated. 
+A lesson about how the dynamics of the World Wide Web have led to the prioritisation of the aesthetic value of a mediaeval manuscript when it comes to spreading knowledge and creating access, at the expense of its original, unillustrated, less attractive version.
+
+small: animation + quiz
+medium: animation + 6 assignments
+tags: manuscripts, digitisation, transformation, communication technology, dissemination of knowledge, aesthetic qualities
+
+
 
 <!-- more -->
 
