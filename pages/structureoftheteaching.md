@@ -9,43 +9,42 @@ documents:
   - document-example-b
 ---
 
-Each lesson consists of several components with an increasing level of complexity and time effort   
-
+Each lesson offers a choice of several modules with an increasing level of complexity and time required
+ 
 <!-- more -->
 
 ## What does each component have to offer?
 
-The lessons have been structured in such a manner that they can serve the needs of students,lecturers or independent learners with limited time, as well as those who really want to study a topic in depth. Each lesson can consist of a SMALL, MEDIUM or LARGE component.
+The lessons have been structured in such a manner that they can serve the needs of students, lecturers and independent learners with limited time, as well as those who really want to study a topic in depth. Each lesson can consist of a SMALL, MEDIUM or LARGE module.
 
-(could we place here 3 images of sizes of shoes: 35.  -    39.   -   42? )
+(could we place here 3 images of sizes of T-shirts : S  -    M   -   L? )
 
 
 {: .extra-spacing}
 ## SMALL   
-The **SMALL** module is meant as a short introduction to a topic related to source criticism. It consists of a short animation of around 6 to 7 min in which a number of basic terms and questions are presented. This is followed by a quiz of around 10 min to test one’s understanding of what is conveyed in the animation. The SMALL module is geared towards a broad audience with a general interest, including individual learners who are not part of a teaching context.
+The **SMALL** module serves as a short introduction to a topic related to source criticism. It consists of a short animation of around 6 to 7 minutes in which a number of basic terms and questions are presented. This is followed by a quiz of around 10 minutes to test learners’ understanding of the ideas conveyed in the animation. The SMALL module is geared towards a broad audience with a general interest, including individual learners who are not part of a teaching context.
 
 
 ## MEDIUM  
-The **MEDIUM** module is meant to be used in a teaching context and therefore offers information for both students and lecturers. It consists of a series of assignments that address the various topics more in depth, that have been presented in the animation. Its target group are bachelor students and their lecturers. The assignments are suited for collaborative work for 2 or 3 students and the time effort varies from 30 to 90 minutes. Each assignment offers specific information about learning outcomes.
-
+The **MEDIUM** module is meant to be used in a teaching context and therefore offers information for both students and lecturers. It consists of a series of assignments that address the various topics introduced in the animation in more depth. Its target group is Bachelor students and their lecturers. The assignments are suitable for collaborative work for two or three students and the time required varies from 30 to 90 minutes. Each assignment provides specific information about learning outcomes.
 
 ## LARGE
-The **LARGE** module offers a tutorial for a hands on workshop of one or more days. This should be led by a lecturer who has experience with digital tools and requires some preparation and an appropiate environment such as a computer lab.
-The objective of the tutorial is to go through all the steps required to create a digital history project. This can vary from creating a  website or podcast by applying a storytelling tool, creating a digital exhibit or annotating a corpus of photos.
+The **LARGE** module offers a tutorial for a hands-on workshop lasting at least a day. This should be led by a lecturer who has experience with digital tools and requires some preparation and an appropriate environment such as a computer lab. The objective of the tutorial is to go through all the steps required to create a digital history project. This can range from creating a website or podcast by applying a storytelling tool to creating a digital exhibit or annotating a corpus of photos.
 
 {: .extra-spacing}
 ## How can you use the lessons?
 
-A lecturer can choose one or more components of a lesson, or one or more assignments that can be completed and discussed in class or can be given as homework. Considerations for the lecturer to choose which material to use could be:  
+A lecturer can choose one or more modules and/or assignments that can be completed and discussed in class or given as homework. The following considerations may help lecturers to choose the material they wish to use:
 
-1. How the topic of digital source criticism fits into a given course (most applicable is the subject ‘introduction into research methods’   
-that is generally offered in the first year of a bachelor study) - see for a number of suggestions section .......
+1. How the topic of digital source criticism fits into a given course (for example an “introduction to research methods”, as generally offered in the first year of a Bachelor programme). For a number of suggestions, see section .......
 
-2. The level of digital savviness of pupils and lecturers - see for an easy survey on digital literacy for your students to take section .......
+2. The level of digital savviness of students and lecturers – for a quick digital literacy test that your students can take, see section .......
 
-3. The amount of available time - see for the time effort the meta data of each assignment
+3. The amount of available time – see the metadata of each assignment for information about the time required.
 
 {: .extra-spacing}
 ## How to choose an assignment?
 
-As these lessons are not bound to enrolment and there is no teacher available to monitor progress and offer feedback, lecturers should assess themselves how to integrate the content into their own lessons. To support a lecturer’s choice, each assignment offers metadata about the time-effort, learning outcomes, key words and practical requirements. There is also the possibility to download a pdf of the assignment, in order to integrate it somewhere else. The same applies to a template that students can use for completing their assignments.
+As these lessons are not compulsory and there is no teacher available to monitor progress and offer feedback, lecturers should themselves assess how to integrate the content into their own lessons. To guide lecturers in their choice, each assignment offers metadata about the time required, learning outcomes, key words and practical requirements. There is also the option of downloading a PDF of the assignment in order to integrate it somewhere else. Downloadable templates are provided for students to complete their assignments.
+
+
