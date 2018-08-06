@@ -83,14 +83,17 @@ layout: default
           </section>
 
           {% for section in briefing_sections %}
-            <div class='assignment--briefing-section'>
+            <div class='assignment--briefing-section collapsible'>
               {% assign contents = section | split: site.section_content_separator %}
-              <div class='assignment--briefing-section--toggler'>
+              <div class='assignment--briefing-section--toggler collapsible-toggler'>
                {{ contents | first | markdownify }}
               </div>
-              <div class='assignment--briefing-section--contents' style='display: none'>
-                CONTENTS/ {{ contents | last }}
+
+              <div class='assignment--briefing-section--contents collapsible-content' style='display: none'>
+                <div style='margin: 15px 0;'>CONTENTS/ {{ contents | last | markdownify}}
+                </div>
               </div>
+              <div class='assignment--briefing-section--line'></div>
             </div>
           {% endfor %}
 
@@ -115,14 +118,52 @@ layout: default
       </div>
     </div>
 
-    
+
     <!-- end of row -->
     {% endfor %}
   </div>
 </div>
 {% endif %}
 
+<script>
 
+window.addEventListener('DOMContentLoaded', function() {
+  // all collapsible
+  var d = [];
+  var collapsibles = d3.selectAll('.collapsible-toggler').on('click', function() {
+    var content = d3.select(this.nextElementSibling);
+    if(content.classed('active')) {
+      content
+        .interrupt()
+        .style('height', 0)
+        .classed('active', false);
+
+      content
+        .transition()
+        .delay(2000)
+        .style('display', 'none');
+
+    } else {
+      content
+        .interrupt()
+        .style('height', 0)
+        .style('display', 'block');
+
+      var h = content.node().scrollHeight;
+
+      console.log('.collapsible-toggler@click, content height:', h);
+
+      content
+        .classed('active', true)
+        .style('height', h+'px');
+    }
+  });
+
+
+
+
+});
+</script>
 
 
 {% assign toc = introductions | concat: clips | concat: quizzes | concat: interactives | concat: videolectures %}
