@@ -32,10 +32,7 @@ from analogue to digital affected our use of technology.
 
 
 <!-- briefing-student -->
-#briefing
-<!-- section-contents -->
-sss
-<!-- section -->
+
 ### 2a Recordings and physics
 <!-- section-contents -->
 What are the three principles of physics that play a role in the transfer of information on  a steel wire?
