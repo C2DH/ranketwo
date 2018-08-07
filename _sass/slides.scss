@@ -9,6 +9,15 @@
   background-color: $almost-black;
 }
 
+.in-the-background{
+  position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 0;
+    border-left: 2px solid magenta;
+}
 .slide{
   display: none;
   opacity: 0;
