@@ -162,6 +162,10 @@ window.addEventListener('DOMContentLoaded', function() {
   var d = [];
   var collapsibles = d3.selectAll('.collapsible-toggler').on('click', function() {
     var content = d3.select(this.nextElementSibling);
+    var t = d3.select(this);
+
+    t.classed("active", !t.classed("active"));
+
     if(content.classed('active')) {
       content
         .interrupt()

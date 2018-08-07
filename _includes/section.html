@@ -1,7 +1,12 @@
 <div class='section collapsible'>
   {% assign contents = section | split: site.section_content_separator %}
   <div class='section--toggler collapsible-toggler'>
+    <div class='section--title'>
    {{ contents | first | markdownify }}
+    </div>
+    <div class='section--icon'>
+      <div class="icon-plus icon"></div>
+    </div>
   </div>
   <div class='section--contents collapsible-content' style='display: none'>
     <div>

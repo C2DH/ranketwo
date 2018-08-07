@@ -1,0 +1,54 @@
+.icon-plus.icon {
+  color: #000;
+  position: absolute;
+  margin-left: 3px;
+  margin-top: 10px;
+}
+
+.icon-plus.icon:before {
+  content: '';
+  position: absolute;
+  width: 15px;
+  height: 1px;
+  background-color: $almost-black;
+}
+
+.icon-plus.icon:after {
+  content: '';
+  position: absolute;
+  width: 15px;
+  height: 1px;
+  background-color: $almost-black;
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+}
+.icon-close.icon {
+  color: #000;
+  position: absolute;
+  margin-top: 4px;
+  margin-left: 0;
+  width: 21px;
+  height: 21px;
+}
+
+.icon-close.icon:before {
+  content: '';
+  position: absolute;
+  top: 10px;
+  width: 21px;
+  height: 1px;
+  background-color: currentColor;
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+}
+
+.icon-close.icon:after {
+  content: '';
+  position: absolute;
+  top: 10px;
+  width: 21px;
+  height: 1px;
+  background-color: currentColor;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+}

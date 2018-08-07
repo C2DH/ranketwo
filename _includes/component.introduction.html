@@ -1,5 +1,5 @@
 <div class="component introduction">
-  <h3>{{component.title}}</h3>
+  <h3><span>{{component.title}}</span></h3>
   {% assign paragraphs = component.content | split: site.excerpt_separator %}
   <blockquote>{{paragraphs[0] | markdownify}}</blockquote>
 

@@ -1,23 +1,51 @@
 .collapsible-content{
   transition: height .24s ease-in-out;
-
   overflow: hidden;
 
-  &.active{
 
+}
+
+.section--toggler{
+  position: relative;
+
+  &.active {
+
+    .icon:before{
+      transform: rotate(-180deg);
+
+    }
+    .icon:after{
+      transform: rotate(0);
+    }
   }
 }
 
-.section--toggler h3{
-  margin: 0.75rem .5rem;
+.section--title h3{
+  margin: 0.75rem 50px 0.75rem .5rem;
 }
+
+.section--icon{
+  position: absolute;
+  right: 0px;
+  top: 50%;
+  width: 25px;
+  margin-top: -9px;
+  height: 25px;
+  text-align: left;
+
+  .icon:after, .icon:before{
+    transition: all .2s ease-in;
+  }
+}
+
 .section--line{
-  border-bottom: 2px solid $almost-black;
+  border-bottom: 1px solid $almost-black;
 }
+
+
+
 
 .section--contents > div{
   margin: 0;
   padding: .75rem 1rem 0 1rem;
-  border-top: 1px solid;
-  border-top: 1px solid;
 }
