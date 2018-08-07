@@ -95,8 +95,12 @@
 
   .type{
     position: absolute;
-    right: 0px;
-    top: -25px;
+    transform: translateX(50%) translateY(-50%) rotate(-89deg);
+    right: 170px;
+    top: 50%;
+    border: none;
+    font-weight: 500;
+    letter-spacing: 1px;
   }
 
 
