@@ -63,8 +63,10 @@
 
 
 .component-wrapper{
-  margin-top: 50px;
-  margin-bottom: 100px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 1.5rem;
+  padding-bottom: 2rem;
   position: relative;
 
   &.clip, &.quiz, &.interactive{

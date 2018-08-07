@@ -1,0 +1,84 @@
+.slide-background{
+  position: absolute;
+  z-index: 0;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: -1;
+  background-color: $almost-black;
+}
+
+.slide{
+  display: none;
+  opacity: 0;
+  transition: opacity .5s linear;
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left:0;
+  bottom: 0;
+  right: 0;
+  overflow: hidden;
+
+
+  &.odd {
+    right:50%;
+  }
+
+  &.even {
+    left:50%;
+  }
+}
+
+.slide > video{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index:1;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.slide.playing {
+  opacity: 1;
+}
+
+.slide > .overlay{
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right:0;
+  z-index:2;
+  background: linear-gradient(to top, rgba(18, 194, 233, $index-bg-transparency), rgba(196, 113, 237, $index-bg-transparency), rgba(246, 79, 89, $index-bg-transparency));
+}
+
+.slide > .overlay-dotted {
+  // - smiply dotted. http://www.patternify.com/
+  // background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAADCAYAAABWKLW/AAAAF0lEQVQYV2NkYGD4z8DAwMgAI0AMDA4AI3EBBMY7CTgAAAAASUVORK5CYII=);
+  // - with moiré http://www.patternify.com/
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAABytg0kAAAAFElEQVQYV2NkYGD4z8DAwMjIAAUADikBA/gvnngAAAAASUVORK5CYII=);
+  // - visible
+  // background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAADCAYAAABWKLW/AAAAF0lEQVQYV2NkYGD4zwABjIzoHKgEAwMAOWUCBBql8PYAAAAASUVORK5CYII=);
+  background-repeat: repeat;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right:0;
+  z-index:3;
+}
+
+.slide > figcaption{
+  position: absolute;
+  bottom: 10%;
+  color: white;
+  z-index: 4;
+  left: 0;
+  right: 0;
+}

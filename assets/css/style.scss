@@ -86,9 +86,16 @@ h2{
   box-shadow: 0px -2px 0px cyan, inset 0px 2px 0px magenta;
 }
 
+.bt-glitch-top{
+  border-top: 1px solid blue;
+    box-shadow: 0px -2px 0px cyan;
+
+
+}
+
 @import "includes/nav", "includes/nav.mobile", "includes/footer", "includes/component", "includes/section", "includes/card";
 @import "layouts/index", "layouts/page", "layouts/unit";
-@import "icons";
+@import "icons", "slides";
 
 /** bootstrap override */
 

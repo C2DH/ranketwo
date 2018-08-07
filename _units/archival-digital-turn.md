@@ -1,6 +1,7 @@
 ---
 title: "From the Archival to the Digital Turn"
 layout: unit
+toc: off
 tags:
   - digitization
   - digital source criticism

@@ -1,5 +1,16 @@
-.unit{
-
+div.page.unit {
+  h1{
+    transform: skew(2deg) rotate(2deg);
+    color: cyan;
+  }
+  .excerpt{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  .excerpt  p{
+    font-size: inherit;
+    color: $white;
+  }
 }
 
 /* ID speecific */
