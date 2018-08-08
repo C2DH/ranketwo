@@ -1,6 +1,12 @@
+{% if card.cover.url %}
+  {% assign cover = card.cover.url %}
+  {% include captures/cover_url %}
+{% else %}
+  {% assign cover_url = false %}
+{% endif %}
 <div class="card" style="width: 100%;">
   <div class="card-image-wrapper">
-    <div class="card-image" style="opacity: .5;background-image: url({{ card.cover.url | relative_url}})" alt="Card image cap"></div>
+    <div class="card-image" style="opacity: .5;{% if cover_url %}background-image: url({{ cover_url }}){% endif %}" alt="Card image cap">{{card.cover.url}}</div>
   </div>
   <div class="card-body">
 

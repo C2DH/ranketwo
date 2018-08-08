@@ -17,7 +17,8 @@ components:
   large: tutorial for hands on workshop
 mediatype: audiovisual, interviews
 order: 1
-
+cover:
+  url: https://i.vimeocdn.com/video/708218729.jpg?mw=960&mh=540&q=70
 ---
 
 Lesson on how the interview collection of psychologist David Boder with survivors of concentration camps created in 1946 has been turned into a website in 2000 and 2009.
