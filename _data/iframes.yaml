@@ -6,3 +6,15 @@
     thumbnail: https://i.vimeocdn.com/video/708218729.jpg?mw=960&mh=540&q=70
     vimeo_id: 275617187
     src: "https://player.vimeo.com/video/275617187?title=0&byline=0&portrait=0"
+
+-
+    id: david-boder-playposit
+    thumbnail: assets/images/david-boder-interactive.png
+    title: "David Boder's interview collection: from analogue to digital. Quiz"
+    src: "https://app.playposit.com/share/258439/797374/David-Boders-Interview-collection"
+
+-
+    id: david-boder-interactive
+    thumbnail: assets/images/david-boder-interactive.png
+    title: "David Boder's interview collection: from analogue to digital"
+    src: "https://allthingsmoving.com/DB_interactive_2018_07_07/#Intro"
