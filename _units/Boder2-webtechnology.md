@@ -13,8 +13,7 @@ permalink: /u/boder2/
 audience: general public, bachelor, master humanities
 components:
   small: animated video lecture  + quiz
-  medium:5 assignments
-  
+  medium: 5 assignments
 order: 2
 
 ---
