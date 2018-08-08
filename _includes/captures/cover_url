@@ -1,0 +1,9 @@
+{% if cover %}
+  {% capture cover_url %}
+    {% if cover contains '://' %}
+      {{cover}}
+    {% else %}
+      {{cover | relative_url}}
+    {% endif %}
+  {% endcapture %}
+{% endif %}
