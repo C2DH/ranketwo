@@ -6,6 +6,11 @@ title: Where did Boder conduct his interviews?
 cover: /assets/images/attachments/12boxes/12boxes_07.png
 order: 7
 lang: en
+
+Learning outcomes:
+  - learning about circumstances in the displacement camps
+  - learning to search with image recognition
+  - learning to conduct web research 
 ---
 
 As is described in the clip, Boder conducted his interviews in
@@ -19,17 +24,18 @@ This assignment is meant to make you reflect on the
 Displacement Camps as the first places of ‘knowledge
 production’ about the Holocaust.
 
+- Open the box ‘Where did Boder conduct his interviews’  and watch the clip about the displacement camps
+https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
+
 
 <!-- more -->
 
 <!-- briefing-student -->
 
-- Open the box ‘Where did Boder conduct his interviews’  and watch the clip about the displacement camps
-https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
 
-<!--section --> 
 ### 7a  Envisioning a future life
 
+<!-- section-contents -->
 The mindsets of the survivors housed in the Displacement Camps was clearly geared towards the future. But there is one
 reference    to commemoration projects.
 - Stop the clip when the poster is shown and take a print screen.
@@ -42,9 +48,10 @@ reference    to commemoration projects.
 - When did this happen?
 - On the basis of what financial means and with what purpose?
 
-<!--section --> 
+<!-- section -->
 ### 7b  Documenting the recent past
 
+<!-- section-contents -->
 {: .headsup}
 Click on this link https://www.kedem-auctions.com/content/two-posters-issued-central-historical-commission-central-committee-liberated-jews-american
 
@@ -52,9 +59,9 @@ Download the image, enlarge it, and read what it says in the left lower corner.
 Try to find the original place where this poster was created by conducting web research
 Who designed the poster? Where was it created? With what means?
 
-<!--section --> 
+<!-- section -->
 ### 7c  Displacement camps in 1945 and 1946
-
+<!-- section-contents -->
 Boder also visited Displacement Camps. On the website Voices of the Holocaust, a map is shown with all the locations that he visited.
 - Try to find out whether initiatives were taken up in these camps to document the experiencers of the inmates.
 - For your web research you can consult the following resources:                             
@@ -67,16 +74,7 @@ http://www.dpcamps.org/listDPCampsbyTeamNo.pdf
 <!-- briefing-teacher -->
 
 
-Time effort: ?
-
-Requirements:  strong WIFI, access to Ranke.2, computer or laptop,  application on labtop or computer to view video,
-
-Learning outcomes: 
-- learning about circumstances in the displacement camps
-- learning to search with image recognition 
-- learning to conduct web research 
-
 
 Reading/viewing  suggestions:
 
-blog about historical blog 
+blog about historical blog

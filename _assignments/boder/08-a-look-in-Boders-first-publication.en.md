@@ -7,23 +7,28 @@ cover: /assets/images/attachments/12boxes/12boxes_08.png
 order: 8
 lang: en
 tags: methods of research, data collection, interview protocols, digital archives, privacy, oral history, qualitative data
+requirements:  strong WIFI, access to Ranke.2, computer or laptop, application on laptop or computer to view video, account for timeline,
+learning outcomes:
+  - understanding the interplay between the conventions of a method for collecting data
+  - the convention of the medium through which this data is shared and spread and the appearance of its representation
+
 ---
 
 
 Boder reworked his basic sources, the transcripts of his interviews, to be published in his first book. In the interactive version you can see a PDF  version of part of his book. When consulting a book consisting of a textual representation of a spoken interview that has been translated from German to English, one should be conscious of the alterations that occur.
 The purpose of this assignment is to show how one source, an audio recording,  can be  represented in different forms, depending on the specific  conventions of the medium.  You are going to compare the same interview, as it was published in thebook in 1948 with its digital online representation created  in 2009.
 
+Open the box  ‘A look into Boder’s first publication’
+https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
 
 <!-- more -->
 
 <!-- briefing-student -->
 
-Open the box  ‘A look into Boder’s first publication’
-https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
 
-<!--section --> 
-***8a  Comparing a printed anonymous transcript to its digital version online***
 
+### 8a  Comparing a printed anonymous transcript to its digital version online
+<!-- section-contents -->
 - Read the interview with Jorn Gastfreund (alias for Jurgen Bassfreund) with the short introduction by David Boder. it is 27 pages. This is a digital scan of his printed book.
 - Now go to the website Voices of the Holocaust  and use CHROME as your browser. It will allow you to accept Flashplayer so that you can listen to the sound. The webaddress looks like this:
 
@@ -42,30 +47,22 @@ Your assignments consists of completing  the table in your template in which you
 - Mark the differences in the first two columns of the table in your template
 
 
-<!--section --> 
-***8b Comparing reading to listening***
+<!-- section -->
+### 8b Comparing reading to listening
 
+<!-- section-contents -->
 - Now listen to the first 5.46 minutes of the interview in German that corresponds to the text.
 - Mark the differences between what you hear and what you have read in the third column of your table.
 
 
-<!--section --> 
-***8c Reflecting on your experiences***
-
+<!-- section -->
+### 8c Reflecting on your experiences
+<!-- section-contents -->
 - Read about how Boder’s handles the issue of language in Beate Muller’s article on Boder’s translations.
 - Write a short essay of about 750 words describing your explorations, and the differences you observed  between reading a scan from a book published in 1948, reading a transcript in digital format published online, and listening to the audio or the inwith listening versus reading.
 
 
-<!-- briefing-lecturers -->
-
-Time effort: ?
-
-Requirements:  strong WIFI, access to Ranke.2, computer or laptop, application on laptop or computer to view video,
-account for timeline,
-
-Learning outcomes:
-- understanding the interplay between the conventions of a method for collecting data
-- the convention of the medium through which this data is shared and spread and the appearance of its representation
+<!-- briefing-teacher -->
 
 Reading/viewing  suggestions:
 Beate Muller, Translating Trauma, Boder’s 1946 interviews with Holocaust survivors https://www.euppublishing.com/doi/abs/10.3366/tal.2014.0155
