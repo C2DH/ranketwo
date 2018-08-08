@@ -1,9 +1,12 @@
 {% assign iframe = site.data.iframes | where: "id", component.iframe | first %}
-
+{% if iframe.thumbnail %}
+  {% assign cover = iframe.thumbnail %}
+  {% include captures/cover_url %}
+{% endif %}
 <div class="component iframe {{iframe.type}} {{iframe.bgcolor}} {{iframe.fgcolor}}">
   {% if iframe %}
     <div class='iframe-wrapper {{iframe.aspectratio}}'>
-      <div class='inner' id='iframe-{{iframe.id}}' style='background-image:url({{iframe.thumbnail}})'>
+      <div class='inner' id='iframe-{{iframe.id}}' style='background-image:url({{cover_url}})'>
 
       </div>
 
@@ -16,39 +19,9 @@
     </div>
   {% endif %}
 </div>
-{% if iframe.type == 'vimeo' %}
+
 <script>
   window.addEventListener('DOMContentLoaded', function() {
-    var vimeoWrapper,
-        ready = false;
-
-    function onClick() {
-      console.log('component iframe /{{iframe.id}}/ @click');
-      if(ready) {
-        // do play
-        return;
-      }
-      ready = true;
-      var _iframe = vimeoWrapper.append('iframe')
-        .attr('src', 'https://player.vimeo.com/video/{{iframe.vimeo_id}}')
-        .attr('width', '100%')
-        .attr('height', '100%')
-        .attr('frameborder', '0')
-        .attr('webkitallowfullscreen', true)
-        .attr('mozallowfullscreen', true)
-        .attr('allowfullscreen', true);
-      // debugger
-      var player = new Vimeo.Player(_iframe.node());
-      // player.setVolume(0);
-      player.play().then(function() {
-        console.log('video playing...')// the video was played
-      }).catch(function(err) {
-        console.error(err);
-      });
-    };
-
-    vimeoWrapper = d3.select('#iframe-{{iframe.id}}').on('click', onClick);
-    console.log('component iframe /{{iframe.id}}/ ready');
+    window.ranketwo.commons.buildIframeEventHandler('#iframe-{{iframe.id}}', '{{iframe.src}}', '{{iframe.type}}');
   });
 </script>
-{% endif %}
