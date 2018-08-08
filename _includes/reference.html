@@ -1,1 +1,15 @@
-{{reference | markdownify }}
+<div class="reference">
+  {% if document.mla %}
+    {{ document.mla | markdownify }}
+  {% else %}
+    <p>
+      <span class='authors'>
+      {% for author in document.authors %}
+        {{author}}{% if forloop.last %}.{% else %}, {% endif %}
+      {% endfor %}
+      </span>
+      <span>{{document.title | markdownify | replace: '<p>', '' | replace '</p>', '' }}</span>
+      {{document.date}}
+    </p>
+  {% endif %}
+</div>

@@ -1,11 +1,1 @@
-<div class="component clip">
-  {% assign cover = site.data.documents | where: "slug", component.documents[0] | first %}
-  {% if cover %}
-    <div class='iframe-wrapper {{cover.aspectratio}}'>
-      <div class='inner'>
-        {{cover.data.embed.html}}
-      </div>
-    </div>
-
-  {% endif %}
-</div>
+{% include component.iframe.html %}

@@ -1,5 +1,7 @@
 /* clip */
 .component {
+
+
   h4{
     font-size:inherit;
     font-weight: bold;
@@ -48,6 +50,22 @@
   }
 }
 
+
+
+.component.iframe{
+  .reference{
+    margin-top: 1rem;
+  }
+
+  .iframe-wrapper > .inner{
+    background-size: cover;
+  }
+
+  &.vimeo .reference p{
+    color: #e0e0e0;
+  }
+}
+
 .component.clip{
   padding-top: 10px;
   h3{
@@ -70,26 +88,28 @@
   position: relative;
 
   &.clip, &.quiz, &.interactive{
-    margin-top: 2px;
     margin-bottom: 0px;
-    background-color: #e0e0e0;
-    padding-bottom: 10px;
+    padding-bottom: 0;
+    background-color: #070f13;
+
+    .lines .type{
+      color: $white;
+    }
 
     .caption{
       // font-size: .8em;
       margin: 1em 0;
     }
 
-    background-color: $almost-black;
 
     h3{
       color: $white;
-      margin-top: 30px;
-      font-size: inherit;
-      // font-weight: bold;
-      padding-bottom: 25px;
-      margin-bottom: 15px;
+      margin-top: 0px;
+      font-size: 1.25em;
+      padding-bottom: 1rem;
+      margin-bottom: 1rem;
       position: relative;
+      line-height: 1.5;
     }
 
     h3::after{
