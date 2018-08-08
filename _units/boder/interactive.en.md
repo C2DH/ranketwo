@@ -4,18 +4,16 @@ lang: en
 type: interactive
 parent: boder
 duration: 60
-iframe:
-  src: https://allthingsmoving.com/DB_interactive_2018_07_07/#Intro 
-  cover:
+iframe: david-boder-interactive
 ---
 
- {: .headsup} 
+ {: .headsup}
  **Read this Introduction before you enter this interactive animation!**
-            
+
 Unlike the quiz, where the questions appear automatically, in this interactive version of the clip you need to click on a rectangular black box with a white title that appears on the bottom left corner of your screen. If you click on it you enter a window with additional information on a specific topic. You need this information to complete your assignments
- 
+
   [image of box]
- 
+
 The alternative to playing the clip and waiting until a box appears is to click on the index in the bottom left corner of the screen. An overview of all the boxes and topics will appear as shown below.
 
   [image of index]
