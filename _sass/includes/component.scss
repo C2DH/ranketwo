@@ -88,6 +88,7 @@
   position: relative;
 
   &.clip, &.quiz, &.interactive{
+    border-top: 1px solid blue;
     margin-bottom: 0px;
     padding-bottom: 0;
     background-color: #070f13;
@@ -127,7 +128,7 @@
   }
 
   &.quiz, &.interactive {
-    margin-top: 30px;
+    // margin-top: 30px;
     background-color: #d0d0d0;
 
     h3{
