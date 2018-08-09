@@ -22,11 +22,10 @@
         .attr('frameborder', '0')
         .attr('webkitallowfullscreen', true)
         .attr('mozallowfullscreen', true)
-        .attr('allowfullscreen', true);
+        .attr('allowfullscreen', true)
+        .attr('src', src);
 
       if(type == 'vimeo') {
-        _iframe.attr('src', src.match(/\/(\d{4,})\//)[1]);
-        // debugger
         vimeoPlayer = new Vimeo.Player(_iframe.node());
         // player.setVolume(0);
         vimeoPlayer.play().then(function() {
