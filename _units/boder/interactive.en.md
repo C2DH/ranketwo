@@ -10,24 +10,12 @@ iframe: david-boder-interactive
  {: .headsup}
  **Read this Introduction before you enter this interactive animation!**
 
-Unlike the quiz, where the questions appear automatically, in this interactive version of the clip you need to click on a rectangular black box with a white title that appears on the bottom left corner of your screen. If you click on it you enter a window with additional information on a specific topic. You need this information to complete your assignments
+Unlike the quiz, where the questions appear automatically, in this version of the clip you need to click on a rectangular black box with a white title that appears on the bottom left corner of your screen to enter a window with additional information on a specific topic. 
+The alternative to playing the clip and waiting until a box appears is to click on the index in the bottom left corner of the screen, that shows an overview of all the 12 boxes and topics. 
 
-  [image of box]
-
-The alternative to playing the clip and waiting until a box appears is to click on the index in the bottom left corner of the screen. An overview of all the boxes and topics will appear as shown below.
-
-  [image of index]
-
-The common theme of these topics is the process by which historical sources are transformed from their analogue form to their digital representation and how these changes are related to societal and technological developments. Since the clip covers a wide range of topics ranging from physics and reproduction technology to the historiography of the Holocaust and interview methodology, the assignments can be connected to a broad variety of courses. Some will be well suited to Holocaust studies and historiography, while others will fit better into a media studies or information studies approach. Lecturers can select the most appropriate assignment(s) by looking at the tags in the metadata.
+Since the clip covers a wide range of topics ranging from physics and reproduction technology to the historiography of the Holocaust and interview methodology, the assignments can be connected to a broad variety of courses. Lecturers can select the most appropriate assignment(s) by looking at the tags in the metadata.
 
   [put box into table]
 
-If lecturers or students want to do some preparatory reading on David Boder, they can choose one or more of the following key publications:
-
-Simone Gigliotti, “The Voice As a Human Document: Listening to Holocaust Survivors in Postwar Europe” – Review of Alan Rosen, The Wonder of Their Voices: The 1946 Holocaust Interviews of David Boder. 217-235, Yad Vashem Studies – Volume 40 [2] (Ed) David Silberklang, (2012)
-
-Alan Rosen, “‘We know very little in America’, David Boder and un-belated testimony”, In: After the Holocaust: Challenging the Myth of Silence, ed. David Cesarani and Eric J.Sundquist, (New York, 2012)
-
-Rachel Deblinger, “David P. Boder, Holocaust Memory in Displaced Persons Camps”, In: After the Holocaust: Challenging the Myth of Silence, ed. David Cesarani and Eric J.Sundquist, (New York, 2012)
 
 <!-- more -->
