@@ -335,7 +335,7 @@ document.addEventListener("DOMContentLoaded", function(e) {
   d3.selectAll('#contents > p > .placeholder')
 
   // _documents.classed('placeholder', true)
-  console.log(_documents)
+  // console.log(_documents)
 });
 
 _window

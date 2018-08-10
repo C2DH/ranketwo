@@ -16,36 +16,26 @@
   {% include nav.mobile.html %}
 
   <script>
-    function Ranketwo() {
-      var that = this;
-      this.docs = {};
+    /*
+      This is the very first script to be exectuted.
+      It gets the listo of documents in the jekyll page and add them to
+      docs.
+    */
+    window.addEventListener('DOMContentLoaded', function() {
+      console.log('@DOMContentLoaded - filling ranketwo');
 
-      this.enrich = function(docs, namespace) {
-        console.log('Ranketwo.enrichDocumentsList', docs.length, '- from:',namespace)
-        for (var i=0,l=docs.length; i< l;i++){
-          if(!docs[i])
-            continue; // skip undefined
 
-          console.log('  - ', docs[i].slug);
-          this.docs[docs[i].slug] = docs[i];
-        }
-      }
-    }
+      {% if page.documents %}
 
-    window.ranketwo = new Ranketwo();
+      window.ranketwo.enrich([
+        {% for docid in page.documents %}
+          {% assign docs = site.data.documents | where:"slug",docid %}
+          {{ docs[0] | jsonify}}{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      ], '{{page.path}}');
 
-    {% if page.documents %}
-
-    window.ranketwo.enrich([
-      {% for docid in page.documents %}
-        {% assign docs = site.data.documents | where:"slug",docid %}
-        {{ docs[0] | jsonify}}{% unless forloop.last %},{% endunless %}
-      {% endfor %}
-    ], '{{page.path}}');
-    // call this function on your specific places
-    // window.documentList
-
-    {% endif %}
+      {% endif %}
+    });
   </script>
 
   {{content}}
@@ -55,7 +45,16 @@
 
   <script src="https://player.vimeo.com/api/player.js"></script>
   <script src="{{ '/assets/js/d3.custom.min.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/ranketwo.js'}}"></script>
   <script src="{{ '/assets/js/ranketwo.commons.js' | relative_url }}"></script>
+
   <script src="{{ '/assets/js/runtime.js' | relative_url }}"></script>
+
+  <script>
+    window.addEventListener('DOMContentLoaded', function() {
+      console.log('@DOMContentLoaded - transform links in ranketwo');
+      window.ranketwo.transformLinks();
+    });
+  </script>
 </body>
 </html>

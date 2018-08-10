@@ -7,10 +7,10 @@
     var vimeoPlayer;
     var ready = false;
 
-    console.log('r2.commons.buildIframeEventHandler ready:\n  id:',id,'\n  src:',src, '\n  type:', type, '\n  valid:', !!iframeWrapper.size());
+    r2.log('commons.buildIframeEventHandler() ready:\n     id:',id,'\n     src:',src, '\n     type:', type, '\n     valid:', !!iframeWrapper.size());
 
     iframeWrapper.on('click', function() {
-      console.log('r2.commons.buildIframeEventHandler @click');
+      r2.log('commons.buildIframeEventHandler() @click');
       if(ready) {
         // do play
         return;
@@ -29,7 +29,7 @@
         vimeoPlayer = new Vimeo.Player(_iframe.node());
         // player.setVolume(0);
         vimeoPlayer.play().then(function() {
-          console.log('video playing...')// the video was played
+          r2.log('video playing...')// the video was played
         }).catch(function(err) {
           console.error(err);
         });
