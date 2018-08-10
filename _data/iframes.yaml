@@ -45,3 +45,10 @@
     aspectratio: aspect-16-9
     thumbnail: assets/images/attachments/archival-digital-turn.png
     src: https://www.playposit.com/play/823197/from-archival-to-digital-turn
+    
+-
+    id: boder2-webtechnology 
+    type: vimeo
+    aspectratio: aspect-16-9
+    thumbnail: 
+    src: https://player.vimeo.com/video/279392604
