@@ -1,0 +1,17 @@
+<script>
+
+  window.addEventListener('DOMContentLoaded', function() {
+    window.ranketwo.log('@DOMContentLoaded - filling ranketwo \n    - from:{{ namespace }}\n   - size: {{documents | size }}');
+
+    {% if documents %}
+
+    window.ranketwo.enrich([
+      {% for docid in documents %}
+        {% assign doc = site.data.documents | where: "slug", docid | first %}
+        {{ doc | jsonify }}{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ], '{{ page.path }}');
+
+    {% endif %}
+  });
+</script>

@@ -10,6 +10,10 @@ layout: default
 {% assign introductions = components | where: "type", "introduction" %}
 {% assign assignments = site.assignments| where: "unit", page.unit_id | sort: 'order'  %}
 
+{% unless documents %}
+  {% assign documents = site.empty_array %}
+{% endunless %}
+
 {% assign cover = page.cover.url %}
 {% include captures/cover_url %}
 <!--  unit id: {{page.unit_id}} -->
@@ -66,7 +70,9 @@ layout: default
   <div class='container'>
     <!-- one row per introduction; then one row per assignment section -->
     {% for assignment in assignments %}
-
+      {% if assignment.documents %}
+        {% assign documents = documents | concat: assignment.documents %}
+      {% endif %}
       {% assign idx = forloop.index | plus: 1 %}
       {% assign briefings = assignment.content | split: site.excerpt_separator | last | split: site.briefing_separator %}
       {% assign briefing_student = briefings | first %}
@@ -124,8 +130,10 @@ layout: default
     {% endfor %}
   </div>
 </div>
-{% endif %}
 
+{% endif %}
+{% assign namespace = 'unit' %}
+{% include scripts/enrich.html %}
 
 
 {% assign toc = introductions | concat: clips | concat: quizzes | concat: interactives | concat: videolectures %}

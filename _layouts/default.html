@@ -15,31 +15,11 @@
   {% include nav.html %}
   {% include nav.mobile.html %}
 
-  <script>
-    /*
-      This is the very first script to be exectuted.
-      It gets the listo of documents in the jekyll page and add them to
-      docs.
-    */
-    window.addEventListener('DOMContentLoaded', function() {
-      console.log('@DOMContentLoaded - filling ranketwo');
-
-
-      {% if page.documents %}
-
-      window.ranketwo.enrich([
-        {% for docid in page.documents %}
-          {% assign docs = site.data.documents | where:"slug",docid %}
-          {{ docs[0] | jsonify}}{% unless forloop.last %},{% endunless %}
-        {% endfor %}
-      ], '{{page.path}}');
-
-      {% endif %}
-    });
-  </script>
-
   {{content}}
 
+  {% assign documents = page.documents %}
+  {% assign namespace = 'page' %}
+  {% include scripts/enrich.html %}
 
   {% include footer.html %}
 
@@ -47,6 +27,7 @@
   <script src="{{ '/assets/js/d3.custom.min.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/ranketwo.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/ranketwo.commons.js' | relative_url }}"></script>
+
 
   <script src="{{ '/assets/js/runtime.js' | relative_url }}"></script>
 

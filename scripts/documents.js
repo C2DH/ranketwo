@@ -9,7 +9,7 @@ const fs          = require('fs'),
       request     = require('request'),
       settings    = require('./settings.js'),
       credentials = require(settings.google_spreadsheet_to_json.credentials),
-      
+
       gsjson = require('google-spreadsheet-to-json');
 
 
@@ -46,10 +46,10 @@ async.waterfall([
       });
 
       results = results.filter(d => d.title && d.slug && d.type);
-      
-      
+
+
       console.log(_bl('      - n. valid records:'), results.length);
-      
+
       next(null, results)
     }).catch(next);
   },
@@ -63,7 +63,7 @@ async.waterfall([
           title: d.title,
           slug: d.slug.toLowerCase().trim(),
           type: d.type,
-          data:{}
+          data: d.data || {}
         };
         if(d.attachment && d.attachment.length){
           _d.attachment = d.attachment.trim()
@@ -87,14 +87,14 @@ async.waterfall([
         if(org){
           d.data = { ... org.data, ... d.data}
           db.records.update({
-            _id: org._id, 
+            _id: org._id,
           }, d, {
             upsert: true
           })
         } else{
           // last slug win all
           db.records.update({
-            slug: d.slug, 
+            slug: d.slug,
           }, d, {
             upsert: true
           })
@@ -106,19 +106,19 @@ async.waterfall([
 
   (next) => {
     c++;
-    
+
     todos = db.records.find().filter(d => d.url && !d._resolved);
 
     console.log(_cy(c, '.'), _bl('resolve url (if it is not done yet)'));
     console.log(_bl('      - n. records todo:'), todos.length);
-      
+
     let q = async.queue((record, callback) => {
         record.data = {}
         console.log(_bl('    type:'),_ye(record.type),_bl('- url:'), record.url);
 
         if(record.type == 'video') {
-          
-        
+
+
           // youtube video or vimeo video, oembeddable.
           // enrich with oembed
           request.get('http://noembed.com/embed?url='+record.url, {
@@ -130,7 +130,7 @@ async.waterfall([
 
             } else {
               console.log(_gr('    v'), _bl('Noembed request success!\n      - provider_url:'), body.provider_url)
-      
+
               record.data.embed = body;
 
               // update html iframe if any
@@ -138,18 +138,18 @@ async.waterfall([
                 record.data.embed.html = record.data.embed.html.replace(/(<iframe [^>]+)width=["']*([^"'\s]+)["']*/, function(m,a,b) {
                   return a + ' width="100%"';//
                 }).replace(/(<iframe [^>]+)height=["']*([^"'\s]+)["']*/, function(m,a,b) {
-                  
+
                   return a + ' height="100%"';//
                 })
-                
+
               }
-              
+
               record._resolved = true;
               db.records.update({
                 _id: record._id
               }, record);
             }
-            
+
             callback();
           })
         } else if(record.type == 'pdf' || record.type == 'image') {
@@ -165,7 +165,7 @@ async.waterfall([
             })
             .on('response', (res) => {
               console.log(_bl('    ... status:'),res.statusCode, _bl('\n    ... content-type:'), res.headers['content-type']) // 'image/png'
-              
+
             })
             .on('end', (res) => {
               console.log(_gr('    v'), _bl('Request success!\n      - local file:'), filepath)
@@ -201,7 +201,7 @@ async.waterfall([
     (next) => {
       console.log(_cy(c, '.'), _bl('save YAML file'));
       fs.writeFile(settings.yaml.documents.path, YAML.stringify(db.records.find(), 4), next);
-    } 
+    }
 ], (err) => {
   if (err) throw err;
   else{
@@ -212,5 +212,3 @@ async.waterfall([
 
     //let datafields = results.
   // open then write json
-  
-

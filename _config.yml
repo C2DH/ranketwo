@@ -19,3 +19,5 @@ collections:
   assignments:
     output: true
     permalink: /assignment/:slug/
+
+empty_array: []
