@@ -7,9 +7,9 @@ tags:
   - history of web technology
   - backend of a website
 lang: en
-unit_id: boder2
-link: /u/boder2/
-permalink: /u/boder2/
+unit_id: boder2-webtechnology
+link: /u/boder2-webtechnology/
+permalink: /u/boder2-webtechnology/
 audience: general public, bachelor, master humanities
 components:
   small: animated video lecture  + quiz
