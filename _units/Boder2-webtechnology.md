@@ -15,7 +15,8 @@ components:
   small: animated video lecture  + quiz
   medium: 5 assignments
 order: 2
-
+cover:
+  url: https://i.vimeocdn.com/video/718778251.jpg?mw=900&mh=506&q=70
 ---
 
 Lesson on how webtechnology changed between 2000 and 2009
