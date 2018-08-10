@@ -106,7 +106,7 @@ layout: default
         <h3>{% assign key="requirements"%}{% include t.html %}</h3>
         {{ assignment.requirements | markdownify }}
         <h3>
-        {% assign key="learing outcomes"%}{% include t.html %}</h3>
+        {% assign key="learning outcomes"%}{% include t.html %}</h3>
         {% for outcome in assignment.outcomes %}
         {{outcome | markdownify }}
         {% endfor %}
