@@ -15,7 +15,5 @@ The alternative to playing the clip and waiting until a box appears is to click 
 
 Since the clip covers a wide range of topics ranging from physics and reproduction technology to the historiography of the Holocaust and interview methodology, the assignments can be connected to a broad variety of courses. Lecturers can select the most appropriate assignment(s) by looking at the tags in the metadata.
 
-  [put box into table]
-
 
 <!-- more -->
