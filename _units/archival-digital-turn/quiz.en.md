@@ -3,10 +3,7 @@ title: Animation in a Quiz mode
 lang: en
 type: quiz
 parent: archival-digital-turn
-duration: 10
-iframe:
-  src: https://app.playposit.com/share/258439/797374/David-Boders-Interview-collection
-  cover:
+iframe: archival-to-digital-turn-playposit
 ---
 
 {: .headsup}                            
@@ -18,4 +15,3 @@ This quiz is designed to test your understanding of the topic. The animation is 
 
 
 <!-- more -->
-

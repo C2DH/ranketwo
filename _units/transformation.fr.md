@@ -8,9 +8,10 @@ tags:
   - remix
   - illusions
   - copies
-lang: en
+lang: fr
 unit_id: transformation
 link: /u/transformation/
+permalink: /fr/u/transformation/
 audience: general public, bachelor, master humanities
 components:
  small: animation + quiz
