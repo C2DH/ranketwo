@@ -1,17 +1,18 @@
 ---
 layout: default
 ---
-{% assign components = site.units|where:"parent",page.slug| sort: 'type'  %}
-{% assign clips = components|where:"type","clip" %}
-{% assign quizzes = components|where:"type","quiz" %}
-{% assign interactives = components|where:"type","interactive" %}
-{% assign videolectures = components|where:"type","videolecture" %}
+{% assign components = site.units| where: "parent", page.unit_id | sort: 'type'  %}
+{% assign clips = components | where: "type", "clip" %}
+{% assign quizzes = components | where: "type", "quiz" %}
+{% assign interactives = components | where: "type", "interactive" %}
+{% assign videolectures = components | where: "type", "videolecture" %}
 
-{% assign introductions = components|where:"type","introduction" %}
-{% assign assignments = site.assignments|where:"unit",page.slug| sort: 'order'  %}
+{% assign introductions = components | where: "type", "introduction" %}
+{% assign assignments = site.assignments| where: "unit", page.unit_id | sort: 'order'  %}
 
 {% assign cover = page.cover.url %}
 {% include captures/cover_url %}
+<!--  unit id: {{page.unit_id}} -->
 
 <!-- main container -->
 <div class='wrapper' style='min-height: 76%';>

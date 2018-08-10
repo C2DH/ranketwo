@@ -6,7 +6,7 @@ tags:
   - media studies
   - history of web technology
   - backend of a website
-lang: fr
+lang: en
 unit_id: boder2-webtechnology
 link: /u/boder2-webtechnology/
 permalink: /u/boder2-webtechnology/
