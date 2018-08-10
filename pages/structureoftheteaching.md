@@ -13,7 +13,6 @@ Each lesson offers a choice of several modules with an increasing level of compl
  
 <!-- more -->
 
-## What does each component have to offer?
 
 The lessons have been structured in such a manner that they can serve the needs of students, lecturers and independent learners with limited time, as well as those who really want to study a topic in depth. Each lesson can consist of a SMALL, MEDIUM or LARGE module.
 
