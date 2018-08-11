@@ -12,6 +12,7 @@ documents:
   - digitization-book-georgia
   - digital-world
 ---
+
 **Ranke.2** is a teaching platform that offers lessons on how to critically assess and work with digital historical sources
 {: .extra-spacing}
 <!-- more -->
