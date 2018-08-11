@@ -3,7 +3,7 @@ layout: page
 lang: en
 permalink: /structure-of-teaching-modules/
 link: /structure-of-teaching-modules/
-title: Structure of the Lessons
+title: Structure of Lessons
 documents:
   - document-example
   - document-example-b
