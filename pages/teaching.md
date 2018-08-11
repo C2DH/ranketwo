@@ -3,7 +3,7 @@ layout: units
 lang: en
 permalink: /teaching-modules/
 link: /teaching-modules/
-title: Overview of Ranke.2 Lessons
+title: Overview of Lessons
 documents:
   - Boder-wirerecorder
   - Transformation-Galilei
