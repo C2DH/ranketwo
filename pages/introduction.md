@@ -3,7 +3,7 @@ layout: page
 lang: en
 permalink: /introduction/
 link: /introduction/
-title: "**Ranke.2** is a teaching platform that offers lessons on how to critically assess and work with digital historical sources."
+title: What the platform is about
 documents:
   - document-example
   - document-example-b
