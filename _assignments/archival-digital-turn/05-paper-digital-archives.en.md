@@ -9,7 +9,7 @@ tags:
 requirements: Location and permission (probably, to be obtained by the lecturer beforehand) allowing the students to visit ANLUX and to consult the collection, Internet access to the digital edition and the related materials.
 learning outcomes: 
 - Understand and conceptualise the differences/similarities and the factors at play in the transformation process from paper to digital historical sources.
-order: 6
+order: 5
 ---
 
 <!-- more -->
