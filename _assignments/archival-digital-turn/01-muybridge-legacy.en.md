@@ -13,15 +13,14 @@ learning outcomes:
   - Understand the process of how the original work of Muybridge has been re-used and explain its presence on the web 
 documents:
 order: 1
-  - slices-of-time
 ---
 Eadweard Muybridge laid the basis for the development of cinematography by making photos of a trotting horse with a series of
 cameras and showing them with a [zoopraxiscope](https://en.wikipedia.org/wiki/Zoopraxiscope). Many artists, photographers and scholars were inspired by his work, but the impact and dissemination of his legacy was magnified by the introduction of digital technology and the web in the late 1990s. 
 This assignment is meant to study the relation between Muybridge’s original glass plates, and what can be retrieved,
 viewed/read and re-used on the web.
-The following animation has been created by the San Francisco Museum of Modern Art. Watch it to get a concise picture of Eadweard Muybridge and his achievements.
+The following animation has been created by the San Francisco Museum of Modern Art. Watch it to get a concise picture of Eadweard Muybridge and his achievements.(slices-of-time)
 
-[card](slices-of-time)
+
 
 <!-- more -->
 
