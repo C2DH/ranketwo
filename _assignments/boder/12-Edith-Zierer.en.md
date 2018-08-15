@@ -9,17 +9,16 @@ lang: en
 ---
 
 
-In 1946 Edith Zierer, who was only fifteen years old, was
+In 1946 fifteen years old Edith Zierer was
 interviewed by David Boder in Bellevue, an orphanage for
-displaced  Jewish children in the neighbourhood of Paris. The
+displaced Jewish children near Paris. The
 interview was conducted in German. 57 years later, in June
-2003, she was interviewed  again in Hebrew by an interviewer
+2003, she was interviewed again in Hebrew by an interviewer
 of the United States Holocaust Memorial Museum.  
-The purpose of this assignment is to illustrate  how  the
-narrative on a similar topic, experiences in concentration
-camps and its impact on one’s life, changes over time and is
-determined by the age and status of both interviewer and
-narrator. You will be comparing features of the interview held
+The purpose of this assignment is to illustrate how the 
+narrative on experiences in concentration
+camps and its impact on one’s life, changes over time.
+You will be comparing features of the interview held
 in 1946 to the one conducted in 2003.
 
 <!-- more -->
