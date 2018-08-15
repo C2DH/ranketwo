@@ -14,7 +14,6 @@ learning outcomes:
   - Understand *x*
   - Apply *y*
   - be able to do *z*
-
 ---
 
 Massive digitization of newspapers is ongoing in many
