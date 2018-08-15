@@ -17,14 +17,11 @@ outcomes:
 
 One might wonder why students of a humanities discipline
 should learn about the obsolete technology of the wire recorder.
-The reason is to understand the difference between the physics
-of capturing sound in the analogue era and how this relates to
-the physics of digital technology. Practising digital source
-criticism is  more than  reflecting on the informational value of a
-historical source. It also means considering the transmitter of
-information and its material qualities.
-Considering  the pervasiveness of digital information technology
-in our everyday life it is  important to understand the underlying
+The reason is that practising digital source criticism is more than reflecting 
+on the informational value of a historical source. 
+It also means considering the transmitter of information and its material qualities.
+Considering the pervasiveness of digital information technology
+in our everyday life, it is important to understand the underlying
 physical phenomena and to be able to reflect on how the shift
 from analogue to digital affected our use of technology.
 
