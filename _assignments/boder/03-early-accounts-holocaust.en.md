@@ -10,20 +10,13 @@ tags: methods of research, data collection, interview protocols, digital archive
 ---
 
 When reflecting on the value and meaning of a source that has
-been published on the web it is important to take the context of
-its creation into consideration.
-
-Turning everything into searchable digital data, creates the risk of disregarding the
-different methods and approaches that researchers used
-at the time when they created the data.
-
-> This assignment is
-meant to give an impression of the differences between
+been published on the web, it is important to take the context of
+its creation into consideration.Turning everything into searchable 
+digital data, creates the risk of disregarding the different methods 
+and approaches that researchers used when they created the data.
+This assignment is meant to give an impression of the differences between
 the accounts of Holocaust survivors that were summarized in
 written reports, and those recorded on a device by Boder.
-They are both accessible online, but what is the difference?
-What can you do with this material that was not possible whe
-it was kept in the archive
 
 
 <!-- more -->
