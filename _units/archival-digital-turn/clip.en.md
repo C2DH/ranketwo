@@ -1,5 +1,5 @@
 ---
-title: Animation:From Archival to Digital Turn
+title: Animation: From Archival to Digital Turn
 type: clip
 lang: en
 parent: archival-digital-turn
