@@ -16,12 +16,9 @@ for a societal-cultural context. In a sense the same effect is
 created as Boder observed while watching the newsreels about
 the liberated concentration camps: people are portrayed
 as an anonymous group of persons, disregarding their
-individuality.
-Because this lesson is about source criticism, we have tried to
-trace the context in which these photos were made and the
-names of the people who are portrayed. The assignment invites
-students to search for the context in which these photos were
-made and how they ended up in this animation.
+individuality. This assignment invites you to search for
+the context in which these photos were made and who the people
+are that are portrayed. 
 
 
 <!-- more -->
