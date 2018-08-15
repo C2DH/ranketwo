@@ -30,5 +30,3 @@ The ***SMALL*** module consists of a short animation lasting 2 minutes 50 second
 
 The ***MEDIUM*** module consists of a series of six assignments related to images that appear in the animation, and topics that are referred to in the quiz.  that are briefly discussed in the animation. The target group is Bachelor students in a humanities discipline and their lecturers. The assignments give learners the opportunity to engage with the topics in more depth, discuss them in class, read the literature and put the theory into practice. The assignments are suitable for collaborative work for two or three students. The time required varies from 30 to 90 minutes.
 
-The ***LARGE*** module offers a tutorial for a hands-on workshop lasting at least a day. This requires a lecturer who has experience with digital tools, some preparation and preferably a computer lab with computers on which the required software is installed. The objective is to go through all the steps required to create a digital history project. This can range from creating a website or podcast or applying a storytelling tool to creating a digital exhibit or annotating a corpus of photos.
-
