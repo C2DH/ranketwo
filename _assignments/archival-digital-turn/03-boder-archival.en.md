@@ -3,7 +3,7 @@ layout: assignment
 unit: archival-digital-turn
 lang: en
 type: assignment
-title: transformation from analogue to digital
+title: Transformation from Analogue to Digital
 order: 3
 cover: /assets/images/attachments/12boxes/12boxes_01.png
 tags:
