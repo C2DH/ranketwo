@@ -18,7 +18,7 @@ Eadweard Muybridge laid the basis for the development of cinematography by makin
 cameras and showing them with a [zoopraxiscope](https://en.wikipedia.org/wiki/Zoopraxiscope). Many artists, photographers and scholars were inspired by his work, but the impact and dissemination of his legacy was magnified by the introduction of digital technology and the web in the late 1990s. 
 This assignment is meant to study the relation between Muybridge’s original glass plates, and what can be retrieved,
 viewed/read and re-used on the web.
-The following animation has been created by the San Francisco Museum of Modern Art. Watch it to get a concise picture of Eadweard Muybridge and his achievements.(slices-of-time)
+[This animation](https://youtu.be/wNU7sXkZmSw) has been created by the San Francisco Museum of Modern Art. Watch it to get a concise picture of Eadweard Muybridge and his achievements.
 
 
 
@@ -32,12 +32,10 @@ Muybridge had to use technologies for fixing an image that were available at tha
 
 To answer this question:
 - Visit the wayback machine, an archive for websites, where you can find a digital copy of a contemporary illustration from 1878,  
-of Muybridge’s experiment with the horse Sally Gardner:
-https://web.archive.org/web/20120730172726/http://popartmachine.com/artwork/LOC+1071481/0/The-horse-in-motion,-illus.-by-Muybridge.-  
+of [Muybridge’s experiment with the horse Sally Gardner (https://web.archive.org/web/20120730172726/http://popartmachine.com/artwork/LOC+1071481/0/The-horse-in-motion,-illus.-by-Muybridge.-)  
 
-- Consult the digital copy of another contemporary relevant source, the catalogue of an exhibit on Muybridge held in Stanford in 1972.
+- Consult the digital copy of another contemporary relevant source, [the catalogue of an exhibit on Muybridge held in Stanford in 1972](https://archive.org/stream/eadweardmuybridg00maye/eadweardmuybridg00maye_djvu.txt) 
 It has also been digitized by the wayback machine/Internet Archive
-https://archive.org/stream/eadweardmuybridg00maye/eadweardmuybridg00maye_djvu.txt
 - Remember that you can use Control F to search for key terms
 
 Here is an additional question:
@@ -51,12 +49,10 @@ Here is an additional question:
 
 Muybridge has been coined as the father of the *GIF*, a very recent development related to digital technology. This comparison points to how existing principles are adapted and re-used in new forms and brings into question whether we can speak about an original work of art or innovation. The same applies of course with regard to historical sources.  
 
--  Watch this clip about how creation is based on re-use of older material:
-   https://vimeo.com/kirbyferguson/remix2015
+-  Watch this clip created by video activist kirby ferguson about how creation is based on re-use of older material: [Everything is a re-mix](https://vimeo.com/kirbyferguson/remix2015)
    
--  Find out what the origin of a GIF is:
-   https://en.wikipedia.org/wiki/GIF
-
+-  Find out what [the origin of a GIF](https://en.wikipedia.org/wiki/GIF) is
+   
 - Below you will find a list of artists/photographers that have been inspired by Muybridge
 - open the links and document the table in your template
 
@@ -65,43 +61,24 @@ Muybridge has been coined as the father of the *GIF*, a very recent development 
 - at which time  
 - what is the element that has been the source of inspiration and has been reused?  
 
-An Interface for Dancer, Composer and Musicians
-https://vimeo.com/209180993  
-Berlin Editions 1 – 4
+[An Interface for Dancer, Composer and Musicians](https://vimeo.com/209180993)  
 
-The Emperor of time,
-https://vimeo.com/131586644
+[The Emperor of time](https://vimeo.com/131586644)
 
-An animation
-https://vimeo.com/20838105
+[An animation](https://vimeo.com/20838105)
 
-A comment below a youtube clip 
-https://www.youtube.com/watch?v=5Awo-P3t4Ho&lc=UgiKWyd-N07eEHgCoAEC
-[Add or leave out? see this comment below a youtube clip:       
-ferociousgumby2 years ago
-(I m(ake gifs of Muybridge all the time. They are the best subject because they are endless. Plus weird and otherworldly.)
+[A comment below a youtube clip](https://www.youtube.com/watch?v=5Awo-P3t4Ho&lc=UgiKWyd-N07eEHgCoAEC)
 
-a painting
-https://en.wikipedia.org/wiki/Nude_Descending_a_Staircase%2C_No._2
+[A painting](https://en.wikipedia.org/wiki/Nude_Descending_a_Staircase%2C_No._2)
 
-a contest related to an exhibition
-https://www.npr.org/sections/pictureshow/2010/06/29/128192659/muybridgewinners?t=1533050973264
+[A contest related to an exhibition] (https://www.npr.org/sections/pictureshow/2010/06/29/128192659/muybridgewinners?t=1533050973264)
 
-[ leave out or add? NPR-Corcoran Contest
-Following In Muybridge's Footsteps
-Concept: Create an Eadweard Muybridge-inspired piece. NPR will select three submissions to feature on the Picture Show blog and the Corcoran Web site. What To Submit: It may be a stop-motion animation, sequence of stills or anything else you can come up with that moves Muybridge into 2010.
-How to Submit: Videos should be submitted to YouTube through NPR's YouTube Direct channel below. Make sure to tag them NPRMuybridge. Photos should be submitted through Flickr and tagged NPRMuybridge. We will be getting in touch with you through Flickr and YouTube mail if your piece has been selected. You'll know if you've submitted photos correctly if they show up here.
-Deadline: 11:59 p.m., May 15, 2010]
+[A multidisciplinary performance](https://youtu.be/t1AWij9twWc)
 
-A multidisciplinary performance
-https://youtu.be/t1AWij9twWc
-
-[leave out or add? UNDANCE is an extraordinary collaboration between three artists at the forefront of British culture - composer Mark-Anthony Turnage, choreographer Wayne McGregor and artist Mark Wallinger. With a visual world created by Turner Prize-winning Wallinger, UNDANCE is performed by the 10 dancers of Wayne McGregor | Random Dance and set to Turnage's original score. Inspiration comes from American sculptor Richard Serra's Compilation of Verbs and the work of photographer Eadweard J. Muybridge. Direction & Choreography: Wayne McGregor Music: Mark Anthony Turnage Costume Design: Moritz Junge Set Design: Mark Walliinger & The OpenEnded Group Lighting Design: Lucy Carter Premiere: 1 December 2011, Sadler's Wells, London, UK]
-
- An opera
- https://en.wikipedia.org/wiki/The_Photographer
+[An opera](https://en.wikipedia.org/wiki/The_Photographer)
 <!-- section -->
-### 1c.
+
+### 1c. A new life on the web
 <!-- section-contents -->
 All the content that can be viewed through the links that are provided in assignment 1b has been published on the web at some point with a particular reason. Try to complete the template for your assignments with details on who published the content, with what purpose and with what means. 
 
