@@ -32,7 +32,7 @@ Muybridge had to use technologies for fixing an image that were available at tha
 
 To answer this question:
 - Visit the wayback machine, an archive for websites, where you can find a digital copy of a contemporary illustration from 1878,  
-of [Muybridge’s experiment with the horse Sally Gardner (https://web.archive.org/web/20120730172726/http://popartmachine.com/artwork/LOC+1071481/0/The-horse-in-motion,-illus.-by-Muybridge.-)  
+of [Muybridge’s experiment with the horse Sally Gardner] (https://web.archive.org/web/20120730172726/http://popartmachine.com/artwork/LOC+1071481/0/The-horse-in-motion,-illus.-by-Muybridge.-)  
 
 - Consult the digital copy of another contemporary relevant source, [the catalogue of an exhibit on Muybridge held in Stanford in 1972](https://archive.org/stream/eadweardmuybridg00maye/eadweardmuybridg00maye_djvu.txt) 
 It has also been digitized by the wayback machine/Internet Archive
@@ -71,7 +71,7 @@ Muybridge has been coined as the father of the *GIF*, a very recent development 
 
 [A painting](https://en.wikipedia.org/wiki/Nude_Descending_a_Staircase%2C_No._2)
 
-[A contest related to an exhibition] (https://www.npr.org/sections/pictureshow/2010/06/29/128192659/muybridgewinners?t=1533050973264)
+[A contest related to an exhibition](https://www.npr.org/sections/pictureshow/2010/06/29/128192659/muybridgewinners?t=1533050973264)
 
 [A multidisciplinary performance](https://youtu.be/t1AWij9twWc)
 
