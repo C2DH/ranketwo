@@ -9,6 +9,7 @@ tags:
   - web research
   - conversion from analogue to digital
 requirements: Fast WIFI connection, scissors and paper
+order: 6
 learning outcomes:
   - Understand *x*
   - Apply *y*
