@@ -13,8 +13,8 @@ The statements of Iranian president Ahmadinejad in 2005 in the press are said   
 all of Boder’s work online. Understandably, statements that put into question whether the
 Holocaust  actually occurred, trigger heated and emotional debates. Nevertheless, each statement that appears in the press, whatever
 medium,  should be subject to careful source criticism. This applies to historians as well   as to journalists. 
-This assignment is meant to trace back the sources upon which the news about   the Holocaust denial  of Ahmadinejad is based
-how this news spread and how   it was represented by the international press.        
+This assignment is meant to trace back the sources upon which the news about the Holocaust denial of Ahmadinejad is based,
+how this news spread, and how it was represented by the international press.        
 
 <!-- more -->
 
