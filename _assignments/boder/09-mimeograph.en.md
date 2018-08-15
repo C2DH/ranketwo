@@ -18,9 +18,6 @@ transcripts among various universities and research institutes.
 This assignment is meant to develop an understanding of how
 the introduction of certain communication technologies
 increase an individual’s potential to spread a message.  
-By reducing costs and creating easy to manage workflows, lay
-people not familiar with printing technologies, are able to
-disseminate their work.
 
 
 Watch the clip about reproduction technologies in the 50s
