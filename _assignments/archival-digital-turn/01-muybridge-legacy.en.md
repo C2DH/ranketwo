@@ -61,9 +61,9 @@ Muybridge has been coined as the father of the *GIF*, a very recent development 
 - at which time  
 - what is the element that has been the source of inspiration and has been reused?  
 
-[An Interface for Dancer, Composer and Musicians](https://vimeo.com/209180993)  
+[A composition for Dancers and Musicians](https://vimeo.com/209180993)  
 
-[The Emperor of time](https://vimeo.com/131586644)
+[An online video](https://vimeo.com/131586644)
 
 [An animation](https://vimeo.com/20838105)
 
