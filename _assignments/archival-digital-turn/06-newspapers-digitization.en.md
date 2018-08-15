@@ -11,11 +11,10 @@ tags:
 requirements: Fast WIFI connection, scissors and paper
 order: 6
 learning outcomes:
-  - Understand *x*
-  - Apply *y*
-  - be able to do *z*
 ---
+<!-- more -->
 
+<!-- briefing-student -->
 Massive digitization of newspapers is ongoing in many
 libraries to offer online access to the public in general and
 to researchers in particular. For the last group it is important 
@@ -31,8 +30,8 @@ online access to newspapers.
 
 <!-- briefing-student -->
 
-    6a. What changes with the digitisation?
-    <!-- section-contents -->
+### 6a. What changes with the digitisation?
+<!-- section-contents -->
     
 Digitisation is usually carried out by (national) libraries, fuelled by the legal deposit existing in many countries.
 The collections of the national libraries are gradually digitised, and are the result of their paper collections, and the priorities set by the institutions. For instance, in the Austrian national library, we can find newspapers printed in all the former Austro-hungarian empire until 1918, in the Polish national library, we can see newspapers printed in hebrew, written in yiddish, mainly before 1939, or written in Russian, printed in cyrillic before 1918 and in the German collection, we can find newspapers printed by the German communities abroad, notably in Eastern Europe. 
@@ -83,10 +82,10 @@ Delpher
 ANNO
 E-Newspapers CH
 
-    <!-- section -->
+<!-- section -->
     
-    6b.The newspapers as historical sources 
-    <!-- section-contents -->
+### 6b.The newspapers as historical sources 
+<!-- section-contents -->
 Newspapers are published regularly and collected on a daily or weekly basis, representing the events that take place in a society. 
 - Collect articles on a particular event and recreate the chronology of that event, using one newspaper title in paper, one in digital form.
 For the “hard-copy” search: choose a recent event and go to the library and collect the articles on that event from the available newspapers. (suggestions: an election, a sports event, an art performance such as a concert etc.)
@@ -99,6 +98,7 @@ For each, collect
 - Present the articles in a chronological form.
 - What has changed in the perception of the event/actors/situation?
 - Write a short essay of about 500 words on your findings 
+<!-- section -->
 
 <!-- briefing-teacher -->
   
