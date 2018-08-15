@@ -1,5 +1,5 @@
 ---
-title: Animation on David Boder and his interview collection
+title: Animation: David Boder and his interview collection
 type: clip
 lang: en
 parent: boder
