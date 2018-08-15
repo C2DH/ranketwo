@@ -80,7 +80,7 @@ ANNO
 E-Newspapers CH
 <!-- section -->
     
-### 6b.The newspapers as historical sources 
+### 6b. The newspaper as historical source 
 <!-- section-contents -->
 Newspapers are published regularly and collected on a daily or weekly basis, representing the events that take place in a society. 
 - Collect articles on a particular event and recreate the chronology of that event, using one newspaper title in paper, one in digital form.
