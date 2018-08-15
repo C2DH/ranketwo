@@ -13,16 +13,14 @@ Learning outcomes:
   - learning to conduct web research 
 ---
 
-As is described in the clip, Boder conducted his interviews in
-difficult circumstances. It was hard for him to find a quiet place
-where he could be alone with his interviewees. This affected
+Boder conducted his interviews in difficult circumstances. 
+It was hard for him to find a quiet place
+where he could be alone with his interviewees.This affected
 the quality of his recordings, and  probably also the length of
-the interviews. To give you an idea of these  circumstances you
-can watch a video created by Yad Vashem on the situation in
-Displacement Camps.
-This assignment is meant to make you reflect on the
-Displacement Camps as the first places of ‘knowledge
-production’ about the Holocaust.
+the interviews. To give you an idea of these circumstances and 
+of the Displacement Camps as the first places of ‘knowledge
+production’, you can watch a video created by Yad Vashem on 
+this topic.
 
 - Open the box ‘Where did Boder conduct his interviews’  and watch the clip about the displacement camps
 https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
