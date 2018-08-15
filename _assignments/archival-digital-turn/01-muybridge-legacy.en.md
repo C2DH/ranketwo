@@ -33,7 +33,6 @@ Muybridge had to use technologies for fixing an image that were available at tha
 To answer this question:
 - Visit the wayback machine, an archive for websites, where you can find a digital copy of a contemporary illustration from 1878,  
 of [Muybridge’s experiment with the horse Sally Gardner] (https://web.archive.org/web/20120730172726/http://popartmachine.com/artwork/LOC+1071481/0/The-horse-in-motion,-illus.-by-Muybridge.-)  
-
 - Consult the digital copy of another contemporary relevant source, [the catalogue of an exhibit on Muybridge held in Stanford in 1972](https://archive.org/stream/eadweardmuybridg00maye/eadweardmuybridg00maye_djvu.txt) 
 It has also been digitized by the wayback machine/Internet Archive
 - Remember that you can use Control F to search for key terms
@@ -49,17 +48,14 @@ Here is an additional question:
 
 Muybridge has been coined as the father of the *GIF*, a very recent development related to digital technology. This comparison points to how existing principles are adapted and re-used in new forms and brings into question whether we can speak about an original work of art or innovation. The same applies of course with regard to historical sources.  
 
--  Watch this clip created by video activist kirby ferguson about how creation is based on re-use of older material: [Everything is a re-mix](https://vimeo.com/kirbyferguson/remix2015)
-   
--  Find out what [the origin of a GIF](https://en.wikipedia.org/wiki/GIF) is
-   
+-  Watch this clip created by video activist kirby ferguson about how creation is based on re-use of older material: [Everything is a re-mix](https://vimeo.com/kirbyferguson/remix2015) 
+- Find out what [the origin of a GIF](https://en.wikipedia.org/wiki/GIF) is  
 - Below you will find a list of artists/photographers that have been inspired by Muybridge
-- open the links and document the table in your template
-
-- what kind of organisation/artist/scholar re-used aspects of Muybridge’s work/life/art
-- in which context
-- at which time  
-- what is the element that has been the source of inspiration and has been reused?  
+- Open the links and document the table in your template
+- What kind of organisation/artist/scholar re-used aspects of Muybridge’s work/life/art?
+- In which context?
+- At which time?  
+- What is the element that has been the source of inspiration and has been reused?  
 
 [A composition for Dancers and Musicians](https://vimeo.com/209180993)  
 
