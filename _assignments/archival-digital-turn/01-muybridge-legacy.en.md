@@ -20,8 +20,6 @@ This assignment is meant to study the relation between Muybridge’s original gl
 viewed/read and re-used on the web.
 [This animation](https://youtu.be/wNU7sXkZmSw) has been created by the San Francisco Museum of Modern Art. Watch it to get a concise picture of Eadweard Muybridge and his achievements.
 
-
-
 <!-- more -->
 
 <!-- briefing-student -->
