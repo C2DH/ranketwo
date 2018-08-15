@@ -2,19 +2,17 @@
 layout: assignment
 unit: archival-digital-turn
 lang: en
-title: The Digitisation of Newspapers: how to turn a page? 
+title: "The Digitisation of Newspapers: how to turn a page?"
 cover:
 tags:
   - media history
   - web research
   - conversion from analogue to digital
 requirements: Fast WIFI connection, scissors and paper
-order: 6
 learning outcomes:
+documents:
+order: 6
 ---
-<!-- more -->
-
-<!-- briefing-student -->
 Massive digitization of newspapers is ongoing in many
 libraries to offer online access to the public in general and
 to researchers in particular. For the last group it is important 
@@ -34,8 +32,7 @@ online access to newspapers.
 <!-- section-contents -->
     
 Digitisation is usually carried out by (national) libraries, fuelled by the legal deposit existing in many countries.
-The collections of the national libraries are gradually digitised, and are the result of their paper collections, and the priorities set by the institutions. For instance, in the Austrian national library, we can find newspapers printed in all the former Austro-hungarian empire until 1918, in the Polish national library, we can see newspapers printed in hebrew, written in yiddish, mainly before 1939, or written in Russian, printed in cyrillic before 1918 and in the German collection, we can find newspapers printed by the German communities abroad, notably in Eastern Europe. 
-Questions that related to source criticism applied to digital newspapers are: 
+The collections of the national libraries are gradually digitised, and are the result of their paper collections, and the priorities set by the institutions. For instance, in the Austrian national library, we can find newspapers printed in all the former Austro-hungarian empire until 1918, in the Polish national library, we can see newspapers printed in hebrew, written in yiddish, mainly before 1939, or written in Russian, printed in cyrillic before 1918 and in the German collection, we can find newspapers printed by the German communities abroad, notably in Eastern Europe. Questions that related to source criticism applied to digital newspapers are: 
 
 Selection
 - Which titles have been digitised?
@@ -81,7 +78,6 @@ Chronicling America
 Delpher
 ANNO
 E-Newspapers CH
-
 <!-- section -->
     
 ### 6b.The newspapers as historical sources 
