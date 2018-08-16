@@ -19,7 +19,7 @@ The lessons have been structured in such a manner that they can serve the needs 
 (could we place here 3 images of sizes of T-shirts : S  -    M   -   L? )
 
 
-![Small.png](https://github.com/C2DH/ranketwo/blob/master/assets/Small.png){:class="img-responsive"}
+![Small.png]({{ "/assets/Small.png"|absolute_url }})
 
 
 {: .extra-spacing}
