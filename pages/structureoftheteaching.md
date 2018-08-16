@@ -17,11 +17,7 @@ Each lesson offers a choice of several modules with an increasing level of compl
 The lessons have been structured in such a manner that they can serve the needs of students, lecturers and independent learners with limited time, as well as those who really want to study a topic in depth. Each lesson can consist of a SMALL, MEDIUM or LARGE module.
 
 
-
-
-![Small.png]({{ "/assets/Small.png"|absolute_url }})
-
-
+![Small.png](){:class="img-responsive"}
 {: .extra-spacing}
 ## SMALL   
 The **SMALL** module serves as a short introduction to a topic related to source criticism. It consists of a short animation of around 6 to 7 minutes in which a number of basic terms and questions are presented. This is followed by a quiz of around 10 minutes to test learners’ understanding of the ideas conveyed in the animation. The SMALL module is geared towards a broad audience with a general interest, including individual learners who are not part of a teaching context.
