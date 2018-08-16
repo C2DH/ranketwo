@@ -18,7 +18,9 @@ The lessons have been structured in such a manner that they can serve the needs 
 
 (could we place here 3 images of sizes of T-shirts : S  -    M   -   L? )
 
-![Screen%20Shot%202018-08-16%20at%2016.22.16.png]({{https://github.com/C2DH/ranketwo/blob/master}}/assets/Screen%20Shot%202018-08-16%20at%2016.22.16.png)
+![Small.png]({{https://github.com/C2DH/ranketwo/blob/master}}/assets/Small.png)
+
+
 
 {: .extra-spacing}
 ## SMALL   
