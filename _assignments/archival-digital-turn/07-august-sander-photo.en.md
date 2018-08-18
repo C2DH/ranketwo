@@ -14,16 +14,15 @@ learning outcomes:
 documents:
 order: 7
 ---
-This assignment deals with the portrait-collection of the famous photographer August Sander (1876-1964), People of the 20th Century, 
-that he created to document the entire society as it appeared to him with the means of his photo camera.
-The source material is questioned at three levels: 1. The original pictures taken by Sander, 2. The printed books 3. The digital versions of the Sander’s portraits to be found on the internet. This means that various perspectives have to be considered: 1. the intention of the artist, 2. the intention of publishers and curators 3. The intention of publishing the images online 4. the reception by the public
+This assignment deals with the portrait-collection of the famous photographer August Sander (1876-1964), People of the 20th Century. 
+He created this collection with the objective of documenting the entire society of his time as he perceived it, by means of his photo camera. It was created from 1911 until around 1945 (?), published in a book in 1980 (?), and  can be viewed online since……… What is the reference when applying source criticism? The original pictures taken by Sander? The printed books? Or the digital versions of the Sander’s portraits that can be found on the internet? Various perspectives have to be considered: 1. the intention of the artist, 2. the intention of publishers and curators 3. The intention of publishing the images online 4. the reception by the public. 
 <!-- more -->
 
 <!-- briefing-student -->
  
 August Sander: Menschen des 20. Jahrhunderts/ People of the 20th Century
 
-The famous German photographer, August Sander, originating from Cologne experienced great societal upheavals in his lifetime (1876-1964). Maybe because of that he set himself the task to create a portrait of the whole(!) society as it appeared to him with the means of his photo camera. His goal was to take pictures of typical representatives of all social and occupational groups in society. He wanted those pictures to be universal although of course he only took pictures of people in his surroundings and of those he had encountered on his trips.You have to bear in mind: Sander chose the people he took pictures of as representative for a whole social group. 
+The famous German photographer, August Sander, originating from Cologne, experienced great societal upheavals in his lifetime (1876-1964). Maybe because of that he set himself the task to create a portrait of the whole(!) society as it appeared to him with the means of his photo camera. His goal was to take pictures of typical representatives of all social and occupational groups in society. He wanted those pictures to be universal although of course he only took pictures of people in his surroundings and of those he ncountered during his trips.You have to bear in mind: Sander chose the people he took pictures of as representative for a whole social group. 
 He sorted his photographs in folders and categorised them in seven groups:
 The Farmer (Der Bauer)
 The Skilled Tradesman (Der Handwerker)
