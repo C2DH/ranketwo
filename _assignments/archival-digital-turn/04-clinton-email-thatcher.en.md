@@ -65,7 +65,9 @@ A difference between letters and emails is that emails can be forwarded and repl
 ### 4d. What can we find about Margaret Thatcher's correspondance?
 <!-- section-contents -->
 
-to do 
+to do: 
+a. what is private? what is public? what is digitized?
+b. download document and download e-mail, table with comparisons?
 
 <!-- briefing-teacher -->
 ## Briefing lecturer
