@@ -16,12 +16,9 @@ order: 7
 This assignment deals with the portrait-collection of the famous photographer August Sander (1876-1964), People of the 20th Century, 
 that he created to document the entire society as it appeared to him with the means of his photo camera.
 The source material is questioned at three levels: 1. The original pictures taken by Sander, 2. The printed books 3. The digital versions of the Sander’s portraits to be found on the internet. This means that various perspectives have to be considered: 1. the intention of the artist, 2. the intention of publishers and curators 3. The intention of publishing the images online 4. the reception by the public
-
 <!-- more -->
 
 <!-- briefing-student -->
-
-    Briefing students 
  
 August Sander: Menschen des 20. Jahrhunderts/ People of the 20th Century
 
@@ -73,19 +70,23 @@ Document your findings in your template
 - What does it tell you about August Sander’s view on society?
 <!-- section -->
 
-
+<!-- section-contents -->
 ### 7c. Printing Books 
 something about the sources that were used in the books, and the technology and adjustment of the photos to make them suitable for the book 
 First Book
 Last Book 
 (see also internet ARchive) 
+<!-- section -->
 
+<!-- section-contents -->
 ### 7d. Where it all began: The Intention of the artist 
 how did he create this collection? Technology, place and social approach (what were his sources?) 
+<!-- section --> 
 
+<!-- briefing-teacher -->
 Reading task (only for a German speaking class): "Zigeuner" sehen. Fotografische Expeditionen am Rande Europas
 in: Herbert Uerlings/Iulia-Karin Patrut (Hg.): "Zigeuner" und Nation. Repräsentation - Inklusion - Exklusion, Frankfurt am Main 2008
 
 
-<!-- briefing-teacher -->
+
   
