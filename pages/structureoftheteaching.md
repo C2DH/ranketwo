@@ -17,7 +17,8 @@ Each lesson offers a choice of several modules with an increasing level of compl
 The lessons have been structured in such a manner that they can serve the needs of students, lecturers and independent learners with limited time, as well as those who really want to study a topic in depth. Each lesson can consist of a SMALL, MEDIUM or LARGE module.
 
 
-![Small.png](https://github.com/C2DH/ranketwo/blob/master/assets/images/Small.png){:height="350px" width="200px"}
+![Small.png](https://github.com/C2DH/ranketwo/blob/master/assets/images/Small.png =350px200p)
+
 
 {: .extra-spacing}
 ## SMALL   
