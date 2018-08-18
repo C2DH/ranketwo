@@ -42,7 +42,8 @@ But Before you start your websearch, here are some links to get some basic knowl
 - Here is clip about how [Google's search engine works](https://www.youtube.com/watch?v=BNHR6IQJGZs)
 - Here is a short explanation on [how Google Images works](https://www.dummies.com/education/internet-basics/knowing-google-images-basics/) 
 - Here is an explanation on the history and objective of [Pininterest](https://en.wikipedia.org/wiki/Pinterest)
-- Here is an explanation how to trace the metadata about online publication 
+- Here is an explanation how to trace when online content was published  
+https://www.makeuseof.com/tag/find-date-published-post-insanely-simple-tips/ 
 
 - First use the [google picture search]9https://images.google.com) with the name August Sander  
 - Then open a new tab and do the same with the [social media website Pininterest](https://www.pinterest.de/search/pins/?q=August%20Sander&rs=typed&term_meta[]=August%7Ctyped&term_meta[]=Sander%7Ctyped) 
