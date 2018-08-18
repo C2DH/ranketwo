@@ -1,5 +1,5 @@
 ---
-title: Animation: David Boder and his interview collection
+title: "David Boder's interview collection: from analogue to digital"
 type: clip
 lang: en
 parent: boder
