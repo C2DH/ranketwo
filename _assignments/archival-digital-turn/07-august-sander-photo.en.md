@@ -9,10 +9,12 @@ tags:
   - re-use of images
   - conversion from analogue to digital
 requirements: Fast WIFI connection, scissors and paper
-learning outcomes: training students to be aware of the various layers of interpretations when dealing analogue photos that are published online.  
+learning outcomes: 
+- training students to be aware of the various layers of interpretations when dealing analogue photos that are published online.  
 documents:
 order: 7
 ---
+
 This assignment deals with the portrait-collection of the famous photographer August Sander (1876-1964), People of the 20th Century, 
 that he created to document the entire society as it appeared to him with the means of his photo camera.
 The source material is questioned at three levels: 1. The original pictures taken by Sander, 2. The printed books 3. The digital versions of the Sander’s portraits to be found on the internet. This means that various perspectives have to be considered: 1. the intention of the artist, 2. the intention of publishers and curators 3. The intention of publishing the images online 4. the reception by the public
