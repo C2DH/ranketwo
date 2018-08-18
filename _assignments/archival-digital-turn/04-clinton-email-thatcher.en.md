@@ -27,7 +27,7 @@ Emails and letters share that one can learn a lot about the source before readin
 
 - Document your answer in your template
 
-[
+[answers]
 Metadata of letters:
 -location of author
 -date of writing
@@ -46,7 +46,7 @@ Metadata of emails:
 ### 4b. Intended and unintended audiences 
 <!-- section-contents -->
 Apart from the intended audience, letters can have an unintended audience. Soldiers in WW1 knew their letters would be read by censors before the letter would be send to their families, impacting how they wrote about the war. Hillary Clinton set up a private email server, perhaps hoping she could discuss matters without it becoming public knowledge.
-- REading suggestion????? Privacy and the internet? Letters and Privacy? 
+- Read chapter ? from this book: Priacy and the past: Research, Law, Archives, Ethics, Susan.C. Lawrence, Rutgers University Press 2016
 - Are historians unintended audiences? 
 - How long should the distance in time be before privacy no longer plays a role? 
 - Do you consider unintended audiences when writing a letter or email?
