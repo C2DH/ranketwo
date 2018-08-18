@@ -2,100 +2,90 @@
 layout: assignment
 unit: archival-digital-turn
 lang: en
-title: "The Digitisation of Newspapers: how to turn a page?"
+title: August Sander: Menschen des 20. Jahrhunderts/ People of the 20th Century
 cover:
 tags:
-  - media history
-  - web research
+  - photo history
+  - re-use of images
   - conversion from analogue to digital
 requirements: Fast WIFI connection, scissors and paper
-learning outcomes:
+learning outcomes: training students to be aware of the various layers of interpretations when dealing analogue photos that are published online.  
 documents:
-order: 6
+order: 7
 ---
-Massive digitization of newspapers is ongoing in many
-libraries to offer online access to the public in general and
-to researchers in particular. For the last group it is important 
-to reflect on the politics and transformative impact
-of the digitization process. What you see online is not the
-same as what you can hold in your hand in the archive. 
-This assignment covers two approaches: 1. Considering the choices that are
-made when newspapers are digitized, 2. Considering the diversity of news 
-covergage by making use of the affordances of massive
-online access to newspapers.
+This assignment deals with the portrait-collection of the famous photographer August Sander (1876-1964), People of the 20th Century, 
+that he created to document the entire society as it appeared to him with the means of his photo camera.
+The source material is questioned at three levels: 1. The original pictures taken by Sander, 2. The printed books 3. The digital versions of the Sander’s portraits to be found on the internet. This means that various perspectives have to be considered: 1. the intention of the artist, 2. the intention of publishers and curators 3. The intention of publishing the images online 4. the reception by the public
 
 <!-- more -->
 
 <!-- briefing-student -->
 
-### 6a. What changes with the digitisation?
-<!-- section-contents -->
-    
-Digitisation is usually carried out by (national) libraries, fuelled by the legal deposit existing in many countries.
-The collections of the national libraries are gradually digitised, and are the result of their paper collections, and the priorities set by the institutions. For instance, in the Austrian national library, we can find newspapers printed in all the former Austro-hungarian empire until 1918, in the Polish national library, we can see newspapers printed in hebrew, written in yiddish, mainly before 1939, or written in Russian, printed in cyrillic before 1918 and in the German collection, we can find newspapers printed by the German communities abroad, notably in Eastern Europe. Questions that related to source criticism applied to digital newspapers are: 
-
-Selection
-- Which titles have been digitised?
-Identify the titles that are available at your local library and which one where digitised? (If it is complicated, compare the titles available on ProQuest, Chronicling America to the list of the Library of Congress, see list of links below.)
-- Is the information easily available? What is the proportion of digitised vs. non digitised?
-- What type of newspapers were digitised first? What type has not been digitised (yet)?
-
-Transformation
-- How were the newspaper processed ?
-- How big is the coverage of that processing?
-- Are all newspapers titles processed in the same way? Is the information available at all?
-- How do the digitised newspaper look like? 
-- Are they in black and white? In color? What color is the paper? 
-- Was the digitisation carried out from microfilms or hard copies? 
-- What color makes the reading easier in the digital form?
-- What are the differences for the newspapers coming from different periods?
-
-Retrieval
-- Are the newspapers searchable? 
-- Can we apply full text search on their content? (Is there OCR?)
-- Is there article segmentation? Can we search within advertisements, images ? 
-- Are they other types of segments?(Is there OLR?)
+    Briefing students 
  
-In the following table links are presented to several portanls of digitized newspapers collections. 
-Open up each link and document the required fields in the table, with the previous questions in mind. 
-- What type of institution carried out the digitisation? public/private, for commercial/academic/preservation purpose?
-- How to access these collections? Is a subscription needed?
-- Is there a dedicated interface for the digitised newspapers or is the interface common to other sources, such as books, images?
-- What is specific to that collection? Where do the titles come from? Which languages are available? Are there some special sub-collections?
+August Sander: Menschen des 20. Jahrhunderts/ People of the 20th Century
 
-[Here we need a table]
+The famous German photographer, August Sander, originating from Cologne experienced great societal upheavals in his lifetime (1876-1964). Maybe because of that he set himself the task to create a portrait of the whole(!) society as it appeared to him with the means of his photo camera. His goal was to take pictures of typical representatives of all social and occupational groups in society. He wanted those pictures to be universal although of course he only took pictures of people in his surroundings and of those he had encountered on his trips.You have to bear in mind: Sander chose the people he took pictures of as representative for a whole social group. 
+He sorted his photographs in folders and categorised them in seven groups:
+The Farmer (Der Bauer)
+The Skilled Tradesman (Der Handwerker)
+The Woman (Die Frau)
+Classes and Professions (Die Stände)
+The Artists (Die Künstler)
+The City (Die Großstadt)
+The Last People (Die letzten Menschen)
 
-1. Institution
-2. Type of access
-3. Interface 
-4. Collection specificities
 
-Europeana newspapers
-Gallica
-Retronews
-ProQuest
-Chronicling America
-Delpher
-ANNO
-E-Newspapers CH
-<!-- section -->
-    
-### 6b. The newspaper as historical source 
 <!-- section-contents -->
-Newspapers are published regularly and collected on a daily or weekly basis, representing the events that take place in a society. 
-- Collect articles on a particular event and recreate the chronology of that event, using one newspaper title in paper, one in digital form.
-For the “hard-copy” search: choose a recent event and go to the library and collect the articles on that event from the available newspapers. (suggestions: an election, a sports event, an art performance such as a concert etc.)
-For the digitised version, choose a historical event, such as the Titanic cruise/catastrophe,  the assassination of Archduke Franz Ferdinand of Austria, the Woodstock festival of 1969, the Watergate scandal in 1974, John Paul II…)
+### 7a. Access to August Sander's portraits through Google and Pinterest (covers digital dimension 3.) 
 
-For each, collect 
-- 5 articles published before (anticipation), during (description), after (comments, consequences), 
-- For the digital sources: search for 5 articles commemorating this event 10, 20, 100 years after.
+You are going to compare search results.
 
-- Present the articles in a chronological form.
-- What has changed in the perception of the event/actors/situation?
-- Write a short essay of about 500 words on your findings 
+But Before you start your websearch, here are some links to get some basic knowledge on a number of digital tools/resources: 
+- Here is clip about how [Google's search engine works](https://www.youtube.com/watch?v=BNHR6IQJGZs)
+- Here is a short explanation on [how Google Images works](https://www.dummies.com/education/internet-basics/knowing-google-images-basics/) 
+- Here is an explanation on the history and objective of [Pininterest](https://en.wikipedia.org/wiki/Pinterest)
+- Here is an explanation how to trace the metadata about online publication 
+
+- First use the [google picture search]9https://images.google.com) with the name August Sander  
+- Then open a new tab and do the same with the [social media website Pininterest](https://www.pinterest.de/search/pins/?q=August%20Sander&rs=typed&term_meta[]=August%7Ctyped&term_meta[]=Sander%7Ctyped) 
+- Compare the two tabs with each other - What are the differences?
+- Try to find out when Sander's photos were published online, by whom and with what reason 
+
+Document your findings in your template
 <!-- section -->
+
+<!-- section-contents -->
+### 7b. Comparing Associative Tagging (covers association and reception online 4.) 
+
+- Now, without clicking on the individual pictures in the results page, either those from Google or from Pinterest, choose 8 diverse portraits (groups,individuals,old,young, women men) of your liking
+- Take a long look at them and give each a tag or name that comes to your mind. Document this in your template. 
+- Meet up with a fellow student, compare your search results, your choices, and your tags.  
+- Complement each others tags with an additional assessment of the background of the people portrayed on the photo
+  - social class
+  - profession
+  - age
+- Which criteria did you use for labelling the photographs? Why did you label the pictures in this way? Discuss!
+- Take a look at Sander's folders, in which folder would Sander have put the photographs you chose?
+
+- Now click on the pictures, you will see how Sander labelled the pictures himself. 
+- What does this tell you about your own perceptions and labels? 
+- What does it tell you about August Sander’s view on society?
+<!-- section -->
+
+
+### 7c. Printing Books 
+something about the sources that were used in the books, and the technology and adjustment of the photos to make them suitable for the book 
+First Book
+Last Book 
+(see also internet ARchive) 
+
+### 7d. Where it all began: The Intention of the artist 
+how did he create this collection? Technology, place and social approach (what were his sources?) 
+
+Reading task (only for a German speaking class): "Zigeuner" sehen. Fotografische Expeditionen am Rande Europas
+in: Herbert Uerlings/Iulia-Karin Patrut (Hg.): "Zigeuner" und Nation. Repräsentation - Inklusion - Exklusion, Frankfurt am Main 2008
+
 
 <!-- briefing-teacher -->
   
-    Free text below, this completes the requirements and learning outcomes in the front matter.
