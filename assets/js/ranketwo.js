@@ -34,6 +34,12 @@
             var doc = _self.docs[href];
 
             switch (this.innerHTML) {
+              case 'ref':
+                d3.select(this)
+                  .html(doc.data.reference)
+                  .attr('href', doc.url)
+                  .attr('target', '_blank');
+                break;
               case 'cit':
                 d3.select(this)
                   .html('(' + [doc.data.author, doc.data.year]
