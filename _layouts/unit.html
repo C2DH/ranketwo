@@ -80,7 +80,9 @@ layout: default
       {% assign briefing_sections = briefing_student | split: site.section_separator %}
 
     <!--  list of assignments. -->
-    <div class='row'>
+
+    <div class='row pt-4 mt-4'>
+
       <div class='col-sm-8'>
         <!-- simple intro -->
         <div class="component assignments">
@@ -107,21 +109,26 @@ layout: default
         </div>
       </div>
       <div class='col-sm-4'>
-        <a class='btn btn-primary' href="{{assignment.url | relative_url}}">{%assign key='permalink'%}{% include t.html %}</a>
-        <a class='btn btn-primary' href="{{assignment.url | relative_url}}">download PDF</a>
-        <hr>
-        <h3>{% assign key="requirements"%}{% include t.html %}</h3>
-        {{ assignment.requirements | markdownify }}
-        <h3>
-        {% assign key="learning outcomes"%}{% include t.html %}</h3>
-        {% for outcome in assignment.outcomes %}
-        {{outcome | markdownify }}
-        {% endfor %}
-
-        <div class='unit--briefing-teacher'>
-          {{briefing_teacher | markdownify}}
-
+        <div class="pl-4 mt-4">
+          <a class='btn btn-primary' href="{{assignment.url | relative_url}}">{%assign key='permalink'%}{% include t.html %}</a>
+          <a class='btn btn-primary' href="{{assignment.url | relative_url}}">download PDF</a>
         </div>
+        <hr>
+        <!-- <h3>{% assign key="requirements"%}{% include t.html %}</h3>
+        {{ assignment.requirements | markdownify }} -->
+        {% if assignment.outcomes %}
+        <div class="pl-2">
+          <h3>{% assign key="learning outcomes"%}{% include t.html %}</h3>
+          {% for outcome in assignment.outcomes %}
+            {{ outcome | markdownify }}
+          {% endfor %}
+        </div>
+        {% endif %}
+        {% if briefing_teacher %}
+        <div class='pl-4 briefing'>
+          {{ briefing_teacher | markdownify}}
+        </div>
+        {% endif %}
       </div>
     </div>
 

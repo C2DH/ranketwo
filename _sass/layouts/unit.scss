@@ -156,3 +156,15 @@ div.page.unit {
     padding: 0 8px;
   }
 }
+
+.unit .briefing {
+  p{
+    font-size: 80%;
+  }
+  h2, h3, h4{
+    font-size: inherit;
+    font-variant: all-petite-caps;
+    font-weight: normal;
+
+  }
+}
