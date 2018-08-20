@@ -163,8 +163,10 @@ div.page.unit {
   }
   h2, h3, h4{
     font-size: inherit;
-    font-variant: all-petite-caps;
+    text-transform: uppercase;
     font-weight: normal;
-
+  }
+  ol, ul{
+      padding-left: 1rem;
   }
 }
