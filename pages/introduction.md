@@ -17,6 +17,9 @@ documents:
 {: .extra-spacing}
 <!-- more -->
 
+
+![.     DSCATM.png
+
 ### Why Digital Source Criticism?
 Historians of the 21st century need to be aware of the specific nature of the digital sources they analyse in their research.
 The critical interrogation of historical sources has always formed the basis of historical scholarship. Questioning the authenticity of a source by finding out who created it, at what time, for what purpose and in what context is a key part of our research practices. But now that we have seemingly unlimited access to retro-digitised material and born-digital data through the web, we need to learn how to critically assess digital resources, just as we have always done with “analogue” materials.
