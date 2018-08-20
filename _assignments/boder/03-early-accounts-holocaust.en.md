@@ -6,13 +6,27 @@ type: assignment
 title: Different ways of documenting people’s accounts of the Holocaust
 cover: /assets/images/attachments/12boxes/12boxes_03.png
 order: 3
-tags: methods of research, data collection, interview protocols, digital archives, privacy, oral history, qualitative data
+tags:
+  - methods of research
+  - data collection
+  - interview protocols
+  - digital archives
+  - privacy
+  - oral history
+  - qualitative data
+
+outcomes:
+
+  - understanding how the method for the collection of data impacts its informative value for future researchers
+  - understanding the limitations and affordances of online access to databases with personal narratives.
+
+
 ---
 
 When reflecting on the value and meaning of a source that has
 been published on the web, it is important to take the context of
-its creation into consideration.Turning everything into searchable 
-digital data, creates the risk of disregarding the different methods 
+its creation into consideration.Turning everything into searchable
+digital data, creates the risk of disregarding the different methods
 and approaches that researchers used when they created the data.
 This assignment is meant to give an impression of the differences between
 the accounts of Holocaust survivors that were summarized in
@@ -79,18 +93,5 @@ Compare the protocol of a 15 year old girl in  http://degob.org/
 
 <!-- briefing-teacher -->
 
-### Requirements:
-
-strong WIFI, accesso to Ranke.2, computer or laptop,
-application on laptop or computer to view video,
-
-
-### Learning outcomes:
-
-- understanding how the method for the collection of
-data impacts its informative value for future researchers
-- understanding the limitations and affordances of online access
-to databases with personal narratives.
-
 ### Reading/viewing  suggestions:
-- [Collect and record](https://global.oup.com/academic/product/collect-and-record-97801997645%2056?cc=nl&lang=en&), Laura Jockusch
+See [Collect and record](https://global.oup.com/academic/product/collect-and-record-97801997645%2056?cc=nl&lang=en&), Laura Jockusch

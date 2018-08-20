@@ -6,6 +6,11 @@ title: Who are these people? Photography and identity
 order: 4
 cover: /assets/images/attachments/12boxes/12boxes_04.png
 tags: re-use of photographs, metadata, ownership, digital archives
+outcomes:
+- understanding how photographs can be used for different purposes,
+- understanding how digital and web technologies have enhanced the re-use of photographs
+- learning to trace the origin of a photo through web research
+
 ---
 
 
@@ -18,7 +23,7 @@ the liberated concentration camps: people are portrayed
 as an anonymous group of persons, disregarding their
 individuality. This assignment invites you to search for
 the context in which these photos were made and who the people
-are that are portrayed. 
+are that are portrayed.
 
 
 <!-- more -->
@@ -63,16 +68,6 @@ Document your findings in your template.
 
 
 <!-- briefing-teacher -->
-
-Time effort: 10-15 min
-
-### Requirements
-fast WIFI, access to Ranke.2, computer or laptop,  application on labtop or computer to view video,
-
-### Learning outcomes:
-- understanding how photographs can be used for different purposes,
-- understanding how digital and web technologies have enhanced the re-use of photographs
-- learning to trace the origin of a photo through web research
 
 
 ### Reading/viewing  suggestions:
