@@ -10,15 +10,18 @@ tags:
   - conversion from analogue to digital
 requirements: Fast WIFI connection, computer or laptop, application on laptop or computer to view video,
 learning outcomes:
-  - Understand the process of how the original work of Muybridge has been re-used and explain its presence on the web 
+  - Understand the process of how the original work of Muybridge has been re-used and explain its presence on the web
 documents:
+  - slices-of-time
 order: 1
 ---
 Eadweard Muybridge laid the basis for the development of cinematography by making photos of a trotting horse with a series of
-cameras and showing them with a [zoopraxiscope](https://en.wikipedia.org/wiki/Zoopraxiscope). Many artists, photographers and scholars were inspired by his work, but the impact and dissemination of his legacy was magnified by the introduction of digital technology and the web in the late 1990s. 
+cameras and showing them with a [zoopraxiscope](https://en.wikipedia.org/wiki/Zoopraxiscope). Many artists, photographers and scholars were inspired by his work, but the impact and dissemination of his legacy was magnified by the introduction of digital technology and the web in the late 1990s.
 This assignment is meant to study the relation between Muybridge’s original glass plates, and what can be retrieved,
 viewed/read and re-used on the web.
 [This animation](https://youtu.be/wNU7sXkZmSw) has been created by the San Francisco Museum of Modern Art. Watch it to get a concise picture of Eadweard Muybridge and his achievements.
+
+[card](slices-of-time)
 
 <!-- more -->
 
@@ -26,19 +29,19 @@ viewed/read and re-used on the web.
 
 ### 1a. The original technology
 <!-- section-contents -->
-Muybridge had to use technologies for fixing an image that were available at that time. What did he use and how? 
+Muybridge had to use technologies for fixing an image that were available at that time. What did he use and how?
 
 To answer this question:
 - Visit the wayback machine, an archive for websites, where you can find a digital copy of a contemporary illustration from 1878,  
 of [Muybridge’s experiment with the horse Sally Gardner] (https://web.archive.org/web/20120730172726/http://popartmachine.com/artwork/LOC+1071481/0/The-horse-in-motion,-illus.-by-Muybridge.-)  
-- Consult the digital copy of another contemporary relevant source, [the catalogue of an exhibit on Muybridge held in Stanford in 1972](https://archive.org/stream/eadweardmuybridg00maye/eadweardmuybridg00maye_djvu.txt) 
+- Consult the digital copy of another contemporary relevant source, [the catalogue of an exhibit on Muybridge held in Stanford in 1972](https://archive.org/stream/eadweardmuybridg00maye/eadweardmuybridg00maye_djvu.txt)
 It has also been digitized by the wayback machine/Internet Archive
 - Remember that you can use Control F to search for key terms
 
 Here is an additional question:
-- Was this technology an American invention, or was it imported from Europe? 
-- Were there parallel experiments in other places in the world in the same period or can Muybridge rightly claim to be the pioneer in cinematography? 
-- Document your findings in your template in at least 150 words. 
+- Was this technology an American invention, or was it imported from Europe?
+- Were there parallel experiments in other places in the world in the same period or can Muybridge rightly claim to be the pioneer in cinematography?
+- Document your findings in your template in at least 150 words.
 
 <!-- section -->
 ### 1b. Re-use of Muybridge’s material: the father of the *GIF*?
@@ -46,7 +49,7 @@ Here is an additional question:
 
 Muybridge has been coined as the father of the *GIF*, a very recent development related to digital technology. This comparison points to how existing principles are adapted and re-used in new forms and brings into question whether we can speak about an original work of art or innovation. The same applies of course with regard to historical sources.  
 
--  Watch this clip created by video activist kirby ferguson about how creation is based on re-use of older material: [Everything is a re-mix](https://vimeo.com/kirbyferguson/remix2015) 
+-  Watch this clip created by video activist kirby ferguson about how creation is based on re-use of older material: [Everything is a re-mix](https://vimeo.com/kirbyferguson/remix2015)
 - Find out what [the origin of a GIF](https://en.wikipedia.org/wiki/GIF) is  
 - Below you will find a list of artists/photographers that have been inspired by Muybridge
 - Open the links and document the table in your template
@@ -74,9 +77,9 @@ Muybridge has been coined as the father of the *GIF*, a very recent development 
 
 ### 1c. A new life on the web
 <!-- section-contents -->
-All the content that can be viewed through the links that are provided in assignment 1b has been published on the web at some point with a particular reason. Try to complete the template for your assignments with details on who published the content, with what purpose and with what means. 
+All the content that can be viewed through the links that are provided in assignment 1b has been published on the web at some point with a particular reason. Try to complete the template for your assignments with details on who published the content, with what purpose and with what means.
 
-Add instruction on how to deconstruct the metadata of an online clip, to trace its origin and details on publication date 
+Add instruction on how to deconstruct the metadata of an online clip, to trace its origin and details on publication date
 
 <!-- section -->
 
