@@ -49,6 +49,10 @@ h1{
 h2{
   font-weight: 300;
 }
+
+.clear{
+  clear: both;
+}
 .wrapper{
   position: relative;
 }
@@ -75,6 +79,7 @@ h2{
 
 .extra-spacing{
   margin-top: 3rem;
+  clear: both;
 }
 
 .extra-padding{
