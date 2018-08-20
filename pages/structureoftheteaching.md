@@ -22,11 +22,11 @@ The lessons have been structured in such a manner that they can serve the needs 
 ## SMALL   
 The **SMALL** module serves as a short introduction to a topic related to source criticism. It consists of a short animation of around 6 to 7 minutes in which a number of basic terms and questions are presented. This is followed by a quiz of around 10 minutes to test learners’ understanding of the ideas conveyed in the animation. The SMALL module is geared towards a broad audience with a general interest, including individual learners who are not part of a teaching context.
 
-![Medium.png](https://github.com/C2DH/ranketwo/blob/master/assets/images/Medium.png){:height="350px" width="200px"}
+![Medium.png](https://c2dh.github.io/ranketwo/assets/images/Medium.png){:height="350px" width="200px"}
 ## MEDIUM  
 The **MEDIUM** module is meant to be used in a teaching context and therefore offers information for both students and lecturers. It consists of a series of assignments that address the various topics introduced in the animation in more depth. Its target group is Bachelor students and their lecturers. The assignments are suitable for collaborative work for two or three students and the time required varies from 30 to 90 minutes. Each assignment provides specific information about learning outcomes.
 
-![large.png](https://github.com/C2DH/ranketwo/blob/master/assets/images/large.png){:height="350px" width="200px"}
+![large.png](https://c2dh.github.io/ranketwo/assets/images/large.png){:height="350px" width="200px"}
 ## LARGE
 The **LARGE** module offers a tutorial for a hands-on workshop lasting at least a day. This should be led by a lecturer who has experience with digital tools and requires some preparation and an appropriate environment such as a computer lab. The objective of the tutorial is to go through all the steps required to create a digital history project. This can range from creating a website or podcast by applying a storytelling tool to creating a digital exhibit or annotating a corpus of photos.
 
