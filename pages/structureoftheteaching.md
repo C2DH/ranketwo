@@ -13,10 +13,11 @@ Each lesson offers a choice of several modules with an increasing level of compl
  
 <!-- more -->
 
+{: .float-left}
+![Small.png](https://c2dh.github.io/ranketwo/assets/images/Small.png)
 
 The lessons have been structured in such a manner that they can serve the needs of students, lecturers and independent learners with limited time, as well as those who really want to study a topic in depth. Each lesson can consist of a SMALL, MEDIUM or LARGE module.
 
-![Small.png](https://c2dh.github.io/ranketwo/assets/images/Small.png)
 
 {: .extra-spacing}
 ## SMALL   
