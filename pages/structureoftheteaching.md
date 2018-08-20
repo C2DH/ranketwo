@@ -28,6 +28,7 @@ The **SMALL** module serves as a short introduction to a topic related to source
 
 
 ## MEDIUM 
+
 {: .float-left}
 ![Medium.png](https://c2dh.github.io/ranketwo/assets/images/Medium.png){:height="150px"}
 
@@ -35,6 +36,7 @@ The **MEDIUM** module is meant to be used in a teaching context and therefore of
 
 
 ## LARGE
+
 {: .float-left}
 ![large.png](https://c2dh.github.io/ranketwo/assets/images/large.png){:height="200px"}
 
