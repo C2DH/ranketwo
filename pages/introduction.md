@@ -18,7 +18,7 @@ documents:
 <!-- more -->
 
 
-![.     DSCATM.png
+![DSCATM.png](https://c2dh.github.io/ranketwo/assets/images/DSCATM.png)
 
 ### Why Digital Source Criticism?
 Historians of the 21st century need to be aware of the specific nature of the digital sources they analyse in their research.
