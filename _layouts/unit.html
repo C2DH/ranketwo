@@ -88,17 +88,17 @@ layout: default
         <div class="component assignments">
 
           <section>
-          <h3><a href="{{assignment.url | relative_url}}">#{{assignment.order}}/{{assignments.size}} &mdash; {{assignment.title}}</a></h3>
+          <h3><a href="{{assignment.url | relative_url}}"><strong>{{assignment.order}} {% assign key="out of" %} {% include t.html %} {{assignments.size}} </strong>&mdash; {{assignment.title}}</a></h3>
           <blockquote>{{ assignment.excerpt | markdownify}}</blockquote>
 
 
-            <aside><b>assignment #{{assignment.order}}/{{assignments.size}}</b><br>{{assignment.duration}}
+            <!-- <aside><b>assignment #{{assignment.order}}/{{assignments.size}}</b><br>{{assignment.duration}}
               {% if assignment.cover %}
               <div class='image-wrapper'><img src='{{component.cover | relative_url}}'></div>
 
 
               {% endif %}
-            </aside>
+            </aside> -->
 
           </section>
           <div class='section--line'></div>
