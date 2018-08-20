@@ -23,7 +23,7 @@ outcomes:
 
 
 
-In the animation about David Boder's interview collection the focus is mostly on the creation and transformation from analogue source to online web resource. But the historical context also deserves some attention. Boder’s expertise and mindset were also the result of what he encountered during his life in terms of personal drawbacks, technological innovation, scientific progress and political conflict. This assignment introduces you to a digital tool with which you can create a timeline that can be populated and shared. The purpose is to make you aware of the historical context in which Boder’s historical sources were created by conducting critical web research. 
+In the animation about David Boder's interview collection the focus is mostly on the creation and transformation from analogue source to online web resource. But the historical context also deserves some attention. Boder’s expertise and mindset were also the result of what he encountered during his life in terms of personal drawbacks, technological innovation, scientific progress and political conflict. This assignment introduces you to a digital tool with which you can create a timeline that can be populated and shared. The purpose is to make you aware of the historical context in which Boder’s historical sources were created by conducting critical web research.
 
 <!-- more -->
 
@@ -132,7 +132,6 @@ Write a short abstract in your template of 150 words on what you have found on t
     http://images.google.com/advanced_image_search?hl=en
 
 <!-- briefing-teacher -->
-## Briefing lecturer
 
 
 #### Reading/viewing  suggestions
