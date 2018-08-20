@@ -168,5 +168,23 @@ div.page.unit {
   }
   ol, ul{
       padding-left: 1rem;
+      margin-bottom: .5rem;
+      list-style-type: none;
+      li{
+        margin-bottom: 0.5rem;
+        position: relative;
+
+        &:before{
+          content: "-";
+          float: left;
+          margin-left: -1rem;
+          margin-top: -.2rem;
+        }
+
+        p{
+          margin-bottom: .5rem;
+        }
+      }
+
   }
 }
