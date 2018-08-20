@@ -117,17 +117,17 @@ layout: default
         <!-- <h3>{% assign key="requirements"%}{% include t.html %}</h3>
         {{ assignment.requirements | markdownify }} -->
         {% if assignment.outcomes %}
-        <div class="pl-4 pb-4 briefing">
+        <div class="pl-4 pt-2 pb-2 briefing">
           <h3>{% assign key="learning outcomes"%}{% include t.html %}</h3>
           <ul>
           {% for outcome in assignment.outcomes %}
-            <li>{{ outcome | markdownify }}</li>
+            <li>{{ outcome | markdownify | replace: '<p>' | replace: '</p>' }}</li>
           {% endfor %}
           </ul>
         </div>
         {% endif %}
         {% if briefing_teacher %}
-        <div class='pl-4 briefing'>
+        <div class='pl-4 pt-2 briefing'>
           {{ briefing_teacher | markdownify}}
         </div>
         {% endif %}
