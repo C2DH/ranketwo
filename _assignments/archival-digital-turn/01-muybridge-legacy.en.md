@@ -29,7 +29,7 @@ viewed/read and re-used on the web.
 
 ### 1a. The original technology
 <!-- section-contents -->
-Muybridge had to use technologies for fixing an image that were available at that time. What did he use and how?
+For capturing images, Muybridge had to rely on the technologies that were available at that time. Try to find out what he used by consulting the sources below. 
 
 To answer this question:
 - Visit the wayback machine, an archive for websites, where you can find a digital copy of a contemporary illustration from 1878,  
