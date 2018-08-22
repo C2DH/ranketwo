@@ -10,32 +10,23 @@ requirements:  strong WIFI, access to Ranke.2, computer or laptop,application on
 learning outcomes: understanding the difference between the concept of the ‘original’ in the analogue area, and how this has changed with the advent of digital technology 
 ---
 
-
-The possibilities for reproduction of text and images increased
-considerably during Boder’s lifetime.  Besides the mimeograph,
-he used the micro card to disseminate his volumes with
-transcripts among various universities and research institutes.
-This assignment is meant to develop an understanding of how
-the introduction of certain communication technologies
-increase an individual’s potential to spread a message.  
-
-
-Watch the clip about reproduction technologies in the 50s
-https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
-
+The possibilities for reproduction of text and images increased considerably during Boder’s lifetime. As well as the mimeograph, he used the microcard to disseminate his volumes of transcripts among various universities and research institutes.
+This assignment is intended to develop an understanding of how the introduction of communication technologies increased individuals’ ability to spread a message.  
+Reduced costs and easy-to-manage protocols mean that lay people not familiar with printing technologies are now able to disseminate their work. 
 <!-- more -->
 
 <!-- briefing-student -->
-
+Watch the clip about reproduction technologies in the 1950s
+https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
 
 
 ### 9a Comparing reproduction technologies
 <!-- section-contents -->
 
-Find out  how a micro card works by clicking on this link:
-https://psap.library.illinois.edu/collection-id-guide/microform#microcard
+Find out how a micro card works by clicking on this link to the [online archive of the Library of the Illineois University] 
+(https://psap.library.illinois.edu/collection-id-guide/microform#microcard)
 
-Complete the table with the comparison between
+Complete the table with a comparison between
 - the typewriter
 - the stencil duplicator
 - the mimeograph
@@ -45,11 +36,16 @@ Complete the table with the comparison between
 <!-- section -->
 ### 9b What is an authentic source
 <!-- section-contents -->
-Assess whether the result  of applying  these reproduction technologies can be considered as an authentic historical source?
+Assess whether the result of applying these reproduction technologies can be considered as an authentic historical source?
+
+<!-- section -->
+### 9c Mimeograph and Microcard
+<!-- section-contents -->
+- What is the difference between copies made with a mimeograph and those made with a microcard? 
+- How does this relate to the benefits of digital technology? 
+
 
 Time effort: ?
-
-
 
 Reading/viewing  suggestions:
 Ask Andreas for basic literature that questions the concept of ‘authenticity’
