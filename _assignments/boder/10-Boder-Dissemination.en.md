@@ -7,9 +7,9 @@ cover: /assets/images/attachments/12boxes/12boxes_11.png
 order: 10
 lang: en
 outcomes: 
- -	How to use a tool to create a digital map.
- -	Understanding how archives deal differently with access to historical sources.
- -	Understanding how digital technology can be used to spread knowledge. 
+  -	How to use a tool to create a digital map.
+  -	Understanding how archives deal differently with access to historical sources.
+  -	Understanding how digital technology can be used to spread knowledge. 
 ---
 
 The list of universities and research institutes that received a copy of Boder’s transcripts shows the places he considered to be important centres of knowledge that could benefit from his work. At present Boder’s legacy is concentrated in a limited number of institutes, mostly within the United States. 
