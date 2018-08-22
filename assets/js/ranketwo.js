@@ -105,7 +105,7 @@
     }
 
     this.refAuthorTitleYear = function(doc) {
-      return '(' + [doc.data.author, '<em>' + doc.title.replace(/[]\s,]$/, '') + '</em>', doc.data.year]
+      return '(' + [doc.data.author, '<em>' + doc.title.replace(/[\s,]$/, '') + '</em>', doc.data.year]
         .filter(function(d) {
           return typeof d !== 'undefined';
         })
