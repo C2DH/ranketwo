@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-{% assign components = site.units| where: "parent", page.unit_id | sort: 'type'  %}
+{% assign components = site.units| where: "parent", page.unit_id | where: "lang", page.lang | sort: 'type'  %}
 {% assign clips = components | where: "type", "clip" %}
 {% assign quizzes = components | where: "type", "quiz" %}
 {% assign interactives = components | where: "type", "interactive" %}
 {% assign videolectures = components | where: "type", "videolecture" %}
 
 {% assign introductions = components | where: "type", "introduction" %}
-{% assign assignments = site.assignments| where: "unit", page.unit_id | sort: 'order'  %}
+{% assign assignments = site.assignments| where: "unit", page.unit_id | where: "lang", page.lang | sort: 'order'  %}
 
 {% unless documents %}
   {% assign documents = site.empty_array %}
@@ -110,7 +110,7 @@ layout: default
       </div>
       <div class='col-sm-4'>
         <div class="pl-4 mt-4">
-          <a class='btn btn-primary' href="{{assignment.url | relative_url}}">{%assign key='permalink'%}{% include t.html %}</a>
+          <!-- <a class='btn btn-primary' href="{{assignment.url | relative_url}}">{%assign key='permalink'%}{% include t.html %}</a> -->
           <a class='btn btn-primary' href="{{assignment.url | relative_url}}">download PDF</a>
         </div>
         <hr>
