@@ -1,7 +1,7 @@
 ---
 layout: page
-lang: fr
-permalink: /fr/introduction/
+lang: de
+permalink: /de/introduction/
 link: /introduction/
 title: What the platform is about
 documents:

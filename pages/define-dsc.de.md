@@ -1,7 +1,7 @@
 ---
 layout: page
-lang: fr
-permalink: /fr/define-dsc/
+lang: de
+permalink: /de/define-dsc/
 link: /define-dsc/
 title: Defining Digital Source Criticism
 ---

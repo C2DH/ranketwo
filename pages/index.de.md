@@ -1,7 +1,7 @@
 ---
 layout: index
-lang: en
-permalink: /
+lang: fr
+permalink: /de/
 link: /
 title: A series of lessons on Digital Source Criticism
 videos:
@@ -28,7 +28,7 @@ sentences:
   - Ranke.2 teaches how to critically assess digital historical sources
   - Ranke.2 explains how analogue sources are transformed into digital representations
   - Each lesson covers a specific type of data
-
 ---
 
+bonjour!
 <!-- more -->
