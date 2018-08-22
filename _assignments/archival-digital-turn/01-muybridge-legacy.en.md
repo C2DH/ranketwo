@@ -49,14 +49,12 @@ Here is an additional question:
 
 Muybridge has been coined as the father of the *GIF*, a very recent development related to digital technology. This comparison points to how existing principles are adapted and re-used in new forms and brings into question whether we can speak about an original work of art or innovation. The same applies of course with regard to historical sources.  
 
--  Watch this clip created by video activist kirby ferguson about how creation is based on re-use of older material: [Everything is a re-mix](https://vimeo.com/kirbyferguson/remix2015)
+-  Watch this clip created by video activist Kirby Ferguson about how creation is based on the re-use of older material: [Everything is a re-mix](https://vimeo.com/kirbyferguson/remix2015)
 - Find out what [the origin of a GIF](https://en.wikipedia.org/wiki/GIF) is  
-- Below you will find a list of artists/photographers that have been inspired by Muybridge
-- Open the links and document the table in your template
+- Below you will find a list of artists/photographers that have been inspired by Muybridge. Open the links to collect information for your table in the template. 
 - What kind of organisation/artist/scholar re-used aspects of Muybridge’s work/life/art?
-- In which context?
-- At which time?  
-- What is the element that has been the source of inspiration and has been reused?  
+- In which context? List the objective, the time frame and the location
+- What is the element from Muybridge's work that has been the source of inspiration and has been reused?  
 
 [A composition for Dancers and Musicians](https://vimeo.com/209180993)  
 
@@ -73,14 +71,13 @@ Muybridge has been coined as the father of the *GIF*, a very recent development 
 [A multidisciplinary performance](https://youtu.be/t1AWij9twWc)
 
 [An opera](https://en.wikipedia.org/wiki/The_Photographer)
-<!-- section -->
 
+<!-- section -->
 ### 1c. A new life on the web
 <!-- section-contents -->
 All the content that can be viewed through the links that are provided in assignment 1b has been published on the web at some point with a particular reason. Try to complete the template for your assignments with details on who published the content, with what purpose and with what means.
 
 Add instruction on how to deconstruct the metadata of an online clip, to trace its origin and details on publication date
-
 <!-- section -->
 
 <!-- briefing-teacher -->
