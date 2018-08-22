@@ -136,6 +136,7 @@ Write a short abstract in your template of 150 words on what you have found on t
 ### Reading / viewing suggestions
 <!-- section-contents -->
 Shotr bala black
-[ref](kuhn-temoin-traduction)
+- [ref](kuhn-temoin-traduction)
+- You can also link with [cit](kuhn-temoin-traduction)
 
 <!-- briefing-teacher -->
