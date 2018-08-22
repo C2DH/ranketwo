@@ -13,7 +13,7 @@ Learning outcomes:
   - Learning how sound can be copied and reproduced from an analogue to a digital carrier
 ---
 
-Watch this short animation of 6,5 minutes about David Boder https://c2dh.github.io/ranketwo/u/boder/ (link to url) that forms the basis for a separate lesson on audiovisual sources. In the context of this lesson the focus of this assignment is on the transformation of his collection from interviews with Holocause survivors fixed on steel wires in 1946, to content that has been made accessible online through a public website. 
+Watch this short animation of 6,5 minutes about David Boder https://c2dh.github.io/ranketwo/u/boder/ (link to url) that forms the basis for a separate lesson on audiovisual sources. In the context of this lesson the focus of this assignment is on the transformation of his collection from interviews with Holocaust survivors fixed on steel wires in 1946, to content that has been made accessible online through a public website. 
 
 <!-- more -->
 
@@ -29,7 +29,7 @@ The dates in the template can help you with finding the right answer
 ### 3b. Restoration or replacement?
 <!-- section-contents -->
 
-- Read this short article by curator Ralph Hugh of the Illinois Institute of Technology, about how the process of publishing the collection online. What does he say about decisions that were taken with regard to the restoration of the sound? [Link to PDF] 
+- Read this short article by curator Ralph Hugh of the Illinois Institute of Technology, about the process of publishing the collection online. What does he say about decisions that were taken with regard to the restoration of the sound? [Link to PDF] 
 - Listen to this interview: [url of unaudible sound] - what would you have preferred, a better sound so that you may understand what is said, or the original sound with its own atmosphere? 
 - Document your answer in your template 
 
