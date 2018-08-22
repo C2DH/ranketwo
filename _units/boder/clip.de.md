@@ -1,7 +1,7 @@
 ---
 title: "David Boder's interview collection: from analogue to digital"
 type: clip
-lang: en
+lang: de
 parent: boder
 iframe: david-boder
 ---

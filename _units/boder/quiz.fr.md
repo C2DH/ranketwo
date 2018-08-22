@@ -1,6 +1,6 @@
 ---
 title: Animation in a Quiz mode
-lang: en
+lang: fr
 type: quiz
 parent: boder
 iframe: david-boder-playposit

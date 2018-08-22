@@ -8,9 +8,9 @@ tags:
   - communication technology
   - dissemination of knowledge
   - esthetic qualities
-lang: en
+lang: fr
 uni_id: manuscript
-link: /u/manuscript/
+link: /fr/u/manuscript/
 audience: general public, bachelor, master humanities
 components:
   small: animation + quiz

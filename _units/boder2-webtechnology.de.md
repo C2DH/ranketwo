@@ -9,7 +9,7 @@ tags:
 lang: fr
 unit_id: boder2-webtechnology
 link: /u/boder2-webtechnology/
-permalink: /u/boder2-webtechnology/
+permalink: /de/u/boder2-webtechnology/
 audience: general public, bachelor, master humanities
 components:
   small: animated video lecture  + quiz

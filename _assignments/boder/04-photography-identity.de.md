@@ -1,7 +1,7 @@
 ---
 layout: assignment
 unit: boder
-lang: en
+lang: de
 type: assignment
 title: Who are these people? Photography and identity
 order: 4

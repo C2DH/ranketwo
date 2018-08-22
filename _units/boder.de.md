@@ -6,10 +6,10 @@ tags:
   - history of communication technology
   - media studies
   - oral history
-lang: fr
+lang: de
 unit_id: boder
 link: /u/boder/
-permalink: /fr/u/boder/
+permalink: /de/u/boder/
 audience: general public, bachelor, master humanities
 components:
   small: animation + quiz
@@ -21,6 +21,6 @@ cover:
   url: https://i.vimeocdn.com/video/708218729.jpg?mw=960&mh=540&q=70
 ---
 
-Lesson on how the interview collection of psychologist David Boder with survivors of concentration camps created in 1946 has been turned into a website in 2000 and 2009.
+DE Lesson on how the interview collection of psychologist David Boder with survivors of concentration camps created in 1946 has been turned into a website in 2000 and 2009.
 
 <!-- more -->

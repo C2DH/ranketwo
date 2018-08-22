@@ -1,7 +1,7 @@
 ---
 layout: assignment
 unit: boder
-lang: en
+lang: fr
 type: assignment
 title: contributing to a timeline
 order: 1

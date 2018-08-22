@@ -6,12 +6,12 @@ tags:
   - holocaust studies
   - media studies
   - history of technology oral history
-lang: en
+lang: fr
 ---
 
 
 
-A lesson about how the collection of interviews with concentration camp survivors created by psychologist David Boder in 1946 was turned into an interactive website in 2009.
+[FR] A lesson about how the collection of interviews with concentration camp survivors created by psychologist David Boder in 1946 was turned into an interactive website in 2009.
 
 <!-- more -->
 
