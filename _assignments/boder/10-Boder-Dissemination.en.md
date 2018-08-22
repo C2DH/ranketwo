@@ -11,18 +11,13 @@ outcomes:
   -	Understanding how archives deal differently with access to historical sources.
   -	Understanding how digital technology can be used to spread knowledge. 
 ---
-
 The list of universities and research institutes that received a copy of Boder’s transcripts shows the places he considered to be important centres of knowledge that could benefit from his work. At present Boder’s legacy is concentrated in a limited number of institutes, mostly within the United States. 
 This assignment is designed to juxtapose Boder’s efforts to spread his work with the current geographical spread of institutes that preserve part of his legacy.
 You will be asked to create a map and mark the places with institutes that hold parts of his legacy. In addition you will conduct research on how digital communication technologies are used to create online access to Boder’s work.
 
-
-
-
 <!-- more -->
 
 <!-- briefing-student -->
-
 
 Go to the credits page of the interactive animation. 
 Make a list of the institutes that have provided material for this interactive animation  
