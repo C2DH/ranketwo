@@ -2,7 +2,7 @@
 layout: assignment
 unit: boder
 type: assignment
-title: "Where and how can Boder’s work be consulted?"
+title: Where and how can Boder’s work be consulted?
 cover: /assets/images/attachments/12boxes/12boxes_11.png
 order: 10
 lang: en
