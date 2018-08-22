@@ -14,13 +14,9 @@ tags:
   - privacy
   - oral history
   - qualitative data
-
 outcomes:
   - Understanding how the method used to collect data has an impact on its informative value for future researchers.
   - Understanding the limitations and benefits of online access to databases with personal narratives.
-
-
-
 ---
 When reflecting on the value and meaning of a source that has been published on the web, it is important to take the context of its creation into consideration. Turning everything into searchable digital data raises the risk of disregarding the different methods and approaches used by researchers when they created the data. This assignment is designed to highlight the differences between the accounts of Holocaust survivors that were summarised in written reports and those recorded on a device by Boder. They are both accessible online, but what is the difference? What can you do with this material that was not possible when it was kept in an archive? 
  
@@ -45,8 +41,8 @@ Apply source criticism to both the Hungarian testimonies and Boder’s interview
 -	Try to do the same with http://voices.iit.edu/voices_project. 
 -	What strikes you when assessing the search results? 
 -	Note the answers in your template.
-<!--section -->
 
+<!--section -->
 ### 3c A second exploration of the archives: how key characters are represented
 <!-- section-contents -->
 - Compare how a respondent describes the selection process for the gas chambers and the role of SS physician Mengele in protocol http://degob.org/index.php?showjk=131 with how this is done in Boder’s interview with Jola Gross (http://voices.iit.edu/interview?doc=grossJ&display=g).
