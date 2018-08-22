@@ -51,68 +51,66 @@ If you need more guidance, then follow the step by step instructions provided in
 <!-- section-contents -->
 -      The chronological sequence of dates needs to be complemented with information.
 
-Choose two dates to create an entry.
-For more background information on Boder besides what is provided in the black box, you can click on  ‘links’, the last section of Boder’s biography, and consult the following resources:
+Choose two dates to create entries.
+For more background information on Boder besides what is provided in the black box, go to the box "links", the last section of Boder’s biography, and consult the following resources:
 
 - Voices of the Holocaust
 - Clip 5 min History.
 
 - Open your template and go to the table for assignment 1a
-- Write 2 entries of max 100 words in the appropiate field.
-- Look for an appropriate image on the web and copy the links to these images in the same field
-Now cut and paste the entries and the links to the photos and place them in the timeline (if it is not clear how to proceed, read the tutorial)
-Remember to regularly save your entries in your answer template, as well as in the online timeline!
+- Write two entries of max 100 words in the appropiate field.
+- Look for an appropriate images on the web and copy the links to these images into the same table
+- Now cut and paste the entries and the links to the photos and place them in the timeline, following the instructions in the tutorial provided.
+Remember to regularly save your entries. 
 
 
 
 
 
 <!-- section -->
-### b. Create two new entries with text and images in the timeline
+### b. Create entries under two of the dates in the timeline
 <!-- section-contents -->
 These can be subjects related to Boder’s life, such as:
 When and  where did Boder study?
 When was the wire recorder invented?
-When were the American Newsreels about the camps shown to the American audience?
+When were the American newsreels about the camps shown to an American audience?
 Document your findings in the appropiate field in the template
 
 <!-- section -->
 ### c. Create a new account and a new timeline
 <!-- section-contents -->
-Follow the instructions that are provided in the Tutorial
+Follow the instructions supplied in the tutorial.
 
-Put together at least 4 entries on a timeline about a topic  that is related either to Boder’s course of life, or to other early accounts on experiences in concentration camps.  You could consider:
+Create at least four entries on a timeline about a topic related either to Boder’s life or to early accounts on experiences in concentration camps.  You could consider:
 
-Politics and societal developments:    Think of the political situation of the countries in which Bode lived or travelled to: Latvia, Russia, Siberia, Japan, Mexico, United States, Europe.
+Politics and societal developments:    Think of the political situation in countries that Boder lived in or travelled to: Latvia, Russia, Siberia, Japan, Mexico, United States, Europe.
 
-Technology :     Think of  inventions with regard to recording or communication technology.
+Technology : Think of  inventions with regard to recording or communication technology.
 
-The History of Psychology :  Think of the developments in this science and the creation of the American National Mental Health Institution.
+The History of psychology : Think of the developments in this science and the creation of the US National Mental Health Association.
 
-The history of  interview collections:  Who introduced creating collections of recordings of people’s experiences ?
+The history of interview collections:  Who introduced the idea of creating collections of recordings of people’s experiences ?
 
-A chronological list of audio and film recordings with testimonies of experiences in concentration camps: Think of war trials, television, radio, the web
+A chronological list of audio and film recordings with accounts of experiences in concentration camps: Think of war trials, television, radio, the web
 
-Remember to regularly save your entries in your answer template, as well as in the online timeline!
+Remember to first document your research in your template, then paste it into the online timeline. This way you will always have the basis of your content on your own computer as a backup. 
+Also remember to regularly save your entries in your answer template, as well as in the online timeline!
 
 <!-- section -->
 ### d. Copyright Law and the web
 <!-- section-contents -->
-For assignment 1b and 1c  you have to take into account the legal
-principles that exist with regard to the reuse of images on the web.
+For assignments 1b and 1c  you must take into account the existing legal
+framework governing the reuse of images on the web.
 Infringement of copyright can lead to high fines. The best way to
-protect yourself is to either use copyright free material, or to make sure
+protect yourself is to either to use copyright free material, or to make sure
 the web-environment is not public, by working in a password protected
 environment.
 Check which of the images that you have used for your timeline are
 open source and which ones can used w only be used with permission.
 Where can you find this information if you search on the web?
 
-Write a short abstract in your template of 150 words on what you have found on the web, and what you can do with it.
+Write a short abstract 150-words abatract in your template of 150 words on what you have found on the web, and what you can do with it.
 
-
-
-(what should be shown in a parallel box is this)
 
 
 1. For an overview about handling copyright click here: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/481194/c-notice-201401.pdf
@@ -132,7 +130,7 @@ Write a short abstract in your template of 150 words on what you have found on t
       https://www.europeana.eu/portal/en
       https://pixabay.com
 
-5. you can also set your settings in Google on free images:
+5. you can also configure your settings in Google to show only free images:
     http://images.google.com/advanced_image_search?hl=en
 
 <!-- section -->
