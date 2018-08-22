@@ -22,9 +22,7 @@ documents:
   - kuhn-temoin-traduction
 ---
 
-
-
-In the animation about David Boder's interview collection the focus is mostly on the creation and transformation from analogue source to online web resource. But the historical context also deserves some attention. Boder’s expertise and mindset were also the result of what he encountered during his life in terms of personal drawbacks, technological innovation, scientific progress and political conflict. This assignment introduces you to a digital tool with which you can create a timeline that can be populated and shared. The purpose is to make you aware of the historical context in which Boder’s historical sources were created by conducting critical web research.
+In the animation you watched the focus is mostly on the creation and transformation of David Boder’s collection from analogue source to online web resource. But the historical context also deserves some attention. Boder’s expertise and mindset were shaped by what he encountered during his life in terms of personal drawbacks, technological innovation, scientific progress and political conflict. This assignment introduces you to a digital tool with which you can create a timeline that can be populated and shared. The idea is to make you aware of the historical context in which Boder’s historical sources were created. You will be conducting critical web research and contributing to a digital timeline.
 
 <!-- more -->
 
@@ -37,16 +35,18 @@ In the animation about David Boder's interview collection the focus is mostly on
   https://allthingsmoving.com/DBinteractive/#Index
   {: .headsup}
 - Go to the timeline [application Tiki-Toki](https://www.tiki-toki.com/)
-- Complete the credentials of the account that has been created for this assignment
+- Fill in the login details of the account that has been created for this assignment
 
     Username: **Assignment1TikiToki**
     Password: **davidboder**
 
-You will see a timeline with only dates that relate to David Boder’s life.
+You will see a timeline with dates that relate to David Boder’s life.
 This is the basis to complete the assignments below.
 If you need more guidance, then follow the step by step instructions provided in [this tutorial](https://docs.google.com/document/d/1T3tyqnxxN9C1XT1SFvQ8PF6axZRX_EitGElhcuZ7g9c/edit?usp=sharing/)
 
 <!-- section -->
+
+
 ### a. Create an entry in one of the dates in the timeline
 <!-- section-contents -->
 -      The chronological sequence of dates needs to be complemented with information.
@@ -62,6 +62,9 @@ For more background information on Boder besides what is provided in the black b
 - Look for an appropriate image on the web and copy the links to these images in the same field
 Now cut and paste the entries and the links to the photos and place them in the timeline (if it is not clear how to proceed, read the tutorial)
 Remember to regularly save your entries in your answer template, as well as in the online timeline!
+
+
+
 
 
 <!-- section -->
@@ -139,3 +142,7 @@ Shotr bala black
 [ref](kuhn-temoin-traduction)
 
 <!-- briefing-teacher -->
+
+
+
+
