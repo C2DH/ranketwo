@@ -30,7 +30,7 @@ First get some insights about how search engines work:
 - List the  first 10 results using the table in the template
 - How would you characterize the various organisations/institutions that have published information about EM online?
 - What is their interest? Use the key words that are indicated in your template.
-- Do they have original material of Muybridge in their premises, or analogue or digital copies?
+- For the first three search results of both search engines, try to find out whether they are linked to an organisation that has either original material, or  analogue or digital copies of Muybridge's work. 
 
 <!-- section -->
 ### 2b. Change your settings
@@ -38,7 +38,7 @@ First get some insights about how search engines work:
 
 - What you can find on the web is also determined by the settings of your search engine. If you change them to another language you might get different results.
 - Consult [this instruction](https://docs.google.com/document/d/1ViUm0C3Ov1w5ut1O7uY0FoOyaQxw82hvTfkfN3ZfqeA/edit)  on how to change the settings of your search engine 
-- Try to set the engine to French, German, Italian or Spanish, conduct the same search
+- Try to set the engine to the language that you master best, conduct the same search in Google or Yahoo, 
 - Are there any search results that you would have missed by only searching in English?
 
 
