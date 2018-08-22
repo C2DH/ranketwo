@@ -7,48 +7,46 @@ cover: /assets/images/attachments/12boxes/12boxes_08.png
 order: 8
 lang: en
 tags: methods of research, data collection, interview protocols, digital archives, privacy, oral history, qualitative data
-requirements:  strong WIFI, access to Ranke.2, computer or laptop, application on laptop or computer to view video, account for timeline,
+requirements:  strong WiFi, access to Ranke.2, computer or laptop, application on laptop or computer to view video, account for timeline,
 learning outcomes:
-  - understanding the interplay between the conventions of a method for collecting data
-  - the convention of the medium through which this data is shared and spread and the appearance of its representation
+  - Understanding the interplay between the conventions of a method for collecting data, the convention of the medium through which this data is shared,and the appearance of its representation.
 
 ---
-
-
-Boder reworked his basic sources, the transcripts of his interviews, to be published in his first book. In the interactive animation you can see a PDF version of part of his book. But a lot of changes occured between the recording and the way the result was pulbished in the book. This assignment shows how one source, an audio recording,  can be  represented in different forms, depending on the specific  conventions of a medium. You are going to compare the same interview, as it was published in his book in 1948, with its digital online representation that was created in 2009.
-
-Open the box  ‘A look into Boder’s first publication’
-https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
+Boder reworked his basic sources, the transcripts of his interviews, to be published in his first book. In the interactive version you can see a PDF of part of his book. When consulting a book consisting of a textual representation of a spoken interview that has been translated from German to English, one should be conscious of the alterations that occur.
+The purpose of this assignment is to show how one source, an audio recording, can be represented in different forms depending on the specific conventions of the medium. You are going to compare the same interview as it was published in the book in 1948 with its digital online representation created in 2009.
 
 <!-- more -->
 
 <!-- briefing-student -->
+Open the box  ‘A look into Boder’s first publication’
+https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
 
 
 
 ### 8a  Comparing a printed anonymous transcript to its digital version online
 <!-- section-contents -->
-- Read the interview with Jorn Gastfreund (alias for Jurgen Bassfreund) with the short introduction by David Boder. it is 27 pages. This is a digital scan of his printed book.
-- Now go to the website Voices of the Holocaust  and use CHROME as your browser. It will allow you to accept Flashplayer so that you can listen to the sound. The webaddress looks like this:
+8a Comparing an anonymous printed transcript to its online digital version
+-	Read the interview with Jorn Gastfreund (alias Jurgen Bassfreund) with the short introduction by David Boder. It is 27 pages long. This is a digital scan of his printed book.
+-	Now go to the Voices of the Holocaust website (use Chrome as your browser – it will allow you to accept Flash Player so that you can listen to the sound). 
+-	The URL looks like this: 
 
-  printscreen            
+print screen            
 
-click on the small icon with an i  to set the settings of your browser. Allow  flash player and pop up by ticking the boxes.
-Then click on this  link:
-http://voices.iit.edu/interviewee?doc=bassfreundJ
-First read the ‘Commentary’ . Then click on ‘English translation’.
-Read the text until the sentence:
+-	click on the small “i” icon to configure your browser settings. Allow Flash Player and pop ups by ticking the boxes. 
+-	Then click on this link: 
+http://voices.iit.edu/interviewee?doc=bassfreundJ 
+-	First read the “Commentary”. Then click on “English translation”.
+-	Read the text up to the sentence:
 
-printscreen
-
-Your assignments consists of completing  the table in your template in which you can mark the differences between the various versions of the interview.
-- First compare the transcript in the book with the digital version of the transcript online until the sentence above..
-- Mark the differences in the first two columns of the table in your template
+“I worked at that time on the railroad and the Hitler guard packed us into a truck and we were all driven to a distribution camp”
+ 
+-	The first part of your assignment is to complete the table in your template by noting any differences between the various versions of the interview.
+-	First compare the transcript in the book with the digital version of the transcript online up to the sentence above.
+-	Mark the differences in the first two columns of the table in your template. 
 
 
 <!-- section -->
 ### 8b Comparing reading to listening
-
 <!-- section-contents -->
 - Now listen to the first 5.46 minutes of the interview in German that corresponds to the text.
 - Mark the differences between what you hear and what you have read in the third column of your table.
@@ -57,8 +55,8 @@ Your assignments consists of completing  the table in your template in which you
 <!-- section -->
 ### 8c Reflecting on your experiences
 <!-- section-contents -->
-- Read about how Boder’s handles the issue of language in Beate Muller’s article on Boder’s translations.
-- Write a short essay of about 750 words describing your explorations, and the differences you observed  between reading a scan from a book published in 1948, reading a transcript in digital format published online, and listening to the audio or the inwith listening versus reading.
+- Read about how Boder’s handled the issue of language in Beate Muller’s article on Boder’s translations.
+- Write a short essay of about 750 words describing your explorations, and the differences you observed  between reading a scan from a book published in 1948, reading a transcript in digital format published online, and listening to the audio version. Use the template to note your findings about the different experiences.
 
 
 <!-- briefing-teacher -->
