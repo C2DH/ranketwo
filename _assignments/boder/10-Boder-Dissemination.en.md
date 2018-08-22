@@ -2,24 +2,20 @@
 layout: assignment
 unit: boder
 type: assignment
-title: Where and how can Boder’s work be consluted?
+title: Where and how can Boder’s work be consulted?
 cover: /assets/images/attachments/12boxes/12boxes_11.png
 order: 10
 lang: en
+learning outcomes: 
+-	How to use a tool to create a digital map.
+-	Understanding how archives deal differently with access to historical sources.
+-	Understanding how digital technology can be used to spread knowledge. 
 ---
 
- The list of universities and research institutes that received a 
- copy of Boder’s transcripts  shows what he considered      
- important centres of  knowledge that could benefit from his 
- work. At present Boder’s legacy is concentrated in a limited 
- number of institutes, mostly within the United States. 
- This assignment is meant to juxtapose Boder’s efforts to spread 
- his work, with  the present geographical spread of institutes that 
- preserve part of his legacy.
- You will be asked to create a map and mark the places where 
- institutes hold  parts of his legacy. In addition you will conduct 
- research on how digital  communication technologies are used to 
- create online access to  Boder’s work.
+The list of universities and research institutes that received a copy of Boder’s transcripts shows the places he considered to be important centres of knowledge that could benefit from his work. At present Boder’s legacy is concentrated in a limited number of institutes, mostly within the United States. 
+This assignment is designed to juxtapose Boder’s efforts to spread his work with the current geographical spread of institutes that preserve part of his legacy.
+You will be asked to create a map and mark the places with institutes that hold parts of his legacy. In addition you will conduct research on how digital communication technologies are used to create online access to Boder’s work.
+
 
 
 
@@ -28,18 +24,18 @@ lang: en
 <!-- briefing-student -->
 
 
-Go to the credits page of the interactive animation 
-make a list of the institutes that have provided material for this interactive animation  
+Go to the credits page of the interactive animation. 
+Make a list of the institutes that have provided material for this interactive animation  
 https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
 
 <!--section --> 
 ###10a Mapping Boder’s legacy 1. : where can his original work be found?
 
-Create a project on the webresource HistoryPin:https://www.historypin.org/en/  
+Create a project on the [HistoryPin](https://www.historypin.org/en/)website 
 Follow the instructions on this video: https://youtu.be/VKWBDMLhjSk 
 Look up the coordinates of the places that you have listed
 Add all these places to your map, 
-Include a short description of which part of Boder’s legacy can be found in each institute. Bare in mind that Boder created other projects besides the Holocaust interviews!
+Include a short description of which part of Boder’s legacy can be found in each institute. Bear in mind that Boder created other projects besides the Holocaust interviews!
 Use the template to document your findings 
 
  
