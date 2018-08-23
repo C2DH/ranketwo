@@ -25,7 +25,7 @@ When reflecting on the value and meaning of a source that has been published on 
 <!-- briefing-student -->
 ### Instruction
 <!-- section-contents -->
--	Open the box Early accounts on the Holocaust and read the various sections (https://allthingsmoving.com/DB_interactiv).
+-	Open the box ["Early accounts on the Holocaust"](https://allthingsmoving.com/DB_interactiv) and read the various sections .
 
 <!-- section -->
 ### 3.a Source criticism
@@ -37,15 +37,15 @@ Apply source criticism to both the Hungarian testimonies and Boder’s interview
 <!-- section -->
 ### 3.b  A first exploration of the archives: how verbs are used
 <!-- section-contents -->
--	Go to the website with the collection of protocols collected by the Hungarian National Commission for Deportees (http://degob.org/). 
+-	Go to the website with the collection of protocols collected by the [Hungarian National Commission for Deportees](http://degob.org/) 
 -	Search with the keyword “help” to get an idea of how to search in interview summaries. 
 -	If you go through the first five hits by using Ctrl + F, you can trace how the term “help” has different positive and negative meanings in the reports. 
--	Try to do the same with http://voices.iit.edu/voices_project. 
+-	Try to do the same with [Voices of the Holocaust](http://voices.iit.edu/voices_project) 
 -	What strikes you when assessing the search results? 
 -	Note the answers in your template.
 
 <!-- section -->
-### 3.c A second exploration of the archives: how key characters are represented
+### 3.c  A second exploration of the archives: how key characters are represented
 <!-- section-contents -->
 - Compare how a respondent describes the selection process for the gas chambers and the role of SS physician Mengele in protocol http://degob.org/index.php?showjk=131 with how this is done in Boder’s interview with Jola Gross (http://voices.iit.edu/interview?doc=grossJ&display=g).
 
@@ -53,7 +53,7 @@ Apply source criticism to both the Hungarian testimonies and Boder’s interview
 - Note the answer in your template.
 
 <!-- section -->
-### 3.d     A third exploration of the archives: the identity of the speaker
+### 3.d    A third exploration of the archives: the identity of the speaker
 <!-- section-contents -->
 
 -	Compare the protocol of a 15-year-old girl in http://degob.org/ (select Female and date of birth 1931 in the search environment) with listening to Boder’s interview with 15-year-old Edith Zierer. 
@@ -63,6 +63,7 @@ Apply source criticism to both the Hungarian testimonies and Boder’s interview
 * If you want to listen to Edith Zierer, you have to open the Chrome browser. Click on the small “i” icon and allow Flash Player and pop-ups. Bear in mind that the interview takes a long time to load, so you might want to carry on with another assignment in the meantime. 
 
 <!-- briefing-teacher -->
-
 ### Reading/viewing  suggestions:
+<!-- section-contents -->
 See [Collect and record](https://global.oup.com/academic/product/collect-and-record-97801997645%2056?cc=nl&lang=en&), Laura Jockusch
+
