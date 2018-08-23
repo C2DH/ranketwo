@@ -19,7 +19,7 @@ Because this lesson is about source criticism, we have tried to trace the contex
 <!-- more -->
 
 <!-- briefing-student -->
-### briefing
+### instruction
 <!-- section-contents -->
 First open the box  Who are these liberated prisoners, at https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro and read the text.
 Then open the box  "Who are the people in these photos?" and read the text
