@@ -27,14 +27,14 @@ When reflecting on the value and meaning of a source that has been published on 
 <!-- section-contents -->
 -	Open the box Early accounts on the Holocaust and read the various sections (https://allthingsmoving.com/DB_interactiv).
 
-<!--section -->
+<!-- section -->
 ### 3a Source criticism
 <!-- section-contents -->
 Go to the tab  On DEGOB and click on The Protocols. Read the text on the methodology that was applied.
 Go to the Voices of the Holocaust website, and open the tab About the Project, then read the first three sub-tabs: David Boder, Voices Project, Project Notes.
 Apply source criticism to both the Hungarian testimonies and Boder’s interviews by completing the table in your template
 
-<!--section -->
+<!-- section -->
 ### 3b  A first exploration of the archives: how verbs are used
 <!-- section-contents -->
 -	Go to the website with the collection of protocols collected by the Hungarian National Commission for Deportees (http://degob.org/). 
@@ -44,7 +44,7 @@ Apply source criticism to both the Hungarian testimonies and Boder’s interview
 -	What strikes you when assessing the search results? 
 -	Note the answers in your template.
 
-<!--section -->
+<!-- section -->
 ### 3c A second exploration of the archives: how key characters are represented
 <!-- section-contents -->
 - Compare how a respondent describes the selection process for the gas chambers and the role of SS physician Mengele in protocol http://degob.org/index.php?showjk=131 with how this is done in Boder’s interview with Jola Gross (http://voices.iit.edu/interview?doc=grossJ&display=g).
@@ -52,7 +52,7 @@ Apply source criticism to both the Hungarian testimonies and Boder’s interview
 - What strikes you as different between the summarised interview and the literal transcript of the interview? 
 - Note the answer in your template.
 
-<!--section -->
+<!-- section -->
 ### 3d     A third exploration of the archives: the identity of the speaker
 <!-- section-contents -->
 
