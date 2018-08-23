@@ -62,8 +62,10 @@ Apply source criticism to both the Hungarian testimonies and Boder’s interview
               
 * If you want to listen to Edith Zierer, you have to open the Chrome browser. Click on the small “i” icon and allow Flash Player and pop-ups. Bear in mind that the interview takes a long time to load, so you might want to carry on with another assignment in the meantime. 
 
-<!-- briefing-teacher -->
+<!-- section -->
 ### Reading/viewing  suggestions:
 <!-- section-contents -->
 See [Collect and record](https://global.oup.com/academic/product/collect-and-record-97801997645%2056?cc=nl&lang=en&), Laura Jockusch
+
+<!-- briefing-teacher -->
 
