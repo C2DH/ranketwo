@@ -19,7 +19,7 @@ Because this lesson is about source criticism, we have tried to trace the contex
 <!-- more -->
 
 <!-- briefing-student -->
-### instruction
+### Instruction
 <!-- section-contents -->
 First open the box  Who are these liberated prisoners, at https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro and read the text.
 Then open the box  "Who are the people in these photos?" and read the text
@@ -27,8 +27,8 @@ Then open the box  "Who are the people in these photos?" and read the text
 {: .headsup}
 
 
-<!--section -->
-### 4a Online content, who is behind it?
+<!-- section -->
+### 4.a  Online content, who is behind it?
 <!-- section-contents -->
 
 -	Try to find more background information about these photographs through additional web research. 
@@ -40,8 +40,8 @@ Then open the box  "Who are the people in these photos?" and read the text
 -	How was the photo integrated into the animation? 
 -	Note your findings in your template. 
 
-<!--section -->
-### 4b Photos online used in the right historical context
+<!-- section -->
+### 4.b  Photos online used in the right historical context
 <!-- section-contents -->
 Compare the photo of the liberated prisoners in this interactive context with how it is used in:
 
@@ -53,9 +53,6 @@ Compare the photo of the liberated prisoners in this interactive context with ho
 
 What can you say about the photos of the families?
 Note your findings in your template.  
-
-
-
 
 <!-- briefing-teacher -->
 
