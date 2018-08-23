@@ -19,11 +19,13 @@ how this news spread, and how it was represented by the international press.
 <!-- more -->
 
 <!-- briefing-student -->
-
+### Instruction
+<!-- section-contents -->
 Go to  https://allthingsmoving.com/DB_interactive_2018_07_07/ and read the content in the box about former president Ahmadinejad 
 
 <!--section --> 
 ### 11a Perspectives on Holocaust denials 
+<!-- section-contents -->
 
 Read the text about Holocaust deniers on the website of the US Holocaust Memorial: https://www.ushmm.org/wlc/en/article.php?ModuleId=10007272 
 Go through the timeline of Holocaust deniers on the same website:     
@@ -37,6 +39,7 @@ Document your findings in your template.
 
 <!--section --> 
 ### 11b Placing the statement in a broader context 
+<!-- section-contents -->
 
 Consider the  two cases of denial before his statements in December 2005, and the impact in international politics 
 of the event that was held in Iran in 2006. 
@@ -49,6 +52,7 @@ Add it to your template
 
 <!--section --> 
 ### 11c  The event held in Iran in 2006 in the international press
+<!-- section-contents -->
 
 Who created the timeline and text about Holocaust denial? 
 Who created the wiki? 
