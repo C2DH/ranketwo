@@ -113,15 +113,15 @@ Write a short abstract 150-words abatract in your template of 150 words on what 
 
 
 
-1. For an overview about handling copyright click here: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/481194/c-notice-201401.pdf
+1. See [this document](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/481194/c-notice-201401.pdf) For an overview about handling copyright in the United Kingdomn  
 
-2. For a video clip on the principles of Creative Commons click here: https://youtu.be/1DKm96Ftfko
+2. See [this video clip](https://youtu.be/1DKm96Ftfko) on the principles of Creative Commons.
 
-   for French click here
+3. See this overview on copyright in French (to add document Cecile)
 
-3.  For a clip about the origin and history of copyright click here: https://vimeo.com/36881035
+4. See [this clip]( https://vimeo.com/36881035) about the origin and history of copyright 
 
-4..  For  websites that offer images free of copyright click on one of the links below:
+5.  For  websites that offer images free of copyright click on one of the links below:
       https://ccsearch.creativecommons.org
       https://www.flickr.com/creativecommons/
       https://www.flickr.com/commons/usage/
