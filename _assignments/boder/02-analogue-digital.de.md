@@ -14,7 +14,6 @@ outcomes:
 
 ---
 
-
 One might wonder why students of a humanities discipline
 should learn about the obsolete technology of the wire recorder.
 The reason is that practising digital source criticism is more than reflecting
