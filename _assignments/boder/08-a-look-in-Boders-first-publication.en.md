@@ -18,12 +18,13 @@ The purpose of this assignment is to show how one source, an audio recording, ca
 <!-- more -->
 
 <!-- briefing-student -->
+### Instruction
+<!-- section-contents -->
 Open the box  ‘A look into Boder’s first publication’
 https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
 
-
-
-### 8a  Comparing a printed anonymous transcript to its digital version online
+<!-- section -->
+### 8.a  Comparing a printed anonymous transcript to its digital version online
 <!-- section-contents -->
 8a Comparing an anonymous printed transcript to its online digital version
 -	Read the interview with Jorn Gastfreund (alias Jurgen Bassfreund) with the short introduction by David Boder. It is 27 pages long. This is a digital scan of his printed book.
@@ -46,14 +47,14 @@ http://voices.iit.edu/interviewee?doc=bassfreundJ
 
 
 <!-- section -->
-### 8b Comparing reading to listening
+### 8.b  Comparing reading to listening
 <!-- section-contents -->
 - Now listen to the first 5.46 minutes of the interview in German that corresponds to the text.
 - Mark the differences between what you hear and what you have read in the third column of your table.
 
 
 <!-- section -->
-### 8c Reflecting on your experiences
+### 8.c  Reflecting on your experiences
 <!-- section-contents -->
 - Read about how Boder’s handled the issue of language in Beate Muller’s article on Boder’s translations.
 - Write a short essay of about 750 words describing your explorations, and the differences you observed  between reading a scan from a book published in 1948, reading a transcript in digital format published online, and listening to the audio version. Use the template to note your findings about the different experiences.
