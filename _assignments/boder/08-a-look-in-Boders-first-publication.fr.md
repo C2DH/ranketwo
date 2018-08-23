@@ -17,15 +17,17 @@ learning outcomes:
 
 Boder reworked his basic sources, the transcripts of his interviews, to be published in his first book. In the interactive animation you can see a PDF version of part of his book. But a lot of changes occured between the recording and the way the result was pulbished in the book. This assignment shows how one source, an audio recording,  can be  represented in different forms, depending on the specific  conventions of a medium. You are going to compare the same interview, as it was published in his book in 1948, with its digital online representation that was created in 2009.
 
+
 Open the box  ‘A look into Boder’s first publication’
 https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
 
 <!-- more -->
 
 <!-- briefing-student -->
+### Instruction
+<!-- section-contents -->
 
-
-
+<!-- section -->
 ### 8a  Comparing a printed anonymous transcript to its digital version online
 <!-- section-contents -->
 - Read the interview with Jorn Gastfreund (alias for Jurgen Bassfreund) with the short introduction by David Boder. it is 27 pages. This is a digital scan of his printed book.
@@ -48,7 +50,6 @@ Your assignments consists of completing  the table in your template in which you
 
 <!-- section -->
 ### 8b Comparing reading to listening
-
 <!-- section-contents -->
 - Now listen to the first 5.46 minutes of the interview in German that corresponds to the text.
 - Mark the differences between what you hear and what you have read in the third column of your table.
