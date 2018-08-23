@@ -3,7 +3,7 @@ layout: assignment
 unit: boder
 lang: en
 type: assignment
-title:  The analogue wire recorder compared to digital audio recording
+title: The analogue wire recorder compared to digital audio recording
 cover: /assets/images/attachments/12boxes/12boxes_02.png
 order: 2
 tags: History of communication technology, obsolete recording devices
