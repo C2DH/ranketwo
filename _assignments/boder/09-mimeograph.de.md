@@ -29,7 +29,7 @@ https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
 
 
 
-### 9a Comparing reproduction technologies
+### 9.a  Comparing reproduction technologies
 <!-- section-contents -->
 
 Find out  how a micro card works by clicking on this link:
@@ -43,7 +43,7 @@ Complete the table with the comparison between
 - the digital computer  
 
 <!-- section -->
-### 9b What is an authentic source
+### 9.b  What is an authentic source
 <!-- section-contents -->
 Assess whether the result  of applying  these reproduction technologies can be considered as an authentic historical source?
 
