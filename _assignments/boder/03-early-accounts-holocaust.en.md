@@ -23,6 +23,8 @@ When reflecting on the value and meaning of a source that has been published on 
 <!-- more -->
 
 <!-- briefing-student -->
+### Instruction
+<!-- section-contents -->
 -	Open the box Early accounts on the Holocaust and read the various sections (https://allthingsmoving.com/DB_interactiv).
 
 <!--section -->
