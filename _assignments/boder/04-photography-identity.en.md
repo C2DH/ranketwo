@@ -54,9 +54,10 @@ Compare the photo of the liberated prisoners in this interactive context with ho
 What can you say about the photos of the families?
 Note your findings in your template.  
 
-<!-- briefing-teacher -->
-
-
+<!-- section -->
 ### Reading/viewing  suggestions:
+<!-- section-contents -->
 - [Photography and fictionality](https://drive.google.com/open?id=1NT4m-KnYk7yq5ZnubifAnW6TcJScGQkX), by Jens Schröter
 - [Regarding the pain of others, images of horror](https://books.google.nl/books/about/Regarding_the_Pain_of_Others.html?id=XYo3AAAAQBAJ&source=kp_cover&redir_esc=y), Susan Sontag
+
+<!-- briefing-teacher -->
