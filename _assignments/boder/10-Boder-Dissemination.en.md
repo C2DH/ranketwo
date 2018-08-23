@@ -18,15 +18,15 @@ You will be asked to create a map and mark the places with institutes that hold 
 <!-- more -->
 
 <!-- briefing-student -->
-# Instruction
+### Instruction
 <!-- section-contents -->
 
 Go to the credits page of the interactive animation. 
 Make a list of the institutes that have provided material for this interactive animation  
 https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
 
-<!--section --> 
-###10a Mapping Boder’s legacy 1. : where can his original work be found?
+<!-- section --> 
+### 10.a  Mapping Boder’s legacy 1. : where can his original work be found?
 <!-- section-contents -->
 
 Create a project on the [HistoryPin](https://www.historypin.org/en/)website 
@@ -42,16 +42,16 @@ Add all these places to your map,
 Include a short description of which part of Boder’s legacy can be found in each institute. Bare in mind that Boder created other projects besides the Holocaust interviews!
 Use the template 
 
-<!--section --> 
-###10b  Mapping Boder’s legacy 2. : who has published copies of his work online?    
+<!-- section --> 
+### 10.b  Mapping Boder’s legacy 2. : who has published copies of his work online?    
 <!-- section-contents -->
 
 Conduct a Google search with the name David Boder
 List additional institutes that offer access to his work, but do not have the original work in their archive
 Add them to your map
 
-<!--section --> 
-###10c  Mapping hyperlinks to Boder’s legacy
+<!-- section --> 
+### 10.c  Mapping hyperlinks to Boder’s legacy
 <!-- section-contents -->
 
 List websites that have included a link to one of the institutes where Boder’s work is archived. 
