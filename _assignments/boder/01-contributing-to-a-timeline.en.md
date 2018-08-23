@@ -47,7 +47,7 @@ If you need more guidance, then follow the step by step instructions provided in
 <!-- section -->
 
 
-### 1.a Create an entry in one of the dates in the timeline
+### 1.a  Create an entry in one of the dates in the timeline
 <!-- section-contents -->
 -      The chronological sequence of dates needs to be complemented with information.
 
@@ -68,7 +68,7 @@ Remember to regularly save your entries.
 
 
 <!-- section -->
-### 1.b Create entries under two of the dates in the timeline
+### 1.b  Create entries under two of the dates in the timeline
 <!-- section-contents -->
 These can be subjects related to Boder’s life, such as:
 When and  where did Boder study?
@@ -77,7 +77,7 @@ When were the American newsreels about the camps shown to an American audience?
 Document your findings in the appropiate field in the template
 
 <!-- section -->
-### 1.c Create a new account and a new timeline
+### 1.c  Create a new account and a new timeline
 <!-- section-contents -->
 Follow the instructions supplied in the tutorial.
 
@@ -97,7 +97,7 @@ Remember to first document your research in your template, then paste it into th
 Also remember to regularly save your entries in your answer template, as well as in the online timeline!
 
 <!-- section -->
-### 1.d Copyright Law and the web
+### 1.d  Copyright Law and the web
 <!-- section-contents -->
 For assignments 1b and 1c  you must take into account the existing legal
 framework governing the reuse of images on the web.
