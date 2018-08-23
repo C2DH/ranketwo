@@ -35,22 +35,13 @@
 
             switch (this.innerHTML) {
               case 'ref':
-                d3.select(this)
-                  .html(doc.data.reference)
-                  .attr('href', doc.url)
-                  .attr('target', '_blank');
+                var ref = _self.createRef(doc);
+                this.parentNode.insertBefore(ref.node(), this);
+                this.remove();
                 break;
               case 'cit':
                 d3.select(this)
-                  .html('(' + [doc.data.author, doc.data.year]
-                    .filter(function(d) {
-                      return typeof d !== 'undefined';
-                    })
-                    .map(function(d) {
-                      return ('' + d).replace(/\s*,\s*$/, '');
-                    })
-                    .join(', ') +
-                    ')')
+                  .html(_self.refAuthorTitleYear(doc))
                   .attr('href', doc.url)
                   .attr('target', '_blank');
                 break;
@@ -102,6 +93,41 @@
       // });
     }
 
+    this.refAuthorYear = function(doc) {
+      return '(' + [doc.data.author, doc.data.year]
+        .filter(function(d) {
+          return typeof d !== 'undefined';
+        })
+        .map(function(d) {
+          return ('' + d).replace(/\s*,\s*$/, '');
+        })
+        .join(', ') + ')';
+    }
+
+    this.refAuthorTitleYear = function(doc) {
+      return '(' + [doc.data.author, '<em>' + doc.title.replace(/[\s,]$/, '') + '</em>', doc.data.year]
+        .filter(function(d) {
+          return typeof d !== 'undefined';
+        })
+        .map(function(d) {
+          return ('' + d).replace(/\s*,\s*$/, '');
+        })
+        .join(', ') + ')';
+    }
+
+    this.createRef = function(doc) {
+      var ref = d3.select(document.createElement("div"));
+      if (doc.data && doc.data.reference) {
+        ref
+          .html(doc.data.reference + '<br>')
+          .append('a')
+            .html('&rarr;&nbsp;' + _self.refAuthorYear(doc))
+            .attr('href', doc.url)
+            .attr('target', '_blank');
+      }
+
+      return ref;
+    }
     this.createCard = function(doc) {
       var card = d3.select(document.createElement("div"))
 
