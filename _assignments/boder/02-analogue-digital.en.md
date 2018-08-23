@@ -9,7 +9,6 @@ order: 2
 tags: 
  - history of communication technology
  - obsolete recording devices
-requirements: strong WiFi, accesso to Ranke.2, computer or labtop, application on laptop or computer to view video, account for timeline,
 outcomes:
  - Learning about the physics of audio recording in analogue and digital form
  - Understanding how we depende on technology for the spread of knowledge
@@ -24,8 +23,8 @@ One might wonder why students of a humanities discipline should learn about the 
 ### Instruction
 <!-- section-contents -->
 -	Open the second box "How does the wire recorder work?" and watch [the animation] (https://allthingsmoving.com/DB_interactive_2018_07_07/).
-<!-- section -->
 
+<!-- section -->
 ### 2.a  Recordings and physics
 <!-- section-contents -->
 What are the three principles of physics that play a role in the transfer of information on  a steel wire?
