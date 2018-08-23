@@ -8,7 +8,6 @@ order: 12
 lang: en
 ---
 
-
 In 1946 fifteen years old Edith Zierer was
 interviewed by David Boder in Bellevue, an orphanage for
 displaced Jewish children near Paris. The
@@ -24,12 +23,15 @@ in 1946 to the one conducted in 2003.
 <!-- more -->
 
 <!-- briefing-student -->
+### Instruction
+<!-- section-contents -->
 
 Go to:
 https://allthingsmoving.com/DB_interactive_2018_07_07/ and read the boc about the snippet of text
 
 <!--section --> 
 ### 12a  A child of 15 compared to a women of 70
+<!-- section-contents -->
 
 What are the most striking differences between the interview in 1946 and the one in 2003?
 
@@ -50,8 +52,9 @@ If you don’t master Hebrew, download the English translation and
 
 <!--section --> 
 ### 12b What kind of technology was used to create  the original interview with Edith Zierer in 1946 and the original interview in 2003?
-How does this relate to the document that you are consulting online?
+<!-- section-contents -->
 
+How does this relate to the document that you are consulting online?
 
  *  If you want to listen to Edith Zierer, you have to work in a
  Chrome  Browser, click on the small icon with an i , and allow  
