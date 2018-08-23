@@ -13,7 +13,7 @@ requirements: strong WiFi, accesso to Ranke.2, computer or labtop, application o
 outcomes:
  - Learning about the physics of audio recording in analogue and digital form
  - Understanding how we depende on technology for the spread of knowledge
- documents:
+documents:
 ---
  
 One might wonder why students of a humanities discipline should learn about the obsolete technology of the wire recorder. The reason is to understand the difference between the physics of capturing sound in the analogue era and how this relates to the physics of digital technology. Practising digital source criticism is about more than just reflecting on the informational value of a historical source. It also means considering the transmitter of information and its material qualities. With digital information technology now so pervasive in our everyday life, it is important to understand the underlying physical phenomena and to be able to reflect on how the shift from analogue to digital has affected our use of technology. 
