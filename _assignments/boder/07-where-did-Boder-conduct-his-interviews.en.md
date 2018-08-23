@@ -20,14 +20,15 @@ This assignment is designed to help you reflect on displacement camps as the fir
 <!-- more -->
 
 <!-- briefing-student -->
-
+### Instruction
+<!-- section-contents -->
 - Open the box ‘Where did Boder conduct his interviews’  and watch the clip about the displacement camps
 https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
 
-
+<!-- section -->
 ### 7a  Envisioning a future life
-
 <!-- section-contents -->
+
 The mindsets of the survivors housed in displacement camps were clearly geared towards the future. But there is one reference to commemoration projects.
 -	Stop the clip when the poster is shown and take a print screen.
 -	As the text is in Hebrew, you are going to use Google’s image recognition technology to find more information about the poster. 
@@ -39,12 +40,12 @@ The mindsets of the survivors housed in displacement camps were clearly geared t
 - When did this happen? 
 - What financial resources were used?
 - what was the purpose? 
+
 <!-- section -->
 ### 7b  Documenting the recent past
 
 <!-- section-contents -->
 {: .headsup}
-
 
 -	Click on this link.
 -	Download the image, enlarge it and read what is written in the bottom left corner. 
