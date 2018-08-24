@@ -43,9 +43,8 @@ Try to reconstruct the steps in the creation of the song,  its dissemination and
 Note your findings in your template   
 
 <!-- section -->
-Reading/viewing  suggestions:
-See reading list multimodal literacy
-See website Yiddisch songs Gerben
+### Reading/viewing  suggestions:
+to do See reading list multimodal literacy
+to do See website Yiddisch songs Gerben
 <!-- briefing-teacher -->
-
 
