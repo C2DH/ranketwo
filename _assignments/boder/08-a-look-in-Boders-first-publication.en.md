@@ -62,7 +62,9 @@ http://voices.iit.edu/interviewee?doc=bassfreundJ
 
 <!-- section -->
 ### Reading/viewing suggestions:
+<!-- section-contents -->
 Beate Muller, Translating Trauma, Boder’s 1946 interviews with Holocaust survivors https://www.euppublishing.com/doi/abs/10.3366/tal.2014.0155
 <!-- section-contents -->
 
 <!-- briefing-teacher -->
+
