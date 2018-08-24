@@ -8,7 +8,7 @@ order: 8
 lang: en
 tags: methods of research, data collection, interview protocols, digital archives, privacy, oral history, qualitative data
 requirements:  strong WiFi, access to Ranke.2, computer or laptop, application on laptop or computer to view video, account for timeline,
-learning outcomes:
+outcomes:
   - Understanding the interplay between the conventions of a method for collecting data, the convention of the medium through which this data is shared,and the appearance of its representation.
 
 ---

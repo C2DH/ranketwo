@@ -7,7 +7,7 @@ cover: /assets/images/attachments/12boxes/12boxes_07.png
 order: 7
 lang: en
 
-Learning outcomes:
+outcomes:
   - learning about circumstances in the displacement camps
   - learning to search with image recognition
   - learning to conduct web research 

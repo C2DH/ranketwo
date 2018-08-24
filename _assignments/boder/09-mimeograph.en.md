@@ -7,7 +7,7 @@ cover: /assets/images/attachments/12boxes/12boxes_09.png
 order: 9
 lang: en
 requirements:  strong WIFI, access to Ranke.2, computer or laptop,application on laptop or computer to view video,
-learning outcomes: understanding the difference between the concept of the ‘original’ in the analogue area, and how this has changed with the advent of digital technology 
+outcomes: understanding the difference between the concept of the ‘original’ in the analogue area, and how this has changed with the advent of digital technology 
 ---
 
 The possibilities for reproduction of text and images increased considerably during Boder’s lifetime. As well as the mimeograph, he used the microcard to disseminate his volumes of transcripts among various universities and research institutes.
@@ -51,3 +51,5 @@ Time effort: ?
 
 Reading/viewing  suggestions:
 Ask Andreas for basic literature that questions the concept of ‘authenticity’
+
+<!-- briefing-teacher -->

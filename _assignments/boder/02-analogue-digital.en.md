@@ -45,3 +45,5 @@ Note the answer in your template
 
   2. An [article by historian Trevor Owens](http://www.trevorowens.org/2015/12/digital-sources-digital-archives-the-evidentiary-basis-of-digital-history-draft/) on how digitization
      affects the character of a historical source click here:
+
+<!-- briefing-teacher -->
