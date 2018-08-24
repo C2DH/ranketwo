@@ -24,13 +24,13 @@ One might wonder why students of a humanities discipline should learn about the 
 -	Open the second box "How does the wire recorder work?" and watch[the animation](https://allthingsmoving.com/DB_interactive_2018_07_07/)
 
 <!-- section -->
-### 2.a  Recordings and physics
+### 2.a  Recordings and physics (10 min)
 <!-- section-contents -->
 What are the three principles of physics that play a role in the transfer of information on  a steel wire?
 Note the answer in your template.
 
 <!-- section -->
-### 2.b  Digital and analogue recording
+### 2.b  Digital and analogue recording (15 min)
 <!-- section-contents -->
 Watch the clip about how a digital recorder works that you can find in the reading/viewing suggestions
 What is the key difference between analogue and digital recording?
