@@ -23,13 +23,13 @@ Watch the footage
 
 <!-- briefing-student -->
 
-### 6a Reconstructing the sequence of transformations: film footage
+### 6a Reconstructing the sequence of transformations: film footage (20 min)
 <!-- section-contents -->
 Try to reconstruct the steps in the creation and dissemination of the film footage and its presence online
 Document your findings in your template
 
 <!--section -->
-### 6b  Reconstructing the sequence of transformations: a song  
+### 6b  Reconstructing the sequence of transformations: a song (20 min)
 <!-- section-contents -->
 Listen to the songs through this link: https://centerhistorypsychology.wordpress.com/2016/09/02/dr-boder-and-the-missing-songs/
 Get information about how this song was composed through this link (still to be researched)
@@ -38,9 +38,11 @@ Try to reconstruct the steps in the creation of the song,  its dissemination and
 Document your findings in your template   
 
 
-
+<!-- section -->
+### Reading/viewing  suggestions:
+See reading list multimodal literacy - to do 
+See website Jiddisch songs Gerben- to do 
 <!-- briefing-teacher -->
 
-Reading/viewing  suggestions:
-See reading list multimodal literacy
-See website Jiddisch songs Gerben
+
+
