@@ -26,7 +26,7 @@ Make a list of the institutes that have provided material for this interactive a
 https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
 
 <!-- section --> 
-### 10.a   Mapping Boder’s legacy 1. : where can his original work be found?
+### 10.a   Mapping Boder’s legacy 1. : where can his original work be found? (30 min)
 <!-- section-contents -->
 
 Create a project on the [HistoryPin](https://www.historypin.org/en/)website 
@@ -43,7 +43,7 @@ Include a short description of which part of Boder’s legacy can be found in ea
 Use the template 
 
 <!-- section --> 
-### 10.b   Mapping Boder’s legacy 2. : who has published copies of his work online?    
+### 10.b   Mapping Boder’s legacy 2. : who has published copies of his work online? (30 min)
 <!-- section-contents -->
 
 Conduct a Google search with the name David Boder
@@ -51,27 +51,20 @@ List additional institutes that offer access to his work, but do not have the or
 Add them to your map
 
 <!-- section --> 
-### 10.c   Mapping hyperlinks to Boder’s legacy
+### 10.c   Mapping hyperlinks to Boder’s legacy (30 min)
 <!-- section-contents -->
 
 List websites that have included a link to one of the institutes where Boder’s work is archived. 
 Add them to your map, but give them a different colour 
 
+<!-- section --> 
+### Reading/viewing  suggestions:
+<!-- section-contents -->
+Ask Andreas for basic literature about digital archives?
+
 <!-- briefing-teacher -->
 
-Time effort: ?
 
-Requirements:  strong WIFI, access to Ranke.2, computer or laptop,
-application on laptop or computer to view video, 
-
-Learning outcomes: 
-- how to use a tool to create a digital map
-- understanding how archives deal differently with access  to historical sources
-- understand the affordances of digital technology to spread knowledge 
-
-
-Reading/viewing  suggestions:
-Ask Andreas for basic literature about digital archives?
 
 
 
