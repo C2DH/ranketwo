@@ -16,7 +16,7 @@ outcomes:
 Boder’s approach shifted from that of a traditional social scientist looking for evidence to that of an ethnographer documenting people’s expressions. The footage shown in this box was shot in Henonville but it only shows moving images of people without sound. The sound is stored on a separate medium. This assignment is designed to make students aware of the multimodal dimension of a source and how the web facilitates access to these different modes. You will be asked to reflect on the context of creation, the context of preservation and the context of digitisation of the material. 
 sect
 
-<!-- briefing-student -->
+<!-- section -->
 ### Instruction
 <!-- section-contents -->
 
@@ -25,13 +25,13 @@ Watch the footage
 <!-- more -->
 
 <!-- section -->
-### 6.a  Reconstructing the sequence of transformations: film footage
+### 6.a  Reconstructing the sequence of transformations: film footage (20 min)
 <!-- section-contents -->
 Try to reconstruct the steps in the creation and dissemination of the film footage and its presence online
 Note your findings in your template
 
 <!-- section -->
-### 6.b  Reconstructing the sequence of transformations: a song  
+### 6.b  Reconstructing the sequence of transformations: a song (20 min)
 <!-- section-contents -->
 Listen to the songs through [this link](https://centerhistorypsychology.wordpress.com/2016/09/02/dr-boder-and-the-missing-songs/)
 Obtain information about how this song was composed through this link (still to be researched)
