@@ -39,11 +39,12 @@ Note your findings in your template
 Listen to the songs through [this link](https://centerhistorypsychology.wordpress.com/2016/09/02/dr-boder-and-the-missing-songs/)
 Obtain information about how this song was composed through this link (still to be researched)
 
-Try to reconstruct the steps in the creation of the song,  its dissemination and its presence online.
+Try to reconstruct the steps in the creation of the song, its dissemination and its presence online.
 Note your findings in your template   
 
 <!-- section -->
 ### Reading/viewing  suggestions:
+<!-- section-contents -->
 to do See reading list multimodal literacy
 to do See website Yiddisch songs Gerben
 <!-- briefing-teacher -->
