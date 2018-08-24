@@ -69,10 +69,10 @@ Click on [this link to see a poster created in a displacement camp](https://www.
 -	http://vhaonline.usc.edu/login (you have to create an account)
 -	http://www.dpcamps.org/listDPCampsbyTeamNo.pdf 
 
+<!-- section -->
+Reading/viewing  suggestions:
+to do: blog about historical blog
 <!-- briefing-teacher -->
 
 
 
-Reading/viewing  suggestions:
-
-blog about historical blog
