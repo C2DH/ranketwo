@@ -6,6 +6,10 @@ title: A snippet of text from Edith Zierer’s story in 1946
 cover: /assets/images/attachments/12boxes/12boxes_12.png
 order: 12
 lang: en
+outcomes:
+  - understanding  specific temporality  of oral history as historical source
+  - changes in accessibility and technology 
+
 ---
 
 In 1946 fifteen years old Edith Zierer was
