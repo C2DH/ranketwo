@@ -26,7 +26,7 @@ This assignment is designed to help you reflect on displacement camps as the fir
 https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
 
 <!-- section -->
-### 7.a  Envisioning a future life
+### 7.a  Envisioning a future life (15 min)
 <!-- section-contents -->
 
 The mindsets of the survivors housed in displacement camps were clearly geared towards the future. But there is one reference to commemoration projects.
@@ -42,7 +42,7 @@ The mindsets of the survivors housed in displacement camps were clearly geared t
 - what was the purpose? 
 
 <!-- section -->
-### 7.b  Documenting the recent past
+### 7.b  Documenting the recent past (20 min)
 
 <!-- section-contents -->
 {: .headsup}
@@ -59,7 +59,7 @@ Click on [this link to see a poster created in a displacement camp](https://www.
 - Who designed the poster? Where was it created? With what resources? Who published it on the web? 
 
 <!-- section -->
-### 7.c  Displacement camps in 1945 and 1946
+### 7.c  Displacement camps in 1945 and 1946 (30 min)
 <!-- section-contents -->
 -	Boder also visited displacement camps. The Voices of the Holocaust website contains a map indicating all the locations that he visited.
 -	Try to find out whether initiatives were taken up in these camps to document the experiences of the inmates. 
@@ -70,9 +70,8 @@ Click on [this link to see a poster created in a displacement camp](https://www.
 -	http://www.dpcamps.org/listDPCampsbyTeamNo.pdf 
 
 <!-- section -->
-Reading/viewing  suggestions:
+### Reading/viewing  suggestions:
+<!-- section-contents -->
 to do: blog about historical blog
 <!-- briefing-teacher -->
-
-
 
