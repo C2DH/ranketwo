@@ -29,7 +29,7 @@ The dates in the template can help you with finding the right answer
 ### 3b. Restoration or replacement?
 <!-- section-contents -->
 
-- Read this short article by curator Ralph Hugh of the Illinois Institute of Technology, about the process of publishing the collection online. What does he say about decisions that were taken with regard to the restoration of the sound? [Link to PDF] 
+- Read this [short article by curator Ralph Pugh of the Illinois Institute of Technology](https://drive.google.com/open?id=1AtN6BKshFShiEE_6Hl-RTLcCJIe60ySI), about the process of publishing the collection online. What does he say about decisions that were taken with regard to the restoration of the sound? 
 - Listen to this interview: [url of unaudible sound] - what would you have preferred, a better sound so that you may understand what is said, or the original sound with its own atmosphere? 
 - Document your answer in your template 
 
