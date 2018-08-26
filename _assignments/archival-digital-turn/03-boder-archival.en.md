@@ -30,13 +30,11 @@ The dates in the template can help you with finding the right answer
 <!-- section-contents -->
 
 - Read this [short article by curator Ralph Pugh of the Illinois Institute of Technology](https://drive.google.com/open?id=1AtN6BKshFShiEE_6Hl-RTLcCJIe60ySI), about the process of publishing the collection online. What does he say about decisions that were taken with regard to the restoration of the sound? 
-- Listen to this interview: [url of unaudible sound] - what would you have preferred, a better sound so that you may understand what is said, or the original sound with its own atmosphere? 
+- Listen to the first 5 minutes of [this interview with Janis B.](http://voices.iit.edu/audio.php?doc=bJanis) in the collection of Boder. 
+* To be able to listen to the interview, you have to open a Chrome Browser. Click on the small icon with, an ‘ i ‘ at the left side of the url,  and allow flash player and pop ups. Keep in mind that you hear Boder's introduction right away, but that the interview takes some time to load.
+- What would you have preferred, a better sound so that you may understand what is said, or the original sound with its own atmosphere? 
+- Does it make sense to create access to spoken content if you don't understand the language or could one limit the information to the translated transcript? 
 - Document your answer in your template 
--  * If you want to listen to the interview, you have to open a Chrome Browser. Click on the small icon with an ‘ i ‘  and 
-     allow  flash player and pop ups. Keep in mind that the interview takes a long time to load, so you might carry on 
-     with another assignment in the meantime. 
-
-
 
 <!-- briefing-teacher -->
 ## Briefing lecturer
