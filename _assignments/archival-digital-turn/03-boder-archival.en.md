@@ -13,7 +13,7 @@ Learning outcomes:
   - Learning how sound can be copied and reproduced from an analogue to a digital carrier
 ---
 
-Watch this short animation of 6,5 minutes about David Boder https://c2dh.github.io/ranketwo/u/boder/ (link to url) that forms the basis for a separate lesson on audiovisual sources. In the context of this lesson the focus of this assignment is on the transformation of his collection from interviews with Holocaust survivors fixed on steel wires in 1946, to content that has been made accessible online through a public website. 
+Watch this short animation of [6,5 minutes about David Boder](https://c2dh.github.io/ranketwo/u/boder/) that forms the basis for a separate lesson on audiovisual sources. In the context of this lesson the focus of this assignment is on the transformation of his collection from interviews with Holocaust survivors fixed on steel wires in 1946, to content that has been made accessible online through a public website. 
 
 <!-- more -->
 
