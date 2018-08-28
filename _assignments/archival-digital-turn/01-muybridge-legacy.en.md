@@ -29,19 +29,18 @@ viewed/read and re-used on the web.
 
 ### 1a. The original technology
 <!-- section-contents -->
-For capturing images, Muybridge had to rely on the technologies that were available at that time. Try to find out what he used by consulting the sources below. 
-
-To answer this question:
+For capturing images, Muybridge had to rely on the technologies that were available at that time. 
+- Try to find out what he used by consulting the sources below. 
 - Visit the wayback machine, an archive for websites, where you can find a digital copy of a contemporary illustration from 1878,  
-of [Muybridge’s experiment with the horse Sally Gardner] (https://web.archive.org/web/20120730172726/http://popartmachine.com/artwork/LOC+1071481/0/The-horse-in-motion,-illus.-by-Muybridge.-)  
+of [Muybridge’s experiment with the horse Sally Gardner](https://web.archive.org/web/20120730172726/http://popartmachine.com/artwork/LOC+1071481/0/The-horse-in-motion,-illus.-by-Muybridge.-)  
 - Consult the digital copy of another contemporary relevant source, [the catalogue of an exhibit on Muybridge held in Stanford in 1972](https://archive.org/stream/eadweardmuybridg00maye/eadweardmuybridg00maye_djvu.txt)
 It has also been digitized by the wayback machine/Internet Archive
 - Remember that you can use Control F to search for key terms
 
-Here is an additional question:
+Additional questions:
 - Was this technology an American invention, or was it imported from Europe?
 - Were there parallel experiments in other places in the world in the same period or can Muybridge rightly claim to be the pioneer in cinematography?
-- Document your findings in your template in at least 150 words.
+Document your findings in your template. 
 
 <!-- section -->
 ### 1b. Re-use of Muybridge’s material: the father of the *GIF*?
@@ -75,7 +74,7 @@ Muybridge has been coined as the father of the *GIF*, a very recent development 
 <!-- section -->
 ### 1c. A new life on the web
 <!-- section-contents -->
-All the content that can be viewed through the links that are provided in assignment 1b has been published on the web at some point with a particular reason. Try to complete the template for your assignments with details about how the work inspired by Muybridge was published on the web: who, when, what kind of platform and why. 
+All the content that can be viewed through the links provided in assignment 1b has been published on the web at some point with a particular reason. Try to complete the template for your assignments with details about how the work inspired by Muybridge was published on the web: who, when, what kind of platform and why. 
 
 
 <!-- section -->
