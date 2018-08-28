@@ -27,10 +27,10 @@ First get some insights about how search engines work:
 <!-- section-contents -->
 
 - Open two windows on your screen, one with Google and one with Yahoo and conduct a search on Eadward Muybridge in both
-- List the  first 10 results using the table in the template
+- List the  first 8 results using the table in the template
 - How would you characterize the various organisations/institutions that have published information about EM online?
 - What is their interest? Use the key words that are indicated in your template.
-- For the first three search results of both search engines, try to find out whether they are linked to an organisation that has either original material, or  analogue or digital copies of Muybridge's work. 
+- Find out whether one or more of these organisations possess the original analogue glass plates 
 
 <!-- section -->
 ### 2b. Change your settings
