@@ -52,22 +52,11 @@ Otherwise, the Margaret Thatcher Foundation digitized and published a selection 
 - How long should the distance in time be before privacy no longer plays a role? 
 - Do you consider unintended audiences when writing a letter or email?
 
-- Read this article by Ozana Cucu Oancea about the tension between privacy and consulting personal documents as a scholarly activity (direct access)
-- Or read the chapter about 'Letters' in: M. Dobson & B. Ziemann (Eds.), Reading Primary Sources: The interpretation of texts from nineteenth- and twentieth-century history (pp. 57–73). Routledge. (access through Library)
-- Or read chapter 1. Introduction, chapter 5. Managing Privacy; Historians at work,  and chapter 6. Conclusion: Resistance in: Susan.C. Lawrence, Privacy and the past: Research, Law, Archives, Ethics (Rutgers University Press 2016).
-
-
-
+- Read [this article by Ozana Cucu Oancea](https://www.researchgate.net/publication/271383447_Personal_Documents_as_Data_Sources_for_Social_Sciences_A_Review_of_History_of_Uses_Ethical_Methodological_and_Epistemological_Considerations) about the tension between privacy and consulting personal documents as a scholarly activity (direct access)
+- Or read the chapter about 'Letters' in: M. Dobson & B. Ziemann (Eds.), Reading Primary Sources: The interpretation of texts from nineteenth- and twentieth-century history (pp. 57–73). Routledge 2009) (access through Library)
+- Or read chapter 1. Introduction, chapter 5. Managing Privacy; Historians at work,  and chapter 6. Conclusion: Resistance in: Susan.C. Lawrence, Privacy and the past: Research, Law, Archives, Ethics (Rutgers University Press 2016). (access through Library)
 
 - Document your answer in your template
-
-<!-- section -->
-### 4d. What can we find about Margaret Thatcher's correspondance?
-<!-- section-contents -->
-
-to do: 
-a. what is private? what is public? what is digitized?
-b. download document and download e-mail, table with comparisons?
 
 <!-- briefing-teacher -->
 ## Briefing lecturer
@@ -75,5 +64,8 @@ b. download document and download e-mail, table with comparisons?
 Time effort: 15-30 minutes
 
 #### Reading/viewing  suggestions
-Dobson, M. (2009). Letters. In M. Dobson & B. Ziemann (Eds.), Reading Primary Sources: The interpretation of texts from nineteenth- and twentieth-century history (pp. 57–73). Routledge.
+Dobson, M. Letters. In M. Dobson & B. Ziemann (Eds.), Reading Primary Sources: The interpretation of texts from nineteenth- and twentieth-century history (pp. 57–73)(2009,Routledge)
+Susan.C. Lawrence, Privacy and the past: Research, Law, Archives, Ethics (Rutgers University Press 2016)
+Ozana Cucu Oancea, Personal Documents as Data Sources for Social Sciences. A Review of History of Uses, Ethical, Methodological and Epistemological Considerations, in: to do 
 History Matters; Interpreting Letters and Diaries: http://historymatters.gmu.edu/mse/letters/ 
+
