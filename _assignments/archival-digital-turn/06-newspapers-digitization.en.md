@@ -13,32 +13,14 @@ learning outcomes:
 documents:
 order: 6
 ---
-Massive digitization of newspapers is ongoing in many
-libraries to offer online access to the public in general and
-to researchers in particular. For the last group it is important 
-to reflect on the politics and transformative impact
-of the digitization process. What you see online is not the
-same as what you can hold in your hand in the archive. 
-This assignment covers two approaches: 1. Considering the choices that are
-made when newspapers are digitized, 2. Considering the diversity of news 
-covergage by making use of the affordances of massive
-online access to newspapers.
+Newspapers have become an important media since the 19th century and offer valuable information about events and opinions in our past and present societies. Massive digitization of newspapers, which is ongoing on in many (national) libraries, therefore holds the promise for a bonanza of data for historical research. Yet in the process of creating digital representations of a newspaper and making them retrievable with search terms on the web, certain choices are made, and certain changes occur with regard to the material and informational value of the sources.  
+In other words, what you see online is not the same as what you can hold in your hand in the archive. To understand the difference, you have to apply source criticism to what you can read on your screen. This assignment covers two approaches: 1. Considering the choices that are made and the technologies that are used when newspapers are digitized, 2. Considering the diversity of news covergage and the opportunities that online access to machine readable content offers for comparative research. 
+.
 
 <!-- more -->
+### Instruction 
+. Questions that related to source criticism applied to digital newspapers are: 
 
-<!-- briefing-student -->
-
-### 6a. What changes with the digitisation?
-<!-- section-contents -->
-    
-Digitisation is usually carried out by (national) libraries, fuelled by the legal deposit existing in many countries.
-The collections of the national libraries are gradually digitised, and are the result of their paper collections, and the priorities set by the institutions. For instance, in the Austrian national library, we can find newspapers printed in all the former Austro-hungarian empire until 1918, in the Polish national library, we can see newspapers printed in hebrew, written in yiddish, mainly before 1939, or written in Russian, printed in cyrillic before 1918 and in the German collection, we can find newspapers printed by the German communities abroad, notably in Eastern Europe. Questions that related to source criticism applied to digital newspapers are: 
-
-Selection
-- Which titles have been digitised?
-Identify the titles that are available at your local library and which one where digitised? (If it is complicated, compare the titles available on ProQuest, Chronicling America to the list of the Library of Congress, see list of links below.)
-- Is the information easily available? What is the proportion of digitised vs. non digitised?
-- What type of newspapers were digitised first? What type has not been digitised (yet)?
 
 Transformation
 - How were the newspaper processed ?
@@ -55,7 +37,28 @@ Retrieval
 - Can we apply full text search on their content? (Is there OCR?)
 - Is there article segmentation? Can we search within advertisements, images ? 
 - Are they other types of segments?(Is there OLR?)
- 
+
+Sketch of the type of source: Digitized Newspapers
+
+The need for source criticism of digital content starts even before any technology is applied: one has to ask why a certain corpus has been selected. National Libraries have to deal with all kinds of financial, legal and technical constraints, which together, with their own institutional history, determine what is desireable and feasible. One may find a great diversity of newspapers, sometimes unexpected titles or languages in a national library’s collection. For instance, in the Austrian national library, we can find newspapers printed throughout the former Austro-hungarian empire until 1918. In the Polish national library, we find newspapers reflecting the presence of specific cultural communities in the past, written in hebrew, yiddish, russian, and german. 
+As digitisation projects are complex, national libraries tend to outsource them, for the processing and sometimes for the exploitation. In the United Kingdom and France, the national libraries decided to rely partly on public-private partnerships to process the data and make them available online. In France, the digitised newspapers collections are available via Retronews and Gallica, and for the UK, via a dedicated platform, the British Newspapers Archive. 
+How the selection and digitization process was led, is important information, but not all libraries provide information about this. 
+An example of best practices is the Delpher interface, created at the Dutch Royal Library. It offers very rich information about the context of the digitisation, and the interface gives the user a clear view of how to use the resource and venture into more advanced search options. The Luxembourg national library gives an historical overview of the project, some technical information on the chosen format, and legal information on copyright issues. Most of the libraries, however, keep the information about their digitisation processes for themselves. You are going to find out how this is arranged for a number of collections. But first go through some general questiosn that should be asked to digitized newspapers: 
+
+
+<!-- briefing-student -->
+
+### 6a. What changes with the digitisation?
+<!-- section-contents -->
+
+Selection
+- Which titles have been digitised?
+Identify the titles that are available at your local library and which one where digitised? (If it is complicated, compare the titles available on ProQuest, Chronicling America to the list of the Library of Congress, see list of links below.)
+- Is the information easily available? What is the proportion of digitised vs. non digitised?
+- What type of newspapers were digitised first? What type has not been digitised (yet)?
+
+
+
 In the following table links are presented to several portanls of digitized newspapers collections. 
 Open up each link and document the required fields in the table, with the previous questions in mind. 
 - What type of institution carried out the digitisation? public/private, for commercial/academic/preservation purpose?
