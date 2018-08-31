@@ -120,9 +120,11 @@ For each, collect
 - 5 articles published before (anticipation), during (description), after (comments, consequences), 
 - For the digital sources: search for 5 articles commemorating this event 10, 20, 100 years after.
 
-- Present the articles in a chronological form.
-- What has changed in the perception of the event/actors/situation?
-- Write a short essay of about 500 words on your findings. This should include a reflection on the difference between paper and digital archive and on the differences in the representation of the even through time. 
+- Create a list of the articles in a chronological form.
+
+- Write a short essay of about 500 words on your findings, based on the answers to these questions:
+- What has changed in the perception of the event/actors/situation? (short term, long term) 
+- What are the main differences between collecting articles from paper newspapers and digitised newspapers? (sitting behind your screen, going to the archive/library)
 
 <!-- section -->
 
