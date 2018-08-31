@@ -22,9 +22,9 @@ National Libraries have to deal with all kinds of financial, legal and technical
 ### Instruction 
 
 <!-- section-contents -->
-To sensitize you to the subject of digitization of newspapers, watch these clips on two large scale digitization projects, one in the Unites States that discusses all the aspects of the goal of the project and the digitization process: [Chronincling America](https://www.youtube.com/watch?v=LclIm9s7Iho), and one in Europe,[Europeana Newspapers](https://www.youtube.com/watch?v=5G6v00Z8CyQ) that is meant for promotion of the project. Also watch the [clip about retired engineer Tom Tryniski](https://www.youtube.com/watch?v=KVWDX6oaYCg&feature=youtu.be), who took up the task of digitizing a gigantic corpus of newspapers and offering them online free of charge. 
+To sensitize you to the subject of digitization of newspapers, watch these clips on two large scale digitization projects, one in the Unites States that discusses all the aspects of the goal of the project and the digitization process: [Chronincling America](https://www.youtube.com/watch?v=LclIm9s7Iho), and one in Europe, [Europeana Newspapers](https://www.youtube.com/watch?v=5G6v00Z8CyQ) that is meant for promotion of the project. Also watch the [clip about retired engineer Tom Tryniski](https://www.youtube.com/watch?v=KVWDX6oaYCg&feature=youtu.be), who took up the task of digitizing a gigantic corpus of newspapers and offering them online free of charge. 
 
-Then go through the key questions that should be asked with applying source criticism to digitized newspapers: 
+Then go through the key questions that should be asked when applying source criticism to digitized newspapers: 
 
 Selection
 
