@@ -80,15 +80,15 @@ Complete the table in your template with the answers to the following questions:
 
 | | 1. Institution | 2. Type of access | 3. Interface | 4. Collection specificities
 -- | -- | -- | -- | --
-Europeana newspapers (multilingual) |   |   |   |  
-E-Newspapers CH (FR+DE) |   |   |   |  
-Gallica (FR) |   |   |   |  
-Retronews (FR) |   |   |   |  
-ProQuest (EN) |   |   |   |  
-Chronicling America (EN) |   |   |   |  
-Delpher (NL) |   |   |   |  
-ANNO (DE) |   |   |   |  
-Zeitungsportal DDR-Presse (DE) |   |   |   |  
+[Europeana newspapers](http://www.europeana-newspapers.eu) (multilingual)  
+[E-Newspapers CH](http://www.onlinenewspapers.com/switzerl.htm) (FR+DE)  
+[Gallica](https://gallica.bnf.fr/html/und/presse-et-revues/presse-et-revues)(FR)  
+[Retronews](https://www.retronews.fr)(FR)  
+[ProQuest](https://www.proquest.com/products-services/pq-hist-news.html)(EN)  
+[Chronicling America](https://chroniclingamerica.loc.gov)(EN) 
+[Delpher](https://www.delpher.nl) (NL)   
+[ANNO](http://anno.onb.ac.at/anno-suche#searchMode=simple&from=1)(DE)  
+[Zeitungsportal DDR-Presse[(http://zefys.staatsbibliothek-berlin.de/ddr-presse/) (DE) 
 
 Selection
 - Which titles have been digitised?
@@ -108,20 +108,13 @@ Open up each link and document the required fields in the table, with the previo
 3. Interface 
 4. Collection specificities
 
-Europeana newspapers
-Gallica
-Retronews
-ProQuest
-Chronicling America
-Delpher
-ANNO
-E-Newspapers CH
+
 <!-- section -->
     
 ### 6b. The newspaper as historical source 
 <!-- section-contents -->
 
-Newspapers are published regularly and collected on a daily or weekly basis, representing events that take place in society. One may find a great diversity of newspapers, with sometimes unexpected titles or languages in a national library’s collection. For instance, in the Austrian national library, we can find newspapers printed throughout the former Austro-hungarian empire until 1918. In the Polish national library, we find newspapers reflecting the presence of specific cultural communities in the past, written in hebrew, yiddish, russian, and german. 
+Newspapers are published regularly and collected on a daily or weekly basis, representing events that take place in society. One may find a great diversity of newspapers, with sometimes unexpected titles or languages in a national library’s collection. For instance, in the Austrian national library, we can find newspapers printed throughout the former Austro-hungarian empire until 1918. In the Polish national library, we find newspapers reflecting the presence of specific cultural communities in the past, written in hebrew, yiddish, russian, and german. This item in the [news website gizmodo about newspapers with an old tradition](https://io9.gizmodo.com/the-worlds-oldest-newspapers-still-being-published-tod-1369904730) illustrates the continuity of some newspapers. It is striking to see the difference in appearance. Reading the newspaper is also a practice that contributes to a sense of national identity. You will be comparing paper to digital newspapers and the representation of events over time. 
 
 - Collect articles on two particular events and recreate the chronology of these events, using one newspaper title in paper of a recent event,  and one in digital form of the past . 
 
@@ -138,6 +131,12 @@ For each, collect
 - Write a short essay of about 500 words on your findings, based on the answers to these questions:
 - What has changed in the perception of the event/actors/situation? (short term, long term) 
 - What are the main differences between collecting articles from paper newspapers and digitised newspapers? (sitting behind your screen, going to the archive/library)
+
+
+### 6c. The newspaper and the website as sources of knowledge 
+Depeding on your age and education, you will be accustomed to specific kinds of news, either television, radio, newspapers, news feeds through your mobile phone, or websites that publish news. This assignment asks you to reflect on the sources of your knowledge on current cultural, economical and political developments. What do you read/watch? Why? Do you trust the source? What is your trust based on?
+- Choose a current topic or event and compare how it is represented in a paper newspaper, a news website, a newsreel on the radio and on the television. 
+Complete the table in your template on the basis of the key questions listed above. 
 
 <!-- briefing-teacher -->
 
