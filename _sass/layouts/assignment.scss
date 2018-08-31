@@ -16,4 +16,21 @@ body.assignment{
   .headsup{
     background-color: magenta;
   }
+
+  table{ 
+    margin-bottom: 20px;
+
+    th {
+      text-align: center;
+    }
+
+    th, td{
+	  padding: 6px 13px;
+      border: 1px solid #dfe2e5;
+    }
+
+    tr:nth-child(2n){
+      background-color: #f6f8fa;
+    }
+  }
 }

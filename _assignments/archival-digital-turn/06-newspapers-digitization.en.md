@@ -18,8 +18,10 @@ National Libraries have to deal with all kinds of financial, legal and technical
 .
 
 <!-- more -->
+<!-- briefing-student -->
 ### Instruction 
 
+<!-- section-contents -->
 To sensitize you to the subject of digitization of newspapers, watch these clips on two large scale digitization projects, one in the Unites States that discusses all the aspects of the goal of the project and the digitization process: [Chronincling America](https://www.youtube.com/watch?v=LclIm9s7Iho), and one in Europe,[Europeana Newspapers](https://www.youtube.com/watch?v=5G6v00Z8CyQ) that is meant for promotion of the project. Also watch the [clip about retired engineer Tom Tryniski](https://www.youtube.com/watch?v=KVWDX6oaYCg&feature=youtu.be), who took up the task of digitizing a gigantic corpus of newspapers and offering them online free of charge. 
 
 Then go through the key questions that should be asked with applying source criticism to digitized newspapers: 
@@ -45,8 +47,7 @@ Retrieval
 - Has article segmentation been applied? Can we search within advertisements, images ? 
 
 
-<!-- briefing-student -->
-
+<!-- section -->
 ### 6a. Who digitizes, with what purpose and how is access arranged?   
 <!-- section-contents -->
 You are going to find out how this is arranged for a number of collections. 
@@ -77,6 +78,17 @@ Complete the table in your template with the answers to the following questions:
 - Are there some special sub-collections? 
 - What information is provided on each individual title by the institution?
 
+| | 1. Institution | 2. Type of access | 3. Interface | 4. Collection specificities
+-- | -- | -- | -- | --
+Europeana newspapers (multilingual) |   |   |   |  
+E-Newspapers CH (FR+DE) |   |   |   |  
+Gallica (FR) |   |   |   |  
+Retronews (FR) |   |   |   |  
+ProQuest (EN) |   |   |   |  
+Chronicling America (EN) |   |   |   |  
+Delpher (NL) |   |   |   |  
+ANNO (DE) |   |   |   |  
+Zeitungsportal DDR-Presse (DE) |   |   |   |  
 
 Selection
 - Which titles have been digitised?
@@ -126,8 +138,6 @@ For each, collect
 - Write a short essay of about 500 words on your findings, based on the answers to these questions:
 - What has changed in the perception of the event/actors/situation? (short term, long term) 
 - What are the main differences between collecting articles from paper newspapers and digitised newspapers? (sitting behind your screen, going to the archive/library)
-
-<!-- section -->
 
 <!-- briefing-teacher -->
 
