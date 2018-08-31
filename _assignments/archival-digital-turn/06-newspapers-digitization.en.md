@@ -20,16 +20,17 @@ National Libraries have to deal with all kinds of financial, legal and technical
 <!-- more -->
 ### Instruction 
 
-To sensitize you to the subject of digitization of newspapers, watch these clips on two large scale digitization projects, one in the Unites States: Chronincling the United States, and one in Europe, Europeana Newspapers.
+To sensitize you to the subject of digitization of newspapers, watch these clips on two large scale digitization projects, one in the Unites States that discusses all the aspects of the goal of the project and the digitization process: [Chronincling America](https://www.youtube.com/watch?v=LclIm9s7Iho), and one in Europe,[Europeana Newspapers](https://www.youtube.com/watch?v=5G6v00Z8CyQ) that is meant for promotion of the project. Also watch the [clip about retired engineer Tom Tryniski](https://www.youtube.com/watch?v=KVWDX6oaYCg&feature=youtu.be), who took up the task of digitizing a gigantic corpus of newspapers and offering them online free of charge. 
+
 Then go through the key questions that should be asked with applying source criticism to digitized newspapers: 
 
-***Selection
+Selection
 
 - Why was this collection selected for digitization?
 - is it complete? Which part of the collection is covered? 
 - is it representative?
 
-***Transformation from analogue to digital source
+Transformation from analogue to digital source
 
 - How were the newspaper processed? Have all newspapers titles been processed in the same way?
 - What is the appearance of the original newspaper? Are they in black and white or in color? What is the color of the paper? Is this visible on your screen? 
@@ -37,7 +38,7 @@ Then go through the key questions that should be asked with applying source crit
 - What color makes the reading easier in the digital form?
 - How does digitization handle differences between newspapers coming from different periods?
 
-***Retrieval
+Retrieval
 
 - Are the newspapers searchable? Can we apply full text search on their content? 
 - What is the quality of the Optical Character Recognition process? 
