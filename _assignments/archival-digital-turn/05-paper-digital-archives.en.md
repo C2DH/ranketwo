@@ -31,7 +31,7 @@ The texts and the clips will give you an impression of the type of organisation 
 
 
 <!-- section -->
-### 4a. Exploring diplomatic documents of the European Union online and in the archive
+### 4.a Exploring diplomatic documents of the European Union online and in the archive
 <!-- section-contents -->
 
 In the section Instruction, you have read and watched content that explains and shows the historical dimension of the WEU and its archive.
@@ -48,7 +48,7 @@ Note the answers to the questions below in your template
 - What processing was necessary in the transformation from print to digital?
 
 <!-- section -->
-### 4b.  From natural language to computer language 
+### 4.b  From natural language to computer language 
 <!-- section-contents -->
 Encoding the WEU-Diplo corpus in an XML-TEI format was only the first step in a whole chain. The next one was importing the XML-TEI into the CVCE [Back End / Front End system](https://www.youtube.com/watch?v=LzL4I4Pt7GU), this is further transformed into HTML, to create webpages, and published on the CVCE Website, in order to be visualised in the browser via a dedicated interface. [Here](https://www.cvce.eu/search?q=*&format=tei%2Bxml&publication=e7c423ed-a376-4a57-a415-f8519344e558) you can see the results of a search using the CVCE search engine. Find out how the information is organised on the screen (left/right):
 
@@ -59,7 +59,7 @@ Note the answers to the questions below in your template:
 - What kind of information is available for each document in this view?
 
 <!-- section -->
-### 4c. Digging a layer deeper
+### 4.c Digging a layer deeper
 <!-- section-contents -->
 Browse through the documents from the list to get an impression of the content. 
 - Select a minimum of 5 documents of your choice to open and examine in more detail.
@@ -72,13 +72,12 @@ Browse through the documents from the list to get an impression of the content.
 - Is there any additional feature that you think is missing and would like to see provided with the interface? Why?
 
 <!-- section -->
-### 4d. Consult the documents from the list you have created (point 2.c), on-site at the ANLUX. 
+### 4.d Consult the documents from the list you have created (point 2.c), on-site at the ANLUX. 
 <!-- section-contents -->
 Take note of the: 
 - particularities of the search and consultation process, 
 - material characteristics of the documents themselves, 
-keeping in mind the articles you have read (point 2.a), the questions above and the comparison with the digital edition published on the Website (points 2.b, 2.c).
-Write a short essay (1 – 3 pages) about your findings.
+- Keeping in mind the articles you have read (point 2.a), the questions above and the comparison with the digital edition published on the Website (points 2.b, 2.c), write a short essay (1 – 3 pages) about your findings.
 
 <!-- briefing-teacher -->
 ## Briefing lecturer
