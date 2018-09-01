@@ -48,7 +48,7 @@ Retrieval
 
 
 <!-- section -->
-### 6a. Who digitizes, with what purpose and how is access arranged?   
+### 6.a Who digitizes, with what purpose and how is access arranged?   
 <!-- section-contents -->
 You are going to find out how this is arranged for a number of collections. 
 
@@ -56,27 +56,6 @@ You are going to find out how this is arranged for a number of collections.
 - What projects have been completed or are ongoing in your own country? 
 
 - Open up the links to the following collections, browse throught the content, and choose at least two newspapers in a language you feel comfortable with. 
-
-Europeana newspapers (multilingual)
-E-Newspapers CH (FR+DE)
-Gallica (FR)
-Retronews (FR)
-ProQuest (EN)
-Chronicling America (EN)
-Delpher (NL)
-ANNO (DE)
-Zeitungsportal DDR-Presse (DE)
-
-Complete the table in your template with the answers to the following questions:
-- What type of institution carried out the digitisation? public/private, for commercial/academic/preservation purpose?
-- How can you access these collections? 
-- Is a subscription needed? 
-- Is there distant access or is it limited to the premisses of the institution?
-- Is there a dedicated interface for the digitised newspapers or is the interface common to other sources, such as books and images?
-- Where do the titles come from? 
-- In which languages are they available? 
-- Are there some special sub-collections? 
-- What information is provided on each individual title by the institution?
 
 | | 1. Institution | 2. Type of access | 3. Interface | 4. Collection specificities
 -- | -- | -- | -- | --
@@ -90,6 +69,17 @@ Complete the table in your template with the answers to the following questions:
 [ANNO](http://anno.onb.ac.at/anno-suche#searchMode=simple&from=1)(DE)  
 [Zeitungsportal DDR-Presse[(http://zefys.staatsbibliothek-berlin.de/ddr-presse/) (DE) 
 
+Complete the table in your template with the answers to the following questions:
+- What type of institution carried out the digitisation? public/private, for commercial/academic/preservation purpose?
+- How can you access these collections? 
+- Is a subscription needed? 
+- Is there distant access or is it limited to the premisses of the institution?
+- Is there a dedicated interface for the digitised newspapers or is the interface common to other sources, such as books and images?
+- Where do the titles come from? 
+- In which languages are they available? 
+- Are there some special sub-collections? 
+- What information is provided on each individual title by the institution?
+
 Selection
 - Which titles have been digitised?
 Identify the titles that are available at your local library and which one where digitised? 
@@ -97,21 +87,9 @@ Identify the titles that are available at your local library and which one where
 - Is the information easily available? What is the proportion of digitised vs. non digitised?
 - What type of newspapers were digitised first? What type has not been digitised (yet)?
 
-In the following table links are presented to several portanls of digitized newspapers collections. 
-Open up each link and document the required fields in the table, with the previous questions in mind. 
-
-
-[Here we need a table]
-
-1. Institution
-2. Type of access
-3. Interface 
-4. Collection specificities
-
-
 <!-- section -->
     
-### 6b. The newspaper as historical source 
+### 6.b The newspaper as historical source 
 <!-- section-contents -->
 
 Newspapers are published regularly and collected on a daily or weekly basis, representing events that take place in society. One may find a great diversity of newspapers, with sometimes unexpected titles or languages in a national library’s collection. For instance, in the Austrian national library, we can find newspapers printed throughout the former Austro-hungarian empire until 1918. In the Polish national library, we find newspapers reflecting the presence of specific cultural communities in the past, written in hebrew, yiddish, russian, and german. This item in the [news website gizmodo about newspapers with an old tradition](https://io9.gizmodo.com/the-worlds-oldest-newspapers-still-being-published-tod-1369904730) illustrates the continuity of some newspapers. It is striking to see the difference in appearance. Reading the newspaper is also a practice that contributes to a sense of national identity. You will be comparing paper to digital newspapers and the representation of events over time. 
@@ -133,10 +111,13 @@ For each, collect
 - What are the main differences between collecting articles from paper newspapers and digitised newspapers? (sitting behind your screen, going to the archive/library)
 
 
-### 6c. The newspaper and the website as sources of knowledge 
-Depeding on your age and education, you will be accustomed to specific kinds of news, either television, radio, newspapers, news feeds through your mobile phone, or websites that publish news. This assignment asks you to reflect on the sources of your knowledge on current cultural, economical and political developments. What do you read/watch? Why? Do you trust the source? What is your trust based on?
+### 6.c The newspaper and the website as sources of knowledge 
+Depeding on your age and education, you will be accustomed to specific kinds of news, either television, radio, newspapers, news feeds through your mobile phone, or websites that publish news. This assignment asks you to reflect on the sources of your knowledge on current cultural, economical and political developments. 
 - Choose a current topic or event and compare how it is represented in a paper newspaper, a news website, a newsreel on the radio and on the television. 
-Complete the table in your template on the basis of the key questions listed above. 
+- Complete the table in your template on the basis of these key questions:
+- Why have you chosen these particular news sources? 
+- Do you trust these sources? 
+- What is your trust based on?
 
 <!-- briefing-teacher -->
 
