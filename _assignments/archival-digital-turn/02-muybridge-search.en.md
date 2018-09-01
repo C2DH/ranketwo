@@ -23,7 +23,7 @@ First get some insights about how search engines work:
 
 <!-- briefing-student -->
 
-### 2a. Google compared to Yahoo
+### 2.a Google compared to Yahoo
 <!-- section-contents -->
 
 - Open two windows on your screen, one with Google and one with Yahoo and conduct a search on Eadward Muybridge in both
@@ -33,7 +33,7 @@ First get some insights about how search engines work:
 - Find out whether one or more of these organisations possess the original analogue glass plates 
 
 <!-- section -->
-### 2b. Change your settings
+### 2.b Change your settings
 <!-- section-contents -->
 
 - What you can find on the web is also determined by the settings of your search engine. If you change them to another language you might get different results.
