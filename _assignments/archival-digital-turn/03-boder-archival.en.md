@@ -18,7 +18,7 @@ Watch this short animation of [6,5 minutes about David Boder](https://c2dh.githu
 <!-- more -->
 
 <!-- briefing-student -->
-### 3a. From Steel Wires to Interactive Website 
+### 3.a From Steel Wires to Interactive Website 
 <!-- section-contents -->
 - What are the transformations and technologies that are used for the sound and for the textual representations of Boder's interviews? 
 The dates in the template can help you with finding the right answer
@@ -26,7 +26,7 @@ The dates in the template can help you with finding the right answer
 
 
 <!-- section -->
-### 3b. Restoration or replacement?
+### 3.b Restoration or replacement?
 <!-- section-contents -->
 
 - Read this [short article by curator Ralph Pugh of the Illinois Institute of Technology](https://drive.google.com/open?id=1AtN6BKshFShiEE_6Hl-RTLcCJIe60ySI), about the process of publishing the collection online. What does he say about decisions that were taken with regard to the restoration of the sound? 
