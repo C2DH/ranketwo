@@ -27,7 +27,7 @@ viewed/read and re-used on the web.
 
 <!-- briefing-student -->
 
-### 1a. The original technology
+### 1.a The original technology
 <!-- section-contents -->
 For capturing images, Muybridge had to rely on the technologies that were available at that time. 
 - Try to find out what he used by consulting the sources below. 
@@ -43,7 +43,7 @@ Additional questions:
 Document your findings in your template. 
 
 <!-- section -->
-### 1b. Re-use of Muybridge’s material: the father of the *GIF*?
+### 1.b Re-use of Muybridge’s material: the father of the *GIF*?
 <!-- section-contents -->
 
 Muybridge has been coined as the father of the *GIF*, a very recent development related to digital technology. This comparison points to how existing principles are adapted and re-used in new forms and brings into question whether we can speak about an original work of art or innovation. The same applies of course with regard to historical sources.  
@@ -72,7 +72,7 @@ Muybridge has been coined as the father of the *GIF*, a very recent development 
 [An opera](https://en.wikipedia.org/wiki/The_Photographer)
 
 <!-- section -->
-### 1c. A new life on the web
+### 1.c A new life on the web
 <!-- section-contents -->
 All the content that can be viewed through the links provided in assignment 1b has been published on the web at some point with a particular reason. 
 - Try to complete the template for your assignments with details about how the work inspired by Muybridge was published on the web:
