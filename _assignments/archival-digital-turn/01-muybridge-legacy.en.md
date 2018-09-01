@@ -74,7 +74,12 @@ Muybridge has been coined as the father of the *GIF*, a very recent development 
 <!-- section -->
 ### 1c. A new life on the web
 <!-- section-contents -->
-All the content that can be viewed through the links provided in assignment 1b has been published on the web at some point with a particular reason. Try to complete the template for your assignments with details about how the work inspired by Muybridge was published on the web: who, when, what kind of platform and why. 
+All the content that can be viewed through the links provided in assignment 1b has been published on the web at some point with a particular reason. 
+- Try to complete the template for your assignments with details about how the work inspired by Muybridge was published on the web:
+- On what kind of platform was it published?
+- What could be the motive?
+- When and where
+
 
 
 <!-- section -->
