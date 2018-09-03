@@ -34,9 +34,9 @@ bla bla bla bla bla
 
 
 
-[card](dsc-skill-training)
+[block](dsc-skill-training)
 
-[card](quelle)
+[block](quelle)
 
 ### References
 
