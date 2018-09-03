@@ -1291,6 +1291,11 @@
             type: video
             provider_url: 'https://www.youtube.com/'
             thumbnail_height: 360
+        year: 2013
+        date_published:
+            en_us: 2013
+        abstract:
+            en_us: 'One computer expert working alone has built a historic newspaper site (http://fultonhistory.com) that''s orders of magnitude bigger and more popular than one created by a federal bureaucracy with millions of dollars to spend. Armed only with a few PCs and a cheap microfilm scanner, Tom Tryniski has played David to the Library of Congress'' Goliath.'
     url: 'https://youtu.be/KVWDX6oaYCg'
     _id: d8b0a7c60ce3481a899e33bc04bed3eb
     _resolved: true
