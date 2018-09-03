@@ -8,12 +8,6 @@ documents:
 - dsc-skill-training
 ---
 
-
-
-
-
-
-
 ***Origin*** [information crowdsourced during PhD skill training - October 2017]
 
 Components: Digital -  Source   -  Criticism
@@ -22,3 +16,12 @@ Components: Digital -  Source   -  Criticism
 ***Criticism***	Early 17th century: from critic or Latin criticus + -ism.	The analysis and judgement of the merits and faults of (a literary or artistic work); 	Oxford dictionary
 
 ***Digital Source***		"a set of structured information, modelled, passed on to the computer and processed by it;
+
+## Literature
+Many websites don't mention a specific definition. Many University library websites connect the term to electronic repositories or online sources without explanation."	"J.-Ph. Genet, « Source, métasource, texte, histoire », in: F. Bocchi et P. Denley
+(éd.), Storia & Multimedia, Bologna (1994), pp. 3-17.; University libraries website, general google search engine output"
+
+Source Criticism	19th century	evalution of information sources and critical research assessement	"Text of Anita
+ (Birger Hjorland)"
+
+Digital Source Criticism	Google Scholar, first use 2001 ""Digital Source Criticism: Net Art as a Methodological Case Study" pdf"	The analysis and judgement of the merits and faults of data in the form of numerical digits used to provide evidence in research; The practice of source criticism but in a digital context; 	
