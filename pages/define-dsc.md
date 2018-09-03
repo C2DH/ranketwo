@@ -38,7 +38,7 @@ bla bla bla bla bla
 
 [block](quelle)
 
-### References
+### Literature related to the concept of Digital Source Criticism
 
 [ref](bothe-zeugnisse-uberlebender-der-shoah)
 
