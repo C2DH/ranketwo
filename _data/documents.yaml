@@ -1305,8 +1305,8 @@
     type: link
     data:
         date:
-            en_us: 2018
-        year: 2018
+            en_us: 2017
+        year: 2017
         abstract:
             en_us: 'this is bla bla '
     attachment: images/DSC-skill-training.jpg
@@ -1315,6 +1315,9 @@
     title: 'Expert Meeting,  18-12-2017 : Various Perspectives on the concept of Digital Source Criticism '
     slug: quelle
     type: link
-    data: {}
-    attachment: images/DSC-skill-training.jpg
+    data:
+        date:
+            en_us: 2017
+        year: 2017
+    attachment: images/source.png
     _id: 8346d5460f98484f889a4197eb750d69
