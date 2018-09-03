@@ -11,7 +11,5 @@ iframe: archival-to-digital-turn-playposit
 
 This quiz is designed to test your understanding of the topic. The animation is shown again, but this time it is interspersed with eight multiple-choice questions that appear on the screen and have to be answered before you can continue with the clip.
 
-**Open this link and take the Quiz!**
-
 
 <!-- more -->

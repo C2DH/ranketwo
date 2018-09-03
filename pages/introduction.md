@@ -18,9 +18,10 @@ documents:
 <!-- more -->
 
 
-![DSCATM.png](https://c2dh.github.io/ranketwo/assets/images/DSCATM.png)
-
 ### Why Digital Source Criticism?
+
+
+![DSCATM.png](https://c2dh.github.io/ranketwo/assets/images/DSCATM.png){:height="200px" .float-left.mr-3.mt-2.mb-4}
 Historians of the 21st century need to be aware of the specific nature of the digital sources they analyse in their research.
 The critical interrogation of historical sources has always formed the basis of historical scholarship. Questioning the authenticity of a source by finding out who created it, at what time, for what purpose and in what context is a key part of our research practices. But now that we have seemingly unlimited access to retro-digitised material and born-digital data through the web, we need to learn how to critically assess digital resources, just as we have always done with “analogue” materials.
 
@@ -47,7 +48,7 @@ The lessons we offer on this website are a crossover between history, archival s
 Students who complete one or more of these lessons will:
 
  1. Understand how digitisation and the web have changed the nature of historical research
- 2. Learn how digital objects are created (retro-digitised, born-digital, converted documents) 
+ 2. Learn how digital objects are created (retro-digitised, born-digital, converted documents)
  3. Learn how to question the concept of the “original”
  4. Learn how information is added to a digital object (metadata)
  5. Learn how data is published online and made searchable

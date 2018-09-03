@@ -4,6 +4,7 @@
   function Ranketwo() {
     var _self = this;
     this.docs = {};
+    this.relativePath = '';
     this.log = function() {
       var args = Array.prototype.slice.call(arguments);
       console.log.apply(console, ['%cR2', 'color:cyan; background-color: magenta'].concat(args));
@@ -19,7 +20,9 @@
       }
     }
 
-
+    this.setRelativePath = function(path) {
+      this.relativePath = path;
+    }
 
     this.transformLinks = function() {
       var aTags = d3.selectAll('a')
@@ -46,6 +49,10 @@
                   .attr('target', '_blank');
                 break;
               case 'block':
+                var block = _self.createBlock(doc);
+                this.parentNode.insertBefore(block.node(), this);
+                this.remove()
+                break;
               case 'card':
                 var card = _self.createCard(doc);
                 this.parentNode.insertBefore(card.node(), this);
@@ -149,6 +156,43 @@
           .attr('href', doc.url)
           .classed('media-image', true)
           .style('background-image', 'url('+ doc.data.embed.thumbnail_url + ')');
+      }
+      // create body
+      var cardBody = card
+        .append('div')
+        .classed('media-body', true);
+
+      // title
+      cardBody
+        .append('h5').html('<a href="'+ doc.url +'" target="_blank">' + doc.title + '</a>');
+      if (doc.data && doc.data.embed && doc.data.embed.author_name) {
+        cardBody.append('p')
+          .text(doc.data.embed.author_name+ ', ' + doc.data.year);
+
+      } else if (doc.author) {
+        cardBody.append('p')
+          .text(doc.author+ ', ' + doc.data.year);
+      }
+      return card
+    }
+
+    this.createBlock = function(doc) {
+      var card = d3.select(document.createElement("div"))
+
+      card.classed('media media-block ml-3', true);
+
+      // create image wrapper
+      if (doc.data) {
+        var blockImage = card.append('div')
+          .classed('mr-3', true)
+          .append('a')
+          .attr('href', doc.url)
+          .classed('media-image', true);
+
+        if(doc.attachment) {
+          blockImage.style('background-image', 'url('+ _self.relativePath + doc.attachment + ')');
+        }
+
       }
       // create body
       var cardBody = card

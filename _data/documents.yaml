@@ -1309,7 +1309,7 @@
         year: 2017
         abstract:
             en_us: 'this is bla bla '
-    attachment: images/DSC-skill-training.jpg
+    attachment: /assets/images/DSC-skill-training.jpg
     _id: 077d152cae3240ffa6935ddd7d864014
 -
     title: 'Expert Meeting,  18-12-2017 : Various Perspectives on the concept of Digital Source Criticism '
@@ -1321,7 +1321,7 @@
         year: 2017
         abstract:
             en_us: 'this is bla bla '
-    attachment: images/source.png
+    attachment: /assets/images/source.png
     _id: 8346d5460f98484f889a4197eb750d69
 -
     title: 'Neue Erkenntnisse Durch Digitalisierte Geschichtswissenschaft(en)? Zur Hermeneutischen Reichweite Aktueller Digitaler Methoden in Informationszentrierten Fächern'
