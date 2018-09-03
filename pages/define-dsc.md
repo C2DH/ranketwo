@@ -6,6 +6,7 @@ link: /define-dsc/
 title: Defining Digital Source Criticism
 documents: 
 - dsc-skill-training
+- quelle
 ---
 
 
@@ -14,11 +15,9 @@ Tracing the origin and the different interpreations of the term ***Digital Sourc
 
 <!-- more -->
 
-
-
 [card](dsc-skill-training)
 
-[card]
+[card](quelle)
 
 ### Literature
 Many websites don't mention a specific definition. Many University library websites connect the term to electronic repositories or online sources without explanation."	"J.-Ph. Genet, « Source, métasource, texte, histoire », in: F. Bocchi et P. Denley
