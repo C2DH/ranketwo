@@ -31,8 +31,8 @@ Then go through the key questions that should be asked when applying source crit
 Selection
 
 - Why was this collection selected for digitization?
-- is it complete? Which part of the collection is covered? 
-- is it representative?
+- Is it complete? Which part of the collection is covered? 
+- Is it representative?
 
 Transformation from analogue to digital source
 
@@ -92,11 +92,11 @@ Complete the table in your template with the answers to the following questions:
 | ANNO (DE) |   |   |   |  
 | Zeitungsportal DDR-Presse (DE) |   |   |   |
 
-Selection
-- Which titles have been digitised?
-Identify the titles that are available at your local library and which one where digitised? 
-- If this is not feasible, compare the titles available on ProQuest, Chronicling America to the list of the Library of Congress, see list of links below.
-- Is the information easily available? What is the proportion of digitised vs. non digitised?
+Selection: Which titles have been digitised? 
+At your local library, identify 4 newspapers titles, two that have been digitised, two that have not (yet) been digitised.  
+If this is not feasible, compare the titles available on ProQuest, Chronicling America to the list of the Library of Congress, see list of links below, choose 4 titles, two that have been digitised, two that have not (yet) been digitised.
+- Is the information easily available, on the available format of the newspapers? 
+- Can you identify what is the proportion of digitised vs. non digitised?
 - What type of newspapers were digitised first? What type has not been digitised (yet)?
 
 <!-- section -->
@@ -106,7 +106,7 @@ Identify the titles that are available at your local library and which one where
 
 Newspapers are published regularly and collected on a daily or weekly basis, representing events that take place in society. One may find a great diversity of newspapers, with sometimes unexpected titles or languages in a national library’s collection. For instance, in the Austrian national library, we can find newspapers printed throughout the former Austro-hungarian empire until 1918. In the Polish national library, we find newspapers reflecting the presence of specific cultural communities in the past, written in hebrew, yiddish, russian, and german. This item in the [news website gizmodo about newspapers with an old tradition](https://io9.gizmodo.com/the-worlds-oldest-newspapers-still-being-published-tod-1369904730) illustrates the continuity of some newspapers. It is striking to see the difference in appearance. Reading the newspaper is also a practice that contributes to a sense of national identity. You will be comparing paper to digital newspapers and the representation of events over time. 
 
-- Collect articles on two particular events and recreate the chronology of these events, using one newspaper title in paper of a recent event,  and one in digital form of the past . 
+- Collect articles on two events and recreate the chronology of these events, using one newspaper title in paper of a recent event, and one in digital form of the past . 
 
 For the “hard-copy” search: go to the library and collect articles on that event from the available newspapers  (suggestions: an election, a sports event, an art performance such as a concert etc.)
 
