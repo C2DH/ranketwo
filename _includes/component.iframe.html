@@ -7,7 +7,7 @@
   {% if iframe %}
     <div class='iframe-wrapper {{iframe.aspectratio}}'>
       <div class='inner' id='iframe-{{iframe.id}}' style='background-image:url({{cover_url}})'>
-
+        <div class='iframe-wrapper--toggler'><img src='{{ "assets/images/play-button.svg" | relative_url }}'/></div>
       </div>
 
     </div>

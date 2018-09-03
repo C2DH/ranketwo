@@ -23,6 +23,28 @@
       bottom: 0;
       right: 0;
     }
+
+    &:hover .iframe-wrapper--toggler{
+      opacity: 1;
+      animation-name: pulse;
+      animation-duration: 1s;
+      animation-fill-mode: both;
+    }
+  }
+
+  .iframe-wrapper--toggler{
+    cursor: pointer;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -20px;
+    margin-top: -20px;
+    width: 40px;
+    opacity: .8;
+    transition: all .2s ease-in-out;
+    img{
+      width: 100%;
+    }
   }
 
   section{

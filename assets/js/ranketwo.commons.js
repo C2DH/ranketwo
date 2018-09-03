@@ -4,6 +4,7 @@
 
   r2.commons.buildIframeEventHandler = function (id, src, type) {
     var iframeWrapper = d3.select(id);
+    var iframeWrapperToggler = iframeWrapper.select('.iframe-wrapper--toggler');
     var vimeoPlayer;
     var ready = false;
 
@@ -16,6 +17,7 @@
         return;
       }
       ready = true;
+      iframeWrapperToggler.style('display', 'none');
       var _iframe = iframeWrapper.append('iframe')
         .attr('width', '100%')
         .attr('height', '100%')
