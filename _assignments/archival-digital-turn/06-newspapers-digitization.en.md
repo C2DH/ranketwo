@@ -57,8 +57,6 @@ You are going to find out how this is arranged for a number of collections.
 
 - Open up the links to the following collections, browse throught the content, and choose at least two newspapers in a language you feel comfortable with. 
 
-| | 1. Institution | 2. Type of access | 3. Interface | 4. Collection specificities
--- | -- | -- | -- | --
 [Europeana newspapers](http://www.europeana-newspapers.eu) (multilingual)  
 [E-Newspapers CH](http://www.onlinenewspapers.com/switzerl.htm) (FR+DE)  
 [Gallica](https://gallica.bnf.fr/html/und/presse-et-revues/presse-et-revues)(FR)  
@@ -67,7 +65,7 @@ You are going to find out how this is arranged for a number of collections.
 [Chronicling America](https://chroniclingamerica.loc.gov)(EN) 
 [Delpher](https://www.delpher.nl) (NL)   
 [ANNO](http://anno.onb.ac.at/anno-suche#searchMode=simple&from=1)(DE)  
-[Zeitungsportal DDR-Presse[(http://zefys.staatsbibliothek-berlin.de/ddr-presse/) (DE) 
+[Zeitungsportal DDR-Presse](http://zefys.staatsbibliothek-berlin.de/ddr-presse/) (DE) 
 
 Complete the table in your template with the answers to the following questions:
 - What type of institution carried out the digitisation? public/private, for commercial/academic/preservation purpose?
@@ -79,6 +77,18 @@ Complete the table in your template with the answers to the following questions:
 - In which languages are they available? 
 - Are there some special sub-collections? 
 - What information is provided on each individual title by the institution?
+
+| | 1. Institution | 2. Type of access | 3. Interface | 4. Collection specificities
+-- | -- | -- | -- | --
+Europeana newspapers (multilingual) |   |   |   |  
+E-Newspapers CH (FR+DE) |   |   |   |  
+Gallica (FR) |   |   |   |  
+Retronews (FR) |   |   |   |  
+ProQuest (EN) |   |   |   |  
+Chronicling America (EN) |   |   |   |  
+Delpher (NL) |   |   |   |  
+ANNO (DE) |   |   |   |  
+Zeitungsportal DDR-Presse (DE) |   |   |   |
 
 Selection
 - Which titles have been digitised?
