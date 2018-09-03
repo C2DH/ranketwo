@@ -26,7 +26,7 @@ documents:
 - zaagsma-digital-history
 ---
 
-C2DH's take of Digital Source Criticism
+How to agree on the meaning of a term that is used in so many different contexts? This is what the C2DH proposes
 
 <!-- more -->
 
