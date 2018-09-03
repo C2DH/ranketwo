@@ -16,11 +16,12 @@ documents:
 
 When instituions cease to exist, they often hand over their papers to an archive to preserve the history of their existence. This was the case with the Western European Union (WEU), an organisation for military collaboration within Europe, set up in 1954 with the goal of creating a Europen Army that would integrate Germany, a condition that was seen as crucial to prevent the outbreak of a next war. The WEU existed aside the more powerful North Atlantic Treatee with the US in the lead. Its share in international military operations was therefore modest, which is symbolized by its nickname 'The sleeping beauty'. The WEU's documents were handed over to the Luxembourg national archives and digitised to be published online. They form the basis for this assignment, which is meant to teach you how a paper collection of institutional documents in French is turned into machine readable content that you can consult through your screen.   
 
-<!-- more -->
-<!-- briefing-student -->
+
 The comparative analysis between paper and digital sources is intended to encourage reflection on the informational and artefactual characteristics of a historical source, its historical context, the selection criteria for archiving and digitization, as well as the transformational chain from one support to the other.
 
-<!-- section -->
+<!-- more -->
+<!-- briefing-student -->
+
 ### Instruction
 <!-- section-contents -->
 
