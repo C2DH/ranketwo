@@ -13,21 +13,19 @@ order: 5
 documents:
   - owens-sources-evidentiary-digital-history
 ---
-<!-- more -->
-
 
 When instituions cease to exist, they often hand over their papers to an archive to preserve the history of their existence. This was the case with the Western European Union (WEU), an organisation for military collaboration within Europe, set up in 1954 with the goal of creating a Europen Army that would integrate Germany, a condition that was seen as crucial to prevent the outbreak of a next war. The WEU existed aside the more powerful North Atlantic Treatee with the US in the lead. Its share in international military operations was therefore modest, which is symbolized by its nickname 'The sleeping beauty'. The WEU's documents were handed over to the Luxembourg national archives and digitised to be published online. They form the basis for this assignment, which is meant to teach you how a paper collection of institutional documents in French is turned into machine readable content that you can consult through your screen.   
 
-
+<!-- more -->
 <!-- briefing-student -->
 The comparative analysis between paper and digital sources is intended to encourage reflection on the informational and artefactual characteristics of a historical source, its historical context, the selection criteria for archiving and digitization, as well as the transformational chain from one support to the other.
 
 <!-- section -->
-### Instruction 
+### Instruction
 <!-- section-contents -->
 
-Read the [foreword and the introduction to the corpus of the WEU](https://www.cvce.eu/en/recherche/unit-content/-/unit/72d9869d-ff72-493e-a0e3-bedb3e671faa/fe555bab-5322-410b-98e5-96469d1a7de0) on the site of the Centre Virtuel de la Conaissance Europenne. This centre is now part of the Luxembourg Centre for European and Digital History. To have an idea of what kind of people discussed matters and created documents, watch a clip of a [meeting of members of the WEU in 1960 in Brussels](http://ec.europa.eu/avservices/play.cfm?ref=I001677&lg=MUE&sublg=none&autoplay=false) Compare it with [a meeting in Paris in 1997[(https://www.youtube.com/watch?v=iFjISWWzZUY). 
-The texts and the clips will give you an impression of the type of organisation and of the documents it produced. 
+Read the [foreword and the introduction to the corpus of the WEU](https://www.cvce.eu/en/recherche/unit-content/-/unit/72d9869d-ff72-493e-a0e3-bedb3e671faa/fe555bab-5322-410b-98e5-96469d1a7de0) on the site of the Centre Virtuel de la Conaissance Europenne. This centre is now part of the Luxembourg Centre for European and Digital History. To have an idea of what kind of people discussed matters and created documents, watch a clip of a [meeting of members of the WEU in 1960 in Brussels](http://ec.europa.eu/avservices/play.cfm?ref=I001677&lg=MUE&sublg=none&autoplay=false) Compare it with [a meeting in Paris in 1997[(https://www.youtube.com/watch?v=iFjISWWzZUY).
+The texts and the clips will give you an impression of the type of organisation and of the documents it produced.
 
 
 <!-- section -->
@@ -42,13 +40,13 @@ Then read section 1 to 3 of this [article published by the CVCE](https://journal
 
 Note the answers to the questions below in your template
 - What is WEU-Diplo?
-- What is the collection about and what period does it span? 
+- What is the collection about and what period does it span?
 - Why was the corpus selected and by whom?
 - What criteria of selection have been applied?
 - What processing was necessary in the transformation from print to digital?
 
 <!-- section -->
-### 4.b  From natural language to computer language 
+### 4.b  From natural language to computer language
 <!-- section-contents -->
 Encoding the WEU-Diplo corpus in an XML-TEI format was only the first step in a whole chain. The next one was importing the XML-TEI into the CVCE [Back End / Front End system](https://www.youtube.com/watch?v=LzL4I4Pt7GU), this is further transformed into HTML, to create webpages, and published on the CVCE Website, in order to be visualised in the browser via a dedicated interface. [Here](https://www.cvce.eu/search?q=*&format=tei%2Bxml&publication=e7c423ed-a376-4a57-a415-f8519344e558) you can see the results of a search using the CVCE search engine. Find out how the information is organised on the screen (left/right):
 
@@ -61,22 +59,22 @@ Note the answers to the questions below in your template:
 <!-- section -->
 ### 4.c Digging a layer deeper
 <!-- section-contents -->
-Browse through the documents from the list to get an impression of the content. 
+Browse through the documents from the list to get an impression of the content.
 - Select a minimum of 5 documents of your choice to open and examine in more detail.
 - Write down your observations with regard to the questions below:
 - Can you identify any metadata for each document and what can you get to know through this type of information?
 - Does the interface provide any hints about how it should be used?
 - What features are available for visualisation and navigation through a document?
-- How have the documents been made searchable? 
-- Can you relate any of these structural or search features to the encoding presented in the second article (point 2a)? 
+- How have the documents been made searchable?
+- Can you relate any of these structural or search features to the encoding presented in the second article (point 2a)?
 - Is there any additional feature that you think is missing and would like to see provided with the interface? Why?
 
 <!-- section -->
-### 4.d Consult the documents from the list you have created (point 2.c), on-site at the ANLUX. 
+### 4.d Consult the documents from the list you have created (point 2.c), on-site at the ANLUX.
 <!-- section-contents -->
-Take note of the: 
-- particularities of the search and consultation process, 
-- material characteristics of the documents themselves, 
+Take note of the:
+- particularities of the search and consultation process,
+- material characteristics of the documents themselves,
 - Keeping in mind the articles you have read (point 2.a), the questions above and the comparison with the digital edition published on the Website (points 2.b, 2.c), write a short essay (1 – 3 pages) about your findings.
 
 <!-- briefing-teacher -->
