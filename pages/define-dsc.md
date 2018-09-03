@@ -5,6 +5,7 @@ permalink: /define-dsc/
 link: /define-dsc/
 title: Defining Digital Source Criticism
 documents: 
+- dsc-skill-training
 ---
 
 
@@ -23,6 +24,11 @@ Components: Digital -  Source   -  Criticism
 
 ***Digital Source***		"a set of structured information, modelled, passed on to the computer and processed by it;
 
+
+[card](dsc-skill-training)
+
+
+### Literature
 Many websites don't mention a specific definition. Many University library websites connect the term to electronic repositories or online sources without explanation."	"J.-Ph. Genet, « Source, métasource, texte, histoire », in: F. Bocchi et P. Denley
 (éd.), Storia & Multimedia, Bologna (1994), pp. 3-17.; University libraries website, general google search engine output"
 
