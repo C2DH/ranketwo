@@ -41,7 +41,7 @@
                 break;
               case 'cit':
                 d3.select(this)
-                  .html(_self.refAuthorTitleYear(doc))
+                  .html('(' + _self.refAuthorTitleYear(doc) + ')')
                   .attr('href', doc.url)
                   .attr('target', '_blank');
                 break;
@@ -106,14 +106,14 @@
     }
 
     this.refAuthorTitleYear = function(doc) {
-      return '(' + [doc.data.author, '<em>' + doc.title.replace(/[\s,]$/, '') + '</em>', doc.data.year]
+      return [doc.data.author.replace(/[\s,]$/, ''), '<em>' + doc.title.replace(/[\s,]$/, '') + '</em>', doc.data.year]
         .filter(function(d) {
           return typeof d !== 'undefined';
         })
         .map(function(d) {
           return ('' + d).replace(/\s*,\s*$/, '');
         })
-        .join(', ') + ')';
+        .join(', ');
     }
 
     this.createRef = function(doc) {
@@ -127,7 +127,7 @@
             .attr('target', '_blank');
       } else {
         ref
-          .html(doc.title.replace(/[\s,]$/, '') + '<br>')
+          .html(_self.refAuthorTitleYear(doc) + '<br>')
           .append('a')
             .html('&rarr;&nbsp;' + _self.refAuthorYear(doc))
             .attr('href', doc.url)
