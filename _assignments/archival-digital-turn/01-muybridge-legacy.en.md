@@ -29,8 +29,8 @@ viewed/read and re-used on the web.
 
 ### 1.a The original technology
 <!-- section-contents -->
-For capturing images, Muybridge had to rely on the technologies that were available at that time. 
-- Try to find out what he used by consulting the sources below. 
+For capturing images, Muybridge had to rely on the technologies that were available at that time.
+- Try to find out what he used by consulting the sources below.
 - Visit the wayback machine, an archive for websites, where you can find a digital copy of a contemporary illustration from 1878,  
 of [Muybridge’s experiment with the horse Sally Gardner](https://web.archive.org/web/20120730172726/http://popartmachine.com/artwork/LOC+1071481/0/The-horse-in-motion,-illus.-by-Muybridge.-)  
 - Consult the digital copy of another contemporary relevant source, [the catalogue of an exhibit on Muybridge held in Stanford in 1972](https://archive.org/stream/eadweardmuybridg00maye/eadweardmuybridg00maye_djvu.txt)
@@ -40,7 +40,7 @@ It has also been digitized by the wayback machine/Internet Archive
 Additional questions:
 - Was this technology an American invention, or was it imported from Europe?
 - Were there parallel experiments in other places in the world in the same period or can Muybridge rightly claim to be the pioneer in cinematography?
-Document your findings in your template. 
+Document your findings in your template.
 
 <!-- section -->
 ### 1.b Re-use of Muybridge’s material: the father of the *GIF*?
@@ -50,7 +50,7 @@ Muybridge has been coined as the father of the *GIF*, a very recent development 
 
 -  Watch this clip created by video activist Kirby Ferguson about how creation is based on the re-use of older material: [Everything is a re-mix](https://vimeo.com/kirbyferguson/remix2015)
 - Find out what [the origin of a GIF](https://en.wikipedia.org/wiki/GIF) is  
-- Below you will find a list of artists/photographers that have been inspired by Muybridge. Open the links to collect information for your table in the template. 
+- Below you will find a list of artists/photographers that have been inspired by Muybridge. Open the links to collect information for your table in the template.
 - What kind of organisation/artist/scholar re-used aspects of Muybridge’s work/life/art?
 - In which context? List the objective, the time frame and the location
 - What is the element from Muybridge's work that has been the source of inspiration and has been reused?  
@@ -74,15 +74,11 @@ Muybridge has been coined as the father of the *GIF*, a very recent development 
 <!-- section -->
 ### 1.c A new life on the web
 <!-- section-contents -->
-All the content that can be viewed through the links provided in assignment 1b has been published on the web at some point with a particular reason. 
+All the content that can be viewed through the links provided in assignment 1b has been published on the web at some point with a particular reason.
 - Try to complete the template for your assignments with details about how the work inspired by Muybridge was published on the web:
 - On what kind of platform was it published?
 - What could be the motive?
 - When and where
-
-
-
-<!-- section -->
 
 <!-- briefing-teacher -->
 ## Briefing lecturer
