@@ -4,6 +4,8 @@ unit: archival-digital-turn
 lang: en
 title: Clinton's e-mails and Margaret's letters 
 cover:
+authors:
+  - max-kemman
 tags:
   - structure of born digital content
   - changes in conventions of writing 
