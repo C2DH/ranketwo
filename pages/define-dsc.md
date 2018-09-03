@@ -18,6 +18,8 @@ Tracing the origin and the different interpreations of the term ***Digital Sourc
 
 [card](dsc-skill-training)
 
+[card]
+
 ### Literature
 Many websites don't mention a specific definition. Many University library websites connect the term to electronic repositories or online sources without explanation."	"J.-Ph. Genet, « Source, métasource, texte, histoire », in: F. Bocchi et P. Denley
 (éd.), Storia & Multimedia, Bologna (1994), pp. 3-17.; University libraries website, general google search engine output"
