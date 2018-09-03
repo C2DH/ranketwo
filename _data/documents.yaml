@@ -1271,3 +1271,26 @@
     url: 'https://www.youtube.com/watch?v=wNU7sXkZmSw&feature=youtu.be'
     _id: 14459a36a176461fb8f9b2818677c2a2
     _resolved: true
+-
+    title: "Amateur Beats Gov't at Digitizing Newspapers: Tom Tryniski's Weird, Wonderful Website\n"
+    slug: tom-tryniski
+    type: video
+    data:
+        embed:
+            version: '1.0'
+            html: "\n<iframe width=\" 480\"  height=\"100%\" src=\"https://www.youtube.com/embed/KVWDX6oaYCg?feature=oembed\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\n"
+            width: 480
+            provider_name: YouTube
+            author_name: ReasonTV
+            title: 'Amateur Beats Gov''t at Digitizing Newspapers: Tom Tryniski''s Weird, Wonderful Website'
+            url: 'https://youtu.be/KVWDX6oaYCg'
+            thumbnail_width: 480
+            height: 270
+            thumbnail_url: 'https://i.ytimg.com/vi/KVWDX6oaYCg/hqdefault.jpg'
+            author_url: 'https://www.youtube.com/user/ReasonTV'
+            type: video
+            provider_url: 'https://www.youtube.com/'
+            thumbnail_height: 360
+    url: 'https://youtu.be/KVWDX6oaYCg'
+    _id: d8b0a7c60ce3481a899e33bc04bed3eb
+    _resolved: true
