@@ -1299,3 +1299,22 @@
     url: 'https://youtu.be/KVWDX6oaYCg'
     _id: d8b0a7c60ce3481a899e33bc04bed3eb
     _resolved: true
+-
+    title: 'Phd Skill Training, 30/31-10-2017: Exploring the origin and use of the term  Digital Source Criticism '
+    slug: dsc-skill-training
+    type: link
+    data:
+        date:
+            en_us: 2018
+        year: 2018
+        abstract:
+            en_us: 'this is bla bla '
+    attachment: images/DSC-skill-training.jpg
+    _id: 077d152cae3240ffa6935ddd7d864014
+-
+    title: 'Expert Meeting,  18-12-2017 : Various Perspectives on the concept of Digital Source Criticism '
+    slug: quelle
+    type: link
+    data: {}
+    attachment: images/DSC-skill-training.jpg
+    _id: 8346d5460f98484f889a4197eb750d69
