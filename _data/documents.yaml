@@ -1319,5 +1319,20 @@
         date:
             en_us: 2017
         year: 2017
+        abstract:
+            en_us: 'this is bla bla '
     attachment: images/source.png
     _id: 8346d5460f98484f889a4197eb750d69
+-
+    title: 'Neue Erkenntnisse Durch Digitalisierte Geschichtswissenschaft(en)? Zur Hermeneutischen Reichweite Aktueller Digitaler Methoden in Informationszentrierten Fächern'
+    slug: wettlaufer-erkenntnisse-digitalisierte-geschichtswissenschaft-hermeneutischen
+    type: link
+    data:
+        title:
+            en_us: 'Neue Erkenntnisse Durch Digitalisierte Geschichtswissenschaft(en)? Zur Hermeneutischen Reichweite Aktueller Digitaler Methoden in Informationszentrierten Fächern'
+        author: 'Jorg Wettlaufer'
+        date:
+            en_us: 2016
+        year: 2016
+    url: 'https://doi:10.17175/2016_011. http://zfdg.de/2016_011'
+    _id: 890535e0bbf94004abb05765cf67e993

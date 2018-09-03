@@ -4,7 +4,7 @@ lang: en
 permalink: /define-dsc/
 link: /define-dsc/
 title: Defining Digital Source Criticism
-documents: 
+documents:
 - dsc-skill-training
 - quelle
 - bothe-zeugnisse-uberlebender-der-shoah
@@ -17,18 +17,18 @@ documents:
 - mounier-ouvrir-atelier-historien
 - owens-digital-sources-digital-archives
 - rheingold-crapp-detection
-- schreiber-genuine-internetdaten-quellen 
+- schreiber-genuine-internetdaten-quellen
 - solberg-advances-history-rhetoric
-- sternfeld-understanding-quantum-age 
+- sternfeld-understanding-quantum-age
 - terras-digitisation-resources-humanities
-- treleani-recontextualisation-audiovisuels 
+- treleani-recontextualisation-audiovisuels
 - wettlaufer-erkenntnisse-digitalisierte-geschichtswissenschaft-hermeneutischen
 - zaagsma-digital-history
 ---
 
 
 
-Tracing the origin and the different interpreations of the term ***Digital Source Criticism*** 
+Tracing the origin and the different interpreations of the term ***Digital Source Criticism***
 
 <!-- more -->
 
@@ -37,22 +37,39 @@ Tracing the origin and the different interpreations of the term ***Digital Sourc
 [card](quelle)
 
 ### References
+
 [ref](bothe-zeugnisse-uberlebender-der-shoah)
+
 [ref](delalande-vincent-historien-cyborg)
+
 [ref](hughes-lang-transmutability-decontextualization)
+
 [ref](fickers-towards-digital-historicism-age-abundance)
+
 [ref](hjorland-information-digital-literacy)
+
 [ref](kirschbaum-digital-forensics-cultural-heritage)
+
 [ref](margulies-digitale-geschichtswissenschaft-einfuhrung)
+
 [ref](mounier-ouvrir-atelier-historien)
+
 [ref](owens-digital-sources-digital-archives)
+
 [ref](rheingold-crapp-detection)
-[ref](schreiber-genuine-internetdaten-quellen) 
+
+[ref](schreiber-genuine-internetdaten-quellen)
+
 [ref](solberg-advances-history-rhetoric)
-[ref](sternfeld-understanding-quantum-age) 
+
+[ref](sternfeld-understanding-quantum-age)
+
 [ref](terras-digitisation-resources-humanities)
-[ref](treleani-recontextualisation-audiovisuels) 
+
+[ref](treleani-recontextualisation-audiovisuels)
+
 [ref](wettlaufer-erkenntnisse-digitalisierte-geschichtswissenschaft-hermeneutischen)
+
 [ref](zaagsma-digital-history)
 
 ### Literature
@@ -66,14 +83,7 @@ Digital Source Criticism	Google Scholar, first use 2001 ""Digital Source Critici
 
 
 ***Interpretations*** [information from contributions expert meeting December 2017]
-based or recordings of the workshop 
+based or recordings of the workshop
 
 ***Definition of Digital Source Criticism***
 bla bla bla.......
-
-
-
-
-
-
-

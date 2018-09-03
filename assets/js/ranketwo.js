@@ -45,6 +45,7 @@
                   .attr('href', doc.url)
                   .attr('target', '_blank');
                 break;
+              case 'block':
               case 'card':
                 var card = _self.createCard(doc);
                 this.parentNode.insertBefore(card.node(), this);
@@ -120,6 +121,13 @@
       if (doc.data && doc.data.reference) {
         ref
           .html(doc.data.reference + '<br>')
+          .append('a')
+            .html('&rarr;&nbsp;' + _self.refAuthorYear(doc))
+            .attr('href', doc.url)
+            .attr('target', '_blank');
+      } else {
+        ref
+          .html(doc.title.replace(/[\s,]$/, '') + '<br>')
           .append('a')
             .html('&rarr;&nbsp;' + _self.refAuthorYear(doc))
             .attr('href', doc.url)
