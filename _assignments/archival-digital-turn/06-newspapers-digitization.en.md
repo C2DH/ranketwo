@@ -11,6 +11,7 @@ tags:
 requirements: Fast WIFI connection, scissors and paper
 learning outcomes:
 documents:
+ - tom-tryniski
 order: 6
 ---
 Newspapers have become an important media since the 19th century and offer valuable information about events and opinions in our past and present societies. Massive digitization of newspapers, which is ongoing in many (national) libraries, holds the promise a bonanza of data for historical research. Yet, in the process of creating online access to digital representations of a newspaper, certain choices are made, and some changes occur that historians need to understand. What you retrieve online is a selection of what archives contain. 
