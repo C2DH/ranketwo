@@ -4,6 +4,7 @@ lang: en
 permalink: /define-dsc/
 link: /define-dsc/
 title: Defining Digital Source Criticism
+documents: 
 ---
 
 
