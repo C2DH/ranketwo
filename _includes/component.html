@@ -15,11 +15,11 @@
     <div class="line right"></div>
     <!-- <div class='line top'></div> -->
     {% unless component.order and component.order != 1 %}
-        <div class='type'><span>{% assign key = component.type %}{% include t.html %}</span></div>
-    {% endunless %}
+        <div class='type'>{% assign key = component.type %}{% include t.html %}<span class='type-size'>S</span></div>
 
-
-
+        {% else %}
+    <div class='type'>ioioioioi</div>
+      {% endunless %}
   </div>
   <div class='container'>
     <div class='row'>
