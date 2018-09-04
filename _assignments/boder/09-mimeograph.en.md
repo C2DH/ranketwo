@@ -22,7 +22,7 @@ Watch the clip about reproduction technologies in the 1950s
 https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
 
 <!-- section -->
-### 9.a  Comparing reproduction technologies (30 min)
+### 9.a  Comparing reproduction technologies | 30 min
 <!-- section-contents -->
 
 Find out how a micro card works by clicking on this link to the [online archive of the Library of the Illineois University] 
@@ -36,12 +36,12 @@ Complete the table with a comparison between
 - the digital computer  
 
 <!-- section -->
-### 9.b  What is an authentic source (15 min)
+### 9.b  What is an authentic source | 15 min
 <!-- section-contents -->
 Assess whether the result of applying these reproduction technologies can be considered as an authentic historical source?
 
 <!-- section -->
-### 9.c  Mimeograph and Microcard (15 min)
+### 9.c  Mimeograph and Microcard | 15 min
 <!-- section-contents -->
 - What is the difference between copies made with a mimeograph and those made with a microcard? 
 - How does this relate to the benefits of digital technology? 

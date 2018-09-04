@@ -34,7 +34,7 @@ Go to:
 https://allthingsmoving.com/DB_interactive_2018_07_07/ and read the boc about the snippet of text
 
 <!-- section --> 
-### 12.a  A child of 15 compared to a women of 70 (60 min)
+### 12.a  A child of 15 compared to a women of 70 | 60 min
 <!-- section-contents -->
 
 What are the most striking differences between the interview in 1946 and the one in 2003?
@@ -55,7 +55,7 @@ If you don’t master Hebrew, download the English translation and
    open it in  another window
 
 <!-- section --> 
-### 12.b  What kind of technology was used to create the original interview with Edith Zierer in 1946 and the original interview in 2003? (30 min) 
+### 12.b  What kind of technology was used to create the original interview with Edith Zierer in 1946 and the original interview in 2003? | 30 min 
 <!-- section-contents -->
 
 How does this relate to the document that you are consulting online?

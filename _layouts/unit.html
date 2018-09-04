@@ -81,6 +81,7 @@ layout: default
       {% assign briefing_teacher = briefings | last %}
       {% assign briefing_sections = briefing_student | split: site.section_separator %}
 
+
     <!--  list of assignments. -->
 
     <div class='row pt-4 mt-4'>
@@ -90,7 +91,11 @@ layout: default
         <div class="component assignments">
 
           <section>
-          <h3 class='mb-3'><strong>{{assignment.order}} {% assign key="out of" %} {% include t.html %} {{assignments.size}} </strong>&mdash; {{assignment.title}}</h3>
+          <h3 class='mb-3'>
+            <strong>{{assignment.order}} {% assign key="out of" %} {% include t.html %} {{assignments.size}} </strong>
+            &mdash;
+            {{assignment.title}}
+          </h3>
           <blockquote>{{ assignment.excerpt | markdownify}}</blockquote>
 
 

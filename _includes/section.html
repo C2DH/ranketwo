@@ -2,7 +2,15 @@
   {% assign contents = section | split: site.section_content_separator %}
   <div class='section--toggler collapsible-toggler'>
     <div class='section--title'>
-   {{ contents | first | markdownify }}
+      {% assign title_parts = contents | first | split: " | " %}
+      {% assign title_parts_size =  title_parts | size %}
+
+      {% unless title_parts_size == 1 %}
+        <div class="float-right badge badge-secondary">{{ title_parts | last }}</div>
+      {% endunless %}
+      {{ title_parts | first | markdownify }}
+
+
     </div>
     <div class='section--icon'>
       <div class="icon-plus icon"></div>

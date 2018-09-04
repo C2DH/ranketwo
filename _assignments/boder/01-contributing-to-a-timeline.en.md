@@ -47,7 +47,7 @@ If you need more guidance, then follow the step by step instructions provided in
 <!-- section -->
 
 
-### 1.a  Create an entry in one of the dates in the timeline (10 min)
+### 1.a  Create an entry in one of the dates in the timeline | 10 min
 <!-- section-contents -->
 -      The chronological sequence of dates needs to be complemented with information.
 
@@ -61,14 +61,14 @@ For more background information on Boder besides what is provided in the black b
 - Write two entries of max 100 words in the appropiate field.
 - Look for an appropriate images on the web and copy the links to these images into the same table
 - Now cut and paste the entries and the links to the photos and place them in the timeline, following the instructions in the tutorial provided.
-Remember to regularly save your entries. 
+Remember to regularly save your entries.
 
 
 
 
 
 <!-- section -->
-### 1.b  Create entries under two of the dates in the timeline (20 min)
+### 1.b  Create entries under two of the dates in the timeline | 20 min
 <!-- section-contents -->
 These can be subjects related to Boder’s life, such as:
 When and  where did Boder study?
@@ -77,7 +77,7 @@ When were the American newsreels about the camps shown to an American audience?
 Document your findings in the appropiate field in the template
 
 <!-- section -->
-### 1.c  Create a new account and a new timeline (120 min)
+### 1.c  Create a new account and a new timeline | 120 min
 <!-- section-contents -->
 Follow the instructions supplied in the tutorial.
 
@@ -93,11 +93,11 @@ The history of interview collections:  Who introduced the idea of creating colle
 
 A chronological list of audio and film recordings with accounts of experiences in concentration camps: Think of war trials, television, radio, the web
 
-Remember to first document your research in your template, then paste it into the online timeline. This way you will always have the basis of your content on your own computer as a backup. 
+Remember to first document your research in your template, then paste it into the online timeline. This way you will always have the basis of your content on your own computer as a backup.
 Also remember to regularly save your entries in your answer template, as well as in the online timeline!
 
 <!-- section -->
-### 1.d  Copyright Law and the web (30 min)
+### 1.d  Copyright Law and the web | 130 min
 <!-- section-contents -->
 For assignments 1b and 1c  you must take into account the existing legal
 framework governing the reuse of images on the web.
@@ -119,7 +119,7 @@ Write a short abstract 150-words abatract in your template of 150 words on what 
 
 3. See this overview on copyright in French (to add document Cecile)
 
-4. See [this clip]( https://vimeo.com/36881035) about the origin and history of copyright 
+4. See [this clip]( https://vimeo.com/36881035) about the origin and history of copyright
 
 5.  For  websites that offer images free of copyright click on one of the links below:
       https://ccsearch.creativecommons.org
@@ -141,7 +141,3 @@ Shotr bala black
 - You can also link with [cit](kuhn-temoin-traduction)
 
 <!-- briefing-teacher -->
-
-
-
-

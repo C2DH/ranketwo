@@ -24,6 +24,11 @@
   margin: 0.75rem 50px 0.75rem .5rem;
 }
 
+.section--title .badge{
+  margin-right: 30px;
+  margin-top: .5em;
+}
+
 .section--icon{
   position: absolute;
   right: 0px;
@@ -50,7 +55,7 @@
   padding: .75rem 1rem 0 1rem;
 }
 
-.section--contents table{ 
+.section--contents table{
   margin-bottom: 20px;
 
   th {

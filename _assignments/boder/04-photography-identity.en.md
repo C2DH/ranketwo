@@ -28,7 +28,7 @@ Then open the box  "Who are the people in these photos?" and read the text
 
 
 <!-- section -->
-### 4.a  Online content, who is behind it? (20 min)
+### 4.a  Online content, who is behind it? | 20 min
 <!-- section-contents -->
 
 -	Try to find more background information about these photographs through additional web research. 
@@ -41,7 +41,7 @@ Then open the box  "Who are the people in these photos?" and read the text
 -	Note your findings in your template. 
 
 <!-- section -->
-### 4.b  Photos online used in the right historical context (20 min)
+### 4.b  Photos online used in the right historical context | 20 min
 <!-- section-contents -->
 Compare the photo of the liberated prisoners in this interactive context with how it is used in:
 
