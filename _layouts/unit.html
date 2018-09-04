@@ -95,7 +95,18 @@ layout: default
             <strong>{{assignment.order}} {% assign key="out of" %} {% include t.html %} {{assignments.size}} </strong>
             &mdash;
             {{assignment.title}}
+
           </h3>
+          {% if assignment.authors %}
+            {% assign authors_size = assignment.authors | size %}
+          <div class='authors mb-2'>
+            <em>{% assign key="in collaboration with" %} {% include t.html %}</em>
+            {% for author_slug in assignment.authors %}
+              {% include author.html %}
+            {% endfor %}
+
+          </div>
+          {% endif %}
           <blockquote>{{ assignment.excerpt | markdownify}}</blockquote>
 
 
