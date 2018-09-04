@@ -2,7 +2,7 @@
 layout: assignment
 unit: archival-digital-turn
 lang: en
-title: The Western European Union goes digital:analyzing the documents of the 'Sleeping Beauty'    
+title: The Western European Union; analyzing the digital documents of the 'Sleeping Beauty'    
 cover:
 tags:
   -  compare data in paper and digital form
@@ -25,12 +25,12 @@ The comparative analysis between paper and digital sources is intended to encour
 ### Instruction
 <!-- section-contents -->
 
-Read the [foreword and the introduction to the corpus of the WEU](https://www.cvce.eu/en/recherche/unit-content/-/unit/72d9869d-ff72-493e-a0e3-bedb3e671faa/fe555bab-5322-410b-98e5-96469d1a7de0) on the site of the Centre Virtuel de la Conaissance Europenne. This centre is now part of the Luxembourg Centre for European and Digital History. To have an idea of what kind of people discussed matters and created documents, watch a clip of a [meeting of members of the WEU in 1960 in Brussels](http://ec.europa.eu/avservices/play.cfm?ref=I001677&lg=MUE&sublg=none&autoplay=false) Compare it with [a meeting in Paris in 1997](https://www.youtube.com/watch?v=iFjISWWzZUY).
+Read the [foreword and the introduction to the corpus of the WEU](https://www.cvce.eu/en/recherche/unit-content/-/unit/72d9869d-ff72-493e-a0e3-bedb3e671faa/fe555bab-5322-410b-98e5-96469d1a7de0) on the site of the Centre Virtuel de la Conaissance Europenne. This centre is now part of the Luxembourg Centre for European and Digital History. To have an idea of what kind of people discussed matters and created documents, watch a clip of a [meeting of members of the WEU in 1960 in Brussels](http://ec.europa.eu/avservices/play.cfm?ref=I001677&lg=MUE&sublg=none&autoplay=false) Compare it with [a meeting in Paris in 1997](https://www.youtube.com/watch?v=iFjISWWzZUY)
 The texts and the clips will give you an impression of the type of organisation and of the documents it produced.
 
 
 <!-- section -->
-### 4.a Exploring diplomatic documents of the European Union online and in the archive
+### 4.a Exploring diplomatic documents of the Western European Union online and in the archive
 <!-- section-contents -->
 
 In the section Instruction, you have read and watched content that explains and shows the historical dimension of the WEU and its archive.
