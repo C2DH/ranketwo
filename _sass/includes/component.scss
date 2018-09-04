@@ -172,7 +172,7 @@
   //   }
   // }
 
-  .component--size{
+  .--component--size{
     position: absolute;
     right:0;
     border: 2px solid #1C090B;
@@ -183,4 +183,36 @@
     background-color: white;
   }
 
+}
+
+.component--size{
+  display: inline-block;
+  font-weight: normal;
+  padding: 0 .25rem;
+  border-radius: 1rem;
+  line-height: 1.25em;
+  font-size: 1rem;
+  // border-bottom: 2px solid;
+  box-shadow: 1px 1px magenta, -1px -1px cyan;
+  background-color: white;
+  color: $almost-black;
+  border: 1px solid $almost-black;
+  min-width: 1.25em;
+  text-align: center;
+
+  &.big{
+    font-size: 1.25rem;
+    min-width: 2rem;
+    border-radius: 2rem;
+  }
+
+  &.size-medium{
+    border-width: 2px;
+    box-shadow: 2px 2px magenta, -2px 0px blue;
+  }
+  &.size-large{
+    border-width: 4px;
+    min-width: 2.25rem;
+    box-shadow: 4px -1px magenta, -3px -2px blue, -2px 4px cyan;
+  }
 }

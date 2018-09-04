@@ -15,10 +15,9 @@
     <div class="line right"></div>
     <!-- <div class='line top'></div> -->
     {% unless component.order and component.order != 1 %}
-        <div class='type'>{% assign key = component.type %}{% include t.html %}<span class='type-size'>S</span></div>
+        <div class='type'>{% assign key = component.type %}{% include t.html %}<a class='component--size' href='{{ "structure-of-teaching-modules" | relative_url}}#small--animation--quiz'>S</a></div>
 
-        {% else %}
-    <div class='type'>ioioioioi</div>
+
       {% endunless %}
   </div>
   <div class='container'>
@@ -28,7 +27,7 @@
       </div>
       <div class='col-sm-4'>
         {% if is_iframe %}
-        <h3>{{component.title}}</h3>
+        <h3><a class='component--size' href='{{ "structure-of-teaching-modules" | relative_url}}#small--animation--quiz'>S</a> {{component.title}}</h3>
         {% endif %}
         {% if component.size %}
         <div class='component--metadata'>
