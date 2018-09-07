@@ -4,19 +4,25 @@ unit: archival-digital-turn
 lang: en
 title: "From Glassplates to Google: Digital source criticism on August Sander’s People of the 20th Century" 
 cover:
-author: Juliane Tatarinov
+author: 
+ - Juliane-Tatarinov
 tags:
   - photo history
+  - media history
+  - art history
+  - history of technology 
   - re-use of images
   - conversion from analogue to digital
-requirements: Fast WIFI connection, scissors and paper
+  - Weimar Republic
+  - Neue Sachlichkeit
+  - German history
 learning outcomes:
-  - training students to be aware of the various layers of interpretations when dealing analogue photos that are published online.  
-documents:
+  - training students to reflect on the search results of an online search and how this is determined by the properties of the search engine, 
+  - training studens to distinguish the various layers of interpretations when applying source criticism on analogue photos that have been published online
+  - making students conscious of the differences in informational and artifactual value between the analogue and digital source.
 order: 7
 ---
-This assignment deals with the portrait-collection *People of the 20th Century* of the famous photographer August Sander (1876-1964), originating from Cologne, Germany.
-He experienced great societal upheavals in his lifetime and created this collection with the objective of documenting the entire society of his time as he perceived it, by means of his photo camera. It was created from 1911 until around 1945 (?), published in a book in 1980 (?), and  can be viewed online since……… What is the reference when applying source criticism? The original pictures taken by Sander? The printed books? Or the digital versions of the Sander’s portraits that can be found on the internet? Various perspectives have to be considered: 1. the intention of the artist, 2. the intention of publishers and curators 3. The intention of publishing the images online 4. the reception by the public.
+This assignment deals with the portrait-collection of the famous German photographer August Sander (1876-1964), People of the 20th Century. Sander’s aim was to document the entire society of his time as he perceived it. He believed that it would reveal a universal truth about societal traits by means of his photo camera. In the last decades many of his pictures can be found on the web. But when applying source criticism to Sander’s work as it can be retrieved through the web, it is crucial to know what the object of the criticism is: The original pictures taken by Sander? The printed books? Or the digital versions of Sander’s portraits that can be found on the web? The various perspectives will be considered. In the first part of the assignment,  digital representations of Sander’s work online  will be discussed concerning the intentions behind publishing the images online and the functionality of search engines. The second part will bring you back to the origin of the source: the images that were shot at the time, and the artists intentions, and the first publishers and curators of his work.  
 
 <!--
 August Sander  (1876-1964). Maybe because of that he set himself the task to create a portrait of the whole(!) society as it appeared to him with the means of his photo camera. His goal was to take pictures of typical representatives of all social and occupational groups in society. He wanted those pictures to be universal although of course he only took pictures of people in his surroundings and of those he ncountered during his trips.
