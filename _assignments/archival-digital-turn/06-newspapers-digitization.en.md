@@ -93,16 +93,23 @@ Complete the table in your template with the answers to the following questions:
 | ANNO (DE) |   |   |   |  
 | Zeitungsportal DDR-Presse (DE) |   |   |   |
 
-Selection: Which titles have been digitised?
-At your local library, identify 4 newspapers titles, two that have been digitised, two that have not (yet) been digitised.  
-If this is not feasible, compare the titles available on ProQuest, Chronicling America to the list of the Library of Congress, see list of links below, choose 4 titles, two that have been digitised, two that have not (yet) been digitised.
+<!-- section -->
+### 6.b Selection: Which titles have been digitised at your local archive/library? 
+<!-- section-contents -->
+- At your local library, identify 4 newspapers titles
+- 2 that have been digitised, 
+- 2 that have not (yet) been digitised.  
+
+If this is not feasible, compare the titles available on ProQuest, Chronicling America to the list of the Library of Congress through the links below (???????) 
+- Choose 4 titles, 
+- 2 that have been digitised
+- 2 that have not (yet) been digitised.
 - Is the information easily available, on the available format of the newspapers?
 - Can you identify what is the proportion of digitised vs. non digitised?
 - What type of newspapers were digitised first? What type has not been digitised (yet)?
 
 <!-- section -->
-
-### 6.b The newspaper as historical source
+### 6.c The newspaper as historical source
 <!-- section-contents -->
 
 Newspapers are published regularly and collected on a daily or weekly basis, representing events that take place in society. One may find a great diversity of newspapers, with sometimes unexpected titles or languages in a national library’s collection. For instance, in the Austrian national library, we can find newspapers printed throughout the former Austro-hungarian empire until 1918. In the Polish national library, we find newspapers reflecting the presence of specific cultural communities in the past, written in hebrew, yiddish, russian, and german. This item in the [news website gizmodo about newspapers with an old tradition](https://io9.gizmodo.com/the-worlds-oldest-newspapers-still-being-published-tod-1369904730) illustrates the continuity of some newspapers. It is striking to see the difference in appearance. Reading the newspaper is also a practice that contributes to a sense of national identity. You will be comparing paper to digital newspapers and the representation of events over time.
@@ -124,7 +131,7 @@ For each, collect
 - What are the main differences between collecting articles from paper newspapers and digitised newspapers? (sitting behind your screen, going to the archive/library)
 
 
-### 6.c The newspaper and the website as sources of knowledge
+### 6.d The newspaper and the website as sources of knowledge
 Depeding on your age and education, you will be accustomed to specific kinds of news, either television, radio, newspapers, news feeds through your mobile phone, or websites that publish news. This assignment asks you to reflect on the sources of your knowledge on current cultural, economical and political developments.
 - Choose a current topic or event and compare how it is represented in a paper newspaper, a news website, a newsreel on the radio and on the television.
 - Complete the table in your template on the basis of these key questions:
