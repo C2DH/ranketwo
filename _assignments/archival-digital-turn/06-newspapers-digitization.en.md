@@ -76,16 +76,13 @@ You are going to find out how this is arranged for a number of collections.
 Complete the table in your template with the answers to the following questions:
 - What type of institution carried out the digitisation? public/private, for commercial/academic/preservation purpose?
 - How can you access these collections?
-- Is a subscription needed?
-- Is there distant access or is it limited to the premisses of the institution?
+- Is a subscription needed? Is there distant access or is it limited to the premisses of the institution?
 - Is there a dedicated interface for the digitised newspapers or is the interface common to other sources, such as books and images?
-- Where do the titles come from?
-- In which languages are they available?
-- Are there some special sub-collections?
+- Where do the titles come from? In which languages are they available? Are there some special sub-collections?
 - What information is provided on each individual title by the institution?
 
-|     | 1. Institution | 2. Type of access | 3. Interface | 4. Collection specificities
-| --- | -------------- | ----------------- | ------------ | ---------------------------
+|     | 1. Institution | 2. Type of access | 3. Interface | 4. Collection specificities | 5. Metadata title 
+| --- | -------------- | ----------------- | ------------ | --------------------------- | -----------------
 | [Europeana newspapers](http://www.europeana-newspapers.eu) (multilingual) |   |   |   |  
 | E-Newspapers CH (FR+DE) |   |   |   |  
 | Gallica (FR) |   |   |   |  
