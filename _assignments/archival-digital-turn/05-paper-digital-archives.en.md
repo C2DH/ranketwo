@@ -4,6 +4,7 @@ unit: archival-digital-turn
 lang: en
 title: The Western European Union; analyzing the digital documents of the 'Sleeping Beauty'    
 cover:
+author: 
 tags:
   -  compare data in paper and digital form
 requirements: Location and permission (probably, to be obtained by the lecturer beforehand) allowing the students to visit ANLUX and to consult the collection, Internet access to the digital edition and the related materials.
