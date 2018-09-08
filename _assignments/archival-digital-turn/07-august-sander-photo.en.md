@@ -52,9 +52,8 @@ https://www.makeuseof.com/tag/find-date-published-post-insanely-simple-tips/
 - Try to find out when Sander's photos were published online, by whom and with what reason
 
 Document your findings in your template
+
 <!-- section -->
-
-
 ### 7b. Comparing Associative Tagging 
 <!-- section-contents -->
 - Now, without clicking on the individual pictures in the results page, either those from Google or from Pinterest, choose 5 portraits (groups, individuals, old, young, women, men) 
@@ -69,15 +68,15 @@ Document your findings in your template
 - Now click on the pictures, you will see how Sander labelled the pictures himself.
 - What does this tell you about your own perceptions and labels?
 - What does it tell you about August Sander’s view on society?
+
 <!-- section -->
-
-
 ### 7c. Printing Books
 <!-- section-contents -->
 How were the photos integrated into the book in 1971? 
 First Book
 Last Book
 (see also internet ARchive)
+
 <!-- section -->
 ### 7d. Where it all began: The Intention of the artist
 <!-- section-contents -->
