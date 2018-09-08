@@ -22,34 +22,28 @@ learning outcomes:
   - making students conscious of the differences in informational and artifactual value between the analogue and digital source.
 order: 7
 ---
-This assignment deals with the portrait-collection of the famous German photographer August Sander (1876-1964), People of the 20th Century. Sander’s aim was to document the entire society of his time as he perceived it. He believed that it would reveal a universal truth about societal traits by means of his photo camera. In the last decades many of his pictures can be found on the web. But when applying source criticism to Sander’s work as it can be retrieved through the web, it is crucial to know what the object of the criticism is: The original pictures taken by Sander? The printed books? Or the digital versions of Sander’s portraits that can be found on the web? The various perspectives will be considered. In the first part of the assignment,  digital representations of Sander’s work online  will be discussed concerning the intentions behind publishing the images online and the functionality of search engines. The second part will bring you back to the origin of the source: the images that were shot at the time, and the artists intentions, and the first publishers and curators of his work.  
-
-<!--
-August Sander  (1876-1964). Maybe because of that he set himself the task to create a portrait of the whole(!) society as it appeared to him with the means of his photo camera. His goal was to take pictures of typical representatives of all social and occupational groups in society. He wanted those pictures to be universal although of course he only took pictures of people in his surroundings and of those he ncountered during his trips.
-You have to bear in mind: Sander chose the people he took pictures of as representative for a whole social group.
-He sorted his photographs in folders and categorised them in seven groups:
-The Farmer (Der Bauer)
-The Skilled Tradesman (Der Handwerker)
-The Woman (Die Frau)
-Classes and Professions (Die Stände)
-The Artists (Die Künstler)
-The City (Die Großstadt)
-The Last People (Die letzten Menschen)
--->
-
+This assignment deals with the portrait-collection of the famous German photographer August Sander (1876-1964), People of the 20th Century. Sander’s aim was to document the entire society of his time as he perceived it. He believed that it would reveal a universal truth about societal traits by means of his photo camera. In the last decades many of his pictures have become accessible to the general audience through the web. When using this digitized and published material as source of knowledge on his work, it is however necessary to apply source criticism and trace the origin of what can be viewed on anyone's computer screen. What can we consider as the original work by Sander? His glassplates? Prints made from his glassplates? The printed books about his work that made him famous long after his death, or the digital versions of Sander’s portraits that can be found on the web? The following perspectives will be considered: first you will deal with the questions on why Sander' digital representations of his photos have been published online, and how they can be retreived through search engines. The second part of the assignment brings you back to the origin of the source: the images that were shot by him at the time, his motives, and how the first publishers and curators appreciated his work.  
+ 
 <!-- more -->
 
 <!-- briefing-student -->
+### Instruction 
+<!-- section-contents -->
 
-### 7a. Access to August Sander's portraits through Google and Pinterest (covers digital dimension 3.)
+The idea for his project “People of the 20th Century” was born in 1925 and covers the period of the Weimar Republic 1919-1933. 
+During his life-time Sander published excerpts of his work and curated smaller exhibitions, but unfortunately never managed to finalise the collection that had been originally designed to comprise 45 portfolia. When he passed away in 1964, his son Günther Sander inherited  ca. 2,000 negatives and managed to publish part of these in the photo book Menschen ohne Maske in 1971. Another edition had been published in 2001 the August Sander Foundation, SK Stiftung Kultur, in Cologne published a next edition. Later in 2010 they launched a website dedicated to Sander http://augustsander.org/md20jh/. But the dissemination of his work was not completely in their hands.  
+As early as 2003 an early version of the foundation's website could be snapshotted by the Internet Archive. Around 2008 one of the first online photographs of August Sander appeared on the website of the Northern gallery of Contemporary Art in Sunderland (UK),in the context of the exhibition ‘Fragile Democracy:new international photography'. In the same year the internet art-forum Luminous-Lint was launched with pictures of August Sander on its website. The first youtube clip appeared in 2010, in the same period as the launch of the search tool Pinterest and the introduction of Google's image search algorithms which proved very succesful. All these developments influenced the dissemination and re-interpretation of Sander's work. 
+
+<!-- section -->
+### 7a. Access to August Sander's portraits through Google and Pinterest 
 <!-- section-contents -->
 You are going to compare search results.
 
-But Before you start your websearch, here are some links to get some basic knowledge on a number of digital tools/resources:
+Before you start your websearch, here are some links to documents/clips that offer some basic knowledge on the tools/resources:
 - Here is clip about how [Google's search engine works](https://www.youtube.com/watch?v=BNHR6IQJGZs)
 - Here is a short explanation on [how Google Images works](https://www.dummies.com/education/internet-basics/knowing-google-images-basics/)
 - Here is an explanation on the history and objective of [Pininterest](https://en.wikipedia.org/wiki/Pinterest)
-- Here is an explanation how to trace when online content was published  
+- Here is an explanation how to trace down details on when online content has been published  
 https://www.makeuseof.com/tag/find-date-published-post-insanely-simple-tips/
 
 - First use the [google picture search]9https://images.google.com) with the name August Sander  
