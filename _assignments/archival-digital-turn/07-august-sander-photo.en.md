@@ -5,7 +5,7 @@ lang: en
 title: "From Glassplates to Google: Digital source criticism on August Sander’s People of the 20th Century" 
 cover:
 author: 
- - Juliane-Tatarinov
+  - juliane-tatarinov
 tags:
   - photo history
   - media history
