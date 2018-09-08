@@ -46,7 +46,7 @@ Before you start your websearch, here are some links to documents/clips that off
 - Here is an explanation how to trace down details on when online content has been published  
 https://www.makeuseof.com/tag/find-date-published-post-insanely-simple-tips/
 
-- First use the [google picture search]9https://images.google.com) with the name August Sander  
+- First use the [google picture search](9https://images.google.com) with the name August Sander  
 - Then open a new tab and do the same with the [social media website Pininterest](https://www.pinterest.de/search/pins/?q=August%20Sander&rs=typed&term_meta[]=August%7Ctyped&term_meta[]=Sander%7Ctyped)
 - Compare the two tabs with each other - What are the differences?
 - Try to find out when Sander's photos were published online, by whom and with what reason
@@ -55,9 +55,9 @@ Document your findings in your template
 <!-- section -->
 
 
-### 7b. Comparing Associative Tagging (covers association and reception online 4.)
+### 7b. Comparing Associative Tagging 
 <!-- section-contents -->
-- Now, without clicking on the individual pictures in the results page, either those from Google or from Pinterest, choose 8 diverse portraits (groups,individuals,old,young, women men) of your liking
+- Now, without clicking on the individual pictures in the results page, either those from Google or from Pinterest, choose 5 portraits (groups, individuals, old, young, women, men) 
 - Take a long look at them and give each a tag or name that comes to your mind. Document this in your template.
 - Meet up with a fellow student, compare your search results, your choices, and your tags.  
 - Complement each others tags with an additional assessment of the background of the people portrayed on the photo
@@ -66,7 +66,6 @@ Document your findings in your template
   - age
 - Which criteria did you use for labelling the photographs? Why did you label the pictures in this way? Discuss!
 - Take a look at Sander's folders, in which folder would Sander have put the photographs you chose?
-
 - Now click on the pictures, you will see how Sander labelled the pictures himself.
 - What does this tell you about your own perceptions and labels?
 - What does it tell you about August Sander’s view on society?
@@ -75,15 +74,22 @@ Document your findings in your template
 
 ### 7c. Printing Books
 <!-- section-contents -->
-something about the sources that were used in the books, and the technology and adjustment of the photos to make them suitable for the book
+How were the photos integrated into the book in 1971? 
 First Book
 Last Book
 (see also internet ARchive)
 <!-- section -->
 ### 7d. Where it all began: The Intention of the artist
 <!-- section-contents -->
-how did he create this collection? Technology, place and social approach (what were his sources?)
+how did Sander create this collection? 
+Technology, place and social approach (what were his sources?)
+
+<!-- section -->
+### reading/viewing suggestions 
+<!-- section-contents -->
+ "Zigeuner" sehen. Fotografische Expeditionen am Rande Europas
+in: Herbert Uerlings/Iulia-Karin Patrut (Hg.): "Zigeuner" und Nation. Repräsentation - Inklusion - Exklusion, Frankfurt am Main 2008
+
 
 <!-- briefing-teacher -->
-Reading task (only for a German speaking class): "Zigeuner" sehen. Fotografische Expeditionen am Rande Europas
-in: Herbert Uerlings/Iulia-Karin Patrut (Hg.): "Zigeuner" und Nation. Repräsentation - Inklusion - Exklusion, Frankfurt am Main 2008
+
