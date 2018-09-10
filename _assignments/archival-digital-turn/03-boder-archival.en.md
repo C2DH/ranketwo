@@ -15,11 +15,13 @@ Learning outcomes:
 ---
 This assignment is based on the topic of a parallel lesson: from steel wire to website; the interviews of David Boder. It tells the story of how Jewish Latvian American psychologist David Boder pioneered in recording the first accounts of Holocaust survivors. In the summer of 1946 he visited several displacement camps with a wire recorder, and collected 121 interviews in 8 different languages. 
 The focus in this lesson is on the transformation of his collection from interviews with Holocaust survivors fixed on steel wires in 1946, to content that has been made accessible online through a public website. 
-Watch this short animation of [6,5 minutes about David Boder](https://c2dh.github.io/ranketwo/u/boder/) that forms the basis for a separate lesson on audiovisual sources. 
-
 <!-- more -->
 
 <!-- briefing-student -->
+### Instruction
+<!-- section-contents -->
+Watch this short animation of [6,5 minutes about David Boder](https://c2dh.github.io/ranketwo/u/boder/) and pay attention to the sequence of transformations of Boder's recordings. 
+
 ### 3.a From Steel Wires to Interactive Website 
 <!-- section-contents -->
 - What are the transformations and technologies that are used for the sound and for the textual representations of Boder's interviews? 
