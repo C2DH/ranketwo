@@ -10,11 +10,11 @@ document: v45n1p39-47.pdf
 tags:
   - transformation from analogue to digital 
 requirements: Fast WIFI connection, access to Ranke.2, computer or laptop, application on laptop or computer to view video,
-Learning outcomes:
+outcomes:
   - Learning how sound can be copied and reproduced from an analogue to a digital carrier
 ---
-This assignment is based on the topic of a parallel lesson: from steel wire to website; the interviews of David Boder. It tells the story of how Jewish Latvian American psychologist David Boder pioneered in recording the first accounts of Holocaust survivors. In the summer of 1946 he visited several displacement camps with a wire recorder, and collected 121 interviews in 8 different languages. 
-The focus in this lesson is on the transformation of his collection from interviews with Holocaust survivors fixed on steel wires in 1946, to content that has been made accessible online through a public website. 
+This assignment is based on the topic of a parallel lesson: from steel wire to website; the interviews of David Boder. It tells the story of how Jewish Latvian American psychologist David Boder pioneered in recording the first accounts of Holocaust survivors. In the summer of 1946 he visited several displacement camps with a wire recorder and collected 121 interviews in 8 different languages. 
+The focus in this lesson is on the transformation of his collection from interviews fixed on steel wires in 1946, to content that has been made accessible through a publicly accessible website. 
 <!-- more -->
 
 <!-- briefing-student -->
@@ -22,6 +22,7 @@ The focus in this lesson is on the transformation of his collection from intervi
 <!-- section-contents -->
 Watch this short animation of [6,5 minutes about David Boder](https://c2dh.github.io/ranketwo/u/boder/) and pay attention to the sequence of transformations of Boder's recordings. 
 
+<!-- section -->
 ### 3.a From Steel Wires to Interactive Website 
 <!-- section-contents -->
 - What are the transformations and technologies that are used for the sound and for the textual representations of Boder's interviews? 
@@ -40,11 +41,11 @@ The dates in the template can help you with finding the right answer
 - Does it make sense to create access to spoken content if you don't understand the language or could one limit the information to the translated transcript? 
 - Document your answer in your template 
 
-<!-- briefing-teacher -->
-## Briefing lecturer
 
-
+<!-- section -->
 ### Reading/viewing suggestions
+<!-- section-contents -->
 
+<!-- briefing-teacher -->
 
 
