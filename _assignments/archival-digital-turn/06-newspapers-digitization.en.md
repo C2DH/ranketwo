@@ -17,9 +17,8 @@ documents:
  - tom-tryniski
 order: 6
 ---
-Newspapers have become an important media since the 19th century and offer valuable information about events and opinions in our past and present societies. Massive digitization of newspapers, which is ongoing in many (national) libraries, holds the promise a bonanza of data for historical research. Yet, in the process of creating online access to digital representations of a newspaper, certain choices are made, and some changes occur that historians need to understand. What you retrieve online is a selection of what archives contain.
-
-National Libraries have to deal with all kinds of financial, legal and technical constraints, which together with their own institutional history, determine their policy. This complexity has led many archives to outsource the work of processing and exploiting the data through public-private partnerships with companies. Moreover, the materiality and appearance of what appears on your screen, is quite different from what you can hold in your hand in the archive. To understand the difference, you have to critically assess how the source was handeled to turn into a machine readable language. This assignment covers two approaches: 1. You are asked to consider the choices made and technologies used for the digitization and online publication of various newspapers, 2. You will explore the diversity of news covergage and exploit the opportunities of online access to newspapers by conducting comparative research.
+Newspapers have become an important media since the 19th century and offer valuable information about events and opinions in our past and present societies. The massive digitization of newspapers, ongoing in many (national) libraries, holds the promise a bonanza of data for historical research. However, in the process of creating online access to digitized newspaper, choices are made and changes occur that affect the informational and artefactual value of a source, and which historians should be able to identify and understand. What appears on your screen at home, is quite different from what you can hold in your hand in the archive.
+Moreover, National Libraries deal with all kinds of financial, legal and technical constraints, which together with their own institutional history, determine their digitization policy. Some libraries outsource the work of processing and exploiting the data through public-private partnerships with companies. This assignment covers two approaches: 1. You are asked to consider the choices made and technologies used for the digitization and online publication of various newspapers, 2. You will explore the diversity of news covergage and exploit the opportunities of online access to newspapers by conducting comparative research.
 
 [card](tom-tryniski)
 
@@ -63,16 +62,6 @@ You are going to find out how this is arranged for a number of collections.
 
 - Open up the links to the following collections, browse throught the content, and choose at least two newspapers in a language you feel comfortable with.
 
-
-[E-Newspapers CH](http://www.onlinenewspapers.com/switzerl.htm) (FR+DE)  
-[Gallica](https://gallica.bnf.fr/html/und/presse-et-revues/presse-et-revues)(FR)  
-[Retronews](https://www.retronews.fr)(FR)  
-[ProQuest](https://www.proquest.com/products-services/pq-hist-news.html)(EN)  
-[Chronicling America](https://chroniclingamerica.loc.gov)(EN) 
-[Delpher](https://www.delpher.nl) (NL)   
-[ANNO](http://anno.onb.ac.at/anno-suche#searchMode=simple&from=1)(DE)  
-[Zeitungsportal DDR-Presse](http://zefys.staatsbibliothek-berlin.de/ddr-presse/) (DE) 
-
 Complete the table in your template with the answers to the following questions:
 - What type of institution carried out the digitisation? public/private, for commercial/academic/preservation purpose?
 - How can you access these collections?
@@ -84,14 +73,14 @@ Complete the table in your template with the answers to the following questions:
 |     | 1. Institution | 2. Type of access | 3. Interface | 4. Collection specificities | 5. Metadata title 
 | --- | -------------- | ----------------- | ------------ | --------------------------- | -----------------
 | [Europeana newspapers](http://www.europeana-newspapers.eu) (multilingual) |   |   |   |  
-| E-Newspapers CH (FR+DE) |   |   |   |  
-| Gallica (FR) |   |   |   |  
-| Retronews (FR) |   |   |   |  
-| ProQuest (EN) |   |   |   |  
-| Chronicling America (EN) |   |   |   |  
-| Delpher (NL) |   |   |   |  
-| ANNO (DE) |   |   |   |  
-| Zeitungsportal DDR-Presse (DE) |   |   |   |
+| [E-Newspapers CH](http://www.onlinenewspapers.com/switzerl.htm) (FR+DE)   |   |   |   |  
+| [Gallica](https://gallica.bnf.fr/html/und/presse-et-revues/presse-et-revues)(FR)  |   |   |   |  
+| [Retronews](https://www.retronews.fr)(FR) |   |   |   |  
+| [ProQuest](https://www.proquest.com/products-services/pq-hist-news.html)(EN)|   |   |   |  
+| [Chronicling America](https://chroniclingamerica.loc.gov)(EN)|   |   |   |  
+| [Delpher](https://www.delpher.nl) (NL)|   |   |   |  
+| [ANNO](http://anno.onb.ac.at/anno-suche#searchMode=simple&from=1)(DE)|   |   |   |  
+| [Zeitungsportal DDR-Presse](http://zefys.staatsbibliothek-berlin.de/ddr-presse/) (DE) |   |   |   |
 
 <!-- section -->
 ### 6.b The newspaper as historical source
