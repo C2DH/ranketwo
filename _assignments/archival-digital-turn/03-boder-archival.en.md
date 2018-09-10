@@ -13,8 +13,9 @@ requirements: Fast WIFI connection, access to Ranke.2, computer or laptop, appli
 Learning outcomes:
   - Learning how sound can be copied and reproduced from an analogue to a digital carrier
 ---
-
-Watch this short animation of [6,5 minutes about David Boder](https://c2dh.github.io/ranketwo/u/boder/) that forms the basis for a separate lesson on audiovisual sources. In the context of this lesson the focus of this assignment is on the transformation of his collection from interviews with Holocaust survivors fixed on steel wires in 1946, to content that has been made accessible online through a public website. 
+This assignment is based on the topic of a parallel lesson: from steel wire to website; the interviews of David Boder. It tells the story of how Jewish Latvian American psychologist David Boder pioneered in recording the first accounts of Holocaust survivors. In the summer of 1946 he visited several displacement camps with a wire recorder, and collected 121 interviews in 8 different languages. 
+The focus in this lesson is on the transformation of his collection from interviews with Holocaust survivors fixed on steel wires in 1946, to content that has been made accessible online through a public website. 
+Watch this short animation of [6,5 minutes about David Boder](https://c2dh.github.io/ranketwo/u/boder/) that forms the basis for a separate lesson on audiovisual sources. 
 
 <!-- more -->
 
