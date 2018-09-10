@@ -84,6 +84,8 @@ All the content that can be viewed through the links provided in assignment 1b h
 - What could be the motive?
 - When and where
 
+<!-- briefing-teacher -->
+
 <!-- section -->
 ### Reading/Viewing suggestions 
 <!-- section-contents --> 
