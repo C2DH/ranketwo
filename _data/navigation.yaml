@@ -2,7 +2,7 @@ primary:
   links:
     - title: Home
       href: /
-    - title: Definition
+    - title: What is DSC
       href: /define-dsc/
     - title: What the platform is about
       href: /introduction/
