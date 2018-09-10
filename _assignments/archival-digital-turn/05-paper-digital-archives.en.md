@@ -4,7 +4,7 @@ unit: archival-digital-turn
 lang: en
 title: The Western European Union; analyzing the digital documents of the 'Sleeping Beauty'    
 cover:
-author: 
+authors: 
   - florentina-armaselu
 tags:
   -  compare data in paper and digital form
