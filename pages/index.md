@@ -23,7 +23,6 @@ videos:
 
 
 sentences:
-
   - Ranke.2 is a teaching platform on digital source criticism
   - Ranke.2 teaches how to critically assess digital historical sources
   - Ranke.2 explains how analogue sources are transformed into digital representations
