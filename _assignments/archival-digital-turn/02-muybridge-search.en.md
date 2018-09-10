@@ -15,14 +15,16 @@ outcomes:
 
 ---
 Finding content about Muybridge on the web is partly determined by what is indexed by search engines. Which search engine you are used to rely on depends largely on how you have learned to use the web. This assignment is meant to give you an idea of the possible diversity and ranking of search results. You are going to compare results of a search for Muybridge in two search engines: Google and Yahoo
-
-First get some insights about how search engines work:
--  Watch this lecture by Eli Pariser on [the Filter Bubble](https://www.youtube.com/watch?v=Dua_UvR5mtI)
--  Watch this explanation about [how search engines work](https://www.youtube.com/watch?v=BNHR6IQJGZs) by Google specialist Matt Cutts: 
 <!-- more -->
 
 <!-- briefing-student -->
+### Instruction
+<!-- section-contents -->
+First get some insights about how search engines work:
+-  Watch this lecture by Eli Pariser on [the Filter Bubble](https://www.youtube.com/watch?v=Dua_UvR5mtI)
+-  Watch this explanation about [how search engines work](https://www.youtube.com/watch?v=BNHR6IQJGZs) by Google specialist Matt Cutts: 
 
+<!-- section -->
 ### 2.a Google compared to Yahoo
 <!-- section-contents -->
 
@@ -42,11 +44,6 @@ First get some insights about how search engines work:
 - Are there any search results that you would have missed by only searching in English?
 
 
-
-<!-- briefing-teacher -->
-## Briefing lecturer
-
-
-#### Reading/viewing  suggestions
-[Eli Pariser, The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think, 2011](https://books.google.nl/books/about/The_Filter_Bubble.html?id=wcalrOI1YbQC&redir_esc=y)
-[Alexander Halavais, Search Engine Society, 2017](https://books.google.nl/books?id=RLpADwAAQBAJ&printsec=frontcover&dq=how+do+search+engines+work&hl=nl&sa=X&ved=0ahUKEwjM_rDRz7DdAhUxMewKHdjBBLUQ6AEIRzAE)
+### Reading/viewing  suggestions
+- [Eli Pariser, The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think, 2011](https://books.google.nl/books/about/The_Filter_Bubble.html?id=wcalrOI1YbQC&redir_esc=y)
+- [Alexander Halavais, Search Engine Society, 2017](https://books.google.nl/books?id=RLpADwAAQBAJ&printsec=frontcover&dq=how+do+search+engines+work&hl=nl&sa=X&ved=0ahUKEwjM_rDRz7DdAhUxMewKHdjBBLUQ6AEIRzAE)
