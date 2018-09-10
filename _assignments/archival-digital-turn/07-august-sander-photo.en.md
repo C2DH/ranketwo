@@ -35,7 +35,7 @@ During his life-time Sander published excerpts of his work and curated smaller e
 As early as 2003 an early version of the foundation's website could be snapshotted by the Internet Archive. Around 2008 one of the first online photographs of August Sander appeared on the website of the Northern gallery of Contemporary Art in Sunderland (UK),in the context of the exhibition ‘Fragile Democracy:new international photography'. In the same year the internet art-forum Luminous-Lint was launched with pictures of August Sander on its website. The first youtube clip appeared in 2010, in the same period as the launch of the search tool Pinterest and the introduction of Google's image search algorithms which proved very succesful. All these developments influenced the dissemination and re-interpretation of Sander's work.
 
 <!-- section -->
-### 7a. Access to August Sander's portraits through Google and Pinterest
+### 7.a Access to August Sander's portraits through Google and Pinterest
 <!-- section-contents -->
 You are going to compare search results.
 
@@ -54,7 +54,7 @@ https://www.makeuseof.com/tag/find-date-published-post-insanely-simple-tips/
 Document your findings in your template
 
 <!-- section -->
-### 7b. Comparing Associative Tagging
+### 7.b Comparing Associative Tagging
 <!-- section-contents -->
 - Now, without clicking on the individual pictures in the results page, either those from Google or from Pinterest, choose 5 portraits (groups, individuals, old, young, women, men)
 - Take a long look at them and give each a tag or name that comes to your mind. Document this in your template.
@@ -70,7 +70,7 @@ Document your findings in your template
 - What does it tell you about August Sander’s view on society?
 
 <!-- section -->
-### 7c. Printing Books
+### 7.c Printing Books
 <!-- section-contents -->
 How were the photos integrated into the book in 1971?
 First Book
@@ -78,7 +78,7 @@ Last Book
 (see also internet ARchive)
 
 <!-- section -->
-### 7d. Where it all began: The Intention of the artist
+### 7.d Where it all began: The Intention of the artist
 <!-- section-contents -->
 how did Sander create this collection?
 Technology, place and social approach (what were his sources?)
