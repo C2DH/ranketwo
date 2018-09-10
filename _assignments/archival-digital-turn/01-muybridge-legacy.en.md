@@ -14,6 +14,10 @@ learning outcomes:
 documents:
   - slices-of-time
 order: 1
+outcomes:
+ - Learning about the relation between reproduction technology and re-use of material in the analogue era
+ - Learning to consult the Internet Archive
+ - Learning the impact of digital technology and the web on the dissemination and knowledge about an artist/photographer 
 ---
 Eadweard Muybridge laid the basis for the development of cinematography by making photos of a trotting horse with a series of
 cameras and showing them with a [zoopraxiscope](https://en.wikipedia.org/wiki/Zoopraxiscope). Many artists, photographers and scholars were inspired by his work, but the impact and dissemination of his legacy was magnified by the introduction of digital technology and the web in the late 1990s.
@@ -80,8 +84,13 @@ All the content that can be viewed through the links provided in assignment 1b h
 - What could be the motive?
 - When and where
 
+<!-- section -->
+### Reading/Viewing suggestions 
+<!-- section-contents --> 
+
+[Brian Clegg:The man who stopped time, the illuminating story of Eadward Muybridge, pioneeer photographer,father of the motion picture (2007)](https://books.google.nl/books?id=GXGS_KNTBOYC&lpg=PR9&ots=UFgkorMooR&lr&pg=PR2#v=onepage&q&f=false)
+Stephen Herbert - [The complete Eadward Muybridge](https://www.stephenherbert.co.uk/muybCOMPLEAT.htm) 
+Walker, J. F. (2001). Plugging into the Past: contemporary digital artists still look back to 19th-century action photographer Eadweard Muybridge for inspiration. ART REVIEW-LONDON-, 28-33.
+
 <!-- briefing-teacher -->
 ## Briefing lecturer
-
-
-#### Reading/viewing  suggestions
