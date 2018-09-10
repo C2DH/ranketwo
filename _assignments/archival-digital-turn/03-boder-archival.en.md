@@ -41,7 +41,7 @@ The dates in the template can help you with finding the right answer
 ## Briefing lecturer
 
 
-#### Reading/viewing  suggestions
+### Reading/viewing suggestions
 
 
 
