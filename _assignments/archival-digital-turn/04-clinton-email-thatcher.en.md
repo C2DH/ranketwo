@@ -12,11 +12,11 @@ tags:
   - characteristics of letters and e-mails 
 requirements: internet connection to look up emails from the wikileaks Hillary Clinton Email Archive
 outcomes:
-- understanding the difference between a letter and an email, understanding considerations of how to define an email as an object
+- understanding the difference between a letter and an email
+- understanding considerations of how to define an email as an object
 order: 4
 ---
-Though it is decreasing considerably, sending and receiving letters used to be the standard practice for long distance communication. While it seems to have been tranposed to e-mail correspondance, there are considerable differences with regard to the technologies that are applied and the conventions on how the message should be worded. Letters and e-mails of people with political power are 
-of special interest to the general public, as they show what goes on behind the scene. In this assignmen you will compare e-mails of Hillary Clinton that she was forced to disclose, to the digitized correspondance of former British prime minister Margaret Thatcher, that was published to honour her political legacy. Both politicians operated in a field of international relations. Getting and sending information in an efficient way was crucial to being able to operate strategically. This is why their correspondance is key to writing the history of their era. But as you will see, the context and options for communication in 1980 were quite different than those in 2008. 
+The practice of sending and receiving letters is decreasing considerably. While it seems to have been substituted by e-mail correspondance, there are considerable differences with regard to the technologies that are applied and the conventions on how the message should be worded. Letters and e-mails of people with political power are of special interest to the general public, as they show what goes on behind the scene. In this assignmen you will compare e-mails of Hillary Clinton that she was forced to disclose, to the digitized correspondance of former British prime minister Margaret Thatcher, that was published to honour her political legacy. As both politicians operated in a field of international relations, their correspondance is key to writing the history of their era. But as you will see, the context and options for communication in 1980 were quite different than those in 2008. 
 
 <!-- more -->
 
