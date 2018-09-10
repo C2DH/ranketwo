@@ -10,8 +10,8 @@ tags:
   - search engines
 order: 2
 requirements: Fast WIFI connection, access to Ranke.2, computer or laptop, application on laptop or computer to view video,
-learning outcomes:
-  - Understand the dynamics of search engines
+outcomes:
+  - Understanding how search engines prioritize certain search results 
 
 ---
 Finding content about Muybridge on the web is partly determined by what is indexed by search engines. Which search engine you are used to rely on depends largely on how you have learned to use the web. This assignment is meant to give you an idea of the possible diversity and ranking of search results. You are going to compare results of a search for Muybridge in two search engines: Google and Yahoo
@@ -48,3 +48,5 @@ First get some insights about how search engines work:
 
 
 #### Reading/viewing  suggestions
+[Eli Pariser, The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think, 2011](https://books.google.nl/books/about/The_Filter_Bubble.html?id=wcalrOI1YbQC&redir_esc=y)
+[Alexander Halavais, Search Engine Society, 2017](https://books.google.nl/books?id=RLpADwAAQBAJ&printsec=frontcover&dq=how+do+search+engines+work&hl=nl&sa=X&ved=0ahUKEwjM_rDRz7DdAhUxMewKHdjBBLUQ6AEIRzAE)
