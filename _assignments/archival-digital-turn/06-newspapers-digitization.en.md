@@ -12,7 +12,10 @@ tags:
   - web research
   - conversion from analogue to digital
 requirements: Fast WIFI connection, scissors and paper
-learning outcomes:
+outcomes:
+ - Understand how the process works of selection, digitization and online publishing of newspapers 
+ - Understand what changes occur when newspapers are turned from paper to digital files 
+ - Understand what the affordances are of online access to massive amounts of digitized newspapers 
 documents:
  - tom-tryniski
 order: 6
@@ -104,13 +107,18 @@ For each, collect
 - What has changed in the perception of the event/actors/situation? (short term, long term)
 - What are the main differences between collecting articles from paper newspapers and digitised newspapers? (sitting behind your screen, going to the archive/library)
 
-
+<!-- section -->
 ### 6.c The newspaper and the website as sources of knowledge
+<!-- section-contents -->
 Depeding on your age and education, you will be accustomed to specific kinds of news, either television, radio, newspapers, news feeds through your mobile phone, or websites that publish news. This assignment asks you to reflect on the sources of your knowledge on current cultural, economical and political developments.
 - Choose a current topic or event and compare how it is represented in a paper newspaper, a news website, a newsreel on the radio and on the television.
 - Complete the table in your template on the basis of these key questions:
 - Why have you chosen these particular news sources?
 - Do you trust these sources?
 - What is your trust based on?
+
+<!-- section -->
+### Reading/viewing suggestions 
+<!-- section-contents -->
 
 <!-- briefing-teacher -->
