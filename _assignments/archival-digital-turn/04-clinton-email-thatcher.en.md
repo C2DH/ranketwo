@@ -11,7 +11,7 @@ tags:
   - changes in conventions of writing 
   - characteristics of letters and e-mails 
 requirements: internet connection to look up emails from the wikileaks Hillary Clinton Email Archive
-learning outcomes:
+outcomes:
 - understanding the difference between a letter and an email, understanding considerations of how to define an email as an object
 order: 4
 ---
