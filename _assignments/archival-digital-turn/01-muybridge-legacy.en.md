@@ -84,8 +84,6 @@ All the content that can be viewed through the links provided in assignment 1b h
 - What could be the motive?
 - When and where
 
-<!-- briefing-teacher -->
-
 <!-- section -->
 ### Reading/Viewing suggestions 
 <!-- section-contents --> 
@@ -94,4 +92,4 @@ All the content that can be viewed through the links provided in assignment 1b h
 - Stephen Herbert - [The complete Eadward Muybridge](https://www.stephenherbert.co.uk/muybCOMPLEAT.htm) 
 - Walker, J. F. (2001). Plugging into the Past: contemporary digital artists still look back to 19th-century action photographer Eadweard Muybridge for inspiration. ART REVIEW-LONDON-, 28-33.
 
-
+<!-- briefing-teacher -->
