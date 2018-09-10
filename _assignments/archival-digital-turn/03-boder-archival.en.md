@@ -45,6 +45,7 @@ The dates in the template can help you with finding the right answer
 <!-- section -->
 ### Reading/viewing suggestions
 <!-- section-contents -->
+Alan Rosen, “‘We know very little in America’, David Boder and un-belated testimony”, In: After the Holocaust: Challenging the Myth of Silence, ed. David Cesarani and Eric J.Sundquist, (New York, 2012)
 
 <!-- briefing-teacher -->
 
