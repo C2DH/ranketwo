@@ -88,9 +88,9 @@ All the content that can be viewed through the links provided in assignment 1b h
 ### Reading/Viewing suggestions 
 <!-- section-contents --> 
 
-[Brian Clegg:The man who stopped time, the illuminating story of Eadward Muybridge, pioneeer photographer,father of the motion picture (2007)](https://books.google.nl/books?id=GXGS_KNTBOYC&lpg=PR9&ots=UFgkorMooR&lr&pg=PR2#v=onepage&q&f=false)
-Stephen Herbert - [The complete Eadward Muybridge](https://www.stephenherbert.co.uk/muybCOMPLEAT.htm) 
-Walker, J. F. (2001). Plugging into the Past: contemporary digital artists still look back to 19th-century action photographer Eadweard Muybridge for inspiration. ART REVIEW-LONDON-, 28-33.
+- [Brian Clegg:The man who stopped time, the illuminating story of Eadward Muybridge, pioneeer photographer,father of the motion picture (2007)](https://books.google.nl/books?id=GXGS_KNTBOYC&lpg=PR9&ots=UFgkorMooR&lr&pg=PR2#v=onepage&q&f=false)
+- Stephen Herbert - [The complete Eadward Muybridge](https://www.stephenherbert.co.uk/muybCOMPLEAT.htm) 
+- Walker, J. F. (2001). Plugging into the Past: contemporary digital artists still look back to 19th-century action photographer Eadweard Muybridge for inspiration. ART REVIEW-LONDON-, 28-33.
 
 <!-- briefing-teacher -->
 ## Briefing lecturer
