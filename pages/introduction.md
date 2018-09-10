@@ -23,16 +23,30 @@ documents:
 
 ![DSCATM.png](https://c2dh.github.io/ranketwo/assets/images/DSCATM.png){:height="200px" .float-left.mr-3.mt-2.mb-4}
 Historians of the 21st century need to be aware of the specific nature of the digital sources they analyse in their research.
-The critical interrogation of historical sources has always formed the basis of historical scholarship. Questioning the authenticity of a source by finding out who created it, at what time, for what purpose and in what context is a key part of our research practices. But now that we have seemingly unlimited access to retro-digitised material and born-digital data through the web, we need to learn how to critically assess digital resources, just as we have always done with “analogue” materials.
+The critical interrogation of a historical source - finding out who created it, at what time, for what purpose and in what context - has always formed the basis of historical scholarship. But now that we have seemingly unlimited access to retro-digitised sources and born-digital data through the web, we need to learn new skills. The impact of digital technology might be compared to the introduction of the microscope and telescope in the 16th century, that changed the way at which natural phenomena could be perceived and studied. To be able to cope with these changes, and to continue to do what we have always done with “analogue” sources, we need a thourough understanding of the digitization process and publication on the web.  
+
+{: .extra-spacing}
+### Objectives of Ranke.2
+
+By engaging with our animations, quizzes and assignments students will learn:
+
+ 1. How digitisation and the web have changed the nature of historical research
+ 2. How digital objects are created (retro-digitised, born-digital, converted documents)
+ 3. What changes when an analogue source is turned into a digital representation
+ 3. How to question the concept of the “original”
+ 4. How information is added to a digital object (metadata)
+ 5. How data is published online and made searchable
+ 6. What the impact of search engines is on finding and selecting sources
+ 7. How to apply a number of digital tools to data 
+ 8. The difference between conducting research in an archive and online
+ 9. The properties of different types of data (text, images, objects, audio-visual)
+
 
 {: .extra-spacing}
 ### Transformation from analogue to digital
 A digital text, image or recording may appear to be similar to its analogue version, but it is actually a collection of digits arranged in a particular order that offers a representation of the original which can be viewed on a screen, without its material characteristics.
 Turning an analogue object into a digital one entails a whole series of changes that affect its appearance and informative value. The analogue object is taken out of its original context, whether a private household, archive, museum or library, converted into digits,  enriched with metadata and then published online.
 
-{: .extra-spacing}
-### The need to learn new skills
-Now thath huge volumes of data can be searched, collected and shared in no time from any place with access to the web, historians need to develop new practices in terms of scale, speed and space. These developments might be compared to the way in which the introduction of the microscope and telescope in the 16th century changed the way at which natural phenomena could be perceived and studied.
 
 {: .extra-spacing}
 ### The hybrid historian
@@ -42,21 +56,6 @@ These changes do not mean that raditional approaches to research are becoming ob
 ### Insights through crossovers
 The lessons we offer on this website are a crossover between history, archival studies, ancillary sciences, information science and computer science. In our view this multidisciplinary approach is necessary to foster a new generation of digital savvy scholars, who ask the right questions when dealing with digital content and are able to organise, analyse and present digital and analogue data with the help of digital tools.
 
-{: .extra-spacing}
-### Objectives
-
-Students who complete one or more of these lessons will:
-
- 1. Understand how digitisation and the web have changed the nature of historical research
- 2. Learn how digital objects are created (retro-digitised, born-digital, converted documents)
- 3. Learn how to question the concept of the “original”
- 4. Learn how information is added to a digital object (metadata)
- 5. Learn how data is published online and made searchable
- 6. Understand the impact of search engines on finding and selecting sources
- 7. Be able to apply a number of digital tools to data in a basic way
- 8. Learn how to critically assess the informative value of a website
- 9. Learn the difference between conducting research in an archive and online
-10. Learn about some basic principles of physics related to communication technology
 
 ### Key Terms
 meta-source criticism, the creation, enrichment and identification of digitised and born-digital sources,
