@@ -22,6 +22,9 @@
         title:
             en_us: 'Zeugnisse Überlebender der Shoah in den digitalen Medien'
         author: 'Alina Bothe'
+        date:
+            en_us: 2015
+        year: 2015
         reference: 'Alina Bothe, Zeugnisse Überlebender der Shoah in den digitalen Medien. Eine quellenkritische Reflexion '
     url: 'http://www.zentrum-juedische-studien.de/person/bothe-alina/publikationen/'
     _id: caefa4fe9b084e2e85f60f8986677cea
@@ -72,7 +75,10 @@
     data:
         title:
             en_us: 'Information and Digital Literacy'
-        author: HJorland
+        author: Hjorland
+        date:
+            en_us: 2008
+        year: 2008
     url: 'http://revistas.ua.pt/index.php/prismacom/article/view/684'
     _id: 0dad47ed13e847ba9dce31634460bffe
 -
