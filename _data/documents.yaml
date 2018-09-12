@@ -89,7 +89,10 @@
         title:
             en_us: 'Digital Forensics and Born-Digital Content in Cultural Heritage'
         author: 'Matthew Kirschbaum'
-    url: 'https://www.clir.org/pubs/reports/pub149/pub149.pdf'
+        date:
+            en_us: 2010
+        year: 2010
+    url: 'https://www.clir.org/wp-content/uploads/sites/6/pub149.pdf'
     _id: 4d424b1f6f734758ab743f600091c2ba
     _resolved: true
     attachment: pdf/pub149.pdf
@@ -126,7 +129,10 @@
     data:
         title:
             en_us: 'The Evidentiary Basis of Digital History in Companion to Digital History. '
-        author: 'Trevor Owens '
+        author: 'Trevor Owens'
+        date:
+            en_us: 2017
+        year: 2017     
     url: 'https://osf.io/preprints/socarxiv/t5rdy/'
     _id: ed72c1a916e94f338a03346c2971b84f
 -
