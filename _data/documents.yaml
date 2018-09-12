@@ -136,12 +136,12 @@
     url: 'https://osf.io/preprints/socarxiv/t5rdy/'
     _id: ed72c1a916e94f338a03346c2971b84f
 -
-    title: 'On Crapp detection'
+    title: 'Crap Detection Mini-Course'
     slug: rheingold-crapp-detection
     type: link
     data:
         title:
-            en_us: 'On Crapp detection'
+            en_us: 'Crap Detection Mini-Course'
         author: 'Howard Rheingold'
         date:
             en_us: 2013
@@ -156,6 +156,9 @@
         title:
             en_us: 'Genuine Internetdaten als historischeQuellen – Entwurf einer korrealistischen Quellentheorie'
         author: 'Catharina Schreiber'
+        date:
+            en_us: 2012
+        year: 2012
     url: 'http://universaar.uni-saarland.de/journals/index.php/zdg/article/view/292/357'
     _id: fcf82b63edab41c8b8707f16162c63de
 -
@@ -166,6 +169,9 @@
         title:
             en_us: 'Googling the Archive: Digital Tools and the Practice of History'''
         author: 'Janinen Solberg'
+        date:
+            en_us: 2012
+        year: 2012
     url: 'https://doi.org/10.1080/15362426.2012.657052'
     _id: 66f45015005b45059a601f2fc62cdd99
 -
