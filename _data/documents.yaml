@@ -154,7 +154,7 @@
     type: link
     data:
         title:
-            en_us: 'Genuine Internetdaten als historischeQuellen – Entwurf einer korrealistischen Quellentheorie'
+            en_us: 'Genuine Internetdaten als historische Quellen – Entwurf einer korrealistischen Quellentheorie'
         author: 'Catharina Schreiber'
         date:
             en_us: 2012
@@ -162,12 +162,12 @@
     url: 'http://universaar.uni-saarland.de/journals/index.php/zdg/article/view/292/357'
     _id: fcf82b63edab41c8b8707f16162c63de
 -
-    title: 'Googling the Archive: Digital Tools and the Practice of History'''
+    title: 'Googling the Archive: Digital Tools and the Practice of History'
     slug: solberg-advances-history-rhetoric
     type: link
     data:
         title:
-            en_us: 'Googling the Archive: Digital Tools and the Practice of History'''
+            en_us: 'Googling the Archive: Digital Tools and the Practice of History'
         author: 'Janinen Solberg'
         date:
             en_us: 2012
@@ -185,7 +185,7 @@
         date:
             en_us: 2014
         year: 2014
-    url: 'http://journalofdigitalhumanities.org/3-2/historical-understanding-in-thequantum-age'
+    url: 'http://journalofdigitalhumanities.org/3-2/historical-understanding-in-the-quantum-age/'
     _id: 130f4e3b075b407dae9d0fb34f6eb222
 -
     title: 'Digitisation and Digital Resources in the Humanities'
