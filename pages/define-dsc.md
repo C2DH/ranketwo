@@ -30,10 +30,11 @@ How to agree on the meaning of a term that can be interpreted in so many ways? T
 
 <!-- more -->
 
-Digital Source Criticism is a compound. It combines what historians have always done, the critical appraisal of sources, with what the digital age requires: a critical reflection on why a source was selected to be digitized, on whether the transformation from analogue to digital form has affects its informative and artefactual value,
-
-what they need to understand in the digital age:  appraisal of the sources  that has always existed refers to the additional critical appraisal of a source when it is turned from its analogue form to a digital representation and published the web. 
-
+Digital Source Criticism is a compound. It combines what historians have always done, the critical appraisal of sources, with what historical research in the digital age requires. Of the many questions to ask, these can be regarded as key: 
+1. Why has the source been selected to be digitized?
+2. Has the transformation from analogue to digital form affected the informative and artefactual value of the source?
+3. Who, why, when and how has the source been published on the web?
+4. How has the search engine retrieved this specific source and are their alternatives? 
 
 
 [block](dsc-skill-training)
