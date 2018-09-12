@@ -3,7 +3,7 @@ layout: page
 lang: en
 permalink: /define-dsc/
 link: /define-dsc/
-title: Defining Digital Source Criticism
+title: What is Digital Source Criticism
 documents:
 - dsc-skill-training
 - quelle
