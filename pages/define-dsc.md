@@ -26,15 +26,15 @@ documents:
 - zaagsma-digital-history
 ---
 
-How to agree on the meaning of a term that can be interpreted in so many ways? This is what the C2DH proposes
+How to agree on the meaning of a term that can be interpreted in so many ways? This is what the C2DH proposes:
 
 <!-- more -->
 
 Digital Source Criticism is a compound. It combines what historians have always done, the critical appraisal of sources, with what historical research in the digital age requires. Of the many questions to ask, these can be regarded as key: 
 1. Why has the source been selected to be digitized?
 2. Has the transformation from analogue to digital form affected the informative and artefactual value of the source?
-3. Who, why, when and how has the source been published on the web?
-4. How has the search engine retrieved this specific source and are their alternatives? 
+3. Why, when and how has the source been published on the web and who took the initiative?
+4. How has the search engine retrieved this specific source? Are there relevant alternatives that are not retrieved? 
 
 
 [block](dsc-skill-training)
