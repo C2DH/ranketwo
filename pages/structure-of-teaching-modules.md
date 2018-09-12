@@ -14,8 +14,8 @@ Each lesson offers a choice of several modules with an increasing level of compl
 <!-- more -->
 
 
-
 The lessons have been structured in such a manner that they can serve the needs of students, lecturers and independent learners with limited time, as well as those who really want to study a topic in depth. Each lesson can consist of a SMALL, MEDIUM or LARGE module.
+What is important to consider, is that the topics addressed in the lessons are not limited to digital source criticism. To offer more variety to lecturers, other elements that are key for engaging with digital history are included, such as conducting web research, or creating a digital map or timeline. 
 
 
 {: .extra-spacing}
