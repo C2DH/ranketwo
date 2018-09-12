@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<!--  select here parent unit-->
+{% assign unit = site.units | where: "unit_id", page.unit | where: "layout", "unit" | where: "lang", page.lang | first %}
+
+<div class='container'>
+  <div class='page answer-template'>
+
+    {{page.content}}
+
+  </div>
+</div>
