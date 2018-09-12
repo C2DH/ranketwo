@@ -26,11 +26,13 @@ documents:
 - zaagsma-digital-history
 ---
 
-How to agree on the meaning of a term that is used in so many different contexts? This is what the C2DH proposes
+How to agree on the meaning of a term that can be interpreted in so many ways? This is what the C2DH proposes
 
 <!-- more -->
 
-bla bla bla bla bla
+Digital Source Criticism is a compound. It combines what historians have always done, the critical appraisal of sources, with what the digital age requires: a critical reflection on why a source was selected to be digitized, on whether the transformation from analogue to digital form has affects its informative and artefactual value,
+
+what they need to understand in the digital age:  appraisal of the sources  that has always existed refers to the additional critical appraisal of a source when it is turned from its analogue form to a digital representation and published the web. 
 
 
 
