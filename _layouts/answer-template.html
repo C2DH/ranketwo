@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang='{{ page.lang }}'>
+<head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta http-equiv="Content-Language" content="{{ page.lang }}">
+    <title>{% if page.title %}{{page.title}} · {% endif %}{{site.title}}</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,700" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css?v=' | relative_url }}" >
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+</head>
+<body class='{{page.layout}}'>
+  <nav id='nav--brand' class="navbar navbar-expand-sm">
+    <div class="container">
+
+      <div class='navbar-text'>
+        <img style='height:40px;' src='{{ "assets/images/c2dh-logo.svg" | relative_url}}' alt='a C2DH production'>
+      </div>
+      <a class="navbar-brand mx-auto d-block">
+        <strong>{{site.title}}</strong> <span style='letter-spacing:-5px;'>~~~</span>
+        {{site.headline}}
+      </a>
+      <div class='navbar-text'>
+        <img style='height:30px;' src='{{ "assets/images/unilu-logo.svg" | relative_url}}' alt='university of Luxembourg'>
+      </div>
+    </div>
+  </nav>
+
+  <!--  select here parent unit-->
+  {% assign assignment = site.assignments | where: "slug", page.slug | where: "layout", "assignment" | where: "lang", page.lang | first %}
+  {% assign unit = site.units | where: "unit_id", assignment.unit | where: "layout", "unit" | where: "lang", page.lang | first %}
+  {% assign assignments = site.assignments| where: "unit", unit.unit_id | where: "layout", "assignment" | where: "lang", page.lang | sort: 'order'  %}
+
+  <div class='container'>
+    <div class='page answer-template'>
+
+      <h1>Answer Template for Assignments {{page.title}}</h1>
+	  <h2>{{assignment.order}} {% assign key="out of" %} {% include t.html %} {{assignments.size}} &mdash; {{assignment.title}}</h2>
+
+	  {{page.content}}
+
+    </div>
+  </div>
+
+</body>
+</html>
+
+
+

@@ -1,0 +1,71 @@
+body.answer-template{
+
+  h1 {
+    font-size: 2rem;
+	font-weight: bold;
+	text-align: center;
+	margin: 150px 0 100px;
+  }
+
+  h2 {
+    font-size: 1.75rem;
+	text-decoration: underline;
+	margin-bottom: 50px;
+  }
+
+  h3 {
+    margin:30px 0 20px;
+  }
+
+  div.page {
+	margin: 0 50px 50px;
+  }
+
+  textarea {
+    width: 100%;
+  }
+	
+  table{ 
+    margin-bottom: 20px;
+	width: 100%;
+
+    th {
+      text-align: center;
+    }
+
+    th, td{
+	  padding: 6px 13px;
+      border: 1px solid #dfe2e5;
+	  height: 50px;
+    }
+
+    tr:nth-child(2n){
+      background-color: #f6f8fa;
+    }
+  }
+
+  #nav--brand {
+    border-top: none;
+  }
+
+  .navbar-brand {
+    background: none;
+  }
+
+  .question {
+    margin: 10px 0 5px;
+  }
+}
+
+/*
+ * To avoir pinting an extra page on Chrome
+ * See: https://stackoverflow.com/questions/41135038/google-chrome-prints-extra-page
+ */
+@media print {
+     html, body {
+        border: 1px solid white;
+        height: 99%;
+        page-break-after: avoid;
+        page-break-before: avoid;
+     }
+ }

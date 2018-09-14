@@ -18,6 +18,15 @@ collections:
     permalink: /a/:path/
   assignments:
     output: true
-    permalink: /assignment/:slug/
+    permalink: /u/:path/
+  workshops:
+    output: true
+    permalink: /w/:slug/
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
 markdown: kramdown
 empty_array: []

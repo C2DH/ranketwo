@@ -8,7 +8,7 @@ layout: default
 {% assign videolectures = components | where: "type", "videolecture" %}
 
 {% assign introductions = components | where: "type", "introduction" %}
-{% assign assignments = site.assignments| where: "unit", page.unit_id | where: "lang", page.lang | sort: 'order'  %}
+{% assign assignments = site.assignments| where: "unit", page.unit_id | where: "layout", "assignment" | where: "lang", page.lang | sort: 'order'  %}
 
 {% unless documents %}
   {% assign documents = site.empty_array %}
