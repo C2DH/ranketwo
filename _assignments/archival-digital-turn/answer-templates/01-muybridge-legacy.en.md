@@ -1,8 +1,6 @@
 ---
 layout: answer-template
-unit: archival-digital-turn
 lang: en
-title: "Muybridge's legacy: from museum to the web"
 ---
 ### 1.a The original technology
 
