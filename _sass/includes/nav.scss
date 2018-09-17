@@ -28,6 +28,10 @@
   // border-bottom: 2px solid $white;
 }
 
+#nav--pages--primary .navbar-collapse{
+  background: rgba(255,255,255,.2);
+}
+
 #nav--pages--secondary{
   display:none;
   top: 125px;
@@ -42,11 +46,9 @@
   background: transparent;
   padding-left: 1rem;
   padding-right: 1rem;
-  // border-left: 2px solid #1C090B;
-  // border-right: 2px solid #1C090B;
-  color: #1c090B;
-  background: cyan;
-  // margin-top: 7px;
+  padding-top: 1rem;
+  background: transparent;
+  color: cyan;
 }
 
 nav a{
@@ -84,6 +86,8 @@ li.nav-item{
     transition: transform .25s ease-in-out;
   }
 
+
+
   a.nav-link:hover{
     &::before{
       transform: scale(1, 0.5);
@@ -98,16 +102,17 @@ li.nav-item{
 li.nav-item.active{
   // background-color: magenta;
   color: white;
-  border-top-color: $almost-black;
+  border-bottom: 2px solid $white;
+  // border: 1px solid $white;
   // box-shadow: 0px 2px cyan inset, 0px -2px $magenta;
   //transform: skew(6deg);
 
   a.nav-link::before{
-    transform: scale(1, 0.5);
+    transform: scale(0, 0);
   }
 
   a.nav-link > span {
-    color: $almost-black;
+    color: $white;
   }
 }
 
@@ -120,7 +125,7 @@ a.nav-link {
     color: $white;
   }
   & > span {
-    border-bottom: 1px solid;
+    // border-bottom: 1px solid;
     // background: $white ;
     color: $white;
     // padding: 0 .3125rem;

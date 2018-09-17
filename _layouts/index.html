@@ -66,7 +66,7 @@ layout: default
       this.el = el;
       this.loopNum = 0;
       this.period = parseInt(period, 10) || 2000;
-      this.txt = '';
+      this.txt = sentences[0];
       this.tick();
       this.isDeleting = false;
       this.next = '';
@@ -94,7 +94,7 @@ layout: default
         if (this.isDeleting) { delta /= 2; }
 
         if (!this.isDeleting && this.txt === fullTxt) {
-          delta = this.period;
+          delta = this.loopNum > 0? this.period: 750;
           this.isDeleting = true;
         } else if (this.isDeleting && (this.txt === '' || this.txt === next)) {
           this.isDeleting = false;

@@ -11,3 +11,4 @@ primary:
 
     - title: Lessons
       href: /teaching-modules/
+      active_layout: unit

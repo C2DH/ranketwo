@@ -1,1 +1,20 @@
-<li class='nav-item {% if page.link == link.href %} active {% endif %}{% if forloop.first %}first {%endif%}{% if forloop.last %}last {%endif%}'><a {% if page.lang == site.default_lang %} class='nav-link' href='{{link.href | relative_url}}' {% else %} href='{{page.lang | relative_url}}{{link.href}}'{% endif %}>{% assign key=link.title%}{% include t.html %}</a></li>
+{% assign is_active = false %}
+{% if page.link == link.href %}
+  {% assign is_active = true %}
+{% endif %}
+{% if page.layout == link.active_layout %}
+  {% assign is_active = true %}
+{% endif %}
+
+<li class='nav-item
+  {% if is_active %} active {% endif %}
+  {% if forloop.first %} first {%endif%}
+  {% if forloop.last %} last {%endif%}'>
+  <a class='nav-link'
+    {% if page.lang == site.default_lang %}
+      href='{{link.href | relative_url}}'
+    {% else %}
+      href='{{page.lang | relative_url}}{{link.href}}'
+    {% endif %}>{% assign key=link.title%}{% include t.html %}
+    {% if page.layout == "unit" and link.active_layout %}/#{{page.order}}{% endif %}</a>
+</li>

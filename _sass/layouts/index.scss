@@ -13,9 +13,11 @@
   font-size: 2em;
   transform: skew(-6deg) rotate(-6deg);
   > span{
-    text-shadow: -1px -1px 0 #D53A33, 1px 1px 0 white;
+    // text-shadow: -1px -1px 0 #D53A33, 1px 1px 0 white;
     border-right: 5px solid magenta;
-    background: cyan;
+    // background: cyan;
+    color: cyan;
+
   }
 }
 
@@ -24,7 +26,7 @@
     font-size: 3em;
     width: 50%;
     > span{
-      text-shadow: -2px -2px 0 #D53A33, 2px 2px 0 white;
+      // text-shadow: -2px -2px 0 #D53A33, 2px 2px 0 white;
     }
   }
   #index--headline-wrapper{
@@ -33,18 +35,11 @@
 }
 
 body.index, body.unit{
-
-
-
-
-
-
-
   // nav color change
   li.nav-item{
 
     a.nav-link > span {
-      color: $white;
+      color: $almost-white;
     }
 
     a.nav-link:hover{
@@ -55,10 +50,10 @@ body.index, body.unit{
   }
 
   li.nav-item.active{
-    color: $almost-black;
+    color: $white;
 
     a.nav-link > span{
-      color: $almost-black;
+      color: $white;
     }
     // a.nav-link::before{
     //     background: magenta;
