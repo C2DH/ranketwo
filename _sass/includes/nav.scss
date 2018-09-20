@@ -100,12 +100,7 @@ li.nav-item{
 
 
 li.nav-item.active{
-  // background-color: magenta;
-  color: white;
-  border-bottom: 2px solid $white;
-  // border: 1px solid $white;
-  // box-shadow: 0px 2px cyan inset, 0px -2px $magenta;
-  //transform: skew(6deg);
+  border-bottom: 2px solid magenta;
 
   a.nav-link::before{
     transform: scale(0, 0);

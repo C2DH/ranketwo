@@ -1,12 +1,15 @@
 div.page{
-  margin-top: 200px;
-
-  h1 > span{
-    // background-color: lime;
-  }
+  margin-top: 160px;
 
   .excerpt p {
     font-weight: 300;
-    font-size: 2em;
+    font-size: 1.25em;
+    color: $almost-white;
+  }
+
+  h1{
+    transform: skew(-1deg) rotate(-1deg);
+    text-shadow: 0px 0px 1px $almost-black;
+    color: $white;
   }
 }
