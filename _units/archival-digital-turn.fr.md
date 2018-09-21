@@ -1,5 +1,5 @@
 ---
-title: "From the Archival to the Digital Turn"
+title: "Du virage archivistique au virage numérique"
 layout: unit
 toc: off
 tags:
@@ -25,6 +25,7 @@ cover:
 order: 1
 ---
 
-FR Lesson on how the method of source criticism has been affected by the digital turn and what this means for the practice of students who study humanities disciplines and conduct research.
+Leçon sur l’influence exercée par l’avènement du numérique sur la méthode de critique des sources et les implications pratiques de cette évolution pour les étudiants en lettres et les étudiants qui réalisent des recherches.
+
 
 <!-- more -->
