@@ -4,7 +4,8 @@ Home:
 What is DSC:
   fr: définir DSC
 Structure of Lessons:
-  en: Structure des leçons
+  fr: Structure de la Leçon
+
 about:
   en: What the platform is about
   fr: pourquoi cette plateforme
@@ -38,3 +39,18 @@ list of lessons:
   en: "list of lessons"
 in collaboration with:
   en: "In collaboration with:"
+
+digitization:
+  fr: numérisation
+digital source criticism:
+  fr: critique des sources numériques
+digitized photos:
+  fr: photos numérisées
+digitized letters:
+  fr: lettres numérisées
+e-mails:
+  fr: e-mails
+digitized audio-interviews:
+  fr: interviews audio numérisées
+internal and external source criticism:
+  fr: critique des sources interne et externe
