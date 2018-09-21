@@ -6,9 +6,6 @@ link: /
 title: A series of lessons on Digital Source Criticism
 videos:
   -
-    id: 'lascaux'
-    caption: "Lascaux. Copyright @ 2018"
-  -
     id: 'muybridge'
     caption: "Muybridge. Copyright @ 2018"
   -
