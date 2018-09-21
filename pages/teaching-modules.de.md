@@ -1,6 +1,6 @@
 ---
 layout: units
-lang: en
+lang: de
 permalink: /de/teaching-modules/
 link: /teaching-modules/
 title: Overview of Lessons

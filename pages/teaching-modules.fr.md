@@ -1,14 +1,11 @@
 ---
 layout: units
-lang: en
+lang: fr
 permalink: /fr/teaching-modules/
 link: /teaching-modules/
-title: Overview of Lessons
-documents:
-  - Boder-wirerecorder
-  - Transformation-Galilei
+title: Contenu des leçons
 ---
 
-Each teaching module addresses a different kind of datatype and perspective on digital source criticism
+Chaque module d’apprentissage aborde un type de données différent et propose une nouvelle perspective sur la critique des sources numériques
 
 <!-- more -->
