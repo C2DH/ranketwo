@@ -34,32 +34,6 @@
   }
 }
 
-body.index, body.unit, body.page{
-  // nav color change
-  li.nav-item{
-
-    a.nav-link > span {
-      color: $almost-white;
-    }
-
-    a.nav-link:hover{
-      & > span {
-        color: $almost-black;
-      }
-    }
-  }
-
-  li.nav-item.active{
-    color: $white;
-
-    a.nav-link > span{
-      color: $white;
-    }
-    // a.nav-link::before{
-    //     background: magenta;
-    // }
-  }
-}
 
 #index--units-wrapper {
 

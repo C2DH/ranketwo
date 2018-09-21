@@ -1,6 +1,6 @@
 ---
 layout: index
-lang: fr
+lang: de
 permalink: /de/
 link: /
 title: A series of lessons on Digital Source Criticism
