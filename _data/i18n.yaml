@@ -1,12 +1,16 @@
-home:
+Home:
   en: index
   fr: accueil
+What is DSC:
+  fr: définir DSC
+Structure of Lessons:
+  en: Structure des leçons
 about:
-  en: about the project
-  fr: projet
-teaching-units:
-  en: teaching units
-  fr: unités de lessons
+  en: What the platform is about
+  fr: pourquoi cette plateforme
+Lessons:
+  en: Lessons
+  fr: Leçons
 by:
   en: by
   fr: de
