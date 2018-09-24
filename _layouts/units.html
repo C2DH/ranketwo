@@ -30,7 +30,7 @@ layout: default
 
 <div class='container mt-4'>
   <div class="row">
-    {% assign units = site.units|where:"layout","unit"|where:"lang", page.lang %}
+    {% assign units = site.units|where:"layout","unit"|where:"lang", page.lang| sort: 'order' %}
     {% for card in units%}
     <div class='col-md-6 col-lg-4'>
     {% include card.html %}
