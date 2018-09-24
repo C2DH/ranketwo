@@ -9,12 +9,12 @@ tags:
 lang: fr
 unit_id: boder2-webtechnology
 link: /u/boder2-webtechnology/
-permalink: /u/boder2-webtechnology/
+permalink: /fr/u/boder2-webtechnology/
 audience: general public, bachelor, master humanities
 components:
   small: animated video lecture  + quiz
   medium: 5 assignments
-order: 2
+order: 3
 cover:
   url: https://i.vimeocdn.com/video/718778251.jpg?mw=900&mh=506&q=70
 ---

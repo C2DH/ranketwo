@@ -16,7 +16,7 @@ components:
   medium: interactive animation + 12 assignments, video animated lecture + 5 assignments
   large: tutorial for hands on workshop
 mediatype: audiovisual, interviews
-order: 1
+order: 2
 cover:
   url: https://i.vimeocdn.com/video/708218729.jpg?mw=960&mh=540&q=70
 ---

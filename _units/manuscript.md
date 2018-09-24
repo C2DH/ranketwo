@@ -16,6 +16,7 @@ components:
   small: animation + quiz
   medium: animation + 6 assignments,   
 mediatype: manuscripts, digitized manuscripts
+order: 5
 
 ---
 

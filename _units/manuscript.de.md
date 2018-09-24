@@ -10,12 +10,14 @@ tags:
   - esthetic qualities
 lang: de
 uni_id: manuscript
-link: /de/u/manuscript/
+link: /u/manuscript/
+permalink: /de/u/manuscript/
 audience: general public, bachelor, master humanities
 components:
   small: animation + quiz
   medium: animation + 6 assignments,   
 mediatype: manuscripts, digitized manuscripts
+order: 5
 
 ---
 
