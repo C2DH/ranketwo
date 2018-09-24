@@ -28,7 +28,7 @@ The critical interrogation of a historical source - finding out who created it, 
 {: .extra-spacing}
 ### Objectives of Ranke.2
 
-By engaging with our animations, quizzes and assignments students will learn:
+By engaging with our lessons, that consist of animations, quizzes and assignments, students will learn:
 
  1. How digitisation and the web have changed the nature of historical research
  2. How digital objects are created (retro-digitised, born-digital, converted documents)
