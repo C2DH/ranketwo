@@ -23,7 +23,7 @@ documents:
 
 ![DSCATM.png](https://c2dh.github.io/ranketwo/assets/images/DSCATM.png){:height="200px" .float-left.mr-3.mt-2.mb-4}
 Historians of the 21st century need to be aware of the specific nature of the digital sources they analyse in their research.
-The critical interrogation of a historical source - finding out who created it, at what time, for what purpose and in what context - has always formed the basis of historical scholarship. But now that we have seemingly unlimited access to retro-digitised sources and born-digital data through the web, we need to learn new skills. The impact of digital technology might be compared to the introduction of the microscope and telescope in the 16th century, that changed the way at which natural phenomena could be perceived and studied. To be able to cope with these changes, and to continue to do what we have always done with “analogue” sources, we need a thourough understanding of the digitization process and publication on the web.  
+The critical interrogation of a historical source - finding out who created it, at what time, for what purpose and in what context - has always formed the basis of historical scholarship. But now that we have seemingly unlimited access to retro-digitised sources and born-digital data through the web, we need to learn new skills. The impact of digital technology might be compared to the introduction of the microscope and telescope in the 16th century, that changed the way at which natural phenomena could be perceived and studied. To be able to cope with these changes, we need a thourough understanding of the interplay between digital technology and historical research.  
 
 {: .extra-spacing}
 ### Objectives of Ranke.2
