@@ -8,7 +8,7 @@ Structure of Lessons:
 
 about:
   en: What the platform is about
-  fr: pourquoi cette plateforme
+  fr: Mission de la plateforme
 Lessons:
   en: Lessons
   fr: Leçons
@@ -41,6 +41,8 @@ list of lessons:
 in collaboration with:
   en: "In collaboration with:"
 
+communication technology:
+  fr: technologies de la communication
 digitization:
   fr: numérisation
 digital source criticism:
@@ -49,9 +51,17 @@ digitized photos:
   fr: photos numérisées
 digitized letters:
   fr: lettres numérisées
+dissemination of knowledge:
+  fr: diffusion de la connaissance
+esthetic qualities:
+  fr: qualités esthétiques
 e-mails:
   fr: e-mails
 digitized audio-interviews:
   fr: interviews audio numérisées
 internal and external source criticism:
   fr: critique des sources interne et externe
+manuscripts:
+  fr: manuscrits
+transformation:
+  fr: transformation
