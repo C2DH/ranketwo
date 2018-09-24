@@ -150,12 +150,16 @@
 
       // create image wrapper
       if (doc.data && doc.data.embed && doc.data.embed.thumbnail_url) {
+        var thumbnailUrl =  doc.data.embed.thumbnail_url;
+        if(doc.data.embed.thumbnail_url.indexOf('/assets/') === 0) {
+          thumbnailUrl =  _self.relativePath + doc.data.embed.thumbnail_url;
+        }
         card.append('div')
           .classed('mr-3', true)
           .append('a')
           .attr('href', doc.url)
           .classed('media-image', true)
-          .style('background-image', 'url('+ doc.data.embed.thumbnail_url + ')');
+          .style('background-image', 'url('+ thumbnailUrl + ')');
       }
       // create body
       var cardBody = card

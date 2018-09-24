@@ -34,6 +34,7 @@
   <script>
     window.addEventListener('DOMContentLoaded', function() {
       console.log('@DOMContentLoaded - transform links in ranketwo');
+      window.ranketwo.setRelativePath('{{ relative_url }}');
       window.ranketwo.transformLinks();
 
       var langDropdown = d3.select('#navbarDropdown');
