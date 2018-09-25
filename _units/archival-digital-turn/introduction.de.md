@@ -2,7 +2,7 @@
 title: Introduction
 type: introduction
 parent: archival-digital-turn
-lang: fr
+lang: de
 link: /u/archival-digital-turn/
 ---
 

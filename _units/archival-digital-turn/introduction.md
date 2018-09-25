@@ -2,9 +2,6 @@
 title: Introduction
 type: introduction
 parent: archival-digital-turn
-tags: source criticism, digital source criticism, Leopold von Ranke, Archival Turn, Digital Turn,
-  -
-  -
 lang: en
 link: /u/archival-digital-turn/
 ---
