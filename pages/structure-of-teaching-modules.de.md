@@ -3,57 +3,63 @@ layout: page
 lang: de
 permalink: /de/structure-of-teaching-modules/
 link: /structure-of-teaching-modules/
-title: Structure of Lessons
+title: Struktur der Lektionen
 documents:
   - document-example
   - document-example-b
 ---
 
-Each lesson offers a choice of several modules with an increasing level of complexity and time required
+Im Rahmen jeder Lektion stehen mehrere Module zur Wahl, deren Komplexität und Zeitaufwand schrittweise zunehmen.
 
 <!-- more -->
 
 
+Die Lektionen sind so strukturiert, dass sie den Bedürfnissen von Studierenden, Dozenten und unabhängig Lernenden mit begrenztem Zeitfenster, aber auch all jenen gerecht werden, die ein Thema fundiert betrachten möchten. Jede Lektion kann ein KLEINES, MITTLERES oder GROSSES Modul umfassen 
 
-The lessons have been structured in such a manner that they can serve the needs of students, lecturers and independent learners with limited time, as well as those who really want to study a topic in depth. Each lesson can consist of a SMALL, MEDIUM or LARGE module.
-
-
-{: .extra-spacing}
-## SMALL  
-
-{: .float-left}
-![Small.png](https://c2dh.github.io/ranketwo/assets/images/Small.png){:height="100px"}
-
-The **SMALL** module serves as a short introduction to a topic related to source criticism. It consists of a short animation of around 6 to 7 minutes in which a number of basic terms and questions are presented. This is followed by a quiz of around 10 minutes to test learners’ understanding of the ideas conveyed in the animation. The SMALL module is geared towards a broad audience with a general interest, including individual learners who are not part of a teaching context.
-
-{: .clear }
-## MEDIUM
-
-{: .float-left}
-![Medium.png](https://c2dh.github.io/ranketwo/assets/images/Medium.png){:height="150px"}
-
-The **MEDIUM** module is meant to be used in a teaching context and therefore offers information for both students and lecturers. It consists of a series of assignments that address the various topics introduced in the animation in more depth. Its target group is Bachelor students and their lecturers. The assignments are suitable for collaborative work for two or three students and the time required varies from 30 to 90 minutes. Each assignment provides specific information about learning outcomes.
-
-{: .clear }
-## LARGE
-
-{: .float-left}
-![large.png](https://c2dh.github.io/ranketwo/assets/images/large.png){:height="200px"}
-
-The **LARGE** module offers a tutorial for a hands-on workshop lasting at least a day. This should be led by a lecturer who has experience with digital tools and requires some preparation and an appropriate environment such as a computer lab. The objective of the tutorial is to go through all the steps required to create a digital history project. This can range from creating a website or podcast by applying a storytelling tool to creating a digital exhibit or annotating a corpus of photos.
 
 {: .extra-spacing}
-## How can you use the lessons?
+## KLEIN / animation & quiz
 
-A lecturer can choose one or more modules and/or assignments that can be completed and discussed in class or given as homework. The following considerations may help lecturers to choose the material they wish to use:
+<div class='component--size big float-left mr-3 ml-2 mt-2 mb-2'>S</div>
 
-1. How the topic of digital source criticism fits into a given course (for example an “introduction to research methods”, as generally offered in the first year of a Bachelor programme). For a number of suggestions, see section .......
+**15 minutes** &mdash; Das **KLEINE** Modul dient als kurze Einführung zu einem mit Quellenkritik verbundenen Thema. Es besteht aus einer kurzen, ca. 6-7 Minuten langen Animation, in der einige grundlegende Begriffe und Fragen dargelegt sind. Im Anschluss folgt ein rund zehnminütiges Quiz, in dem das Verständnis des Lernenden der in der Animation dargelegten Konzepte geprüft wird. Das KLEINE Modul richtet sich an eine breite Zielgruppe mit allgemeinem Interesse, darunter auch individuelle Lernende, die in keinen Ausbildungsrahmen eingebunden sind.
 
-2. The level of digital savviness of students and lecturers – for a quick digital literacy test that your students can take, see section .......
+{: .clear.extra-spacing }
+## MITTEL / complete one ore more assignments
 
-3. The amount of available time – see the metadata of each assignment for information about the time required.
+<div class='component--size big size-medium float-left mr-3 ml-2 mt-2 mb-2'>M</div>
+
+**max 90 minutes** &mdash; Das **MITTLERE** Modul ist für einen Unterrichtskontext ausgelegt und bietet demgemäß Informationen für Studierende und Dozenten. Es besteht aus einer Reihe von Aufgaben, in denen die in der Animation eingeführten verschiedenen Themen fundierter betrachtet werden. Zielgruppe sind Bachelor-Studierende und ihre Dozenten. Die Aufgaben eignen sich für die Arbeit in Gruppen mit zwei oder drei Studierenden. Der Zeitaufwand liegt zwischen 30 und 90 Minuten. Jede Aufgabe enthält besondere Hinweise zu den Lernergebnissen.
+
+{: .clear.extra-spacing }
+## GROSS / engage in workshops
+
+<div class='component--size big size-large float-left mr-3 ml-2 mt-2 mb-2'>L</div>
+
+
+**one day** &mdash;Das **GROSSE** Modul umfasst ein Lernprogramm für einen mindestens eintägigen praktischen Workshop. Dieser sollte von einem mit digitalen Tools vertrauten Dozenten abgehalten werden und erfordert einige Vorbereitung und eine geeignete Umgebung wie ein Computerlabor. Ziel des Lernprogramms ist, alle für die Erstellung eines digitalen Geschichtsprojekts erforderlichen Schritte durchzuarbeiten. Dies kann von der Schaffung einer Website oder eines Podcasts durch Anwendung eines Storyteling-Tools bis zur Schaffung eines digitalen Exponats oder der Annotation eines Fotokorpus reichen.
 
 {: .extra-spacing}
-## How to choose an assignment?
+## Wie lassen sich die Lektionen verwenden?
 
-As these lessons are not compulsory and there is no teacher available to monitor progress and offer feedback, lecturers should themselves assess how to integrate the content into their own lessons. To guide lecturers in their choice, each assignment offers metadata about the time required, learning outcomes, key words and practical requirements. There is also the option of downloading a PDF of the assignment in order to integrate it somewhere else. Downloadable templates are provided for students to complete their assignments.
+Ein Dozent kann eines oder mehrere Module und/oder Aufgaben wählen, die im Plenum oder in Form von Hausaufgaben durchgearbeitet und erörtert werden können. Die folgenden Überlegungen können Dozenten bei der Auswahl des von ihnen gewünschten Materials helfen:
+
+1. Wie lässt sich das Thema Kritik an digitalen Quellen in einen bestimmten Kurs einbauen (z. B. „Einführung in Forschungsmethoden“, so wie in der Regel im ersten Jahr eines Bachelor-Programms angeboten)? Für Vorschläge wird auf Abschnitt … verwiesen
+
+2. Digitale Vorbildung von Studierenden und Dozenten  einen schnellen Test digitaler Kenntnisse von Studierenden enthält Abschnitt …
+
+3. Zur Verfügung stehende Zeit  das benötigte Zeitfenster ist in den Metadaten jeder Aufgabe enthalten.
+
+{: .extra-spacing}
+## Wie eine Aufgabe ausgewählt wird
+
+Da diese Lektionen nicht obligatorisch sind und kein Lehrer den Fortschritt überwachen und Feedback geben kann, sollten die Dozenten selbst prüfen, wie sie den Inhalt in ihre eigenen Kurse integrieren können. Um Dozenten bei ihrer Auswahl zu unterstützen, enthält jede Aufgabe Metadaten zum erforderlichen Zeitfenster sowie zu Lernergebnissen, Schlüsselwörtern und praktischen Anforderungen. Ebenso besteht die Möglichkeit, eine PDF-Fassung der Aufgabe herunterzuladen und diese in einen anderen Kontext einzubauen. Um die Aufgaben durchzuarbeiten, stehen den Studierenden herunterladbare Vorlagen zur Verfügung.
+
+{: .extra-spacing}
+## Example scenarios: Source Criticism / Introduction to methods of research / Digital Culture / Holocaust Studies 
+
+1. In a class about source criticism with about 1,5 hours at your disposal, you can watch the clip 'From Archival to Digital turn' which takes 6 minutes, then have the students complete the quiz, which takes 15 minutes. After that you can distribute the 7 assignments among pairs of students, which they can partly complete in class (only complete the first section a.) which will take 20 to 30 min., and then finish the rest at home as homework. The results of their work could be presented in turns during the next lesson, or as part of a class conversation with the lecturer. The lecturer can also tweak the assignment to another topic of interest, by choosing other examples and offering other links. 
+
+2. In a class about digital culture, you can watch the clip 'transformation' that takes 2 minutes, complete the quiz that takes 15 minutes, and then have a class discussion about the concepts and terms that have been presented. The students can then take up the assignments in groups as homework. Which assignments to choose and how many, depends on the weight that is attributed to homework in that class, but it can vary from 30 min to 3 hours. 
+
+3. In a class about Holocaust Studies or Oral History, you can watch the animation 'David Boder: from steel wire to website', which takes 7 minutes, and complete the quiz which takes 15 min. Depending on the focus of the course, you can then invite the students to watch the interactive version of the animation, and complete a set of assignments. You have the choice between assignment that deal with media technology, oral history, interview methodology or source criticism. If you want to further venture into the history or webtechnology, you can watch the video lecture 'David Boder online - comparing websites 2000-2009', which takes 9 minutes. Here you have the choice between a series of assignments that deal with the development of web technology and preservation of digital resources.

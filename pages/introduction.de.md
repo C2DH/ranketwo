@@ -3,7 +3,7 @@ layout: page
 lang: de
 permalink: /de/introduction/
 link: /introduction/
-title: What the platform is about
+title: über die Platform
 documents:
   - document-example
   - document-example-b
@@ -13,54 +13,54 @@ documents:
   - digital-world
 ---
 
-**Ranke.2** is a teaching platform that offers lessons on how to critically assess and work with digital historical sources
+**Ranke.2** ist eine Lernplattform mit einzelnen Lektionen, in denen aufgezeigt wird, wie digitale historische Quellen kritisch bewertet und verwendet werden. Schwerpunkt jeder Lektion ist eine bestimmte Form historischer Quellen. Dabei wird erörtert, wie die Quellenkritik auf dessen digitale Darstellung anzuwenden ist.
 {: .extra-spacing}
 <!-- more -->
 
 
-![DSCATM.png](https://c2dh.github.io/ranketwo/assets/images/DSCATM.png)
+### Wozu dient die Kritik an digitalen Quellen („Digital Source Criticism“)?
 
-### Why Digital Source Criticism?
-Historians of the 21st century need to be aware of the specific nature of the digital sources they analyse in their research.
-The critical interrogation of historical sources has always formed the basis of historical scholarship. Questioning the authenticity of a source by finding out who created it, at what time, for what purpose and in what context is a key part of our research practices. But now that we have seemingly unlimited access to retro-digitised material and born-digital data through the web, we need to learn how to critically assess digital resources, just as we have always done with “analogue” materials.
+
+![DSCATM.png](https://c2dh.github.io/ranketwo/assets/images/DSCATM.png){:height="200px" .float-left.mr-3.mt-2.mb-4}
+Die kritische Prüfung historischer Quellen bildet seit jeher die Grundlage historischer Forschung. 
+Die Echtheit einer Quelle zu hinterfragen, indem ermittelt wird, wer diese Quelle zu welcher Zeit, zu welchem Zweck und in welchem Kontext geschaffen hat, zählt zu den Eckpfeilern unserer Forschungsarbeit. Da das Web inzwischen scheinbar unbegrenzten Zugang zu retrodigitalisiertem Material und nativen digitalen Daten bietet, müssen wir lernen, wie digitale Ressourcen kritisch bewertet werden – genauso wie einst „analoge“ Materialien.
+
+
+{: .extra-spacing}
+### Ziele
+
+Lernende, die eine oder mehrere dieser Lektionen abschließen, werden
+
+ 1. verstehen, wie die Digitalisierung und das Web die Merkmale der Geschichtswissenschaft verändert haben,
+ 2. lernen, wie digitale Objekte geschaffen (retrodigitalisiert, nativ digitale, konvertierte Dokumente) und das Konzept des „Originals“ hinterfragt werden,
+ 3. lernen, wie Informationen zu einem digitalen Objekt (Metadaten) hinzugefügt werden,
+ 3. lernen, wie Daten online veröffentlicht und durchsuchbar gemacht werden,
+ 4. die Auswirkungen von Suchmaschinen auf das Auffinden und Auswählen von Quellen verstehen,
+ 5. die verschiedenen Phasen des Prozesses historischer Forschung und die in jeder Phase nutzbaren Tools verstehen,
+ 6. in der Lage sein, eine Reihe digitaler Tools in elementarer Weise auf Daten anzuwenden,
+ 7. verstehen, was diese Tools mit den Daten eigentlich machen, bzw. das unterliegende mathematische und manipulative Prinzip,
+ 8. verstehen, wie Forschungsergebnisse mithilfe von Tools über multimodale/transmodale nicht lineare Erzählweisen („Storytelling“) präsentiert werden.
+ 
 
 {: .extra-spacing}
 ### Transformation from analogue to digital
-A digital text, image or recording may appear to be similar to its analogue version, but it is actually a collection of digits arranged in a particular order that offers a representation of the original which can be viewed on a screen, without its material characteristics.
-Turning an analogue object into a digital one entails a whole series of changes that affect its appearance and informative value. The analogue object is taken out of its original context, whether a private household, archive, museum or library, converted into digits,  enriched with metadata and then published online.
+Digitale Texte, Bilder oder Aufnahmen können gewiss Ähnlichkeiten mit ihrer analogen Version suggerieren. Doch in Wirklichkeit stellen sie eine Sammlung von Zahlen in einer bestimmten Reihenfolge dar, die ein Abbild des Originals verkörpern, das sich in entmaterialisierter Form auf einem Bildschirm visualisieren lässt.
+Die Umwandlung eines analogen Objekts in die digitale Form bringt eine Reihe von Veränderungen mit sich, die sich auf dessen Erscheinungsbild und Informationswert auswirken. Das analoge Objekt wird aus seinem ursprünglichen Kontext  wie einem privaten Haushalt, einem Archiv, Museum oder einer Bibliothek  herausgenommen und im Anschluss in Zahlen umgewandelt. Das Ergebnis wird mit Metadaten angereichert und online veröffentlicht.
 
-{: .extra-spacing}
-### The need to learn new skills
-Now thath huge volumes of data can be searched, collected and shared in no time from any place with access to the web, historians need to develop new practices in terms of scale, speed and space. These developments might be compared to the way in which the introduction of the microscope and telescope in the 16th century changed the way at which natural phenomena could be perceived and studied.
 
 {: .extra-spacing}
 ### The hybrid historian
-These changes do not mean that raditional approaches to research are becoming obsolete. We still need to attentively read, analyse and interpret primary and secondary sources. We have to maintain our ability to sketch and to write with pen and pencil. We still need to visit archives, libraries and museums, since only a very small percentage of their sources have been published online. The best equipped historian is the hybrid historian, who knows how to combine traditional and innovative research practices.
+Traditionelle Forschungsansätze sind nicht überholt. Nach wie vor gilt es, Primär- und Sekundärquellen aufmerksam zu lesen, zu analysieren und zu deuten. Unsere zeichnerischen Fertigkeiten und das klassische Schreiben mit Füller und Bleistift müssen wir erhalten. Wie bisher müssen wir uns in Archive, Bibliotheken und Museen begeben, da nur ein sehr geringer prozentualer Anteil ihrer Quellen online veröffentlicht wurde. Der bestausgestattete Historiker ist der „Hybridhistoriker“, der traditionelle und innovative Forschungspraktiken zu verbinden weiß.
 
 {: .extra-spacing}
 ### Insights through crossovers
-The lessons we offer on this website are a crossover between history, archival studies, ancillary sciences, information science and computer science. In our view this multidisciplinary approach is necessary to foster a new generation of digital savvy scholars, who ask the right questions when dealing with digital content and are able to organise, analyse and present digital and analogue data with the help of digital tools.
+Demgemäß verstehen sich unsere Lektionen auf dieser Website als Crossover zwischen Geschichte, Archivstudien, Hilfswissenschaften, Informationswissenschaft und Computerwissenschaft. Wir halten diesen disziplinenübergreifenden Ansatz für notwendig, um eine neue Generation digital kundiger Forscher heranzubilden, die beim Umgang mit digitalen Inhalten die richtigen Fragen stellen und in der Lage sind, digitale und analoge Daten mithilfe digitaler Tools zu strukturieren, zu analysieren und darzulegen.
 
 {: .extra-spacing}
-### Objectives
-
-Students who complete one or more of these lessons will:
-
- 1. Understand how digitisation and the web have changed the nature of historical research
- 2. Learn how digital objects are created (retro-digitised, born-digital, converted documents)
- 3. Learn how to question the concept of the “original”
- 4. Learn how information is added to a digital object (metadata)
- 5. Learn how data is published online and made searchable
- 6. Understand the impact of search engines on finding and selecting sources
- 7. Be able to apply a number of digital tools to data in a basic way
- 8. Learn how to critically assess the informative value of a website
- 9. Learn the difference between conducting research in an archive and online
-10. Learn about some basic principles of physics related to communication technology
-
-### Key Terms
-meta-source criticism, the creation, enrichment and identification of digitised and born-digital sources,
-tool criticism:
-remix and re-contextualisation: reuse of data in a digital context
+### Schlüsselbegriffe
+Meta-Quellenkritik: Schaffung, Anreicherung und Identifizierung digitalisierter und nativer digitaler Quellen
+Toolkritik:
+Remix und erneute Kontextualisierung: Wiederverwendung von Daten im digitalen Kontext
 
 [](ranke-stamp,archive-records)
 [](digitization-book-georgia,digital-world)
