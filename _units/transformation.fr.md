@@ -1,6 +1,7 @@
 ---
-title: Transformation; how the digital creates new realities
+title: "Transformation : technologies numériques et création de nouvelles réalités"
 layout: unit
+toc: on
 tags:
   - digital technology
   - manipulation
@@ -23,6 +24,6 @@ order: 4
 
 ---
 
-A lesson about how digital technology has stirred our imagination and enabled us to create new realities, but at the same time requires a degree of familiarity with the mechanisms behind digital content if we are to understand the technology that has been applied and assess the origin and nature of the sources that have been reused.
+Leçon sur la manière dont la technologie numérique a stimulé notre imagination et nous a permis de créer de nouvelles réalités, tout en demandant un certain degré de connaissance des mécanismes qui sous-tendent le contenu numérique. En effet, cette connaissance est indispensable pour comprendre la technologie qui a été appliquée et évaluer l’origine et la nature des sources qui ont été réutilisées.
 
 <!-- more -->

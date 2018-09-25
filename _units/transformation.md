@@ -1,6 +1,7 @@
 ---
 title: Transformation; how the digital creates new realities
 layout: unit
+toc: on
 tags:
   - digital technology
   - manipulation

@@ -1,7 +1,7 @@
 ---
 layout: assignment
 unit: transformation
-lang: en
+lang: fr
 title: "transformation in the world of animals"  
 cover:
 tags:
