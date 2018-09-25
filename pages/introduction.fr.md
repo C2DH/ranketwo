@@ -3,7 +3,7 @@ layout: page
 lang: fr
 permalink: /fr/introduction/
 link: /introduction/
-title: What the platform is about
+title: Mission de la plateforme
 documents:
   - document-example
   - document-example-b
@@ -13,54 +13,52 @@ documents:
   - digital-world
 ---
 
-**Ranke.2** is a teaching platform that offers lessons on how to critically assess and work with digital historical sources
+**Ranke.2** est une plateforme éducative qui propose des leçons sur l’évaluation et l’utilisation critiques de sources historiques numériques. Chaque leçon se concentre sur un type spécifique de source historique et aborde le regard critique à porter sur sa version numérique.
+
 {: .extra-spacing}
 <!-- more -->
 
 
-![DSCATM.png](https://c2dh.github.io/ranketwo/assets/images/DSCATM.png)
+<!-- ![DSCATM.png](https://c2dh.github.io/ranketwo/assets/images/DSCATM.png) -->
 
-### Why Digital Source Criticism?
-Historians of the 21st century need to be aware of the specific nature of the digital sources they analyse in their research.
-The critical interrogation of historical sources has always formed the basis of historical scholarship. Questioning the authenticity of a source by finding out who created it, at what time, for what purpose and in what context is a key part of our research practices. But now that we have seemingly unlimited access to retro-digitised material and born-digital data through the web, we need to learn how to critically assess digital resources, just as we have always done with “analogue” materials.
+### Pourquoi porter un regard critique sur les sources numériques ?
 
-{: .extra-spacing}
-### Transformation from analogue to digital
-A digital text, image or recording may appear to be similar to its analogue version, but it is actually a collection of digits arranged in a particular order that offers a representation of the original which can be viewed on a screen, without its material characteristics.
-Turning an analogue object into a digital one entails a whole series of changes that affect its appearance and informative value. The analogue object is taken out of its original context, whether a private household, archive, museum or library, converted into digits,  enriched with metadata and then published online.
+![DSCATM.png](https://c2dh.github.io/ranketwo/assets/images/DSCATM.png){:height="200px" .float-left.mr-3.mt-2.mb-4}
+Depuis toujours, le questionnement critique des sources historiques est un fondement du savoir historique. Le questionnement de l’authenticité de la source en tentant de déterminer qui l’a créée, à quel moment, dans quel but et dans quel contexte est un élément essentiel de nos pratiques de recherche. Aujourd’hui, Internet nous offre un accès pratiquement illimité à des supports rétronumérisés et à des informations encodées au format numérique dès l’origine. Nous devons dès lors apprendre à évaluer ces ressources numériques de manière critique, dans la prolongation des méthodes appliquées depuis toujours pour les supports « analogiques ».
+Un texte, une image ou un enregistrement numérique peut sembler similaire à sa version analogique, mais il s’agit en fait d’un ensemble de chiffres qui se succèdent dans un certain ordre et qui permettent de visualiser une représentation dématérialisée de l’original sur un écran.
 
 {: .extra-spacing}
-### The need to learn new skills
-Now thath huge volumes of data can be searched, collected and shared in no time from any place with access to the web, historians need to develop new practices in terms of scale, speed and space. These developments might be compared to the way in which the introduction of the microscope and telescope in the 16th century changed the way at which natural phenomena could be perceived and studied.
+### Objectifs
+
+En suivant une ou plusieurs de ces leçons, les étudiants...
+
+1.	comprendront en quoi la numérisation et Internet ont modifié la nature de la recherche historique.
+2.	apprendront comment les objets numériques sont créés (rétronumérisation, format numérique dès l’origine, documents convertis) et comment questionner le concept d’« original ».
+3.	apprendront comment des informations (métadonnées) sont ajoutées à un objet numérique.
+4.	apprendront comment les informations sont publiées en ligne et rendues consultables.
+5.	comprendront l’impact des moteurs de recherche lorsqu’il s’agit de trouver et de sélectionner des sources.
+6.	comprendront les diverses phases du processus de recherche historique et les outils qui peuvent être utilisés pour chaque phase.
+7.	seront à même d’appliquer de manière basique un certain nombre d’outils numériques à des données.
+8.	comprendront en quoi consiste la prise en charge des données par ces outils : les principes mathématiques et les manipulations sous-jacents.
+9.	comprendront comment les résultats de la recherche peuvent être présentés sous la forme de narrations (storytelling) non linéaires multimodales/transmodales à l’aide d’outils.
 
 {: .extra-spacing}
-### The hybrid historian
-These changes do not mean that raditional approaches to research are becoming obsolete. We still need to attentively read, analyse and interpret primary and secondary sources. We have to maintain our ability to sketch and to write with pen and pencil. We still need to visit archives, libraries and museums, since only a very small percentage of their sources have been published online. The best equipped historian is the hybrid historian, who knows how to combine traditional and innovative research practices.
+### La transformation d’un objet analogique en une représentation numérique
+
+La transformation d’un objet analogique en une représentation numérique implique toute une série de modifications qui impactent son aspect et sa valeur informative. L’objet analogique est tiré de son contexte d’origine, qu’il s’agisse d’une habitation privée, d’archives, d’un musée ou d’une bibliothèque. Il est converti en chiffres et le résultat de cette conversion est complété par des métadonnées, puis mis en ligne.
+Les historiens du 21e siècle sont de plus en plus dépendants des ressources numériques. C’est pourquoi ils doivent avoir conscience de ces modifications et de la nature spécifique des sources numériques qu’ils analysent dans le cadre de leurs recherches.
+
 
 {: .extra-spacing}
-### Insights through crossovers
-The lessons we offer on this website are a crossover between history, archival studies, ancillary sciences, information science and computer science. In our view this multidisciplinary approach is necessary to foster a new generation of digital savvy scholars, who ask the right questions when dealing with digital content and are able to organise, analyse and present digital and analogue data with the help of digital tools.
+### La nécessité d’acquérir de nouvelles compétences
 
-{: .extra-spacing}
-### Objectives
+Les historiens d’aujourd’hui doivent aussi maîtriser des compétences supplémentaires. D’énormes quantités de données peuvent désormais être interrogées et recueillies en un rien de temps depuis n’importe où. Il suffit de disposer d’un accès à Internet. Il est possible de collaborer en ligne avec des collègues des quatre coins du monde, mais aussi de déployer des outils numériques pour créer des liens entre les personnes, les événements et les lieux. Pour être totalement en phase avec ces changements d’échelle, de rapidité et de contexte, les historiens doivent adopter de nouvelles pratiques. Les évolutions précédemment décrites peuvent être comparées à l’invention du microscope et du télescope au 16e siècle : ces nouveaux outils ont révolutionné l’échelle de perception et d’analyse des phénomènes naturels.
 
-Students who complete one or more of these lessons will:
+Les approches traditionnelles de la recherche ne sont pas tombées en désuétude. En effet, nous devons toujours lire attentivement, analyser et interpréter des sources primaires et secondaires. Nous devons conserver notre capacité à réaliser des croquis et à écrire à l’encre et au crayon. Nous devons toujours nous rendre aux archives, dans les bibliothèques et les musées, dans la mesure où seul un pourcentage très restreint de leurs sources a été publié en ligne. L’historien le mieux loti est l’historien hybride, qui sait comment combiner les pratiques de recherche traditionnelles et innovantes.
 
- 1. Understand how digitisation and the web have changed the nature of historical research
- 2. Learn how digital objects are created (retro-digitised, born-digital, converted documents)
- 3. Learn how to question the concept of the “original”
- 4. Learn how information is added to a digital object (metadata)
- 5. Learn how data is published online and made searchable
- 6. Understand the impact of search engines on finding and selecting sources
- 7. Be able to apply a number of digital tools to data in a basic way
- 8. Learn how to critically assess the informative value of a website
- 9. Learn the difference between conducting research in an archive and online
-10. Learn about some basic principles of physics related to communication technology
+Par conséquent, les leçons que nous proposons sur ce site Internet sont une combinaison d’histoire, d’études archivistiques, de sciences auxiliaires, de sciences de l’information et d’informatique. Nous pensons que cette approche pluridisciplinaire est nécessaire pour façonner une nouvelle génération de spécialistes rompus à l’utilisation des outils numériques et capables, d’une part, de poser les bonnes questions en présence de contenu numérique et, d’autre part, d’organiser, d’analyser et de présenter des données numériques et analogiques à l’aide d’outils numériques.
 
-### Key Terms
-meta-source criticism, the creation, enrichment and identification of digitised and born-digital sources,
-tool criticism:
-remix and re-contextualisation: reuse of data in a digital context
-
-[](ranke-stamp,archive-records)
-[](digitization-book-georgia,digital-world)
+### Principaux termes
+critique des métasources : création, enrichissement et identification des sources numérisées et produites sur support numérique dès l’origine
+critique des outils :
+remixage et recontextualisation : réutilisation de données dans un contexte numérique
