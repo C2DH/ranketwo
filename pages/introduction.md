@@ -23,12 +23,13 @@ documents:
 
 ![DSCATM.png](https://c2dh.github.io/ranketwo/assets/images/DSCATM.png){:height="200px" .float-left.mr-3.mt-2.mb-4}
 Historians of the 21st century need to be aware of the specific nature of the digital sources they analyse in their research.
-The critical interrogation of a historical source - finding out who created it, at what time, for what purpose and in what context - has always formed the basis of historical scholarship. But now that we have seemingly unlimited access to retro-digitised sources and born-digital data through the web, we need to learn new skills. The impact of digital technology might be compared to the introduction of the microscope and telescope in the 16th century, that changed the way at which natural phenomena could be perceived and studied. To be able to cope with these changes, and to continue to do what we have always done with “analogue” sources, we need a thourough understanding of the digitization process and publication on the web.  
+The critical interrogation of a historical source - finding out who created it, at what time, for what purpose and in what context - has always formed the basis of historical scholarship. But now that we have seemingly unlimited access to retro-digitised material and born-digital data through the web, we need to learn how to critically assess digital resources, just as we have always done with “analogue” materials. The impact of digital technology  might be compared to the way in which the introduction of the microscope and telescope in the 16th century changed the scale at which natural phenomena could be perceived and studied. To be able to cope with these changes, we need a thourough understanding of the interplay between digital technology and historical research.  
+
 
 {: .extra-spacing}
 ### Objectives of Ranke.2
 
-By engaging with our animations, quizzes and assignments students will learn:
+By engaging with our lessons, that consist of animations, quizzes and assignments, students will learn:
 
  1. How digitisation and the web have changed the nature of historical research
  2. How digital objects are created (retro-digitised, born-digital, converted documents)
@@ -50,7 +51,7 @@ Turning an analogue object into a digital one entails a whole series of changes 
 
 {: .extra-spacing}
 ### The hybrid historian
-These changes do not mean that raditional approaches to research are becoming obsolete. We still need to attentively read, analyse and interpret primary and secondary sources. We have to maintain our ability to sketch and to write with pen and pencil. We still need to visit archives, libraries and museums, since only a very small percentage of their sources have been published online. The best equipped historian is the hybrid historian, who knows how to combine traditional and innovative research practices.
+These changes do not mean that traditional approaches to research are becoming obsolete. We still need to attentively read, analyse and interpret primary and secondary sources. We have to maintain our ability to sketch and to write with pen and pencil. We still need to visit archives, libraries and museums, since only a very small percentage of their sources have been published online. The best equipped historian is the hybrid historian, who knows how to combine traditional and innovative research practices.
 
 {: .extra-spacing}
 ### Insights through crossovers
