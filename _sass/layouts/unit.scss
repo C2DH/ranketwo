@@ -17,19 +17,24 @@ div.page.unit {
   left: 0;
   pointer-events: none;
 
+  .section.collapsible{
+    border: 1px solid cyan;
+    background-color: white;
+  }
+
   h4{
     pointer-events: auto;
-    font-weight: bold;
+    font-weight: normal;
     font-size:inherit;
     line-height: inherit;
-    padding-top: 20px;
+    padding: 0;
+    margin: 0;
   }
 
   ul {
     pointer-events: auto;
     margin:0;
-    padding:0 0 20px 0;
-
+    padding: 0;
     li{
       pointer-events: auto;
       list-style-type: none;
