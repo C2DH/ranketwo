@@ -18,8 +18,12 @@ div.page.unit {
   pointer-events: none;
 
   .section.collapsible{
-    border: 1px solid cyan;
-    background-color: white;
+    border: 1px solid $almost-white;
+  }
+
+  .section--icon .icon::before,
+  .section--icon .icon::after{
+    background-color: cyan;
   }
 
   h4{
@@ -29,6 +33,7 @@ div.page.unit {
     line-height: inherit;
     padding: 0;
     margin: 0;
+    color: cyan;
   }
 
   ul {
@@ -39,7 +44,7 @@ div.page.unit {
       pointer-events: auto;
       list-style-type: none;
       position: relative;
-      margin-bottom: 10px;
+      margin-bottom: 1rem;
 
       .lines{
         pointer-events: none;
@@ -63,27 +68,25 @@ div.page.unit {
         pointer-events: auto;
         padding-left: 15px;
         display: block;
-
+        font-size: 0.9em;
+        color: $almost-white;
+        border-bottom: none;
         &:hover{
-          text-decoration: underline;
-          background: transparent
+          color: cyan
         }
-        span{
-          transition: background-color 0.2s ease-in-out;
-        }
+
       }
       &.active {
         .lines{
           border-color: #FF00FF;
         }
         .line.right{
-          background-color: $highlight;
+
+          //background-color: $highlight;
         }
         a{
           background-color: transparent;
-          > span{
-            background-color: $highlight;
-          }
+          color: cyan;
         }
       }
     }
@@ -92,6 +95,27 @@ div.page.unit {
   &.fixed{
     position: fixed;
     transform: translateY(-255px);
+
+    h4{
+      color: inherit;
+    }
+    .section.collapsible{
+      background-color: #efefef;
+      border-color: #efefef;
+      border-bottom-color: blue;
+    }
+
+    .section--icon .icon::before,
+    .section--icon .icon::after{
+      background-color: blue;
+    }
+
+    ul li a {
+      color: $light-grey;
+    }
+    ul li.active a{
+      color: $almost-black;
+    }
   }
 
 }
