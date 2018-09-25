@@ -1,6 +1,4 @@
----
 
----
 /* runtime
 
   This script handles the Table of contents fixed on scrolling and the loading of documents data.

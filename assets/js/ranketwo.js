@@ -31,7 +31,7 @@
       aTags.each(function() {
         var href = this.getAttribute('href');
 
-        if (href && href.indexOf('/') === -1 && href.indexOf('http') === -1) {
+        if (href && href.indexOf('/') === -1 && href.indexOf('http') === -1 && href.indexOf('#') !== 0) {
 
           if (_self.docs[href]) {
             var doc = _self.docs[href];
@@ -216,61 +216,6 @@
       }
       return card
     }
-
-    this.___buildPlaceholder = function(placeholder_id) {
-      var doc = _self.docs[placeholder_id];
-      if (!doc) {
-        console.error('buildPlaceholder() failed, doc is undefined for this placeholder_id:', placeholder_id)
-        return;
-      }
-      var placeholder = document.createElement("div");
-
-      placeholder.className = 'placeholder'
-      placeholder.setAttribute('data-id', placeholder_id);
-
-
-      var _placeholder = d3.select(placeholder);
-
-
-      if (doc.attachment) {
-        _placeholder.classed('with-cover', true);
-        _placeholder.
-        append('img')
-          .classed('cover', true)
-          .attr('src', "{{'/assets/images/attachments/' | relative_url }}" + doc.attachment)
-      }
-      if (!doc.data) {
-        return;
-      }
-      try {
-        var _metadata = _placeholder
-          .append('div')
-          .classed('metadata', true)
-
-
-        _metadata.
-        append('h4')
-          .classed('title', true)
-          .append('a')
-          .attr('href', doc.url)
-          .attr('target', '_blank')
-          .text(doc.title)
-
-        _metadata
-          .append('div')
-          .classed('author', true)
-          .text(doc.author || doc.data.author)
-
-        _metadata
-          .append('div')
-          .classed('year', true)
-          .text(doc.year || doc.data.date.en_us)
-      } catch (e) {
-
-      }
-      return placeholder;
-    };
-
   }
 
   window.r2 = window.ranketwo = new Ranketwo();

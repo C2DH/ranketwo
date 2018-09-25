@@ -167,40 +167,51 @@ layout: default
 <!-- table of contents contaier -->
 {% if page.toc %}
 <div id='table-of-contents-wrapper'>
-<div class='container' >
-  <div class='row'>
-    <div class='col-sm-4 ml-auto' style='background: white'>
-      <!-- ToC -->
-      <h4> table of contents </h4>
-      <ul>
-      {% for component in toc %}
-        <li>
-          <div class='lines'>
-            <div class="group">
-            <div class="line left"></div>
-            <div class="line right"></div>
+  <div class='container' >
+    <div class='row'>
+      <div class='col-sm-4 ml-auto'>
+        <div class='section collapsible p-2'>
+          <div class="section--toggler collapsible-toggler active">
+            <div class="section--title p-2">
+              <h4>{% assign key="table of contents"%} {% include t.html %}</h4>
+            </div>
+            <div class="section--icon">
+              <div class="icon-plus icon"></div>
             </div>
           </div>
-          <a href='#c-{{component.slug}}'>{% if component.type == "assignment"%}
-            {% assign key="assignment n." %}<h5>&mdash; {% include t.html %}#{{component.order}}</h5>
-            {% endif %}<span>{{component.title}}</span></a>
-        </li>
-      {% endfor %}
-      {% if assignments.size %}
-      <li>
-        <div class='lines'>
-          <div class="group">
-          <div class="line left"></div>
-          <div class="line right"></div>
+          <div class="section--contents collapsible-content active manual">
+            <!-- ToC -->
+            <ul class='px-2'>
+            {% for component in toc %}
+              <li>
+                <div class='lines'>
+                  <div class="group">
+                  <div class="line left"></div>
+                  <div class="line right"></div>
+                  </div>
+                </div>
+                <a href='#c-{{component.slug}}'>{% if component.type == "assignment"%}
+                  {% assign key="assignment n." %}<h5>&mdash; {% include t.html %}#{{component.order}}</h5>
+                  {% endif %}<span>{{component.title}}</span></a>
+              </li>
+            {% endfor %}
+            {% if assignments.size %}
+              <li>
+                <div class='lines'>
+                  <div class="group">
+                  <div class="line left"></div>
+                  <div class="line right"></div>
+                  </div>
+                </div>
+                <a href='#c-assignments'>{% assign key="assignments" %}{% include t.html %} ({{assignments.size}})</a>
+              </li>
+            {% endif %}
+            </ul>
           </div>
         </div>
-        <a href='#c-assignments'>{% assign key="assignments" %}{% include t.html %} ({{assignments.size}})</a>
-      </li>
-      {% endif %}
-      </ul>
+      </div>
     </div>
   </div>
-</div>
 </div>
 {% endif %}
 
@@ -208,13 +219,23 @@ layout: default
 window.addEventListener('DOMContentLoaded', function() {
   // all collapsible
   var d = [];
-  var collapsibles = d3.selectAll('.collapsible-toggler').on('click', function() {
+  var collapsibles = d3.selectAll('.collapsible-toggler').each(function(el) {
+    var t = d3.select(this);
+    if(t.classed('active')) {
+      var content = d3.select(this.nextElementSibling);
+      var h = content.node().scrollHeight;
+      content
+        .style('height', h + 'px');
+    }
+  }).on('click', function() {
     var content = d3.select(this.nextElementSibling);
     var t = d3.select(this);
 
     t.classed("active", !t.classed("active"));
 
+
     if(content.classed('active')) {
+
       content
         .interrupt()
         .style('height', 0)
