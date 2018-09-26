@@ -1,5 +1,5 @@
 ---
-title: "From the Archival to the Digital Turn"
+title: "Von der Archivierung zum „digital Turn“"
 layout: unit
 toc: off
 tags:
@@ -25,6 +25,6 @@ cover:
 order: 1
 ---
 
-FR Lesson on how the method of source criticism has been affected by the digital turn and what this means for the practice of students who study humanities disciplines and conduct research.
+Eine Lektion über die Frage, wie sich der „digital Turn“ (digitale Wende) auf das Verfahren der Quellenkritik ausgewirkt hat und was dies für Studierende der Geisteswissenschaften mit Forschungstätigkeit bedeutet.
 
 <!-- more -->

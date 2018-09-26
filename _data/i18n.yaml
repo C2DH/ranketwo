@@ -7,7 +7,7 @@ What is DSC:
   de: Was ist digitaler Quellenkritik?
 Structure of Lessons:
   fr: Structure de la Leçon
-  de: Lehrstruktur
+  de: Struktur der Lektionen
 about:
   en: What the platform is about
   fr: Mission de la plateforme
@@ -15,6 +15,7 @@ about:
 Lessons:
   en: Lessons
   fr: Leçons
+  de: Lektionen
 by:
   en: by
   fr: de
@@ -38,6 +39,7 @@ Overview of Lessons:
 list of tags:
   en: "tags: "
   fr: "mots clès&nbsp;: "
+  de: "Tags: "
 list of lessons:
   en: "list of lessons"
   fr: "Liste des leçons"
@@ -48,22 +50,29 @@ communication technology:
   fr: technologies de la communication
 digitization:
   fr: numérisation
+  de: Digitalisierung
 digital source criticism:
   fr: critique des sources numériques
+  de: Kritik an digitalen Quellen
 digitized photos:
   fr: photos numérisées
+  de: digitalisierte Fotos
 digitized letters:
   fr: lettres numérisées
+  de: digitalisierte Briefe
 dissemination of knowledge:
   fr: diffusion de la connaissance
 esthetic qualities:
   fr: qualités esthétiques
 e-mails:
   fr: e-mails
+  de: E-Mails
 digitized audio-interviews:
   fr: interviews audio numérisées
+  de: digitalisierte Audiointerviews
 internal and external source criticism:
   fr: critique des sources interne et externe
+  de: interne und externe Quellenkritik
 manuscripts:
   fr: manuscrits
 transformation:
