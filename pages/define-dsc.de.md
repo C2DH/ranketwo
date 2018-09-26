@@ -4,7 +4,6 @@ lang: de
 permalink: /de/define-dsc/
 link: /define-dsc/
 title: Was ist Digitale Quellenkritik?
----
 documents:
 - dsc-skill-training
 - quelle
