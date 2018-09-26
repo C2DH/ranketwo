@@ -3,7 +3,7 @@ layout: page
 lang: fr
 permalink: /fr/define-dsc/
 link: /define-dsc/
-title: définir la critique des sources numériques
+title: Définir la critique des sources numériques
 documents:
 - dsc-skill-training
 - quelle
