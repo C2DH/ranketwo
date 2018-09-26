@@ -9,8 +9,8 @@
     </div>
     <!-- <a class="navbar-brand{% if page.link == "/" %} active{% endif %}"  {% if page.lang == site.default_lang %} href='{{"/" | absolute_url}}'' {% else %} href="{{page.lang | absolute_url}}/" {% endif %}>{{site.title}}</a> -->
     <a class="navbar-brand mx-auto d-block"  {% if page.lang == site.default_lang %} href='{{"/" | absolute_url}}' {% else %} href="{{page.lang | absolute_url}}/" {% endif %}>
-      <strong>{{site.title}}</strong> <span style='letter-spacing:-5px;'>~~~</span>
-      {{site.headline}}
+      <strong>{% assign key='site.title'%} {% include t.html %}</strong> <span style='letter-spacing:-5px;'>~~~</span>
+      {% assign key='site.headline'%}{% include t.html %}
     </a>
     <!-- <ul class="nav">
     {% for lang in site.languages %}

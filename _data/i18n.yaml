@@ -68,3 +68,12 @@ manuscripts:
   fr: manuscrits
 transformation:
   fr: transformation
+
+site.title:
+  en: Ranke.2
+  fr: Ranke.2
+  de: Ranke.2
+site.headline:
+   en: Source Criticism in the digital Age
+   fr: Critique de la source dans L'ère digitale
+   de: Quellenkritik im digitaler Zeitalter
