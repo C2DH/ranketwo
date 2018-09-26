@@ -33,7 +33,7 @@ How to agree on the meaning of a term that can be interpreted in so many ways? T
 The term "digital source criticism" is a compound. It refers to what historians have always done - critically assess the origin and value of a historical source - and the need to apply the same principle to the digitised and born-digital sources that are currently available on the web. 
 
 Of the many questions to ask, these can be regarded as key: 
-1. Why has the source been selected to be digitised?
+1. Why has the source been selected to be digitised and/or be integrated into a digital repository??
 2. Has the transformation from analogue to digital form affected the informative and artefactual value of the source?
 3. Why, when and how was the source published on the web and who took the initiative?
 4. How has the search engine retrieved this specific source? Are there relevant alternatives that have not been retrieved? 
