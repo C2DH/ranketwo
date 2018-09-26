@@ -31,15 +31,15 @@ Die Echtheit einer Quelle zu hinterfragen, indem ermittelt wird, wer diese Quell
 
 Lernende, die eine oder mehrere dieser Lektionen abschließen, werden
 
- 1. verstehen, wie die Digitalisierung und das Web die Merkmale der Geschichtswissenschaft verändert haben,
- 2. lernen, wie digitale Objekte geschaffen (retrodigitalisiert, nativ digitale, konvertierte Dokumente) und das Konzept des „Originals“ hinterfragt werden,
- 3. lernen, wie Informationen zu einem digitalen Objekt (Metadaten) hinzugefügt werden,
- 3. lernen, wie Daten online veröffentlicht und durchsuchbar gemacht werden,
- 4. die Auswirkungen von Suchmaschinen auf das Auffinden und Auswählen von Quellen verstehen,
- 5. die verschiedenen Phasen des Prozesses historischer Forschung und die in jeder Phase nutzbaren Tools verstehen,
- 6. in der Lage sein, eine Reihe digitaler Tools in elementarer Weise auf Daten anzuwenden,
- 7. verstehen, was diese Tools mit den Daten eigentlich machen, bzw. das unterliegende mathematische und manipulative Prinzip,
- 8. verstehen, wie Forschungsergebnisse mithilfe von Tools über multimodale/transmodale nicht lineare Erzählweisen („Storytelling“) präsentiert werden.
+ 1. Verstehen, wie die Digitalisierung und das Web die Merkmale der Geschichtswissenschaft verändert haben,
+ 2. Lernen, wie digitale Objekte geschaffen (retrodigitalisiert, nativ digitale, konvertierte Dokumente) und das Konzept des „Originals“ hinterfragt werden,
+ 3. Lernen, wie Informationen zu einem digitalen Objekt (Metadaten) hinzugefügt werden,
+ 3. Lernen, wie Daten online veröffentlicht und durchsuchbar gemacht werden,
+ 4. Die Auswirkungen von Suchmaschinen auf das Auffinden und Auswählen von Quellen verstehen,
+ 5. Die verschiedenen Phasen des Prozesses historischer Forschung und die in jeder Phase nutzbaren Tools verstehen,
+ 6. In der Lage sein, eine Reihe digitaler Tools in elementarer Weise auf Daten anzuwenden,
+ 7. Verstehen, was diese Tools mit den Daten eigentlich machen, bzw. das unterliegende mathematische und manipulative Prinzip,
+ 8. Verstehen, wie Forschungsergebnisse mithilfe von Tools über multimodale/transmodale nicht lineare Erzählweisen („Storytelling“) präsentiert werden.
  
 
 {: .extra-spacing}
