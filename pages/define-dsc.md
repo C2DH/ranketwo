@@ -38,12 +38,7 @@ Of the many questions to ask, these can be regarded as key:
 3. Why, when and how was the source published on the web and who took the initiative?
 4. How has the search engine retrieved this specific source? Are there relevant alternatives that have not been retrieved? 
 
-
-
-
-
-
-
+{: .extra-spacing}
 
 [block](dsc-skill-training)
 
