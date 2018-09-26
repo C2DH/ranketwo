@@ -23,7 +23,7 @@ sentences:
 
   - Ranke.2 ist eine Lernplattform uber digitale Quellenkritik
   - Ranke.2 zeigt die kritische Prüfung digitalen historischer Quellen an
-  - Ranke.2 erklart (umlaut on the a) die Umwandlung eines analogen Objekt in eine digitale Form
+  - Ranke.2 erklärt die Umwandlung eines analogen Objekt in eine digitale Form
   - Jedes Lernmodul befasst sich mit einem anderen Datentyp
 ---
 
