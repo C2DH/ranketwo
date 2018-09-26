@@ -38,6 +38,8 @@ Unter den vielen Fragen die sich stellen, gelten folgende als Schlüsselfragen:
 3. Warum, wann und wie wurde die Quelle im Web veröffentlicht und wer hat die Initiative ergriffen?
 4. Wie hat die Suchmaschine diese spezifische Quelle abgerufen? Gibt es relevante Alternativen, die nicht abgerufen wurden?
 
+{: .extra-spacing}
+
 [block](dsc-skill-training)
 
 [block](quelle)
