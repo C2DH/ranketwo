@@ -18,21 +18,21 @@ Die Lektionen sind so strukturiert, dass sie den Bedürfnissen von Studierenden,
 
 
 {: .extra-spacing}
-## KLEIN / animation & quiz
+## KLEIN / Animation und Quiz
 
 <div class='component--size big float-left mr-3 ml-2 mt-2 mb-2'>S</div>
 
 **15 minutes** &mdash; Das **KLEINE** Modul dient als kurze Einführung zu einem mit Quellenkritik verbundenen Thema. Es besteht aus einer kurzen, ca. 6-7 Minuten langen Animation, in der einige grundlegende Begriffe und Fragen dargelegt sind. Im Anschluss folgt ein rund zehnminütiges Quiz, in dem das Verständnis des Lernenden der in der Animation dargelegten Konzepte geprüft wird. Das KLEINE Modul richtet sich an eine breite Zielgruppe mit allgemeinem Interesse, darunter auch individuelle Lernende, die in keinen Ausbildungsrahmen eingebunden sind.
 
 {: .clear.extra-spacing }
-## MITTEL / complete one ore more assignments
+## MITTEL / fuhren Sie (FÜHREN) ein oder mehrere Aufgaben durch
 
 <div class='component--size big size-medium float-left mr-3 ml-2 mt-2 mb-2'>M</div>
 
 **max 90 minutes** &mdash; Das **MITTLERE** Modul ist für einen Unterrichtskontext ausgelegt und bietet demgemäß Informationen für Studierende und Dozenten. Es besteht aus einer Reihe von Aufgaben, in denen die in der Animation eingeführten verschiedenen Themen fundierter betrachtet werden. Zielgruppe sind Bachelor-Studierende und ihre Dozenten. Die Aufgaben eignen sich für die Arbeit in Gruppen mit zwei oder drei Studierenden. Der Zeitaufwand liegt zwischen 30 und 90 Minuten. Jede Aufgabe enthält besondere Hinweise zu den Lernergebnissen.
 
 {: .clear.extra-spacing }
-## GROSS / engage in workshops
+## GROSS / nehmen Sie an einem Workshop teil
 
 <div class='component--size big size-large float-left mr-3 ml-2 mt-2 mb-2'>L</div>
 

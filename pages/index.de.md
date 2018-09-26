@@ -21,10 +21,10 @@ videos:
 
 sentences:
 
-  - Ranke.2 is a teaching platform on digital source criticism
-  - Ranke.2 teaches how to critically assess digital historical sources
-  - Ranke.2 explains how analogue sources are transformed into digital representations
-  - Each lesson covers a specific type of data
+  - Ranke.2 ist eine Lernplattform uber digitale Quellenkritik
+  - Ranke.2 zeigt die kritische Prüfung digitalen historischer Quellen an
+  - Ranke.2 erklart (umlaut on the a) die Umwandlung eines analogen Objekt in eine digitale Form
+  - Jedes Lernmodul befasst sich mit einem anderen Datentyp
 ---
 
 bonjour!

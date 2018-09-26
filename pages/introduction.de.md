@@ -43,17 +43,17 @@ Lernende, die eine oder mehrere dieser Lektionen abschließen, werden
  
 
 {: .extra-spacing}
-### Transformation from analogue to digital
+### Umwandlung von analog zu digital
 Digitale Texte, Bilder oder Aufnahmen können gewiss Ähnlichkeiten mit ihrer analogen Version suggerieren. Doch in Wirklichkeit stellen sie eine Sammlung von Zahlen in einer bestimmten Reihenfolge dar, die ein Abbild des Originals verkörpern, das sich in entmaterialisierter Form auf einem Bildschirm visualisieren lässt.
 Die Umwandlung eines analogen Objekts in die digitale Form bringt eine Reihe von Veränderungen mit sich, die sich auf dessen Erscheinungsbild und Informationswert auswirken. Das analoge Objekt wird aus seinem ursprünglichen Kontext  wie einem privaten Haushalt, einem Archiv, Museum oder einer Bibliothek  herausgenommen und im Anschluss in Zahlen umgewandelt. Das Ergebnis wird mit Metadaten angereichert und online veröffentlicht.
 
 
 {: .extra-spacing}
-### The hybrid historian
+### Der Hybridhistoriker
 Traditionelle Forschungsansätze sind nicht überholt. Nach wie vor gilt es, Primär- und Sekundärquellen aufmerksam zu lesen, zu analysieren und zu deuten. Unsere zeichnerischen Fertigkeiten und das klassische Schreiben mit Füller und Bleistift müssen wir erhalten. Wie bisher müssen wir uns in Archive, Bibliotheken und Museen begeben, da nur ein sehr geringer prozentualer Anteil ihrer Quellen online veröffentlicht wurde. Der bestausgestattete Historiker ist der „Hybridhistoriker“, der traditionelle und innovative Forschungspraktiken zu verbinden weiß.
 
 {: .extra-spacing}
-### Insights through crossovers
+### Einblicke durch Crossovers
 Demgemäß verstehen sich unsere Lektionen auf dieser Website als Crossover zwischen Geschichte, Archivstudien, Hilfswissenschaften, Informationswissenschaft und Computerwissenschaft. Wir halten diesen disziplinenübergreifenden Ansatz für notwendig, um eine neue Generation digital kundiger Forscher heranzubilden, die beim Umgang mit digitalen Inhalten die richtigen Fragen stellen und in der Lage sind, digitale und analoge Daten mithilfe digitaler Tools zu strukturieren, zu analysieren und darzulegen.
 
 {: .extra-spacing}
