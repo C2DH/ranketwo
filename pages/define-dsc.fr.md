@@ -39,6 +39,7 @@ Parmi les nombreuses questions qui se posent, les suivantes peuvent être consid
 4. Comment le moteur de recherche a-t-il extrait cette source spécifique? Y a-t-il d’autres choix pertinents qui n’ont pas été 
 considérés ?
 
+{: .extra-spacing}
 
 [block](dsc-skill-training)
 
