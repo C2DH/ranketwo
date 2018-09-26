@@ -3,7 +3,7 @@ layout: page
 lang: de
 permalink: /de/introduction/
 link: /introduction/
-title: über die Platform
+title: Uber die Platform
 documents:
   - document-example
   - document-example-b
