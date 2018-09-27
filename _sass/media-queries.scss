@@ -7,6 +7,12 @@ body{
   line-height: 1.5;
 }
 
+@media (min-width:768px) {
+  #table-of-contents-wrapper{
+    top: 255px; // media stuff
+    display: block;
+  }
+}
 
 @media (min-width: 768px){
   body{

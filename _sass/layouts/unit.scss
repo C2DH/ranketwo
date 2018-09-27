@@ -7,10 +7,12 @@ div.page.unit {
   }
 }
 
+
 /* ID speecific */
 #table-of-contents-wrapper{
+  display: none;
   position: absolute;
-  top: 255px; // media stuff
+  top: 50px; // media stuff
   z-index: 100;
   min-height: 300px;
   right: 0;
