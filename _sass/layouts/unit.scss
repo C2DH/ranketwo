@@ -7,10 +7,8 @@ div.page.unit {
   }
 }
 
-
 /* ID speecific */
 #table-of-contents-wrapper{
-  display: none;
   position: absolute;
   top: 50px; // media stuff
   z-index: 100;
@@ -20,6 +18,7 @@ div.page.unit {
   pointer-events: none;
 
   .section.collapsible{
+    background: rgba(255,255,255,.1);
     border: 1px solid $almost-white;
   }
 
@@ -96,7 +95,7 @@ div.page.unit {
 
   &.fixed{
     position: fixed;
-    transform: translateY(-255px);
+    transform: translateY(0px);
 
     h4{
       color: inherit;
@@ -120,6 +119,18 @@ div.page.unit {
     }
   }
 
+}
+
+
+@media (min-width: 768px){
+  #table-of-contents-wrapper {
+    top: 255px; // media stuff
+    display: block;
+  }
+  #table-of-contents-wrapper.fixed {
+      position: fixed;
+      transform: translateY(-255px);
+  }
 }
 
 .unit .assignments .lines {
@@ -155,7 +166,7 @@ div.page.unit {
   }
   .type{
     position: absolute;
-    transform: translateX(50%) translateY(-50%) rotate(-89deg);
+    transform: translateX(100%) translateY(-159px) rotate(1deg);
     right: 170px;
     top: 50%;
     border: none;
@@ -233,6 +244,13 @@ div.page.unit {
           margin-bottom: .5rem;
         }
       }
+
+  }
+}
+
+@media (min-width:768px) {
+  .unit .lines .type{
+    transform: translateX(50%) translateY(-50%) rotate(-89deg);
 
   }
 }

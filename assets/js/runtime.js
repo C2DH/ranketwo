@@ -98,6 +98,11 @@ function resizing(){
     _toc_offsettop = _toc.node().offsetTop;
   }
 
+  // if mobile, odd header height;
+  if(window.innerWidth < 768){
+    _toc_offsettop -= 50;
+  }
+
   // calculate the offsettops and height for the component-wrapper to be scrollspied.
   d3.selectAll('body > div.scrollspy').select(function(_, i) {
     // console.log(arguments, )
@@ -126,50 +131,6 @@ function browseToScrollspy(index) {
   console.log()
 }
 
-// function scrollIt(destination, duration = 200, easing = 'linear', callback) {
-//   const easings = {
-//     linear(t) {
-//       return t;
-//     },
-//     easeInQuad(t) {
-//       return t * t;
-//     },
-//     easeOutQuad(t) {
-//       return t * (2 - t);
-//     },
-//     easeInOutQuad(t) {
-//       return t < 0.5 ? 2 * t * t : -1 + (4 - 2 * t) * t;
-//     },
-//     easeInCubic(t) {
-//       return t * t * t;
-//     },
-//     easeOutCubic(t) {
-//       return (--t) * t * t + 1;
-//     },
-//     easeInOutCubic(t) {
-//       return t < 0.5 ? 4 * t * t * t : (t - 1) * (2 * t - 2) * (2 * t - 2) + 1;
-//     },
-//     easeInQuart(t) {
-//       return t * t * t * t;
-//     },
-//     easeOutQuart(t) {
-//       return 1 - (--t) * t * t * t;
-//     },
-//     easeInOutQuart(t) {
-//       return t < 0.5 ? 8 * t * t * t * t : 1 - 8 * (--t) * t * t * t;
-//     },
-//     easeInQuint(t) {
-//       return t * t * t * t * t;
-//     },
-//     easeOutQuint(t) {
-//       return 1 + (--t) * t * t * t * t;
-//     },
-//     easeInOutQuint(t) {
-//       return t < 0.5 ? 16 * t * t * t * t * t : 1 + 16 * (--t) * t * t * t * t;
-//     }
-//   };
-
-// }
 
 function throttle(func, wait, options) {
   var context, args, result;
@@ -205,135 +166,18 @@ function throttle(func, wait, options) {
 
 var scrollspies = []
 
-function _buildPlaceholder(placeholder_id){
-  var doc = window.ranketwo.docs[placeholder_id];
-  if(!doc){
-    console.warn('_buildPlaceholder() failed, doc is undefined... placeholder_id:', placeholder_id)
-    return;
-  }
-  var placeholder = document.createElement("div");
-
-  placeholder.className = 'placeholder'
-  placeholder.setAttribute('data-id', placeholder_id);
-
-
-  var _placeholder = d3.select(placeholder);
-
-
-  if(doc.attachment){
-    _placeholder.classed('with-cover', true);
-    _placeholder.
-      append('img')
-        .classed('cover', true)
-        .attr('src', "{{'/assets/images/attachments/' | relative_url }}" + doc.attachment)
-  }
-  if(!doc.data) {
-    return;
-  }
-  try{
-  var _metadata = _placeholder
-    .append('div')
-      .classed('metadata', true)
-
-
-  _metadata.
-    append('h4')
-      .classed('title', true)
-        .append('a')
-          .attr('href', doc.url)
-          .attr('target', '_blank')
-          .text(doc.title)
-
-  _metadata
-    .append('div')
-      .classed('author', true)
-      .text(doc.author || doc.data.author)
-
-  _metadata
-    .append('div')
-      .classed('year', true)
-      .text(doc.year || doc.data.date.en_us )
-  } catch(e) {
-
-  }
-  return placeholder;
-}
-
-
-function _buildPlaceholderGallery(placeholder_ids) {
-  console.log('_buildPlaceholderGallery()', placeholder_ids.length);
-  var placeholder  = document.createElement('div');
-  placeholder.className = 'placeholder-gallery row no-gutters'
-  placeholder.setAttribute('data-id', placeholder_ids.join(','));
-  // .classed('gallery', true);
-
-  for(var i=0,l=placeholder_ids.length; i <l ; i++) {
-    var col = document.createElement('div')
-    col.className = 'col-sm-6 col-md-6'
-    placeholder.append(col);
-    var n = _buildPlaceholder(placeholder_ids[i]);
-    if(n) {
-      console.log(n)
-      col.append(n);
-    }
-  }
-  console.log(placeholder)
-  return placeholder;
-}
 
 // get all the a on document loadedd.
 document.addEventListener("DOMContentLoaded", function(e) {
   /* Your D3.js here */
-  console.log('hey!')
+  console.log('DOMContentLoaded! #table-of-contents-wrapper');
 
   // add Toable of Content wrapper ypos if any.
   _toc = d3.select('#table-of-contents-wrapper');
-
-
-
-  _documents = d3.selectAll('.contents > p > a').select(function() {
-    var attr = this.getAttribute('href'),
-        placeholder;
-
-    if(attr.indexOf('/d/') === 0 || attr.indexOf('/') === -1 ) {
-      if(attr.split(',').length > 1) {
-
-        placeholder = _buildPlaceholderGallery(attr.split(','));
-
-      } else {
-        var placeholder_id = attr.split('/').join('-').replace(/^-d-/,'');
-        console.log('placeholder_id', placeholder_id)
-        _buildPlaceholder(placeholder_id)
-
-        if(!window.ranketwo.docs[placeholder_id]){
-          console.warn('document with id:', placeholder_id, 'not found. Skipping placeholder...')
-          return;
-        }
-
-        placeholder = _buildPlaceholder(placeholder_id);
-        if(!placeholder){
-          console.warn('document with id:', placeholder_id, 'failed built.')
-          return;
-        }
-      // create title, year, author and caption if provided.
-      }
-
-      return this.parentNode.insertBefore(placeholder, this);
-    }
-  });
-
-  //
   scrollspy._li = _toc.selectAll('ul li')
 
-  // call resizing and scrolling function
   resizing();
   scrolling();
-
-  // on resize or here:
-  d3.selectAll('#contents > p > .placeholder')
-
-  // _documents.classed('placeholder', true)
-  // console.log(_documents)
 });
 
 _window

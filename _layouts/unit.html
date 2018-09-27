@@ -223,9 +223,17 @@ window.addEventListener('DOMContentLoaded', function() {
     var t = d3.select(this);
     if(t.classed('active')) {
       var content = d3.select(this.nextElementSibling);
-      var h = content.node().scrollHeight;
-      content
-        .style('height', h + 'px');
+
+      if(window.innerWidth < 768){
+        t.classed('active', false);
+        content
+          .classed('active', false)
+          .style('height', '0px');
+      } else {
+        var h = content.node().scrollHeight;
+        content
+          .style('height', h + 'px');
+      }
     }
   }).on('click', function() {
     var content = d3.select(this.nextElementSibling);

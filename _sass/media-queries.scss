@@ -7,12 +7,7 @@ body{
   line-height: 1.5;
 }
 
-@media (min-width:768px) {
-  #table-of-contents-wrapper{
-    top: 255px; // media stuff
-    display: block;
-  }
-}
+
 
 @media (min-width: 768px){
   body{
@@ -21,17 +16,22 @@ body{
   .container {
     width: auto;
     margin-right: 0;
-    margin-left: $margin-768px
+    margin-left: $margin-768px;
   }
 
   .lines{
     // same as container margin left
-    width: $margin-768px
+    width: $margin-768px;
   }
 
   .component section aside{
     width: 100px;
     left: -120px;
+  }
+
+  #table-of-contents-wrapper {
+    top: 255px; // media stuff
+    background: red;
   }
 }
 
