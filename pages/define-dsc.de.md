@@ -3,36 +3,97 @@ layout: page
 lang: de
 permalink: /de/define-dsc/
 link: /define-dsc/
-title: Defining Digital Source Criticism
+title: Was ist Digitale Quellenkritik?
+documents:
+- dsc-skill-training
+- quelle
+- bothe-zeugnisse-uberlebender-der-shoah
+- delalande-vincent-historien-cyborg
+- hughes-lang-transmutability-decontextualization
+- fickers-towards-digital-historicism-age-abundance
+- hjorland-information-digital-literacy
+- kirschbaum-digital-forensics-cultural-heritage
+- margulies-digitale-geschichtswissenschaft-einfuhrung
+- mounier-ouvrir-atelier-historien
+- owens-digital-sources-digital-archives
+- rheingold-crapp-detection
+- schreiber-genuine-internetdaten-quellen
+- solberg-advances-history-rhetoric
+- sternfeld-understanding-quantum-age
+- terras-digitisation-resources-humanities
+- treleani-recontextualisation-audiovisuels
+- wettlaufer-erkenntnisse-digitalisierte-geschichtswissenschaft-hermeneutischen
+- zaagsma-digital-history
 ---
 
-
-
-Tracing the origin and the different interpreations of the term ***Digital Source Criticism***
+Wie kann man sich auf die Bedeutung eines Begriffes einigen, der in vielerlei Hinsicht interpretiert werden kann? Die C2DH schlägt vor:
 
 <!-- more -->
-[discuss with Andreas]
 
-***Origin*** [information crowdsourced during PhD skill training - October 2017]
+Der Begriff „Kritik der digitalen Quellen“ ist ein zusammengesetzter Begriff. Er verweist auf das, was die Historiker immer taten – die Herkunft und der Wert einer historischen Quelle kritisch zu beurteilen – und die Notwendigkeit, dass dieses gleiche Prinzip sowohl für die digitalisierten als auch für die ursprünglich in digitaler Form erstellte Quellen, die im Web verfügbar sind, angewandt wird. 
 
-Components: Digital -  Source   -  Criticism
-***Digital*** Latin: finger, 15th c: whole number<10	using data in the form of numerical digits; in context of mathematics, later computer science	http://www.dictionary.com; Google etyomology; Oxford english dictionary
-***Source***	Late Middle English: from Old French sours(e), past participle of sourdre ‘to rise’, from Latin surgere	A book or document used to provide evidence in research	Oxford dictionary;
-***Criticism***	Early 17th century: from critic or Latin criticus + -ism.	The analysis and judgement of the merits and faults of (a literary or artistic work); 	Oxford dictionary
+Unter den vielen Fragen die sich stellen, gelten folgende als Schlüsselfragen:
+1. Warum wurde diese Quelle ausgewählt um digitalisiert/zu einer digitalen Datenbank hinzugefügt zu werden?
+2. Hat die Transformation von der analogen zur digitalen Form die Aussagekraft und den artefaktuellen Wert der Quelle beeinträchtigt?
+3. Warum, wann und wie wurde die Quelle im Web veröffentlicht und wer hat die Initiative ergriffen?
+4. Wie hat die Suchmaschine diese spezifische Quelle abgerufen? Gibt es relevante Alternativen, die nicht abgerufen wurden?
 
-***Digital Source***		"a set of structured information, modelled, passed on to the computer and processed by it;
+{: .extra-spacing}
 
-Many websites don't mention a specific definition. Many University library websites connect the term to electronic repositories or online sources without explanation."	"J.-Ph. Genet, « Source, métasource, texte, histoire », in: F. Bocchi et P. Denley
-(éd.), Storia & Multimedia, Bologna (1994), pp. 3-17.; University libraries website, general google search engine output"
+[block](dsc-skill-training)
 
-Source Criticism	19th century	evalution of information sources and critical research assessement	"Text of Anita
- (Birger Hjorland)"
+[block](quelle)
 
-Digital Source Criticism	Google Scholar, first use 2001 ""Digital Source Criticism: Net Art as a Methodological Case Study" pdf"	The analysis and judgement of the merits and faults of data in the form of numerical digits used to provide evidence in research; The practice of source criticism but in a digital context; 	
+{: .extra-spacing}
+### Literature related to the concept of Digital Source Criticism
 
+{: .ml-3.mt-4.mb-2}
+[ref](bothe-zeugnisse-uberlebender-der-shoah)
 
-***Interpretations*** [information from contributions expert meeting December 2017]
-based or recordings of the workshop
+{: .ml-3.mt-4.mb-2}
+[ref](delalande-vincent-historien-cyborg)
 
-***Definition of Digital Source Criticism***
-bla bla bla.......
+{: .ml-3.mt-4.mb-2}
+[ref](hughes-lang-transmutability-decontextualization)
+
+{: .ml-3.mt-4.mb-2}
+[ref](fickers-towards-digital-historicism-age-abundance)
+
+{: .ml-3.mt-4.mb-2}
+[ref](hjorland-information-digital-literacy)
+
+{: .ml-3.mt-4.mb-2}
+[ref](kirschbaum-digital-forensics-cultural-heritage)
+
+{: .ml-3.mt-4.mb-2}
+[ref](margulies-digitale-geschichtswissenschaft-einfuhrung)
+
+{: .ml-3.mt-4.mb-2}
+[ref](mounier-ouvrir-atelier-historien)
+
+{: .ml-3.mt-4.mb-2}
+[ref](owens-digital-sources-digital-archives)
+
+{: .ml-3.mt-4.mb-2}
+[ref](rheingold-crapp-detection)
+
+{: .ml-3.mt-4.mb-2}
+[ref](schreiber-genuine-internetdaten-quellen)
+
+{: .ml-3.mt-4.mb-2}
+[ref](solberg-advances-history-rhetoric)
+
+{: .ml-3.mt-4.mb-2}
+[ref](sternfeld-understanding-quantum-age)
+
+{: .ml-3.mt-4.mb-2}
+[ref](terras-digitisation-resources-humanities)
+
+{: .ml-3.mt-4.mb-2}
+[ref](treleani-recontextualisation-audiovisuels)
+
+{: .ml-3.mt-4.mb-2}
+[ref](wettlaufer-erkenntnisse-digitalisierte-geschichtswissenschaft-hermeneutischen)
+
+{: .ml-3.mt-4.mb-2}
+[ref](zaagsma-digital-history)

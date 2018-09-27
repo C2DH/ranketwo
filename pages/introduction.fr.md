@@ -32,15 +32,15 @@ Un texte, une image ou un enregistrement numérique peut sembler similaire à sa
 
 En suivant une ou plusieurs de ces leçons, les étudiants...
 
-1.	comprendront en quoi la numérisation et Internet ont modifié la nature de la recherche historique.
-2.	apprendront comment les objets numériques sont créés (rétronumérisation, format numérique dès l’origine, documents convertis) et comment questionner le concept d’« original ».
-3.	apprendront comment des informations (métadonnées) sont ajoutées à un objet numérique.
-4.	apprendront comment les informations sont publiées en ligne et rendues consultables.
-5.	comprendront l’impact des moteurs de recherche lorsqu’il s’agit de trouver et de sélectionner des sources.
-6.	comprendront les diverses phases du processus de recherche historique et les outils qui peuvent être utilisés pour chaque phase.
-7.	seront à même d’appliquer de manière basique un certain nombre d’outils numériques à des données.
-8.	comprendront en quoi consiste la prise en charge des données par ces outils : les principes mathématiques et les manipulations sous-jacents.
-9.	comprendront comment les résultats de la recherche peuvent être présentés sous la forme de narrations (storytelling) non linéaires multimodales/transmodales à l’aide d’outils.
+1.	Comprendront en quoi la numérisation et Internet ont modifié la nature de la recherche historique.
+2.	Apprendront comment les objets numériques sont créés (rétronumérisation, format numérique dès l’origine, documents convertis) et comment questionner le concept d’« original ».
+3.	Apprendront comment des informations (métadonnées) sont ajoutées à un objet numérique.
+4.	Apprendront comment les informations sont publiées en ligne et rendues consultables.
+5.	Comprendront l’impact des moteurs de recherche lorsqu’il s’agit de trouver et de sélectionner des sources.
+6.	Comprendront les diverses phases du processus de recherche historique et les outils qui peuvent être utilisés pour chaque phase.
+7.	Seront à même d’appliquer de manière basique un certain nombre d’outils numériques à des données.
+8.	Comprendront en quoi consiste la prise en charge des données par ces outils : les principes mathématiques et les manipulations sous-jacents.
+9.	Comprendront comment les résultats de la recherche peuvent être présentés sous la forme de narrations (storytelling) non linéaires multimodales/transmodales à l’aide d’outils.
 
 {: .extra-spacing}
 ### La transformation d’un objet analogique en une représentation numérique
