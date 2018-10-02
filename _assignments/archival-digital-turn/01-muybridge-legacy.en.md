@@ -35,19 +35,20 @@ viewed/read and re-used on the web.
 <!-- section-contents -->
 For capturing images, Muybridge introduced a new technology.
 - Try to find out what Muybridge had invented by consulting a source from the Wayback machine. 
-This is an archive for websites, that takes snapshots of websites and stores them. But it also publishes analogue sources that have been digitized. By clicking on a link to a digital copy of an illustration of Muybridge's accomplishments created in 1878,  [Muybridge’s experiment with the horse Sally Gardner](https://web.archive.org/web/20120730172726/http://popartmachine.com/artwork/LOC+1071481/0/The-horse-in-motion,-illus.-by-Muybridge.-) you can trace the name that was given to his invention, the equivalent of what we now call a photo camera. 
+This is an archive for websites, that takes snapshots of websites and stores them. But it also publishes analogue sources that have been digitized. By clicking on this link to a digital copy of an illustration of Muybridge's accomplishments in 1878,  [Muybridge’s experiment with the horse Sally Gardner](https://web.archive.org/web/20120730172726/http://popartmachine.com/artwork/LOC+1071481/0/The-horse-in-motion,-illus.-by-Muybridge.-) you can trace the name that was given to his invention. It is the equivalent of what we now call a photo camera. 
 - Write down the name of the machine that Muybridge invented in your template. 
 
 - Another relevant source, is the digital copy of a [catalogue that accompanied an exhibit on Muybridge held at the Stanford University Museum of art in 1972](https://archive.org/stream/eadweardmuybridg00maye/eadweardmuybridg00maye_djvu.txt)
-It has also been digitized and published online by the wayback machine/Internet Archive in 2012, with the support of the Digital Library Project. You will see that the document, although it is a catalogue of an exhibition, only consist of texts. The most probable explanation for this, is that it was too complex to include images, or that copyright issues played a role. 
-But because the text has been digitized, it can be searched with [Control F.](https://blog.spinweb.net/5-reasons-why-control-f-is-your-best-friend-for-productivity). This means that you can directly trace the context of a name or term, without first having to read the entire document. Usually it is enough to read what comes before and after the term. If that does not suffice, you can try to read an entire section of a text, to figure out what kind of contribution it is (an essay, an interview, an article, a quote, a chapter from a book).
+It was also digitized and published online by the Wayback Machine in 2012, with the support of the Digital Library Project. Although the document is a catalogue of an exhibition, it consist only of texts, that have been processed with [optical character recognition.](https://youtu.be/jO-1rztr4O0) The most probable reason for not including the images is that copyright issues played a role. 
+The digitized text can be searched with [Control F.](https://blog.spinweb.net/5-reasons-why-control-f-is-your-best-friend-for-productivity). This means that you can directly trace the context of a name or term, without first having to read the entire document. Usually it is enough to read what comes before and after the term. If that does not suffice, you can try to read an entire section of a text, to figure out what kind of contribution it is (an essay, an interview, an article, a quote, a chapter from a book).
 
 The digitized catalogue contains several contributions by experts. Let's see whether you are able to use Control F in an efficient way.
 Answer the following questions: 
 - What was the relation between Muybridge and the French inventor Marey? Who can claim to be the real inventor? 
 - What is the relation between a zoopraxiscope, a zootrope, a magic lantern, a phenakistoscope and a phonograph? 
-Try to find out what is specific about each gadget, if you can't distill that from the text, conduct additional webresearch. 
-Document your findings in your template.
+
+- Try to find out what is specific about each gadget, if you can't distill that from the text, conduct additional webresearch. 
+- Document your findings in your template.
 
 <!-- section -->
 ### 1.b Re-use of Muybridge’s material: the father of the *GIF*?
