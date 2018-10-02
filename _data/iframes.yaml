@@ -12,7 +12,7 @@
     thumbnail: assets/images/david-boder-interactive.png
     title: "David Boder's interview collection: from analogue to digital. Quiz"
     src: "https://app.playposit.com/share/258439/797374/David-Boders-Interview-collection"
-    
+
 
 -
     id: david-boder-interactive
@@ -45,7 +45,7 @@
     id: archival-to-digital-turn-playposit
     aspectratio: aspect-16-9
     thumbnail: assets/images/attachments/archival-digital-turn.png
-    src: https://www.playposit.com/play/823197/from-archival-to-digital-turn
+    src: https://www.playposit.com/share/258439/823197
 -
     id: boder2-webtechnology
     type: vimeo
