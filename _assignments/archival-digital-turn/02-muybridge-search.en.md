@@ -14,13 +14,13 @@ outcomes:
   - Understanding how search engines prioritize certain search results 
 
 ---
-Finding content about Muybridge on the web is partly determined by what is indexed by search engines. Which search engine you are used to rely on depends largely on how you have learned to use the web. This assignment is meant to give you an idea of the possible diversity and ranking of search results. You are going to compare results of a search for Muybridge in two search engines: Google and Yahoo
+Finding content about Muybridge on the web is partly determined by what is indexed by search engines. Which search engine you are used to rely on, depends largely on how you have learned to use the web. This assignment is meant to give you an idea of the possible diversity and ranking of search results. You are going to compare results of a search for Muybridge in two different search engines: Google and Yahoo
 <!-- more -->
 
 <!-- briefing-student -->
 ### Instruction
 <!-- section-contents -->
-First get some insights about how search engines work:
+First get some insights on how search engines work:
 -  Watch this lecture by Eli Pariser on [the Filter Bubble](https://www.youtube.com/watch?v=Dua_UvR5mtI)
 -  Watch this explanation about [how search engines work](https://www.youtube.com/watch?v=BNHR6IQJGZs) by Google specialist Matt Cutts: 
 
@@ -29,10 +29,10 @@ First get some insights about how search engines work:
 <!-- section-contents -->
 
 - Open two windows on your screen, one with Google and one with Yahoo and conduct a search on Eadward Muybridge in both
-- List the  first 8 results using the table in the template
-- How would you characterize the various organisations/institutions that have published information about EM online?
-- What is their interest? Use the key words that are indicated in your template.
-- Find out whether one or more of these organisations possess the original analogue glass plates 
+- List the first 8 results using the tables in your answering template
+- Complete the other columns on the basis of the options that are provided in the two boxes: **what type of organisation, 
+  **Objective of the organisation 
+- Take into account that most web resources have an 'about' or 'home' page in which is explained what type of organisation they are and    what their objectives are. 
 
 <!-- section -->
 ### 2.b Change your settings
