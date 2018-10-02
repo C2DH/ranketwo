@@ -31,19 +31,22 @@ viewed/read and re-used on the web.
 
 <!-- briefing-student -->
 
-### 1.a The original technology
+### 1.a The original technology used by Muybridge
 <!-- section-contents -->
-For capturing images, Muybridge had to rely on the technologies that were available at that time.
-- Try to find out what he used by consulting the sources below.
-- Visit the wayback machine, an archive for websites, where you can find a digital copy of a contemporary illustration from 1878,  
-of [Muybridge’s experiment with the horse Sally Gardner](https://web.archive.org/web/20120730172726/http://popartmachine.com/artwork/LOC+1071481/0/The-horse-in-motion,-illus.-by-Muybridge.-)  
-- Consult the digital copy of another contemporary relevant source, [the catalogue of an exhibit on Muybridge held in Stanford in 1972](https://archive.org/stream/eadweardmuybridg00maye/eadweardmuybridg00maye_djvu.txt)
-It has also been digitized by the wayback machine/Internet Archive
-- Remember that you can use Control F to search for key terms
+For capturing images, Muybridge introduced a new technology.
+- Try to find out what Muybridge had invented by consulting a source from the Wayback machine. 
+This is an archive for websites, that takes snapshots of websites and stores them. But it also publishes analogue sources that have been digitized. By clicking on a link to a digital copy of an illustration of Muybridge's accomplishments created in 1878,  [Muybridge’s experiment with the horse Sally Gardner](https://web.archive.org/web/20120730172726/http://popartmachine.com/artwork/LOC+1071481/0/The-horse-in-motion,-illus.-by-Muybridge.-) you can trace the name that was given to his invention, the equivalent of what we now call a photo camera. 
+- Write down the name of the machine that Muybridge invented in your template. 
 
-Additional questions:
-- Was this technology an American invention, or was it imported from Europe?
-- Were there parallel experiments in other places in the world in the same period or can Muybridge rightly claim to be the pioneer in cinematography?
+- Another relevant source, is the digital copy of a [catalogue that accompanied an exhibit on Muybridge held at the Stanford University Museum of art in 1972](https://archive.org/stream/eadweardmuybridg00maye/eadweardmuybridg00maye_djvu.txt)
+It has also been digitized and published online by the wayback machine/Internet Archive in 2012, with the support of the Digital Library Project. You will see that the document, although it is a catalogue of an exhibition, only consist of texts. The most probable explanation for this, is that it was too complex to include images, or that copyright issues played a role. 
+But because the text has been digitized, it can be searched with [Control F.](https://blog.spinweb.net/5-reasons-why-control-f-is-your-best-friend-for-productivity). This means that you can directly trace the context of a name or term, without first having to read the entire document. Usually it is enough to read what comes before and after the term. If that does not suffice, you can try to read an entire section of a text, to figure out what kind of contribution it is (an essay, an interview, an article, a quote, a chapter from a book).
+
+The digitized catalogue contains several contributions by experts. Let's see whether you are able to use Control F in an efficient way.
+Answer the following questions: 
+- What was the relation between Muybridge and the French inventor Marey? Who can claim to be the real inventor? 
+- What is the relation between a zoopraxiscope, a zootrope, a magic lantern, a phenakistoscope and a phonograph? 
+Try to find out what is specific about each gadget, if you can't distill that from the text, conduct additional webresearch. 
 Document your findings in your template.
 
 <!-- section -->
