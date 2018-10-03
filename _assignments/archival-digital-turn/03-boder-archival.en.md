@@ -3,7 +3,7 @@ layout: assignment
 unit: archival-digital-turn
 lang: en
 type: assignment
-title: Transformation from Analogue to Digital
+title: David Boder's Interviews: Transformation from Analogue to Digital
 order: 3
 cover: /assets/images/attachments/12boxes/12boxes_01.png
 document: v45n1p39-47.pdf 
@@ -26,8 +26,7 @@ Watch this short animation of [6,5 minutes about David Boder](https://c2dh.githu
 ### 3.a From Steel Wires to Interactive Website 
 <!-- section-contents -->
 - What are the transformations and technologies that are used for the sound and for the textual representations of Boder's interviews? 
-The dates in the template can help you with finding the right answer
-(add dates in the template for the answers) 
+The dates in the template can help you with finding the right answer.
 
 
 <!-- section -->
