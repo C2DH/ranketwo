@@ -9,7 +9,6 @@ tags:
   - web research
   - search engines
 order: 2
-requirements: Fast WIFI connection, access to Ranke.2, computer or laptop, application on laptop or computer to view video,
 outcomes:
   - Understanding how search engines prioritize certain search results 
 
