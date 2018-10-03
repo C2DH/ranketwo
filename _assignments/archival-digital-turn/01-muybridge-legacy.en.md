@@ -20,7 +20,7 @@ outcomes:
  - Learning the impact of digital technology and the web on the dissemination and knowledge about an artist/photographer 
 ---
 Eadweard Muybridge laid the basis for the development of cinematography by making photos of a trotting horse with a series of
-cameras and showing them with a [zoopraxiscope](https://en.wikipedia.org/wiki/Zoopraxiscope). Many artists, photographers and scholars were inspired by his work, but the impact and dissemination of his legacy was magnified by the introduction of digital technology and the web in the late 1990s.
+cameras that "snapped" as soon as the horse passed through an electrical control. The silhouttes were transferred to glass plates, that would be turned round at great speed, simulating a continous movement. This device was called a [zoopraxiscope](https://en.wikipedia.org/wiki/Zoopraxiscope). Many artists, photographers and scholars were inspired by his work, but the impact and dissemination of his legacy was magnified by the introduction of digital technology and the web in the late 1990s.
 This assignment is meant to study the relation between Muybridge’s original glass plates, and what can be retrieved,
 viewed/read and re-used on the web.
 [This animation](https://youtu.be/wNU7sXkZmSw) has been created by the San Francisco Museum of Modern Art. Watch it to get a concise picture of Eadweard Muybridge and his achievements.
@@ -31,22 +31,22 @@ viewed/read and re-used on the web.
 
 <!-- briefing-student -->
 
-### 1.a The original technology used by Muybridge
+### 1.a The original technology used by Muybridge | 20 min
 <!-- section-contents -->
 For capturing images, Muybridge introduced a new technology.
-- Try to find out what Muybridge had invented by consulting a source from the Wayback machine. 
-This is an archive for websites, that takes snapshots of websites and stores them. But it also publishes analogue sources that have been digitized. By clicking on this link to a digital copy of an illustration of Muybridge's accomplishments in 1878,  [Muybridge’s experiment with the horse Sally Gardner](https://web.archive.org/web/20120730172726/http://popartmachine.com/artwork/LOC+1071481/0/The-horse-in-motion,-illus.-by-Muybridge.-) you can trace the name that was given to his invention. It is the equivalent of what we now call a photo camera. 
-- Write down the name of the machine that Muybridge invented in your template. 
+-  You are going to conslut the Wayback machine. This is an archive for websites, that takes snapshots of websites and stores them. But it also publishes analogue sources that have been digitized. By clicking on this link you will retrieve a digital copy of an illustration of Muybridge's accomplishments in 1878,  [Muybridge’s experiment with the horse Sally Gardner](https://web.archive.org/web/20120730172726/http://popartmachine.com/artwork/LOC+1071481/0/The-horse-in-motion,-illus.-by-Muybridge.-) 
+
+- Consult the document, use the + sign if the letters are soo small. Write down the name of the device for which Muybridge obtained a patent in your template. 
 
 - Another relevant source, is the digital copy of a [catalogue that accompanied an exhibit on Muybridge held at the Stanford University Museum of art in 1972](https://archive.org/stream/eadweardmuybridg00maye/eadweardmuybridg00maye_djvu.txt)
-It was also digitized and published online by the Wayback Machine in 2012, with the support of the Digital Library Project. Although the document is a catalogue of an exhibition, it consist only of texts, that have been processed with [optical character recognition.](https://youtu.be/jO-1rztr4O0) The most probable reason for not including the images is that [copyright issues](https://youtu.be/1DKm96Ftfko) played a role. 
-The digitized text can be searched with [Control F.](https://blog.spinweb.net/5-reasons-why-control-f-is-your-best-friend-for-productivity). This means that you can directly trace the context of a name or term, without first having to read the entire document. Usually it is enough to read what comes before and after the term. If that does not suffice, you can try to read an entire section of a text, to figure out what kind of contribution it is (an essay, an interview, an article, a quote, a chapter from a book).
+It was also digitized and published online by the Wayback Machine in 2012, with the support of the Digital Library Project. Although the document is a catalogue of an exhibition, it consist only of texts that have been processed with [optical character recognition.](https://youtu.be/jO-1rztr4O0) The most probable reason for not including the images is that [copyright issues](https://youtu.be/1DKm96Ftfko) played a role. 
+The digitized text can be searched with [Control F.](https://blog.spinweb.net/5-reasons-why-control-f-is-your-best-friend-for-productivity). This means that you can directly trace the context of a name or term, without first having to read the entire document. Usually it is enough to read what comes before and after the term. If that does not suffice, you should read the entire section of a text, to figure out what kind of contribution it is (an essay, an interview, an article, a quote, a chapter from a book).
 
 The digitized catalogue contains several contributions by experts. Let's see whether you are able to use Control F in an efficient way.
 Answer the following questions: 
 - What was the relation between Muybridge and the French inventor Marey? Who can claim to be the real inventor? 
-- What is the relation between a zoopraxiscope, a zootrope, a magic lantern, a phenakistoscope and a phonograph? 
-
+- What kind of drama affected Muybridge's 'private life'?  
+- What is the difference between a zoopraxiscope, a zootrope, a magic lantern and a phonograph? 
 - Try to find out what is specific about each gadget, if you can't distill that from the text, conduct additional webresearch. 
 - Document your findings in your template.
 
@@ -63,19 +63,17 @@ Muybridge has been coined as the father of the *GIF*, a very recent development 
 - In which context? List the objective, the time frame and the location
 - What is the element from Muybridge's work that has been the source of inspiration and has been reused?  
 
-[A composition for Dancers and Musicians](https://vimeo.com/209180993)  
 
-[An online video](https://vimeo.com/131586644)
+[An online video](https://vimeo.com/131586644) | 6.24 
 
-[An animation](https://vimeo.com/20838105)
-
-[A comment below a youtube clip](https://www.youtube.com/watch?v=5Awo-P3t4Ho&lc=UgiKWyd-N07eEHgCoAEC)
+[A comment below a youtube clip from ferociousgumby
+](https://www.youtube.com/watch?v=5Awo-P3t4Ho&lc=UgiKWyd-N07eEHgCoAEC) (you don't have to watch the whole video)  | 
 
 [A painting](https://en.wikipedia.org/wiki/Nude_Descending_a_Staircase%2C_No._2)
 
-[A contest related to an exhibition](https://www.npr.org/sections/pictureshow/2010/06/29/128192659/muybridgewinners?t=1533050973264)
+[A contest related to an exhibition](https://www.npr.org/sections/pictureshow/2010/06/29/128192659/muybridgewinners?t=1533050973264) (you only have to watch the first minute of each video) 
 
-[A multidisciplinary performance](https://youtu.be/t1AWij9twWc)
+[A multidisciplinary performance](https://youtu.be/t1AWij9twWc) | 2.14
 
 [An opera](https://en.wikipedia.org/wiki/The_Photographer)
 
