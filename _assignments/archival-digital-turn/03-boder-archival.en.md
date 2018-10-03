@@ -5,6 +5,7 @@ lang: en
 type: assignment
 title: Transformation from Analogue to Digital
 order: 3
+documents: pugh-judge-boder
 cover: /assets/images/attachments/12boxes/12boxes_01.png
 document: v45n1p39-47.pdf 
 tags:
