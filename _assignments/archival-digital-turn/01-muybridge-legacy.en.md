@@ -51,7 +51,7 @@ Answer the following questions:
 - Document your findings in your template.
 
 <!-- section -->
-### 1.b Re-use of Muybridge’s material: the father of the *GIF*?
+### 1.b Re-use of Muybridge’s material: the father of the *GIF*? | 30 min
 <!-- section-contents -->
 
 Muybridge has been coined as the father of the *GIF*, a very recent development related to digital technology. This comparison points to how existing principles are adapted and re-used in new forms and brings into question whether we can speak about an original work of art or innovation. The same applies of course with regard to historical sources.  
@@ -64,16 +64,16 @@ Muybridge has been coined as the father of the *GIF*, a very recent development 
 - What is the element from Muybridge's work that has been the source of inspiration and has been reused?  
 
 
-[An online video](https://vimeo.com/131586644) | 6.24 
+[An online video](https://vimeo.com/131586644)  6.24 min
 
 [A comment below a youtube clip from ferociousgumby
-](https://www.youtube.com/watch?v=5Awo-P3t4Ho&lc=UgiKWyd-N07eEHgCoAEC) (you don't have to watch the whole video)  | 
+](https://www.youtube.com/watch?v=5Awo-P3t4Ho&lc=UgiKWyd-N07eEHgCoAEC) (you don't have to watch the whole video)   
 
 [A painting](https://en.wikipedia.org/wiki/Nude_Descending_a_Staircase%2C_No._2)
 
 [A contest related to an exhibition](https://www.npr.org/sections/pictureshow/2010/06/29/128192659/muybridgewinners?t=1533050973264) (you only have to watch the first minute of each video) 
 
-[A multidisciplinary performance](https://youtu.be/t1AWij9twWc) | 2.14
+[A multidisciplinary performance](https://youtu.be/t1AWij9twWc)  2.14 min
 
 [An opera](https://en.wikipedia.org/wiki/The_Photographer)
 
