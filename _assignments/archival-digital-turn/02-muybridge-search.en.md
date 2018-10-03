@@ -21,8 +21,8 @@ Finding content about Muybridge on the web is partly determined by what is index
 ### Instruction
 <!-- section-contents -->
 First get some insights on how search engines work:
--  Watch this lecture by Eli Pariser on [the Filter Bubble](https://www.youtube.com/watch?v=Dua_UvR5mtI)
--  Watch this explanation about [how search engines work](https://www.youtube.com/watch?v=BNHR6IQJGZs) by Google specialist Matt Cutts: 
+-  Watch this lecture by Eli Pariser on [the Filter Bubble](https://www.youtube.com/watch?v=Dua_UvR5mtI), start at 3.55 and continue until 14.36.
+-  Watch this explanation about [how search engines work](https://www.youtube.com/watch?v=BNHR6IQJGZs) by Google specialist Matt Cutts, 3.14 min 
 
 <!-- section -->
 ### 2.a Google compared to Yahoo
