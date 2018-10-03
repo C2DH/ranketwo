@@ -3,7 +3,7 @@ layout: assignment
 unit: archival-digital-turn
 lang: en
 type: assignment
-title: David Boder's Interviews: Transformation from Analogue to Digital
+title: Transformation from Analogue to Digital
 order: 3
 cover: /assets/images/attachments/12boxes/12boxes_01.png
 document: v45n1p39-47.pdf 
