@@ -25,7 +25,7 @@ First get some insights on how search engines work:
 -  Watch this explanation about [how search engines work](https://www.youtube.com/watch?v=BNHR6IQJGZs) by Google specialist Matt Cutts, 3.14 min 
 
 <!-- section -->
-### 2.a Google compared to Yahoo
+### 2.a Google compared to Yahoo | 30 min
 <!-- section-contents -->
 
 - Open two windows on your screen, one with Google and one with Yahoo and conduct a search on Eadward Muybridge in both
@@ -35,7 +35,7 @@ First get some insights on how search engines work:
 - Take into account that most web resources have an 'about' or 'home' page in which is explained what type of organisation they are and    what their objectives are. 
 
 <!-- section -->
-### 2.b Change your settings
+### 2.b Change your settings | 20 min
 <!-- section-contents -->
 
 - What you can find on the web is also determined by the settings of your search engine. If you change them to another language you might get different results.
