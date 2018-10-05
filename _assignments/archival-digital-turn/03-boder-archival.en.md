@@ -7,7 +7,6 @@ title: Transformation from Analogue to Digital
 order: 3
 cover: /assets/images/attachments/12boxes/12boxes_01.png
 documents:
-  - v45n1p39-47
   - pugh-judge-boder
 tags:
   - transformation from analogue to digital
