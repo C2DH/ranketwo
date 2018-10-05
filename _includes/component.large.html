@@ -1,0 +1,12 @@
+<div class="component introduction large">
+  <h3><span>{{component.title}}</span></h3>
+  {% assign paragraphs = component.content | split: site.excerpt_separator %}
+  <blockquote>{{paragraphs[0] | markdownify}}</blockquote>
+
+  {% assign sections = paragraphs[1] | split: site.section_separator %}
+
+  <div class='section--line'></div>
+  {% for section in sections %}
+    {% include section.html %}
+  {% endfor %}
+</div>
