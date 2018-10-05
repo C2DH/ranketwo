@@ -6,7 +6,8 @@ type: assignment
 title: Transformation from Analogue to Digital
 order: 3
 cover: /assets/images/attachments/12boxes/12boxes_01.png
-document: v45n1p39-47.pdf
+documents:
+  - v45n1p39-47
 tags:
   - transformation from analogue to digital
 requirements: Fast WIFI connection, access to Ranke.2, computer or laptop, application on laptop or computer to view video,
