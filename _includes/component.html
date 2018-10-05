@@ -15,7 +15,9 @@
     <div class="line right"></div>
     <!-- <div class='line top'></div> -->
     {% unless component.order and component.order != 1 %}
-        <div class='type'>{% assign key = component.type %}{% include t.html %}<a class='component--size' href='{{ "structure-of-teaching-modules" | relative_url}}#small--animation--quiz'>S</a></div>
+        <div class='type'>{% assign key = component.type %}{% include t.html %}<a class='component--size' href='{{ "structure-of-teaching-modules" | relative_url}}#small--animation--quiz'>
+          {% if component.size %}{{component.size}}
+          {% else %}S{%endif%}</a></div>
 
 
       {% endunless %}

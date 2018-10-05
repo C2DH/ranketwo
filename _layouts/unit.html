@@ -212,9 +212,20 @@ layout: default
                   <div class="line right"></div>
                   </div>
                 </div>
-                <a href='#c-assignments'>{% assign key="assignments" %}{% include t.html %} ({{assignments.size}})</a>
+                <a href='#c-assignments'>{% assign key="assignments" %}{% include t.html %} ({{assignments.size}}) / M</a>
               </li>
             {% endif %}
+            {% for component in larges %}
+              <li>
+                <div class='lines'>
+                  <div class="group">
+                  <div class="line left"></div>
+                  <div class="line right"></div>
+                  </div>
+                </div>
+                <a href='#c-{{component.slug}}'><span>{{component.title}} / {{ component.size }}</span></a>
+              </li>
+            {% endfor %}
             </ul>
           </div>
         </div>
