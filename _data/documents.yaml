@@ -1,19 +1,78 @@
 -
+    title: 'Phd Skill Training, 30/31-10-2017: Exploring the origin and use of the term  Digital Source Criticism '
+    slug: dsc-skill-training
+    type: link
+    data:
+        date:
+            en_us: 2017
+        year: 2017
+        abstract:
+            en_us: 'this is bla bla '
+    attachment: /assets/images/DSC-skill-training.jpg
+    _id: 5f400180727c436d8af7d7069f8cfc08
+-
+    title: 'Expert Meeting,  18-12-2017 : Various Perspectives on the concept of Digital Source Criticism '
+    slug: quelle
+    type: link
+    data:
+        date:
+            en_us: 2017
+        year: 2017
+        abstract:
+            en_us: 'this is bla bla '
+    attachment: /assets/images/source.png
+    _id: e8f58be612cf4347bf4bbfc6ae6846de
+-
     title: Cosmographia
     slug: cosmographia
     type: image
+    data: {}
+    attachment: image/Europe_As_A_Queen_Sebastian_Munster_1570.jpg
+    url: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Europe_As_A_Queen_Sebastian_Munster_1570.jpg'
+    _id: c3c495fd7088446484ff9eac323a1f71
+    _resolved: true
+-
+    title: '175th day of birth of Leopold von Ranke (1795–1886)'
+    slug: ranke-stamp
+    type: image
     data:
         title:
-            en_us: Cosmographia
-        author: 'Sebastian Munster'
+            en_us: '175th day of birth of Leopold von Ranke (1795–1886)'
+        author: 'Julius Schrader'
         date:
-            en_us: 1570
-        reference: 'By Sebastian Munster [Public domain](http://bigthink.com/ideas/21192), via Wikimedia Commons'
-        year: 1570
-    url: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Europe_As_A_Queen_Sebastian_Munster_1570.jpg'
-    _id: 48f6a11c22c145ca9d25a3079f697d05
+            en_us: 2009
+        year: 2009
+        abstract:
+            en_us: "Public Domainview terms\nFile:DBPB 1970 377 Leopold von Ranke.jpg\nCreated: 1 January 2009"
+    attachment: ranke-stamp.jpg
+    _id: 8f9b42ea381c4fdeb8bbb0c30224df4a
+-
+    title: 'Storage hallway at the National Archives  in Washington'
+    slug: archive-records
+    type: image
+    data: {}
+    attachment: WikiXDC_National_Archives_Tour_Hall_-_Stierch.jpg
+    url: 'https://commons.wikimedia.org/wiki/File%3AWikiXDC_National_Archives_Tour_Hall_-_Stierch.jpg'
+    _id: 8612bb1e226d459f8d8ac4915bdc67a9
     _resolved: true
-    attachment: image/Europe_As_A_Queen_Sebastian_Munster_1570.jpg
+-
+    title: 'scanning of Georgian manuscript '
+    slug: digitization-book-georgia
+    type: image
+    data: {}
+    attachment: Digitalisation_in_National_Centre_of_Manuscripts_of_Georgia.jpg
+    url: 'https://commons.wikimedia.org/wiki/File%3ADigitalisation_in_National_Centre_of_Manuscripts_of_Georgia.jpg'
+    _id: 5a0822e977954604b1a13bd22d6c04d6
+    _resolved: true
+-
+    title: 'illustration of digital techniology'
+    slug: digital-world
+    type: image
+    data: {}
+    attachment: ball-63527_1920.jpg
+    url: 'https://pixabay.com/en/ball-http-www-crash-administrator-63527/'
+    _id: 7f43d2a65c9044ffb018d6678dab8949
+    _resolved: true
 -
     title: 'Zeugnisse Überlebender der Shoah in den digitalen Medien'
     slug: bothe-zeugnisse-uberlebender-der-shoah
@@ -26,8 +85,8 @@
             en_us: 2015
         year: 2015
         reference: 'Alina Bothe, Zeugnisse Überlebender der Shoah in den digitalen Medien. Eine quellenkritische Reflexion '
-    url: 'http://www.zentrum-juedische-studien.de/person/bothe-alina/publikationen/'
-    _id: caefa4fe9b084e2e85f60f8986677cea
+    url: 'https://www.stiftung-evz.de/fileadmin/user_upload/EVZ_Uploads/Handlungsfelder/Auseinandersetzung_mit_der_Geschichte_01/Bildungsarbeit-mit-Zeugnissen/20150929_Zeugnisformen.pdf'
+    _id: 213695ad843749be8221c7e32522ca58
 -
     title: 'PORTRAIT DE L''HISTORIEN-NE EN CYBORG'
     slug: delalande-vincent-historien-cyborg
@@ -40,20 +99,14 @@
             en_us: 2011
         year: 2011
     url: 'https://www.cairn.info/revue-d-histoire-moderne-et-contemporaine-2011-5-page-5.htm'
-    _id: 6c6e4addd524490db2a1bc3ad428240d
+    _id: 3a8059a35c1b4ec1af6a3d6bf2d38a20
 -
     title: 'Transmutability: Digital Decontextualization, Manipulation, and Recontextualization as a New Source of Value in the Production and Consumption of Culture Products'
     slug: hughes-lang-transmutability-decontextualization
     type: pdf
-    data:
-        title:
-            en_us: 'Transmutability: Digital Decontextualization, Manipulation, and Recontextualization as a New Source of Value in the Production and Consumption of Culture Products'
-        author: 'J. Hughes, Karl Lang'
-        date:
-            en_us: 2006
-        year: 2006
+    data: {}
     url: 'https://pdfs.semanticscholar.org/42c1/6ffce5745a4cfee1aba0cbe521e45e9fd363.pdf'
-    _id: f50a193bd7e2405981dd006aefbabd05
+    _id: 919b3255a9ce40bc8216cf5830d30aad
     _resolved: true
 -
     title: 'Towards A New Digital Historicism? Doing History in the Age of Abundance'
@@ -67,7 +120,7 @@
             en_us: 2012
         year: 2012
     url: 'http://rdbg.tuxic.nl/euscreen-ojs/index.php/view/article/view/jethc004'
-    _id: e9d52ee7927144c09335cf4fe5d29442
+    _id: f4ec3b9746eb424e8b9a451dd35e1d58
 -
     title: 'Information and Digital Literacy'
     slug: hjorland-information-digital-literacy
@@ -75,27 +128,21 @@
     data:
         title:
             en_us: 'Information and Digital Literacy'
-        author: 'Hjorland'
+        author: HJorland
         date:
             en_us: 2008
         year: 2008
     url: 'http://revistas.ua.pt/index.php/prismacom/article/view/684'
-    _id: 0dad47ed13e847ba9dce31634460bffe
+    _id: b3ae213076f14f0db0ebb80238526dc3
 -
     title: 'Digital Forensics and Born-Digital Content in Cultural Heritage'
     slug: kirschbaum-digital-forensics-cultural-heritage
     type: pdf
-    data:
-        title:
-            en_us: 'Digital Forensics and Born-Digital Content in Cultural Heritage'
-        author: 'Matthew Kirschbaum'
-        date:
-            en_us: 2010
-        year: 2010
-    url: 'https://www.clir.org/wp-content/uploads/sites/6/pub149.pdf'
-    _id: 4d424b1f6f734758ab743f600091c2ba
-    _resolved: true
+    data: {}
     attachment: pdf/pub149.pdf
+    url: 'https://www.clir.org/wp-content/uploads/sites/6/pub149.pdf'
+    _id: e76a06a9727f4d1f81f607b8f318d632
+    _resolved: true
 -
     title: 'Digitale Daten als Quellen der Geschichtswissenschaft. Eine Einführung.'
     slug: margulies-digitale-geschichtswissenschaft-einfuhrung
@@ -108,7 +155,7 @@
             en_us: 2009
         year: 2009
     url: 'https://dg.philhist.unibas.ch/forschung/abschlussarbeiten/detailseite/?tx_x4equalificationgeneral_pi1%5BshowUid%5D=5349'
-    _id: 19aa23edd8a04f868e2adbe9710751c5
+    _id: 4fa3f0146d9d4965a678a1854cf52814
 -
     title: 'OUVRIR L''ATELIER DE L''HISTORIEN. MÉDIAS SOCIAUX ET CARNETS DE RECHERCHE EN LIGNE'
     slug: mounier-ouvrir-atelier-historien
@@ -121,7 +168,7 @@
             en_us: 2011
         year: 2011
     url: 'https://www.cairn.info/revue-d-histoire-moderne-et-contemporaine-2011-5-page-101.htm'
-    _id: 57169de0b0924a38a97f77d07a20076f
+    _id: 2bc630c87d4e43c9b7eb0f3e5de08332
 -
     title: 'The Evidentiary Basis of Digital History in Companion to Digital History. '
     slug: owens-digital-sources-digital-archives
@@ -129,14 +176,14 @@
     data:
         title:
             en_us: 'The Evidentiary Basis of Digital History in Companion to Digital History. '
-        author: 'Trevor Owens'
+        author: 'Trevor Owens '
         date:
             en_us: 2017
-        year: 2017     
+        year: 2017
     url: 'https://osf.io/preprints/socarxiv/t5rdy/'
-    _id: ed72c1a916e94f338a03346c2971b84f
+    _id: cc63f4e19ec540ea8e18c2c958f52b7d
 -
-    title: 'Crap Detection Mini-Course'
+    title: 'On Crapp detection'
     slug: rheingold-crapp-detection
     type: link
     data:
@@ -147,33 +194,33 @@
             en_us: 2013
         year: 2013
     url: 'http://rheingold.com/2013/crap-detection-mini-course/ retrieved 1-5-2017.'
-    _id: 6fea1b050a1d46179924fc715ee30e19
+    _id: 9a16742b6e8b4dbfa8382cd5226aa5d0
 -
     title: 'Genuine Internetdaten als historischeQuellen – Entwurf einer korrealistischen Quellentheorie'
     slug: schreiber-genuine-internetdaten-quellen
     type: link
     data:
         title:
-            en_us: 'Genuine Internetdaten als historische Quellen – Entwurf einer korrealistischen Quellentheorie'
+            en_us: 'Genuine Internetdaten als historischeQuellen – Entwurf einer korrealistischen Quellentheorie'
         author: 'Catharina Schreiber'
         date:
             en_us: 2012
         year: 2012
     url: 'http://universaar.uni-saarland.de/journals/index.php/zdg/article/view/292/357'
-    _id: fcf82b63edab41c8b8707f16162c63de
+    _id: 7ef92034e7d94e899b76192277892b87
 -
-    title: 'Googling the Archive: Digital Tools and the Practice of History'
+    title: 'Googling the Archive: Digital Tools and the Practice of History'''
     slug: solberg-advances-history-rhetoric
     type: link
     data:
         title:
-            en_us: 'Googling the Archive: Digital Tools and the Practice of History'
+            en_us: 'Googling the Archive: Digital Tools and the Practice of History'''
         author: 'Janinen Solberg'
         date:
             en_us: 2012
         year: 2012
     url: 'https://doi.org/10.1080/15362426.2012.657052'
-    _id: 66f45015005b45059a601f2fc62cdd99
+    _id: 27ca0d84a7434dc78ae8015d1affd226
 -
     title: 'Historical Understandings in the Quantum Age'
     slug: sternfeld-understanding-quantum-age
@@ -185,8 +232,8 @@
         date:
             en_us: 2014
         year: 2014
-    url: 'http://journalofdigitalhumanities.org/3-2/historical-understanding-in-the-quantum-age/'
-    _id: 130f4e3b075b407dae9d0fb34f6eb222
+    url: 'http://journalofdigitalhumanities.org/3-2/historical-understanding-in-thequantum-age'
+    _id: 90e8e56792b14523aeed759b0454ee76
 -
     title: 'Digitisation and Digital Resources in the Humanities'
     slug: terras-digitisation-resources-humanities
@@ -199,7 +246,7 @@
             en_us: 2012
         year: 2012
     url: 'http://www.facetpublishing.co.uk/title.php?id=047661#.Wdy32EyB364'
-    _id: e18fe3ea7b2e49d4a2fd6d6f879684cf
+    _id: 189b2d805b6f4305933e0d2f6c6c1c9b
 -
     title: 'Recontextualisation; ce que les média s numériques font aux documents audiovisuels'
     slug: treleani-recontextualisation-audiovisuels
@@ -212,7 +259,20 @@
             en_us: 2013
         year: 2013
     url: 'http://www.cairn.info/publications-de-Treleani-Matteo--99590.htm'
-    _id: d515a385468842ef8d307263b7d29b64
+    _id: 9458ff9abf5e4782a2db4d0f096525d6
+-
+    title: 'Neue Erkenntnisse Durch Digitalisierte Geschichtswissenschaft(en)? Zur Hermeneutischen Reichweite Aktueller Digitaler Methoden in Informationszentrierten Fächern'
+    slug: wettlaufer-erkenntnisse-digitalisierte-geschichtswissenschaft-hermeneutischen
+    type: link
+    data:
+        title:
+            en_us: 'Neue Erkenntnisse Durch Digitalisierte Geschichtswissenschaft(en)? Zur Hermeneutischen Reichweite Aktueller Digitaler Methoden in Informationszentrierten Fächern'
+        author: 'Jorg Wettlaufer'
+        date:
+            en_us: 2016
+        year: 2016
+    url: 'http://zfdg.de/2016_011'
+    _id: d265c7594f5d4589aab788a535c9e004
 -
     title: 'On Digital History'
     slug: zaagsma-digital-history
@@ -225,135 +285,49 @@
             en_us: 2013
         year: 2013
     url: 'https://www.bmgn-lchr.nl/articles/abstract/10.18352/bmgn-lchr.9344/'
-    _id: 8497bb755c2b4149b9fe424daa94ce2d
+    _id: 1bb213b4158b45668e199909bf503c37
 -
-    title: code
-    slug: code
-    type: video
+    title: 'The era of the witness'
+    slug: wieviorka-witness-era
+    type: book
     data:
-        embed:
-            provider_url: 'https://vimeo.com/'
-            thumbnail_height: 480
-            author_name: 'Owen Platt'
-            height: 480
-            thumbnail_url: 'https://i.vimeocdn.com/video/30601280_640.jpg'
-            upload_date: '2009-10-25 18:55:23'
-            width: 640
-            description: 'a conversation between a computer and a morse telegraph key (in the matrix) with dialogue in binary and morse code.'
-            uri: /videos/7254674
-            title: code
-            duration: 94
-            video_id: 7254674
-            url: 'https://vimeo.com/7254674'
-            author_url: 'https://vimeo.com/omplatt'
-            is_plus: '0'
-            account_type: basic
-            type: video
-            html: '<iframe src="https://player.vimeo.com/video/7254674"  width="100%"  height="100%" frameborder="0" title="code" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
-            thumbnail_url_with_play_button: 'https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F30601280_640.jpg&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png'
-            thumbnail_width: 640
-            provider_name: Vimeo
-            version: '1.0'
-        title:
-            en_us: code
-        author: 'Owen Platt'
+        author: 'Annette Wieviorka'
         date:
-            en_us: 2009
-        abstract:
-            en_us: 'a conversation between a computer and a morse telegraph key (in the matrix) with dialogue in binary and morse code.'
-        year: 2009
-    url: 'https://vimeo.com/7254674  t'
-    _id: c4972e115d944794a93dd1252e800c48
-    _resolved: true
+            en_us: 2006
+        year: 2006
+    attachment: wieviorka-witness-era.png
+    url: 'https://books.google.lu/books?id=8sbtTtJyUgYC&pg=PA96&lpg=PA96&dq=the+era+of+the+witness&source=bl&ots=yyq46OwU6o&sig=oRGzVgk3wFbCkwUgFnmUuFzUxmw&hl=en&sa=X&ved=0ahUKEwjagbn9gc7XAhWiAMAKHbiABiA4ChDoAQgmMAA#v=onepage&q=the%20era%20of%20the%20witness&f=false'
+    _id: 9786d9833d1742cea80ba6dadd5b9fc2
 -
-    title: '175th day of birth of Leopold von Ranke (1795–1886)'
-    slug: ranke-stamp
-    type: image
+    title: 'Holocaust Memorial Day: Telegraph revealed Nazi gas chambers three years before liberation of Auschwitz'
+    slug: germans-murder-jews
+    type: link
     data:
-        title:
-            en_us: '175th day of birth of Leopold von Ranke (1795–1886)'
-        author: 'Julius Schrader'
+        author: 'David Blair'
         date:
-            en_us: 2009
-        abstract:
-            en_us: "Public Domainview terms\nFile:DBPB 1970 377 Leopold von Ranke.jpg\nCreated: 1 January 2009"
-        year: 2009
-    url: 'https://drive.google.com/open?id=1QtZPsaB2hNAX8LeiILQS-fd-NMPTV9hs'
-    _id: eff74216c8904abab2907b97e2b7f0d0
-    _resolved: true
-    attachment: ranke-stamp.jpg
--
-    title: 'Storage hallway at the National Archives  in Washington'
-    slug: archive-records
-    type: image
-    data:
-        title:
-            en_us: 'Storage hallway at the National Archives I building. This was taken with permission at the Wikipedia 10 Washington D.C. event.'
-        author: Missvain
-        date:
-            en_us: 2011
-        reference: 'Storage hallway at the National Archives I building in Washington DC'
-        abstract:
-            en_us: 'Storage hallway at the National Archives I building. This was taken with permission at the Wikipedia 10 Washington D.C. event.'
-        year: 2011
-    url: 'https://commons.wikimedia.org/wiki/File%3AWikiXDC_National_Archives_Tour_Hall_-_Stierch.jpg'
-    _id: 946766ca09124917b7c4ef33c76e2eaf
-    _resolved: true
-    attachment: WikiXDC_National_Archives_Tour_Hall_-_Stierch.jpg
--
-    title: 'scanning of Georgian manuscript '
-    slug: digitization-book-georgia
-    type: image
-    data:
-        title:
-            en_us: 'scanning of Georgian manuscript '
-        author: 'დიმიტრი გურგენიძე'
-        date:
-            en_us: 2011
-        reference: 'Digitalisation_in_National_Centre_of_Manuscripts_of_Georgia.jpg ‎(294 × 480 pixels, file size: 49 KB, MIME type: image/jpeg)'
-        year: 2011
-    url: 'https://commons.wikimedia.org/wiki/File%3ADigitalisation_in_National_Centre_of_Manuscripts_of_Georgia.jpg'
-    _id: 2bf38c2af700421a86e2aeac3181b023
-    _resolved: true
-    attachment: Digitalisation_in_National_Centre_of_Manuscripts_of_Georgia.jpg
--
-    title: 'illustration of digital techniology'
-    slug: digital-world
-    type: image
-    data:
-        title:
-            en_us: 'illustration of digital techniology'
-        date:
-            en_us: 2012
-        reference: 'illustration of digital techniology from pixabay'
-        year: 2012
-    url: 'https://pixabay.com/en/ball-http-www-crash-administrator-63527/'
-    _id: b843897724f74b5198ad96c98729113f
-    _resolved: true
-    attachment: ball-63527_1920.jpg
+            en_us: 2015
+        year: 2015
+    attachment: germans-murder-jews.png
+    url: 'http://www.telegraph.co.uk/history/world-war-two/11370972/Holocaust-Memorial-Day-Telegraph-revealed-Nazi-gas-chambers-three-years-before-liberation-of-Auschwitz.html'
+    _id: 667aae29ca934fc9b2c0bb4f9c794508
 -
     title: 'Eichmann trial on tv'
     slug: eichmann-tv
     type: image
-    data:
-        title:
-            en_us: 'Ellen And Jim Have A Blog, Two'
-        date:
-            en_us: 2014
-        year: 2014
-    url: 'https://ellenandjim.wordpress.com/2014/05/'
-    _id: 963b1db71ad84be1bc9a61af0f1a8f05
-    _resolved: true
+    data: {}
     attachment: eichmann-tv.png
+    url: 'https://ellenandjim.wordpress.com/2014/05/'
+    _id: 98917521efc545759b5be67d2dda6a05
+    _resolved: true
 -
     title: 'tv series holocaust'
     slug: holocaust-meryl-streep
     type: image
     data: {}
-    url: 'https://drive.google.com/open?id=1Iszx6IFWNP3LXxeo4yADwsXpukof3xHI'
-    _id: a236163539d9405e891b05c6f924392c
-    _resolved: true
     attachment: meryl-streep.png
+    url: 'https://drive.google.com/open?id=1Iszx6IFWNP3LXxeo4yADwsXpukof3xHI'
+    _id: a396681c1bbc4850b1ff1b1db682e043
+    _resolved: true
 -
     title: 'Historyonics blog (Tim Hitchcock) – Interview #2'
     slug: blog-hitchcock
@@ -364,7 +338,7 @@
             en_us: 2013
         year: 2013
     url: 'https://bloggingforhistorians.wordpress.com/2013/03/05/historyonics-blog-tim-hitchcock-interview-2/'
-    _id: da3b8169d2b04b078e879e92373526a0
+    _id: d818d33660b94fdb840e1305ba1b1fd2
 -
     title: 'Teachers challenges'
     slug: creating-blogs
@@ -372,7 +346,7 @@
     data:
         author: 'WordPress company Incsub'
     url: 'https://teacherchallenge.edublogs.org/step-1-set-up-your-class-blog/'
-    _id: 3133d3b38cbe412aae06dafd30234965
+    _id: 06dd7468e0b8408b8865fc1f4bfadaa3
 -
     title: "Think, Remember, Talk, Search and Write\nThe biography of your knowledge about the Holocaust\n"
     slug: padlet-example
@@ -383,7 +357,7 @@
             en_us: 2017
         year: 2017
     url: 'https://padlet.com/scagliolas/kwogwv6bmif7'
-    _id: d7fc389b1c5548b0929a1d383a6610f6
+    _id: 4aae6e9560b1468e9ddcf9b6485c46be
 -
     title: 'The filter bubble'
     slug: filter-bubbles
@@ -394,7 +368,7 @@
             en_us: 2011
         year: 2011
     url: 'https://filterbubbleparisercgcc.weebly.com/the-cause.html'
-    _id: 6481f5172cfb47c6bc8facd1ec61e9b3
+    _id: 99eac29bf16a4d258fa6ed1d4189aced
 -
     title: 'Search Smarter: 30+ Google Search Tricks You Might Not Already Know'
     slug: advanced-google-search
@@ -405,7 +379,7 @@
             en_us: 2016
         year: 2016
     url: 'https://zapier.com/blog/advanced-google-search-tricks/'
-    _id: 658a8699a43140199c2ac567ffa69348
+    _id: ee41150446524442942c761d4625c186
 -
     title: 'Global language network'
     slug: language-ranking
@@ -416,68 +390,52 @@
             en_us: 2014
         year: 2014
     url: 'http://language.media.mit.edu/rankings/books'
-    _id: 8f7d748a20e84042bcda57b1b790d9d3
+    _id: f22f6eec7b4d49b982b5350539354241
 -
     title: 'Interview with shoah 1'
     slug: shoah-narrators1
     type: image
-    data:
-        author: 'shoah visual history'
-    url: 'https://drive.google.com/open?id=1KNEo4fzeq5QNT8aABFYOLx_uvKqwWomN'
-    _id: be61a03ec3d54351902e08e686bd6f63
-    _resolved: true
+    data: {}
     attachment: shoahnarrators1.png
+    url: 'https://drive.google.com/open?id=1KNEo4fzeq5QNT8aABFYOLx_uvKqwWomN'
+    _id: e62d4c8ab9404135a2e8faf3de91abdb
+    _resolved: true
 -
     title: 'Interview with shoah2'
     slug: shoah-narrators2
     type: image
-    data:
-        author: 'shoah visual history'
-    url: 'https://drive.google.com/open?id=1nzNG6Q47FMyvp9DOgan1pagWq9gA5KF3'
-    _id: a3c41d66a01440ef8ce1721e2239c9fa
-    _resolved: true
+    data: {}
     attachment: shoahnarrators2.png
+    url: 'https://drive.google.com/open?id=1nzNG6Q47FMyvp9DOgan1pagWq9gA5KF3'
+    _id: 8a56e01d020a41c3926106a9186e04e9
+    _resolved: true
 -
     title: 'Interview with russion survivor'
     slug: russian-man
     type: image
-    data:
-        author: '????'
-        date:
-            en_us: '????'
-    url: 'https://drive.google.com/open?id=18Z9PCGNyoVt37lTljtEi-1pMubV6KSrj'
-    _id: 1bb01c3561b1498cb40c3ffdf64a00dc
-    _resolved: true
+    data: {}
     attachment: russianman1.png
+    url: 'https://drive.google.com/open?id=18Z9PCGNyoVt37lTljtEi-1pMubV6KSrj'
+    _id: c2f10cff817040138eb933b6297863f0
+    _resolved: true
 -
     title: 'Memorial to the Murdered Jews of Europe, Berlin'
     slug: berlin-monument
     type: image
-    data:
-        author: 'Carsten Koall'
-        reference: "\nMemorial to the Murdered Jews of Europe, Berlin\n"
-        abstract:
-            en_us: 'Some of the 2,711 polished marble blocks or "stellae" that comprise the Memorial to the Murdered Jews of Europe in Berlin, Germany.'
-    url: 'https://drive.google.com/file/d/17Heaz5VyiDb3y_yoczOTP1Tk2sdSzhse/view?usp=sharing'
-    _id: 54622dc574f24293800e02b8a2ba33f9
-    _resolved: true
+    data: {}
     attachment: berlinmonument.png
+    url: 'https://drive.google.com/file/d/17Heaz5VyiDb3y_yoczOTP1Tk2sdSzhse/view?usp=sharing'
+    _id: 820b00b4fc6941368daec359824ffe9d
+    _resolved: true
 -
     title: 'Children - Victims of Holocaust - Monument at Jewish Cemetery in Warsaw'
     slug: jewish-children
     type: image
-    data:
-        title:
-            en_us: 'Children - Victims of Holocaust - Monument at Jewish Cemetery in Warsaw'
-        author: 'Jolanta Dyr'
-        date:
-            en_us: 2012
-        reference: 'Children - Victims of Holocaust - Monument at Jewish Cemetery in Warsaw '
-        year: 2012
-    url: 'https://drive.google.com/open?id=1V7z1Xad6Q9aC9dnU9OSHm8AAtopHQd-B'
-    _id: 27f960fbb29b4a7ebd005ed7d9131c6a
-    _resolved: true
+    data: {}
     attachment: jewish-children.png
+    url: 'https://drive.google.com/open?id=1V7z1Xad6Q9aC9dnU9OSHm8AAtopHQd-B'
+    _id: 394177e8131f43a4b20dc728f9cf97de
+    _resolved: true
 -
     title: 'Photo-elicitation: reflexivity on method, analysis, and graphic portraits'
     slug: article-reminiscence
@@ -488,10 +446,10 @@
         author: "\nVeronica M. Richard, Maria K.E. Lahman"
         date:
             en_us: 2011
-        reference: 'Photo-elicitation: reflexivity on method, analysis, and graphic portraits'
         year: 2011
+        reference: 'Photo-elicitation: reflexivity on method, analysis, and graphic portraits'
     url: 'http://www.tandfonline.com/doi/full/10.1080/1743727X.2013.843073?scroll=top&needAccess=true'
-    _id: 4a80c879ee5a4a86b7b23330a173877b
+    _id: 78dc3e0df2454829b602cd5cca3f5a61
 -
     title: 'What is metadata?'
     slug: what-is-metadata1
@@ -499,30 +457,21 @@
     data:
         embed:
             version: '1.0'
-            width: 480
-            thumbnail_width: 480
-            provider_name: YouTube
             html: "\n<iframe width=\" 480\"  height=\"100%\" src=\"https://www.youtube.com/embed/ExAlOCgFvHY?feature=oembed\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\n"
-            thumbnail_url: 'https://i.ytimg.com/vi/ExAlOCgFvHY/hqdefault.jpg'
-            height: 270
-            type: video
+            width: 480
+            provider_name: YouTube
+            title: 'What is metadata?'
             author_name: internet-class
+            url: 'https://youtu.be/ExAlOCgFvHY'
+            thumbnail_width: 480
+            height: 270
+            thumbnail_url: 'https://i.ytimg.com/vi/ExAlOCgFvHY/hqdefault.jpg'
+            author_url: 'https://www.youtube.com/channel/UCF-EPJcRpVWGzr-MwITe8AA'
+            type: video
             thumbnail_height: 360
             provider_url: 'https://www.youtube.com/'
-            author_url: 'https://www.youtube.com/channel/UCF-EPJcRpVWGzr-MwITe8AA'
-            url: 'https://youtu.be/ExAlOCgFvHY'
-            title: 'What is metadata?'
-        title:
-            en_us: 'What is metadata?'
-        author: 'Geoffrey Challen,Greg Bunyea'
-        date:
-            en_us: 2016
-        reference: 'What is metadata?'
-        abstract:
-            en_us: "An important term that has emerged in the debate surrounding online privacy and government tracking is metadata. Metadata is used to refer to information about a particular set of communications that is not the content of those communications. So the subject line of an email, rather than its contents. Or the location that a text message was sent, rather than its contents. While metadata seems like it might be safer to collect, it can still be used to uncover information about individuals that could constitute a violation of privacy.\n\nCredits: Talking: Geoffrey Challen (Assistant Professor, Computer Science and Engineering, University at Buffalo). Producing: Greg Bunyea (Undergraduate, Computer Science and Engineering, University at Buffalo).\n"
-        year: 2016
     url: 'https://youtu.be/ExAlOCgFvHY'
-    _id: 3e09459e05d84dde9a23f207e72b0d6f
+    _id: 961e75138aa64c838303652c3956c7fb
     _resolved: true
 -
     title: 'Basics of metadata'
@@ -530,31 +479,33 @@
     type: video
     data:
         embed:
-            url: 'https://youtu.be/-0vc6LeVa14'
             author_url: 'https://www.youtube.com/user/MMfilm2digitutorials'
             provider_url: 'https://www.youtube.com/'
-            title: 'basics of metadata'
-            type: video
-            height: 270
-            author_name: MMfilm2digitutorials
             thumbnail_height: 360
-            thumbnail_width: 480
-            provider_name: YouTube
-            thumbnail_url: 'https://i.ytimg.com/vi/-0vc6LeVa14/hqdefault.jpg'
-            html: "\n<iframe width=\" 480\"  height=\"100%\" src=\"https://www.youtube.com/embed/-0vc6LeVa14?feature=oembed\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\n"
-            version: '1.0'
+            type: video
+            author_name: MMfilm2digitutorials
+            title: 'basics of metadata'
+            url: 'https://youtu.be/-0vc6LeVa14'
             width: 480
-        title:
-            en_us: 'Basics of metadata'
-        author: 'Kathryn Lybarger'
-        date:
-            en_us: 2012
-        reference: 'basics of metadata'
-        abstract:
-            en_us: 'Basics of Metadata Written and Presented by Kathryn Lybarger. Tutorial Produced by Kopana Terry for University of Kentucky Libraries, 2012'
-        year: 2012
+            provider_name: YouTube
+            height: 270
+            thumbnail_url: 'https://i.ytimg.com/vi/-0vc6LeVa14/hqdefault.jpg'
+            thumbnail_width: 480
+            version: '1.0'
+            html: "\n<iframe width=\" 480\"  height=\"100%\" src=\"https://www.youtube.com/embed/-0vc6LeVa14?feature=oembed\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\n"
     url: 'https://youtu.be/-0vc6LeVa14'
-    _id: 32b694452ace45f19a820e21ef07b8b9
+    _id: d81b82f515cc4838b1c28920afd851c1
+    _resolved: true
+-
+    title: code
+    slug: code
+    type: video
+    data:
+        embed:
+            error: '404 Not Found'
+            url: 'https://vimeo.com/7254674  t'
+    url: 'https://vimeo.com/7254674  t'
+    _id: bc42dd42db8548acb0fd94f4673d504c
     _resolved: true
 -
     title: 'The Image and the Witness: Trauma, Memory and Visual Culture'
@@ -566,10 +517,10 @@
         author: 'Frances Guerin, Roger Hallas'
         date:
             en_us: 2007
-        reference: 'Frances Guerin, Roger Hallas, The Image and the Witness: Trauma, Memory and Visual Culture'
         year: 2007
+        reference: 'Frances Guerin, Roger Hallas, The Image and the Witness: Trauma, Memory and Visual Culture'
     url: 'https://www.academia.edu/4232340/The_Image_and_the_Witness_Trauma_Memory_and_Visual_Culture?auto=download'
-    _id: f185066d5dfb460892c65d7a4004a92a
+    _id: 8259e1c611b44e539662c8cad8c73edc
 -
     title: 'The testimonies of images, The Allied Liberation of Nazi Concentration Camps in American Newsreels’ what is article in volume? '
     slug: 'schandler- testimonies-allied-liberation'
@@ -580,10 +531,10 @@
         author: 'Jeffrey Schandler'
         date:
             en_us: 2003
-        reference: 'Jeffrey Schandler, ‘The testimonies of images, The Allied Liberation of Nazi Concentration Camps in American Newsreels’, in: *Why didn’t the press shout? American and International Journalism during the Holocaust*,'
         year: 2003
+        reference: 'Jeffrey Schandler, ‘The testimonies of images, The Allied Liberation of Nazi Concentration Camps in American Newsreels’, in: *Why didn’t the press shout? American and International Journalism during the Holocaust*,'
     url: 'https://books.google.lu/books?hl=en&lr=&id=I3lItIwOzCkC&oi=fnd&pg=PA109&dq=signal+corps+filming++concentration+camps+in+spring+1945&ots=n3jIFhRVt5&sig=fFwQtKONPw5DW35KQvSgZC48PKs&redir_esc=y#v=onepage&q=signal%20corps%20filming%20%20concentration%20camps%20in%20spring%201945&f=false'
-    _id: 138c8f8cff124e5eb34b7ac8f6aa46c6
+    _id: 3690bd29719f496c81948843c18f9db3
 -
     title: 'Camps of the dead'
     slug: camps-of-dead
@@ -597,7 +548,7 @@
         abstract:
             en_us: 'footage of US signal corps re-edited in a documentary with music on the background '
     url: 'https://www.youtube.com/watch?v=4QFMCfyOyYc'
-    _id: 11c6b95cbc2249e4b9b6215298584257
+    _id: 8784d2fdea6c481eb4b0f1f1d418faa0
 -
     title: 'Nazi concentration camps'
     slug: nazi-concentration-camps-us
@@ -608,11 +559,11 @@
         author: 'Robert H.Jackson'
         date:
             en_us: 16650
+        year: 1945
         abstract:
             en_us: 'documentary report compiled from footage shot by military photographers erving with the allied army as they advanced into Germany.  The films were made following an order  general E.Dwight Eisenhower, supreme commander of the allies forces.  '
-        year: 1945
     url: 'https://www.youtube.com/watch?v=4QFMCfyOyYc'
-    _id: 8fa340680b6c457691cdb4399a0c3059
+    _id: e31996ddf1bb4a5a9bcd8f8d2e00e3b8
 -
     title: 'The displaced people of Europe; preliminary notes on a psychological and anthropological study.'
     slug: boder-displaced-preliminary-notes
@@ -623,12 +574,12 @@
         author: 'David Boder'
         date:
             en_us: 1947
+        year: 1947
         reference: 'David Boder, "The displaced people of Europe; preliminary notes on a psychological and anthropological study."'
         abstract:
             en_us: 'paper and pencil don’t suffice, we need recordings, also because of many languages, circumstances of recordings, first sketch of NAZI policy on the basis of interviews and people in DP camps'
-        year: 1947
     url: 'http://voices.iit.edu/DisplacedPeopleofEurope_ILTechEng.pdf'
-    _id: b1f97836eeab48d0aad9f751cb0fb6b8
+    _id: d8528f7af79b496fb591714146aec348
 -
     title: 'David P. Boder, Holocaust Memory in Displaced Persons camps'
     slug: deblinger-myth-silecen
@@ -639,12 +590,12 @@
         author: 'Rachel Deblinger'
         date:
             en_us: 2012
+        year: 2012
         reference: 'Rachel Deblinger,, In: After the Holocaust: Challenging the Myth of Silence, ed. David Cesarani and Eric J.Sundquist, (New York, 2012)'
         abstract:
             en_us: "special inbetweenness of DP camps, dual emotions, no clear start, no resolution , interruptions because of change spools or wire breaking, interruptions point to incomprehensibility of Holocaust, points to transitional period in which the narrative was not cemented: what should I ask, what should I tell? Here we have references to Jewish violence, which in later accounts would become taboo\n"
-        year: 2012
     url: 'https://drive.google.com/open?id=17WHmbZg4Wr8x7N4QEDMRsjdFyFKw6pU4'
-    _id: 520418dac3db41deb0d6082dd1f645ef
+    _id: 0a4141e32b5b435ebc07a349e211139b
 -
     title: 'Bringing It All Together: Integrating Text, Audio, Metadata, GIS, and Scholarly Criticism in a Holocaust Oral History Archive'''
     slug: english-together-text-audio-metadata
@@ -655,10 +606,10 @@
         author: 'Eben English'
         date:
             en_us: 2010
-        reference: 'Eben English, , Journal of the Chicago Colloquium on Digital Humanities and Computer Science, Vol 1, No 2 (2010)'
         year: 2010
+        reference: 'Eben English, , Journal of the Chicago Colloquium on Digital Humanities and Computer Science, Vol 1, No 2 (2010)'
     url: 'https://letterpress.uchicago.edu/index.php/jdhcs/article/view/55'
-    _id: 7a92fba898144e05a82ca3854cd9c966
+    _id: 497626b6937446dca0c13c0d123bdcd6
 -
     title: 'The Voice As a Human Document: Listening to Holocaust Survivors in Postwar Europe'
     slug: gigliotti-review-rosen
@@ -669,11 +620,11 @@
         author: 'Simone Gigliotti'
         date:
             en_us: 2012
+        year: 2012
         reference: 'Simone Gigliotti, The Voice As a Human Document: Listening to Holocaust Survivors in Postwar Europe - Review of Alan Rosen, The Wonder of Their Voices: The 1946 Holocaust Interviews of David Boder. 217-235, Yad Vashem Studies - Volume 40 [2] (Ed) David Silberklang, (2012)'
         abstract:
             en_us: 'comprehensive and concise review of biography of David Boder by Alan Rosen)  puts Boder back into intellectual and social science context of that era, instead of claims of being hidden and suddenly discovered,  lists all the archives that were consulted, he was not the only one, media and technology development, welfare organisations are listed, ubiquity of film and photography - competition for audience - Boder known for the writtten transcripts not for spoken content, ironic, as his concern was language and how it can point to trauma, German experimental psychology connects to alternatives to written reports about reactions to catastrophe, freshness not contaminated by key words that would later become conventions'
-        year: 2012
-    _id: b82b2434443547b78d0b1b8bd4b67549
+    _id: c6147a0bccb44d63a3260d5c6dcac447
 -
     title: 'Who Shall Judge My Work? David P.Boder’s 1946 interviews of Holocaust survivors’'
     slug: pugh-judge-boder
@@ -684,11 +635,11 @@
         author: 'Ralph Pugh'
         date:
             en_us: 2014
+        year: 2014
         reference: 'Ralph A.Pugh, ‘Who Shall Judge My Work? David P.Boder’s 1946 interviews of Holocaust survivors’, in: Association for Recorded Sound Collections Journal XLV / 2014'
         abstract:
             en_us: 'history of collection and website and dilemmas with audio restoration'
-        year: 2014
-    _id: 58b7b796d0234c529c8ebe7fe68352fa
+    _id: e476d52ea62d4bb3bce35c622f006457
 -
     title: 'We know very little in America”, David Boder and un-belated testimony'
     slug: rosen-littele-america
@@ -699,12 +650,12 @@
         author: 'Alan Rosen '
         date:
             en_us: 2012
+        year: 2012
         reference: 'Alan Rosen, ‘We know very little in America”, David Boder and un-belated testimony, In: After the Holocaust: Challenging the Myth of Silence, ed. David Cesarani and Eric J.Sundquist, (New York, 2012)'
         abstract:
             en_us: 'how he approached the project, the importance of the 3rd listener in the US ‘ ‘could you repeat that term and explain?’ , multiple languages, social science human document, Jorge Semprum: problem of only having images and not voice:silence is in the medium, funding that Boder received from NIMH, important readers, it was not ‘lost’ or forgotten, suggestion of dramatic retrieval, it did have contemporary success and was cited by important scholars (Hilberg). '
-        year: 2012
     url: 'https://drive.google.com/open?id=17WHmbZg4Wr8x7N4QEDMRsjdFyFKw6pU4'
-    _id: f193a5533fb24662a98abd7c7d8a50a8
+    _id: da30b787dee24a80b4322c49afd9b7d7
 -
     title: 'Translating Trauma: David Boder''s 1946 Interviews with Holocaust Survivors'
     slug: muller-translating-trauma
@@ -715,12 +666,12 @@
         author: 'Beate Muller'
         date:
             en_us: 2014
+        year: 2014
         reference: 'Beate Muller, Translating Trauma: David Boder''s 1946 Interviews with Holocaust Survivors, in: Translation and Literature, Volume 23, Issue 2, 2014, Pages: 257-271, URL: http://dx.doi.org/10.3366/tal.2014.0155 DOI: 10.3366/tal.2014.0155'
         abstract:
             en_us: "The linguistic dimension of the translation and transformation of Boder’s interviews in other languages\n\n"
-        year: 2014
     url: 'https://drive.google.com/open?id=0B7nKRZHLqpMbcURuczk4d0NiY2s'
-    _id: 4002d9f0f2ec40eca2a08da891e88217
+    _id: f92cca2a848b44afb847f0714191bc01
 -
     title: 'The Wonder of Their Voices: The 1946 Holocaust Interviews of David Boder.'
     slug: rosen-biography-wonder
@@ -731,12 +682,12 @@
         author: 'Alan Rosen '
         date:
             en_us: 2010
+        year: 2010
         reference: 'Alan Rosen, The Wonder of Their Voices: The 1946 Holocaust Interviews of David Boder. New York: Oxford University Press, 2010, 336 pp'
         abstract:
             en_us: "elaborate biography of David Boder with focus on creation and further history of the collection\n"
-        year: 2010
     url: 'none = google books?'
-    _id: 785069a7102347729e22669f5e5194f6
+    _id: f140aaa58bc74015b1de88601fe129a0
 -
     title: 'The wonder of their voices: The 1946 Holocaust Interviews of David Boder.'
     slug: rosen-videoclip
@@ -747,43 +698,34 @@
         author: 'Aan Rosen, Paul Ortiz'
         date:
             en_us: 2012
+        year: 2012
         reference: 'Alan Rosen, april 2012, University of Florida,  produced  by the Samuel Proctor Oral History Program '
         abstract:
             en_us: 'in a public lecture Rosen delves into Boder’s background,'
-        year: 2012
     url: 'https://www.youtube.com/watch?v=IGEbwfeG1cQ'
-    _id: d25649130d0d43f2adf813e014d85e2e
+    _id: 5baafe889edb44b081040127054dfcb7
 -
     title: 'Voices of the Holocaust -- Fox News'
     slug: fox-transcripts-boder-found
     type: video
     data:
         embed:
-            width: 459
-            version: '1.0'
-            thumbnail_url: 'https://i.ytimg.com/vi/PajJ_LyKvHs/hqdefault.jpg'
-            html: "\n<iframe width=\" 459\"  height=\"100%\" src=\"https://www.youtube.com/embed/PajJ_LyKvHs?feature=oembed\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\n"
-            provider_name: YouTube
-            thumbnail_width: 480
-            thumbnail_height: 360
-            author_name: galvinlibrary
-            type: video
             height: 344
-            title: 'Voices of the Holocaust -- Fox News'
+            thumbnail_url: 'https://i.ytimg.com/vi/PajJ_LyKvHs/hqdefault.jpg'
+            thumbnail_width: 480
             url: 'https://www.youtube.com/watch?v=PajJ_LyKvHs'
+            title: 'Voices of the Holocaust -- Fox News'
+            author_name: galvinlibrary
+            provider_name: YouTube
+            width: 459
             provider_url: 'https://www.youtube.com/'
+            thumbnail_height: 360
+            type: video
             author_url: 'https://www.youtube.com/user/galvinlibrary'
-        title:
-            en_us: 'Fox News coverage of how David Boder’s transcripts were found in the Library of the Illinois Institute in 199'
-        author: '????'
-        date:
-            en_us: 39142
-        reference: 'Fox News coverage of how David Boder’s transcripts were found in the Library of the Illinois Institute in 1998, '
-        abstract:
-            en_us: 'A story broadcast March 31, 2007 on Fox News on the Voices of the Holocaust project at Illinois Institute of Technology. Dean of Libraries Christopher Stewart and Institute of Psychology Director Dr. Ellen Mitchell are featured in the piece, which tells the story of how Dr. David Boder''s wire recordings of interviews with Holocaust survivors, conducted in the 1940s, were discovered in 1998. The story also contains numerous clips from the audio recordings of the interviews, glimpses of the orginal wire recording devices and spools, as well as archival film footage of Holocaust victims.'
-        year: 2007
+            html: "\n<iframe width=\" 459\"  height=\"100%\" src=\"https://www.youtube.com/embed/PajJ_LyKvHs?feature=oembed\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\n"
+            version: '1.0'
     url: 'https://www.youtube.com/watch?v=PajJ_LyKvHs'
-    _id: 541c959a30384ff2adf34a319cdc9cd7
+    _id: 050b875210a8462f84c261804e255df2
     _resolved: true
 -
     title: '5 Minute History Lesson, Episode 6: David Boder'
@@ -795,12 +737,12 @@
         author: 'Jon Endres'
         date:
             en_us: 2017
+        year: 2017
         reference: '5 minutes history - the life of David Boder,  produced by Jon Endres of the Cummings Institute of the History of Psychology at the University of Akron'
         abstract:
             en_us: 'This clip expands on Boder''s professional career as psychologist, making use of documents, objects, recordings and film footage'
-        year: 2017
     url: 'https://www.youtube.com/watch?v=b4g3EKxwShk'
-    _id: 4a96038ba4b9473b8e33ba07c5547e79
+    _id: fd339579e8844122a9b95ab9486458b8
 -
     title: 'Radio and the Public Doing of Justice, Historical Journal of Film, Radio and Television'
     slug: pinchevski-eichmann-air
@@ -811,12 +753,12 @@
         author: 'Amit Pinchevski'
         date:
             en_us: 2007
+        year: 2007
         reference: 'Amit Pinchevski; Eichmann on the air: Radio and the Public Doing of Justice, Historical Journal of Film, Radio and Television, Volume 27, 2007, issue 1. '
         abstract:
             en_us: 'This article expands on the effort made by Israeli broadcasting coroporation to fully cover the Eichman trial and how this was negotiated with the Israeli government and required assistance from professional media experts from the US. '
-        year: 2007
     url: 'http://msradio.huji.ac.il/wwwroot/ulpanpatuach.htm - pdf.    http://www.tandfonline.com/doi/abs/10.1080/01439680601177098'
-    _id: bcfadd3b65e74ed69265095574f55aea
+    _id: 486d2dbf424045a4930eb0690c83aa12
 -
     title: 'Trial on East German Television, On (not) Reporting about a Transnational Media Event'
     slug: 'keilbach- eichmann-german-television'
@@ -827,12 +769,12 @@
         author: 'Judith Keilbach '
         date:
             en_us: 2014
+        year: 2014
         reference: 'Judith Keilbach, The Eichmann Trial on East German Television, On (not) Reporting about a Transnational Media Event, in VIEW, VOLUME 3 ISSUE 5/2014 '
         abstract:
             en_us: 'to be completed '
-        year: 2014
     url: 'http://ojs.viewjournal.eu/index.php/view/article/view/JETHC052/133'
-    _id: bddac54298924fb580a3fabb59979707
+    _id: 404051ff6196486ab7ef9fc627c33939
 -
     title: 'TV makes its Israeli debut with a tragedy'
     slug: fellows-tv-debut-tragedy
@@ -843,12 +785,12 @@
         author: 'Laurence Fellows'
         date:
             en_us: 1961
+        year: 1961
         reference: 'Laurence Fellows, TV makes its Israeli debut with a tragedy, New York Times, July 1961; Trial of Eichmann in 1961: l '
         abstract:
             en_us: 'to be completed '
-        year: 1961
     url: 'http://stevenalancarr.pbworks.com/w/page/40474402/Eichmann%20TV%203'
-    _id: ee06b62832fb48dc81fe87ac47d5752a
+    _id: 7700bdaf8031417297d8e8b24bfd28b1
 -
     title: EichmannTrialEn
     slug: eichmann-trial
@@ -859,10 +801,10 @@
         author: '?????'
         date:
             en_us: 1961
-        reference: 'EichmannTrialEn - The Eichmann Trial Channel contains over 200 hours of trial sessions and a compilation of testimonies. The Channel is a joint effort between Yad Vashem and the Israel State Archives'
         year: 1961
+        reference: 'EichmannTrialEn - The Eichmann Trial Channel contains over 200 hours of trial sessions and a compilation of testimonies. The Channel is a joint effort between Yad Vashem and the Israel State Archives'
     url: 'https://www.youtube.com/user/EichmannTrialEN'
-    _id: 25f806f69d3f4a81bc65032453ab1369
+    _id: b66dda55c3274831918cd7bc3b10d41b
 -
     title: 'Shoah, an oral history of the Holocaust'
     slug: 'c. lanzmann, shoah, an oral history of the holocaust, the complete text of the film (new york, pantheon books,1985) https://www.amazon.com/shoah-complete-text-acclaimed-holocaust/dp/0306806657'
@@ -873,12 +815,12 @@
         author: 'Claude Lanzmann'
         date:
             en_us: 1985
+        year: 1985
         reference: 'C. Lanzmann, Shoah, an oral history of the Holocaust, the complete text of the film (New York, Pantheon BOOKS,1985)'
         abstract:
             en_us: 'to be completed'
-        year: 1985
     url: 'https://www.amazon.com/Shoah-Complete-Text-Acclaimed-Holocaust/dp/0306806657'
-    _id: 766037a6542f4657ba9c577097ec72a8
+    _id: 48c44084faad49b09f1dbee5c3b31b80
 -
     title: 'Seminar With Claude Lanzmann 11 April 1990'
     slug: seminar-lanzmann-yale
@@ -889,12 +831,12 @@
         author: 'Claude Lanzmann, Ruth Larson and David Rodowick'
         date:
             en_us: 1990
+        year: 1990
         reference: 'Seminar With Claude Lanzmann 11 April 1990; Claude Lanzmann, Ruth Larson and David Rodowick, Yale French Studies No. 79, Literature and the Ethical Question (1991), pp. 82-99 '
         abstract:
             en_us: 'to be completed'
-        year: 1990
     url: 'http://www.jstor.org.proxy.bnl.lu/stable/pdf/2930247.pdf'
-    _id: 3f32727c26c64ffd879662dde50dc898
+    _id: 2d3d5d90639d4c13877495b53994b445
 -
     title: 'Le témoin et son double. La traduction comme ressource poétique chez David Boder, Claude Lanzmann et Jean Hatzfeld,'
     slug: kuhn-temoin-traduction
@@ -905,12 +847,12 @@
         author: 'Fleur Kuhn-Kennedy'
         date:
             en_us: 2017
+        year: 2017
         reference: 'Fleur Kuhn-Kennedy, Le témoin et son double. La traduction comme ressource poétique chez David Boder, Claude Lanzmann et Jean Hatzfeld, L''inquiétante étrangeté (N° 21 | 2017) , TRANS, Revue de literature generale et comparee. http://trans.revues.org/1554#ftn6'
         abstract:
             en_us: 'to be completed '
-        year: 2017
     url: 'http://trans.revues.org/1554#ftn6'
-    _id: 2b025e0b9f5843a7800e7a70531c8e8d
+    _id: e9025740eeb241fb92ef9f5ae1227ebb
 -
     title: 'Claude Lanzamann interviewed by journalist is Serge Toubiana'
     slug: lanzmann-toubiana-interview
@@ -921,12 +863,12 @@
         author: 'Claude Lanzamann, Serge Toubiana'
         date:
             en_us: 2013
+        year: 2013
         reference: 'Claude Lanzamann interviewed by journalist is Serge Toubiana, of the Cinémathèque Française. Published on YouTube on 2 July 2013'
         abstract:
             en_us: 'Claude `Lanzamann interviewed by journalist is Serge Toubiana, of the Cinémathèque Française. Published on YouTube on 2 July 2013. This is part of the Criterion Collection, a company that publishes classis and contemporary films as home videos, https://www.criterion.com/help#q1'
-        year: 2013
     url: 'https://youtu.be/0pwqHdNlNDk'
-    _id: 80742292be624ba5a8d3d0a4fdd9106b
+    _id: 905c6e4792b749fa959aeda8208956a6
 -
     title: 'trailer of the revised version of the documentary Shoah from 2007'
     slug: shoah-trailer
@@ -937,12 +879,12 @@
         author: CineArt
         date:
             en_us: 2010
+        year: 2010
         reference: 'Trailer of the revised version of Shoah, from 2007, published by ICT films on 18 December 2010, https://www.youtube.com/watch?v=JP6yYy6dSKU '
         abstract:
             en_us: 'The digital version of Shoah was created in 2012 , here is an explanation of the digitization process. https://www.youtube.com/watch?v=Uni1kybTAn0 published online with financial support and agreements on exploitation by production companies ICT and Criterion Collection'
-        year: 2010
     url: 'https://www.youtube.com/watch?v=JP6yYy6dSKU'
-    _id: 501e5922cf0749c09406809152e8f01e
+    _id: 60d7602bd62847d3aafef9359c89c02e
 -
     title: 'Supporting access to large digital oral history archives'
     slug: gustman-oard-access-digital-oral-history
@@ -953,12 +895,12 @@
         author: ' Samuel Gustman, Dagobert Soergel, Douglas Oard, William Byrne, Michael Picheny, Bhuvana Ramabhadran'
         date:
             en_us: 2002
+        year: 2002
         reference: ' Samuel Gustman, Dagobert Soergel, Douglas Oard, William Byrne, Michael Picheny, Bhuvana Ramabhadran, ‘Supporting access to large digital oral history archives’ - Proceeding JCDL ''02 Proceedings of the 2nd ACM/IEEE-CS joint conference on Digital libraries; Portland, Oregon, USA — July 14 - 18, 2002, '
         abstract:
             en_us: 'to be completed '
-        year: 2002
     url: 'https://dl.acm.org/citation.cfm?id=544224'
-    _id: de190502113b4b54914d963f9aaa2ed6
+    _id: 685f4633fcb54268a7455f29dd029729
 -
     title: '(Dis)Orienting memory – Shoah testimonies in the Virtual Archive'
     slug: bothe-memory-testimonies
@@ -969,10 +911,10 @@
         author: 'Alina Bothe'
         date:
             en_us: 2012
-        reference: 'Alina Bothe, (Dis)Orienting memory – Shoah testimonies in the Virtual Archive, in: Eckel, Julia/ Leiendecker, Bernd/ Olek, Daniela/ Piepiorka, Christine (Hrsg.) DIS)ORIENTATION - (Dis)Orienting Media and Narrative Mazes, transcript (2012), S. 73-90.'
         year: 2012
+        reference: 'Alina Bothe, (Dis)Orienting memory – Shoah testimonies in the Virtual Archive, in: Eckel, Julia/ Leiendecker, Bernd/ Olek, Daniela/ Piepiorka, Christine (Hrsg.) DIS)ORIENTATION - (Dis)Orienting Media and Narrative Mazes, transcript (2012), S. 73-90.'
     url: 'https://books.google.lu/books?id=Hc7JBAAAQBAJ&pg=PA74&lpg=PA74&dq=(Dis)Orienting+memory+–+Shoah+testimonies+in+the+Virtual+Archive%EF%BB%BF&source=bl&ots=6F3WddU4yy&sig=G32d53BdX23OfMSduYKH0tPpfdg&hl=en&sa=X&ved=0ahUKEwj5xPTQ6_fXAhUQDOwKHbYwD3YQ6AEIJzAA#v=onepage&q=(Dis)Orienting%20memory%20–%20Shoah%20testimonies%20in%20the%20Virtual%20Archive%EF%BB%BF&f=false'
-    _id: ff15dc43dd334e59b0eb804c7fd1b422
+    _id: ce26a95b5a114ca8abcce24564ad241b
 -
     title: 'Books with voices: paper transcripts as a physical interface to oral histories'
     slug: klemmer-graham-books-voices
@@ -983,12 +925,12 @@
         author: 'Scott E. Klemmer, Jamey Graham, Gregory J.Wolff, James A. Landay,'
         date:
             en_us: 2003
+        year: 2003
         reference: 'Scott E. Klemmer, Jamey Graham, Gregory J.Wolff, James A. Landay, ‘Books with voices: paper transcripts as a physical interface to oral histories’ CHI ''03 Proceedings of the SIGCHI Conference on Human Factors in Computing Systems; Ft. Lauderdale, Florida, USA — April 05 - 10, 2003'
         abstract:
             en_us: 'Our contextual inquiry into the practices of oral historians unearthed a curious incongruity. While oral historians consider interview recordings a central historical artifact, these recordings sit unused after a written transcript is produced. We hypothesized that this is largely because books are more usable than recordings. Therefore, we created Books with Voices: bar-code augmented paper transcripts enabling fast, random access to digital video interviews on a PDA. We present quantitative results of an evaluation of this tangible interface with 13 participants. They found this lightweight, structured access to original recordings to offer substantial benefits with minimal overhead. Oral historians found a level of emotion in the video not available in the printed transcript. The video also helped readers clarify the text and observe nonverbal cues.'
-        year: 2003
     url: 'https://dl.acm.org/citation.cfm?doid=642611.642628'
-    _id: 3f8b9cadd82546348c27228c882e6761
+    _id: e1fafd373dbc44c7a4d82b9a40cd1885
 -
     title: 'video History of the Holocaust: The Case of the Shoah Foundation'
     slug: berenbaum-video-history-holocaust
@@ -999,11 +941,11 @@
         author: 'Berenbaum, Michae'
         date:
             en_us: 2000
+        year: 2000
         reference: 'Berenbaum, Michael,"Video History of the Holocaust: The Case of the Shoah Foundation." Humanity at the Limit: The Impact of the Holocaust Experience on Jews and Christians. Ed. Michael A. Signer. Bloomington: Indiana University Press, 2000. 348-354.'
         abstract:
             en_us: 'to be completed '
-        year: 2000
-    _id: e6a4d84a5a1648829eabbb8b12ec30e2
+    _id: da53e754165e44e69abd9e61e22bf96a
 -
     title: 'USC Shoah Foundation'
     slug: youtube-shoah-general
@@ -1012,17 +954,8 @@
         embed:
             error: 'no matching providers found'
             url: 'https://www.youtube.com/user/USCShoahFoundation'
-        title:
-            en_us: 'USC Shoah Foundation'
-        author: 'USC Shoah Foundation'
-        date:
-            en_us: 2017
-        reference: 'published on Youtube of the SVHF: https://www.youtube.com/user/USCShoahFoundation'
-        abstract:
-            en_us: 'The Institute for Visual History and Education is dedicated to making audio-visual interviews with survivors and other witnesses of the Holocaust and other genocides, a compelling voice for education and action.'
-        year: 2017
     url: 'https://www.youtube.com/user/USCShoahFoundation'
-    _id: c705ae8027484282b73bd46fbf171331
+    _id: 208480c8949a4faa82a9d694b1d26edf
     _resolved: true
 -
     title: 'USC Shoah Foundation'
@@ -1032,14 +965,8 @@
         embed:
             error: 'no matching providers found'
             url: 'http://sfi.usc.edu/full-length-testimonies'
-        title:
-            en_us: 'USC Shoah Foundation'
-        author: 'USC Shoah Foundation'
-        date:
-            en_us: '???????'
-        reference: 'published on website of the SHoah Visual History Foundation'
     url: 'http://sfi.usc.edu/full-length-testimonies'
-    _id: 96209b4f395b4a6b8c52ad92ca1002ae
+    _id: 2a5e8d0ecdc842188b28eaff588c630c
     _resolved: true
 -
     title: 'Mémorial de la Shoah'
@@ -1049,15 +976,16 @@
         embed:
             error: 'no matching providers found'
             url: 'https://www.youtube.com/user/memorialdelashoah'
-        author: 'Mémorial de la Shoah'
-        date:
-            en_us: 2017
-        reference: 'published on Youtube of the Memorial de la Shoah in France: https://www.youtube.com/user/memorialdelashoah'
-        abstract:
-            en_us: 'Le Mémorial de la Shoah aborde aujourd’hui à travers ses expositions et activités l’histoire de ces trois autres génocides du XXe siècle.'
-        year: 2017
     url: 'https://www.youtube.com/user/memorialdelashoah'
-    _id: 2abe8c7152c94907a3a00ade91f728cb
+    _id: 19a764bcf80048dca79cae80f8c06f96
+    _resolved: true
+-
+    title: 'The_five_senses;_sight,_surrounded_by_vignettes_showing_the_Wellcome_V0025316.jpg'
+    slug: the-senses
+    type: image
+    data: {}
+    url: 'https://drive.google.com/open?id=0B7nKRZHLqpMbV2taeS1vSmhYQ2s'
+    _id: d77f8fec3df74199aa306756803d38cb
     _resolved: true
 -
     title: 'transformation:creating new realities'
@@ -1065,39 +993,30 @@
     type: video
     data:
         embed:
-            provider_url: 'https://vimeo.com/'
-            thumbnail_height: 480
-            author_name: 'Owen Platt'
-            height: 480
             thumbnail_url: 'https://i.vimeocdn.com/video/30601280_640.jpg'
-            upload_date: '2009-10-25 18:55:23'
-            width: 640
-            description: 'a conversation between a computer and a morse telegraph key (in the matrix) with dialogue in binary and morse code.'
-            uri: /videos/7254674
-            title: code
-            duration: 94
+            provider_name: Vimeo
             video_id: 7254674
             url: 'https://vimeo.com/7254674'
-            author_url: 'https://vimeo.com/omplatt'
+            title: code
+            description: 'a conversation between a computer and a morse telegraph key (in the matrix) with dialogue in binary and morse code.'
             is_plus: '0'
-            account_type: basic
-            type: video
-            html: '<iframe src="https://player.vimeo.com/video/7254674"  width="100%"  height="100%" frameborder="0" title="code" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
+            thumbnail_height: 480
+            author_url: 'https://vimeo.com/omplatt'
             thumbnail_url_with_play_button: 'https://i.vimeocdn.com/filter/overlay?src0=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F30601280_640.jpg&src1=http%3A%2F%2Ff.vimeocdn.com%2Fp%2Fimages%2Fcrawler_play.png'
-            thumbnail_width: 640
-            provider_name: Vimeo
+            uri: /videos/7254674
+            html: '<iframe src="https://player.vimeo.com/video/7254674?app_id=122963"  width="100%"  height="100%" frameborder="0" title="code" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
             version: '1.0'
-        title:
-            en_us: 'transformation:creating new realities'
-        author: 'Scagliola, Germain, Guido, '
-        date:
-            en_us: 2017
-        reference: 'transformation:creating new realities'
-        abstract:
-            en_us: 'a short animation about the creative power of imagining a transformatiom'
-        year: 2017
+            thumbnail_width: 640
+            height: 480
+            width: 640
+            author_name: 'Owen Platt'
+            type: video
+            provider_url: 'https://vimeo.com/'
+            upload_date: '2009-10-25 18:55:23'
+            account_type: basic
+            duration: 94
     url: 'https://vimeo.com/7254674'
-    _id: 7a9485acd81345f0ae724dde7efad57e
+    _id: 23baafc2b95b425f951d26d60cba31cd
     _resolved: true
 -
     title: 'Big Data, data integrity, and the fracturing   of the control zone'
@@ -1109,12 +1028,12 @@
         author: 'Carl Lagoze'
         date:
             en_us: 2014
+        year: 2014
         reference: 'Carl Lagoze, Big Data, data integrity, and the fracturing   of the control zone'
         abstract:
             en_us: "In this paper, the assertion of “Big Data” being a “paradigm shift” in science is being discussed. Lagoze firstly challenges the definition of Big Data by Laney as 3Vs(Volume, Velocity and Variety) and the other definition by Mayer-Schonberger for stating the “allness” property and the shift in analytical technique from causality to correlation. He claims that these two definitions have not successfully shown Big Data as a revolutionary step in science.\n He then draws a line between “Lots of Data” and “Big Data” by saying that a paradigm shift in sciences is supposed to affect the epistemological and sociotechnical aspects not only methodological in the case of the former. Some papers are mentioned in astronomy and biology which challenge the characteristics of “completeness” and “no more searches for causalities”  by discussing that they cannot be achievable. \nLater, the concept of data integrity is introduced as a concern with the growth of “Big Data” usage in science which deals with the questions of data provenance and, origination and trust which is a necessary component of credible science. In order to discuss data integrity, the concept of “control zones” is defined with the use of “library memes” to depict clear boundaries in data control by illustrating the walls of traditional libraries.  By the growth of Web and internet, these so-called control zones are diminishing in the use of Big Data. The creation of meta-data –rich archives of social sciences such as ICPSR and UK Data Archive, the use of social network data, and crowd source citizen science are the examples of the fracture in control zones in scientific data and demonstrate the undermining of control zones with the use of Big Data which will leads to a paradigm shift due to the sociotechnical changes in data gathering methods. \nMoreover, he suggests an epistemological approach towards Big Data which should raise the awareness about “Big Data” integrity, biases and overfitting, and a methodological approach which suggest the control over the provenance and reliability of data by technological methods.\n"
-        year: 2014
     url: 'http://bds.sagepub.com/content/spbds/1/2/2053951714558281.full.pdf'
-    _id: 15a4c4a8653947268f7cb52e39b1aed9
+    _id: 1cad572e94d24f23a36020e4b88c5325
 -
     title: 'Digital Sources & Digital Archives: The Evidentiary Basis of Digital History'
     slug: owens-sources-evidentiary-digital-history
@@ -1125,12 +1044,12 @@
         author: 'Trevor Owens'
         date:
             en_us: 2015
+        year: 2015
         reference: 'Trevor Owens, Digital Sources & Digital Archives: The Evidentiary Basis of Digital History'
         abstract:
             en_us: 'This essay sets out to assess what the implications are for the methods of the historian now that we are increasingly building our evidence on digital sources that are retrieved from digital archives published on the web. This creates a ''digital context'' that is quite different from the original context of the source and can affect the apprecitation of a source. To emphasize the continuity in the principle of source criticism, the author cites a German classic in historiography, the historian Gustav Droysen, who already in 1867 stressed the importance of trying to understand the relation between the source and its creator. The very first consideration should be the context of the selection process for digitization. With regard to quality of the surrogate digital copy it depends on the relevance of the artifactual or informational qualities of the source what kind of resolution suffices. When it comes to the assessment of the abudance of sources offered on the web, contextualisation is again key. ''Screwing around'' as Steven Ramsey has coined browsing on the web, is an adequate method for preliminary research, but once a topic or research question has been defined, one should delve into the original context of the making of the document and of its related sources. A key difference between analog and digital born sources is that the latter are merely an illusion as they consist of a sequence of markings. To be able to solve problems that will occur with consulting sources created on older versions of software, one has to acquire some basic knowledge of the history of software and of digital carriers and be conscious of the hidden layers of information that are not visible on the screen without applying special functions. Another crucial difference with analog sources is that consulting archived digital objects will yield different results at different times, according to the choice and availabilty of certain features and the webbrowsers that one uses. Each intemerdiary layer of software is one in the sequence of interpretations of content. Other relevant differences with analog objects, are the immense scale of production and the disappearance of the distinction between original and copy. Again context in the form of often hidden metadata is essential and knowledge of the social conventions of the medium. A crucial change in the shift from document to data, is the role of ''search'' at the expense of linear order. While its dominance is increasing, our capability of preserving its context is quite limited. This means we will not be able to reconstruct the exact context of someone searching for particular images in a particular time period. In the last part of the essay Owens characterizes different types of digital archives. He distiguishes: aggregated collections of digitized primary sources which allow to bring material that is dispersed in different places together, digitized copies of the entire contents of an archival collection, born digital archival collections, web archives and collections of user generated digital born content. Owens concludes by observing that the recquirements for source criticism have stayed the same, but the skills to be able to cope with the new information ecology require knowledge of information technology. '
-        year: 2015
     url: 'https://osf.io/preprints/socarxiv/t5rdy/'
-    _id: 22e6dabb6b5c4e38889f2d6a740d6856
+    _id: 0cda5a4a1e3742ad91e6a35518977ec0
 -
     title: 'Genuine Internetdaten als historische Quellen; entwurf einer korrealistischen Quellentheorie'
     slug: schreiber-genuine-internetdaten-korrealistischen-quellentheorie
@@ -1141,12 +1060,12 @@
         author: 'Catherina Schreiber'
         date:
             en_us: 2012
+        year: 2012
         reference: 'Catherina Schreiber, Genuine Internetdaten als historischeQuellen – Entwurf einer korrealistischen Quellentheorie'
         abstract:
             en_us: "Do historians need a new auxiliary science to analyze born-digital sources or do we have to rethink source criticism as a whole for the challenges that historians are facing in the upcoming years? This is the central question of Schreiber’s article. Schreiber gives several examples that historians have to use born-digital source to do historical research in the future: we can’t understand our Zeitgeschichte without them, it is helpful for network analysis or for statistical purposes. The author argues that born-digital source criticism can easily integrated in the way we’re doing history nowadays. In fact, based on several examples Schreiber shows that historians only have to slightly adjust and rethink their traditional ways of analyzing sources: 1) there is no such thing as “a digital source”. Like the other sources we’re analyzing, we have to recognize that every born-digital source has its singularities. 2) born-digital sources are multidimensional. They differ in the way they are created, received or interconnected, like traditional sources. 3) Born-digital sources are reliable and authentic; even if they are fake. In this case historians have to ask why they have been faked. 4) Digital sources have a complex spatial and temporal setting, just as traditional sources. 5) Born-digital sources are multimodal. That implies that the manifestations of these sources can differ. \nSchreiber suggests the concept of “Korrealismus” as a source-critical approach. By that she wants to integrate a certain spirit in her historical research. The concept has its roots in architecture (Friedrich Kiesler (1947). She wants to question historical sources before they are materialized. By that she means that she doesn’t want to interpret the “final product” but the idea behind the source"
-        year: 2012
     url: 'http://universaar.uni-saarland.de/journals/index.php/zdg/article/view/292/357'
-    _id: 3399a1b2f50841308fc06db2220cb8d4
+    _id: c6cf786da864437d9a2b42f45f11aac6
 -
     title: 'Historical Understandings in the Quantum Age'
     slug: sternfeld-historical-understandings-quantum-age
@@ -1157,12 +1076,12 @@
         author: 'Joshua Sternfeld'
         date:
             en_us: 2014
+        year: 2014
         reference: 'Joshua Sternfeld, Historical Understandings in the Quantum Age’'
         abstract:
             en_us: "Digital media create new challenges for historians and change their way of analyzing sources and their relationship with digital material. A choice that was unimaginable even some years ago has now become a reality: historians work either with a clearly delimited number of material, or with a huge amount of sources that they could never analyze all individually in their lifetime. Historians need to adapt their methods accordingly, but the basic historical questions should always stay at the heart of a historian’s task: how and why. Sternfeld criticizes that these questions – why did something happen and why is it important, and how did this phenomenon happen – have been often ignored in digital history. Even if traditional ways of history would not be appropriate for working with millions of sources, digital methods cannot ignore the basic questions of history and need critical thinking.\nSternfeld discusses two concepts in his article: scale and appraisal. The former concerns the question of level at which historical enquiries take place. While traditional historical accounts were situated at what Sternfeld calls the “Newtonian level”, i.e. the analysis of a manageable amount of sources integrated in a coherent narrative, digital methods have opened up new levels of analysis: from one single source (“atomic history”) to millions of documents and vast amounts of data (“astrophysical history”). The second concept, appraisal, concerns questions of contextualization. Scope and provenance are two important aspects for appraisal: knowing what material has been selected to be preserved in digital archives and being able to trace back the data to its origin.\nScale and appraisal need both to be thought in tandem and would, according to Sternfeld, allow for a more pragmatic approach in digital history. We would be able to move on the quantum scale of history.\n"
-        year: 2014
     url: 'http://journalofdigitalhumanities.org/3-2/historical-understanding-in-thequantum-age'
-    _id: 23d56e8af6394c9aac0b47f5a8330266
+    _id: 0c125c2ab7ff4ba2bafd8a1bb3a3cc0b
 -
     title: 'New Age Scholarship: The Work of Criticism in the Age of Digital Reproduction'
     slug: latham-criticism-digital-reproduction
@@ -1173,12 +1092,12 @@
         author: ' Latham, S'
         date:
             en_us: 2004
+        year: 2004
         reference: ' Latham, S, New Age Scholarship: The Work of Criticism in the Age of Digital Reproduction'
         abstract:
             en_us: 'In defending the book and its protocols of reading against the rise of the digital archive, Sven Birkerts worries that "in the theoretically infinite database, all work is present and available—and, in a way, equal." Rather than lamenting this fact, this essay argues that we might recognize such availability as the condition of possibility for cultural studies itself. After first theorizing about the "frenetic" reading practices generated by the digital archive, this essay then engages in an experiment: tracing the use of the word "imperialism" through the digitized version of a British weekly entitled The New Age. The results not only re-embed this now monolithic term in a more complex and unstable historical context, but also point to a new type of synchronic and non-linear critical practice.'
-        year: 2004
     url: 'http:doi:10.1353/nlh.2004.0043'
-    _id: 3e754cea63dc4469a2730bfb8e04f625
+    _id: f928a8821f6a405798beb55f6e5af5e4
 -
     title: 'The Scent of the Digital Archive; Dilemmas with Archive Digitisation'
     slug: juergens-scent-digital-dilemmas
@@ -1189,12 +1108,12 @@
         author: 'Charles Juergens'
         date:
             en_us: 2013
+        year: 2013
         reference: 'Charles Juergens, The Scent of the Digital Archive; Dilemmas with Archive Digitisation'
         abstract:
             en_us: 'The article recognises the importance of digitalisation for preserving and studying the past, but also wants to remind us that digitisation is changing the outlook of the archive and the methods and practices used by archivists and researchers. The author highlights four problems: (1) With digitisation a loss of (contextual) information is inevitable. Through scanning, using OCR and adding metadata analogue sources are digitally captured, but the choices that are made with regard to the metadata; the fact that search engines don’t preserve the hierarchy of traditional archives; and that physical aspects of a source (paper structure, watermarks, the method of binding, etc.) can’t be captured can become problematic issues. (2) Secondly it is important to understand that the analogue and the digital version of a document are not the same thing. Something that is often overlooked according to the author. The digital version is a copy of the original analogue document, and both should be treated as different types of sources as they come with their own heuristic and methodological approaches. (3) As a third point, the disappearance and marginalisation of analogue archival material is taken into account. In some cases the original objects disappear after digitisation, and although the author thinks it is important to consider if archival material needs to be preserved once it is digitally available, the traditional archive also has its value (i.e. the earlier mentioned ''physicality''). Another risk is that archives that aren’t digitised disappear “from our active cultural memory" because these analogue archives are often overlooked by researchers, creating the idea that they don’t exist. (4) Lastly, enormous amounts of time and money go into digital infrastructure (digitising archives, maintaining online accessibility), as well as the upkeep of analogue archival material, making digitalisation a very expensive undertaking. The above-mentioned problems make it necessary to rethink the idea of ‘mass digitalisation’, and lays an emphasises on critical reflection about which archives should be digitised and what the reasons are for doing so.'
-        year: 2013
     url: 'http://doi.org/10.18352/bmgn-lchr.9348'
-    _id: de22f28ee0e14dd79c5f5cdc7ec48a50
+    _id: 5b3b650cebcc494397114f2db9f1a709
 -
     title: 'Transmutability: Digital Decontextualization, Manipulation, and Recontextualization as a New Source of Value in the Production and Consumption of Culture Products'
     slug: hughes-lang-transmutability
@@ -1205,12 +1124,12 @@
         author: 'J. Hughes,Karl Lang'
         date:
             en_us: 2006
+        year: 2006
         reference: 'J. Hughes / Karl Lang: Transmutability: Digital Decontextualization, Manipulation, and Recontextualization as a New Source of Value in the Production and Consumption of Culture Products'
         abstract:
             en_us: 'This article studies the transmutability or easy alteration of digital culture products and its economic value. In digital culture the audience creates value, which derives from a shared experience in a social process, and the community takes ownership and control over this culture. Whereas analog products are considered property of a single firm subject to copyright and technological barriers, digital culture goods are easily reproduced and distributed, and undergo endless modification, extension and recombination. Non-cost based pricing such as value-based pricing needs to counterbalance the near-zero marginal cost for digital culture products. After an evolution from art and music as public goods to the intellectual property of the music industry, fan communities are now transforming music and art back into public culture goods. Consumers of digital culture products can become significant creators and producers themselves. On the one hand, transmutability can be consumer-driven through unbundling, re-bundling, portability and distribution, personalisation and re-contextualisation. On the other hand, creator-driven transmutations include editing and re-editing, an extension of the original digital culture product, and recombination, remixing and sampling. The A2B2C (Artist to Business to Consumer) value chain in the traditional music industry, has now become an A2C (Artist to Consumer) chain where virtual communities of common cultural interest have access to digital products, and discover new products and rare works in a P2P (Peer to Peer) network. These derivative works have become widely available through IT at a low cost. Digital culture goods can therefore contribute to the value of the original products and the general brand or franchise, and open up new segments of the market. The challenge is to balance proprietary and open development models into new open source production models where transmutability is essential to benefit both producers and consumers. The compensation of creators and estimation of the value of these new contributions remains unresolved.'
-        year: 2006
     url: 'https://pdfs.semanticscholar.org/42c1/6ffce5745a4cfee1aba0cbe521e45e9fd363.pdf'
-    _id: 62af8c00ce114c7c8be838a8e51f52c7
+    _id: aad5251c90b04b12ae6dc144f2f3f9c0
 -
     title: 'web three oh; when the virtual is the real'
     slug: kuhn-web-three-point-virtual-real
@@ -1221,45 +1140,12 @@
         author: 'Virginia Kuhn'
         date:
             en_us: 2013
+        year: 2013
         reference: 'Virgina Kuhn'
         abstract:
             en_us: 'Web 3.0 seems so full of promise: If Web 2.0 replaced the static, client-based internet with a dynamic social web, Web 3.0 promises to expand the affordances of digital production, giving rise to increasingly complex modes of visual and aural representation, as well as to expand the networking capabilities that will replace the relative stability of desktops and databases with clouds and information flows.i Web 3.0 will be the Deleuzean “body without organs,” materializing human perception via stimulus-response, while more closely mimicking the organic pulse of the natural world. The brain becomes the neutral space in which the material and the immaterial meet and negotiate their terms. However the brain also becomes the control center, the mediator of the real and the virtual. So while there are at least three variations to the hype about Web 3.0, they all rely on the underlying view of the brain as the prime and only loci for a presumed human desire for transcendence. We humans seem hopelessly controlled by our brains and we are devoted to mapping their autonomic functions sufficiently for the twin purposes of exteriorizing our thoughts (via better representation), and interiorizing our lived experience (via deeper reflection).'
-        year: 2013
     url: 'https://s3.amazonaws.com/academia.edu.documents/31848843/Kuhn_Web3.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1512291911&Signature=nR7EKwFUi%2FsSY%2BrR7eVphw76Wk0%3D&response-content-disposition=inline%3B%20filename%3DWeb_Three_Point_Oh_The_Virtual_is_the_Re.pdf'
-    _id: 8950794e6db447b39e4e0995c077cd83
--
-    title: 'The era of the witness'
-    slug: wieviorka-witness-era
-    type: book
-    data:
-        author: 'Annette Wieviorka'
-        date:
-            en_us: 2006
-        year: 2006
-    attachment: wieviorka-witness-era.png
-    url: 'https://books.google.lu/books?id=8sbtTtJyUgYC&pg=PA96&lpg=PA96&dq=the+era+of+the+witness&source=bl&ots=yyq46OwU6o&sig=oRGzVgk3wFbCkwUgFnmUuFzUxmw&hl=en&sa=X&ved=0ahUKEwjagbn9gc7XAhWiAMAKHbiABiA4ChDoAQgmMAA#v=onepage&q=the%20era%20of%20the%20witness&f=false'
-    _id: b57498dbe51d4e6e8c30a8249e451c64
--
-    title: 'The_five_senses;_sight,_surrounded_by_vignettes_showing_the_Wellcome_V0025316.jpg'
-    slug: the-senses
-    type: image
-    data:
-        author: 'The_five_senses;_sight,_surrounded_by_vignettes_showing_the_Wellcome_V0025316.jpg'
-    url: 'https://drive.google.com/open?id=0B7nKRZHLqpMbV2taeS1vSmhYQ2s'
-    _id: 912b4f4f9bbe4dc0a473c37be868b961
-    _resolved: true
--
-    title: 'Holocaust Memorial Day: Telegraph revealed Nazi gas chambers three years before liberation of Auschwitz'
-    slug: germans-murder-jews
-    type: link
-    data:
-        author: 'David Blair'
-        date:
-            en_us: 2015
-        year: 2015
-    attachment: germans-murder-jews.png
-    url: 'http://www.telegraph.co.uk/history/world-war-two/11370972/Holocaust-Memorial-Day-Telegraph-revealed-Nazi-gas-chambers-three-years-before-liberation-of-Auschwitz.html'
-    _id: 2cf1b20cd2f64a6d8d68f9ee675bc994
+    _id: dc986c847fee4ccea4379acc2e946302
 -
     title: 'Slices of Time, Muybridge’ s cinematic legacy'
     slug: slices-of-time
@@ -1267,27 +1153,21 @@
     data:
         embed:
             author_url: 'https://www.youtube.com/user/sfmoma'
-            type: video
             thumbnail_height: 360
             provider_url: 'https://www.youtube.com/'
-            width: 480
-            provider_name: YouTube
-            author_name: 'San Francisco Museum of Modern Art'
-            title: 'Slices of time: Eadweard Muybridge’s cinematic legacy | Pioneers of Photography'
+            type: video
             url: 'https://www.youtube.com/watch?v=wNU7sXkZmSw'
-            thumbnail_width: 480
-            height: 270
+            title: 'Slices of time: Eadweard Muybridge’s cinematic legacy | Pioneers of Photography'
+            author_name: 'San Francisco Museum of Modern Art'
+            provider_name: YouTube
+            width: 480
             thumbnail_url: 'https://i.ytimg.com/vi/wNU7sXkZmSw/hqdefault.jpg'
+            height: 270
+            thumbnail_width: 480
             version: '1.0'
             html: "\n<iframe width=\" 480\"  height=\"100%\" src=\"https://www.youtube.com/embed/wNU7sXkZmSw?feature=oembed\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\n"
-        year: 2017
-        date_published:
-            en_us: 2017
-        abstract:
-            en_us: 'Eadweard Muybridge is remembered today for his extraordinary pictures of Yosemite and his pioneering photographic studies of motion, which ultimately led to the development of cinema.'
-    attachment: 'Slices of Time, Muybridge’ s cinematic legacy'
     url: 'https://www.youtube.com/watch?v=wNU7sXkZmSw&feature=youtu.be'
-    _id: 14459a36a176461fb8f9b2818677c2a2
+    _id: 5f3ea394c706412b802412b943154a09
     _resolved: true
 -
     title: "Amateur Beats Gov't at Digitizing Newspapers: Tom Tryniski's Weird, Wonderful Website\n"
@@ -1295,62 +1175,20 @@
     type: video
     data:
         embed:
-            version: '1.0'
             html: "\n<iframe width=\" 480\"  height=\"100%\" src=\"https://www.youtube.com/embed/KVWDX6oaYCg?feature=oembed\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\n"
-            width: 480
-            provider_name: YouTube
-            author_name: ReasonTV
-            title: 'Amateur Beats Gov''t at Digitizing Newspapers: Tom Tryniski''s Weird, Wonderful Website'
-            url: 'https://youtu.be/KVWDX6oaYCg'
+            version: '1.0'
             thumbnail_width: 480
             height: 270
             thumbnail_url: 'https://i.ytimg.com/vi/KVWDX6oaYCg/hqdefault.jpg'
-            author_url: 'https://www.youtube.com/user/ReasonTV'
+            provider_name: YouTube
+            width: 480
+            author_name: ReasonTV
+            title: 'Amateur Beats Gov''t at Digitizing Newspapers: Tom Tryniski''s Weird, Wonderful Website'
+            url: 'https://youtu.be/KVWDX6oaYCg'
             type: video
-            provider_url: 'https://www.youtube.com/'
             thumbnail_height: 360
-        year: 2013
-        date_published:
-            en_us: 2013
-        abstract:
-            en_us: 'One computer expert working alone has built a historic newspaper site (http://fultonhistory.com) that''s orders of magnitude bigger and more popular than one created by a federal bureaucracy with millions of dollars to spend. Armed only with a few PCs and a cheap microfilm scanner, Tom Tryniski has played David to the Library of Congress'' Goliath.'
+            provider_url: 'https://www.youtube.com/'
+            author_url: 'https://www.youtube.com/user/ReasonTV'
     url: 'https://youtu.be/KVWDX6oaYCg'
-    _id: d8b0a7c60ce3481a899e33bc04bed3eb
+    _id: c01aadc569b84991ba459f2835ca7ac1
     _resolved: true
--
-    title: 'Phd Skill Training, 30/31-10-2017: Exploring the origin and use of the term  Digital Source Criticism '
-    slug: dsc-skill-training
-    type: link
-    data:
-        date:
-            en_us: 2017
-        year: 2017
-        abstract:
-            en_us: 'this is bla bla '
-    attachment: /assets/images/DSC-skill-training.jpg
-    _id: 077d152cae3240ffa6935ddd7d864014
--
-    title: 'Expert Meeting,  18-12-2017 : Various Perspectives on the concept of Digital Source Criticism '
-    slug: quelle
-    type: link
-    data:
-        date:
-            en_us: 2017
-        year: 2017
-        abstract:
-            en_us: 'this is bla bla '
-    attachment: /assets/images/source.png
-    _id: 8346d5460f98484f889a4197eb750d69
--
-    title: 'Neue Erkenntnisse Durch Digitalisierte Geschichtswissenschaft(en)? Zur Hermeneutischen Reichweite Aktueller Digitaler Methoden in Informationszentrierten Fächern'
-    slug: wettlaufer-erkenntnisse-digitalisierte-geschichtswissenschaft-hermeneutischen
-    type: link
-    data:
-        title:
-            en_us: 'Neue Erkenntnisse Durch Digitalisierte Geschichtswissenschaft(en)? Zur Hermeneutischen Reichweite Aktueller Digitaler Methoden in Informationszentrierten Fächern'
-        author: 'Jorg Wettlaufer'
-        date:
-            en_us: 2016
-        year: 2016
-    url: 'http://zfdg.de/2016_011'
-    _id: 890535e0bbf94004abb05765cf67e993
