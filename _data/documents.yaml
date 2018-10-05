@@ -26,7 +26,14 @@
     title: Cosmographia
     slug: cosmographia
     type: image
-    data: {}
+    data:
+        title:
+            en_us: Cosmographia
+        author: 'Sebastian Munster'
+        date:
+            en_us: 1570
+        year: 1570
+        reference: 'By Sebastian Munster [Public domain](http://bigthink.com/ideas/21192), via Wikimedia Commons'
     attachment: image/Europe_As_A_Queen_Sebastian_Munster_1570.jpg
     url: 'https://upload.wikimedia.org/wikipedia/commons/8/86/Europe_As_A_Queen_Sebastian_Munster_1570.jpg'
     _id: c3c495fd7088446484ff9eac323a1f71
@@ -50,7 +57,16 @@
     title: 'Storage hallway at the National Archives  in Washington'
     slug: archive-records
     type: image
-    data: {}
+    data:
+        title:
+            en_us: 'Storage hallway at the National Archives I building. This was taken with permission at the Wikipedia 10 Washington D.C. event.'
+        author: Missvain
+        date:
+            en_us: 2011
+        year: 2011
+        reference: 'Storage hallway at the National Archives I building in Washington DC'
+        abstract:
+            en_us: 'Storage hallway at the National Archives I building. This was taken with permission at the Wikipedia 10 Washington D.C. event.'
     attachment: WikiXDC_National_Archives_Tour_Hall_-_Stierch.jpg
     url: 'https://commons.wikimedia.org/wiki/File%3AWikiXDC_National_Archives_Tour_Hall_-_Stierch.jpg'
     _id: 8612bb1e226d459f8d8ac4915bdc67a9
@@ -59,7 +75,14 @@
     title: 'scanning of Georgian manuscript '
     slug: digitization-book-georgia
     type: image
-    data: {}
+    data:
+        title:
+            en_us: 'scanning of Georgian manuscript '
+        author: 'დიმიტრი გურგენიძე'
+        date:
+            en_us: 2011
+        year: 2011
+        reference: 'Digitalisation_in_National_Centre_of_Manuscripts_of_Georgia.jpg ‎(294 × 480 pixels, file size: 49 KB, MIME type: image/jpeg)'
     attachment: Digitalisation_in_National_Centre_of_Manuscripts_of_Georgia.jpg
     url: 'https://commons.wikimedia.org/wiki/File%3ADigitalisation_in_National_Centre_of_Manuscripts_of_Georgia.jpg'
     _id: 5a0822e977954604b1a13bd22d6c04d6
@@ -68,7 +91,13 @@
     title: 'illustration of digital techniology'
     slug: digital-world
     type: image
-    data: {}
+    data:
+        title:
+            en_us: 'illustration of digital techniology'
+        date:
+            en_us: 2012
+        year: 2012
+        reference: 'illustration of digital techniology from pixabay'
     attachment: ball-63527_1920.jpg
     url: 'https://pixabay.com/en/ball-http-www-crash-administrator-63527/'
     _id: 7f43d2a65c9044ffb018d6678dab8949
@@ -104,7 +133,13 @@
     title: 'Transmutability: Digital Decontextualization, Manipulation, and Recontextualization as a New Source of Value in the Production and Consumption of Culture Products'
     slug: hughes-lang-transmutability-decontextualization
     type: pdf
-    data: {}
+    data:
+        title:
+            en_us: 'Transmutability: Digital Decontextualization, Manipulation, and Recontextualization as a New Source of Value in the Production and Consumption of Culture Products'
+        author: 'J. Hughes, Karl Lang'
+        date:
+            en_us: 2006
+        year: 2006
     url: 'https://pdfs.semanticscholar.org/42c1/6ffce5745a4cfee1aba0cbe521e45e9fd363.pdf'
     _id: 919b3255a9ce40bc8216cf5830d30aad
     _resolved: true
@@ -138,7 +173,13 @@
     title: 'Digital Forensics and Born-Digital Content in Cultural Heritage'
     slug: kirschbaum-digital-forensics-cultural-heritage
     type: pdf
-    data: {}
+    data:
+        title:
+            en_us: 'Digital Forensics and Born-Digital Content in Cultural Heritage'
+        author: 'Matthew Kirschbaum'
+        date:
+            en_us: 2010
+        year: 2010
     attachment: pdf/pub149.pdf
     url: 'https://www.clir.org/wp-content/uploads/sites/6/pub149.pdf'
     _id: e76a06a9727f4d1f81f607b8f318d632
@@ -314,7 +355,12 @@
     title: 'Eichmann trial on tv'
     slug: eichmann-tv
     type: image
-    data: {}
+    data:
+        title:
+            en_us: 'Ellen And Jim Have A Blog, Two'
+        date:
+            en_us: 2014
+        year: 2014
     attachment: eichmann-tv.png
     url: 'https://ellenandjim.wordpress.com/2014/05/'
     _id: 98917521efc545759b5be67d2dda6a05
@@ -395,7 +441,8 @@
     title: 'Interview with shoah 1'
     slug: shoah-narrators1
     type: image
-    data: {}
+    data:
+        author: 'shoah visual history'
     attachment: shoahnarrators1.png
     url: 'https://drive.google.com/open?id=1KNEo4fzeq5QNT8aABFYOLx_uvKqwWomN'
     _id: e62d4c8ab9404135a2e8faf3de91abdb
@@ -404,7 +451,8 @@
     title: 'Interview with shoah2'
     slug: shoah-narrators2
     type: image
-    data: {}
+    data:
+        author: 'shoah visual history'
     attachment: shoahnarrators2.png
     url: 'https://drive.google.com/open?id=1nzNG6Q47FMyvp9DOgan1pagWq9gA5KF3'
     _id: 8a56e01d020a41c3926106a9186e04e9
@@ -413,7 +461,10 @@
     title: 'Interview with russion survivor'
     slug: russian-man
     type: image
-    data: {}
+    data:
+        author: '????'
+        date:
+            en_us: '????'
     attachment: russianman1.png
     url: 'https://drive.google.com/open?id=18Z9PCGNyoVt37lTljtEi-1pMubV6KSrj'
     _id: c2f10cff817040138eb933b6297863f0
@@ -422,7 +473,11 @@
     title: 'Memorial to the Murdered Jews of Europe, Berlin'
     slug: berlin-monument
     type: image
-    data: {}
+    data:
+        author: 'Carsten Koall'
+        reference: "\nMemorial to the Murdered Jews of Europe, Berlin\n"
+        abstract:
+            en_us: 'Some of the 2,711 polished marble blocks or "stellae" that comprise the Memorial to the Murdered Jews of Europe in Berlin, Germany.'
     attachment: berlinmonument.png
     url: 'https://drive.google.com/file/d/17Heaz5VyiDb3y_yoczOTP1Tk2sdSzhse/view?usp=sharing'
     _id: 820b00b4fc6941368daec359824ffe9d
@@ -431,7 +486,14 @@
     title: 'Children - Victims of Holocaust - Monument at Jewish Cemetery in Warsaw'
     slug: jewish-children
     type: image
-    data: {}
+    data:
+        title:
+            en_us: 'Children - Victims of Holocaust - Monument at Jewish Cemetery in Warsaw'
+        author: 'Jolanta Dyr'
+        date:
+            en_us: 2012
+        year: 2012
+        reference: 'Children - Victims of Holocaust - Monument at Jewish Cemetery in Warsaw '
     attachment: jewish-children.png
     url: 'https://drive.google.com/open?id=1V7z1Xad6Q9aC9dnU9OSHm8AAtopHQd-B'
     _id: 394177e8131f43a4b20dc728f9cf97de
@@ -470,6 +532,15 @@
             type: video
             thumbnail_height: 360
             provider_url: 'https://www.youtube.com/'
+        title:
+            en_us: 'What is metadata?'
+        author: 'Geoffrey Challen,Greg Bunyea'
+        date:
+            en_us: 2016
+        year: 2016
+        reference: 'What is metadata?'
+        abstract:
+            en_us: "An important term that has emerged in the debate surrounding online privacy and government tracking is metadata. Metadata is used to refer to information about a particular set of communications that is not the content of those communications. So the subject line of an email, rather than its contents. Or the location that a text message was sent, rather than its contents. While metadata seems like it might be safer to collect, it can still be used to uncover information about individuals that could constitute a violation of privacy.\n\nCredits: Talking: Geoffrey Challen (Assistant Professor, Computer Science and Engineering, University at Buffalo). Producing: Greg Bunyea (Undergraduate, Computer Science and Engineering, University at Buffalo).\n"
     url: 'https://youtu.be/ExAlOCgFvHY'
     _id: 961e75138aa64c838303652c3956c7fb
     _resolved: true
@@ -493,6 +564,15 @@
             thumbnail_width: 480
             version: '1.0'
             html: "\n<iframe width=\" 480\"  height=\"100%\" src=\"https://www.youtube.com/embed/-0vc6LeVa14?feature=oembed\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\n"
+        title:
+            en_us: 'Basics of metadata'
+        author: 'Kathryn Lybarger'
+        date:
+            en_us: 2012
+        year: 2012
+        reference: 'basics of metadata'
+        abstract:
+            en_us: 'Basics of Metadata Written and Presented by Kathryn Lybarger. Tutorial Produced by Kopana Terry for University of Kentucky Libraries, 2012'
     url: 'https://youtu.be/-0vc6LeVa14'
     _id: d81b82f515cc4838b1c28920afd851c1
     _resolved: true
@@ -504,6 +584,14 @@
         embed:
             error: '404 Not Found'
             url: 'https://vimeo.com/7254674  t'
+        title:
+            en_us: code
+        author: 'Owen Platt'
+        date:
+            en_us: 2009
+        year: 2009
+        abstract:
+            en_us: 'a conversation between a computer and a morse telegraph key (in the matrix) with dialogue in binary and morse code.'
     url: 'https://vimeo.com/7254674  t'
     _id: bc42dd42db8548acb0fd94f4673d504c
     _resolved: true
@@ -724,6 +812,15 @@
             author_url: 'https://www.youtube.com/user/galvinlibrary'
             html: "\n<iframe width=\" 459\"  height=\"100%\" src=\"https://www.youtube.com/embed/PajJ_LyKvHs?feature=oembed\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\n"
             version: '1.0'
+        title:
+            en_us: 'Fox News coverage of how David Boder’s transcripts were found in the Library of the Illinois Institute in 199'
+        author: '????'
+        date:
+            en_us: 39142
+        year: 2007
+        reference: 'Fox News coverage of how David Boder’s transcripts were found in the Library of the Illinois Institute in 1998, '
+        abstract:
+            en_us: 'A story broadcast March 31, 2007 on Fox News on the Voices of the Holocaust project at Illinois Institute of Technology. Dean of Libraries Christopher Stewart and Institute of Psychology Director Dr. Ellen Mitchell are featured in the piece, which tells the story of how Dr. David Boder''s wire recordings of interviews with Holocaust survivors, conducted in the 1940s, were discovered in 1998. The story also contains numerous clips from the audio recordings of the interviews, glimpses of the orginal wire recording devices and spools, as well as archival film footage of Holocaust victims.'
     url: 'https://www.youtube.com/watch?v=PajJ_LyKvHs'
     _id: 050b875210a8462f84c261804e255df2
     _resolved: true
@@ -954,6 +1051,15 @@
         embed:
             error: 'no matching providers found'
             url: 'https://www.youtube.com/user/USCShoahFoundation'
+        title:
+            en_us: 'USC Shoah Foundation'
+        author: 'USC Shoah Foundation'
+        date:
+            en_us: 2017
+        year: 2017
+        reference: 'published on Youtube of the SVHF: https://www.youtube.com/user/USCShoahFoundation'
+        abstract:
+            en_us: 'The Institute for Visual History and Education is dedicated to making audio-visual interviews with survivors and other witnesses of the Holocaust and other genocides, a compelling voice for education and action.'
     url: 'https://www.youtube.com/user/USCShoahFoundation'
     _id: 208480c8949a4faa82a9d694b1d26edf
     _resolved: true
@@ -965,6 +1071,12 @@
         embed:
             error: 'no matching providers found'
             url: 'http://sfi.usc.edu/full-length-testimonies'
+        title:
+            en_us: 'USC Shoah Foundation'
+        author: 'USC Shoah Foundation'
+        date:
+            en_us: '???????'
+        reference: 'published on website of the SHoah Visual History Foundation'
     url: 'http://sfi.usc.edu/full-length-testimonies'
     _id: 2a5e8d0ecdc842188b28eaff588c630c
     _resolved: true
@@ -976,6 +1088,13 @@
         embed:
             error: 'no matching providers found'
             url: 'https://www.youtube.com/user/memorialdelashoah'
+        author: 'Mémorial de la Shoah'
+        date:
+            en_us: 2017
+        year: 2017
+        reference: 'published on Youtube of the Memorial de la Shoah in France: https://www.youtube.com/user/memorialdelashoah'
+        abstract:
+            en_us: 'Le Mémorial de la Shoah aborde aujourd’hui à travers ses expositions et activités l’histoire de ces trois autres génocides du XXe siècle.'
     url: 'https://www.youtube.com/user/memorialdelashoah'
     _id: 19a764bcf80048dca79cae80f8c06f96
     _resolved: true
@@ -983,7 +1102,8 @@
     title: 'The_five_senses;_sight,_surrounded_by_vignettes_showing_the_Wellcome_V0025316.jpg'
     slug: the-senses
     type: image
-    data: {}
+    data:
+        author: 'The_five_senses;_sight,_surrounded_by_vignettes_showing_the_Wellcome_V0025316.jpg'
     url: 'https://drive.google.com/open?id=0B7nKRZHLqpMbV2taeS1vSmhYQ2s'
     _id: d77f8fec3df74199aa306756803d38cb
     _resolved: true
@@ -1015,6 +1135,15 @@
             upload_date: '2009-10-25 18:55:23'
             account_type: basic
             duration: 94
+        title:
+            en_us: 'transformation:creating new realities'
+        author: 'Scagliola, Germain, Guido, '
+        date:
+            en_us: 2017
+        year: 2017
+        reference: 'transformation:creating new realities'
+        abstract:
+            en_us: 'a short animation about the creative power of imagining a transformatiom'
     url: 'https://vimeo.com/7254674'
     _id: 23baafc2b95b425f951d26d60cba31cd
     _resolved: true
@@ -1166,6 +1295,11 @@
             thumbnail_width: 480
             version: '1.0'
             html: "\n<iframe width=\" 480\"  height=\"100%\" src=\"https://www.youtube.com/embed/wNU7sXkZmSw?feature=oembed\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\n"
+        year: 2017
+        date_published:
+            en_us: 2017
+        abstract:
+            en_us: 'Eadweard Muybridge is remembered today for his extraordinary pictures of Yosemite and his pioneering photographic studies of motion, which ultimately led to the development of cinema.'
     url: 'https://www.youtube.com/watch?v=wNU7sXkZmSw&feature=youtu.be'
     _id: 5f3ea394c706412b802412b943154a09
     _resolved: true
@@ -1189,6 +1323,11 @@
             thumbnail_height: 360
             provider_url: 'https://www.youtube.com/'
             author_url: 'https://www.youtube.com/user/ReasonTV'
+        year: 2013
+        date_published:
+            en_us: 2013
+        abstract:
+            en_us: 'One computer expert working alone has built a historic newspaper site (http://fultonhistory.com) that''s orders of magnitude bigger and more popular than one created by a federal bureaucracy with millions of dollars to spend. Armed only with a few PCs and a cheap microfilm scanner, Tom Tryniski has played David to the Library of Congress'' Goliath.'
     url: 'https://youtu.be/KVWDX6oaYCg'
     _id: c01aadc569b84991ba459f2835ca7ac1
     _resolved: true
