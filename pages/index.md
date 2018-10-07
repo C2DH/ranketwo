@@ -8,11 +8,10 @@ videos:
   -
     
     id: 'muybridge'
-    caption: "*Muybridge horse gallope Daisy animated* by Eadward Muybridge 1887.
-<br>Publication online,source[wikicommons](https://commons.wikimedia.org/wiki/Category:Eadweard_Muybridge_animations)"
+    caption: "*Muybridge horse gallope Daisy animated* by Eadward Muybridge 1887<br>Publication online, source[wikicommons](https://commons.wikimedia.org/wiki/Category:Eadweard_Muybridge_animations)"
   -
     id: 'automatic-data-processing'
-    caption: "*Close-up of Automatic Data Processing Machine* Washington DC,(1953)USA <br>Publication online unknown, source[https://www.pond5.com](https://www.pond5.com/stock-footage/44586363/automatic-data-processing-machine.html) 
+    caption: "*Close-up of Automatic Data Processing Machine* Washington DC,(1953)USA <br>Publication online unknown, source[https://www.pond5.com](https://www.pond5.com/stock-footage/44586363/automatic-data-processing-machine.html)" 
   -
     id: dial-phone
     caption: "*How to Use the Dial Phone* by American Telephone and Telegraph Co.(AT&T)<br>Publication date 1927,source:[archive.org](https://archive.org/details/HowtoUse1927)"
