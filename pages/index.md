@@ -7,7 +7,8 @@ title: A series of lessons on Digital Source Criticism
 videos:
   -
     id: 'muybridge'
-    caption:"*Muybridge horse gallope Daisy animated* by Eadward Muybridge 1887.<br>Publication online unknown,source [wikicommons](https://commons.wikimedia.org/wiki/Category:Eadweard_Muybridge_animations)"
+    id: 'muybridge'
+    caption: "Muybridge. Copyright @ 2018"
   -
     id: 'automatic-data-processing'
     caption: "Automatic data processing. Copyright @ 2018"
