@@ -3,94 +3,94 @@ layout: assignment
 unit: boder
 lang: de
 type: assignment
-title: contributing to a timeline
+title: Eintrag auf einer Zeitleiste zu Boders Biografie hinzufügen
 order: 1
 cover: /assets/images/attachments/12boxes/12boxes_01.png
 tags:
-  - historical consciousness
-  - consulting web resources
-  - comparing parallel societal developments
-  - conscious use of images on the web
+  - Geschichtsbewusstsein
+  - Einsichtnahme in Webressourcen
+  - Vergleich paralleler gesellschaftlicher Entwicklungen
+  - bewusste Verwendung von Bildern im Web
 
 requirements: Fast WIFI connection, access to Ranke.2, computer or laptop, application on laptop or computer to view video, account on Tiki-Toki for timeline.
 
 outcomes:
-  - Learning to place a historical source, its creation, form and appearance into a broader societal context
-  - Learning the basic principle of an online timeline,
-  - learning to deal with intellectual property rights
+  - Lernen, eine historische Quelle, unter Einbezug von Schaffung, Form und Erscheinungsbild, in einen breiten gesellschaftlichen Kontext zu rücken.
+  - Das Grundprinzip einer Online-Zeitleiste verstehen.
+  - Lernen, wie mit Rechten des geistigen Eigentums umgegangen wird.
 documents:
   - kuhn-temoin-traduction
 ---
 
-
-
-In the animation about David Boder's interview collection the focus is mostly on the creation and transformation from analogue source to online web resource. But the historical context also deserves some attention. Boder’s expertise and mindset were also the result of what he encountered during his life in terms of personal drawbacks, technological innovation, scientific progress and political conflict. This assignment introduces you to a digital tool with which you can create a timeline that can be populated and shared. The purpose is to make you aware of the historical context in which Boder’s historical sources were created by conducting critical web research.
+In der gezeigten Animation liegt der Schwerpunkt überwiegend auf der Schaffung und Umwandlung der Sammlung David Boders von einer analogen Quelle in eine Online-Webressource. Aber auch der historische Kontext gebietet eine gewisse Beachtung. Boders Wissen und Einstellung wurden geformt von dem, was er Zeit seines Lebens an persönlichen Rückschlägen, technologischer Innovation, wissenschaftlichem Fortschritt und politischen Konflikten durchlebte. In dieser Aufgabe werden Sie mit einem digitalen Tool zur Erstellung einer Zeitleiste vertraut gemacht, die vervollständigt und geteilt werden kann. Der Grundgedanke besteht darin, Ihnen den historischen Kontext vor Augen zu führen, in dem die historischen Quellen Boders entstanden. Sie führen dabei kritische Webrecherchen durch und tragen zu einer digitalen Zeitleiste bei. 
 
 <!-- more -->
 
 
 
 <!-- briefing-student -->
-### Introduction
+### Anweisung
 <!-- section-contents -->
-- Open the box **Boder’s biography** again, and read the various sections
-  https://allthingsmoving.com/DBinteractive/#Index
+- Öffnen Sie die Box **Boders Biografie** erneut und lesen Sie die verschiedenen Abschnitte  
+  https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
   {: .headsup}
-- Go to the timeline [application Tiki-Toki](https://www.tiki-toki.com/)
-- Complete the credentials of the account that has been created for this assignment
+- Gehen Sie zur [Tiki-Toki-Zeitleiste-App](https://www.tiki-toki.com/){:target="_blank"}
+- Geben Sie die Login-Daten des Accounts ein, der im Rahmen dieser Aufgabe eingerichtet wurde
 
-    Username: **Assignment1TikiToki**
-    Password: **davidboder**
+    Benutzername: **Assignment1TikiToki**  
+    Passwort: **davidboder**
 
-You will see a timeline with only dates that relate to David Boder’s life.
-This is the basis to complete the assignments below.
+Sie sehen eine Zeitleiste mit Daten zu David Boders Leben.
+Dies ist die Basis für die Ausführung der nachfolgenden Aufgaben.
 If you need more guidance, then follow the step by step instructions provided in [this tutorial](https://docs.google.com/document/d/1T3tyqnxxN9C1XT1SFvQ8PF6axZRX_EitGElhcuZ7g9c/edit?usp=sharing/)
 
 <!-- section -->
-### a. Create an entry in one of the dates in the timeline
+
+
+### 1.a  Einträge unter zwei Daten der Zeitleiste erstellen | 10 Min
 <!-- section-contents -->
--      The chronological sequence of dates needs to be complemented with information.
+-      Informationen ergänzt werden.
 
-Choose two dates to create an entry.
-For more background information on Boder besides what is provided in the black box, you can click on  ‘links’, the last section of Boder’s biography, and consult the following resources:
+Bitte wählen Sie zwei Daten, um Einträge zu erstellen.  
+Gehen Sie für Hintergrundinformationen zu potenziellen Einträgen zur Box „links“ im letzten Abschnitt von Boders Biografie und rufen Sie die Website Voices of the Holocaust und den Clip 5 min History auf.
 
-- Voices of the Holocaust
-- Clip 5 min History.
+- Öffnen Sie Ihre Vorlage und gehen Sie zur Tabelle für Aufgabe 1a.
+- Verfassen Sie zwei Einträge mit höchstens 100 Wörtern.
+- Suchen Sie nach geeigneten Bildern im Web und fügen Sie die Links zu diesen Bildern in dieselbe Tabelle ein.
+- Schneiden Sie nun die Einträge und die Links zu den Fotos aus und fügen Sie sie in die Zeitleiste ein (gemäß den Anweisungen im mitgelieferten Leitfaden).
+Vergessen Sie nicht, Ihre Einträge zu speichern.
 
-- Open your template and go to the table for assignment 1a
-- Write 2 entries of max 100 words in the appropiate field.
-- Look for an appropriate image on the web and copy the links to these images in the same field
-Now cut and paste the entries and the links to the photos and place them in the timeline (if it is not clear how to proceed, read the tutorial)
-Remember to regularly save your entries in your answer template, as well as in the online timeline!
+
 
 
 <!-- section -->
-### b. Create two new entries with text and images in the timeline
+### 1.b  Zwei neue Einträge mit Text und Bildern in der Zeitleiste erstellen | 20 Min
 <!-- section-contents -->
-These can be subjects related to Boder’s life, such as:
-When and  where did Boder study?
-When was the wire recorder invented?
-When were the American Newsreels about the camps shown to the American audience?
+Hierbei kann es sich um Themen im Zusammenhang mit Boders Leben handeln, darunter:
+Wann und wo studierte Boder?
+Wann wurde das Drahttonbandgerät erfunden?
+Wann wurden die amerikanischen Wochenschauen über die Lager einem US-amerikanischen Publikum gezeigt?
 Document your findings in the appropiate field in the template
 
 <!-- section -->
-### c. Create a new account and a new timeline
+### 1.c  Neuen Account und neue Zeitleiste erstellen | 120 Min
 <!-- section-contents -->
-Follow the instructions that are provided in the Tutorial
+Befolgen Sie die Anweisungen im Leitfaden.
 
-Put together at least 4 entries on a timeline about a topic  that is related either to Boder’s course of life, or to other early accounts on experiences in concentration camps.  You could consider:
+Erstellen Sie mindestens vier Einträge auf einer Zeitleiste zu einem Thema, das entweder in Zusammenhang mit Boders Leben oder sonstigen frühen Erfahrungsberichten über Konzentrationslager steht. Einige Anregungen:
 
-Politics and societal developments:    Think of the political situation of the countries in which Bode lived or travelled to: Latvia, Russia, Siberia, Japan, Mexico, United States, Europe.
+Politische und gesellschaftliche Entwicklungen: Denken Sie an die politische Lage in den Ländern, in denen Boder lebte bzw. in die er reiste: Lettland, Russland, Sibirien, Japan, Mexiko, Vereinigte Staaten von Amerika, Europa.
 
-Technology :     Think of  inventions with regard to recording or communication technology.
+Technologie: Denken Sie an Erfindungen in Zusammenhang mit der Aufnahme- oder Kommunikationstechnologie. 
 
-The History of Psychology :  Think of the developments in this science and the creation of the American National Mental Health Institution.
+Geschichte der Psychologie: Denken Sie an die Entwicklungen in dieser Wissenschaft und die Gründung der US National Mental Health Association (US-Behörde für geistige Gesundheit).
 
-The history of  interview collections:  Who introduced creating collections of recordings of people’s experiences ?
+Geschichte von Interviewsammlungen: Von wem stammt die Idee, menschliche Erlebnisse aufzuzeichnen und diese Aufzeichnungen zu sammeln?
 
-A chronological list of audio and film recordings with testimonies of experiences in concentration camps: Think of war trials, television, radio, the web
+Chronologische Liste von Audio- und Filmaufnahmen mit Erfahrungsberichten zu Konzentrationslagern: Denken Sie an Kriegsprozesse, Fernsehen, Radio oder das Web.
 
-Remember to regularly save your entries in your answer template, as well as in the online timeline!
+Denken Sie daran, Ihre Recherchen zunächst in Ihrer Vorlage zu dokumentieren und sie dann in die Online-Zeitleiste einzufügen. So steht Ihnen die Basis Ihrer Inhalte jederzeit als Back-up auf Ihrem eigenen Computer zur Verfügung.
+Also remember to regularly save your entries in your answer template, as well as in the online timeline!
 
 <!-- section -->
 ### d. Copyright Law and the web

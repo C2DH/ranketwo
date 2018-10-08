@@ -3,94 +3,94 @@ layout: assignment
 unit: boder
 lang: fr
 type: assignment
-title: contributing to a timeline
+title: Contribuer à la création d'une frise chronologique sur la biographie de David Boder
 order: 1
 cover: /assets/images/attachments/12boxes/12boxes_01.png
 tags:
-  - historical consciousness
-  - consulting web resources
-  - comparing parallel societal developments
-  - conscious use of images on the web
+  - conscience historique
+  - consultation de ressources sur le web
+  - comparaison d'évolutions sociétales parallèles
+  - utilisation consciente d'images sur le web
 
 requirements: Fast WIFI connection, access to Ranke.2, computer or laptop, application on laptop or computer to view video, account on Tiki-Toki for timeline.
 
 outcomes:
-  - Learning to place a historical source, its creation, form and appearance into a broader societal context
-  - Learning the basic principle of an online timeline,
-  - learning to deal with intellectual property rights
+  - Apprendre à placer une source historique (création, forme et apparence) dans un contexte sociétal plus large.
+  - Connaître le principe de base d'une frise chronologique en ligne.
+  - Apprendre à gérer les droits de propriété intellectuelle.
 documents:
   - kuhn-temoin-traduction
 ---
 
-
-
-In the animation about David Boder's interview collection the focus is mostly on the creation and transformation from analogue source to online web resource. But the historical context also deserves some attention. Boder’s expertise and mindset were also the result of what he encountered during his life in terms of personal drawbacks, technological innovation, scientific progress and political conflict. This assignment introduces you to a digital tool with which you can create a timeline that can be populated and shared. The purpose is to make you aware of the historical context in which Boder’s historical sources were created by conducting critical web research.
+Dans l'animation que vous avez regardée, l'accent est mis essentiellement sur la création de la collection d'interviews de David Boder et leur transformation en ressources en ligne à partir de sources analogiques. Mais le contexte historique mérite également qu'on y prête attention. L'expertise et la mentalité de David Boder ont été façonnées par les événements auxquels il a été confronté au cours de sa vie : difficultés personnelles, innovations technologiques, progrès scientifiques et conflits politiques. Cet exercice vous présente un outil numérique permettant de créer une frise chronologique qui peut être complétée et partagée. L'idée est de vous renseigner sur le contexte historique dans lequel les sources historiques de D. Boder ont été créées. Vous effectuerez des recherches critiques sur Internet et contribuerez à la création d'une frise chronologique numérique.
 
 <!-- more -->
 
 
 
 <!-- briefing-student -->
-### Introduction
+### Instructions
 <!-- section-contents -->
-- Open the box **Boder’s biography** again, and read the various sections
-  https://allthingsmoving.com/DBinteractive/#Index
+- Ouvrez de nouveau la boîte intitulée **Biographie de David Boder** et lisez les différentes sections  
+  https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
   {: .headsup}
-- Go to the timeline [application Tiki-Toki](https://www.tiki-toki.com/)
-- Complete the credentials of the account that has been created for this assignment
+- Ouvrez l'application de création de frises chronologiques [application Tiki-Toki](https://www.tiki-toki.com/){:target="_blank"}
+- Saisissez les données de connexion du compte créé pour cet exercice
 
-    Username: **Assignment1TikiToki**
-    Password: **davidboder**
+    Nom d'utilisateur: **Assignment1TikiToki**  
+    Mot de passe: **davidboder**
 
-You will see a timeline with only dates that relate to David Boder’s life.
-This is the basis to complete the assignments below.
+Vous verrez une frise chronologique avec les dates clés de la vie de David Boder.
+Cette frise sert de base pour effectuer l'exercice ci-dessous.
 If you need more guidance, then follow the step by step instructions provided in [this tutorial](https://docs.google.com/document/d/1T3tyqnxxN9C1XT1SFvQ8PF6axZRX_EitGElhcuZ7g9c/edit?usp=sharing/)
 
 <!-- section -->
-### a. Create an entry in one of the dates in the timeline
+
+
+### 1.a Créez des entrées sous deux des dates dans la frise chronologique | 10 min
 <!-- section-contents -->
--      The chronological sequence of dates needs to be complemented with information.
+-      La séquence chronologique de dates doit être complétée par des informations supplémentaires.
 
-Choose two dates to create an entry.
-For more background information on Boder besides what is provided in the black box, you can click on  ‘links’, the last section of Boder’s biography, and consult the following resources:
+Choisissez deux dates pour créer des entrées.  
+Pour obtenir des informations générales sur les entrées possibles, cliquez sur la boîte « liens » (dernière section de la biographie de D. Boder). Consultez ensuite le site web Voix de l'Holocauste et regardez la vidéo intitulée 5 min d'histoire.
 
-- Voices of the Holocaust
-- Clip 5 min History.
+- Ouvrez votre modèle et allez dans le tableau de l'exercice 1a.
+- Rédigez deux entrées de 100 mots maximum.
+- Recherchez des images appropriées sur internet et insérez dans le tableau les liens vers ces images.
+- Faites un couper-coller des entrées et des liens vers les photos dans la frise chronologique en suivant les instructions fournies dans le tutoriel.
+N'oubliez pas de sauvegarder vos entrées.
 
-- Open your template and go to the table for assignment 1a
-- Write 2 entries of max 100 words in the appropiate field.
-- Look for an appropriate image on the web and copy the links to these images in the same field
-Now cut and paste the entries and the links to the photos and place them in the timeline (if it is not clear how to proceed, read the tutorial)
-Remember to regularly save your entries in your answer template, as well as in the online timeline!
+
 
 
 <!-- section -->
-### b. Create two new entries with text and images in the timeline
+### 1.b  Créez deux nouvelles entrées avec du texte et des images dans la frise chronologique | 20 min
 <!-- section-contents -->
-These can be subjects related to Boder’s life, such as:
-When and  where did Boder study?
-When was the wire recorder invented?
-When were the American Newsreels about the camps shown to the American audience?
+Elles peuvent couvrir des sujets liés à la vie de David Boder, tels que :
+Où et quand D. Boder a-t-il fait ses études ?
+Quand l'enregistreur à fil a-t-il été inventé ?
+Quand les films d'actualités américains sur les camps de concentration ont-ils été diffusés auprès d'un public américain ?
 Document your findings in the appropiate field in the template
 
 <!-- section -->
-### c. Create a new account and a new timeline
+### 1.c  Créez un nouveau compte et une nouvelle frise chronologique | 120 min
 <!-- section-contents -->
-Follow the instructions that are provided in the Tutorial
+Suivez les instructions fournies dans le tutoriel.
 
-Put together at least 4 entries on a timeline about a topic  that is related either to Boder’s course of life, or to other early accounts on experiences in concentration camps.  You could consider:
+Créez au moins quatre entrées sur la frise traitant d'un sujet lié à la vie de David Boder ou à d'autres témoignages sur les camps de concentration. Ces entrées peuvent porter sur :
 
-Politics and societal developments:    Think of the political situation of the countries in which Bode lived or travelled to: Latvia, Russia, Siberia, Japan, Mexico, United States, Europe.
+Les évolutions politiques et sociétales : pensez à la situation politique des pays dans lesquels David Boder a vécu ou voyagé : Lettonie, Russie, Sibérie, Japon, Mexique, États-Unis, pays européens.
 
-Technology :     Think of  inventions with regard to recording or communication technology.
+La technologie : pensez aux inventions en matière d'enregistrement et de technologies de la communication.
 
-The History of Psychology :  Think of the developments in this science and the creation of the American National Mental Health Institution.
+L'histoire de la psychologie : pensez aux progrès enregistrés dans cette science et à la création de l'Association américaine pour la santé mentale.
 
-The history of  interview collections:  Who introduced creating collections of recordings of people’s experiences ?
+L'histoire des collections d'interviews : qui a émis l'idée de créer des collections d'enregistrements sur les expériences des personnes ?
 
-A chronological list of audio and film recordings with testimonies of experiences in concentration camps: Think of war trials, television, radio, the web
+Une liste chronologique d'enregistrements audio et vidéo avec des témoignages sur les camps de concentration : pensez aux procès d'après-guerre, à la télévision, à la radio, au web.
 
-Remember to regularly save your entries in your answer template, as well as in the online timeline!
+N'oubliez pas de documenter vos recherches dans votre modèle avant de les coller dans la frise chronologique en ligne. Ainsi, vous aurez toujours une sauvegarde de la base de votre contenu dans votre ordinateur.
+Also remember to regularly save your entries in your answer template, as well as in the online timeline!
 
 <!-- section -->
 ### d. Copyright Law and the web

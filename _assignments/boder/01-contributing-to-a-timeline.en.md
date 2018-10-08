@@ -34,10 +34,10 @@ In the animation you watched the focus is mostly on the creation and transformat
 - Open the box **Boder’s biography** again, and read the various sections
   https://allthingsmoving.com/DBinteractive/#Index
   {: .headsup}
-- Go to the timeline [application Tiki-Toki](https://www.tiki-toki.com/)
+- Go to the timeline [application Tiki-Toki](https://www.tiki-toki.com/){:target="_blank"}
 - Fill in the login details of the account that has been created for this assignment
 
-    Username: **Assignment1TikiToki**
+    Username: **Assignment1TikiToki**  
     Password: **davidboder**
 
 You will see a timeline with dates that relate to David Boder’s life.
@@ -51,7 +51,7 @@ If you need more guidance, then follow the step by step instructions provided in
 <!-- section-contents -->
 -      The chronological sequence of dates needs to be complemented with information.
 
-Choose two dates to create entries.
+Choose two dates to create entries.  
 For more background information on Boder besides what is provided in the black box, go to the box "links", the last section of Boder’s biography, and consult the following resources:
 
 - Voices of the Holocaust
