@@ -6,12 +6,12 @@ type: assignment
 title:  The analogue wire recorder compared to digital audio recording
 cover: /assets/images/attachments/12boxes/12boxes_02.png
 order: 2
-tags: History of communication technology, obsolete recording devices
-requirements: strong WIFI, accesso to Ranke.2, computer or laptop, application on laptop or computer to view video, account for timeline,
+tags: 
+ - history of communication technology
+ - obsolete recording devices
 outcomes:
-  - learning the physics of audio recording in analogue and digital form
-  - understanding the dependency on technology for the spread of knowledge
-
+ - Learning about the physics of audio recording in analogue and digital form
+ - Understanding how we depende on technology for the spread of knowledge
 ---
 
 briefing lecturer

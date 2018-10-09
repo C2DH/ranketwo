@@ -12,3 +12,6 @@ primary:
     - title: Lessons
       href: /teaching-modules/
       active_layout: unit
+    - title: Who we are
+      href: Who we are
+      
