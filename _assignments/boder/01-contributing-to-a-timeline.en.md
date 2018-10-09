@@ -31,7 +31,7 @@ In the animation you watched the focus is mostly on the creation and transformat
 ### Instruction
 <!-- section-contents -->
 
-- Open the box [**Boder’s biography**](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro) again, and read the various sections
+- Open the box [**Boder’s biography**](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"} again, and read the various sections
   {: .headsup}
 - Go to the timeline [application Tiki-Toki](https://www.tiki-toki.com/){:target="_blank"}
 - Fill in the login details of the account that has been created for this assignment
@@ -106,16 +106,16 @@ the web-environment is not public, by working in a password protected
 environment.
 
 - Check which of the images that you have used for your timeline are
-open source and which ones can used w only be used with permission.
+open source and which ones can only be used with permission.
 Where can you find this information if you search on the web?
 
 - Write a short abstract of 150-words in your template on what you have found on the web, and what you can do with it.
 
-  1. See [this document](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/481194/c-notice-201401.pdf) For an overview about handling copyright in the United Kingdomn.
-  2. See [this video clip](https://youtu.be/1DKm96Ftfko) on the principles of Creative Commons.
+  1. See [this document](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/481194/c-notice-201401.pdf){:target="_blank"} For an overview about handling copyright in the United Kingdomn.
+  2. See [this video clip](https://youtu.be/1DKm96Ftfko){:target="_blank"} on the principles of Creative Commons.
   3. See this overview on copyright in French (to add document Cecile).
-  4. See [this clip]( https://vimeo.com/36881035) about the origin and history of copyright.
-  5.  For  websites that offer images free of copyright click on one of the links below:
+  4. See [this clip]( https://vimeo.com/36881035){:target="_blank"} about the origin and history of copyright.
+  5.  For  websites that offer images free of copyright click on one of the links below:  
       https://ccsearch.creativecommons.org
       https://www.flickr.com/creativecommons/
       https://www.flickr.com/commons/usage/

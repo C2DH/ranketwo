@@ -27,9 +27,11 @@ In der gezeigten Animation liegt der Schwerpunkt überwiegend auf der Schaffung 
 <!-- more -->
 
 <!-- briefing-student -->
+
 ### Anweisung
 <!-- section-contents -->
-- Öffnen Sie die Box [**Boders Biografie**](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro) erneut und lesen Sie die verschiedenen Abschnitte  
+
+- Öffnen Sie die Box [**Boders Biografie**](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"} erneut und lesen Sie die verschiedenen Abschnitte  
   {: .headsup}
 - Gehen Sie zur [Tiki-Toki-Zeitleiste-App](https://www.tiki-toki.com/){:target="_blank"}
 - Geben Sie die Login-Daten des Accounts ein, der im Rahmen dieser Aufgabe eingerichtet wurde
@@ -101,11 +103,11 @@ Where can you find this information if you search on the web?
 
 - Fassen Sie in Ihrer Vorlage kurz zusammen (150 Wörter), was Sie im Web gefunden haben und was Sie damit tun können. 
 
-  1. Ausführliche Informationen zum Umgang mit Urheberrechten finden Sie [hier](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/481194/c-notice-201401.pdf).  
-  2. Einen Videoclip zu den Creative-Commons-Prinzipien finden Sie [hier](https://youtu.be/1DKm96Ftfko).
+  1. Ausführliche Informationen zum Umgang mit Urheberrechten finden Sie [hier](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/481194/c-notice-201401.pdf){:target="_blank"}.  
+  2. Einen Videoclip zu den Creative-Commons-Prinzipien finden Sie [hier](https://youtu.be/1DKm96Ftfko){:target="_blank"}.
   3. französische Version hier. (to add document Cecile).
-  4. Einen Videoclip zu Ursprüngen und Geschichte des Urheberrechts können Sie [hier](https://vimeo.com/36881035) abrufen.
-  5. Websites, die lizenzfreie Bilder anbieten, finden Sie unter den nachfolgenden Links:
+  4. Einen Videoclip zu Ursprüngen und Geschichte des Urheberrechts können Sie [hier](https://vimeo.com/36881035){:target="_blank"} abrufen.
+  5. Websites, die lizenzfreie Bilder anbieten, finden Sie unter den nachfolgenden Links:  
       https://ccsearch.creativecommons.org
       https://www.flickr.com/creativecommons/
       https://www.flickr.com/commons/usage/

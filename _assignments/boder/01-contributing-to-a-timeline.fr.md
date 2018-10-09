@@ -31,7 +31,7 @@ Dans l'animation que vous avez regardée, l'accent est mis essentiellement sur l
 ### Instructions
 <!-- section-contents -->
 
-- Ouvrez de nouveau la boîte intitulée [**Biographie de David Boder**](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro) et lisez les différentes sections  
+- Ouvrez de nouveau la boîte intitulée [**Biographie de David Boder**](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"} et lisez les différentes sections  
   {: .headsup}
 - Ouvrez l'application de création de frises chronologiques [application Tiki-Toki](https://www.tiki-toki.com/){:target="_blank"}
 - Saisissez les données de connexion du compte créé pour cet exercice
@@ -103,10 +103,10 @@ Where can you find this information if you search on the web?
 
 - Dans votre modèle, rédigez un bref résumé de 150 mots sur les ressources trouvées sur internet en mentionnant ce que vous pouvez en faire.
 
-  1. Pour en savoir plus sur la gestion des droits d'auteur, veuillez [cliquer ici](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/481194/c-notice-201401.pdf).
-  2. Pour visualiser une vidéo sur les principes de Creative Commons, veuillez [cliquer ici](https://youtu.be/1DKm96Ftfko).
+  1. Pour en savoir plus sur la gestion des droits d'auteur, veuillez [cliquer ici](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/481194/c-notice-201401.pdf){:target="_blank"}.
+  2. Pour visualiser une vidéo sur les principes de Creative Commons, veuillez [cliquer ici](https://youtu.be/1DKm96Ftfko){:target="_blank"}.
   3. Pour la version française, cliquez ici. (to add document Cecile).
-  4. Pour visualiser une vidéo sur l'origine et l'histoire des droits d'auteur, veuillez [cliquer ici](https://vimeo.com/36881035).
+  4. Pour visualiser une vidéo sur l'origine et l'histoire des droits d'auteur, veuillez [cliquer ici](https://vimeo.com/36881035){:target="_blank"}.
   5. Pour accéder aux sites web proposant des images libres de droits, veuillez cliquer sur les liens ci-dessous :
       https://ccsearch.creativecommons.org
       https://www.flickr.com/creativecommons/
