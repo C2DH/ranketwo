@@ -1331,3 +1331,16 @@
     url: 'https://youtu.be/KVWDX6oaYCg'
     _id: c01aadc569b84991ba459f2835ca7ac1
     _resolved: true
+-
+    title: 'Tutorial Tiki'
+    slug: tutorial-tiki
+    type: pdf
+    data:
+        title:
+            en_us: 'Tutorial Tiki'
+        author: Scagliola
+        date:
+            en_us: 2018
+        year: 2018
+    attachment: /assets/pdf/tutorial-tiki.pdf
+    _id: ab73a3c4c55245e3b02ed2692d463f6d
