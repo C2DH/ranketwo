@@ -93,34 +93,25 @@ Denken Sie daran, Ihre Recherchen zunächst in Ihrer Vorlage zu dokumentieren un
 Also remember to regularly save your entries in your answer template, as well as in the online timeline!
 
 <!-- section -->
-### d. Copyright Law and the web
+### 1.d  Urheberrecht und das Web | 130 Min
 <!-- section-contents -->
-For assignment 1b and 1c  you have to take into account the legal
-principles that exist with regard to the reuse of images on the web.
-Infringement of copyright can lead to high fines. The best way to
-protect yourself is to either use copyright free material, or to make sure
-the web-environment is not public, by working in a password protected
-environment.
-Check which of the images that you have used for your timeline are
-open source and which ones can used w only be used with permission.
+Bei den Aufgaben 1b und 1c müssen Sie den bestehenden Rechtsrahmen zur Wiederverwendung von Bildern aus dem Web beachten. Die Verletzung von Urheberrechten kann hohe Geldstrafen nach sich ziehen. Ideal ist, entweder urheberrechtsfreie Materialien zu verwenden oder sicherzustellen, dass die Web-Umgebung nicht öffentlich ist, indem in einer passwortgeschützten Umgebung gearbeitet wird.
+Überprüfen Sie, welche der Bilder, die Sie für Ihre Zeitleiste genutzt haben, lizenzfrei sind und welche nur mit Genehmigung genutzt werden dürfen.
 Where can you find this information if you search on the web?
 
-Write a short abstract in your template of 150 words on what you have found on the web, and what you can do with it.
+Fassen Sie in Ihrer Vorlage kurz zusammen (150 Wörter), was Sie im Web gefunden haben und was Sie damit tun können. 
 
 
 
-(what should be shown in a parallel box is this)
+1. Ausführliche Informationen zum Umgang mit Urheberrechten finden Sie [hier](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/481194/c-notice-201401.pdf).  
 
+2. Einen Videoclip zu den Creative-Commons-Prinzipien finden Sie [hier](https://youtu.be/1DKm96Ftfko).
 
-1. For an overview about handling copyright click here: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/481194/c-notice-201401.pdf
+3. französische Version hier. (to add document Cecile)
 
-2. For a video clip on the principles of Creative Commons click here: https://youtu.be/1DKm96Ftfko
+4. Einen Videoclip zu Ursprüngen und Geschichte des Urheberrechts können Sie [hier](https://vimeo.com/36881035) abrufen.
 
-   for French click here
-
-3.  For a clip about the origin and history of copyright click here: https://vimeo.com/36881035
-
-4..  For  websites that offer images free of copyright click on one of the links below:
+5. Websites, die lizenzfreie Bilder anbieten, finden Sie unter den nachfolgenden Links:
       https://ccsearch.creativecommons.org
       https://www.flickr.com/creativecommons/
       https://www.flickr.com/commons/usage/
@@ -129,13 +120,14 @@ Write a short abstract in your template of 150 words on what you have found on t
       https://www.europeana.eu/portal/en
       https://pixabay.com
 
-5. you can also set your settings in Google on free images:
-    http://images.google.com/advanced_image_search?hl=en
+5. Ebenso können Sie Google so konfigurieren, dass nur lizenzfreie Bilder angezeigt werden:
+    http://images.google.com/advanced_image_search?hl=de
 
 <!-- section -->
-### Reading / viewing suggestions
+### Empfehlungen Lektüre/Video
 <!-- section-contents -->
 Shotr bala black
-[ref](kuhn-temoin-traduction)
+- [ref](kuhn-temoin-traduction)
+- You can also link with [cit](kuhn-temoin-traduction)
 
 <!-- briefing-teacher -->
