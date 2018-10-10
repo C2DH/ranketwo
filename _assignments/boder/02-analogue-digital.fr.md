@@ -44,7 +44,7 @@ Certains se demandent peut-être pourquoi les étudiants en sciences humaines de
 
 <!-- section -->
 
-### Suggestions de lectures/vidéos :  
+### Suggestions de lectures/vidéos
 <!-- section-contents -->
 
 - Pour visualiser une vidéo expliquant comment un enregistreur à fil a été reconstruit à l'université d'Akron aux États-Unis, veuillez [cliquer ici](https://www.youtube.com/watch?v=sOyOH_kWAdQ){:target="_blank"}.

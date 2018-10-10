@@ -44,7 +44,7 @@ One might wonder why students of a humanities discipline should learn about the 
 
 <!-- section -->
 
-### Reading/viewing  suggestions:  
+### Reading/viewing  suggestions
 <!-- section-contents -->
 
 - A clip on [how a wire recorder was reconstructed](https://www.youtube.com/watch?v=sOyOH_kWAdQ){:target="_blank"} at Akron University in the US.

@@ -3,95 +3,79 @@ layout: assignment
 unit: boder
 lang: fr
 type: assignment
-title: Different ways of documenting people’s accounts of the Holocaust
+title: Les différentes façons de documenter les témoignages sur l'Holocauste
 cover: /assets/images/attachments/12boxes/12boxes_03.png
 order: 3
 tags:
-  - methods of research
-  - data collection
-  - interview protocols
-  - digital archives
-  - privacy
-  - oral history
-  - qualitative data
-
+  - méthodes de recherche
+  - collecte de données
+  - protocoles d'interview
+  - archives numériques
+  - vie privée
+  - histoire orale
+  - données qualitatives
 outcomes:
-
-  - understanding how the method for the collection of data impacts its informative value for future researchers
-  - understanding the limitations and affordances of online access to databases with personal narratives.
-
-
+  - Comprendre dans quelle mesure la méthode utilisée pour recueillir des données a un impact sur sa valeur informative pour les futurs chercheurs.
+  - Comprendre les limites et les avantages de l'accès en ligne aux bases de données regroupant des récits personnels.
 ---
 
-When reflecting on the value and meaning of a source that has
-been published on the web, it is important to take the context of
-its creation into consideration.Turning everything into searchable
-digital data, creates the risk of disregarding the different methods
-and approaches that researchers used when they created the data.
-This assignment is meant to give an impression of the differences between
-the accounts of Holocaust survivors that were summarized in
-written reports, and those recorded on a device by Boder.
-
+Lorsque l'on réfléchit à la valeur et à la signification d'une source publiée sur internet, il est important de prendre en compte le contexte de sa création. Tout transformer en données numériques consultables augmente le risque de faire abstraction des différentes méthodes et approches utilisées par les chercheurs pour créer leurs données. Cet exercice a pour objectif de mettre en évidence les différences entre les témoignages des survivants de l'Holocauste résumés par écrit et ceux enregistrés sur un appareil par David Boder. Tous ces témoignages sont accessibles en ligne, mais quelles sont leurs différences ? Quelles choses qu'il n'était pas possible de faire quand les témoignages étaient conservés dans des archives pouvez-vous faire avec ce support ?
 
 <!-- more -->
 
-
-
-
-
-
 <!-- briefing-student -->
 
-
-<!--section -->
-### 3a Source Criticism
+### Instructions
 <!-- section-contents -->
-Go to the Tab  On DEGOB and click on The Protocols. Read the text on the methodology that was applied.
-Go to the website Voices of the Holocaust, and open the Tab About the Project, read the first three sub tabs: David Boder, Voices Project, Project Notes.
-Apply source criticism to both the Hungarian testimonies and Boder’s interviews by completing the table in your template
 
-<!--section -->
-### 3b  A first exploration of the archives: how verbs are used
+- Ouvrez la boîte [Premiers témoignages sur l'Holocauste](https://allthingsmoving.com/DB_interactiv){:target="_blank"} et lisez les différentes sections.
+
+<!-- section -->
+
+### 3.a  Critique des sources | 10 min
 <!-- section-contents -->
-Go to the website with the collection of protocols collected by the Hungarian National Commission for  Deportees http://degob.org/.
-Search with the key word ‘help’ to get an idea of how search in
-interview summaries works.
-If you go through the first 5 hits by using  `Control F`, you can trace how the term ‘help’ has different positive and negative meanings in the reports.
-Try to do the same with http://voices.iit.edu/voices_project
-What strikes you when assessing the search results?
-Document the answers in your template
 
-<!--section -->
-### 3c A second exploration of the archives: how key characters are  represented
+- Allez dans l'onglet _À propos de DEGOB_ et cliquez sur _Les protocoles_. Lisez le texte sur la méthodologie appliquée.
+- Allez sur le site web _Voix de l'Holocauste_. Ouvrez l'onglet _À propos du projet_ et lisez les informations contenues dans les trois premiers sous-onglets : _David Boder, Projet Voix, Notes sur le projet_.
+- Appliquez la méthode de la critique des sources aux témoignages hongrois et aux interviews réalisées par David Boder en remplissant le tableau dans votre modèle.
+
+<!-- section -->
+
+### 3.b  Première exploration des archives : comment les verbes sont utilisés | 15 min
 <!-- section-contents -->
-Compare how a respondent describes the selection
-process for the gas  chambers and the role of
-SS-physician  Mengele, in protocol http://degob.org/index.php?showjk=131  with
-how this is done in Boder’s interview with Jola Gross.
 
-http://voices.iit.edu/interview?doc=grossJ&display=g
+- Allez sur le site web présentant la collection de protocoles recueillis par le [Comité national hongrois d'assistance aux déportés](http://degob.org/){:target="_blank"}.
+- Faites une recherche avec le mot clé « **help** » pour avoir une idée de la manière dont s'effectuent les recherches dans les résumés d'interviews. 
+- Si vous parcourez les cinq premiers résultats en utilisant le raccourci Ctrl + F, vous constaterez que ce terme a des connotations positives et négatives dans les récits. 
+- Essayez de faire la même chose sur le site [Voices of the Holocaust](http://voices.iit.edu/voices_project){:target="_blank"}.
+- Qu'est-ce qui vous frappe dans les résultats de votre recherche ? 
+- Notez vos réponses dans votre modèle.
 
-- What strikes you as different between the summarized interview and  the literal transcript of the interview?
-- Document the answer in your template
+<!-- section -->
 
-<!--section -->
-### 3d     A third exploration of the archives: the identity of the speaker
+### 3.c  Deuxième exploration des archives : comment les principaux personnages sont représentés | 15 min
 <!-- section-contents -->
-Compare the protocol of a 15 year old girl in  http://degob.org/
-(select Female and date of birth 1931 in the search environment) with listening to the interview of Boder with 15 year old Edith Zierer.
 
-- What strikes you as different when comparing the two sources?
-- Document your findings in your template
+- Comparez la description du processus de sélection pour les chambres à gaz et du rôle du médecin SS Mengele faite par une personne interrogée dans le [protocole](http://degob.org/index.php?showjk=131){:target="_blank"} avec celle faite par [Jola Gross lors de son entretien avec D. Boder](http://voices.iit.edu/interview?doc=grossJ&display=g){:target="_blank"}.
+- Qu'est-ce qui vous semble différent entre l'interview résumée et la transcription littérale de l'interview ? 
+- Saisissez la réponse dans votre modèle.
 
-              * If you want to listen to Edith Zierer, you have to open a
-               Chrome Browser. Click on the small icon with an ‘ i ‘  and
-               allow  flash player and pop ups. Keep in mind that the
-               interview takes a long time to load, so you might carry on
-               with another assignment in the meantime.
+<!-- section -->
 
+### 3.d  Troisième exploration des archives : l'identité du locuteur | 15 min
+<!-- section-contents -->
 
+- Comparez le protocole d'une jeune fille de 15 ans publié sur le site [http://degob.org/](http://degob.org/){:target="_blank"} (sélectionnez Femme et date de naissance 1931 dans la rubrique Recherche) avec l'enregistrement audio de l'[entretien réalisé par David Boder avec Edith Zierer, âgée de 15 ans](http://voices.iit.edu/audio?doc=ziererE){:target="_blank"}<sup>*</sup>.
+- Qu'est-ce qui vous semble différent lorsque vous comparez ces deux sources ?
+- Notez vos observations dans votre modèle.
+              
+\* Pour écouter l'interview d'[Edith Zierer](http://voices.iit.edu/audio?doc=ziererE){:target="_blank"}, vous devez ouvrir le navigateur Chrome. Cliquez sur la petite icône « i » et autorisez Flash Player et les fenêtres contextuelles à s'exécuter. Veuillez noter que le chargement de l'interview est relativement long. Vous pouvez donc faire un autre exercice pendant ce temps.
+
+<!-- section -->
+
+### Suggestions de lectures/vidéos
+<!-- section-contents -->
+
+[Laura Jockusch; Collect and record](https://global.oup.com/academic/product/collect-and-record-97801997645%2056?cc=nl&lang=en&){:target="_blank"}
 
 <!-- briefing-teacher -->
-
-### Reading/viewing  suggestions:
-See [Collect and record](https://global.oup.com/academic/product/collect-and-record-97801997645%2056?cc=nl&lang=en&), Laura Jockusch
