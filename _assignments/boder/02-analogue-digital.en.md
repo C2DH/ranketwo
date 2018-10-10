@@ -14,36 +14,40 @@ outcomes:
  - Understanding how we depende on technology for the spread of knowledge
 ---
  
-One might wonder why students of a humanities discipline should learn about the obsolete technology of the wire recorder. The reason is to understand the difference between the physics of capturing sound in the analogue era and how this relates to the physics of digital technology. Practising digital source criticism is about more than just reflecting on the informational value of a historical source. It also means considering the transmitter of information and its material qualities. With digital information technology now so pervasive in our everyday life, it is important to understand the underlying physical phenomena and to be able to reflect on how the shift from analogue to digital has affected our use of technology. 
+One might wonder why students of a humanities discipline should learn about the obsolete technology of the wire recorder. The reason is to understand the difference between the physics of capturing sound in the analogue era and how this relates to the physics of digital technology. Practising digital source criticism is about more than just reflecting on the informational value of a historical source. It also means considering the transmitter of information and its material qualities. With digital information technology now so pervasive in our everyday life, it is important to understand the underlying physical phenomena and to be able to reflect on how the shift from analogue to digital has affected our use of technology.
+ 
 <!-- more -->
 
-
 <!-- briefing-student -->
+
 ### Instruction
 <!-- section-contents -->
--	Open the second box "How does the wire recorder work?" and watch[the animation](https://allthingsmoving.com/DB_interactive_2018_07_07/)
+
+- Open the second box "How does the wire recorder work?" and watch [the animation](https://allthingsmoving.com/DB_interactive_2018_07_07/){:target="_blank"}.
 
 <!-- section -->
+
 ### 2.a  Recordings and physics | 10 min
 <!-- section-contents -->
-What are the three principles of physics that play a role in the transfer of information on  a steel wire?
-Note the answer in your template.
+
+- What are the three principles of physics that play a role in the transfer of information on  a steel wire?
+- Note the answer in your template.
 
 <!-- section -->
+
 ### 2.b  Digital and analogue recording | 15 min
 <!-- section-contents -->
-Watch the clip about how a digital recorder works that you can find in the reading/viewing suggestions
-What is the key difference between analogue and digital recording?
-Note the answer in your template
+
+- Watch the clip about how a digital recorder works that you can find in the reading/viewing suggestions.
+- What is the key difference between analogue and digital recording?
+- Note the answer in your template.
 
 <!-- section -->
+
 ### Reading/viewing  suggestions:  
 <!-- section-contents -->
 
-  1. A clip on [how a wire recorder was reconstructed](https://www.youtube.com/watch?v=sOyOH_kWAdQ) at Akron
-     University in the US
-
-  2. An [article by historian Trevor Owens](http://www.trevorowens.org/2015/12/digital-sources-digital-archives-the-evidentiary-basis-of-digital-history-draft/) on how digitization
-     affects the character of a historical source click here:
+- A clip on [how a wire recorder was reconstructed](https://www.youtube.com/watch?v=sOyOH_kWAdQ){:target="_blank"} at Akron University in the US.
+- An [article by historian Trevor Owens](http://www.trevorowens.org/2015/12/digital-sources-digital-archives-the-evidentiary-basis-of-digital-history-draft/){:target="_blank"} on how digitization affects the character of a historical source.
 
 <!-- briefing-teacher -->

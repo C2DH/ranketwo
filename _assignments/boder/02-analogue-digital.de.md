@@ -3,54 +3,51 @@ layout: assignment
 unit: boder
 lang: de
 type: assignment
-title:  The analogue wire recorder compared to digital audio recording
+title: Das analoge Drahttonbandgerät im Vergleich zu digitalen Audioaufnahmen
 cover: /assets/images/attachments/12boxes/12boxes_02.png
 order: 2
 tags: 
- - history of communication technology
- - obsolete recording devices
+ - geschichte der Kommunikationstechnologie
+ - veraltete Aufnahmegeräte
 outcomes:
- - Learning about the physics of audio recording in analogue and digital form
- - Understanding how we depende on technology for the spread of knowledge
+ - Kenntnis der Physik von Audioaufnahmen in analoger und digitaler Form
+ - Verstehen, inwieweit wir zur Verbreitung von Wissen von Technologie abhängen
 ---
 
-briefing lecturer
-
-
-One might wonder why students of a humanities discipline
-should learn about the obsolete technology of the wire recorder.
-The reason is that practising digital source criticism is more than reflecting
-on the informational value of a historical source.
-It also means considering the transmitter of information and its material qualities.
-Considering the pervasiveness of digital information technology
-in our everyday life, it is important to understand the underlying
-physical phenomena and to be able to reflect on how the shift
-from analogue to digital affected our use of technology.
+Warum sich Studierende der Geisteswissenschaften mit der veralteten Technologie des Drahttonbandgeräts beschäftigen sollten, mag Fragen aufwerfen. Sinnvoll ist dies deswegen, weil so der Unterschied zur Physik der analogen Tonaufzeichnung erfasst und verstanden wird, inwieweit dies mit der Physik digitaler Technologie in Zusammenhang steht. Die Kritik an digitalen Quellen beschränkt sich nicht auf den Reflexionsprozess über den Informationswert einer historischen Quelle. Ebenso bezieht diese Kritik den Übermittler der Informationen und dessen materielle Merkmale ein. Da digitale Informationstechnologie aus unserem Alltag inzwischen nicht mehr wegzudenken ist, ist es wichtig, die zugrunde liegenden physikalischen Phänomene zu verstehen und eine Reflexion zu der Frage durchführen zu können, wie die Umstellung von der analogen auf digitale Technik unsere Nutzung von Technologie beeinflusst hat.
 
 <!-- more -->
 
-
 <!-- briefing-student -->
 
-### 2a Recordings and physics
+### Anweisung
 <!-- section-contents -->
-What are the three principles of physics that play a role in the transfer of information on  a steel wire?
-Document the answer in your template.
+
+- Öffnen Sie die zweite Box How does the wire recorder work? und sehen Sie sich [die Animation](https://allthingsmoving.com/DB_interactive_2018_07_07/){:target="_blank"}.
 
 <!-- section -->
-### 2b Digital and analogue recording
+
+### 2.a  Aufnahmen und Physik | 10 min
 <!-- section-contents -->
-Watch this clip about how a digital recorder works
-What is the key difference between analogue and digital recording?
-Document the answer in your template
+
+- Welche drei physikalischen Gesetze spielen eine Rolle bei der Übertragung von Informationen auf Stahldraht?
+- Notieren Sie die Antwort auf Ihrer Vorlage.
+
+<!-- section -->
+
+### 2.b  Digitale und analoge Aufnahmen | 15 min
+<!-- section-contents -->
+
+- Sehen Sie sich diesen Videoclip zur [Funktionsweise eines digitalen Aufzeichnungsgeräts](https://www.youtube.com/watch?v=SfEXnX__X9Y&feature=youtu.be){:target="_blank"} an.
+- Welches ist der wesentliche Unterschied zwischen analogen und digitalen Aufnahmen?
+- Notieren Sie die Antwort auf Ihrer Vorlage.
+
+<!-- section -->
+
+### Empfehlungen Lektüre/Video  
+<!-- section-contents -->
+
+- Einen Clip zum Nachbau eines Drahttonbandgeräts an der Akron University in den USA finden Sie [hier](https://www.youtube.com/watch?v=sOyOH_kWAdQ){:target="_blank"}.
+- Einen Artikel des Historikers Trevor Owens zu der Frage, wie Digitalisierung die Merkmale einer historischen Quelle beeinflusst, finden Sie [hier](http://www.trevorowens.org/2015/12/digital-sources-digital-archives-the-evidentiary-basis-of-digital-history-draft/){:target="_blank"}.
 
 <!-- briefing-teacher -->
-
-
-### Reading/viewing  suggestions:  
-
-  1. A clip on [how a wire recorder was reconstructed](https://www.youtube.com/watch?v=sOyOH_kWAdQ) at Akron
-     University in the US
-
-  2. An [article by historian Trevor Owens](http://www.trevorowens.org/2015/12/digital-sources-digital-archives-the-evidentiary-basis-of-digital-history-draft/) on how digitization
-     affects the character of a historical source click here:

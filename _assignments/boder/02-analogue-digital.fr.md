@@ -7,48 +7,47 @@ title: Comparaison entre l'enregistreur analogique à fil et l'enregistrement au
 cover: /assets/images/attachments/12boxes/12boxes_02.png
 order: 2
 tags: 
- - history of communication technology
- - obsolete recording devices
+ - histoire des technologies de la communication
+ - enregistreurs obsolètes
 outcomes:
- - Learning about the physics of audio recording in analogue and digital form
- - Understanding how we depende on technology for the spread of knowledge
+ - Connaître les principes physiques de l'enregistrement audio sous forme analogique et numérique
+ - Comprendre à quel point nous dépendons des technologies pour la diffusion des connaissances
 ---
 
-
-One might wonder why students of a humanities discipline
-should learn about the obsolete technology of the wire recorder.
-The reason is that practising digital source criticism is more than reflecting
-on the informational value of a historical source.
-It also means considering the transmitter of information and its material qualities.
-Considering the pervasiveness of digital information technology
-in our everyday life, it is important to understand the underlying
-physical phenomena and to be able to reflect on how the shift
-from analogue to digital affected our use of technology.
+Certains se demandent peut-être pourquoi les étudiants en sciences humaines devraient connaître la technologie obsolète de l'enregistreur à fil. L'objectif est de comprendre la différence entre les principes physiques de l'enregistrement sonore à l'ère analogique et leur rapport avec ceux de la technologie numérique. Porter un regard critique sur les sources numériques ne consiste pas simplement à réfléchir à la valeur informative d'une source historique. Cela implique également de considérer le moyen de transmission de l'information et ses qualités matérielles. Étant donné que les technologies numériques de l'information sont désormais omniprésentes dans notre vie quotidienne, il est important de comprendre leurs phénomènes physiques sous-jacents et d'avoir l'occasion de réfléchir à la manière dont le passage de l'analogique au numérique a affecté notre utilisation de la technologie.
 
 <!-- more -->
 
-
 <!-- briefing-student -->
 
-### 2a Recordings and physics
+### Instruction
 <!-- section-contents -->
-What are the three principles of physics that play a role in the transfer of information on  a steel wire?
-Document the answer in your template.
+
+- Ouvrez la deuxième boîte _Comment fonctionne l'enregistreur à fil ?_ et suivez [l'animation](https://allthingsmoving.com/DB_interactive_2018_07_07/){:target="_blank"}.
 
 <!-- section -->
-### 2b Digital and analogue recording
+
+### 2.a  Enregistrement et principes physiques | 10 min
 <!-- section-contents -->
-Watch this clip about how a digital recorder works
-What is the key difference between analogue and digital recording?
-Document the answer in your template
+
+- Quels sont les trois principes physiques jouant un rôle dans le transfert d'informations sur un fil d'acier ?
+- Saisissez la réponse dans votre modèle.
+
+<!-- section -->
+
+### 2.b  Enregistrement numérique/analogique | 15 min
+<!-- section-contents -->
+
+- Visualisez la vidéo sur le [fonctionnement d'un enregistreur numérique](https://www.youtube.com/watch?v=SfEXnX__X9Y&feature=youtu.be){:target="_blank"}.
+- Quelle est la différence fondamentale entre l'enregistrement analogique et l'enregistrement numérique ?
+- Saisissez la réponse dans votre modèle.
+
+<!-- section -->
+
+### Suggestions de lectures/vidéos :  
+<!-- section-contents -->
+
+- Pour visualiser une vidéo expliquant comment un enregistreur à fil a été reconstruit à l'université d'Akron aux États-Unis, veuillez [cliquer ici](https://www.youtube.com/watch?v=sOyOH_kWAdQ){:target="_blank"}.
+- Pour lire un article de l'historien Trevor Owens sur la manière dont la numérisation affecte la nature d'une source historique, veuillez [cliquer ici](http://www.trevorowens.org/2015/12/digital-sources-digital-archives-the-evidentiary-basis-of-digital-history-draft/){:target="_blank"}.
 
 <!-- briefing-teacher -->
-
-
-### Reading/viewing  suggestions:  
-
-  1. A clip on [how a wire recorder was reconstructed](https://www.youtube.com/watch?v=sOyOH_kWAdQ) at Akron
-     University in the US
-
-  2. An [article by historian Trevor Owens](http://www.trevorowens.org/2015/12/digital-sources-digital-archives-the-evidentiary-basis-of-digital-history-draft/) on how digitization
-     affects the character of a historical source click here:
