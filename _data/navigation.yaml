@@ -8,10 +8,9 @@ primary:
       href: /introduction/
     - title: Structure of Lessons
       href: /structure-of-teaching-modules/
-
     - title: Lessons
       href: /teaching-modules/
       active_layout: unit
     - title: Who we are
-      href: Who we are
+      href: /who-we-are/
       
