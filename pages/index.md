@@ -5,9 +5,6 @@ permalink: /
 link: /
 title: A series of lessons on Digital Source Criticism
 videos:
-   -
-    id: 'writing'
-    caption: "*To be defined"
   -
     id: 'caves'
     caption: "*To be defined"
