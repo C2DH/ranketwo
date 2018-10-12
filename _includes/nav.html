@@ -5,7 +5,9 @@
     </button>
 
     <div class='navbar-text'>
-      <img style='height:40px;' src='{{ "assets/images/c2dh-logo-cyan.svg" | relative_url}}' alt='a C2DH production'>
+      <a href="https://www.c2dh.uni.lu{% if page.lang != site.default_lang %}/{{page.lang}}{% endif %}" target="_blank">
+        <img style='height:40px;' src='{{ "assets/images/c2dh-logo-cyan.svg" | relative_url}}' alt='a C2DH production'>
+      </a>
     </div>
     <!-- <a class="navbar-brand{% if page.link == "/" %} active{% endif %}"  {% if page.lang == site.default_lang %} href='{{"/" | absolute_url}}'' {% else %} href="{{page.lang | absolute_url}}/" {% endif %}>{{site.title}}</a> -->
     <a class="navbar-brand mx-auto d-block"  {% if page.lang == site.default_lang %} href='{{"/" | absolute_url}}' {% else %} href="{{page.lang | absolute_url}}/" {% endif %}>
@@ -20,7 +22,9 @@
     {% endfor %}
     </ul> -->
     <div class='navbar-text'>
-      <img style='height:30px;' src='{{ "assets/images/unilu-logo-cyan.svg" | relative_url}}' alt='university of Luxembourg'>
+      <a href="https://www{{page.lang}}.uni.lu" target="_blank">
+        <img style='height:30px;' src='{{ "assets/images/unilu-logo-cyan.svg" | relative_url}}' alt='university of Luxembourg'>
+      </a>
     </div>
   </div>
 </nav>
