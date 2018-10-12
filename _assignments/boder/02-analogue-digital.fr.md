@@ -9,6 +9,7 @@ order: 2
 tags: 
  - histoire des technologies de la communication
  - enregistreurs obsolètes
+requirements: bonne connexion Wi-Fi, accès à Ranke.2, PC ou ordinateur portable, application installée sur le PC ou le portable permettant de visualiser des vidéos
 outcomes:
  - Connaître les principes physiques de l'enregistrement audio sous forme analogique et numérique
  - Comprendre à quel point nous dépendons des technologies pour la diffusion des connaissances

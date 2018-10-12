@@ -11,6 +11,7 @@ tags:
   - Metadaten
   - Eigentum
   - digitale Archive
+requirements: schnelles WLAN, Zugang zu Ranke.2, Computer oder Laptop, Anwendung auf Computer oder Laptop zum Abspielen von Videos
 outcomes:
   - Verstehen, wie Fotografien für verschiedene Zwecke genutzt werden können.
   - Verstehen, wie Digital- und Webtechnologien die Wiederverwendung von Fotografien erweitert haben.

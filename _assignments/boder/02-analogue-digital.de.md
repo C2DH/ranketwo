@@ -9,6 +9,7 @@ order: 2
 tags: 
  - geschichte der Kommunikationstechnologie
  - veraltete Aufnahmegeräte
+requirements: schnelles WLAN, Zugang zu Ranke.2, Computer oder Laptop, Anwendung auf Computer oder Laptop zum Abspielen von Videos
 outcomes:
  - Kenntnis der Physik von Audioaufnahmen in analoger und digitaler Form
  - Verstehen, inwieweit wir zur Verbreitung von Wissen von Technologie abhängen

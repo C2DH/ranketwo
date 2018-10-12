@@ -14,6 +14,7 @@ tags:
   - vie privée
   - histoire orale
   - données qualitatives
+requirements: bonne connexion Wi-Fi, accès à Ranke.2, PC ou ordinateur portable, application installée sur le PC ou le portable permettant de visualiser des vidéos
 outcomes:
   - Comprendre dans quelle mesure la méthode utilisée pour recueillir des données a un impact sur sa valeur informative pour les futurs chercheurs.
   - Comprendre les limites et les avantages de l'accès en ligne aux bases de données regroupant des récits personnels.

@@ -9,6 +9,7 @@ order: 2
 tags: 
  - history of communication technology
  - obsolete recording devices
+requirements: Fast WIFI connection, access to Ranke.2, computer or laptop, application on laptop or computer to view video.
 outcomes:
  - Learning about the physics of audio recording in analogue and digital form
  - Understanding how we depende on technology for the spread of knowledge

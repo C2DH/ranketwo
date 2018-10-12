@@ -14,6 +14,7 @@ tags:
   - Datenschutz
   - Oral History
   - qualitative Daten
+requirements: schnelles WLAN, Zugang zu Ranke.2, Computer oder Laptop, Anwendung auf Computer oder Laptop zum Abspielen von Videos
 outcomes:
   - Verstehen, wie sich das zur Datenerfassung genutzte Verfahren auf den Informationswert für künftige Forscher auswirkt.
   - Verstehen, welche Grenzen und Vorteile ein Online-Zugang zu Datenbanken mit Erfahrungsberichten besitzt.

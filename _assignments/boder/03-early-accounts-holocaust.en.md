@@ -14,6 +14,7 @@ tags:
   - privacy
   - oral history
   - qualitative data
+requirements: Fast WIFI connection, access to Ranke.2, computer or laptop, application on laptop or computer to view video.
 outcomes:
   - Understanding how the method used to collect data has an impact on its informative value for future researchers.
   - Understanding the limitations and benefits of online access to databases with personal narratives.

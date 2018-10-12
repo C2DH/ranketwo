@@ -11,6 +11,7 @@ tags:
   - metadata
   - ownership
   - digital archives
+requirements: Fast WIFI connection, access to Ranke.2, computer or laptop, application on laptop or computer to view video.
 outcomes:
   - Understanding how photographs can be used for different purposes,
   - Understanding how digital and web technologies have enhanced the re-use of photographs

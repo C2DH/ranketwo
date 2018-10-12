@@ -12,7 +12,7 @@ tags:
   - comparaison d'évolutions sociétales parallèles
   - utilisation consciente d'images sur le web
 
-requirements: Fast WIFI connection, access to Ranke.2, computer or laptop, application on laptop or computer to view video, account on Tiki-Toki for timeline.
+requirements: bonne connexion Wi-Fi, accès à Ranke.2, PC ou ordinateur portable, application installée sur le PC ou le portable permettant de visualiser des vidéos, compte pour la frise chronologique
 
 outcomes:
   - Apprendre à placer une source historique (création, forme et apparence) dans un contexte sociétal plus large.

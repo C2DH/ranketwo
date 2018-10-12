@@ -12,7 +12,7 @@ tags:
   - Vergleich paralleler gesellschaftlicher Entwicklungen
   - bewusste Verwendung von Bildern im Web
 
-requirements: Fast WIFI connection, access to Ranke.2, computer or laptop, application on laptop or computer to view video, account on Tiki-Toki for timeline.
+requirements: schnelles WLAN, Zugang zu Ranke.2, Computer oder Laptop, Anwendung auf Laptop oder Computer zum Abspielen von Videos, Account für Timeline
 
 outcomes:
   - Lernen, eine historische Quelle, unter Einbezug von Schaffung, Form und Erscheinungsbild, in einen breiten gesellschaftlichen Kontext zu rücken.
