@@ -21,7 +21,7 @@ Certains se demandent peut-être pourquoi les étudiants en sciences humaines de
 
 <!-- briefing-student -->
 
-### Instruction
+### Instructions
 <!-- section-contents -->
 
 - Ouvrez la deuxième boîte _Comment fonctionne l'enregistreur à fil ?_ et suivez [l'animation](https://allthingsmoving.com/DB_interactive_2018_07_07/){:target="_blank"}.

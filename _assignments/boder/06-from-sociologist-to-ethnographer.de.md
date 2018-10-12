@@ -3,44 +3,55 @@ layout: assignment
 unit: boder
 lang: de
 type: assignment
-title:  "Boder’s approach: from statistics to human expression"
+title: "Boders Ansatz: von der Statistik zur menschlichen Expression"
 cover: /assets/images/attachments/12boxes/12boxes_06.png
 order: 6
-tags: multimodality, capturing sound and images, access to audiovisual sources,
-requirements: strong WIFI, access to Ranke.2, computer or laptop,  application on labtop or computer to view video,
-learning outcomes:
-  - learning about the different modalities of an audiovisual source
-  - learning to distinguish the difference in character between a song as historical source, and film footage.
-
+tags: 
+  - Multimodalität
+  - Erfassung von Bild und Ton
+  - Zugang zu audiovisuellen Quellen
+requirements: schnelles WLAN, Zugang zu Ranke.2, Computer oder Laptop, Anwendung auf Computer oder Laptop zum Abspielen von Videos
+outcomes:
+  - Kenntnisse der verschiedenen Modi einer audiovisuellen Quelle.
+  - Lernen, die unterschiedliche Verwendung von Liedern als historische Quelle und Filmmaterial zu verstehen.
 ---
 
-Boder’s approach shifted from that of a classical social scientist looking for evidence, to that of an ethnographer documenting people’s expressions. The footage shown in this box was shot in Henonville, but it only shows moving images of people without sound. The sound is stored on a separate medium. This assignment is meant to make students aware of the multimodal dimension of a source, and how the web facilitates access to the different modalities. You will be asked to reflect on the context of creation, the context of preservation and the context of digitization of the material.
+Nachdem Boder zunächst als traditioneller Sozialwissenschaftler Beweise sammelte, dokumentierte er später als Ethnograf menschliche Ausdrucksformen. Das unter dieser Rubrik gezeigte Filmmaterial wurde in Henonville aufgenommen, zeigt aber nur bewegte Bilder von Menschen ohne Ton. Der Ton ist auf einem separaten Medium gespeichert. In dieser Aufgabe sollen die Studierenden die multimodale Dimension einer Quelle erfassen und lernen, wie das Web den Zugang zu diesen verschiedenen Modi erleichtert. Sie sollen dabei über den Kontext der Entstehung, Erhaltung und Digitalisierung des Materials reflektieren.
 
-Open the box "Boder’s approach"
-https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
-Watch the footage
 <!-- more -->
 
 <!-- briefing-student -->
 
-### 6a Reconstructing the sequence of transformations: film footage
+### Anweisung
 <!-- section-contents -->
-Try to reconstruct the steps in the creation and dissemination of the film footage and its presence online
-Document your findings in your template
 
-<!--section -->
-### 6b  Reconstructing the sequence of transformations: a song  
+- Öffnen Sie die Box [Boder’s approach](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"}.
+- Sehen Sie sich das Filmmaterial an.
+
+<!-- section -->
+
+### 6.a  Rekonstruktion der Abfolge der Transformationen: Filmmaterial | 20 min
 <!-- section-contents -->
-Listen to the songs through this link: https://centerhistorypsychology.wordpress.com/2016/09/02/dr-boder-and-the-missing-songs/
-Get information about how this song was composed through this link (still to be researched)
 
-Try to reconstruct the steps in the creation of the song,  its dissemination and its presence online.
-Document your findings in your template   
+- Versuchen Sie, die einzelnen Schritte bei Entstehung und Verbreitung des Filmmaterials und dessen Online-Präsenz zu rekonstruieren.
+- Notieren Sie Ihre Feststellungen auf Ihrer Vorlage.
 
+<!-- section -->
 
+### 6.b  Rekonstruktion der Abfolge der Transformationen: ein Lied | 20 min
+<!-- section-contents -->
+
+- Hören Sie sich die Lieder über [diesen Link](https://centerhistorypsychology.wordpress.com/2016/09/02/dr-boder-and-the-missing-songs/){:target="_blank"} an.
+- Tragen Sie über [diesen Link](){:target="_blank"} Informationen dazu zusammen, wie dieses Lied komponiert wurde.
+- Versuchen Sie, die einzelnen Schritte bei der Entstehung des Lieds sowie dessen Verbreitung und Online-Präsenz zu rekonstruieren.
+- Notieren Sie Ihre Feststellungen auf Ihrer Vorlage.   
+
+<!-- section -->
+
+### Empfehlungen Lektüre/Video
+<!-- section-contents -->
+
+- Siehe die Lektüreliste Kenntnisse zu Multimodalität.
+- Siehe die Website jiddischer Lieder  Gerben.
 
 <!-- briefing-teacher -->
-
-Reading/viewing  suggestions:
-See reading list multimodal literacy
-See website Jiddisch songs Gerben
