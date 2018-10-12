@@ -2,77 +2,74 @@
 layout: assignment
 unit: boder
 type: assignment
-title: Where did Boder conduct his interviews?
+title: Où David Boder a-t-il réalisé ses interviews ?
 cover: /assets/images/attachments/12boxes/12boxes_07.png
 order: 7
 lang: fr
-
-Learning outcomes:
+requirements: bonne connexion Wi-Fi, accès à Ranke.2, PC ou ordinateur portable, application installée sur le PC ou le portable permettant de visualiser des vidéos
+outcomes:
   - learning about circumstances in the displacement camps
   - learning to search with image recognition
   - learning to conduct web research
 ---
 
-Boder conducted his interviews in difficult circumstances.
-It was hard for him to find a quiet place
-where he could be alone with his interviewees.This affected
-the quality of his recordings, and  probably also the length of
-the interviews. To give you an idea of these circumstances and
-of the Displacement Camps as the first places of ‘knowledge
-production’, you can watch a video created by Yad Vashem on
-this topic.
-
-- Open the box ‘Where did Boder conduct his interviews’  and watch the clip about the displacement camps
-https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
-
+Comme le mentionne la vidéo, David Boder a réalisé ses interviews dans des conditions difficiles. Il avait du mal à trouver des endroits tranquilles pour être en tête à tête avec les personnes qu'il souhaitait interroger. Cela a affecté la qualité de ses enregistrements et a sans doute eu un impact sur la durée des interviews. Pour vous donner une idée de ces conditions, vous pouvez regarder une vidéo réalisée par Yad Vashem sur la situation dans les camps de déplacés.  
+Cet exercice vise à vous montrer que les camps de déplacés étaient les premiers lieux de « production de connaissances » sur l'Holocauste.
 
 <!-- more -->
 
 <!-- briefing-student -->
 
-
-### 7a  Envisioning a future life
-
+### Instructions
 <!-- section-contents -->
-The mindsets of the survivors housed in the Displacement Camps was clearly geared towards the future. But there is one
-reference    to commemoration projects.
-- Stop the clip when the poster is shown and take a print screen.
-- As the text is in Hebrew, you are going to use Google’s image recognition technology to find more information about the poster.
-- go to Google Image, click on the icon of the photo camera in the search bar, choose  ‘upload’ and upload the print screen of the poster.
-- You will find references to a collection of Jewish posters
-- Write a short abstract of max 150 words about this collection, based on applying source criticism to its website:
-- Who created the organisation?
-- Who created the website?
-- When did this happen?
-- On the basis of what financial means and with what purpose?
+
+- Ouvrez la boîte [Où David Boder a-t-il réalisé ses interviews ?](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"} et regardez la vidéo sur les camps de déplacés.
 
 <!-- section -->
-### 7b  Documenting the recent past
 
+### 7.a  Envisager un avenir | 15 min
 <!-- section-contents -->
-{: .headsup}
-Click on this link https://www.kedem-auctions.com/content/two-posters-issued-central-historical-commission-central-committee-liberated-jews-american
 
-Download the image, enlarge it, and read what it says in the left lower corner.
-Try to find the original place where this poster was created by conducting web research
-Who designed the poster? Where was it created? With what means?
+L'état d'esprit des survivants dans les camps de déplacés était clairement tourné vers l'avenir. Mais la vidéo contient une référence à des projets de commémoration.
+- Cliquez sur « Pause » lorsque l'affiche apparaît et faites une capture d'écran.
+- Le texte étant en hébreu, vous devez utiliser la technologie de reconnaissance d'images de Google pour trouver davantage d'informations sur cette affiche. 
+- Allez dans Google Images. Cliquez sur l'icône représentant un appareil photo dans la barre de recherche puis sur « Importer une image » pour charger la capture d'écran de l'affiche.
+- Vous trouverez des références à une collection d'affiches juives. 
+- Écrivez un résumé de 150 mots au maximum concernant cette collection en appliquant la méthode d'examen critique au site web correspondant :
+  - Qui a créé l'organisation ?
+  - Qui a créé le site web ?
+  - Quand ?
+  - Quelles ressources financières ont été utilisées ?
+  - Quel était l'objectif ?
 
 <!-- section -->
-### 7c  Displacement camps in 1945 and 1946
-<!-- section-contents -->
-Boder also visited Displacement Camps. On the website Voices of the Holocaust, a map is shown with all the locations that he visited.
-- Try to find out whether initiatives were taken up in these camps to document the experiencers of the inmates.
-- For your web research you can consult the following resources:                             
-https://www.ehri-project.eu/call-papers-life-aftermath-–-displaced-persons-displaced-children-and-child-survivors-move
-https://collections.ushmm.org/search/
-http://vhaonline.usc.edu/login (you have to create an account)
-http://www.dpcamps.org/listDPCampsbyTeamNo.pdf
 
+### 7.b  Documenter le passé récent | 20 min
+<!-- section-contents -->
+
+- Cliquez sur [ce lien](https://www.kedem-auctions.com/content/two-posters-issued-central-historical-commission-central-committee-liberated-jews-american){:target="_blank"}.
+- Téléchargez l'image, agrandissez-la et lisez ce qui est écrit dans le coin inférieur gauche.
+- Essayez de trouver l'endroit où cette affiche a été créée en effectuant des recherches sur internet.
+- Qui a conçu cette affiche ? Où a-t-elle été créée ? Avec quelles ressources ? Who published it on the web? 
+
+<!-- section -->
+
+### 7.c  Les camps de déplacés en 1945 et 1946 | 30 min
+<!-- section-contents -->
+
+- David Boder s'est également rendu dans des camps de déplacés. Le site web Voix de l'Holocauste contient une carte indiquant tous les endroits où il s'est rendu.
+- Essayer de découvrir si des initiatives ont été prises dans ces camps pour documenter les expériences des résidents. 
+- Pour vos recherches, vous pouvez consulter les ressources suivantes :                              
+  - [https://www.ehri-project.eu/call-papers-life-aftermath-–-displaced-persons-displaced-children-and-child-survivors-move](https://www.ehri-project.eu/call-papers-life-aftermath-–-displaced-persons-displaced-children-and-child-survivors-move){:target="_blank"}
+  - [https://collections.ushmm.org/search/](https://collections.ushmm.org/search/){:target="_blank"}
+  - [http://vhaonline.usc.edu/login](http://vhaonline.usc.edu/login){:target="_blank"} (vous devez créer un compte)
+  - [http://www.dpcamps.org/listDPCampsbyTeamNo.pdf](http://www.dpcamps.org/listDPCampsbyTeamNo.pdf){:target="_blank"}
+
+<!-- section -->
+
+### Suggestions de lectures/vidéos
+<!-- section-contents -->
+
+Lien vers la description d'un blog historique
 
 <!-- briefing-teacher -->
-
-
-
-Reading/viewing  suggestions:
-
-blog about historical blog

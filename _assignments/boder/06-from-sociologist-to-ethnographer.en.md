@@ -10,7 +10,7 @@ tags:
   - multimodality
   - capturing sound and images
   - access to audiovisual sources,
-requirements: strong WiFi, access to Ranke.2, computer or labtop,  application on labtop or computer to view video,
+requirements: strong WiFi, access to Ranke.2, computer or labtop,  application on labtop or computer to view video
 outcomes:
   - learning about the different modalities of an audiovisual source
   - learning to distinguish the difference in character between a song as a historical source and film footage.
