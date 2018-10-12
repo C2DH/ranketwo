@@ -3,74 +3,69 @@ layout: assignment
 unit: boder
 lang: fr
 type: assignment
-title: Who are these people? Photography and identity
+title: Qui sont ces personnes ? Photographie et identité
 order: 4
 cover: /assets/images/attachments/12boxes/12boxes_04.png
-tags: re-use of photographs, metadata, ownership, digital archives
+tags: 
+  - réutilisation des photographies
+  - métadonnées
+  - propriété
+  - archives numériques
 outcomes:
-- understanding how photographs can be used for different purposes,
-- understanding how digital and web technologies have enhanced the re-use of photographs
-- learning to trace the origin of a photo through web research
-
+  - Comprendre que les photographies peuvent être utilisées à différentes fins.
+  - Comprendre en quoi les technologies numériques et du web ont amélioré la réutilisation des photographies.
+  - Apprendre à déterminer l'origine d'une photo grâce aux recherches sur internet.
 ---
 
-
-In the animation about Boder, photographs of victims and of
-families have been used without clarifying their identity. This is
-done to create an association. The photo stands for a group or
-for a societal-cultural context. In a sense the same effect is
-created as Boder observed while watching the newsreels about
-the liberated concentration camps: people are portrayed
-as an anonymous group of persons, disregarding their
-individuality. This assignment invites you to search for
-the context in which these photos were made and who the people
-are that are portrayed.
-
+Dans l'animation sur David Boder, des photographies de victimes et de familles ont été utilisées sans préciser leur identité. Cela a pour but de créer une association. La photo représente un groupe ou un contexte socioculturel. En un sens, le même effet est créé avec les films d'actualités sur les camps de concentration libérés, comme l'a observé David Boder : les gens sont présentés comme des anonymes sans tenir compte de leur individualité.  
+Étant donné que cette leçon porte sur la critique des sources, nous avons tenté de retracer le contexte dans lequel ces photos ont été prises et de retrouver le nom des personnes photographiées. L'exercice invite les étudiants à identifier le contexte dans lequel ces photos ont été prises et à découvrir comment elles se sont retrouvées dans cette animation.
 
 <!-- more -->
 
-
-
 <!-- briefing-student -->
-### briefing
+
+### Instructions
 <!-- section-contents -->
-First open the box  Who are these liberated Prisoners, in https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro and read the text
-Then open the box Who are the people on these photos  and read the text
 
-{: .headsup}
+- Ouvrez la boîte Qui sont ces prisonniers libérés ? sur le site [https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"} et lisez le texte.
+- Ouvrez ensuite la boîte Qui sont ces personnes sur les photos ? et lisez le texte.
 
+<!-- section -->
 
-<!--section -->
-### 1a Online content, who is behind it?
+### 4.a  Qui se cache derrière le contenu en ligne ? | 20 min
 <!-- section-contents -->
-Try to find more background information about these photographs through additional web research
-Who created these photos?
-In which context?
-Who collected, documented and published them online?
-How can you get permission to reuse them?
-How can you be sure that the information you can find about these photos is trustful?
-How was the photo integrated into the animation?
-Document your findings in your template.
 
+- Essayez de trouver plus d'informations contextuelles sur ces photographies en effectuant d'autres recherches sur internet. 
+- Qui a pris ces photos ?
+- Dans quel contexte ?
+- Qui les a collectées, documentées et publiées en ligne ? 
+- Comment pouvez-vous obtenir l’autorisation de les réutiliser ?
+- Comment pouvez-vous vous assurer que les informations trouvées sur ces photos sont fiables ? 
+- Comment les photos ont-elles été intégrées dans l'animation ? 
+- Notez vos observations dans votre modèle. 
 
-<!--section -->
-### 1b Photos online used in the right historical context
+<!-- section -->
+
+### 4.b  Photos en ligne utilisées dans le contexte historique approprié | 20 min
 <!-- section-contents -->
-Compare the photo of the liberated prisoners in this interactive context with how it is used in:
 
-This context: http://www1.northbrook28.net/~mrench/Period%209%20Jack%27s%20Group/Jobs.html
+- Comparez la manière dont la photo des prisonniers libérés est utilisée dans ce contexte interactif avec la manière dont elle est utilisée dans : 
 
-and in this context: http://motlc.wiesenthal.com/site/pp.asp?c=gvKVLcMVIuG&b=394959
+  - [ce contexte](http://www1.northbrook28.net/~mrench/Period%209%20Jack%27s%20Group/Jobs.html){:target="_blank"}
 
-and in this context: http://australianews.today/2018/01/29/the-secret-love-of-the-auschwitz-tattooist/
+  - [ce contexte](http://motlc.wiesenthal.com/site/pp.asp?c=gvKVLcMVIuG&b=394959){:target="_blank"}
 
-What can you say about the photos of the families?
-Document your findings in your template.       
+  - [et ce contexte](http://australianews.today/2018/01/29/the-secret-love-of-the-auschwitz-tattooist/){:target="_blank"}
 
+- Que pouvez-vous dire au sujet des photos de famille ?
+- Notez vos observations dans votre modèle.  
+
+<!-- section -->
+
+### Suggestions de lectures/vidéos
+<!-- section-contents -->
+
+- [Photography and fictionality](https://drive.google.com/open?id=1NT4m-KnYk7yq5ZnubifAnW6TcJScGQkX){:target="_blank"}, par Jens Schröter
+- [Regarding the pain of others, images of horror](https://books.google.nl/books/about/Regarding_the_Pain_of_Others.html?id=XYo3AAAAQBAJ&source=kp_cover&redir_esc=y){:target="_blank"}, Susan Sontag
 
 <!-- briefing-teacher -->
-
-
-### Reading/viewing  suggestions:
-- [Photography and fictionality](https://drive.google.com/open?id=1NT4m-KnYk7yq5ZnubifAnW6TcJScGQkX), by Jens Schröter
-- [Regarding the pain of others, images of horror](https://books.google.nl/books/about/Regarding_the_Pain_of_Others.html?id=XYo3AAAAQBAJ&source=kp_cover&redir_esc=y), Susan Sontag
