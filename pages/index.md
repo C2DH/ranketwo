@@ -7,10 +7,10 @@ title: A series of lessons on Digital Source Criticism
 videos:
   -
     id: 'fashion'
-    caption: "to be defined"
+    caption: "*First show of fashionable shoes* Kurhaus, The Hague(NL), 4-2-1949, Polygoon-Profilti, Netherlands Institute of Sound and Vision<br>Publication online unknown, source [www.europeana.eu](https://www.europeana.eu/portal/en/record/2051906/data_euscreenXL_http___openbeelden_nl_media_71231.html?q=fashion+AND+RIGHTS%3A%2Acreative%2A+AND+NOT+RIGHTS%3A%2And%2A)" 
   -
     id: 'writing'
-    caption: "*Writing better social letters* by Coronet Instruction Films 1950<br>Publiction online 20-9-2013, source [archive.org](https://github.com/C2DH/ranketwo/edit/master/pages/index.md)"
+    caption: "*Writing better social letters* by Coronet Instruction Films 1950<br>Publication online 20-9-2013, source [archive.org](https://github.com/C2DH/ranketwo/edit/master/pages/index.md)"
   -
     id: 'caves'
     caption: "*Sequential animation, the first palaeolithic animated pictures* © Marc Azéma, grotte des Trois-Frères(Ariège), grotte   
