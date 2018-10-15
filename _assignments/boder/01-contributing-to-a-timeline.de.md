@@ -105,9 +105,8 @@ Where can you find this information if you search on the web?
 
   1. Ausführliche Informationen zum Umgang mit Urheberrechten finden Sie [hier](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/481194/c-notice-201401.pdf){:target="_blank"}.  
   2. Einen Videoclip zu den Creative-Commons-Prinzipien finden Sie [hier](https://youtu.be/1DKm96Ftfko){:target="_blank"}.
-  3. französische Version hier. (to add document Cecile).
-  4. Einen Videoclip zu Ursprüngen und Geschichte des Urheberrechts können Sie [hier](https://vimeo.com/36881035){:target="_blank"} abrufen.
-  5. Websites, die lizenzfreie Bilder anbieten, finden Sie unter den nachfolgenden Links:  
+  3. Einen Videoclip zu Ursprüngen und Geschichte des Urheberrechts können Sie [hier](https://vimeo.com/36881035){:target="_blank"} abrufen.
+  4. Websites, die lizenzfreie Bilder anbieten, finden Sie unter den nachfolgenden Links:  
       https://ccsearch.creativecommons.org
       https://www.flickr.com/creativecommons/
       https://www.flickr.com/commons/usage/
@@ -115,7 +114,7 @@ Where can you find this information if you search on the web?
       https://diva.sfsu.edu/collections/world
       https://www.europeana.eu/portal/en
       https://pixabay.com
-  6. Ebenso können Sie Google so konfigurieren, dass nur lizenzfreie Bilder angezeigt werden:
+  5. Ebenso können Sie Google so konfigurieren, dass nur lizenzfreie Bilder angezeigt werden:
     http://images.google.com/advanced_image_search?hl=de
 
 <!-- section -->
