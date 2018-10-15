@@ -6,6 +6,8 @@ type: assignment
 title:  "Boder’s approach: from statistics to human expression"
 cover: /assets/images/attachments/12boxes/12boxes_06.png
 order: 6
+documents:
+- gilbert-music-songs
 tags: 
   - multimodality
   - capturing sound and images
@@ -52,7 +54,7 @@ sect
 ### Reading/viewing  suggestions
 <!-- section-contents -->
 
-- to do See reading list multimodal literacy.
-- to do See website Yiddisch songs Gerben.
-
+- Listen to a radio service broadcasted on 16-5-2015 from the National Public Radio in the US on [Songs from Holocaust survivors](https://www.npr.org/2015/05/16/406967291/1-000-songs-from-holocaust-survivors-archived?t=1530721766077&t=1539629898605) 
+- Read about the meaning of songs for Holocaust survivors in S. GILBERT: SOCIAL HISTORY AND MUSICAL TEXTS, IRASM 36 (2005) 1, 117-134
+  
 <!-- briefing-teacher -->
