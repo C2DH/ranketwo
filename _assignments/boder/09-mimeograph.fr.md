@@ -56,6 +56,7 @@ La réduction des coûts et des protocoles faciles à gérer impliquent que des 
 ### Suggestions de lectures/vidéos
 <!-- section-contents -->
 
-To do: Demandez à Andreas la documentation de base qui remet en cause le concept d'« authenticité ».
+- Watch this animation about [the history of communication technology](https://youtu.be/u43zr_7Y0ts), created by Dow Chemical Company
+- Consult this [interactive timeline about the history of communication](http://www.thehistoryofcommunication.com) by the company Special Answering Services 
 
 <!-- briefing-teacher -->
