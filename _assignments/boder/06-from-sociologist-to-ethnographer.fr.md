@@ -6,6 +6,8 @@ type: assignment
 title: "L'approche de David Boder : des statistiques à l'expression"
 cover: /assets/images/attachments/12boxes/12boxes_06.png
 order: 6
+documents:
+- gilbert-music-songs 
 tags: 
   - multimodalité
   - enregistrement du son et des images
@@ -51,8 +53,10 @@ L'approche de David Boder est passée de celle d'un sociologue traditionnel cher
 ### Suggestions de lectures/vidéos 
 <!-- section-contents -->
 
-- Voir liste de lectures sur les connaissances multimodales.
-- Voir site web de chansons en yiddish  Gerben.
+Empfehlungen Lektüre/Video
+
+- Listen to a radio service broadcasted on 16-5-2015 from the National Public Radio in the US on Songs from Holocaust survivors
+- Read about the meaning of songs for Holocaust survivors in: S. GILBERT: SOCIAL HISTORY AND MUSICAL TEXTS, IRASM 36 (2005) 1, 117-134 [ref](gilbert-music-songs) 
 
 <!-- briefing-teacher -->
 
