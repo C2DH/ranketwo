@@ -39,7 +39,7 @@ One might wonder why students of a humanities discipline should learn about the 
 ### 2.b  Digital and analogue recording | 15 min
 <!-- section-contents -->
 
-- Watch the clip about how a digital recorder works that you can find in the reading/viewing suggestions.
+- Watch this clip about [how a digital recorder works](https://youtu.be/SfEXnX__X9Y) from YouTube channel MrAudioSoundImages
 - What is the key difference between analogue and digital recording?
 - Note the answer in your template.
 
@@ -50,6 +50,6 @@ One might wonder why students of a humanities discipline should learn about the 
 
 - A clip on [how a wire recorder was reconstructed](https://www.youtube.com/watch?v=sOyOH_kWAdQ){:target="_blank"} at Akron University in the US.
 - An [article by historian Trevor Owens](http://www.trevorowens.org/2015/12/digital-sources-digital-archives-the-evidentiary-basis-of-digital-history-draft/){:target="_blank"} on how digitization affects the character of a historical source.
-- A clip on [how a digital recorder works](https://youtu.be/SfEXnX__X9Y) from YouTube channel MrAudioSoundImages
+
 
 <!-- briefing-teacher -->
