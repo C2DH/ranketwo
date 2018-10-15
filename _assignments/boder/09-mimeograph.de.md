@@ -55,7 +55,7 @@ Reduzierte Kosten und leicht zu verwaltende Protokolle implizieren, dass Laien, 
 
 ### Empfehlungen Lektüre/Video
 <!-- section-contents -->
-
-To do: Fragen Sie Andreas nach grundlegenden Schriften, die das Konzept der „Authentizität“ hinterfragen.
+- Watch this animation about [the history of communication technology](https://youtu.be/u43zr_7Y0ts), created by Dow Chemical Company
+- Consult this [interactive timeline about the history of communication](http://www.thehistoryofcommunication.com) by the company Special Answering Services 
 
 <!-- briefing-teacher -->
