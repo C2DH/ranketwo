@@ -39,7 +39,7 @@ Warum sich Studierende der Geisteswissenschaften mit der veralteten Technologie 
 ### 2.b  Digitale und analoge Aufnahmen | 15 min
 <!-- section-contents -->
 
-- Sehen Sie sich diesen Videoclip zur [Funktionsweise eines digitalen Aufzeichnungsgeräts](https://www.youtube.com/watch?v=SfEXnX__X9Y&feature=youtu.be){:target="_blank"} an.
+- Sehen Sie sich diesen Videoclip zur [Funktionsweise eines digitalen Aufzeichnungsgeräts](https://www.youtube.com/watch?v=SfEXnX__X9Y&feature=youtu.be)vom YouTube Kanal MrAudioSoundImage{:target="_blank"} an.
 - Welches ist der wesentliche Unterschied zwischen analogen und digitalen Aufnahmen?
 - Notieren Sie die Antwort auf Ihrer Vorlage.
 
