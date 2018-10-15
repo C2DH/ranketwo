@@ -69,7 +69,6 @@ The mindsets of the survivors housed in displacement camps were clearly geared t
 
 ### Reading/viewing  suggestions
 <!-- section-contents -->
-
-to do: blog about historical blog
+Jewish Virtual Library - https://www.jewishvirtuallibrary.org/displaced-persons-camps-across-europe 
 
 <!-- briefing-teacher -->
