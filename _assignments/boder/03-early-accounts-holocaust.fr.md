@@ -29,7 +29,7 @@ Lorsque l'on réfléchit à la valeur et à la signification d'une source publi�
 ### Instructions
 <!-- section-contents -->
 
-- Ouvrez la boîte [Premiers témoignages sur l'Holocauste](https://allthingsmoving.com/DB_interactiv){:target="_blank"} et lisez les différentes sections.
+- Ouvrez la boîte [Premiers témoignages sur l'Holocauste](https://allthingsmoving.com/DB_interactive_2018_07_07/#Intro){:target="_blank"} et lisez les différentes sections.
 
 <!-- section -->
 
