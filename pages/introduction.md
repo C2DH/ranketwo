@@ -69,7 +69,7 @@ Turning an analogue object into a digital one entails a whole series of changes 
 
 {: .extra-spacing}
 ### The hybrid historian
-![DSCATM.png](https://c2dh.github.io/ranketwo/assets/images/DSCATM.png){:height="200px" .float-left.mr-3.mt-2.mb-4}
+![2000px-ADC_Icon.png](https://c2dh.github.io/ranketwo/assets/images/2000px-ADC_Icon.png){:height="200px" .float-left.mr-3.mt-2.mb-4}
 These changes do not mean that traditional approaches to research are becoming obsolete. We still need to attentively read, analyse and interpret primary and secondary sources. We have to maintain our ability to sketch and to write with pen and pencil. We still need to visit archives, libraries and museums, since only a very small percentage of their sources have been published online. The best equipped historian is the hybrid historian, who knows how to combine traditional and innovative research practices. See: (Zaagsma, 2013) [ref](zaagsma-digital-history)
 
 {: .extra-spacing}
