@@ -43,7 +43,7 @@ sect
 <!-- section-contents -->
 
 - Listen to the three clips of Jewish songs through [this link](https://centerhistorypsychology.wordpress.com/2016/09/02/dr-boder-and-the-missing-songs/){:target="_blank"}. 
-- Obtain information about the origin of the second song through [this link](https://www.youtube.com/watch?v=LCvwnJl7_uE&list=PLA4EC2A2CA8B51BC9&index=1){:target="_blank"}. (still to be researched).
+- Obtain information about the origin of the second song through [this link](https://www.youtube.com/watch?v=LCvwnJl7_uE&list=PLA4EC2A2CA8B51BC9&index=1){:target="_blank"}.
 - Try to reconstruct the steps in the creation of the song, its dissemination and its presence online. If neccesary conduct additional web research. 
 - Note your findings in your template   
 
