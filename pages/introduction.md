@@ -68,11 +68,11 @@ Turning an analogue object into a digital one entails a whole series of changes 
 
 {: .extra-spacing}
 ### The hybrid historian
-These changes do not mean that traditional approaches to research are becoming obsolete. We still need to attentively read, analyse and interpret primary and secondary sources. We have to maintain our ability to sketch and to write with pen and pencil. We still need to visit archives, libraries and museums, since only a very small percentage of their sources have been published online. The best equipped historian is the hybrid historian, who knows how to combine traditional and innovative research practices.
+These changes do not mean that traditional approaches to research are becoming obsolete. We still need to attentively read, analyse and interpret primary and secondary sources. We have to maintain our ability to sketch and to write with pen and pencil. We still need to visit archives, libraries and museums, since only a very small percentage of their sources have been published online. The best equipped historian is the hybrid historian, who knows how to combine traditional and innovative research practices. See: (Zaagsma, 2013) [ref](zaagsma-digital-history)
 
 {: .extra-spacing}
 ### Insights through crossovers
-The lessons we offer on this website are a crossover between history, archival studies, ancillary sciences, information science and computer science. In our view this multidisciplinary approach is necessary to foster a new generation of digital savvy scholars, who ask the right questions when dealing with digital content and are able to organise, analyse and present digital and analogue data with the help of digital tools.
+The lessons we offer on this website are a crossover between history, archival studies, ancillary sciences, information science and computer science. In our view this multidisciplinary approach is necessary to foster a new generation of digital savvy scholars, who ask the right questions when dealing with digital content and are able to organise, analyse and present digital and analogue data with the help of digital tools. See: (Hjørland, 2008) [ref](hjorland-information-digital-literacy)
 
 
 ### Key Terms
@@ -80,5 +80,4 @@ meta-source criticism, the creation, enrichment and identification of digitised 
 tool criticism:
 remix and re-contextualisation: reuse of data in a digital context
 
-[](ranke-stamp,archive-records)
-[](digitization-book-georgia,digital-world)
+
