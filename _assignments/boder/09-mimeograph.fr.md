@@ -2,54 +2,60 @@
 layout: assignment
 unit: boder
 type: assignment
-title: "A mimeographed copy compared to a digital copy"
+title: Comparaison entre une copie miméographiée et une copie numérique
 cover: /assets/images/attachments/12boxes/12boxes_09.png
 order: 9
 lang: fr
-requirements:  strong WIFI, access to Ranke.2, computer or laptop,application on laptop or computer to view video,
-learning outcomes: understanding the difference between the concept of the ‘original’ in the analogue area, and how this has changed with the advent of digital technology
+requirements:  bonne connexion Wi-Fi, accès à Ranke.2, PC ou ordinateur portable, application installée sur le PC ou le portable permettant de visualiser des vidéos
+outcomes: Comprendre la différence entre le concept d'« original » à l'ère analogique et son évolution avec l'avènement de la technologie numérique.
 ---
 
-
-The possibilities for reproduction of text and images increased
-considerably during Boder’s lifetime.  Besides the mimeograph,
-he used the micro card to disseminate his volumes with
-transcripts among various universities and research institutes.
-This assignment is meant to develop an understanding of how
-the introduction of certain communication technologies
-increase an individual’s potential to spread a message.  
-
-
-Watch the clip about reproduction technologies in the 50s
-https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
+Tout au long de sa vie, David Boder a vu les possibilités de reproduction de textes et d'images se multiplier. En dehors du miméographe, il a utilisé la microcarte pour diffuser ses volumes de transcriptions auprès d'universités et d'instituts de recherche.  
+Cet exercice a pour but de mieux comprendre comment l'introduction des technologies de communication a renforcé la capacité des individus à diffuser un message.  
+La réduction des coûts et des protocoles faciles à gérer impliquent que des personnes non familiarisées avec les technologies d'impression peuvent désormais diffuser leurs travaux.
 
 <!-- more -->
 
 <!-- briefing-student -->
 
-
-
-### 9a Comparing reproduction technologies
+### Instructions
 <!-- section-contents -->
 
-Find out  how a micro card works by clicking on this link:
-https://psap.library.illinois.edu/collection-id-guide/microform#microcard
-
-Complete the table with the comparison between
-- the typewriter
-- the stencil duplicator
-- the mimeograph
-- the copy machine
-- the digital computer  
+- Regardez la vidéo sur [les technologies de reproduction des années 1950](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"}.
 
 <!-- section -->
-### 9b What is an authentic source
+
+### 9.a  Comparer les technologies de reproduction | 30 min
 <!-- section-contents -->
-Assess whether the result  of applying  these reproduction technologies can be considered as an authentic historical source?
 
-Time effort: ?
+- Découvrez comment fonctionne une microcarte en cliquant sur [ce lien](https://psap.library.illinois.edu/collection-id-guide/microform#microcard){:target="_blank"}.
+- Maintenant, remplissez le tableau en effectuant une comparaison entre
+  - la machine à écrire
+  - le duplicateur à pochoir
+  - le miméographe
+  - le photocopieur
+  - le calculateur numérique  
 
+<!-- section -->
 
+### 9.b  Qu'est-ce qu'une source authentique ? | 15 min
+<!-- section-contents -->
 
-Reading/viewing  suggestions:
-Ask Andreas for basic literature that questions the concept of ‘authenticity’
+- Évaluer si le résultat obtenu en appliquant ces technologies de reproduction peut être considéré comme une source historique authentique.
+
+<!-- section -->
+
+### 9.c  Miméographe et microcarte | 15 min
+<!-- section-contents -->
+
+- Quelle est la différence entre les copies effectuées à l'aide d'un miméographe et celles qui sont effectuées à l'aide d'une microcarte ? 
+- Quel est le rapport avec les avantages de la technologie numérique ? 
+
+<!-- section -->
+
+### Suggestions de lectures/vidéos
+<!-- section-contents -->
+
+To do: Demandez à Andreas la documentation de base qui remet en cause le concept d'« authenticité ».
+
+<!-- briefing-teacher -->

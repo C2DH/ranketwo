@@ -26,7 +26,7 @@ In dieser Aufgabe soll aufgezeigt werden, wie sich eine Quelle, d. h. eine Audio
 
 <!-- briefing-student -->
 
-### Instruction
+### Anweisung
 <!-- section-contents -->
 
 - Öffnen Sie die Box [A look into Boder’s first publication](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"}.

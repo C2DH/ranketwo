@@ -2,54 +2,60 @@
 layout: assignment
 unit: boder
 type: assignment
-title: "A mimeographed copy compared to a digital copy"
+title: Vergleich zwischen einer mit einem Mimeografen erstellten und einer digitalen Kopie
 cover: /assets/images/attachments/12boxes/12boxes_09.png
 order: 9
-lang: fr
-requirements:  strong WIFI, access to Ranke.2, computer or laptop,application on laptop or computer to view video,
-learning outcomes: understanding the difference between the concept of the ‘original’ in the analogue area, and how this has changed with the advent of digital technology
+lang: de
+requirements:  schnelles WLAN, Zugang zu Ranke.2, Computer oder Laptop, Anwendung auf Computer oder Laptop zum Abspielen von Videos
+outcomes: Den Unterschied verstehen zwischen dem Konzept des „Originals“ bei der Analogtechnik und den Veränderungen im Zuge des Aufkommens digitaler Technologie.
 ---
 
-
-The possibilities for reproduction of text and images increased
-considerably during Boder’s lifetime.  Besides the mimeograph,
-he used the micro card to disseminate his volumes with
-transcripts among various universities and research institutes.
-This assignment is meant to develop an understanding of how
-the introduction of certain communication technologies
-increase an individual’s potential to spread a message.  
-
-
-Watch the clip about reproduction technologies in the 50s
-https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
+Die Möglichkeiten zur Reproduktion von Texten und Bildern stiegen zu Lebzeiten Boders beträchtlich an. Neben dem Mimeografen nutzte Boder auch Mikrokarten, um seine Transkripte an verschiedene Universitäten und Forschungsinstitute weiterzuleiten.
+Mit dieser Aufgabe soll ein Verständnis dafür entwickelt werden, wie die Einführung von Kommunikationstechnologien die Möglichkeiten des Menschen zur Verbreitung von Nachrichten erweiterten.
+Reduzierte Kosten und leicht zu verwaltende Protokolle implizieren, dass Laien, die sich nicht mit Drucktechnologie auskennen, ihre Arbeiten nunmehr verbreiten können.
 
 <!-- more -->
 
 <!-- briefing-student -->
 
-
-
-### 9.a  Comparing reproduction technologies
+### Anweisung
 <!-- section-contents -->
 
-Find out  how a micro card works by clicking on this link:
-https://psap.library.illinois.edu/collection-id-guide/microform#microcard
-
-Complete the table with the comparison between
-- the typewriter
-- the stencil duplicator
-- the mimeograph
-- the copy machine
-- the digital computer  
+- Sehen Sie sich den Clip über [Wiedergabetechnologien in den 1950er-Jahren](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"} an.
 
 <!-- section -->
-### 9.b  What is an authentic source
+
+### 9.a  Vergleich zwischen Wiedergabetechnologien | 30 min
 <!-- section-contents -->
-Assess whether the result  of applying  these reproduction technologies can be considered as an authentic historical source?
 
-Time effort: ?
+- Finden Sie über [diesen Link](https://psap.library.illinois.edu/collection-id-guide/microform#microcard){:target="_blank"} heraus, wie eine Mikrokarte funktioniert.
+- Vervollständigen Sie nun die Tabelle und ziehen Sie einen Vergleich zwischen
+  - der Schreibmaschine
+  - dem Schablonenvervielfältiger
+  - dem Mimeografen
+  - dem Kopiergerät
+  - dem digitalen Computer  
 
+<!-- section -->
 
+### 9.b  Was ist eine authentische Quelle? | 15 min
+<!-- section-contents -->
 
-Reading/viewing  suggestions:
-Ask Andreas for basic literature that questions the concept of ‘authenticity’
+- Bewerten Sie, ob das Ergebnis bei Anwendung dieser Wiedergabetechnologien als authentische historische Quelle betrachtet werden kann.
+
+<!-- section -->
+
+### 9.c  Mimeograf und Mikrokarte | 15 min
+<!-- section-contents -->
+
+- Welches ist der Unterschied zwischen Kopien, die mit einem Mimeografen und einer Mikrokarte angefertigt werden? 
+- Inwieweit steht dies mit den Vorteilen der digitalen Technologie in Zusammenhang? 
+
+<!-- section -->
+
+### Empfehlungen Lektüre/Video
+<!-- section-contents -->
+
+To do: Fragen Sie Andreas nach grundlegenden Schriften, die das Konzept der „Authentizität“ hinterfragen.
+
+<!-- briefing-teacher -->
