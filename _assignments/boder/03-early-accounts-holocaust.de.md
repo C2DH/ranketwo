@@ -72,6 +72,8 @@ Bei einem Reflexionsprozess über Wert und Bedeutung einer im Web veröffentlich
               
 \* Für die Schilderungen von [Edith Zierer](http://voices.iit.edu/audio?doc=ziererE){:target="_blank"} müssen Sie den Chrome-Browser öffnen. Klicken Sie auf die kleine Schaltfläche „i“ und erlauben Sie Flash Player und Pop-ups. Beachten Sie, dass das Herunterladen des Interviews eine gewisse Zeit dauert, und führen Sie in der Zwischenzeit gegebenenfalls eine andere Aufgabe aus.
 
+![chrome-address-bar.png](../../../assets/images/chrome-address-bar.png)
+
 <!-- section -->
 
 ### Empfehlungen Lektüre/Video

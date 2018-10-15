@@ -72,6 +72,8 @@ When reflecting on the value and meaning of a source that has been published on 
               
 \* If you want to listen to [Edith Zierer](http://voices.iit.edu/audio?doc=ziererE){:target="_blank"}, you have to open the Chrome browser. Click on the small “i” icon and allow Flash Player and pop-ups. Bear in mind that the interview takes a long time to load, so you might want to carry on with another assignment in the meantime. 
 
+![chrome-address-bar.png](../../assets/images/chrome-address-bar.png)
+
 <!-- section -->
 
 ### Reading/viewing  suggestions

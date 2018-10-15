@@ -72,6 +72,8 @@ Lorsque l'on réfléchit à la valeur et à la signification d'une source publi�
               
 \* Pour écouter l'interview d'[Edith Zierer](http://voices.iit.edu/audio?doc=ziererE){:target="_blank"}, vous devez ouvrir le navigateur Chrome. Cliquez sur la petite icône « i » et autorisez Flash Player et les fenêtres contextuelles à s'exécuter. Veuillez noter que le chargement de l'interview est relativement long. Vous pouvez donc faire un autre exercice pendant ce temps.
 
+![chrome-address-bar.png](../../../assets/images/chrome-address-bar.png)
+
 <!-- section -->
 
 ### Suggestions de lectures/vidéos
