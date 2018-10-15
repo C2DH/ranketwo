@@ -38,9 +38,9 @@ To capture images, Muybridge introduced a new technology.
 
 - Consult the document, use the + sign if the letters are soo small. Note down the name of the device for which Muybridge obtained a patent in your template. 
 
-- Another relevant contemporary source, is the digital copy of a [catalogue that accompanied an exhibit on Muybridge held at the Stanford University Museum of art in 1972](https://archive.org/stream/eadweardmuybridg00maye/eadweardmuybridg00maye_djvu.txt)
-It was also digitized and published online by the Wayback Machine in 2012, with the support of the Digital Library Project. Although the document is a catalogue of an exhibition, it consist only of texts that have been processed with [optical character recognition.](https://youtu.be/jO-1rztr4O0) The most probable reason for not including the images is that [copyright issues](https://youtu.be/1DKm96Ftfko) played a role. 
-The digitized text can be searched with ["Control F"](https://blog.spinweb.net/5-reasons-why-control-f-is-your-best-friend-for-productivity). This means that you can directly trace the context of a name or term, without first having to read the entire document. Usually it is enough to read what comes before and after the term. If that does not suffice, you should read the entire section of a text, to figure out what kind of contribution it is (an essay, an interview, an article, a quote, a chapter from a book).
+- Consult the digital copy of another relevant contemporary source, [the catalogue of an exhibit on Muybridge held at the Stanford University Museum of art in 1972](https://archive.org/stream/eadweardmuybridg00maye/eadweardmuybridg00maye_djvu.txt)
+It has been digitised and published online by the Wayback Machine/Internet Archive in 2012, with the support of the Digital Library Project. Although the document is a catalogue of an exhibition, it consist only of texts that have been processed with [optical character recognition.](https://youtu.be/jO-1rztr4O0) The most probable reason for not including the images is that [copyright issues](https://youtu.be/1DKm96Ftfko) played a role. 
+The digitized text can be searched with ["Control F"](https://blog.spinweb.net/5-reasons-why-control-f-is-your-best-friend-for-productivity). This means that you can directly trace the context of a name or term, without first having to read the entire document. Usually it is enough to read what comes before and after the term. If that does not suffice, read the entire section of a text, to figure out what kind of contribution it is (an essay, an interview, an article, a quote, a chapter from a book).
 
 The digitized catalogue contains several contributions by experts. Let's see whether you are able to use "Control F" in an efficient way.
 Answer the following questions: 
@@ -80,7 +80,7 @@ Muybridge has been referred to as the father of the *GIF*, a very recent develop
 <!-- section -->
 ### 1.c A new life on the web 
 <!-- section-contents -->
-All the content that can be viewed through the links provided in assignment 1b has been published on the web at some point with a particular reason.
+All the content that can be viewed through the links provided in assignment 1b has been published on the web at some point for a particular reason.
 Try to complete the template for your assignments with details about how the work inspired by Muybridge was published on the web:
 - What kind of platform was it published on?
 - What might be the reason for this publication?
