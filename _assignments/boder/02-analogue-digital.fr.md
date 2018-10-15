@@ -39,7 +39,7 @@ Certains se demandent peut-être pourquoi les étudiants en sciences humaines de
 ### 2.b  Enregistrement numérique/analogique | 15 min
 <!-- section-contents -->
 
-- Visualisez la vidéo sur le [fonctionnement d'un enregistreur numérique](https://www.youtube.com/watch?v=SfEXnX__X9Y&feature=youtu.be) qui vous trouvez dans la section Suggestions de lectures/vidéos{:target="_blank"}.
+- Visualisez la vidéo sur le [fonctionnement d'un enregistreur numérique](https://www.youtube.com/watch?v=SfEXnX__X9Y&feature=youtu.be) {:target="_blank"}.
 - Quelle est la différence fondamentale entre l'enregistrement analogique et l'enregistrement numérique ?
 - Saisissez la réponse dans votre modèle.
 
