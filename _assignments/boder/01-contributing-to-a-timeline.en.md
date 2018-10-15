@@ -113,9 +113,8 @@ Where can you find this information if you search on the web?
 
   1. See [this document](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/481194/c-notice-201401.pdf){:target="_blank"} For an overview about handling copyright in the United Kingdomn.
   2. See [this video clip](https://youtu.be/1DKm96Ftfko){:target="_blank"} on the principles of Creative Commons.
-  3. See this overview on copyright in French (to add document Cecile).
-  4. See [this clip]( https://vimeo.com/36881035){:target="_blank"} about the origin and history of copyright.
-  5.  For  websites that offer images free of copyright click on one of the links below:  
+  3. See [this clip]( https://vimeo.com/36881035){:target="_blank"} about the origin and history of copyright.
+  4.  For  websites that offer images free of copyright click on one of the links below:  
       https://ccsearch.creativecommons.org
       https://www.flickr.com/creativecommons/
       https://www.flickr.com/commons/usage/
@@ -123,7 +122,7 @@ Where can you find this information if you search on the web?
       https://diva.sfsu.edu/collections/world
       https://www.europeana.eu/portal/en
       https://pixabay.com
-  6. you can also configure your settings in Google to show only free images:
+  5. you can also configure your settings in Google to show only free images:
     http://images.google.com/advanced_image_search?hl=en
 
 <!-- section -->
