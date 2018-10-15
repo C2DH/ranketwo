@@ -12,7 +12,22 @@ documents:
   - digitization-book-georgia
   - digital-world
   - owens-digital-sources-digital-archives
-  - 
+  - delalande-vincent-historien-cyborg
+  - hughes-lang-transmutability-decontextualization
+  - fickers-towards-digital-historicism-age-abundance
+  - hjorland-information-digital-literacy
+  - kirschbaum-digital-forensics-cultural-heritage
+  - margulies-digitale-geschichtswissenschaft-einfuhrung
+  - mounier-ouvrir-atelier-historien
+  - owens-digital-sources-digital-archives
+  - rheingold-crapp-detection
+  - schreiber-genuine-internetdaten-quellen
+  - solberg-advances-history-rhetoric
+  - sternfeld-understanding-quantum-age
+  - terras-digitisation-resources-humanities
+  - treleani-recontextualisation-audiovisuels
+  - wettlaufer-erkenntnisse-digitalisierte-geschichtswissenschaft-hermeneutischen
+  - zaagsma-digital-history
 ---
 
 **Ranke.2** is a teaching platform that offers lessons on how to critically assess and work with digital historical sources
@@ -48,7 +63,7 @@ By engaging with our lessons, that consist of animations, quizzes and assignment
 {: .extra-spacing}
 ### Transformation from analogue to digital
 A digital text, image or recording may appear to be similar to its analogue version, but it is actually a collection of digits arranged in a particular order that offers a representation of the original which can be viewed on a screen, without its material characteristics.
-Turning an analogue object into a digital one entails a whole series of changes that affect its appearance and informative value. The analogue object is taken out of its original context, whether a private household, archive, museum or library, converted into digits,  enriched with metadata and then published online. See: (Owens,2017) [ref](owens-digital-sources-digital-archives), (Hughes and Lang, ), Sternfeld,   ), 
+Turning an analogue object into a digital one entails a whole series of changes that affect its appearance and informative value. The analogue object is taken out of its original context, whether a private household, archive, museum or library, converted into digits,  enriched with metadata and then published online. See: (Owens,2017) [ref](owens-digital-sources-digital-archives), (Hughes and Lang, )[ref](hughes-lang-transmutability-decontextualization), (Sternfeld,      ) [ref](sternfeld-understanding-quantum-age)   
 
 
 {: .extra-spacing}
