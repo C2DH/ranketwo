@@ -42,7 +42,7 @@ L'approche de David Boder est passée de celle d'un sociologue traditionnel cher
 <!-- section-contents -->
 
 - Écoutez les chansons mises en ligne en cliquant sur [ce lien](https://centerhistorypsychology.wordpress.com/2016/09/02/dr-boder-and-the-missing-songs/){:target="_blank"}.
-- Trouvez des informations sur la composition de cette chanson via [ce lien](){:target="_blank"}. (still to be researched).
+- Trouvez des informations sur la composition de la deuxieme chanson,via [ce lien](https://www.youtube.com/watch?v=LCvwnJl7_uE&list=PLA4EC2A2CA8B51BC9&index=1){:target="_blank"}. 
 - Essayez de reconstituer les étapes de la création de la chanson, de sa diffusion et de sa présence en ligne.
 - Notez vos observations dans votre modèle.   
 
