@@ -80,6 +80,6 @@ When reflecting on the value and meaning of a source that has been published on 
 ### Reading/viewing  suggestions
 <!-- section-contents -->
 
-See [Collect and record](https://global.oup.com/academic/product/collect-and-record-97801997645%2056?cc=nl&lang=en&){:target="_blank"}, Laura Jockusch
+See [Collect and record](https://global.oup.com/academic/product/collect-and-record-9780199764556?cc=nl&lang=en&){:target="_blank"}, Laura Jockusch
 
 <!-- briefing-teacher -->
