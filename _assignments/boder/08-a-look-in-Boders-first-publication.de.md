@@ -2,66 +2,78 @@
 layout: assignment
 unit: boder
 type: assignment
-title: "A look in Boder’s book: Transformation from spoken language to typed text"
+title: "Ein Blick auf Boders Buch: Umwandlung von gesprochener Sprache in abgetippten Text"
 cover: /assets/images/attachments/12boxes/12boxes_08.png
 order: 8
 lang: de
-tags: methods of research, data collection, interview protocols, digital archives, privacy, oral history, qualitative data
-requirements:  strong WIFI, access to Ranke.2, computer or laptop, application on laptop or computer to view video, account for timeline,
-learning outcomes:
-  - understanding the interplay between the conventions of a method for collecting data
-  - the convention of the medium through which this data is shared and spread and the appearance of its representation
-
+tags:
+  - Forschungsmethoden
+  - Datenerfassung
+  - Interviewprotokolle
+  - digitale Archive
+  - Datenschutz
+  - Oral History
+  - qualitative Daten
+requirements:  schnelles WLAN, Zugang zu Ranke.2, Computer oder Laptop, Anwendung auf Computer oder Laptop zum Abspielen von Videos, Account für Timeline
+outcomes:
+  - Verstehen der Wechselwirkung zwischen den Eigenschaften einer Methode zur Erfassung von Daten, den Eigenschaften des Mediums, über das diese Daten geteilt werden, und der Darstellung dieser Daten.
 ---
 
-
-Boder reworked his basic sources, the transcripts of his interviews, to be published in his first book. In the interactive animation you can see a PDF version of part of his book. But a lot of changes occured between the recording and the way the result was pulbished in the book. This assignment shows how one source, an audio recording,  can be  represented in different forms, depending on the specific  conventions of a medium. You are going to compare the same interview, as it was published in his book in 1948, with its digital online representation that was created in 2009.
-
-Open the box  ‘A look into Boder’s first publication’
-https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
+Boder hat seine grundlegenden Quellen  d. h. die Transkripte seiner Interviews  zur Veröffentlichung in seinem ersten Buch überarbeitet. Die interaktive Version enthält einen PDF-Auszug aus seinem Buch. Bei der Lektüre von Büchern mit textgebundenen Darstellungen eines gesprochenen Interviews, das von der deutschen in die englische Sprache übersetzt wurde, sind potenzielle Abänderungen zu bedenken.  
+In dieser Aufgabe soll aufgezeigt werden, wie sich eine Quelle, d. h. eine Audioaufnahme, nach Maßgabe der jeweiligen Eigenschaften des Mediums in verschiedenen Formen darstellen lässt. Sie vergleichen das Interview, so wie es 1948 im Buch veröffentlicht wurde, mit der 2009 geschaffenen digitalen Online-Darstellung.
 
 <!-- more -->
 
 <!-- briefing-student -->
 
-
-
-### 8a  Comparing a printed anonymous transcript to its digital version online
+### Instruction
 <!-- section-contents -->
-- Read the interview with Jorn Gastfreund (alias for Jurgen Bassfreund) with the short introduction by David Boder. it is 27 pages. This is a digital scan of his printed book.
-- Now go to the website Voices of the Holocaust  and use CHROME as your browser. It will allow you to accept Flashplayer so that you can listen to the sound. The webaddress looks like this:
 
-  printscreen            
-
-click on the small icon with an i  to set the settings of your browser. Allow  flash player and pop up by ticking the boxes.
-Then click on this  link:
-http://voices.iit.edu/interviewee?doc=bassfreundJ
-First read the ‘Commentary’ . Then click on ‘English translation’.
-Read the text until the sentence:
-
-printscreen
-
-Your assignments consists of completing  the table in your template in which you can mark the differences between the various versions of the interview.
-- First compare the transcript in the book with the digital version of the transcript online until the sentence above..
-- Mark the differences in the first two columns of the table in your template
-
+- Öffnen Sie die Box [A look into Boder’s first publication](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"}.
 
 <!-- section -->
-### 8b Comparing reading to listening
 
+### 8.a  Vergleich eines anonymen gedruckten Transkripts mit dessen digitaler Online-Fassung | 30 min
 <!-- section-contents -->
-- Now listen to the first 5.46 minutes of the interview in German that corresponds to the text.
-- Mark the differences between what you hear and what you have read in the third column of your table.
 
+- Lesen Sie das Interview mit Jorn Gastfreund (alias Jürgen Bassfreund) mit der kurzen Einführung von David Boder. Es umfasst 27 Seiten. Dies ist ein digitaler Scan seines gedruckten Buchs.
+- Gehen Sie nun zur Website [Voices of the Holocaust](http://voices.iit.edu/){:target="_blank"} (verwenden Sie Chrome als Browser, Sie können so mit dem Flash Player den Ton hören). 
+- Die URL sieht so aus: 
+
+![chrome-address-bar.png](../../../assets/images/chrome-address-bar.png)
+
+- Klicken Sie auf die kleine Schaltfläche „i” und konfigurieren Sie Ihren Browser. Erlauben Sie die Flash Player und Pop-ups, indem Sie die entsprechenden Häkchen setzen. 
+- Klicken Sie dann auf diesen Link: [http://voices.iit.edu/interviewee?doc=bassfreundJ](http://voices.iit.edu/interviewee?doc=bassfreundJ){:target="_blank"}.
+- Lesen Sie zunächst die Rubrik „Commentary“. Klicken Sie dann auf „English translation“.
+- Lesen Sie den Text bis zu dem Satz:
+
+„I worked at that time on the railroad and the Hitler guard packed us into a truck and we were all driven to a distribution camp.“
+ 
+- Im ersten Teil dieser Aufgabe müssen Sie die Tabelle in Ihrer Vorlage ausfüllen und dabei etwaige Unterschiede zwischen den verschiedenen Fassungen des Interviews notieren.
+- Vergleichen Sie zunächst das Transkript im Buch mit der digitalen Online-Fassung des Transkripts bis zum vorgenannten Satz.
+- Notieren Sie die Unterschiede in den ersten beiden Spalten der Tabelle in Ihrer Vorlage. 
 
 <!-- section -->
-### 8c Reflecting on your experiences
-<!-- section-contents -->
-- Read about how Boder’s handles the issue of language in Beate Muller’s article on Boder’s translations.
-- Write a short essay of about 750 words describing your explorations, and the differences you observed  between reading a scan from a book published in 1948, reading a transcript in digital format published online, and listening to the audio or the inwith listening versus reading.
 
+### 8.b  Vergleich zwischen dem geschriebenen und dem gesprochenen Wort | 30 min
+<!-- section-contents -->
+
+- Hören Sie sich die ersten 5:46 Minuten des dem Text entsprechenden Interviews in deutscher Sprache an.
+- Notieren Sie die Unterschiede zwischen dem, was Sie hören, und dem, was in der dritten Spalte Ihrer Tabelle geschrieben steht.
+
+<!-- section -->
+
+### 8.c  Reflexion über Ihre Erfahrungen | 60 min
+<!-- section-contents -->
+
+- Lesen Sie in Beate Müllers Artikel zu Boders Übersetzungen, wie Boder mit dem Sprachproblem umging.
+- Verfassen Sie einen kurzen Aufsatz mit rund 750 Wörtern zu den Unterschieden, die Sie zwischen der eingescannten Fassung eines 1948 veröffentlichten Buchs, der Lektüre eines im digitalen Format veröffentlichten Online-Transkripts und der Audiofassung festgestellt haben. Notieren Sie Ihre Feststellungen zu den verschiedenen Erkenntnissen in Ihrer Vorlage.
+
+<!-- section -->
+
+### Empfehlungen Lektüre/Video
+<!-- section-contents -->
+
+Beate Muller, [Translating Trauma, Boder’s 1946 interviews with Holocaust survivors](https://www.euppublishing.com/doi/abs/10.3366/tal.2014.0155){:target="_blank"}.
 
 <!-- briefing-teacher -->
-
-Reading/viewing  suggestions:
-Beate Muller, Translating Trauma, Boder’s 1946 interviews with Holocaust survivors https://www.euppublishing.com/doi/abs/10.3366/tal.2014.0155

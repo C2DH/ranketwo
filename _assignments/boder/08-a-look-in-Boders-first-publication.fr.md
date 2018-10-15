@@ -2,67 +2,78 @@
 layout: assignment
 unit: boder
 type: assignment
-title: "A look in Boder’s book: Transformation from spoken language to typed text"
+title: "Aperçu du livre de David Boder : transformation du témoignage oral en texte dactylographié"
 cover: /assets/images/attachments/12boxes/12boxes_08.png
 order: 8
 lang: fr
-tags: methods of research, data collection, interview protocols, digital archives, privacy, oral history, qualitative data
-requirements:  strong WIFI, access to Ranke.2, computer or laptop, application on laptop or computer to view video, account for timeline,
-learning outcomes:
-  - understanding the interplay between the conventions of a method for collecting data
-  - the convention of the medium through which this data is shared and spread and the appearance of its representation
-
+tags:
+  - méthodes de recherche
+  - collecte de données
+  - protocoles d'interview
+  - archives numériques
+  - vie privée
+  - histoire orale
+  - données qualitatives
+requirements:  bonne connexion Wi-Fi, accès à Ranke.2, PC ou ordinateur portable, application installée sur le PC ou le portable permettant de visualiser des vidéos, compte pour la frise chronologique
+outcomes:
+  - Comprendre l'interaction entre les conventions d'une méthode de collecte de données, les conventions du support à travers lequel ces données sont partagées et l'apparence de sa représentation.
 ---
 
-
-Boder reworked his basic sources, the transcripts of his interviews, to be published in his first book. In the interactive animation you can see a PDF version of part of his book. But a lot of changes occured between the recording and the way the result was pulbished in the book. This assignment shows how one source, an audio recording,  can be  represented in different forms, depending on the specific  conventions of a medium. You are going to compare the same interview, as it was published in his book in 1948, with its digital online representation that was created in 2009.
-
-
-Open the box  ‘A look into Boder’s first publication’
-https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
+David Boder a retravaillé ses sources de base, c’est-à-dire les transcriptions de ses interviews, pour les publier dans son premier ouvrage. Dans la version interactive, vous pouvez voir un fichier PDF présentant une partie de son livre. En consultant un livre qui est une représentation textuelle d'une interview orale traduite de l'allemand vers l'anglais, le lecteur doit être conscient des modifications qui ont été apportées.  
+Le but de cet exercice est de montrer comment une source, en l'occurrence un enregistrement audio, peut être représentée sous différentes formes en fonction des conventions spécifiques du support. Vous comparerez la même interview, telle qu'elle a été publiée dans le livre en 1948, avec sa représentation numérique en ligne créée en 2009.
 
 <!-- more -->
 
 <!-- briefing-student -->
-### Instruction
+
+### Instructions
 <!-- section-contents -->
+
+- Ouvrez la boîte [Aperçu de la première publication de David Boder](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"}.
 
 <!-- section -->
-### 8a  Comparing a printed anonymous transcript to its digital version online
+
+### 8.a  Comparer une transcription anonyme avec sa version numérique en ligne | 30 min
 <!-- section-contents -->
-- Read the interview with Jorn Gastfreund (alias for Jurgen Bassfreund) with the short introduction by David Boder. it is 27 pages. This is a digital scan of his printed book.
-- Now go to the website Voices of the Holocaust  and use CHROME as your browser. It will allow you to accept Flashplayer so that you can listen to the sound. The webaddress looks like this:
 
-  printscreen            
+- Lisez l'interview de Jörn Gastfreund (alias Jurgen Bassfreund) avec la courte introduction de David Boder. Cette interview fait 27 pages ; il s'agit d'une image numérique du livre de D. Boder.
+- Allez sur le site [Voix de l'Holocauste](http://voices.iit.edu/){:target="_blank"} (utilisez le navigateur Chrome  vous pourrez ainsi autoriser l'exécution de Flash Player pour pouvoir écouter le son). 
+- L'URL se présente de la manière suivante : 
 
-click on the small icon with an i  to set the settings of your browser. Allow  flash player and pop up by ticking the boxes.
-Then click on this  link:
-http://voices.iit.edu/interviewee?doc=bassfreundJ
-First read the ‘Commentary’ . Then click on ‘English translation’.
-Read the text until the sentence:
+![chrome-address-bar.png](../../../assets/images/chrome-address-bar.png)
 
-printscreen
+- Cliquez sur la petite icône « i » pour configurer les paramètres de votre navigateur. Autorisez l'exécution de Flash Player et des fenêtres contextuelles en cochant les cases correspondantes. 
+- Cliquez ensuite sur ce lien : [http://voices.iit.edu/interviewee?doc=bassfreundJ](http://voices.iit.edu/interviewee?doc=bassfreundJ){:target="_blank"}.
+- Commencez par lire le « Commentaire » puis cliquez sur « Traduction anglaise ».
+- Lisez le texte jusqu'à la phrase :
 
-Your assignments consists of completing  the table in your template in which you can mark the differences between the various versions of the interview.
-- First compare the transcript in the book with the digital version of the transcript online until the sentence above..
-- Mark the differences in the first two columns of the table in your template
-
+« I worked at that time on the railroad and the Hitler guard packed us into a truck and we were all driven to a distribution camp » (À cette époque, je travaillais sur la voie ferrée. Les SS nous ont tous embarqués dans un camion pour nous conduire à un camp de répartition)
+ 
+- La première partie de l'exercice consiste à compléter le tableau dans votre modèle en notant les différences entre les versions de l'interview.
+- Commencez par comparer la transcription dans le livre avec la version numérique de la transcription en ligne jusqu'à la phrase mentionnée ci-dessus.
+- Notez les différences dans les deux premières colonnes du tableau. 
 
 <!-- section -->
-### 8b Comparing reading to listening
-<!-- section-contents -->
-- Now listen to the first 5.46 minutes of the interview in German that corresponds to the text.
-- Mark the differences between what you hear and what you have read in the third column of your table.
 
+### 8.b  Comparaison entre la lecture et l'écoute | 30 min
+<!-- section-contents -->
+
+- Écoutez maintenant les 5,46 premières minutes de l'interview en allemand correspondant au texte.
+- Notez les différences entre ce que vous entendez et ce que vous avez lu dans la troisième colonne de votre tableau.
 
 <!-- section -->
-### 8c Reflecting on your experiences
-<!-- section-contents -->
-- Read about how Boder’s handles the issue of language in Beate Muller’s article on Boder’s translations.
-- Write a short essay of about 750 words describing your explorations, and the differences you observed  between reading a scan from a book published in 1948, reading a transcript in digital format published online, and listening to the audio or the inwith listening versus reading.
 
+### 8.c  Réflexion sur vos expériences | 60 min
+<!-- section-contents -->
+
+- Découvrez comment David Boder a abordé le problème du langage dans l'article rédigé par Beate Müller au sujet de ses traductions.
+- Écrivez une courte rédaction de 750 mots environ décrivant les différences que vous avez notées entre la lecture de la version numérisée d'un livre publié en 1948, la lecture d'une transcription au format numérique publiée en ligne et l'écoute de la version audio. Utilisez le modèle pour noter vos conclusions sur vos différentes expériences.
+
+<!-- section -->
+
+### Suggestions de lectures/vidéos
+<!-- section-contents -->
+
+Beate Müller, [Translating Trauma, Boder’s 1946 interviews with Holocaust survivors](https://www.euppublishing.com/doi/abs/10.3366/tal.2014.0155){:target="_blank"} (_Traduire les traumatismes, interviews réalisées en 1946 par David Boder avec des survivants de l'Holocauste_).
 
 <!-- briefing-teacher -->
-
-Reading/viewing  suggestions:
-Beate Muller, Translating Trauma, Boder’s 1946 interviews with Holocaust survivors https://www.euppublishing.com/doi/abs/10.3366/tal.2014.0155
