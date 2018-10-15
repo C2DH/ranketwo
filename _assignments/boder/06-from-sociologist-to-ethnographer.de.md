@@ -41,8 +41,9 @@ Nachdem Boder zunächst als traditioneller Sozialwissenschaftler Beweise sammelt
 ### 6.b  Rekonstruktion der Abfolge der Transformationen: ein Lied | 20 min
 <!-- section-contents -->
 
-- Hören Sie sich die Lieder über [diesen Link](https://centerhistorypsychology.wordpress.com/2016/09/02/dr-boder-and-the-missing-songs/){:target="_blank"} an.
-- Tragen Sie über [diesen Link](){:target="_blank"} Informationen dazu zusammen, wie dieses Lied komponiert wurde.
+- Hören Sie sich diese drei clips über [diesen Link](https://centerhistorypsychology.wordpress.com/2016/09/02/dr-boder-and-the-missing-songs/){:target="_blank"} an.
+- Versuchen Sie Informationen über das zweite Lied zu finden über [diesen link](){:target="_blank"}.
+Tragen Sie über [diesen Link](https://www.youtube.com/watch?v=LCvwnJl7_uE&list=PLA4EC2A2CA8B51BC9&index=1) Informationen dazu zusammen, wie den zweiten Lied komponiert wurde.{:target="_blank"} 
 - Versuchen Sie, die einzelnen Schritte bei der Entstehung des Lieds sowie dessen Verbreitung und Online-Präsenz zu rekonstruieren.
 - Notieren Sie Ihre Feststellungen auf Ihrer Vorlage.   
 
