@@ -39,7 +39,7 @@ Certains se demandent peut-être pourquoi les étudiants en sciences humaines de
 ### 2.b  Enregistrement numérique/analogique | 15 min
 <!-- section-contents -->
 
-- Visualisez la vidéo sur le [fonctionnement d'un enregistreur numérique](https://www.youtube.com/watch?v=SfEXnX__X9Y&feature=youtu.be){:target="_blank"}.
+- Visualisez la vidéo sur le [fonctionnement d'un enregistreur numérique](https://www.youtube.com/watch?v=SfEXnX__X9Y&feature=youtu.be) qui vous trouvez dans la section Suggestions de lectures/vidéos{:target="_blank"}.
 - Quelle est la différence fondamentale entre l'enregistrement analogique et l'enregistrement numérique ?
 - Saisissez la réponse dans votre modèle.
 
@@ -49,6 +49,7 @@ Certains se demandent peut-être pourquoi les étudiants en sciences humaines de
 <!-- section-contents -->
 
 - Pour visualiser une vidéo expliquant comment un enregistreur à fil a été reconstruit à l'université d'Akron aux États-Unis, veuillez [cliquer ici](https://www.youtube.com/watch?v=sOyOH_kWAdQ){:target="_blank"}.
+- Pour visualiser une vidéo expliquant comment un enregistreur numerique fonctionne, veuillez [cliquer ici](https://youtu.be/SfEXnX__X9Y){:target="_blank"}.
 - Pour lire un article de l'historien Trevor Owens sur la manière dont la numérisation affecte la nature d'une source historique, veuillez [cliquer ici](http://www.trevorowens.org/2015/12/digital-sources-digital-archives-the-evidentiary-basis-of-digital-history-draft/){:target="_blank"}.
 
 <!-- briefing-teacher -->
