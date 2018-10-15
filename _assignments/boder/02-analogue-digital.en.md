@@ -39,7 +39,7 @@ One might wonder why students of a humanities discipline should learn about the 
 ### 2.b  Digital and analogue recording | 15 min
 <!-- section-contents -->
 
-- Watch this clip about [how a digital recorder works](https://youtu.be/SfEXnX__X9Y) from YouTube channel MrAudioSoundImages
+- Watch this clip about [how a digital recorder works](https://youtu.be/SfEXnX__X9Y){:target="_blank"} from YouTube channel MrAudioSoundImages.
 - What is the key difference between analogue and digital recording?
 - Note the answer in your template.
 
