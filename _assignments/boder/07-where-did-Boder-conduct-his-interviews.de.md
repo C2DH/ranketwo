@@ -50,7 +50,7 @@ Die Gedanken der in Vertriebenenlagern untergebrachten Überlebenden waren einde
 - Klicken Sie auf [diesen Link](https://www.kedem-auctions.com/content/two-posters-issued-central-historical-commission-central-committee-liberated-jews-american){:target="_blank"}.
 - Laden Sie das Bild herunter, vergrößern Sie es und lesen Sie, was in der unteren linken Ecke geschrieben steht.
 - Versuchen Sie über Webrecherchen den ursprünglichen Ort herauszufinden, an dem dieses Poster geschaffen wurde.
-- Wer hat das Poster entworfen? Wo wurde es entworfen? Mit welchen Mitteln? Who published it on the web? 
+- Wer hat das Poster entworfen? Wo wurde es entworfen? Mit welchen Mitteln? Wer hat es publiziert online? 
 
 <!-- section -->
 
@@ -69,7 +69,6 @@ Die Gedanken der in Vertriebenenlagern untergebrachten Überlebenden waren einde
 
 ### Empfehlungen Lektüre/Video
 <!-- section-contents -->
-
-Link zur Beschreibung in Bezug auf Geschichtsblog
+Jewish Virtual Library - https://www.jewishvirtuallibrary.org/displaced-persons-camps-across-europe 
 
 <!-- briefing-teacher -->
