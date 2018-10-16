@@ -27,7 +27,7 @@ Moreover, National Libraries deal with all kinds of financial, legal and technic
 
 <!-- more -->
 <!-- briefing-student -->
-### Instruction
+### Instructions
 
 <!-- section-contents -->
 To sensitize you to the subject of digitization of newspapers, watch these clips on two large scale digitization projects, one in the Unites States that discusses all the aspects of the goal of the project and the digitization process: [Chronincling America](https://www.youtube.com/watch?v=LclIm9s7Iho), and one in Europe, [Europeana Newspapers](https://www.youtube.com/watch?v=5G6v00Z8CyQ) that is meant for promotion of the project. Also watch the [clip about retired engineer Tom Tryniski](https://www.youtube.com/watch?v=KVWDX6oaYCg&feature=youtu.be), who took up the task of digitizing a gigantic corpus of newspapers and offering them online free of charge.
@@ -54,24 +54,20 @@ Retrieval
 - What is the quality of the Optical Character Recognition process?
 - Has article segmentation been applied? Can we search within advertisements, images ?
 
+(BELOW ALREADY PROOFREAD BY SARAH)
+
+You are going to find out how and why newspapers are digitised and what is needed to be able to consult them online. Because of the diversity in approaches to digitisation projects and web design and possible unfamiliarity with online archives, there is a risk of not being able to see the wood for the trees while completing this assignment. 
+To give you an example of what kind of answers are expected in response to these questions and what the variables in the table mean, we have created a sample answer on the basis of the Luxembourg online newspaper archive eluxemburgensia.lu and the Tageblatt newspaper.
+○	Open up this PDF, print it and use it as a reference to search for other newspapers. 
 
 <!-- section -->
 ### 6.a Who digitizes, with what purpose and how is access arranged?   
 <!-- section-contents -->
-You are going to find out how this is arranged for a number of collections.
 
 - A list of initiatives across the globe has been collected on [wikipedia](https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives):
 - What projects have been completed or are ongoing in your own country?
+- Open up the links to the collections of digitised newspapers in the table, browse through the content and choose two newspapers in a    language that you master.
 
-- Open up the links to the following collections, browse throught the content, and choose at least two newspapers in a language you feel comfortable with.
-
-Complete the table in your template with the answers to the following questions:
-- What type of institution carried out the digitisation? public/private, for commercial/academic/preservation purpose?
-- How can you access these collections?
-- Is a subscription needed? Is there distant access or is it limited to the premisses of the institution?
-- Is there a dedicated interface for the digitised newspapers or is the interface common to other sources, such as books and images?
-- Where do the titles come from? In which languages are they available? Are there some special sub-collections?
-- What information is provided on each individual title by the institution?
 
 |     | 1. Institution | 2. Type of access | 3. Interface | 4. Collection specificities | 5. Metadata title 
 | --- | -------------- | ----------------- | ------------ | --------------------------- | -----------------
@@ -84,6 +80,14 @@ Complete the table in your template with the answers to the following questions:
 | [Delpher](https://www.delpher.nl) (NL)|   |   |   |  
 | [ANNO](http://anno.onb.ac.at/anno-suche#searchMode=simple&from=1)(DE)|   |   |   |  
 | [Zeitungsportal DDR-Presse](http://zefys.staatsbibliothek-berlin.de/ddr-presse/) (DE) |   |   |   |
+
+Complete the table in your template with the answers to the following questions:
+- What type of institution carried out the digitisation? Public/private, for commercial/academic/preservation purposes?
+- How can you access these collections?
+- Is a subscription needed? Is there remote access or is it limited to the premises of the institution?
+- Is there a dedicated interface for the digitised newspapers or is the interface common to other sources such as books and images?
+- Where do the titles come from? What languages are they available in? Are there any special subcollections?
+- What information is provided on each individual title by the institution?
 
 <!-- section -->
 ### 6.b The newspaper as historical source
