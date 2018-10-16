@@ -2,7 +2,7 @@
 layout: assignment
 unit: archival-digital-turn
 lang: en
-title: "From Glassplates to Google: Digital source criticism on August Sander’s "People of the 20th Century"
+title: "From Glassplates to Google: Digital source criticism on August Sander’s \"People of the 20th Century\""
 cover:
 authors: 
   - juliane-tatarinov
