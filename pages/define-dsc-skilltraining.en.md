@@ -3,7 +3,7 @@ layout: page
 lang: en
 permalink: /define-dsc/skilltraining
 link: /define-dsc/skilltraining
-title: "Phd Skill Training, 30/31-10-2017: Exploring the origin and use of the term  Digital Source Criticism"
+title: "PhD skill training, 30/31-10-2017: Exploring the origin and use of the term  "digital source criticism"
 documents: 
 - dsc-skill-training
 ---
