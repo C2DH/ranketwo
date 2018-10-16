@@ -78,8 +78,6 @@ These can be subjects related to Boder’s life, such as:
 ### 1.c  Create a new account and a new timeline | 120 min
 <!-- section-contents -->
 
-Follow the instructions supplied in the tutorial.
-
 - Create at least four entries on a timeline about a topic related either to Boder’s life or to early accounts on experiences in concentration camps.
 
 You could consider:
