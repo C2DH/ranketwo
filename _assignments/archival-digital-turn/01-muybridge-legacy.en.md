@@ -19,9 +19,7 @@ outcomes:
  - Learning to consult the Internet Archive
  - Learning the impact of digital technology and the web on the dissemination and knowledge about an artist/photographer 
 ---
-
-Eadweard Muybridge laid the basis for the development of cinematography by producing photos of a trotting horse with a series of
-cameras that "snapped" as soon as the horse passed through an electrical control. The silhouttes were transferred to glass plates, that would be turned round at great speed, simulating a continous movement. This device was called a [zoopraxiscope](https://en.wikipedia.org/wiki/Zoopraxiscope). Many artists, photographers and scholars were inspired by his work, but the impact and dissemination of his legacy was magnified by the introduction of digital technology and the web in the late 1990s.
+Eadweard Muybridge laid the basis for the development of cinematography by producing photos of a trotting horse with a series of cameras that “snapped” as soon as the horse passed through an electrical control. The silhouettes were transferred to glass plates, that were rotated at great speed, simulating a continuous movement. This device was called a [zoopraxiscope](https://en.wikipedia.org/wiki/Zoopraxiscope). Many artists, photographers and scholars were inspired by his work, but the impact and dissemination of his legacy was magnified by the introduction of digital technology and the web in the late 1990s.
 This assignment looks at the relationship between Muybridge’s original glass plates, and what can be retrieved,
 viewed/read and re-used on the web. The San Francisco Museum of Modern Art has been created [an animation](https://youtu.be/wNU7sXkZmSw)on this subject. Watch it for a concise overview of Eadweard Muybridge and his achievements.
 
