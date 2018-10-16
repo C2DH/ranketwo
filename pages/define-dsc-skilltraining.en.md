@@ -3,8 +3,8 @@ layout: page
 lang: en
 permalink: /define-dsc/skilltraining
 link: /define-dsc/skilltraining
-title: "PhD skill training, 30/31-10-2017: Exploring the origin and use of the term  "digital source criticism"
-documents: 
+title: "PhD skill training, 30/31-10-2017: Exploring the origin and use of the term  \"digital source criticism\""
+documents:
 - dsc-skill-training
 ---
 
@@ -16,9 +16,9 @@ If you are interested in re-using the full program, please contact: ..........
 **PROGRAM**
 Skills Training ‘digital source criticism’
 Doctoral Training Unit DHH
-by Prof. Andreas Fickers, Dr. Stefania Scagliola, Andy O’Dwyer 
+by Prof. Andreas Fickers, Dr. Stefania Scagliola, Andy O’Dwyer
 30 + 31 October 2017
-participants: 16 
+participants: 16
 Required: photoscanner, book scanner, 3d scanner, cassette/video player and software for analogue/digital conversion
 
 **Context**
@@ -31,17 +31,17 @@ Keywords: digital source criticism, digital history, digital hermeneutics, digit
 **Organisation**
 
 The skills training is organized by the DHH doctoral training unit and will be led by Prof. Andreas Fickers, Dr. Stefania Scagliola and Andy O’Dwyer. It consists of a two-day program, in which lectures and theoretical discussions are combined with hands-on demonstrations and group experiments. The first day is dedicated to literature and to  making sketches and drawings of how the digital affects the nature of a historical source.
-The second day the participants are going to digitize various datatypes and reflect on their observations of this process and the differences between data types. The last part of the training consists of a crowdsourcing experiment in which the genealogy of the term Digital Source Criticism is going to be traced and documented. 
+The second day the participants are going to digitize various datatypes and reflect on their observations of this process and the differences between data types. The last part of the training consists of a crowdsourcing experiment in which the genealogy of the term Digital Source Criticism is going to be traced and documented.
 
-**Objectives** 
+**Objectives**
 
 Get acquainted with the concept of ‘Digital Source Criticism’ its relation to the traditional form of source criticism and its various perspectives and conceptualizations.
 Experience the transformation of a source from its analogue to its digital form.
 Being able to reflect on and problematize this transformation from analogue to digital  of different source types (textual, visual, audio, object, online)
-Being able to reflect on the relation between the analog archive, the web and your own hard disk(s). 
+Being able to reflect on the relation between the analog archive, the web and your own hard disk(s).
 Being able to apply the principle of Digital Source Criticism to your own PhD research
 
-**Time schedule of the training** 
+**Time schedule of the training**
 
 DAY 1 Monday 30 October 2017 - Digital History Lab
 
@@ -55,7 +55,7 @@ lecture 45 min - discussion 45
 Coffee break
 
 11h00 – 12h30
-**A. Tag the Literature** 
+**A. Tag the Literature**
 
 Teams will be formed with the task of tagging the literature that has been read, on the basis of the abstracts that have been written as preparatory work, and the thesaurus on Digital History:  http://www.dhlab.lu/dh-glossary/
 In the last 20 min each team will present its results.
@@ -64,14 +64,14 @@ In the last 20 min each team will present its results.
 Lunch
 
 13h30 – 15h00
-**B. Source transformationfrom analogue to digital - Envisioning the phases of transformation** 
+**B. Source transformationfrom analogue to digital - Envisioning the phases of transformation**
 
-The teams consider the objects/data/sources that they have brought along, choose a number of different data types, and attempt to make sketches of the phases of its transformation from analog to digital. The result should be a series of  drawings/sketches that help to visualize and  reconstruct the transformation process. White boards, digital bords and paper will be at your disposal. A number of websites will be listed where you can find information about electricity, light, sound and other physical processes. 
+The teams consider the objects/data/sources that they have brought along, choose a number of different data types, and attempt to make sketches of the phases of its transformation from analog to digital. The result should be a series of  drawings/sketches that help to visualize and  reconstruct the transformation process. White boards, digital bords and paper will be at your disposal. A number of websites will be listed where you can find information about electricity, light, sound and other physical processes.
 
-15h00 - 15.20 
+15h00 - 15.20
 **Source transformation: from analogue to digital (text, images and 3d)**
 
-Lecture Andy O’Dwyer- Reflection on the life cycle from creation to presentation and transformations in materiality of three data types: text, images and 3d objects. 
+Lecture Andy O’Dwyer- Reflection on the life cycle from creation to presentation and transformations in materiality of three data types: text, images and 3d objects.
 
 15h20 - 15h40
 pause for coffee/tea
@@ -83,8 +83,8 @@ Lecture Stefania Scagliola about Transformation of Sound
 Reflection on the life cycle of the interview collection of David Boder, from steel wire to interactive webresource.  
 
 16h00 - 16.30
-integrate new insights, missing features 
-Adjust/correct visualizations. The teams have time to adjust/complement their schemes on the basis of new insights and prepare their sketches to present 
+integrate new insights, missing features
+Adjust/correct visualizations. The teams have time to adjust/complement their schemes on the basis of new insights and prepare their sketches to present
 
 16h30 - 17.00
 **review of the results of the visualisations**
@@ -96,12 +96,12 @@ A team of specialists (Stefan Krebs, Daniele Guido, Andy O’Dwyer) will review 
 DAY 2 Tuesday 31 October 2017 - Digital History Lab
 
 9.00 - 9.10
-Day overview - show clip ‘transformation’ 
+Day overview - show clip ‘transformation’
 
 09h10 – 12h00
-**C. Actual digitization of data** 
+**C. Actual digitization of data**
 
-The exercise consists of tangible hands-on experiences with actual digitization processes with different data types: text, image, sound and 3d.  The groups are divided in teams and each team goes through the various phases of transformation, and documents its observations in a scheme. 
+The exercise consists of tangible hands-on experiences with actual digitization processes with different data types: text, image, sound and 3d.  The groups are divided in teams and each team goes through the various phases of transformation, and documents its observations in a scheme.
 
 10h15 – 10h30
 Coffee break
@@ -113,9 +113,9 @@ Coffee break
 Lunch
 
 14h00 – 16h00
-**D. The genealogy of the term Digital Source Criticism - Evolution of the meanings of Digital Source Criticism** 
+**D. The genealogy of the term Digital Source Criticism - Evolution of the meanings of Digital Source Criticism**
 
-The group is split up in teams, that each will  conduct web research, and consult a series of analog books and articles that will be provided, with the aim of tracing the origin and use of the term Digital Source Criticism, the combination of the three words, of the two words, and the separate words. The N-gram can be used for this purpose and some specific bibliographic search strategies.  The results will be turned into lemmas and inserted into a table. One of the PhD students will present the results. 
+The group is split up in teams, that each will  conduct web research, and consult a series of analog books and articles that will be provided, with the aim of tracing the origin and use of the term Digital Source Criticism, the combination of the three words, of the two words, and the separate words. The N-gram can be used for this purpose and some specific bibliographic search strategies.  The results will be turned into lemmas and inserted into a table. One of the PhD students will present the results.
 These will be later reviewed by experts. If the members of the team agree, the results of this research could be published on the Ranke.2 Website on Teaching Digital Source Criticism, as a collaborative work of the PhD Doctoral Training Unit Group.
 
 16h00 – 17h00
@@ -129,7 +129,4 @@ Record short video-clip in pairs. Participants take their short description of t
 
 17h30 - 18.00
 Drinks and Closing remarks
-post training assignment 
-
-
-
+post training assignment
