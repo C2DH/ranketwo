@@ -1,4 +1,12 @@
 -
+    id: david-boder-french
+    title: "David Boder's interview collection: from analogue to digital"
+    type: vimeo
+    aspectratio: aspect-16-9
+    thumbnail: https://i.vimeocdn.com/video/708218729.jpg?mw=960&mh=540&q=70
+    vimeo_id: 292701349
+    src: https://player.vimeo.com/video/292701349
+-
     id: david-boder
     title: "David Boder's interview collection: from analogue to digital"
     type: vimeo
