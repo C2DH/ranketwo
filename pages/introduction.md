@@ -64,13 +64,13 @@ By engaging with our lessons, that consist of animations, quizzes and assignment
 ### Transformation from analogue to digital
 ![Screen Shot 2018-10-15 at 08.04.23.png](https://c2dh.github.io/ranketwo/assets/images/Screen Shot 2018-10-15 at 08.04.23.png){:height="175px" .float-left.mr-3.mt-2.mb-4}
 A digital text, image or recording may appear to be similar to its analogue version, but it is actually a collection of digits arranged in a particular order that offers a representation of the original which can be viewed on a screen, without its material characteristics.
-Turning an analogue object into a digital one entails a whole series of changes that affect its appearance and informative value. The analogue object is taken out of its original context, whether a private household, archive, museum or library, converted into digits,  enriched with metadata and then published online. See: [lit](owens-digital-sources-digital-archives);[lit](Hughes and Lang, )[lit](hughes-lang-transmutability-decontextualization);[lit](sternfeld-understanding-quantum-age) [lit]( terras-digitisation-resources-humanities)
+Turning an analogue object into a digital one entails a whole series of changes that affect its appearance and informative value. The analogue object is taken out of its original context, whether a private household, archive, museum or library, converted into digits,  enriched with metadata and then published online. See: [lit](owens-digital-sources-digital-archives);[lit](hughes-lang-transmutability-decontextualization);[lit](sternfeld-understanding-quantum-age);[lit](terras-digitisation-resources-humanities)
 
 
 {: .extra-spacing}
 ### The hybrid historian
 ![Screen Shot 2018-10-15 at 07.52.57.png](https://c2dh.github.io/ranketwo/assets/images/Screen Shot 2018-10-15 at 07.52.57.png){:height="175px" .float-left.mr-3.mt-2.mb-4}
-These changes do not mean that traditional approaches to research are becoming obsolete. We still need to attentively read, analyse and interpret primary and secondary sources. We have to maintain our ability to sketch and to write with pen and pencil. We still need to visit archives, libraries and museums, since only a very small percentage of their sources have been published online. The best equipped historian is the hybrid historian, who knows how to combine traditional and innovative research practices. See: [lit](zaagsma-digital-history)
+These changes do not mean that traditional approaches to research are becoming obsolete. We still need to attentively read, analyse and interpret primary and secondary sources. We have to maintain our ability to sketch and to write with pen and pencil. We still need to visit archives, libraries and museums, since only a very small percentage of their sources have been published online. The best equipped historian is the hybrid historian, who knows how to combine traditional and innovative research practices. See:[lit](zaagsma-digital-history)
 
 {: .extra-spacing}
 ### Insights through crossovers
