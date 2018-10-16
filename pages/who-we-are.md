@@ -6,88 +6,96 @@ link: /who-we-are/
 title: Who we are
 ---
 
+People with varied but complimentary experience, qualifications, and skills that contribute to the achievement of this project.
+
 <!-- more -->
-OUR MISSION
+## Our mission
 
-The Ranke.2 teaching resource is the result of efforts by the Director of the C2DH, Andreas Fickers, to conceptualise the [term digital source criticism] (http://ojs.viewjournal.eu/index.php/view/article/view/jethc004/4) and to prioritise [the application of this approach for the development of open-source teaching materials](https://www.science.lu/fr/youtube-en-tant-que-source/les-chances-les-risques-dune-historiographie-numerique) aimed at lecturers and students that can be integrated into academic curricula for the humanities. 
+The Ranke.2 teaching resource is the result of efforts by the Director of the C2DH, Andreas Fickers, to conceptualise the [term digital source criticism](http://ojs.viewjournal.eu/index.php/view/article/view/jethc004/4) and to prioritise [the application of this approach for the development of open-source teaching materials](https://www.science.lu/fr/youtube-en-tant-que-source/les-chances-les-risques-dune-historiographie-numerique) aimed at lecturers and students that can be integrated into academic curricula for the humanities.
 
+{: .extra-spacing}
+### director
+Andreas Fickers - C2DH 
 
-DIRECTORS  
-Andreas Fickers - intellectual author
-Gerben Zaagsma - management and administration 
+### management and administration
+Gerben Zaagsma - C2DH <br>
 
-CONCEPTUAL FRAMEWORK OF RANKE.2  AND PROJECT COORDINATION
-Stefania Scagliola -  C2DH
+### Conceptual framework of ranke.2  and project coordination
+Stefania Scagliola - C2DH
 
-CONCEPTUAL FRAMEWORK OF RANKE.2 AND WEB DESIGN 
+### Conceptual framework of ranke.2 and web design
 Daniele Guido - C2DH
 
-WEB DEVELOPMENT
+### web development
+Daniele Guido - C2DH <br>
 Frederic Reis - C2DH
 
-ADD ON FOR INTEGRATION IN MOODLE 
-Shahed Parnian - 
+### Moodle integration
+Shahed Parnian - University of Luxembourg
 
-ANIMATIONS 
-Cristina Garcia Martin -  All Things Moving
-Alexandre Germain, Emmanuelle Hingray -  Media Centre University of Luxembourg
+### animations
+Cristina Garcia Martin -  All Things Moving <br>
+Alexandre Germain - Media Centre University of Luxembourg <br>
+Emmanuelle Hingray -  Media Centre University of Luxembourg <br>
 Daniele Guido - C2DH
 
-VIDEO LECTURES 
-Eloise Adde -  Faculte des Lettres, Sciences Humaines, Arts, Sciences de l’Education - University of Luxembourg 
+### video lectures
+Eloise Adde -  Faculte des Lettres, Sciences Humaines, Arts, Sciences de l’Education - University of Luxembourg <br>
 Lars Wieneke -  C2DH
 
-STORYBOARDS
+### storyboards
 Stefania Scagliola - C2DH
 
-VOICE OVERS
-Stefania Scagliola - C2DH
+### voice overs
+Stefania Scagliola - C2DH <br>
 Andreas Fickers - C2DH
 
-TEXT EDITING
-Gerben Zaagsma - C2DH
-Cristina Garcia Martin - All Things Moving
-Andreas Fickers - C2DH
-Stefan Krebs - C2DH
-Lars Wieneke - C2DH
-Arjan van Hessen - University of Utrecht 
+### text editing
+Gerben Zaagsma - C2DH <br>
+Cristina Garcia Martin - All Things Moving <br>
+Andreas Fickers - C2DH <br>
+Stefan Krebs - C2DH <br>
+Lars Wieneke - C2DH <br>
+Arjan van Hessen - University of Utrecht
 
-ENGLISH PROOF READING AND TRANSLATION INTO FRENCH AND GERMAN
-Sarah Cooper, Maria Cristina Piticco - University of Luxembourg
-Andy O’Dwyer  - C2DH
-Andreas Fickers - C2DH
-Brigitte Melchior-Dolenc - C2DH
+### english proof reading and translation into french and german
+Sarah Cooper  - University of Luxembourg <br>
+Maria Cristina Piticco - University of Luxembourg <br>
+Andy O’Dwyer  - C2DH <br>
+Andreas Fickers - C2DH <br>
+Brigitte Melchior-Dolenc - C2DHv <br>
 Karin Priem - C2DH
 
-RECORDING AND EDITING OF MUSIC,SOUND AND VIDEO
+### Recording and editing of music,sound and video
 Alexandre Germain - Media Centre University of Luxembourg
 
-RESEARCH
-Stefania Scagliola -  C2DH 
-Sidney Wiltgen - student assistant 
+### Research
+Stefania Scagliola -  C2DH <br>
+Sidney Wiltgen - student assistant
 
-COPYRIGHT CLEARANCE 
+### Copyright clearance
 Cecile Duval - C2DH
 
-CONTRIBUTIONS  TO LESSONS
-Estelle Bunout
-Marten Düring
-Florentina Armaselu
-Juliane Tatarinov 
-Max Kemman 
+### Controbitors to lessons
+Estelle Bunout - C2DH <br>
+Marten Düring - C2DH  <br>
+Florentina Armaselu - C2DH  <br>
+Juliane Tatarinov - C2DH  <br>
+Max Kemman - C2DH
 
-REVIEW OF TEACHING CONTENT 
-Gerben Zaagsma - C2DH
-Guido Lessing - C2DH
-Marvin Schieben - student
-Davina Kronz - student
-Thomas Woloszyn - student
-David Mechtel - student
-Katia Rocha - student
-Sidney Wiltgen - student assistant 
+### Review of teaching content
+Gerben Zaagsma - C2DH <br>
+Guido Lessing - C2DH <br>
+Marvin Schieben - student <br>
+Davina Kronz - student <br>
+Thomas Woloszyn - student <br>
+David Mechtel - student <br>
+Katia Rocha - student <br>
+Sidney Wiltgen - student assistant
 
-ACKNOWLEDGMENTS 
-C2DH - Sandra Camarda, Ira Plein, Martin Richard, Guido Lessing, Tim van der Heijden, Shohreh Haddadan, Max Kemman, Anita Lucchesi, Valérie Schafer, Kaarel Sikk, Fabio Spirinelli, Benjamin Zenner, Karin Priem, Benoît Majerus, Cristophe Brull
-Faculte des Lettres, Sciences Humaines, Arts, Sciences de l’Education - University of Luxembourg  - Andrea Binsfeld, Sonja Kmec, Michel Margue, Eloise Adde. 
-Paul V. Galvin Library, Illinois Institute of Technology  - Ralph Pugh, University Archivist & Adjunct Professor of History, Adam Strohm, Director University Archives and Special Collections.  
-
+### Acknowledgments
+Sandra Camarda, Ira Plein, Martin Richard, Guido Lessing, Tim van der Heijden, Shohreh Haddadan, Max Kemman, Anita Lucchesi, Valérie Schafer, Kaarel Sikk, Fabio Spirinelli, Benjamin Zenner, Karin Priem, Benoît Majerus, Cristophe Brull - C2DH <br>
+Andrea Binsfeld, Sonja Kmec, Michel Margue, Eloise Adde - Faculte des Lettres, Sciences Humaines, Arts, Sciences de l’Education - University of Luxembourg<br>
+Ralph Pugh -  University Archivist & Adjunct Professor of History Illinois Institute of Technology  <br>
+Adam Strohm - Director University Archives and Special Collections <br>
+Paul V. Galvin Library - Illinois Institute of Technology  
