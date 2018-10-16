@@ -2,7 +2,7 @@
 layout: assignment
 unit: archival-digital-turn
 lang: en
-title: "From Glassplates to Google: Digital source criticism on August Sander’s People of the 20th Century"
+title: "From Glassplates to Google: Digital source criticism on August Sander’s "People of the 20th Century"
 cover:
 authors: 
   - juliane-tatarinov
@@ -35,53 +35,51 @@ During his life-time Sander published excerpts of his work and curated smaller e
 As early as 2003 an early version of the foundation's website could be snapshotted by the Internet Archive. Around 2008 one of the first online photographs of August Sander appeared on the website of the Northern gallery of Contemporary Art in Sunderland (UK),in the context of the exhibition ‘Fragile Democracy:new international photography'. In the same year the internet art-forum Luminous-Lint was launched with pictures of August Sander on its website. The first youtube clip appeared in 2010, in the same period as the launch of the search tool Pinterest and the introduction of Google's image search algorithms which proved very succesful. All these developments influenced the dissemination and re-interpretation of Sander's work.
 
 <!-- section -->
+
+### Instruction
+<!-- section -->
+You are going to compare search results of a query in two different web resources: Google Images and Pinterest. 
+Before starting your web search, you can improve your search skills by exploring the following documents/clips: 
+Here is a [clip about how Google’s search engine](https://www.youtube.com/watch?v=BNHR6IQJGZs) works:
+●	What has to be taken into account when watching this accessible and clear tutorial is that it is produced by Google, which is a commercial company. Its dominant role is called into question by people who are concerned with the concentration of power and how it can be misused to the disadvantage of smaller competitors. If you are interested you can listen to a newsreel about applying antitrust law against Google in the US. https://www.bloomberg.com/news/videos/2018-05-22/google-s-illegal-search-gets-prime-time-tv-treatment-video        
+Here is a short explanation on how Google Images works https://youtu.be/oJzD4vF5dFA. 
+Here is a clip explaining how the social medium Pinterest works https://youtu.be/oJzD4vF5dFA.  
+Here is an explanation on how to track down details on when online content has been published
+https://www.makeuseof.com/tag/find-date-published-post-insanely-simple-tips/. 
+Not every publication date can be traced through a link. If you want to avoid the frustrating experience of trial and error, first take a look at this PDF [ref](sander-trace-date), in which the tips explained above have successfully been applied to a photo from Sander’s collection. 
+
 ### 7.a Access to August Sander's portraits through Google and Pinterest
 <!-- section-contents -->
-You are going to compare search results.
+●	First perform a Google Images search with the name August Sander.
+●	Then open a new tab and do the same with the social media website Pinterest.
+●	Compare the two tabs. Note down the differences in your template. Consider the following elements: 
+○	The key words at the top of the page metadata/tags
+○	The standard for the size of the photos
+○	The metadata of each photo that is visible on the web page
+                 Now choose 2 photos that appear in both web pages, and: 
+○	Note down the metadata of the photo that appears when you click on it 
+○	Look for a reference to the origin of the photo in its analogue form
+○	Try to find out when the photo was published online 
+○	Check whether it really is a photo by August Sander 
 
-Before you start your websearch, here are some links to documents/clips that offer some basic knowledge on the tools/resources:
-- Here is clip about how [Google's search engine works](https://www.youtube.com/watch?v=BNHR6IQJGZs)
-- Here is a short explanation on [how Google Images works](https://www.dummies.com/education/internet-basics/knowing-google-images-basics/)
-- Here is an explanation on the history and objective of [Pininterest](https://en.wikipedia.org/wiki/Pinterest)
-- Here is an explanation how to trace down details on when online content has been published  
-https://www.makeuseof.com/tag/find-date-published-post-insanely-simple-tips/
+### 7.b Associative Tagging
 
-- First use the [google picture search](9https://images.google.com) with the name August Sander  
-- Then open a new tab and do the same with the [social media website Pininterest](https://www.pinterest.de/search/pins/?q=August%20Sander&rs=typed&term_meta[]=August%7Ctyped&term_meta[]=Sander%7Ctyped)
-- Compare the two tabs with each other - What are the differences?
-- Try to find out when Sander's photos were published online, by whom and with what reason
-
-Document your findings in your template
-
-<!-- section -->
-### 7.b Comparing Associative Tagging
-<!-- section-contents -->
-- Now, without clicking on the individual pictures in the results page, either those from Google or from Pinterest, choose 5 portraits (groups, individuals, old, young, women, men)
-- Take a long look at them and give each a tag or name that comes to your mind. Document this in your template.
-- Meet up with a fellow student, compare your search results, your choices, and your tags.  
-- Complement each others tags with an additional assessment of the background of the people portrayed on the photo
-  - social class
-  - profession
-  - age
-- Which criteria did you use for labelling the photographs? Why did you label the pictures in this way? Discuss!
-- Take a look at Sander's folders, in which folder would Sander have put the photographs you chose?
-- Now click on the pictures, you will see how Sander labelled the pictures himself.
-- What does this tell you about your own perceptions and labels?
-- What does it tell you about August Sander’s view on society?
-
-<!-- section -->
-### 7.c Printing Books
-<!-- section-contents -->
-How were the photos integrated into the book in 1971?
-First Book
-Last Book
-(see also internet ARchive)
-
-<!-- section -->
-### 7.d Where it all began: The Intention of the artist
-<!-- section-contents -->
-how did Sander create this collection?
-Technology, place and social approach (what were his sources?)
+●	Meet up with a fellow student; both of you should bring your own laptop.
+●	Compare the images that appear on the Pinterest web page on your own screen. The results may differ if your search history and geolocation is different. Google keeps track of these elements to deliver the best customised search results.  
+●	If you want to know which factors determine the differences in search results, see this blog from an online marketing company: https://www.lcn.com/blog/get-different-results-google-vs-location-users/.
+●	Now, without clicking on the individual pictures in the results page, either those from Google or Pinterest, together choose 6 portraits 
+(groups, individuals, old, young, women, men).
+●	Both of you should create space in your answering template, create screenshots of these 6 portraits and paste them into the template.
+●	Make sure to leave some space for a text box below each portrait. If you don’t know how to make a screenshot, consult this web page for Microsoft https://support.microsoft.com/en-us/help/13776/windows-use-snipping-tool-to-capture-screenshots or this webpage for Mac https://support.apple.com/en-us/HT201361#earlier.
+●	Start by working individually. Take a long look at the portraits on your own laptop, and give each portrait an associative tag, the first word that comes to mind. 
+●	Then try to imagine the age and profession of the person/people in the portraits and the social class they belong to. Add this to the text box. 
+●	When you have finished, compare your results with your fellow student. 
+●	Can you explain the differences? Discuss why you have labelled the pictures in that particular way. 
+●	Now click on the pictures and try to find out what the original descriptions of the portraits are. Add them to the text boxes.
+●	You may encounter difficulties in tracing the original metadata. These are the possible results of your search:  
+●	You are led to a website with original information on the photo, its origin, what it depicts, and why and when it was published online. 
+●	You are led to a website that does not reveal information about the specific photo but generic information about a book in which the photo features. 
+●	You are led to a website in which the photo has been reused without information about what is depicted, when and how it was created, and when and why it was reused and published online. This is called “decontextualisation”; in other words the digital object is detached from its original context of creation and archival history. If you had created a PDF of your assignment and published it online without references to the original work, you would also be contributing to the decontextualisation of Sander’s work. To keep these processes under control, it is important to reference correctly.  
 
 <!-- section -->
 ### reading/viewing suggestions
