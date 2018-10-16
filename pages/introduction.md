@@ -55,7 +55,7 @@ By engaging with our lessons, that consist of animations, quizzes and assignment
  4. How information is added to a digital object (metadata)
  5. How data is published online and made searchable
  6. What the impact of search engines is on finding and selecting sources
- 7. How to apply a number of digital tools to data 
+ 7. How to apply a number of digital tools to data
  8. The difference between conducting research in an archive and online
  9. The properties of different types of data (text, images, objects, audio-visual)
 
@@ -64,7 +64,7 @@ By engaging with our lessons, that consist of animations, quizzes and assignment
 ### Transformation from analogue to digital
 ![Screen Shot 2018-10-15 at 08.04.23.png](https://c2dh.github.io/ranketwo/assets/images/Screen Shot 2018-10-15 at 08.04.23.png){:height="175px" .float-left.mr-3.mt-2.mb-4}
 A digital text, image or recording may appear to be similar to its analogue version, but it is actually a collection of digits arranged in a particular order that offers a representation of the original which can be viewed on a screen, without its material characteristics.
-Turning an analogue object into a digital one entails a whole series of changes that affect its appearance and informative value. The analogue object is taken out of its original context, whether a private household, archive, museum or library, converted into digits,  enriched with metadata and then published online. See: (Owens,2017) [ref](owens-digital-sources-digital-archives), (Hughes and Lang, )[ref](hughes-lang-transmutability-decontextualization), (Sternfeld, 2014) [ref](sternfeld-understanding-quantum-age) (Terras,2012)[ref]( terras-digitisation-resources-humanities)
+Turning an analogue object into a digital one entails a whole series of changes that affect its appearance and informative value. The analogue object is taken out of its original context, whether a private household, archive, museum or library, converted into digits,  enriched with metadata and then published online. See: [lit](owens-digital-sources-digital-archives); (Hughes and Lang, )[ref](hughes-lang-transmutability-decontextualization), (Sternfeld, 2014) [ref](sternfeld-understanding-quantum-age) (Terras,2012)[ref]( terras-digitisation-resources-humanities)
 
 
 {: .extra-spacing}
@@ -82,5 +82,3 @@ The lessons we offer on this website are a crossover between history, archival s
 meta-source criticism, the creation, enrichment and identification of digitised and born-digital sources,
 tool criticism:
 remix and re-contextualisation: reuse of data in a digital context
-
-

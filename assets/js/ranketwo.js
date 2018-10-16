@@ -48,6 +48,12 @@
                   .attr('href', doc.url)
                   .attr('target', '_blank');
                 break;
+              case 'lit':
+                d3.select(this)
+                  .html(_self.refAuthorYear(doc, false))
+                  .attr('href', doc.url)
+                  .attr('target', '_blank');
+                break;
               case 'block':
                 var block = _self.createBlock(doc);
                 this.parentNode.insertBefore(block.node(), this);
@@ -101,15 +107,19 @@
       // });
     }
 
-    this.refAuthorYear = function(doc) {
-      return '(' + [doc.data.author, doc.data.year]
+    this.refAuthorYear = function(doc, withParenthesis) {
+      var authoryear = [doc.data.author, doc.data.year]
         .filter(function(d) {
           return typeof d !== 'undefined';
         })
         .map(function(d) {
-          return ('' + d).replace(/\s*,\s*$/, '');
+          return ('' + d).replace(/\s*,\s*$/, '').trim();
         })
-        .join(', ') + ')';
+        .join(', ')
+      if(withParenthesis) {
+        return '(' + authoryear + ')';
+      }
+      return authoryear;
     }
 
     this.refAuthorTitleYear = function(doc) {
