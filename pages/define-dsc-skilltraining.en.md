@@ -46,6 +46,7 @@ Being able to apply the principle of Digital Source Criticism to your own PhD re
 DAY 1 Monday 30 October 2017 - Digital History Lab
 
 09h10 – 10h45
+
 **Introduction to ‘Digital Source Criticism’ -  the history of source criticism and its problematization from a digital history perspective**
 Lecture Prof. Andreas Fickers
 lecture 45 min - discussion 45
@@ -55,6 +56,7 @@ Coffee break
 
 11h00 – 12h30
 **A. Tag the Literature** 
+
 Teams will be formed with the task of tagging the literature that has been read, on the basis of the abstracts that have been written as preparatory work, and the thesaurus on Digital History:  http://www.dhlab.lu/dh-glossary/
 In the last 20 min each team will present its results.
 
@@ -63,10 +65,12 @@ Lunch
 
 13h30 – 15h00
 **B. Source transformationfrom analogue to digital - Envisioning the phases of transformation** 
+
 The teams consider the objects/data/sources that they have brought along, choose a number of different data types, and attempt to make sketches of the phases of its transformation from analog to digital. The result should be a series of  drawings/sketches that help to visualize and  reconstruct the transformation process. White boards, digital bords and paper will be at your disposal. A number of websites will be listed where you can find information about electricity, light, sound and other physical processes. 
 
 15h00 - 15.20 
 **Source transformation: from analogue to digital (text, images and 3d)**
+
 Lecture Andy O’Dwyer- Reflection on the life cycle from creation to presentation and transformations in materiality of three data types: text, images and 3d objects. 
 
 15h20 - 15h40
@@ -74,6 +78,7 @@ pause for coffee/tea
 
 15h40 - 16h00
 **Source transformations: from analogue to digital (oral history)**
+
 Lecture Stefania Scagliola about Transformation of Sound
 Reflection on the life cycle of the interview collection of David Boder, from steel wire to interactive webresource.  
 
@@ -83,6 +88,7 @@ Adjust/correct visualizations. The teams have time to adjust/complement their sc
 
 16h30 - 17.00
 **review of the results of the visualisations**
+
 A team of specialists (Stefan Krebs, Daniele Guido, Andy O’Dwyer) will review results and give comments
 
 
@@ -94,6 +100,7 @@ Day overview - show clip ‘transformation’
 
 09h10 – 12h00
 **C. Actual digitization of data** 
+
 The exercise consists of tangible hands-on experiences with actual digitization processes with different data types: text, image, sound and 3d.  The groups are divided in teams and each team goes through the various phases of transformation, and documents its observations in a scheme. 
 
 10h15 – 10h30
@@ -107,6 +114,7 @@ Lunch
 
 14h00 – 16h00
 **D. The genealogy of the term Digital Source Criticism - Evolution of the meanings of Digital Source Criticism** 
+
 The group is split up in teams, that each will  conduct web research, and consult a series of analog books and articles that will be provided, with the aim of tracing the origin and use of the term Digital Source Criticism, the combination of the three words, of the two words, and the separate words. The N-gram can be used for this purpose and some specific bibliographic search strategies.  The results will be turned into lemmas and inserted into a table. One of the PhD students will present the results. 
 These will be later reviewed by experts. If the members of the team agree, the results of this research could be published on the Ranke.2 Website on Teaching Digital Source Criticism, as a collaborative work of the PhD Doctoral Training Unit Group.
 
@@ -116,6 +124,7 @@ These will be later reviewed by experts. If the members of the team agree, the r
 
 17h00 – 17h30
 **E. Evaluation**
+
 Record short video-clip in pairs. Participants take their short description of their source that they have prepared in advance, read it out loud, and reflect on how what they have learned/experienced during the skill training, relates to their own source material  (3-minute) What is  the added value of the training for applying Digital Source Criticism to their own sources? This material is sent to a Google folder and can be the basis for the reflective report and a blog about the training.  
 
 17h30 - 18.00
@@ -124,22 +133,3 @@ post training assignment
 
 
 
-
-
-***Origin*** [information crowdsourced during PhD skill training - October 2017]
-
-Components: Digital -  Source   -  Criticism
-***Digital*** Latin: finger, 15th c: whole number<10	using data in the form of numerical digits; in context of mathematics, later computer science	http://www.dictionary.com; Google etyomology; Oxford english dictionary
-***Source***	Late Middle English: from Old French sours(e), past participle of sourdre ‘to rise’, from Latin surgere	A book or document used to provide evidence in research	Oxford dictionary;
-***Criticism***	Early 17th century: from critic or Latin criticus + -ism.	The analysis and judgement of the merits and faults of (a literary or artistic work); 	Oxford dictionary
-
-***Digital Source***		"a set of structured information, modelled, passed on to the computer and processed by it;
-
-## Literature
-Many websites don't mention a specific definition. Many University library websites connect the term to electronic repositories or online sources without explanation."	"J.-Ph. Genet, « Source, métasource, texte, histoire », in: F. Bocchi et P. Denley
-(éd.), Storia & Multimedia, Bologna (1994), pp. 3-17.; University libraries website, general google search engine output"
-
-Source Criticism	19th century	evalution of information sources and critical research assessement	"Text of Anita
- (Birger Hjorland)"
-
-Digital Source Criticism	Google Scholar, first use 2001 ""Digital Source Criticism: Net Art as a Methodological Case Study" pdf"	The analysis and judgement of the merits and faults of data in the form of numerical digits used to provide evidence in research; The practice of source criticism but in a digital context; 	
