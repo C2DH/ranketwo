@@ -24,27 +24,23 @@ order: 7
 ---
 This assignment deals with the portrait-collection of the famous German photographer August Sander (1876-1964), People of the 20th Century. Sander’s aim was to document the entire society of his time as he perceived it. He believed that it would reveal a universal truth about societal traits by means of his photo camera. In the last decades many of his pictures have become accessible to the general audience through the web. When using this digitized and published material as source of knowledge on his work, it is however necessary to apply source criticism and trace the origin of what can be viewed on anyone's computer screen. What can we consider as the original work by Sander? His glassplates? Prints made from his glassplates? The printed books about his work that made him famous long after his death, or the digital versions of Sander’s portraits that can be found on the web? The following perspectives will be considered: first you will deal with the questions on why Sander' digital representations of his photos have been published online, and how they can be retreived through search engines. The second part of the assignment brings you back to the origin of the source: the images that were shot by him at the time, his motives, and how the first publishers and curators appreciated his work.  
 
+The idea for his project “People of the 20th Century” was born in 1925 and covers the period of the Weimar Republic 1919-1933.
+During his life-time Sander published excerpts of his work and curated smaller exhibitions, but unfortunately never managed to finalise the collection that had been originally designed to comprise 45 portfolia. When he passed away in 1964, his son Günther Sander inherited  ca. 2,000 negatives and managed to publish part of these in the photo book Menschen ohne Maske in 1971. Another edition had been published in 2001 the August Sander Foundation, SK Stiftung Kultur, in Cologne published a next edition. Later in 2010 they launched a website dedicated to Sander http://augustsander.org/md20jh/. But the dissemination of his work was not completely in their hands.  
+As early as 2003 an early version of the foundation's website could be snapshotted by the Internet Archive. Around 2008 one of the first online photographs of August Sander appeared on the website of the Northern gallery of Contemporary Art in Sunderland (UK),in the context of the exhibition ‘Fragile Democracy:new international photography'. In the same year the internet art-forum Luminous-Lint was launched with pictures of August Sander on its website. The first youtube clip appeared in 2010, in the same period as the launch of the search tool Pinterest and the introduction of Google's image search algorithms which proved very succesful. All these developments influenced the dissemination and re-interpretation of Sander's work.
+
 <!-- more -->
 
 <!-- briefing-student -->
 ### Instruction
 <!-- section-contents -->
 
-The idea for his project “People of the 20th Century” was born in 1925 and covers the period of the Weimar Republic 1919-1933.
-During his life-time Sander published excerpts of his work and curated smaller exhibitions, but unfortunately never managed to finalise the collection that had been originally designed to comprise 45 portfolia. When he passed away in 1964, his son Günther Sander inherited  ca. 2,000 negatives and managed to publish part of these in the photo book Menschen ohne Maske in 1971. Another edition had been published in 2001 the August Sander Foundation, SK Stiftung Kultur, in Cologne published a next edition. Later in 2010 they launched a website dedicated to Sander http://augustsander.org/md20jh/. But the dissemination of his work was not completely in their hands.  
-As early as 2003 an early version of the foundation's website could be snapshotted by the Internet Archive. Around 2008 one of the first online photographs of August Sander appeared on the website of the Northern gallery of Contemporary Art in Sunderland (UK),in the context of the exhibition ‘Fragile Democracy:new international photography'. In the same year the internet art-forum Luminous-Lint was launched with pictures of August Sander on its website. The first youtube clip appeared in 2010, in the same period as the launch of the search tool Pinterest and the introduction of Google's image search algorithms which proved very succesful. All these developments influenced the dissemination and re-interpretation of Sander's work.
-
-<!-- section -->
-
-### Instruction
-<!-- section -->
 You are going to compare search results of a query in two different web resources: Google Images and Pinterest. 
 Before starting your web search, you can improve your search skills by exploring the following documents/clips: 
 Here is a [clip about how Google’s search engine](https://www.youtube.com/watch?v=BNHR6IQJGZs) works:
 ●	What has to be taken into account when watching this accessible and clear tutorial is that it is produced by Google, which is a commercial company. Its dominant role is called into question by people who are concerned with the concentration of power and how it can be misused to the disadvantage of smaller competitors. If you are interested you can listen to a newsreel about applying antitrust law against Google in the US. https://www.bloomberg.com/news/videos/2018-05-22/google-s-illegal-search-gets-prime-time-tv-treatment-video        
-Here is a short explanation on how Google Images works https://youtu.be/oJzD4vF5dFA. 
-Here is a clip explaining how the social medium Pinterest works https://youtu.be/oJzD4vF5dFA.  
-Here is an explanation on how to track down details on when online content has been published
+●	Here is a short explanation on how Google Images works https://youtu.be/oJzD4vF5dFA. 
+●	Here is a clip explaining how the social medium Pinterest works https://youtu.be/oJzD4vF5dFA.  
+●	Here is an explanation on how to track down details on when online content has been published
 https://www.makeuseof.com/tag/find-date-published-post-insanely-simple-tips/. 
 Not every publication date can be traced through a link. If you want to avoid the frustrating experience of trial and error, first take a look at this PDF [ref](sander-trace-date), in which the tips explained above have successfully been applied to a photo from Sander’s collection. 
 
@@ -62,7 +58,7 @@ Not every publication date can be traced through a link. If you want to avoid th
 ○	Try to find out when the photo was published online 
 ○	Check whether it really is a photo by August Sander 
 
-### 7.b Associative Tagging
+### 7.b Associative tagging
 
 ●	Meet up with a fellow student; both of you should bring your own laptop.
 ●	Compare the images that appear on the Pinterest web page on your own screen. The results may differ if your search history and geolocation is different. Google keeps track of these elements to deliver the best customised search results.  
