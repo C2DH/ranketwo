@@ -2,78 +2,68 @@
 layout: assignment
 unit: boder
 type: assignment
-title: Where and how can Boder’s work be consluted?
+title: Où et comment consulter les travaux de David Boder ?
 cover: /assets/images/attachments/12boxes/12boxes_11.png
 order: 10
 lang: fr
+tags: 
+  - conscience spatiale et géographique
+  - travail avec des coordonnées
+requirements:  bonne connexion Wi-Fi, accès à Ranke.2, PC ou ordinateur portable, application installée sur le PC ou le portable permettant de visualiser des vidéos
+outcomes: 
+  - Apprendre à utiliser un outil pour créer une carte numérique.
+  - Comprendre que les diverses archives gèrent de manière distincte l'accès aux sources historiques.
+  - Comprendre comment utiliser les technologies numériques pour diffuser des connaissances. 
 ---
 
- The list of universities and research institutes that received a
- copy of Boder’s transcripts  shows what he considered      
- important centres of  knowledge that could benefit from his
- work. At present Boder’s legacy is concentrated in a limited
- number of institutes, mostly within the United States.
- This assignment is meant to juxtapose Boder’s efforts to spread
- his work, with  the present geographical spread of institutes that
- preserve part of his legacy.
- You will be asked to create a map and mark the places where
- institutes hold  parts of his legacy. In addition you will conduct
- research on how digital  communication technologies are used to
- create online access to  Boder’s work.
-
-
+La liste des universités et des instituts de recherche ayant reçu une copie des transcriptions de David Boder montre les endroits qu'il considérait comme des centres de connaissances importants pouvant bénéficier de son travail. Aujourd'hui, l'héritage qu'il nous a laissé est concentré dans un nombre limité d'instituts situés principalement aux États-Unis.  
+Cet exercice vise à établir un parallèle entre les efforts de D. Boder pour diffuser ses travaux et la répartition géographique des instituts qui conservent actuellement une partie de son héritage.  
+Vous devrez créer une carte et y indiquer les instituts qui détiennent une partie de cet héritage. Vous effectuerez également des recherches sur la manière dont les technologies de communication numériques sont utilisées pour créer un accès en ligne aux travaux de D. Boder.
 
 <!-- more -->
 
 <!-- briefing-student -->
 
+### Instructions
+<!-- section-contents -->
 
-Go to the credits page of the interactive animation
-make a list of the institutes that have provided material for this interactive animation  
-https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
+- Allez dans le menu « Crédits » de l'[animation interactive](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"}. 
+- Dressez la liste des instituts qui ont fourni des supports pour cette animation interactive.  
 
-<!--section -->
-###10a Mapping Boder’s legacy 1. : where can his original work be found?
+<!-- section -->
 
-Create a project on the webresource HistoryPin:https://www.historypin.org/en/  
-Follow the instructions on this video: https://youtu.be/VKWBDMLhjSk
-Look up the coordinates of the places that you have listed
-Add all these places to your map,
-Include a short description of which part of Boder’s legacy can be found in each institute. Bare in mind that Boder created other projects besides the Holocaust interviews!
-Use the template to document your findings
+### 10.a  Cartographier l'héritage de David Boder  1) où trouver ses travaux originaux ? | 30 min
+<!-- section-contents -->
 
+- Créez un projet sur le site internet [HistoryPin](https://www.historypin.org/en/){:target="_blank"}. 
+- Suivez les instructions fournies dans [cette vidéo](https://youtu.be/VKWBDMLhjSk){:target="_blank"}. 
+- Cherchez les coordonnées des endroits que vous avez répertoriés.
+- Ajoutez tous ces endroits à votre carte.
+- Rédigez une brève description sur la partie de l'héritage de D. Boder se trouvant dans chaque institut. Gardez à l'esprit qu'il a travaillé sur d'autres projets en dehors de ses interviews sur l'Holocauste !
+- Utilisez le modèle.
 
-Follow the instructions on this video: https://youtu.be/VKWBDMLhjSk
-Look up the coordinates of the places that you have listed
-Add all these places to your map,
-Include a short description of which part of Boder’s legacy can be found in each institute. Bare in mind that Boder created other projects besides the Holocaust interviews!
-Use the template
+<!-- section -->
 
-<!--section -->
-###10b  Mapping Boder’s legacy 2. : who has published copies of his work online?    
+### 10.b  Cartographier l'héritage de David Boder  2) qui a publié des copies de ses travaux sur internet ? | 30 min
+<!-- section-contents -->
 
-Conduct a Google search with the name David Boder
-List additional institutes that offer access to his work, but do not have the original work in their archive
-Add them to your map
+- Lancez une recherche sur Google avec le nom David Boder.
+- Répertoriez les autres instituts qui offrent un accès à ses travaux mais qui n'ont pas les originaux dans leurs archives.
+- Ajoutez-les à votre carte.
 
-<!--section -->
-###10c  Mapping hyperlinks to Boder’s legacy
+<!-- section -->
 
-List websites that have included a link to one of the institutes where Boder’s work is archived.
-Add them to your map, but give them a different colour
+### 10.c  Cartographier les liens hypertextes vers l'héritage de David Boder | 30 min
+<!-- section-contents -->
+
+- Répertoriez les sites internet ayant inclus un lien vers l'un des instituts où sont archivés les travaux de D. Boder. 
+- Ajoutez-les à votre carte en leur attribuant différentes couleurs. 
+
+<!-- section -->
+
+### Suggestions de lectures/vidéos
+<!-- section-contents -->
+
+Demandez à Andreas la documentation de base sur les archives numériques.
 
 <!-- briefing-teacher -->
-
-Time effort: ?
-
-Requirements:  strong WIFI, access to Ranke.2, computer or laptop,
-application on laptop or computer to view video,
-
-Learning outcomes:
-- how to use a tool to create a digital map
-- understanding how archives deal differently with access  to historical sources
-- understand the affordances of digital technology to spread knowledge
-
-
-Reading/viewing  suggestions:
-Ask Andreas for basic literature about digital archives?

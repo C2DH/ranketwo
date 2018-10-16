@@ -2,78 +2,68 @@
 layout: assignment
 unit: boder
 type: assignment
-title: Where and how can Boder’s work be consluted?
+title: Wo und wie können Sie Boders Arbeit einsehen?
 cover: /assets/images/attachments/12boxes/12boxes_11.png
 order: 10
 lang: de
+tags: 
+  - räumliches und geografisches Bewusstsein
+  - Arbeiten mit Koordinaten
+requirements:  schnelles WLAN, Zugang zu Ranke.2, Computer oder Laptop, Anwendung auf Computer oder Laptop zum Abspielen von Videos
+outcomes: 
+  - Richtige Verwendung eines Tools zur Erstellung einer digitalen Karte.
+  - Verstehen, wie unterschiedlich Archive den Zugang zu historischen Quellen verwalten.
+  - Verstehen, wie digitale Technologie zur Verbreitung von Wissen genutzt werden kann. 
 ---
 
- The list of universities and research institutes that received a
- copy of Boder’s transcripts  shows what he considered      
- important centres of  knowledge that could benefit from his
- work. At present Boder’s legacy is concentrated in a limited
- number of institutes, mostly within the United States.
- This assignment is meant to juxtapose Boder’s efforts to spread
- his work, with  the present geographical spread of institutes that
- preserve part of his legacy.
- You will be asked to create a map and mark the places where
- institutes hold  parts of his legacy. In addition you will conduct
- research on how digital  communication technologies are used to
- create online access to  Boder’s work.
-
-
+Wissenszentren betrachtete, die von seiner Arbeit profitieren könnten. Boders Erbe ist derzeit auf eine überschaubare Anzahl Institute konzentriert, die sich in erster Linie in den Vereinigten Staaten von Amerika befinden.  
+In dieser Aufgabe sollen die Bemühungen Boders zur Verbreitung seiner Arbeit der gegenwärtigen geografischen Streuung der Institute gegenübergestellt werden, die einen Teil seines Erbes verwahren.  
+Sie müssen in dieser Aufgabe eine Karte erstellen und die Orte der Institute markieren, die einen Teil seines Erbes verwahren. Zudem klären Sie anhand von Recherchen, wie digitale Kommunikationstechnologien verwendet werden, um einen Online-Zugang zu Boders Arbeit herzustellen.
 
 <!-- more -->
 
 <!-- briefing-student -->
 
+### Instruction
+<!-- section-contents -->
 
-Go to the credits page of the interactive animation
-make a list of the institutes that have provided material for this interactive animation  
-https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro
+- Gehen Sie zur Credits-Seite der [interaktiven Animation](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"}. 
+- Erstellen Sie eine Liste der Institute, die Material für diese interaktive Animation bereitgestellt haben.  
 
-<!--section -->
-###10a Mapping Boder’s legacy 1. : where can his original work be found?
+<!-- section -->
 
-Create a project on the webresource HistoryPin:https://www.historypin.org/en/  
-Follow the instructions on this video: https://youtu.be/VKWBDMLhjSk
-Look up the coordinates of the places that you have listed
-Add all these places to your map,
-Include a short description of which part of Boder’s legacy can be found in each institute. Bare in mind that Boder created other projects besides the Holocaust interviews!
-Use the template to document your findings
+### 10.a  Kartographie des Erbes von Boder – wo seine ursprüngliche Arbeiten zu finden sind | 30 min
+<!-- section-contents -->
 
+- Legen Sie auf der [HistoryPin](https://www.historypin.org/en/){:target="_blank"}-Website ein Projekt an. 
+- Befolgen Sie die Anweisungen in [diesem Video](https://youtu.be/VKWBDMLhjSk){:target="_blank"}. 
+- Suchen Sie die Koordinaten der Orte, die Sie aufgelistet haben.
+- Fügen Sie diese Orte zu Ihrer Karte hinzu.
+- Beschreiben Sie kurz, welcher Teil von Boders Erbe in dem jeweiligen Institut zu finden ist. Beachten Sie, dass Boder neben den Holocaust-Interviews noch weitere Projekte durchgeführt hat!
+- Verwenden Sie die Vorlage.
 
-Follow the instructions on this video: https://youtu.be/VKWBDMLhjSk
-Look up the coordinates of the places that you have listed
-Add all these places to your map,
-Include a short description of which part of Boder’s legacy can be found in each institute. Bare in mind that Boder created other projects besides the Holocaust interviews!
-Use the template
+<!-- section -->
 
-<!--section -->
-###10b  Mapping Boder’s legacy 2. : who has published copies of his work online?    
+### 10.b  Kartographie des Erbes von Boder – wer Kopien seiner Arbeiten online gestellt hat | 30 min
+<!-- section-contents -->
 
-Conduct a Google search with the name David Boder
-List additional institutes that offer access to his work, but do not have the original work in their archive
-Add them to your map
+- Führen Sie eine Google-Suche mit dem Namen David Boder durch.
+- Listen Sie zusätzliche Institute auf, die Zugang zu seiner Arbeit bieten, jedoch nicht die Originale in ihren Archiven verwahren.
+- Fügen Sie sie zu Ihrer Karte hinzu.
 
-<!--section -->
-###10c  Mapping hyperlinks to Boder’s legacy
+<!-- section -->
 
-List websites that have included a link to one of the institutes where Boder’s work is archived.
-Add them to your map, but give them a different colour
+### 10.c  Kartographie von Hyperlinks zu Boders Erbe | 30 min
+<!-- section-contents -->
+
+- Listen Sie Websites auf, die einen Link zu einem der Institute enthalten, in denen Boders Arbeit archiviert ist. 
+- Fügen Sie sie in einer anderen Farbe zu Ihrer Karte hinzu. 
+
+<!-- section -->
+
+### Empfehlungen Lektüre/Video
+<!-- section-contents -->
+
+Fragen Sie Andreas nach grundlegenden Schriften zu digitalen Archiven.
 
 <!-- briefing-teacher -->
-
-Time effort: ?
-
-Requirements:  strong WIFI, access to Ranke.2, computer or laptop,
-application on laptop or computer to view video,
-
-Learning outcomes:
-- how to use a tool to create a digital map
-- understanding how archives deal differently with access  to historical sources
-- understand the affordances of digital technology to spread knowledge
-
-
-Reading/viewing  suggestions:
-Ask Andreas for basic literature about digital archives?
