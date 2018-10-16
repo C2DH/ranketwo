@@ -74,7 +74,7 @@ These changes do not mean that traditional approaches to research are becoming o
 
 {: .extra-spacing}
 ### Insights through crossovers
-![crossroads.png](https://c2dh.github.io/ranketwo/assets/images/crossroads.png){:height="200px" .float-left.mr-3.mt-2.mb-4}
+![crossroads.png](https://c2dh.github.io/ranketwo/assets/images/crossroads.png){:height="175px" .float-left.mr-3.mt-2.mb-4}
 The lessons we offer on this website are a crossover between history, archival studies, ancillary sciences, information science and computer science. In our view this multidisciplinary approach is necessary to foster a new generation of digital savvy scholars, who ask the right questions when dealing with digital content and are able to organise, analyse and present digital and analogue data with the help of digital tools. See: [lit](hjorland-information-digital-literacy)
 
 
