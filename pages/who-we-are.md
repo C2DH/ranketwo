@@ -4,6 +4,8 @@ lang: en
 permalink: /who-we-are/
 link: /who-we-are/
 title: Who we are
+documents:
+- ranke-clip
 ---
 
 People with varied but complimentary experience, qualifications, and skills that contribute to the achievement of this project.
@@ -15,6 +17,7 @@ The Ranke.2 teaching resource is the result of efforts by the Director of the C2
 
 ## visiting scholar 
 Leopold von Ranke 
+[video](ranke-clip)
 
 
 
