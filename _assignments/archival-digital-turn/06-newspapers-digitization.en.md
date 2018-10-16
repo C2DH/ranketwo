@@ -93,26 +93,27 @@ Complete the table in your template with the answers to the following questions:
 ### 6.b The newspaper as historical source
 <!-- section-contents -->
 
-Newspapers are published regularly and collected on a daily or weekly basis, representing events that take place in society. One may find a great diversity of newspapers, with sometimes unexpected titles or languages in a national library’s collection. For instance, in the Austrian national library, we can find newspapers printed throughout the former Austro-hungarian empire until 1918. In the Polish national library, we find newspapers reflecting the presence of specific cultural communities in the past, written in hebrew, yiddish, russian, and german. This item in the [news website gizmodo about newspapers with an old tradition](https://io9.gizmodo.com/the-worlds-oldest-newspapers-still-being-published-tod-1369904730) illustrates the continuity of some newspapers. It is striking to see the difference in appearance. Reading the newspaper is also a practice that contributes to a sense of national identity. You will be comparing paper to digital newspapers and the representation of events over time.
+Newspapers are published regularly and collected on a daily or weekly basis, representing events that take place in society. There is generally a great diversity of newspapers, sometimes with unexpected titles or languages, in a national library’s collection. For instance, in the Austrian National Library, we can find newspapers printed throughout the former Austro-Hungarian Empire until 1918. In the Polish National Library, there are newspapers reflecting the presence of specific cultural communities in the past, written in Hebrew, Yiddish, Russian and German. This item on the [news website Gizmodo about newspapers with long runs](https://io9.gizmodo.com/the-worlds-oldest-newspapers-still-being-published-tod-1369904730) illustrates the continuity of some newspapers. It is striking to see the difference in appearance between old and current newspapers. Reading a newspaper is also a practice that contributes to a sense of national identity. You will be comparing print newspapers with digital newspapers and the representation of events over time.
 
-- Collect articles on two events and recreate the chronology of these events, using one newspaper title in paper of a recent event, and one in digital form of the past.
+- Collect articles on two events, in either print or digital form, and recreate the chronology of these events.
 
-For the “hard-copy” search: go to the library and collect articles on that event from the available newspapers  (suggestions: an election, a sports event, an art performance such as a concert etc.)
+For the “hard-copy” search, go to the library and collect articles on that event from the available newspapers  (suggestions: an election, a sports event, an artistic performance such as a concert, etc.).
 
-For the digitised version, choose a historical event, such as the Titanic cruise/catastrophe, the assassination of Archduke Franz Ferdinand of Austria in 1914, the publication of Anne Frank's diary in 1952, the Woodstock festival of 1969, the Watergate scandal in 1974, the fall of the Berlin Wall in 1989. 
+For the digitised version, choose a historical event such as the sinking of the Titanic, the assassination of Archduke Franz Ferdinand of Austria in 1914, the publication of Anne Frank’s diary in 1952, the Woodstock festival of 1969, the Watergate scandal in 1974 or the fall of the Berlin Wall in 1989. 
 
-For each, collect
-- 3 articles published before (anticipation), during (description), after (comments, consequences),
-- For the digital sources: search for 3 articles commemorating this event 10, 20, 100 years after.
+For each, collect:
+- 3 articles published before (anticipation), during (description) and after (comments, consequences) the event,
+- For the digital sources: search for 3 articles commemorating this event 10, 20 and 100 years after.
 
-- Complete the tables in your template 
+- Complete the tables in your template. 
 
-- Write a short essay of about 500 words on your findings, based on the answers to these questions:
-- What has changed in the perception of the event/actors/situation? (short term, long term)
-- What are the main differences between collecting articles from paper newspapers and digitised newspapers? (sitting behind your screen, going to the archive/library)
+- Write a short essay of about 500 words on your findings based on your answers to these questions:
+- What has changed in the perception of the event/people involved/situation? (short term, long term)
+- What are the main differences between collecting articles from print newspapers and digitised newspapers? (sitting behind your screen, going to the archive/library)
+
 
 <!-- section -->
-### 6.c The newspaper and the website as sources of knowledge
+### 6.c Newspapers and the websites as sources of knowledge
 <!-- section-contents -->
 Depeding on your age and education, you will be accustomed to specific kinds of news, either television, radio, newspapers, news feeds through your mobile phone, or websites that publish news. This assignment asks you to reflect on the sources of your knowledge on current cultural, economical and political developments.
 - Choose a current topic or event and compare how it is represented in a paper newspaper, a news website, a newsreel on the radio and on the television.
