@@ -15,7 +15,7 @@ Each lesson offers a choice of several modules with an increasing level of compl
 
 
 The lessons have been structured in such a manner that they can serve the needs of students, lecturers and independent learners with limited time, as well as those who really want to study a topic in depth. Each lesson can consist of a SMALL, MEDIUM or LARGE module.
-What is important to consider, is that the topics addressed in the lessons are not limited to digital source criticism. To offer more variety to lecturers, other elements that are key for engaging with digital history are included, such as conducting web research, or creating a digital map or timeline. 
+It is worth bearing in mind that the topics addressed in the lessons are not limited to digital source criticism. To offer more variety to lecturers, other techniques that play a vital role in digital history are also included, such as conducting web research and creating a digital map or timeline. 
 
 
 {: .extra-spacing}
@@ -58,16 +58,20 @@ As these lessons are not compulsory and there is no teacher available to monitor
 
 
 {: .extra-spacing}
-## Multilinguality
+## Multilingualism
 
-The content of the website has been translated into French and German to reach out to a broad audience of students and lecturers. The links in the assignments however, are mostly to English content. The reasoning is that by offering the text of the assignments in French and German, it will be easier for lecturers to tweak the assignments to their own purposes, by adding links to material that connects more directly to their own curriculum. 
+The content of the website has been translated into French and German to reach out to a broad audience of students and lecturers. The links in the assignments, however, are mostly to English content. The reasoning behind this approach is that by providing the basic text of the assignments in French and German, it will be easier for lecturers to tweak the assignments to their needs by adding their own links to material that connects more directly to their own curriculum. 
 
 
 {: .extra-spacing}
 ## Example scenarios
 
-1. In a class about **source criticism** with about 1,5 hours at your disposal, you can watch the clip 'From Archival to Digital turn' which takes 6 minutes, then have the students complete the quiz, which takes 15 minutes. After that you can distribute the 7 assignments among pairs of students, which they can partly complete in class (only complete the first section a.) which will take 20 to 30 min., and then finish the rest at home as homework. The results of their work could be presented in turns during the next lesson, or as part of a class conversation with the lecturer. The lecturer can also tweak the assignment to another topic of interest, by choosing other examples and offering other links. 
+1. In a class about **Source criticism** with about 1.5 hours at your disposal, you can watch the clip 'From the archival to the digital turn' which takes 6 minutes, then ask students to complete the quiz, which takes 15 minutes. After that you can distribute the 7 assignments among pairs of students, which they can start in class (only the first section a., which will take 20 to 30 mins, and then finish at home. The results of their work could be presented during the next session, or as part of a discussion with the teacher or lecturer. The assignment can also be tweaked to another topic of interest, by choosing other examples and offering other links. 
 
-2. In a class about **digital culture**, you can watch the clip 'transformation' that takes 2 minutes, complete the quiz that takes 15 minutes, and then have a class discussion about the concepts and terms that have been presented. The students can then take up the assignments in groups as homework. Which assignments to choose and how many, depends on the weight that is attributed to homework in that class, but it can vary from 30 min to 3 hours. 
+2.	In a class about **Digital culture**, you can watch the clip “transformation”, which takes 2 minutes, complete the quiz that takes 15 minutes, and then have a class discussion about the concepts and terms that have been presented. The students can then complete the assignments in groups in their own time. Which assignments to choose and how many will depend on how much private study is generally expected from students, but it can vary from 30 mins to 3 hours.
 
-3. In a class about **Holocaust Studies** or **Oral History**, you can watch the animation 'David Boder: from steel wire to website', which takes 7 minutes, and complete the quiz which takes 15 min. Depending on the focus of the course, you can then invite the students to watch the interactive version of the animation, and complete a set of assignments. You have the choice between assignment that deal with **media technology**, **oral history**, **interview methodology** or **source criticism**. If you want to further venture into the history or **webtechnology**, you can watch the video lecture 'David Boder online - comparing websites 2000-2009', which takes 9 minutes. Here you have the choice between a series of assignments that deal with the development of web technology and preservation of digital resources.
+3.	In a class about **Holocaust studies** or **Oral history**, you can watch the animation “David Boder: from steel wire to website”, which takes 7 minutes, and complete the quiz which takes 15 minutes. Depending on the focus of the course, you can then invite the students to watch the interactive version of the animation and complete a set of assignments. You have the choice between assignments that deal with **media technology**, oral history, **interview methodology** and **source criticism**. If you want to venture further into the history of web technology, you can watch the video lecture “David Boder online – comparing websites 2000-2009”, which takes 9 minutes. Here you have the choice between a series of assignments that deal with the development of web technology and the preservation of digital resources.
+
+
+
+
