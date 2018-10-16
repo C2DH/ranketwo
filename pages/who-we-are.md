@@ -20,10 +20,10 @@ Andreas Fickers - C2DH
 ### management and administration
 Gerben Zaagsma - C2DH <br>
 
-### Conceptual framework of ranke.2  and project coordination
+### Concept and project coordination
 Stefania Scagliola - C2DH
 
-### Conceptual framework of ranke.2 and web design
+### Visual conceptual and web design
 Daniele Guido - C2DH
 
 ### web development
@@ -66,7 +66,7 @@ Andreas Fickers - C2DH <br>
 Brigitte Melchior-Dolenc - C2DHv <br>
 Karin Priem - C2DH
 
-### Recording and editing of music,sound and video
+### Recording and editing of music, sound and video
 Alexandre Germain - Media Centre University of Luxembourg
 
 ### Research
@@ -94,7 +94,7 @@ Katia Rocha - student <br>
 Sidney Wiltgen - student assistant
 
 ### Acknowledgments
-Sandra Camarda, Ira Plein, Martin Richard, Guido Lessing, Tim van der Heijden, Shohreh Haddadan, Max Kemman, Anita Lucchesi, Valérie Schafer, Kaarel Sikk, Fabio Spirinelli, Benjamin Zenner, Karin Priem, Benoît Majerus, Cristophe Brull - C2DH <br>
+Sandra Camarda, Ira Plein, Martin Richard, Tim van der Heijden, Shohreh Haddadan, Anita Lucchesi, Valérie Schafer, Kaarel Sikk, Fabio Spirinelli, Benjamin Zenner, Karin Priem, Benoît Majerus, Cristophe Brull - C2DH <br>
 Andrea Binsfeld, Sonja Kmec, Michel Margue, Eloise Adde - Faculte des Lettres, Sciences Humaines, Arts, Sciences de l’Education - University of Luxembourg<br>
 Ralph Pugh -  University Archivist & Adjunct Professor of History Illinois Institute of Technology  <br>
 Adam Strohm - Director University Archives and Special Collections <br>
