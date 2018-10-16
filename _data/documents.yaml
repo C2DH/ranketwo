@@ -1344,3 +1344,22 @@
         year: 2018
     attachment: /assets/pdf/tutorial-tiki.pdf
     _id: ab73a3c4c55245e3b02ed2692d463f6d
+-
+    title: "MUSIC AS HISTORICAL SOURCE: SOCIAL HISTORY\rAND MUSICAL TEXTS1"
+    slug: gilbert-music-songs
+    type: pdf
+    data: {}
+    attachment: /assets/pdf/gilbert-music-songs.pdf
+    url: 'https://www.google.com/search?client=safari&rls=en&ei=1N7EW9CdB8LRwQKL8pGYBw&q=jiddish+songs+as+historical+sources&oq=jiddish+songs+as+historical+sources&gs_l=psy-ab.3...11402.13132.0.16793.8.8.0.0.0.0.76.532.8.8.0..2..0...1.1.64.psy-ab..0.1.64...35i304i39k1.0.M4eoZacVmXk'
+    _id: 51252c2dc61c4f5f9e24d58998bee4ee
+    _resolved: true
+-
+    title: 'Struggling with timelines '
+    slug: struggling-timeline
+    type: pdf
+    data:
+        title:
+            en_us: 'struggling timeline'
+        author: 'Stefania Scagliola and Sidney Wiltgen'
+    attachment: /assets/pdf/struggling-timeline.pdf
+    _id: 8968b31044b645f4b48c3fde43c6627b
