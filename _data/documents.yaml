@@ -1348,7 +1348,13 @@
     title: "MUSIC AS HISTORICAL SOURCE: SOCIAL HISTORY\rAND MUSICAL TEXTS1"
     slug: gilbert-music-songs
     type: pdf
-    data: {}
+    data:
+        title:
+            en_us: 'gilbert music'
+        author: 'Sirli Gilbert'
+        date:
+            en_us: 2005
+        year: 2005
     attachment: /assets/pdf/gilbert-music-songs.pdf
     url: 'https://www.google.com/search?client=safari&rls=en&ei=1N7EW9CdB8LRwQKL8pGYBw&q=jiddish+songs+as+historical+sources&oq=jiddish+songs+as+historical+sources&gs_l=psy-ab.3...11402.13132.0.16793.8.8.0.0.0.0.76.532.8.8.0..2..0...1.1.64.psy-ab..0.1.64...35i304i39k1.0.M4eoZacVmXk'
     _id: 51252c2dc61c4f5f9e24d58998bee4ee
