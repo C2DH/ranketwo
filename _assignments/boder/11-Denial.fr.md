@@ -2,70 +2,70 @@
 layout: assignment
 unit: boder
 type: assignment
-title: What are the sources upon which the news on the Holocaust denial of Ahmadinejad is based?  
+title: Quelles sont les sources de l'information selon laquelle Mahmoud Ahmadinejad a nié l'existence de l'Holocauste ?  
 cover: /assets/images/attachments/12boxes/12boxes_11.png
 order: 11
 lang: fr
+tags: 
+  - négationnisme
+  - critique des sources
+  - couverture médiatique
+requirements:  bonne connexion Wi-Fi, accès à Ranke.2, PC ou ordinateur portable, application installée sur le PC ou le portable permettant de visualiser des vidéos
+outcomes: 
+  - Comprendre les mécanismes de production et de diffusion de l'information à l'ère analogique et à l'ère numérique.
+  - Comprendre le concept de négationnisme. 
 ---
 
-
-The statements of Iranian president Ahmadinejad in 2005 in the press are said   to be decisive for mobilizing resources to publish
-all of Boder’s work online. Understandably, statements that put into question whether the
-Holocaust  actually occurred, trigger heated and emotional debates. Nevertheless, each statement that appears in the press, whatever
-medium,  should be subject to careful source criticism. This applies to historians as well   as to journalists.
-This assignment is meant to trace back the sources upon which the news about the Holocaust denial of Ahmadinejad is based,
-how this news spread, and how it was represented by the international press.        
+Les déclarations du président iranien Mahmoud Ahmadinejad relayées par la presse en 2005 auraient joué un rôle décisif dans la mobilisation des ressources pour la publication en ligne de l'intégralité des travaux de David Boder. Naturellement, les propos qui mettent en doute la réalité de l'Holocauste déclenchent des débats houleux et empreints d'émotion. Néanmoins, chaque déclaration qui paraît dans la presse, quel que soit son support, doit faire l'objet d'une critique attentive des sources. Ce principe vaut aussi bien pour les historiens que pour les journalistes.  
+Cet exercice aidera les étudiants à identifier les sources de l'information relative à la négation de l'Holocauste par Mahmoud Ahmadinejad, à déterminer comment cette information s'est répandue et à analyser comment elle a été présentée par la presse internationale.
 
 <!-- more -->
 
 <!-- briefing-student -->
 
-Go to  https://allthingsmoving.com/DB_interactive_2018_07_07/ and read the content in the box about former president Ahmadinejad
+### Instructions
+<!-- section-contents -->
 
-<!--section -->
-### 11a Perspectives on Holocaust denials
+- Allez sur la page [https://allthingsmoving.com/DB_interactive_2018_07_07/](https://allthingsmoving.com/DB_interactive_2018_07_07/){:target="_blank"} et lisez le contenu de la boîte sur l'ancien président iranien Ahmadinejad.
 
-Read the text about Holocaust deniers on the website of the US Holocaust Memorial: https://www.ushmm.org/wlc/en/article.php?ModuleId=10007272
-Go through the timeline of Holocaust deniers on the same website:     
-https://www.ushmm.org/wlc/en/article.php?ModuleId=10008003
+<!-- section -->
 
+### 11.a  Points de vue sur le négationnisme | 60 min
+<!-- section-contents -->
 
-What kind of denial is the statement about the Holocaust of Ahmadinejad?
-Which part of the narrative about the Holocaust is questioned?  
-Compare the way the event has been covered in the international press?
-Document your findings in your template.
+- Lisez le texte consacré aux [négationnistes](https://www.ushmm.org/wlc/fr/article.php?ModuleId=10007272){:target="_blank"} sur le site web du Musée du Mémorial américain de l'Holocauste.
+- Passez en revue la [chronologie des propos négationnistes](https://www.ushmm.org/wlc/fr/article.php?ModuleId=10008003){:target="_blank"} sur ce même site.     
+- De quel type de négation relèvent les déclarations d'Ahmadinejad sur l'Holocauste ? Quelle partie du récit sur l'Holocauste est réfutée ?
+- Quelles sources ont été utilisées par la presse internationale pour relayer ces propos ?
+- Ajoutez-les à votre modèle.
 
-<!--section -->
-### 11b Placing the statement in a broader context
+<!-- section -->
 
-Consider the  two cases of denial before his statements in December 2005, and the impact in international politics
-of the event that was held in Iran in 2006.
-Then go through this wiki: https://en.wikipedia.org/wiki/International_Holocaust_Cartoon_Competition  
+### 11.b  Placer la déclaration dans un contexte plus large | 60 min
+<!-- section-contents -->
 
-Does this information change your perspective on how Ahmadinejad's statements should be interpreted?
+- Considérez les deux cas de négationnisme avant les déclarations de Mahmoud Ahmadinejad en décembre 2005 et l'impact de l'événement organisé en Iran en 2006 sur la politique internationale. 
+- Rendez-vous ensuite sur la page [Wikipédia suivante](https://fr.wikipedia.org/wiki/Concours_international_de_caricatures_sur_l%27Holocauste){:target="_blank"}.
+- Cette information change-t-elle votre point de vue sur la manière dont les déclarations d'Ahmadinejad devraient être interprétées ? 
+- Rédigez un petit résumé sur la manière dont les propos de Mahmoud Ahmadinejad devraient être interprétés selon vous.
+- Ajoutez-le à votre modèle.
 
-write a short blog about how Ahmadinejad’s statements should be interpreted according to you.
-Add it to your template
+<!-- section -->
 
-<!--section -->
-### 11c  The event held in Iran in 2006 in the international press
+### 11.c  L'événement organisé en Iran en 2006 vu par la presse internationale | 60 min
+<!-- section-contents -->
 
-Who created the timeline and text about Holocaust denial?
-Who created the wiki?
+- Qui a créé la chronologie et rédigé le texte sur le négationnisme ? 
+- Qui a créé l'article sur Wikipédia ? 
+- Pouvez-vous faire confiance à ces sources ? D'après quels critères jugez-vous si une information est fiable ? 
+- Essayez de découvrir comment cet événement a été couvert par les journaux/agences répertoriés dans l'exercice 10a.
+- Ajoutez cette information à votre modèle. 
 
-Can you trust these sources? What are your criteria to judge whether the information is valid?
-Look up how this event was covered in the same newspapers/agencies that are listed in 10a .
-Add it to your template
+<!-- section -->
+ 
+### Suggestions de lectures/vidéos
+<!-- section-contents -->
+
+Recherche de documents de base, Gerben ? 
 
 <!-- briefing-teacher -->
-
-Time effort: ?
-
-Requirements:  strong WIFI, access to Ranke.2, computer orlaptop,
-application on laptop or computer to view video,
-
-Learning outcomes:
-understanding the making and spread of news in the analogue and digital era
-understanding the concept of Holocaust denial
-Reading/viewing  suggestions:
-Search for basic literature, Gerben?
