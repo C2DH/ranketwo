@@ -20,6 +20,7 @@ outcomes:
   - learning to deal with intellectual property rights
 documents:
   - tutorial-tiki
+  - struggling-timeline
 ---
 
 In the animation you watched the focus is mostly on the creation and transformation of David Boder’s collection from analogue source to online web resource. But the historical context also deserves some attention. Boder’s expertise and mindset were shaped by what he encountered during his life in terms of personal drawbacks, technological innovation, scientific progress and political conflict. This assignment introduces you to a digital tool with which you can create a timeline that can be populated and shared. The idea is to make you aware of the historical context in which Boder’s historical sources were created. You will be conducting critical web research and contributing to a digital timeline.
@@ -132,6 +133,6 @@ Where can you find this information if you search on the web?
 
 - For an overview of learning goals that can be achieved through creating digital timelines, see  the teaching guide of the Vanderbilt University [Vanderbilt University]( https://cft.vanderbilt.edu/guides-sub-pages/digital-timelines/){:target="_blank"}.
 
-- For assessing the pros and cons of different tools for creating timelines, [consult this guide](https://docs.google.com/document/d/1uprzcDAFaCgK_1TB-A4QxkUjWIMrkWZOG6kAXQdhdDg/edit){:target="_blank"}.
+- For assessing the pros and cons of different tools for creating timelines, consult this guide [ref](struggling-timeline){:target="_blank"}.
 
 <!-- briefing-teacher -->
