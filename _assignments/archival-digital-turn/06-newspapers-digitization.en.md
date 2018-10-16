@@ -30,31 +30,31 @@ Moreover, National Libraries deal with all kinds of financial, legal and technic
 ### Instructions
 
 <!-- section-contents -->
-To sensitize you to the subject of digitization of newspapers, watch these clips on two large scale digitization projects, one in the Unites States that discusses all the aspects of the goal of the project and the digitization process: [Chronincling America](https://www.youtube.com/watch?v=LclIm9s7Iho), and one in Europe, [Europeana Newspapers](https://www.youtube.com/watch?v=5G6v00Z8CyQ) that is meant for promotion of the project. Also watch the [clip about retired engineer Tom Tryniski](https://www.youtube.com/watch?v=KVWDX6oaYCg&feature=youtu.be), who took up the task of digitizing a gigantic corpus of newspapers and offering them online free of charge.
+For a general introduction to the subject of newspaper digitisation, watch these clips on two large-scale digitisation projects, one from the United States that discusses all aspects of the [Chronicling America](https://www.youtube.com/watch?v=LclIm9s7Iho) project and the digitisation process, and one from Europe, produced to promote the [Europeana Newspapers](https://www.youtube.com/watch?v=5G6v00Z8CyQ) project. Also watch the [clip about retired engineer Tom Tryniski](https://www.youtube.com/watch?v=KVWDX6oaYCg&feature=youtu.be), who decided to digitise a gigantic corpus of newspapers and offer them online free of charge.
 
-Then go through the key questions that should be asked when applying source criticism to digitized newspapers:
+Then go through the key questions that should be asked when applying source criticism to digitised newspapers:
 
 Selection
 
-- Why was this collection selected for digitization?
-- Is it complete? Which part of the collection is covered?
+- Why was this collection selected for digitisation?
+- Is it complete? What part of the collection is covered?
 - Is it representative?
 
 Transformation from analogue to digital source
 
-- How were the newspaper processed? Have all newspapers titles been processed in the same way?
-- What is the appearance of the original newspaper? Are they in black and white or in color? What is the color of the paper? Is this visible on your screen?
+- How were the newspapers processed? Have all the newspaper titles been processed in the same way?
+- What do the original newspapers look like? Are they in black and white or in colour? What is the colour of the paper? Is this visible on your screen?
 - Was the digitisation carried out from microfilms or from hard copies?
-- What color makes the reading easier in the digital form?
-- How does digitization handle differences between newspapers coming from different periods?
+- What colour makes them easier to read in digital form?
+- How does digitisation handle differences between newspapers from different periods?
 
 Retrieval
 
-- Are the newspapers searchable? Can we apply full text search on their content?
-- What is the quality of the Optical Character Recognition process?
-- Has article segmentation been applied? Can we search within advertisements, images ?
+- Are the newspapers searchable? Can we perform a full text search on their content?
+- What is the quality of the optical character recognition (OCR) process?
+- Has article segmentation been applied? Can we search within advertisements and images?
 
-(BELOW ALREADY PROOFREAD BY SARAH)
+Instructions
 
 You are going to find out how and why newspapers are digitised and what is needed to be able to consult them online. Because of the diversity in approaches to digitisation projects and web design and possible unfamiliarity with online archives, there is a risk of not being able to see the wood for the trees while completing this assignment. 
 To give you an example of what kind of answers are expected in response to these questions and what the variables in the table mean, we have created a sample answer on the basis of the Luxembourg online newspaper archive eluxemburgensia.lu and the Tageblatt newspaper.
@@ -90,7 +90,7 @@ Complete the table in your template with the answers to the following questions:
 - What information is provided on each individual title by the institution?
 
 <!-- section -->
-### 6.b The newspaper as historical source
+### 6.b The newspaper as a historical source
 <!-- section-contents -->
 
 Newspapers are published regularly and collected on a daily or weekly basis, representing events that take place in society. There is generally a great diversity of newspapers, sometimes with unexpected titles or languages, in a national library’s collection. For instance, in the Austrian National Library, we can find newspapers printed throughout the former Austro-Hungarian Empire until 1918. In the Polish National Library, there are newspapers reflecting the presence of specific cultural communities in the past, written in Hebrew, Yiddish, Russian and German. This item on the [news website Gizmodo about newspapers with long runs](https://io9.gizmodo.com/the-worlds-oldest-newspapers-still-being-published-tod-1369904730) illustrates the continuity of some newspapers. It is striking to see the difference in appearance between old and current newspapers. Reading a newspaper is also a practice that contributes to a sense of national identity. You will be comparing print newspapers with digital newspapers and the representation of events over time.
