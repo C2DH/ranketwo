@@ -10,7 +10,7 @@
             en_us: 'this is bla bla '
     attachment: /assets/images/DSC-skill-training.jpg
     _id: 5f400180727c436d8af7d7069f8cfc08
-    url: /define-dsc/skilltraining
+    url: skilltraining
 -
     title: 'Expert Meeting,  18-12-2017 : Various Perspectives on the concept of Digital Source Criticism '
     slug: quelle
@@ -23,7 +23,7 @@
             en_us: 'this is bla bla '
     attachment: /assets/images/source.png
     _id: e8f58be612cf4347bf4bbfc6ae6846de
-    url: /define-dsc/expert-meeting
+    url: expert-meeting
 -
     title: Cosmographia
     slug: cosmographia
@@ -1399,6 +1399,13 @@
             width: 606
             author_name: 'Daniele Guido'
             duration: 67
+        title:
+            en_us: 'Leopold Von Ranke'
+        author: Allthingsmoving
+        date:
+            en_us: 2018
+        year: 2018
+        reference: 'Leopold Von Ranke'
     url: 'https://vimeo.com/295527171'
     _id: f344b2abfa054e6fada203eb12dcbf5f
     _resolved: true
