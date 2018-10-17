@@ -153,17 +153,16 @@
       var cardBody = card
         .append('div')
         .classed('media-body', true);
-
+      
       // title
       cardBody
         .append('h5').html('<a href="'+ doc.url +'" target="_blank">' + doc.title + '</a>');
-      if (doc.data && doc.data.embed && doc.data.embed.author_name) {
+      if (doc.data && doc.data.author && doc.data.author.length) {
+        cardBody.append('p')
+          .text(_self.refAuthorYear(doc));
+      } else if (doc.data && doc.data.embed && doc.data.embed.author_name) {
         cardBody.append('p')
           .text(doc.data.embed.author_name+ ', ' + doc.data.year);
-
-      } else if (doc.author) {
-        cardBody.append('p')
-          .text(doc.author+ ', ' + doc.data.year);
       }
       return card
     }

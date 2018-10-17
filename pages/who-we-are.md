@@ -15,9 +15,9 @@ People with varied but complimentary experience, qualifications, and skills that
 
 The Ranke.2 teaching resource is the result of efforts by the Director of the C2DH, Andreas Fickers, to conceptualise the [term digital source criticism](http://ojs.viewjournal.eu/index.php/view/article/view/jethc004/4) and to prioritise [the application of this approach for the development of open-source teaching materials](https://www.science.lu/fr/youtube-en-tant-que-source/les-chances-les-risques-dune-historiographie-numerique) aimed at lecturers and students that can be integrated into academic curricula for the humanities.
 
-## visiting scholar 
-Leopold von Ranke 
-[video](ranke-clip)
+### meet our visiting scholar
+
+[card](ranke-clip)
 
 
 
@@ -25,7 +25,7 @@ Leopold von Ranke
 
 {: .extra-spacing}
 ### director
-Andreas Fickers - C2DH 
+Andreas Fickers - C2DH
 
 ### management and administration
 Gerben Zaagsma - C2DH <br>
