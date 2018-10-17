@@ -71,40 +71,8 @@
           } else {
             console.error('document', href, 'has not been found. Please make sure you correctly added it...')
           }
-
-          // this.innerHTML = '';
         }
       })
-      // aTags.select(function() {
-      //   var attr = this.getAttribute('href'),
-      //       placeholder;
-      //
-      //   if(attr.indexOf('/d/') === 0 || attr.indexOf('/') === -1 ) {
-      //     if(attr.split(',').length > 1) {
-      //
-      //       placeholder = _buildPlaceholderGallery(attr.split(','));
-      //
-      //     } else {
-      //       var placeholder_id = attr.split('/').join('-').replace(/^-d-/,'');
-      //       console.log('placeholder_id', placeholder_id)
-      //       _buildPlaceholder(placeholder_id)
-      //
-      //       if(!window.ranketwo.docs[placeholder_id]){
-      //         console.warn('document with id:', placeholder_id, 'not found. Skipping placeholder...')
-      //         return;
-      //       }
-      //
-      //       placeholder = _buildPlaceholder(placeholder_id);
-      //       if(!placeholder){
-      //         console.warn('document with id:', placeholder_id, 'failed built.')
-      //         return;
-      //       }
-      //     // create title, year, author and caption if provided.
-      //     }
-      //
-      //     return this.parentNode.insertBefore(placeholder, this);
-      //   }
-      // });
     }
 
     this.refAuthorYear = function(doc, withParenthesis) {
@@ -133,21 +101,31 @@
         .join(', ');
     }
 
+    this.refUrl = function(doc) {
+      if(doc.url){
+        return doc.url;
+      } else if (doc.attachment) {
+        return '' + _self.relativePath + doc.attachment;
+      }
+      return '';
+    }
+
     this.createRef = function(doc) {
       var ref = d3.select(document.createElement("div"));
+
       if (doc.data && doc.data.reference) {
         ref
           .html(doc.data.reference + '<br>')
           .append('a')
             .html('&rarr;&nbsp;' + _self.refAuthorYear(doc))
-            .attr('href', doc.url)
+            .attr('href', _self.refUrl(doc))
             .attr('target', '_blank');
       } else {
         ref
           .html(_self.refAuthorTitleYear(doc) + '<br>')
           .append('a')
             .html('&rarr;&nbsp;' + _self.refAuthorYear(doc))
-            .attr('href', doc.url)
+            .attr('href', _self.refUrl(doc))
             .attr('target', '_blank');
       }
 
