@@ -35,9 +35,8 @@ You will be asked to create a map and mark the places with institutes that hold 
 - Create a project on the [HistoryPin](https://www.historypin.org/en/){:target="_blank"} website. 
 - Follow the instructions on [this video](https://youtu.be/VKWBDMLhjSk){:target="_blank"}. 
 - Look up the coordinates of the places that you have listed.
-- Add all these places to your map.
-- Include a short description of which part of Boder’s legacy can be found in each institute. Bear in mind that Boder created other projects besides the Holocaust interviews!
-- Use the template.
+- Add all these places to your online map.
+- Include a short description of which part of Boder’s legacy can be found in each institute. Bear in mind that Boder created other projects besides the Holocaust interviews! Document your findings in your template.
 
 <!-- section --> 
 
@@ -46,7 +45,7 @@ You will be asked to create a map and mark the places with institutes that hold 
 
 - Conduct a Google search with the name David Boder.
 - List additional institutes that offer access to his work, but do not have the original work in their archive.
-- Add them to your map.
+- Add them to your online map and template.
 
 <!-- section -->
 
@@ -54,7 +53,7 @@ You will be asked to create a map and mark the places with institutes that hold 
 <!-- section-contents -->
 
 - List websites that have included a link to one of the institutes where Boder’s work is archived. 
-- Add them to your map, but give them a different colour 
+- Add them to your online map and to your template, but give them a different colour 
 
 <!-- section --> 
 
