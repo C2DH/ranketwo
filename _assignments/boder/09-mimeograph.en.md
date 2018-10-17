@@ -18,7 +18,7 @@ Reduced costs and easy-to-manage protocols mean that lay people not familiar wit
 
 <!-- briefing-student -->
 
-### Instruction
+### Instructions
 <!-- section-contents -->
 
 - Watch the clip about [reproduction technologies in the 1950s](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"}.

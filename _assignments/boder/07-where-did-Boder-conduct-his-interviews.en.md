@@ -20,7 +20,7 @@ This assignment is designed to help you reflect on displacement camps as the fir
 
 <!-- briefing-student -->
 
-### Instruction
+### Instructions
 <!-- section-contents -->
 
 - Open the box [‘Where did Boder conduct his interviews’](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"} and watch the clip about the displacement camps.

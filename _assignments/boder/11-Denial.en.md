@@ -23,7 +23,7 @@ how this news spread, and how it was represented by the international press.
 
 <!-- briefing-student -->
 
-### Instruction
+### Instructions
 <!-- section-contents -->
 
 - Go to [https://allthingsmoving.com/DB_interactive_2018_07_07/](https://allthingsmoving.com/DB_interactive_2018_07_07/){:target="_blank"} and read the content in the box about former president Ahmadinejad.

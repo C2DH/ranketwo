@@ -29,7 +29,7 @@ In the animation you watched the focus is mostly on the creation and transformat
 
 <!-- briefing-student -->
 
-### Instruction
+### Instructions
 <!-- section-contents -->
 
 - Open the box [**Boder’s biography**](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"} again, and read the various sections

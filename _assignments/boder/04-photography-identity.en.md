@@ -25,7 +25,7 @@ Because this lesson is about source criticism, we have tried to trace the contex
 
 <!-- briefing-student -->
 
-### Instruction
+### Instructions
 <!-- section-contents -->
 
 - First open the box Who are these liberated prisoners, at [https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"} and read the text.

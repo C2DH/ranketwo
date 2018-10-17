@@ -25,7 +25,7 @@ sect
 
 <!-- briefing-student -->
 
-### Instruction
+### Instructions
 <!-- section-contents -->
 
 - Open the box [Boder’s approach](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"}.

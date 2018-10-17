@@ -21,7 +21,7 @@ You will be asked to create a map and mark the places with institutes that hold 
 
 <!-- briefing-student -->
 
-### Instruction
+### Instructions
 <!-- section-contents -->
 
 - Go to the credits page of the [interactive animation](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"}. 

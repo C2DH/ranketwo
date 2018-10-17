@@ -26,7 +26,7 @@ The purpose of this assignment is to show how one source, an audio recording, ca
 
 <!-- briefing-student -->
 
-### Instruction
+### Instructions
 <!-- section-contents -->
 
 - Open the box [‘A look into Boder’s first publication’](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"}.

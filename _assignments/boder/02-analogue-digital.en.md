@@ -21,7 +21,7 @@ One might wonder why students of a humanities discipline should learn about the 
 
 <!-- briefing-student -->
 
-### Instruction
+### Instructions
 <!-- section-contents -->
 
 - Open the second box "How does the wire recorder work?" and watch [the animation](https://allthingsmoving.com/DB_interactive_2018_07_07/){:target="_blank"}.

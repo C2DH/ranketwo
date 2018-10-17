@@ -26,7 +26,7 @@ When reflecting on the value and meaning of a source that has been published on 
 
 <!-- briefing-student -->
 
-### Instruction
+### Instructions
 <!-- section-contents -->
 
 

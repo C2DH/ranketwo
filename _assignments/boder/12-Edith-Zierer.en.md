@@ -19,7 +19,7 @@ The purpose of this assignment is to illustrate how the narrative on experiences
 
 <!-- briefing-student -->
 
-### Instruction
+### Instructions
 <!-- section-contents -->
 
 - Go to [https://allthingsmoving.com/DB_interactive_2018_07_07/](https://allthingsmoving.com/DB_interactive_2018_07_07/){:target="_blank"} and read the box about the snippet of text.
