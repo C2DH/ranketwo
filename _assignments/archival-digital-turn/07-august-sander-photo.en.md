@@ -70,15 +70,17 @@ Not every publication date can be traced through a link. If you want to avoid th
 (groups, individuals, old, young, women, men).
 -	Both of you should create space in your answering template, create screenshots of these 6 portraits and paste them into the template.
 -	Make sure to leave some space for a text box below each portrait. If you don’t know how to make a screenshot, consult this web page for Microsoft https://support.microsoft.com/en-us/help/13776/windows-use-snipping-tool-to-capture-screenshots or this webpage for Mac https://support.apple.com/en-us/HT201361#earlier.
--	Start by working individually. Take a long look at the portraits on your own laptop, and give each portrait an associative tag, the first word that comes to mind.
+
+
+-	Now, start by working individually. Take a long look at the portraits on your own laptop, and give each portrait an associative tag, the first word that comes to mind.
 -	Then try to imagine the age and profession of the person/people in the portraits and the social class they belong to. Add this to the text box in the template. 
 -	When you have finished, compare your results with your fellow student.
 -	Can you explain the differences? Discuss why you have labelled the pictures in that particular way.
--	Now click on the pictures and try to find out what the original descriptions of the portraits are. Add them to the text boxes.
+-	Now click on the pictures and try to find out what the original descriptions of the portraits are. Add them to the text boxes in your template.
 -	You may encounter difficulties in tracing the original metadata. These are the possible results of your search:  
-  -	You are led to a website with original information on the photo, its origin, what it depicts, and why and when it was published online.
-  -	You are led to a website that does not reveal information about the specific photo but generic information about a book in which the photo features.
-  -	You are led to a website in which the photo has been reused without information about what is depicted, when and how it was created, and when and why it was reused and published online. This is called “decontextualisation”; in other words the digital object is detached from its original context of creation and archival history. If you had created a PDF of your assignment and published it online without references to the original work, you would also be contributing to the decontextualisation of Sander’s work. To keep these processes under control, it is important to reference correctly.  
+    -	You are led to a website with original information on the photo, its origin, what it depicts, and why and when it was published online.
+    -	You are led to a website that does not reveal information about the specific photo but generic information about a book in which the photo features.
+    -	You are led to a website in which the photo has been reused without information about what is depicted, when and how it was created, and when and why it was reused and published online. This is called “decontextualisation”; in other words the digital object is detached from its original context of creation and archival history. If you had created a PDF of your assignment and published it online without references to the original work, you would also be contributing to the decontextualisation of Sander’s work. To keep these processes under control, it is important to reference correctly.  
 
 <!-- section -->
 ### reading/viewing suggestions
