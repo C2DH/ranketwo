@@ -7,13 +7,12 @@ title: Who we are
 documents:
 - ranke-clip
 ---
-
-People with varied but complimentary experience, qualifications, and skills that contribute to the achievement of this project.
+The Luxembourg Centre for Contemporary and Digital History (C2DH) is an interdisciplinary research centre at the University of Luxembourg. It serves as a national platform for debating current issues in contemporary Luxembourgish history and for advancing the development and training of digital literacy amongst students and researchers of Luxembourg University. As a trading zone between historians and computer scientists, humanities scholars and data scientists, the C2DH aims at setting new standards in the field of digital history. This implies  a hands-on approach to digital tools and research infrastructures in the field of contemporary history, and experimenting with new forms of historical storytelling and public engagement. The concept of “thinkering”, the playful experimentation with technologies and digital tools forms the principle for the development of digital hermeneutics, the critical reflection on how the digital affects the thinking, doing, and narrating of history.
 
 <!-- more -->
-## Our mission
+## Leopold von Ranke revisited: Ranke.2
 
-The Ranke.2 teaching resource is the result of efforts by the Director of the C2DH, Andreas Fickers, to conceptualise the [term digital source criticism](http://ojs.viewjournal.eu/index.php/view/article/view/jethc004/4) and to prioritise [the application of this approach for the development of open-source teaching materials](https://www.science.lu/fr/youtube-en-tant-que-source/les-chances-les-risques-dune-historiographie-numerique) aimed at lecturers and students that can be integrated into academic curricula for the humanities.
+The Ranke.2 teaching resource is the result of a project initiated by the Director of the C2DH, Andreas Fickers, that was generously supported by the Rectorate of Luxembourg University. The aim of the project is to develop an open-source online teaching platform for [digital source criticism](http://ojs.viewjournal.eu/index.php/view/article/view/jethc004/4). Ranke.2 wants to reach out to [lecturers and students](https://www.science.lu/fr/youtube-en-tant-que-source/les-chances-les-risques-dune-historiographie-numerique) by offering teaching content that can easily be integrated into academic curricula, but it also targets independent learners. 
 
 ### meet our visiting scholar
 
