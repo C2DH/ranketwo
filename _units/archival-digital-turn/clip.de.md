@@ -1,5 +1,5 @@
 ---
-title: From Archival to Digital Turn
+title: Von der Archivierung zum „digital Turn“
 type: clip
 lang: de
 parent: archival-digital-turn
