@@ -44,8 +44,7 @@ The digitized catalogue contains several contributions by experts. Let's see whe
 Answer the following questions: 
 - What was the relationship between Muybridge and the French inventor Marey? Who can claim to be the real inventor? 
 - What kind of drama affected Muybridge's 'private life'?  
-- What is the difference between a zoopraxiscope, a zootrope, a magic lantern and a phonograph? 
-- Try to find out what is specific about each gadget, if you can't distill that from the text, conduct additional webresearch. 
+- What is the difference between a zoopraxiscope, a zootrope, a magic lantern and a phonograph? Try to find out what is specific about each gadget, if you can't distill that from the text, conduct additional webresearch. 
 - Note down your findings in your template.
 
 <!-- section -->
