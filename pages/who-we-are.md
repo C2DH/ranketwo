@@ -14,6 +14,8 @@ The Luxembourg Centre for Contemporary and Digital History (C2DH) is an interdis
 
 The Ranke.2 teaching resource is the result of a project initiated by the Director of the C2DH, Andreas Fickers, that was generously supported by the Rectorate of Luxembourg University. The aim of the project is to develop an open-source online teaching platform for [digital source criticism](http://ojs.viewjournal.eu/index.php/view/article/view/jethc004/4). Ranke.2 wants to reach out to [lecturers and students](https://www.science.lu/fr/youtube-en-tant-que-source/les-chances-les-risques-dune-historiographie-numerique) by offering teaching content that can easily be integrated into academic curricula, but it also targets independent learners. 
 
+
+
 ### meet our visiting scholar
 
 [card](ranke-clip)
