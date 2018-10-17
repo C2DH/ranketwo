@@ -1,5 +1,5 @@
 ---
-title: "David Boder's interview collection: from analogue to digital"
+title: "Animation: David Boder's interview collection: from analogue to digital"
 type: clip
 lang: en
 parent: boder
