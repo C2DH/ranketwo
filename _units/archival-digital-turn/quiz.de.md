@@ -1,5 +1,5 @@
 ---
-title: Animation in a Quiz mode
+title: Animation mit quiz
 lang: de
 type: quiz
 parent: archival-digital-turn
@@ -7,9 +7,9 @@ iframe: archival-to-digital-turn-playposit
 ---
 
 {: .headsup}                            
-**Read this Introduction before you take the Quiz!**
+**Lesen sie diese Einführung, bevor sie das Quiz durcharbeiten!**
 
-This quiz is designed to test your understanding of the topic. The animation is shown again, but this time it is interspersed with eight multiple-choice questions that appear on the screen and have to be answered before you can continue with the clip.
+Mit diesem Quiz soll getestet werden, inwieweit Sie das Thema verstanden haben. Die Animation wird wiederholt, ist dieses Mal jedoch mit acht Multiple-Choice-Fragen versehen, die auf dem Bildschirm eingeblendet werden und vor der Fortsetzung des Clips zu beantworten sind.
 
 
 <!-- more -->
