@@ -50,8 +50,7 @@ The purpose of this assignment is to show how one source, an audio recording, ca
 “I worked at that time on the railroad and the Hitler guard packed us into a truck and we were all driven to a distribution camp”
  
 - The first part of your assignment is to complete the table in your template by noting any differences between the various versions of the interview.
-- First compare the transcript in the book with the digital version of the transcript online up to the sentence above.
-- Mark the differences in the first two columns of the table in your template. 
+- First compare the transcript in the book with the digital version of the transcript online up to the sentence above. Mark the differences in the first two columns of the table in your template. 
 
 <!-- section -->
 
