@@ -13,11 +13,12 @@ tags:
   - conversion from analogue to digital
 requirements: Fast WIFI connection, scissors and paper
 outcomes:
- - Understand how the process works of selection, digitization and online publishing of newspapers 
- - Understand what changes occur when newspapers are turned from paper to digital files 
- - Understand what the affordances are of online access to massive amounts of digitized newspapers 
+ - Understand how the process works of selection, digitization and online publishing of newspapers
+ - Understand what changes occur when newspapers are turned from paper to digital files
+ - Understand what the affordances are of online access to massive amounts of digitized newspapers
 documents:
  - tom-tryniski
+ - interface-luxembourgensia
 order: 6
 ---
 Newspapers have become an important media since the 19th century and offer valuable information about events and opinions in our past and present societies. The massive digitization of newspapers, ongoing in many (national) libraries, holds the promise a bonanza of data for historical research. However, in the process of creating online access to digitized newspaper, choices are made and changes occur that affect the informational and artefactual value of a source, and which historians should be able to identify and understand. What appears on your screen at home, is quite different from what you can hold in your hand in the archive.
@@ -56,9 +57,10 @@ Retrieval
 
 Instructions
 
-You are going to find out how and why newspapers are digitised and what is needed to be able to consult them online. Because of the diversity in approaches to digitisation projects and web design and possible unfamiliarity with online archives, there is a risk of not being able to see the wood for the trees while completing this assignment. 
+You are going to find out how and why newspapers are digitised and what is needed to be able to consult them online. Because of the diversity in approaches to digitisation projects and web design and possible unfamiliarity with online archives, there is a risk of not being able to see the wood for the trees while completing this assignment.
 To give you an example of what kind of answers are expected in response to these questions and what the variables in the table mean, we have created a sample answer on the basis of the Luxembourg online newspaper archive eluxemburgensia.lu and the Tageblatt newspaper.
-○	Open up this PDF, print it and use it as a reference to search for other newspapers. 
+○	Open up this PDF, print it and use it as a reference to search for other newspapers
+[ref](interface-luxembourgensia)
 
 <!-- section -->
 ### 6.a Who digitizes, with what purpose and how is access arranged?   
@@ -69,7 +71,7 @@ To give you an example of what kind of answers are expected in response to these
 - Open up the links to the collections of digitised newspapers in the table, browse through the content and choose two newspapers in a    language that you master.
 
 
-|     | 1. Institution | 2. Type of access | 3. Interface | 4. Collection specificities | 5. Metadata title 
+|     | 1. Institution | 2. Type of access | 3. Interface | 4. Collection specificities | 5. Metadata title
 | --- | -------------- | ----------------- | ------------ | --------------------------- | -----------------
 | [Europeana newspapers](http://www.europeana-newspapers.eu) (multilingual) |   |   |   |  
 | [E-Newspapers CH](http://www.onlinenewspapers.com/switzerl.htm) (FR+DE)   |   |   |   |  
@@ -99,13 +101,13 @@ Newspapers are published regularly and collected on a daily or weekly basis, rep
 
 For the “hard-copy” search, go to the library and collect articles on that event from the available newspapers  (suggestions: an election, a sports event, an artistic performance such as a concert, etc.).
 
-For the digitised version, choose a historical event such as the sinking of the Titanic, the assassination of Archduke Franz Ferdinand of Austria in 1914, the publication of Anne Frank’s diary in 1952, the Woodstock festival of 1969, the Watergate scandal in 1974 or the fall of the Berlin Wall in 1989. 
+For the digitised version, choose a historical event such as the sinking of the Titanic, the assassination of Archduke Franz Ferdinand of Austria in 1914, the publication of Anne Frank’s diary in 1952, the Woodstock festival of 1969, the Watergate scandal in 1974 or the fall of the Berlin Wall in 1989.
 
 For each, collect:
 - 3 articles published before (anticipation), during (description) and after (comments, consequences) the event,
 - For the digital sources: search for 3 articles commemorating this event 10, 20 and 100 years after.
 
-- Complete the tables in your template. 
+- Complete the tables in your template.
 
 - Write a short essay of about 500 words on your findings based on your answers to these questions:
 - What has changed in the perception of the event/people involved/situation? (short term, long term)
@@ -123,7 +125,7 @@ Depeding on your age and education, you will be accustomed to specific kinds of 
 - What is your trust based on?
 
 <!-- section -->
-### Reading/viewing suggestions 
+### Reading/viewing suggestions
 <!-- section-contents -->
 
 <!-- briefing-teacher -->

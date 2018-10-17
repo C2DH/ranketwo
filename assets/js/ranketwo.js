@@ -91,7 +91,7 @@
     }
 
     this.refAuthorTitleYear = function(doc) {
-      return [doc.data.author.replace(/[\s,]$/, ''), '<em>' + doc.title.replace(/[\s,]$/, '') + '</em>', doc.data.year]
+      return [(doc.data.author || '').replace(/[\s,]$/, ''), '<em>' + doc.title.replace(/[\s,]$/, '') + '</em>', doc.data.year]
         .filter(function(d) {
           return typeof d !== 'undefined';
         })
@@ -153,7 +153,7 @@
       var cardBody = card
         .append('div')
         .classed('media-body', true);
-      
+
       // title
       cardBody
         .append('h5').html('<a href="'+ doc.url +'" target="_blank">' + doc.title + '</a>');

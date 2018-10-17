@@ -1441,6 +1441,7 @@
         date_published:
             en_us: 2018
     _id: c82cdb34e74d4ec3949d8525b9b96898
+    attachment: /assets/pdf/what-works-and-what-doesnot.pdf
 -
     title: 'interface eluxembourgensia'
     slug: interface-luxembourgensia
@@ -1452,3 +1453,16 @@
         date_published:
             en_us: 2018
     _id: 87b25e8194e64a60a177e6deae465f6e
+    attachment: '/assets/pdf/interface eluxembourgensia.pdf'
+-
+    title: 'What works and what doesnot'
+    slug: what-works-and-what-doesnot
+    type: pdf
+    data:
+        title:
+            en_us: 'What works and what doesnot'
+        year: 2018
+        date_published:
+            en_us: 2018
+    attachment: /assets/pdf/what-works-and-what-doesnot.pdf
+    _id: 7bfe07e534de4c1f91c3a71c4a8e00a4
