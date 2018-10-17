@@ -66,8 +66,7 @@ To give you an example of what kind of answers are expected in response to these
 ### 6.a Who digitizes, with what purpose and how is access arranged?   
 <!-- section-contents -->
 
-- A list of initiatives across the globe has been collected on [wikipedia](https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives):
-- What projects have been completed or are ongoing in your own country?
+- A list of initiatives across the globe has been collected on [wikipedia](https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives).What projects have been completed or are ongoing in your own country?
 - Open up the links to the collections of digitised newspapers in the table, browse through the content and choose two newspapers in a    language that you master.
 
 
