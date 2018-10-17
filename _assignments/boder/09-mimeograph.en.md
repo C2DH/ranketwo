@@ -35,6 +35,7 @@ Reduced costs and easy-to-manage protocols mean that lay people not familiar wit
   - the mimeograph
   - the copy machine
   - the digital computer  
+ Document your findings in the table in your template. 
 
 <!-- section -->
 
@@ -42,6 +43,7 @@ Reduced costs and easy-to-manage protocols mean that lay people not familiar wit
 <!-- section-contents -->
 
 - Assess whether the result of applying these reproduction technologies can be considered as an authentic historical source?
+ Document your findings in the table in your template. 
 
 <!-- section -->
 
@@ -50,6 +52,7 @@ Reduced costs and easy-to-manage protocols mean that lay people not familiar wit
 
 - What is the difference between copies made with a mimeograph and those made with a microcard? 
 - How does this relate to the benefits of digital technology? 
+ Document your findings in the table in your template. 
 
 <!-- section -->
 
