@@ -27,7 +27,7 @@ The texts and clips will give you an impression of what type of organisation WEU
 
 
 <!-- section -->
-### 4.a Exploring diplomatic documents of the Western European Union online and in the archive | 180 min |
+### 5.a Exploring diplomatic documents of the Western European Union online and in the archive | 180 min |
 <!-- section-contents -->
 In the Instructions section, you have read and watched content that explains and shows the historical dimension of WEU and its archives.
 In this assignment the focus is on comparing the analogue with the digital version of the collection. To understand how the corpus was processed and made machine readable, you will first read two articles and then explore WEU’s documents on armaments issues (these archives are generically referred to as WEU-Diplo, for reference purposes). The idea is for you to do this in two places: on the web and at the premises of the Luxembourg National Archives (ANLux). If you are not able to visit the archives, you can limit your search to the web. 
@@ -44,7 +44,7 @@ Note the answers to the questions below in your template:
 
 
 <!-- section -->
-### 4.b  From natural language to computer language | 180 min |
+### 5.b  From natural language to computer language | 180 min |
 <!-- section-contents -->
 Encoding the WEU-Diplo corpus in an XML-TEI format was only the first step in a longer procedure. The next step was importing the XML-TEI into the CVCE [backend/frontend system](https://www.youtube.com/watch?v=LzL4I4Pt7GU). This was then transformed into HTML, to create web pages, and published on the CVCE website, so that it could be visualised in the browser via a dedicated interface. [Here](https://www.cvce.eu/search?q=*&format=tei%2Bxml&publication=e7c423ed-a376-4a57-a415-f8519344e558) you can see the results of a search using the CVCE search engine. Find out how the information is organised on the screen (left/right):
 
@@ -57,7 +57,7 @@ Note the answers to the questions below in your template:
 
 
 <!-- section -->
-### 4.c Digging a layer deeper | 180 min |
+### 5.c Digging a layer deeper | 180 min |
 <!-- section-contents -->
 Browse through the documents from the list to get an impression of the content.
 - Select a minimum of 5 documents of your choice to open and examine in more detail.
@@ -72,7 +72,7 @@ Browse through the documents from the list to get an impression of the content.
 
 
 <!-- section -->
-### 4.d Consult the documents from the list you have created on site at the Luxembourg National Archives | 240 min |
+### 5.d Consult the documents from the list you have created on site at the Luxembourg National Archives | 240 min |
 <!-- section-contents -->
 Take note of the following:
 - the particularities of the search and consultation process
