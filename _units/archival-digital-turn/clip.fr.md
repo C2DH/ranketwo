@@ -10,7 +10,5 @@ iframe: archival-to-digital-turn
 {: .headsup}                            
 **First watch this animation, then complete the quiz**
 
-An animation on how the digital turn has affected the practice of applying source criticism to historical content. Historians need to understand how digitisation and web archives work in order to be able to take a critical approach to the sources they use.
-
-
+Une animation sur l’influence exercée par l’avènement du numérique sur la méthode de critique des sources. Les historiens doivent comprendre comment la numérisation et les archives du web fonctionnent, afin de pouvoir appliquer une approche critique aux sources utilisées.  
 <!-- more -->
