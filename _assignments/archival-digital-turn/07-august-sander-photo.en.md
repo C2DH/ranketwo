@@ -71,7 +71,6 @@ Not every publication date can be traced through a link. If you want to avoid th
 -	Both of you should create space in your answering template, create screenshots of these 6 portraits and paste them into the template.
 -	Make sure to leave some space for a text box below each portrait. If you don’t know how to make a screenshot, consult this web page for Microsoft https://support.microsoft.com/en-us/help/13776/windows-use-snipping-tool-to-capture-screenshots or this webpage for Mac https://support.apple.com/en-us/HT201361#earlier.
 
-
 -	Now, start by working individually. Take a long look at the portraits on your own laptop, and give each portrait an associative tag, the first word that comes to mind.
 -	Then try to imagine the age and profession of the person/people in the portraits and the social class they belong to. Add this to the text box in the template. 
 -	When you have finished, compare your results with your fellow student.
