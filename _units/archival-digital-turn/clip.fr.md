@@ -1,5 +1,5 @@
 ---
-title: From Archival to Digital Turn
+title: Du virage archivistique au virage numérique
 type: clip
 lang: fr
 parent: archival-digital-turn
