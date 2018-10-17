@@ -116,7 +116,7 @@ For each, collect:
 <!-- section -->
 ### 6.c Newspapers and the websites as sources of knowledge
 <!-- section-contents -->
-Depeding on your age and education, you will be accustomed to specific kinds of news, either television, radio, newspapers, news feeds through your mobile phone, or websites that publish news. This assignment asks you to reflect on the sources of your knowledge on current cultural, economical and political developments.
+Depending on your age and education, you will be accustomed to specific kinds of news, either television, radio, newspapers, news feeds through your mobile phone, or websites that publish news. This assignment asks you to reflect on the sources of your knowledge on current cultural, economical and political developments.
 - Choose a current topic or event and compare how it is represented in a paper newspaper, a news website, a newsreel on the radio and on the television.
 - Complete the table in your template on the basis of these key questions:
 - Why have you chosen these particular news sources?
