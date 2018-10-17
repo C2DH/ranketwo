@@ -104,7 +104,7 @@ For the digitised version, choose a historical event such as the sinking of the 
 
 For each, collect:
 - 3 articles published before (anticipation), during (description) and after (comments, consequences) the event,
-- For the digital sources: search for 3 articles commemorating this event 10, 20 and 100 years after.
+- Search for 3 articles commemorating this event 10, 20 and 100 years after.
 
 - Complete the tables in your template.
 
