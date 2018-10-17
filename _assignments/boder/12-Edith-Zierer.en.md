@@ -35,7 +35,8 @@ The purpose of this assignment is to illustrate how the narrative on experiences
   - If you don’t master German, open the English translation in another window.
 - Watch the video interview conducted in Hebrew in 2003,
   - In the template there are instructions about what you should pay attention to.
-  - If you don’t master Hebrew, download the English translation and open it in  another window.
+  - If you don’t master Hebrew, download the English translation and open it in another window.
+ Document your findings in the table in your template. 
 
 <!-- section -->
 
@@ -44,6 +45,7 @@ The purpose of this assignment is to illustrate how the narrative on experiences
 
 - What kind of technology was used to create the original interview with Edith Zierer<sup>*</sup> in 1946 and the original interview in 2003?
 - How does this relate to the document that you are consulting online?
+ Document your findings in your template. 
 
 \* If you want to listen to [Edith Zierer](http://voices.iit.edu/audio?doc=ziererE){:target="_blank"}, you have to open the Chrome browser. Click on the small “i” icon and allow Flash Player and pop-ups. Bear in mind that the interview takes a long time to load, so you might want to carry on with another assignment in the meantime. 
 
