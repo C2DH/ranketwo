@@ -16,6 +16,13 @@
     src: https://player.vimeo.com/video/275617187
 
 -
+    id: david-boder-german
+    title: "David Boder's interview collection: from analogue to digital"
+    thumbnail: https://i.vimeocdn.com/video/728677669_640.jpg
+    aspectratio: aspect-16-9
+    src: https://player.vimeo.com/video/292319230
+
+-
     id: david-boder-playposit
     thumbnail: assets/images/david-boder-interactive.png
     title: "David Boder's interview collection: from analogue to digital. Quiz"

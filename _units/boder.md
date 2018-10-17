@@ -1,6 +1,7 @@
 ---
 title: "David Boder: From wire recordings to website"
 layout: unit
+toc: on
 tags:
   - holocaust studies
   - history of communication technology
