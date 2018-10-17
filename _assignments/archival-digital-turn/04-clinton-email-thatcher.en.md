@@ -32,7 +32,7 @@ The practice of sending and receiving letters is decreasing considerably. While 
 <!-- section-contents -->
 
 - Apply source criticism to both sources, if necessary conduct additional web research 
-- Complete the table in your temaplate about the differences and similarities between the the messages of Hillary Clinton and those of Margaret Thatcher.
+- Complete the table in your template about the differences and similarities between the the messages of Hillary Clinton and those of Margaret Thatcher.
 
 <!-- section -->
 ### 4.b Comparing emails to letters: the preservation of a source and its digital representation online 
