@@ -7,20 +7,18 @@ link: /u/archival-digital-turn/
 ---
 
 
-
-Lesson on how the method of source criticism has been affected by the digital turn and what this means for the practice of students who study humanities disciplines and conduct research.
-
+Leçon sur le virage numérique et comment l’évaluation et l’utilisation critiques des sources historiques a été influencé par la suite.  
 <!-- more -->
 
 
-### What is the objective of this lesson?
+### Quel est l'objective de cet Leçon?
 
 <!-- section-contents -->
 The objective of this lesson is to teach students how the digital turn has affected the method of applying source criticism to a historical source. Source criticism comes down to asking questions about the origin, authenticity and informational and artefactual value of a source. When applying it to digital content an additional layer of alterations and transformations has to be identified and described. This lesson teaches learners the difference between attributing meaning to an artefact during its creation, its preservation and its digitisation. The assignments can be used to put this into practice with various types of data and in different digital environments.
 
 <!-- section -->
 
-### How is the content organized?
+### Comment le contenu est-il organisé ?
 
 <!-- section-contents -->
 The lesson consists of three modules with increasing level of complexity and time required.
