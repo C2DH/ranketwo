@@ -21,10 +21,12 @@ The objective of this lesson is to teach students how the digital turn has affec
 ### Comment le contenu est-il organisé ?
 
 <!-- section-contents -->
-The lesson consists of three modules with increasing level of complexity and time required.
+La leçon compte trois modules dont la complexité et la durée vont croissantes.
 
-The ***SMALL*** module consists of a short animation lasting 6 minutes 30 seconds, intended to be accessible to a broad audience, whether within a teaching context or not. It tells the story of how the historian’s craft has changed and what we need to learn in order to be able to apply source criticism to digital sources. This is followed by a quiz that takes around 10 minutes.
+Le **PETIT** module est composé d’une brève animation de 6 minutes 30 secondes et est destiné à un large public, que ce soit dans un contexte d’enseignement ou en dehors. Il explique en quoi le métier d’historien a changé et ce que nous devons apprendre pour être capables d’adopter une approche critique vis-à-vis des sources numériques. Cette animation est suivie d’un quiz d’une durée approximative de 10 minutes.
 
-The ***MEDIUM*** module consists of a series of eight assignments related to topics that are briefly discussed in the animation. The target group is Bachelor students in a humanities discipline and their lecturers. The assignments give learners the opportunity to engage with the topics in more depth, discuss them in class, read the literature and put the theory into practice. The assignments are suitable for collaborative work for two or three students. The time required varies from 30 to 90 minutes.
+Le module **INTERMÉDIAIRE** se compose d’une série de huit tâches en lien avec les sujets brièvement abordés dans l’animation. Le groupe cible comprend les étudiants de bachelor en lettres et leurs professeurs. Les tâches donnent l’opportunité aux étudiants d’approfondir les différents thèmes, d’en discuter en classe, de lire la littérature qui y est consacrée et de mettre la théorie en pratique. Les tâches peuvent être réalisées par groupes de deux ou trois étudiants. Leur durée varie de 30 à 90 minutes.
 
-The ***LARGE*** module offers a tutorial for a hands-on workshop lasting at least a day. This requires a lecturer who has experience with digital tools, some preparation and preferably a computer lab with computers on which the required software is installed. The objective is to go through all the steps required to create a digital history project. This can range from creating a website or podcast or applying a storytelling tool to creating a digital exhibit or annotating a corpus of photos.
+Le **GRAND** module propose un support pour l’organisation d’un atelier pratique d’au moins une journée. Cet atelier doit être dirigé par un professeur ayant de l’expérience avec les outils numériques et requiert une certaine préparation et, de préférence, une salle informatique où le logiciel requis a été installé sur les ordinateurs. L’objectif est de parcourir toutes les étapes requises pour la création d’un projet d’histoire numérique. Ces étapes peuvent comprendre la création d’un site internet ou d’un podcast, l’application d’un outil de narration pour créer une exposition numérique ou l’annotation d’un corpus de photos.
+
+
