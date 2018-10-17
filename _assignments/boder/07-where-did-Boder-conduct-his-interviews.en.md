@@ -41,6 +41,7 @@ The mindsets of the survivors housed in displacement camps were clearly geared t
   - When did this happen? 
   - What financial resources were used?
   - what was the purpose? 
+Document your findings in your template. 
 
 <!-- section -->
 
@@ -51,6 +52,7 @@ The mindsets of the survivors housed in displacement camps were clearly geared t
 - Download the image, enlarge it, and read what it says in the left lower corner.
 - Try to find the original place where this poster was created by conducting web research.
 - Who designed the poster? Where was it created? With what resources? Who published it on the web? 
+Document your findings in your template. 
 
 <!-- section -->
 
@@ -64,6 +66,7 @@ The mindsets of the survivors housed in displacement camps were clearly geared t
   - [https://collections.ushmm.org/search/](https://collections.ushmm.org/search/){:target="_blank"}
   - [http://vhaonline.usc.edu/login](http://vhaonline.usc.edu/login){:target="_blank"} (you have to create an account)
   - [http://www.dpcamps.org/listDPCampsbyTeamNo.pdf](http://www.dpcamps.org/listDPCampsbyTeamNo.pdf){:target="_blank"}
+  Document your findings in your template. 
 
 <!-- section -->
 
