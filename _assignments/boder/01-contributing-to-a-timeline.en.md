@@ -46,11 +46,10 @@ If you need more guidance, then follow the step by step instructions provided in
 
 <!-- section -->
 
-### 1.a  Create an entry in one of the dates in the timeline | 10 min
+### 1.a Entering data in a timeline | 10 min
 <!-- section-contents -->
 
-The chronological sequence of dates needs to be complemented with information.
-
+The chronological sequence of dates needs to be complemented with information. Create an entry in one of the dates in the timeline.
 - Choose two dates to create entries.  
 For more background information on Boder besides what is provided in the black box, go to the box "links", the last section of Boder’s biography, and consult the following resources:
   - Voices of the Holocaust
@@ -64,10 +63,10 @@ Remember to regularly save your entries.
 
 <!-- section -->
 
-### 1.b  Create entries under two of the dates in the timeline | 20 min
+### 1.b  Creating entries | 20 min
 <!-- section-contents -->
 
-These can be subjects related to Boder’s life, such as:
+Create entries under two of the dates in the timeline. These can be subjects related to Boder’s life, such as:
 - When and  where did Boder study?
 - When was the wire recorder invented?
 - When were the American newsreels about the camps shown to an American audience?  
@@ -75,10 +74,10 @@ These can be subjects related to Boder’s life, such as:
 
 <!-- section -->
 
-### 1.c  Create a new account and a new timeline | 120 min
+### 1.c  Create a new timeline | 120 min
 <!-- section-contents -->
 
-- Create at least four entries on a timeline about a topic related either to Boder’s life or to early accounts on experiences in concentration camps.
+- Create your own account and a new timeline. Create at least four entries on a timeline about a topic related either to Boder’s life or to early accounts on experiences in concentration camps.
 
 You could consider:
 - Politics and societal developments:    Think of the political situation in countries that Boder lived in or travelled to: Latvia, Russia, Siberia, Japan, Mexico, United States, Europe.
