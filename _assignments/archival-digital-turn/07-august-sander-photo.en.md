@@ -65,11 +65,11 @@ Not every publication date can be traced through a link. If you want to avoid th
 <!-- section-contents -->
 -	Meet up with a fellow student; both of you should bring your own laptop.
 -	Compare the images that appear on the Pinterest web page on your own screen. The results may differ if your search history and geolocation is different. Google keeps track of these elements to deliver the best customised search results.  
--	If you want to know which factors determine the differences in search results, see this blog from an online marketing company: https://www.lcn.com/blog/get-different-results-google-vs-location-users/.
+-	If you want to know which factors determine the differences in search results, see this blog from [online marketing company LCN]      (https://www.lcn.com/blog/get-different-results-google-vs-location-users/).
 -	Now, without clicking on the individual pictures in the results page, either those from Google or Pinterest, together choose 6 portraits
 (groups, individuals, old, young, women, men).
 -	Both of you should create space in your answering template, create screenshots of these 6 portraits and paste them into the template.
--	Make sure to leave some space for a text box below each portrait. If you don’t know how to make a screenshot, consult this web page for Microsoft https://support.microsoft.com/en-us/help/13776/windows-use-snipping-tool-to-capture-screenshots or this webpage for Mac https://support.apple.com/en-us/HT201361#earlier.
+-	Make sure to leave some space for a text box below each portrait. If you don’t know how to make a screenshot, consult this web page for [Microsoft](https://support.microsoft.com/en-us/help/13776/windows-use-snipping-tool-to-capture-screenshots) or this webpage for [Mac](https://support.apple.com/en-us/HT201361#earlier).
 
 -	Now, start by working individually. Take a long look at the portraits on your own laptop, and give each portrait an associative tag, the first word that comes to mind.
 -	Then try to imagine the age and profession of the person/people in the portraits and the social class they belong to. Add this to the text box in the template. 
