@@ -1,26 +1,27 @@
 ---
-title: "David Boder: From wire recordings to website"
+title: "David Boder: Von der Drahttonaufnahme zur Website"
 layout: unit
+toc: on
 tags:
-  - holocaust studies
-  - history of communication technology
-  - media studies
-  - oral history
+  - Holocaust-Studien
+  - Geschichte der Kommunikationstechnologie
+  - Medienstudien
+  - Oral History
 lang: de
 unit_id: boder
 link: /u/boder/
 permalink: /de/u/boder/
 audience: general public, bachelor, master humanities
 components:
-  small: animation + quiz
-  medium: interactive animation + 12 assignments, video animated lecture + 5 assignments
-  large: tutorial for hands on workshop
+  small: Animation + Quiz
+  medium: interaktive Animation + 12 Aufgaben, Kurs mit Videoanimation + 5 Aufgaben
+  large: Lernprogramm für praktischen Workshop
 mediatype: audiovisual, interviews
 order: 2
 cover:
   url: https://i.vimeocdn.com/video/708218729.jpg?mw=960&mh=540&q=70
 ---
 
-DE Lesson on how the interview collection of psychologist David Boder with survivors of concentration camps created in 1946 has been turned into a website in 2000 and 2009.
+Eine Lektion zu der Frage, wie die 1946 vom Psychologen David Boder zusammengestellte Sammlung von Interviews mit KZ-Überlebenden 2009 in eine interaktive Website verwandelt wurde.
 
 <!-- more -->

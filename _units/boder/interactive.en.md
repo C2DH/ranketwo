@@ -7,8 +7,8 @@ duration: 60
 iframe: david-boder-interactive
 ---
 
- {: .headsup}
- **Read this introduction, enter the interactive animation, then choose one of the assignments**
+{: .headsup}
+**Read this introduction, enter the interactive animation, then choose one of the assignments**
 
 Unlike the quiz, where the questions appear automatically, in this version of the clip you need to click on a rectangular black box with a white title that appears on the bottom left corner of your screen to enter a window with additional information on a specific topic.
 The alternative to playing the clip and waiting until a box appears is to click on the index in the bottom left corner of the screen, that shows an overview of all the 12 boxes and topics.

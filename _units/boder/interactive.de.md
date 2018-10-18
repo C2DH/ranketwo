@@ -1,18 +1,18 @@
 ---
-title: "Animation in an interactive mode"
+title: "Interaktive Animation"
 lang: de
 type: interactive
 parent: boder
+duration: 60
 iframe: david-boder-interactive
 ---
 
- {: .headsup}
- **Read this Introduction before you enter this interactive animation!**
+{: .headsup}
+**Lesen sie diese Einführung, bevor sie sich die interaktive Animation ansehen, [TO TRANSLATE] then choose one of the assignments!**
 
-Unlike the quiz, where the questions appear automatically, in this version of the clip you need to click on a rectangular black box with a white title that appears on the bottom left corner of your screen to enter a window with additional information on a specific topic.
-The alternative to playing the clip and waiting until a box appears is to click on the index in the bottom left corner of the screen, that shows an overview of all the 12 boxes and topics.
+Im Gegensatz zum Quiz, in dem die Fragen automatisch eingeblendet werden, müssen Sie in dieser interaktiven Version des Clips auf eine rechteckige schwarze Box mit einem weißen Titel klicken, die unten links auf Ihrem Bildschirm eingeblendet wird. Durch einen Klick auf die Box gelangen Sie zu einem Fenster mit weiteren Informationen zu einem bestimmten Thema. Sie benötigen diese Informationen, um Ihre Aufgaben abzuschließen. Statt den Clip abzuspielen und auf die Box zu warten, können Sie auch auf den Index unten links auf dem Bildschirm klicken. Ein Überblick über alle Boxen und Themen wird so wie nachfolgend aufgezeigt eingeblendet.
 
-Since the clip covers a wide range of topics ranging from physics and reproduction technology to the historiography of the Holocaust and interview methodology, the assignments can be connected to a broad variety of courses. Lecturers can select the most appropriate assignment(s) by looking at the tags in the metadata.
+Übergeordnetes Thema dieser Sachverhalte ist der Prozess, mit dem historische Quellen von ihrer analogen Form in die digitale Darstellung überführt werden. Ebenso geht es um den Zusammenhang zwischen diesen Veränderungen und den gesellschaftlichen und technologischen Entwicklungen. Da im Clip eine breite Palette von Themen behandelt werden, wie Physik und Reproduktionstechnologie bis hin zur Historiografie des Holocausts und der Interviewmethode, lassen sich die Aufgaben mit den unterschiedlichsten Kursen verknüpfen. Während sich einige gut für Holocaust-Studien und Historiografie eignen, sind andere besser auf einen Ansatz mit Medien- oder Informationswissenschaft zugeschnitten. Über die Tags in den Metadaten können Dozenten jeweils die bestgeeignete Aufgabe(n) auswählen.
 
 
 <!-- more -->

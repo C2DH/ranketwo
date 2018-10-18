@@ -1,18 +1,18 @@
 ---
-title: "Animation in an interactive mode"
+title: "Animation interactive"
 lang: fr
 type: interactive
 parent: boder
+duration: 60
 iframe: david-boder-interactive
 ---
 
- {: .headsup}
- **Read this Introduction before you enter this interactive animation!**
+{: .headsup}
+**Lisez l'introduction avant de lancer cette animation interactive, [TO TRANSLATE] then choose one of the assignments!**
 
-Unlike the quiz, where the questions appear automatically, in this version of the clip you need to click on a rectangular black box with a white title that appears on the bottom left corner of your screen to enter a window with additional information on a specific topic.
-The alternative to playing the clip and waiting until a box appears is to click on the index in the bottom left corner of the screen, that shows an overview of all the 12 boxes and topics.
+À l’inverse du quiz, où les questions apparaissent automatiquement, dans cette version interactive de la vidéo, vous devez cliquer sur le cadre rectangulaire de texte blanc sur fond noir qui s’affiche en bas à gauche de votre écran. En cliquant sur cet élément, vous appelez une fenêtre contenant davantage d’informations sur un sujet spécifique. Vous avez besoin de ces informations pour mener à bien la tâche. Si vous ne souhaitez pas attendre qu’un tel cadre apparaisse pendant que vous visionnez la vidéo, vous pouvez cliquer sur l’index dans le coin inférieur gauche de l’écran. Un aperçu de tous les cadres et sujets s’affiche tel qu’illustré ci-dessous.
 
-Since the clip covers a wide range of topics ranging from physics and reproduction technology to the historiography of the Holocaust and interview methodology, the assignments can be connected to a broad variety of courses. Lecturers can select the most appropriate assignment(s) by looking at the tags in the metadata.
+Le thème commun de ces sujets est le processus au cours duquel les sources historiques passent de leur forme analogique à une représentation numérique et le lien entre ces changements et les évolutions sociétales et technologiques. Dans la mesure où la vidéo aborde un large éventail de sujets allant de la physique et de la technologie de reproduction à l’historiographie de l’Holocauste et à la méthodologie d’interview, les tâches peuvent être mises en relation avec une large palette de cours. Certaines s’intégreront très bien dans l’historiographie et les études de l’Holocauste, tandis que d’autres relèvent davantage de l’approche des études des médias ou des études en sciences de l’information. Les professeurs peuvent choisir la/les tâche(s) la/les plus pertinente(s) en consultant les balises dans les métadonnées.
 
 
 <!-- more -->

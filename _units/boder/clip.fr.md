@@ -1,11 +1,16 @@
 ---
-title: "David Boder's interview collection: from analogue to digital"
+title: "Animation sur David Boder et sa collection d’interviews : [TO TRANSLATE]from analogue to digital"
 type: clip
 lang: fr
 parent: boder
 iframe: david-boder-french
 ---
-An account describing how the collection of interviews with concentration camp survivors created by David Boder in 1946 was turned into an interactive website in 2009.
+
+{: .headsup}                            
+**Regardez le clip, puis complétez le quiz**
+
+Récit décrivant la transposition de la collection d’interviews de survivants des camps de concentration rassemblée par David Boder en 1946 en un site internet interactif en 2009.
 
 
 <!-- more -->
+

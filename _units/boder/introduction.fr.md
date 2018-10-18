@@ -3,42 +3,41 @@ title: Introduction
 type: introduction
 parent: boder
 tags:
-  - holocaust studies
-  - media studies
-  - history of technology oral history
+  - études sur l’Holocauste
+  - histoire des technologies de la communication
+  - études des médias
+  - histoire orale
 lang: fr
 ---
 
-
-
-[FR] A lesson about how the collection of interviews with concentration camp survivors created by psychologist David Boder in 1946 was turned into an interactive website in 2009.
+Leçon sur la transposition de la collection d’interviews de survivants des camps de concentration rassemblée par le psychologue David Boder en 1946 en un site internet interactif en 2009.
 
 <!-- more -->
 
-### What is the objective of this lesson?
+### Quel est l’objectif de cette leçon ?
 
 <!-- section-contents -->
 
-This lesson is meant to teach students to apply source criticism to audio interviews that were recorded with now obsolete technology in 1946, before being digitised and published on the web in 2000 and 2009. The central point is whether the meaning and value of an interview changes when it is transferred from its original context of creation to a context of preservation and eventually digitisation.
+L’objectif de cette leçon est d’apprendre aux étudiants à appliquer l’approche critique à des interviews audio qui ont été enregistrées en 1946 au moyen d’une technologie aujourd’hui obsolète avant d’être numérisées et publiées sur internet en 2000 et 2009. La critique de la source revient à poser des questions sur l’origine, l’authenticité et la valeur informative et artéfactuelle de la source envisagée. Pour appliquer cette démarche à un contenu numérique publié en ligne, il importe de comprendre les modifications apportées au contenu au cours des différentes phases de transformation. Dans cette leçon, nous examinons les éventuels changements en matière de signification et de valeur d’une interview lorsqu’elle est transposée de son contexte initial de création à un contexte de préservation et, le cas échéant, de numérisation.
 
 <!-- section -->
 
-### How is the content organized?
+### Comment le contenu est-il organisé ?
 
 <!-- section-contents -->
 
-The lesson consists of three modules with increasing levels of complexity and time required.
+La leçon compte trois modules dont la complexité et la durée vont croissantes.
 
-The ***SMALL*** offers of a short animation lasting 6 minutes 30 seconds, intended to be accessible to a broad audience, whether within a teaching context or not. It tells the story of the various transformations of Boder’s collection of interviews. This is followed by a quiz that takes around 10 minutes.
+Le ***PETIT*** module est composé d’une brève animation de 6 minutes 30 secondes et est destiné à un large public, que ce soit dans un contexte d’enseignement ou en dehors. Cette animation raconte les diverses transformations subies par la collection d’interviews de David Boder. Elle est suivie d’un quiz d’une durée approximative de 10 minutes.
 
-The ***MEDIUM*** module is related to an interactive version of the first animation. The target group is Bachelor students in a humanities discipline and their lecturers. Topics that are briefly touched on in the short animation are discussed in more depth in twelve windows in the interactive version. Each of these windows serves as a basis for the following twelve assignments. These are suitable for collaborative work for two or three students. The time required varies from 30 to 90 minutes.
+Le module ***INTERMÉDIAIRE*** concerne une version interactive de la première animation. Le groupe cible comprend les étudiants de bachelor en lettres et leurs professeurs. Les thèmes abordés sommairement dans la brève animation sont présentés plus en détail au gré des douze fenêtres de la version interactive. Chacune de ces fenêtres sert de base pour les douze tâches proposées ensuite. Ces tâches peuvent être réalisées par groupes de deux ou trois étudiants. Leur durée varie de 30 à 90 minutes. En outre, ce module comprend une lecture vidéo animée sur la technologie du web accompagnée de quatre tâches.
 
-The ***LARGE*** module offers a tutorial for a hands-on workshop lasting at least a day. This requires a lecturer who has experience with digital tools, some preparation and preferably a computer lab with computers on which the required software is installed. The objective is to go through all the steps required to create a digital history project. This can range from creating a website or podcast or applying a storytelling tool to creating a digital exhibit or annotating a corpus of photos.
+Le ***GRAND*** module propose un support pour l’organisation d’un atelier pratique d’au moins une journée. Cet atelier doit être dirigé par un professeur ayant de l’expérience avec les outils numériques et requiert une certaine préparation et, de préférence, une salle informatique où le logiciel requis a été installé sur les ordinateurs. L’objectif est de parcourir toutes les étapes requises pour la création d’un projet d’histoire numérique. Ces étapes peuvent comprendre la création d’un site internet ou d’un podcast, l’application d’un outil de narration pour créer une exposition numérique ou l’annotation d’un corpus de photos.
 
-If lecturers or students want to do some preparatory reading on David Boder, they can choose one or more of the following key publications:
+Si les professeurs ou les étudiants souhaitent prévoir quelques lectures préparatoires sur David Boder, ils peuvent faire leur choix parmi les grandes publications suivantes :
 
-Simone Gigliotti, “The Voice As a Human Document: Listening to Holocaust Survivors in Postwar Europe” – Review of Alan Rosen, The Wonder of Their Voices: The 1946 Holocaust Interviews of David Boder. 217-235, Yad Vashem Studies – Volume 40 [2] (Ed) David Silberklang, (2012)
+Simone Gigliotti, “The Voice As a Human Document: Listening to Holocaust Survivors in Postwar Europe”  Review of Alan Rosen, The Wonder of Their Voices: The 1946 Holocaust Interviews of David Boder. 217-235, Yad Vashem Studies  Volume 40 [2] (Éd.) David Silberklang, (2012)
 
-Alan Rosen, “‘We know very little in America’, David Boder and un-belated testimony”, In: After the Holocaust: Challenging the Myth of Silence, ed. David Cesarani and Eric J.Sundquist, (New York, 2012)
+Alan Rosen, “‘We know very little in America’, David Boder and un-belated testimony”, In: After the Holocaust: Challenging the Myth of Silence, éd. David Cesarani et Eric J.Sundquist, (New York, 2012)
 
-Rachel Deblinger, “David P. Boder, Holocaust Memory in Displaced Persons Camps”, In: After the Holocaust: Challenging the Myth of Silence, ed. David Cesarani and Eric J.Sundquist, (New York, 2012)
+Rachel Deblinger, “David P. Boder, Holocaust Memory in Displaced Persons Camps”, In: After the Holocaust: Challenging the Myth of Silence, éd. David Cesarani et Eric J.Sundquist, (New York, 2012)
