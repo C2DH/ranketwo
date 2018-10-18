@@ -10,7 +10,7 @@ link: /u/archival-digital-turn/
 
 Lesson on how the method of source criticism has been affected by the digital turn and what this means for the practice of students who study humanities disciplines and conduct research.
 
-A moodle package is [available for download](http://ranke2.uni.lu/assets/mbz/archival-digital-turn.mbz)
+A moodle package will be available for download in the near future 
 
 <!-- more -->
 
