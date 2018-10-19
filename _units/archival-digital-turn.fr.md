@@ -1,7 +1,7 @@
 ---
 title: "Du virage archivistique au virage numérique"
 layout: unit
-toc: off
+toc: on
 tags:
   - digitization
   - digital source criticism

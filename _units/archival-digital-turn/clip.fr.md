@@ -8,7 +8,8 @@ iframe: archival-to-digital-turn
 ---
 
 {: .headsup}                            
-**Regardez le clip, puis compléter quiz**
+**Regardez le clip, puis complétez le quiz !**
 
-Une animation sur l’influence exercée par l’avènement du numérique sur la méthode de critique des sources. Les historiens doivent comprendre comment la numérisation et les archives du web fonctionnent, afin de pouvoir appliquer une approche critique aux sources utilisées.  
+Animation sur les implications de l’avènement du numérique sur la pratique d’examen critique appliquée au contenu historique. Les historiens doivent comprendre le fonctionnement de la numérisation et des archives sur Internet afin de pouvoir adopter une approche critique vis-à-vis des sources qu’ils utilisent.
+
 <!-- more -->

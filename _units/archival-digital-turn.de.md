@@ -1,7 +1,7 @@
 ---
 title: "Von der Archivierung zum „digital Turn“"
 layout: unit
-toc: off
+toc: on
 tags:
   - digitization
   - digital source criticism

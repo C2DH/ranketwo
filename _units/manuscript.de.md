@@ -1,30 +1,30 @@
 ---
-title: The Chronicle of Dalimil; A photogenic mediaeval manuscripts?
+title: "Die Dalimil-Chronik: Ein fotogenes mittelalterliches Manuskript?"
 layout: unit
 tags:
-  - manuscripts
-  - digitization
-  - transformation
-  - communication technology
-  - dissemination of knowledge
-  - esthetic qualities
+  - Manuskripte
+  - Digitalisierung
+  - Transformation
+  - Kommunikationstechnologie
+  - Verbreitung von Wissen
+  - ästhetische Qualitäten
 lang: de
 uni_id: manuscript
 link: /u/manuscript/
 permalink: /de/u/manuscript/
 audience: general public, bachelor, master humanities
 components:
-  small: animation + quiz
-  medium: animation + 6 assignments,   
+  small: Animation + Quiz
+  medium: Animation + 6 Aufgaben   
 mediatype: manuscripts, digitized manuscripts
 order: 5
 
 ---
 
-A lesson about how the dynamics of the World Wide Web have led to the prioritisation of the aesthetic value of a mediaeval manuscript when it comes to spreading knowledge and creating access, at the expense of its original, unillustrated, less attractive version.
+Eine Lektion zu dem Thema, wie die Dynamik des World Wide Web zur Priorisierung des ästhetischen Werts eines mittelalterlichen Manuskripts geführt hat, wenn es um die Verbreitung von Wissen und die Schaffung eines Zugangs zulasten der unillustrierten, weniger attraktiven Originalversion geht.
 
 
 <!-- more -->
-small: animation + quiz
-medium: animation + 6 assignments
-tags: manuscripts, digitisation, transformation, communication technology, dissemination of knowledge, aesthetic qualities
+klein: Animation + Quiz
+mittel: Animation + 6 Aufgaben
+Tags: Manuskripte, Digitalisierung, Transformation, Kommunikationstechnologie, Verbreitung von Wissen, ästhetische Qualitäten

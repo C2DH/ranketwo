@@ -14,7 +14,7 @@ Eine Lektion zu der Frage, wie die 1946 vom Psychologen David Boder zusammengest
 
 <!-- more -->
 
-### Was ist das Ziel dieser Lektion?
+### Was ist das Lernziel dieser Lektion?
 
 <!-- section-contents -->
 
