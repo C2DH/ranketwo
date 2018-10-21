@@ -109,6 +109,8 @@
   padding-bottom: 2rem;
   position: relative;
 
+
+
   &.clip, &.quiz, &.interactive{
     border-top: 1px solid blue;
     margin-bottom: 0px;
@@ -161,6 +163,29 @@
     }
     div.caption p{
       color: $almost-black;
+    }
+  }
+
+  &.assignments {
+    background-color: transparent;
+    border-top: 2px solid magenta;
+
+    h3{
+      margin-top: 0px;
+      font-size: 1.25em;
+      padding-bottom: 1rem;
+      margin-bottom: 1rem;
+      position: relative;
+      line-height: 1.5;
+    }
+
+    h3::after{
+      position:absolute;
+      content: "";
+      bottom: 0;
+      left: 0;
+      width: 50px;
+      border: 1px solid cyan;
     }
   }
 
