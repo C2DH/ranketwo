@@ -3,7 +3,7 @@ title: Von der Archivierung zum „digital Turn“
 type: clip
 lang: de
 parent: archival-digital-turn
-iframe: archival-to-digital-turn
+iframe: archival-to-digital-turn-german
 
 ---
 
