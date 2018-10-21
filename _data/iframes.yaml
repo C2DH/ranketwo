@@ -56,8 +56,14 @@
     thumbnail: assets/images/attachments/archival-digital-turn.png
     src: https://player.vimeo.com/296271988
 
--
-    id: archival-to-digital-turn-playposit
+
+-   id: archival-to-digital-turn-german
+    type: vimeo
+    aspectratio: aspect-16-9
+    thumbnail: assets/images/attachments/archival-digital-turn.png
+    src: https://player.vimeo.com/296274036
+
+-   id: archival-to-digital-turn-playposit
     aspectratio: aspect-16-9
     thumbnail: assets/images/attachments/archival-digital-turn.png
     src: https://www.playposit.com/listcode/823197/n717d6/open/anonymous
