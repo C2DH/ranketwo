@@ -27,3 +27,6 @@ defaults:
       layout: default
 markdown: kramdown
 empty_array: []
+recaptcha: 6LfZKnYUAAAAAJGg9r--abfv5A08TDORCmv4mGOx
+forms:
+  contact-us: /send-email
