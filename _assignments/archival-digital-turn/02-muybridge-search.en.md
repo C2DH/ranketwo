@@ -10,7 +10,7 @@ tags:
   - search engines
 order: 2
 outcomes:
-  - Understanding how search engines prioritize certain search results 
+  - Understanding how search engines prioritise certain search results 
 
 ---
 Finding content about Eadweard Muybridge on the web is partly determined by what is indexed by search engines. Your choice of search engine you are used to rely on, depends largely on how you have learned to use the web. This assignment will give you an idea of the possible diversity and ranking of search results. You are going to compare results of a search for Muybridge in two different search engines: Google and Yahoo
