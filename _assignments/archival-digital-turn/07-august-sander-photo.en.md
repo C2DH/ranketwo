@@ -17,7 +17,7 @@ tags:
   - Neue Sachlichkeit
   - German history
 learning outcomes:
-  - training students to reflect on the search results of an online search and how this is determined by the properties of the search engine,
+  - Training students to reflect on the search results of an online search and how this is determined by the properties of the search engine,
   - training studens to distinguish the various layers of interpretations when applying source criticism on analogue photos that have been published online
   - making students conscious of the differences in informational and artifactual value between the analogue and digital source.
 order: 7
