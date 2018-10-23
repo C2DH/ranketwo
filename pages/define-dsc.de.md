@@ -40,9 +40,9 @@ Unter den vielen Fragen die sich stellen, gelten folgende als Schlüsselfragen:
 
 {: .extra-spacing}
 
-[block](dsc-skill-training)
+[block](dsc-skill-training-de)
 
-[block](quelle)
+[block](quelle-de)
 
 {: .extra-spacing}
 ### Literatur zum Konzept der digitale Quellenkritik 
