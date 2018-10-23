@@ -35,7 +35,7 @@ documents:
 <!-- more -->
 
 
-### Why Digital Source Criticism?
+### Why digital source criticism?
 
 
 ![DSCATM.png](https://c2dh.github.io/ranketwo/assets/images/DSCATM.png){:height="200px" .float-left.mr-3.mt-2.mb-4}
@@ -80,7 +80,7 @@ The lessons we offer on this website are a crossover between history, archival s
 
 
 {: .extra-spacing}
-### Key Terms
+### Key terms
 meta-source criticism, the creation, enrichment and identification of digitised and born-digital sources,
 tool criticism:
 remix and re-contextualisation: reuse of data in a digital context
