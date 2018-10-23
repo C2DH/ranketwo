@@ -2,7 +2,7 @@
 layout: assignment
 unit: archival-digital-turn
 lang: en
-title: The Western European Union; analysing the digital documents of the 'sleeping beauty'    
+title: Western European Union; analysing the digital documents of the “sleeping beauty”    
 cover:
 authors: 
   - florentina-armaselu
@@ -27,7 +27,7 @@ The texts and clips will give you an impression of what type of organisation WEU
 
 
 <!-- section -->
-### 5.a Exploring diplomatic documents of the Western European Union online and in the archive | 180 min |
+### 5.a Exploring diplomatic documents of Western European Union online and in the archive | 180 min |
 <!-- section-contents -->
 In the Instructions section, you have read and watched content that explains and shows the historical dimension of WEU and its archives.
 In this assignment the focus is on comparing the analogue with the digital version of the collection. To understand how the corpus was processed and made machine readable, you will first read two articles and then explore WEU’s documents on armaments issues (these archives are generically referred to as WEU-Diplo, for reference purposes). The idea is for you to do this in two places: on the web and at the premises of the Luxembourg National Archives (ANLux). If you are not able to visit the archives, you can limit your search to the web. 
