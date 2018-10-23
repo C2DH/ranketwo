@@ -3,31 +3,30 @@
     title: "David Boder's interview collection: from analogue to digital"
     type: vimeo
     aspectratio: aspect-16-9
-    thumbnail: https://i.vimeocdn.com/video/708218729.jpg?mw=960&mh=540&q=70
+    thumbnail: "https://i.vimeocdn.com/video/708218729.jpg?mw=960&mh=540&q=70"
     vimeo_id: 292701349
-    src: https://player.vimeo.com/video/292701349
+    src: "https://player.vimeo.com/video/292701349"
 -
     id: david-boder
     title: "David Boder's interview collection: from analogue to digital"
     type: vimeo
     aspectratio: aspect-16-9
-    thumbnail: https://i.vimeocdn.com/video/708218729.jpg?mw=960&mh=540&q=70
+    thumbnail: "https://i.vimeocdn.com/video/708218729.jpg?mw=960&mh=540&q=70"
     vimeo_id: 275617187
-    src: https://player.vimeo.com/video/275617187
+    src: "https://player.vimeo.com/video/275617187"
 
 -
     id: david-boder-german
     title: "David Boder's interview collection: from analogue to digital"
-    thumbnail: https://i.vimeocdn.com/video/728677669_640.jpg
+    thumbnail: "https://i.vimeocdn.com/video/728677669_640.jpg"
     aspectratio: aspect-16-9
-    src: https://player.vimeo.com/video/292319230
+    src: "https://player.vimeo.com/video/292319230"
 
 -
     id: david-boder-playposit
     thumbnail: assets/images/david-boder-interactive.png
     title: "David Boder's interview collection: from analogue to digital. Quiz"
     src: "https://app.playposit.com/share/258439/797374/David-Boders-Interview-collection"
-
 
 -
     id: david-boder-interactive
@@ -51,46 +50,47 @@
     id: transformations
     aspectratio: aspect-16-9
     type: vimeo
-    thumbnail: https://i.vimeocdn.com/video/718551052.jpg?mw=960&mh=540&q=70
+    thumbnail: "https://i.vimeocdn.com/video/718551052.jpg?mw=960&mh=540&q=70"
     title: Transformations.
-    src: https://player.vimeo.com/video/279642025
+    src: "https://player.vimeo.com/video/279642025"
 
 -
     id: transformations-playposit
     thumbnail: https://i.vimeocdn.com/video/718551052.jpg?mw=960&mh=540&q=70
     title: Transformations. A quiz.
-    src: https://www.playposit.com/play/826731/Transformation
+    src: "https://www.playposit.com/play/826731/Transformation"
 
 -
     id: archival-to-digital-turn
     type: vimeo
     aspectratio: aspect-16-9
     thumbnail: assets/images/attachments/archival-digital-turn.png
-    src: https://player.vimeo.com/video/296271988
+    src: "https://player.vimeo.com/video/296271988"
 
 
 -   id: archival-to-digital-turn-german
     type: vimeo
     aspectratio: aspect-16-9
     thumbnail: assets/images/attachments/archival-digital-turn.png
-    src: https://player.vimeo.com/video/296271988
+    src: "https://player.vimeo.com/video/296271988"
 
 -   id: archival-to-digital-turn-playposit
     aspectratio: aspect-16-9
     thumbnail: assets/images/attachments/archival-digital-turn.png
-    src: https://www.playposit.com/listcode/823197/n717d6/open/anonymous
+    src: "https://www.playposit.com/listcode/823197/n717d6/open/anonymous"
+
 -
     id: boder2-webtechnology
     type: vimeo
     aspectratio: aspect-16-9
-    thumbnail: https://i.vimeocdn.com/video/718778251.jpg?mw=900&mh=506&q=70
+    thumbnail: "https://i.vimeocdn.com/video/718778251.jpg?mw=900&mh=506&q=70"
     title: Boder and webtechology. A video lecture by Lars Wieneke
-    src: https://player.vimeo.com/video/279392604
+    src: "https://player.vimeo.com/video/279392604"
 
 -
     id: leopold-von-ranke
     type: vimeo
     aspectratio: aspect-16-9
-    thumbnail: https://i.vimeocdn.com/video/732712719.jpg?mw=1900&mh=1129&q=70
+    thumbnail: "https://i.vimeocdn.com/video/732712719.jpg?mw=1900&mh=1129&q=70"
     title: Leopold von Ranke
-    src: https://player.vimeo.com/video/279392604
+    src: "https://player.vimeo.com/video/279392604"
