@@ -45,7 +45,7 @@ Of the many questions to ask, these can be regarded as key:
 [block](quelle)
 
 {: .extra-spacing}
-### Literature related to the concept of Digital Source Criticism
+### Literature related to the concept of digital source criticism
 
 {: .ml-3.mt-4.mb-2}
 [ref](bothe-zeugnisse-uberlebender-der-shoah)
