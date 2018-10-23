@@ -41,7 +41,7 @@ Here is a short explanation on how Google Images works https://youtu.be/oJzD4vF5
 Here is a clip explaining how the social medium Pinterest works https://youtu.be/oJzD4vF5dFA.  
 Here is an explanation on how to track down details on when online content has been published
 https://www.makeuseof.com/tag/find-date-published-post-insanely-simple-tips/. 
-Not every publication date can be traced through a link. If you want to avoid the frustrating experience of trial and error, first take a look at this PDF, in which the tips explained above have successfully been applied to a photo from Sander’s collection. (add pdf Sidney) 
+Not every publication date can be traced through a link. If you want to avoid the frustrating experience of trial and error, first take a look at this PDF, in which the tips explained above have successfully been applied to a photo from Sander’s collection. [ref](what-works-and-what-doesnot)
 <!-- section -->
 ### 7.a Access to August Sander's portraits through Google and Pinterest
 <!-- section-contents -->
