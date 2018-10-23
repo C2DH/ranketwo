@@ -27,3 +27,11 @@ defaults:
       layout: default
 markdown: kramdown
 empty_array: []
+recaptcha: 6LfZKnYUAAAAAJGg9r--abfv5A08TDORCmv4mGOx
+forms:
+  contact-us:
+    url: "http://localhost:3000"
+    params:
+      -
+        name: use
+        value: ranke2

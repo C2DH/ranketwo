@@ -1,0 +1,34 @@
+---
+layout: default
+---
+{% assign paragraphs = page.content | split: site.excerpt_separator %}
+{% include page.top.html %}
+
+<div class='container'>
+  <div class='contents mt-5 mb-5' id="contents">
+
+    <form action='{{site.forms.contact-us.url}}' method='POST'>
+      <div class="form-group">
+        <label for="form-email">{% assign key="email address" %}{% include t.html %}</label>
+        <input type="email" class="form-control" id="form-email" name='email' aria-describedby="emailHelp" placeholder="Enter email">
+        <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+      </div>
+      <div class="form-group">
+        <label for="form-contents">{% assign key="contents" %}{% include t.html %}</label>
+        <textarea class="form-control" id="form-contents" name='contents' rows="3"></textarea>
+      </div>
+
+      <div class="form-group">
+        <label for="form-contents">{% assign key="not a robot?" %}{% include t.html %}</label>
+        <div class="g-recaptcha" data-sitekey="{{site.recaptcha}}"></div>
+      </div>
+      {% for param in site.forms.contact-us.params %}
+      <input type="hidden"
+        name='{{param.name}}'
+        value='{{param.value}}'/>
+      {% endfor %}
+      <button type="submit" class="btn btn-primary">{% assign key="submit" %}{% include t.html %}</button>
+    </form>
+
+  </div>
+</div>
