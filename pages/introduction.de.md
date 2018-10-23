@@ -56,7 +56,7 @@ Traditionelle Forschungsansätze sind nicht überholt. Nach wie vor gilt es, Pri
 
 {: .extra-spacing}
 ### Einblicke durch Crossovers
-Demgemäß verstehen sich unsere Lektionen auf dieser Website als Crossover zwischen Geschichte, Archivstudien, Hilfswissenschaften, Informationswissenschaft und Computerwissenschaft. Wir halten diesen disziplinenübergreifenden Ansatz für notwendig, um eine neue Generation digital kundiger Forscher heranzubilden, die beim Umgang mit digitalen Inhalten die richtigen Fragen stellen und in der Lage sind, digitale und analoge Daten mithilfe digitaler Tools zu strukturieren, zu analysieren und darzulegen.
+Demgemäß verstehen sich unsere Lektionen auf dieser Website als Crossover zwischen Geschichte, Archivstudien, Hilfswissenschaften, Informationswissenschaft und Computerwissenschaft. Wir halten diesen disziplinenübergreifenden Ansatz für notwendig, um eine neue Generation digital kundiger Forscher heranzubilden, die beim Umgang mit digitalen Inhalten die richtigen Fragen stellen und in der Lage sind, digitale und analoge Daten mithilfe digitaler Tools zu strukturieren, zu analysieren und darzulegen. Sehe: [lit](hjorland-information-digital-literacy)
 
 {: .extra-spacing}
 ### Schlüsselbegriffe
