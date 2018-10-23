@@ -14,7 +14,7 @@ Im Rahmen jeder Lektion stehen mehrere Module zur Wahl, deren Komplexität und Z
 <!-- more -->
 
 
-Die Lektionen sind so strukturiert, dass sie den Bedürfnissen von Studierenden, Dozenten und unabhängig Lernenden mit begrenztem Zeitfenster, aber auch all jenen gerecht werden, die ein Thema fundiert betrachten möchten. Jede Lektion kann ein KLEINES, MITTLERES oder GROSSES Modul umfassen 
+Die Lektionen sind so strukturiert, dass sie den Bedürfnissen von Studierenden, Dozenten und unabhängig Lernenden mit begrenztem Zeitfenster, aber auch all jenen gerecht werden, die ein Thema fundiert betrachten möchten. Jede Lektion kann ein KLEINES, MITTLERES oder GROSSES Modul umfassen. Zu beachten ist, dass die in den Lektionen behandelten Themen nicht auf „Digital Source Criticism“ (Kritik an digitalen Quellen) beschränkt sind. Um Dozenten mehr Abwechslung zu bieten, fließen auch andere Verfahren ein, die eine wichtige Rolle in der digitalen Geschichte spielen, darunter die Durchführung von Webrecherchen und das Anlegen von digitalen Karten oder Zeitleisten. 
 
 
 {: .extra-spacing}
@@ -37,7 +37,7 @@ Die Lektionen sind so strukturiert, dass sie den Bedürfnissen von Studierenden,
 <div class='component--size big size-large float-left mr-3 ml-2 mt-2 mb-2'>L</div>
 
 
-**one day** &mdash;Das **GROSSE** Modul umfasst ein Lernprogramm für einen mindestens eintägigen praktischen Workshop. Dieser sollte von einem mit digitalen Tools vertrauten Dozenten abgehalten werden und erfordert einige Vorbereitung und eine geeignete Umgebung wie ein Computerlabor. Ziel des Lernprogramms ist, alle für die Erstellung eines digitalen Geschichtsprojekts erforderlichen Schritte durchzuarbeiten. Dies kann von der Schaffung einer Website oder eines Podcasts durch Anwendung eines Storyteling-Tools bis zur Schaffung eines digitalen Exponats oder der Annotation eines Fotokorpus reichen.
+**Ein Tag** &mdash;Das **GROSSE** Modul umfasst ein Lernprogramm für einen mindestens eintägigen praktischen Workshop. Dieser sollte von einem mit digitalen Tools vertrauten Dozenten abgehalten werden und erfordert einige Vorbereitung und eine geeignete Umgebung wie ein Computerlabor. Ziel des Lernprogramms ist, alle für die Erstellung eines digitalen Geschichtsprojekts erforderlichen Schritte durchzuarbeiten. Dies kann von der Schaffung einer Website oder eines Podcasts durch Anwendung eines Storyteling-Tools bis zur Schaffung eines digitalen Exponats oder der Annotation eines Fotokorpus reichen.
 
 {: .extra-spacing}
 ## Wie lassen sich die Lektionen verwenden?
@@ -46,9 +46,9 @@ Ein Dozent kann eines oder mehrere Module und/oder Aufgaben wählen, die im Plen
 
 1. Wie lässt sich das Thema Kritik an digitalen Quellen in einen bestimmten Kurs einbauen (z. B. „Einführung in Forschungsmethoden“, so wie in der Regel im ersten Jahr eines Bachelor-Programms angeboten)? Für Vorschläge wird auf Abschnitt … verwiesen
 
-2. Digitale Vorbildung von Studierenden und Dozenten  einen schnellen Test digitaler Kenntnisse von Studierenden enthält Abschnitt …
+2. Für digitale Grundkenntnisse und zur Bewertung der digitalen Kompetenzen Ihrer Lernenden siehe die verschiedenen [Ressourcen auf der Website der University of Sunderland](https://canvas.sunderland.ac.uk/courses/3/pages/digital-literacy). 
 
-3. Zur Verfügung stehende Zeit  das benötigte Zeitfenster ist in den Metadaten jeder Aufgabe enthalten.
+3. Zur Verfügung stehende Zeit das benötigte Zeitfenster ist in den Metadaten jeder Aufgabe enthalten.
 
 {: .extra-spacing}
 ## Wie eine Aufgabe ausgewählt wird
@@ -56,10 +56,8 @@ Ein Dozent kann eines oder mehrere Module und/oder Aufgaben wählen, die im Plen
 Da diese Lektionen nicht obligatorisch sind und kein Lehrer den Fortschritt überwachen und Feedback geben kann, sollten die Dozenten selbst prüfen, wie sie den Inhalt in ihre eigenen Kurse integrieren können. Um Dozenten bei ihrer Auswahl zu unterstützen, enthält jede Aufgabe Metadaten zum erforderlichen Zeitfenster sowie zu Lernergebnissen, Schlüsselwörtern und praktischen Anforderungen. Ebenso besteht die Möglichkeit, eine PDF-Fassung der Aufgabe herunterzuladen und diese in einen anderen Kontext einzubauen. Um die Aufgaben durchzuarbeiten, stehen den Studierenden herunterladbare Vorlagen zur Verfügung.
 
 {: .extra-spacing}
-## Example scenarios: Source Criticism / Introduction to methods of research / Digital Culture / Holocaust Studies 
+## Beispiele für Szenarios
+1.	In einer Sitzung zum Thema **Quellenkritik** mit rund 1,5 Stunden zu Ihrer Verfügung können Sie den sechsminütigen Clip „From the archival to the digital turn“ zeigen und die Lernenden im Anschluss auffordern, das Quiz durchzuarbeiten (15 Minuten). Danach können Sie die sieben Aufgaben unter Zweiergruppen aus den Lernenden verteilen. Die Aufgaben können in der Klasse begonnen (nur der erste, 20-30 Minuten erfordernde Abschnitt) und zu Hause abgeschlossen werden. Die Ergebnisse ihrer Arbeit könnten in der nächsten Sitzung abwechselnd oder im Rahmen einer Diskussion mit dem Lehrer bzw. Dozenten vorgestellt werden. Ebenso lässt sich die Aufgabe auf ein anderes Interessengebiet zuschneiden, indem andere Beispiele ausgewählt und weitere Links hinzugefügt werden.
+2.	In einer Sitzung zum Thema **digitale Kultur** können Sie den zweiminütigen Clip „Transformation“ zeigen, das 15-minütige Quiz durcharbeiten und anschließend im Unterricht über vorgestellte Konzepte und Begriffe diskutieren. Die Lernenden können die Aufgaben dann in Gruppen ohne Zeitvorgabe abschließen. Welche und wie viele Aufgaben gewählt werden, hängt davon ab, wie viel Hausarbeit generell von den Lernenden erwartet wird, dies kann jedoch von 30 Minuten bis 3 Stunden reichen.
+3.	Im Rahmen einer Unterrichtseinheit über die **Holocaust-Studien** oder Oral History können Sie die siebenminütige Animation „David Boder: from steel wire to website“ zeigen und das 15-minütige Quiz durcharbeiten. Je nach Kursschwerpunkt können Sie die Lernenden auffordern, sich die interaktive Version der Animation anzusehen und eine Reihe von Aufgaben durchzuarbeiten. Sie haben dabei die Wahl zwischen Aufgaben, die sich mit **Medientechnologie**, **Oral History**, **Interviewmethoden** und **Quellenkritik** beschäftigen. Wenn Sie sich weiter mit der **Geschichte der Webtechnologie** befassen möchten, können Sie sich den neunminütigen Videokurs „David Boder online – comparing websites 2000-2009“ ansehen. Zur Auswahl stehen eine Reihe von Aufgaben, die sich mit der Entwicklung der Webtechnologie und der Erhaltung digitaler Ressourcen befassen.
 
-1. In a class about source criticism with about 1,5 hours at your disposal, you can watch the clip 'From Archival to Digital turn' which takes 6 minutes, then have the students complete the quiz, which takes 15 minutes. After that you can distribute the 7 assignments among pairs of students, which they can partly complete in class (only complete the first section a.) which will take 20 to 30 min., and then finish the rest at home as homework. The results of their work could be presented in turns during the next lesson, or as part of a class conversation with the lecturer. The lecturer can also tweak the assignment to another topic of interest, by choosing other examples and offering other links. 
-
-2. In a class about digital culture, you can watch the clip 'transformation' that takes 2 minutes, complete the quiz that takes 15 minutes, and then have a class discussion about the concepts and terms that have been presented. The students can then take up the assignments in groups as homework. Which assignments to choose and how many, depends on the weight that is attributed to homework in that class, but it can vary from 30 min to 3 hours. 
-
-3. In a class about Holocaust Studies or Oral History, you can watch the animation 'David Boder: from steel wire to website', which takes 7 minutes, and complete the quiz which takes 15 min. Depending on the focus of the course, you can then invite the students to watch the interactive version of the animation, and complete a set of assignments. You have the choice between assignment that deal with media technology, oral history, interview methodology or source criticism. If you want to further venture into the history or webtechnology, you can watch the video lecture 'David Boder online - comparing websites 2000-2009', which takes 9 minutes. Here you have the choice between a series of assignments that deal with the development of web technology and preservation of digital resources.
