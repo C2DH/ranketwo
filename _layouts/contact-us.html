@@ -17,11 +17,13 @@ layout: default
         <label for="form-contents">{% assign key="contents" %}{% include t.html %}</label>
         <textarea class="form-control" id="form-contents" name='contents' rows="3"></textarea>
       </div>
-
       <div class="form-group">
         <label for="form-contents">{% assign key="not a robot?" %}{% include t.html %}</label>
         <div class="g-recaptcha" data-sitekey="{{site.recaptcha}}"></div>
       </div>
+      <input type="hidden"
+        name='lang'
+        value='{{page.lang}}'/>
       {% for param in site.forms.contact-us.params %}
       <input type="hidden"
         name='{{param.name}}'
