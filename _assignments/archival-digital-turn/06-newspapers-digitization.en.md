@@ -13,9 +13,9 @@ tags:
   - conversion from analogue to digital
 requirements: Fast WIFI connection, scissors and paper
 outcomes:
- - Understand how the process of selection, digitisation and online publishing of newspapers works 
- - Understand what changes occur when newspapers are turned from paper to digital files
- - Understand the merits of online access to large volumes of digitised newspapers
+ - Understanding how the process of selection, digitisation and online publishing of newspapers works 
+ - Understanding what changes occur when newspapers are transformed from print to digital files
+ - Understanding the merits of online access to large volumes of digitised newspapers
 documents:
  - tom-tryniski
  - interface-luxembourgensia
