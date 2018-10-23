@@ -17,7 +17,7 @@ Finding content about Eadweard Muybridge on the web is partly determined by what
 <!-- more -->
 
 <!-- briefing-student -->
-### Instruction
+### Instructions
 <!-- section-contents -->
 First get some insights into how search engines work:
 -  Watch this lecture by Eli Pariser on [the Filter Bubble](https://www.youtube.com/watch?v=Dua_UvR5mtI), start at 3.55 and continue until 14.36.
@@ -43,7 +43,7 @@ First get some insights into how search engines work:
 - Are there any search results that you would have missed by only searching in English?
 
 <!-- section -->
-### Reading/viewing  suggestions
+### Reading/viewing suggestions
 <!-- section-contents -->
 - [Eli Pariser, The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think, 2011](https://books.google.nl/books/about/The_Filter_Bubble.html?id=wcalrOI1YbQC&redir_esc=y)
 - [Alexander Halavais, Search Engine Society, 2017](https://books.google.nl/books?id=RLpADwAAQBAJ&printsec=frontcover&dq=how+do+search+engines+work&hl=nl&sa=X&ved=0ahUKEwjM_rDRz7DdAhUxMewKHdjBBLUQ6AEIRzAE)
