@@ -4,7 +4,7 @@ lang: fr
 type: interactive
 parent: boder
 duration: 60
-iframe: david-boder-interactive
+iframe: david-boder-interactive-french
 ---
 
 {: .headsup}
