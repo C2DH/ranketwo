@@ -1,5 +1,5 @@
 ---
-title: A lesson about imagination, transformation in the context of digital technology
+title: A lesson about imagination and transformation in the context of digital technology
 type: introduction
 parent: transformation
 tags:
