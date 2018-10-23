@@ -1,5 +1,5 @@
 ---
-title: "David Boder: From wire recordings to website"
+title: "David Boder: from wire recordings to website"
 layout: unit
 toc: on
 tags:
