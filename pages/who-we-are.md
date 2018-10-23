@@ -39,7 +39,7 @@ Daniele Guido - C2DH
 Daniele Guido - C2DH <br>
 Frederic Reis - C2DH
 
-### Moodle integration
+### moodle integration
 Shahed Parnian - University of Luxembourg
 
 ### animations
@@ -75,24 +75,24 @@ Andreas Fickers - C2DH <br>
 Brigitte Melchior-Dolenc - C2DHv <br>
 Karin Priem - C2DH
 
-### Recording and editing of music, sound and video
+### recording and editing of music, sound and video
 Alexandre Germain - Media Centre University of Luxembourg
 
-### Research
+### research
 Stefania Scagliola -  C2DH <br>
 Sidney Wiltgen - student assistant
 
-### Copyright clearance
+### copyright clearance
 Cecile Duval - C2DH
 
-### Controbitors to lessons
+### contributors to lessons
 Estelle Bunout - C2DH <br>
 Marten Düring - C2DH  <br>
 Florentina Armaselu - C2DH  <br>
 Juliane Tatarinov - C2DH  <br>
 Max Kemman - C2DH
 
-### Review of teaching content
+### review of teaching content
 Gerben Zaagsma - C2DH <br>
 Guido Lessing - C2DH <br>
 Marvin Schieben - student <br>
@@ -102,7 +102,7 @@ David Mechtel - student <br>
 Katia Rocha - student <br>
 Sidney Wiltgen - student assistant
 
-### Acknowledgments
+### acknowledgments
 Sandra Camarda, Ira Plein, Martin Richard, Tim van der Heijden, Shohreh Haddadan, Anita Lucchesi, Valérie Schafer, Kaarel Sikk, Fabio Spirinelli, Benjamin Zenner, Karin Priem, Benoît Majerus, Cristophe Brull - C2DH <br>
 Andrea Binsfeld, Sonja Kmec, Michel Margue, Eloise Adde - Faculte des Lettres, Sciences Humaines, Arts, Sciences de l’Education - University of Luxembourg<br>
 Ralph Pugh -  University Archivist & Adjunct Professor of History Illinois Institute of Technology  <br>
