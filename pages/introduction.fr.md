@@ -46,14 +46,19 @@ En suivant une ou plusieurs de ces leçons, les étudiants...
 {: .extra-spacing}
 ### La transformation d’un objet analogique en une représentation numérique
 
+![Screen Shot 2018-10-15 at 08.04.23.png](https://c2dh.github.io/ranketwo/assets/images/Screen Shot 2018-10-15 at 08.04.23.png){:height="175px" .float-left.mr-3.mt-2.mb-4}
 Un texte, une image ou un enregistrement numérique peut sembler similaire à sa version analogique, mais il s’agit en fait d’un ensemble de chiffres qui se succèdent dans un certain ordre et qui permettent de visualiser une représentation dématérialisée de l’original sur un écran. La transformation d’un objet analogique en une représentation numérique implique toute une série de modifications qui impactent son aspect et sa valeur informative. L’objet analogique est tiré de son contexte d’origine, qu’il s’agisse d’une habitation privée, d’archives, d’un musée ou d’une bibliothèque. Il est converti en chiffres et le résultat de cette conversion est complété par des métadonnées, puis mis en ligne. Voyez: [lit](owens-digital-sources-digital-archives) ; [lit](hughes-lang-transmutability-decontextualization); [lit](sternfeld-understanding-quantum-age); [lit](terras-digitisation-resources-humanities)
 
 
 {: .extra-spacing}
 ### L’historien hybride
+
+![Screen Shot 2018-10-15 at 07.52.57.png](https://c2dh.github.io/ranketwo/assets/images/Screen Shot 2018-10-15 at 07.52.57.png){:height="175px" .float-left.mr-3.mt-2.mb-4}
 Les approches traditionnelles de la recherche ne sont pas tombées en désuétude. En effet, nous devons toujours lire attentivement, analyser et interpréter des sources primaires et secondaires. Nous devons conserver notre capacité à réaliser des croquis et à écrire à l’encre et au crayon. Nous devons toujours nous rendre aux archives, dans les bibliothèques et les musées, dans la mesure où seul un pourcentage très restreint de leurs sources a été publié en ligne. L’historien le mieux loti est l’historien hybride, qui sait comment combiner les pratiques de recherche traditionnelles et innovantes. Voyez: [lit](zaagsma-digital-history)
 
 ### Connaissances grâce aux croisements
+
+![crossroads.png](https://c2dh.github.io/ranketwo/assets/images/crossroads.png){:height="175px" .float-left.mr-3.mt-2.mb-4}
 Par conséquent, les leçons que nous proposons sur ce site Internet sont une combinaison d’histoire, d’études archivistiques, de sciences auxiliaires, de sciences de l’information et d’informatique. Nous pensons que cette approche pluridisciplinaire est nécessaire pour façonner une nouvelle génération de spécialistes rompus à l’utilisation des outils numériques et capables, d’une part, de poser les bonnes questions en présence de contenu numérique et, d’autre part, d’organiser, d’analyser et de présenter des données numériques et analogiques à l’aide d’outils numériques. Voyez: [lit](hjorland-information-digital-literacy)
 
 ### Principaux termes
