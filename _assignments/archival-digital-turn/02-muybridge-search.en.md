@@ -29,8 +29,8 @@ First get some insights into how search engines work:
 
 - Open two browser windows on your screen, one with Google and one with Yahoo and conduct a search on Eadweard Muybridge in both
 - List the first 8 results using the tables in your answering template
-- Complete the other columns on the basis of the options that are provided in the two boxes: **what type of organisation, 
-  **objective of the organisation 
+- Complete the other columns on the basis of the options that are provided in the two boxes: **what type of organisation**, 
+  **objective of the organisation** 
 - Bear in mind that most web resources have an "about" or "home" page where you can find details about the organisation and its objectives.  
 
 <!-- section -->
