@@ -31,11 +31,10 @@
         {% if is_iframe %}
         <h3><a class='component--size' href='{{ "structure-of-teaching-modules" | relative_url}}#small--animation--quiz'>S</a> {{component.title}}</h3>
         {% endif %}
-        {% if component.size %}
-        <div class='component--metadata'>
-          <div class='component--metadata--duration'>{{component.duration}}</div>
-          <div class='component--metadata--size'>{{component.size}}</div>
-        </div>
+        {% if component.size == 'L'%}
+        <h3><a class='component--size big' href='{{ "structure-of-teaching-modules" | relative_url}}#'>L</a> {{component.title}}</h3>
+
+
         {% endif %}
 
         {% if is_iframe %}

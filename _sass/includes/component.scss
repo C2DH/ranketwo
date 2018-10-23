@@ -166,11 +166,12 @@
     }
   }
 
+
   &.assignments {
     background-color: transparent;
     border-top: 2px solid magenta;
 
-    h3{
+    h3.assignments-title{
       margin-top: 0px;
       font-size: 1.25em;
       padding-bottom: 1rem;
@@ -179,7 +180,7 @@
       line-height: 1.5;
     }
 
-    h3::after{
+    h3.assignments-title::after{
       position:absolute;
       content: "";
       bottom: 0;
