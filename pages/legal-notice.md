@@ -3,7 +3,7 @@ layout: page
 lang: en
 permalink: /legal-notice/
 link: /legal-notice/
-title: Legal Notice
+title: Legal notice
 ---
 
 <!-- more -->
