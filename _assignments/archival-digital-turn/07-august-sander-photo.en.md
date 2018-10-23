@@ -16,7 +16,7 @@ tags:
   - Weimar Republic
   - Neue Sachlichkeit
   - German history
-learning outcomes:
+outcomes:
   - Training students to reflect on the search results of an online search and how this is determined by the properties of the search engine
   - Training students to distinguish between the various layers of interpretation when applying source criticism to analogue photos that have been published online
   - Making students conscious of the differences in informational and artefactual value between the analogue and digital source.

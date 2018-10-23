@@ -3,7 +3,7 @@ layout: units
 lang: en
 permalink: /teaching-modules/
 link: /teaching-modules/
-title: Overview of Lessons
+title: Lessons
 documents:
   - Boder-wirerecorder
   - Transformation-Galilei

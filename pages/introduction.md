@@ -3,7 +3,7 @@ layout: page
 lang: en
 permalink: /introduction/
 link: /introduction/
-title: What the platform is about
+title: About the platform
 documents:
   - document-example
   - document-example-b

@@ -2,13 +2,13 @@ primary:
   links:
     - title: Home
       href: /
-    - title: What is DSC
+    - title: Digital source criticism
       href: /define-dsc/
-    - title: about
+    - title: About the platform
       href: /introduction/
-    - title: Structure of Lessons
+    - title: About the lessons
       href: /structure-of-teaching-modules/
-    - title: Lessons
+    - title: Go to lessons
       href: /teaching-modules/
       active_layout: unit
       

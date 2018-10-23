@@ -1,5 +1,5 @@
 ---
-title: Animation in a Quiz mode
+title: Animation in a quiz mode
 lang: en
 type: quiz
 parent: boder
