@@ -3,16 +3,16 @@ layout: page
 lang: en
 permalink: /define-dsc/expert-meeting
 link: /define-dsc/expert-meeting
-title: "Expert Meeting, 18-12-2017 : Various Perspectives on the concept of Digital Source Criticism"
+title: "Expert meeting, 18-12-2017 : Various perspectives on the concept of digital source criticism"
 documents:
 ---
 
 ***Interpretations*** [information from contributions expert meeting December 2017]
 
-On the 18th of December 2017 an expert meeting was held on "digital source criticism' at the C2DH at the University of Luxembourg. The objective was to bring scholars together who have written articles, blogs or who have organized workshops on the topic, together to present their interpretation of the concept, and to assess the feasibility of a special issue on the topic. 
+On 18 December 2017 an expert meeting was held on "digital source criticism" at the C<sup>2</sup>DH at the University of Luxembourg. The objective was to bring scholars together who have written articles, blogs or who have organized workshops on the topic, together to present their interpretation of the concept, and to assess the feasibility of a special issue on the topic. 
 Below you can find the program of the expert meeting. If the presenters agree, links will be provided to their presentations. 
 
-Expert meeting Digital Source Criticism  
+Expert meeting digital source criticism  
 18-12-2017  
 C2DH - Maison des Sciences Humaines, 11, 
 Porte des Sciences / L-4366 Esch-Belval . 
