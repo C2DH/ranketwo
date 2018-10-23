@@ -24,6 +24,6 @@ answertemplate:
   url: /assets/doc/answer-template-boder.docx
 ---
 
-Lesson on how the interview collection of psychologist David Boder with survivors of concentration camps created in 1946 has been turned into a website in 2000 and 2009.
+A lesson about how the collection of interviews with concentration camp survivors created by psychologist David Boder in 1946 was turned into an interactive website in 2000 and 2009.
 
 <!-- more -->
