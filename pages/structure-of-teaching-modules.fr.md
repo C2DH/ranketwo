@@ -15,7 +15,7 @@ Chaque leçon permet de choisir entre différents modules dont la complexité va
 <!-- more -->
 
 
-Les leçons ont été structurées de façon à répondre aux besoins des étudiants, des enseignants et des apprenants autonomes, qu’ils disposent de peu de temps ou qu’ils souhaitent étudier un sujet en profondeur. Chaque leçon peut être composée d’un module PETIT, INTERMÉDIAIRE ou GRAND.
+Les leçons ont été structurées de façon à répondre aux besoins des étudiants, des enseignants et des apprenants autonomes, qu’ils disposent de peu de temps ou qu’ils souhaitent étudier un sujet en profondeur. Chaque leçon peut être composée d’un module PETIT, INTERMÉDIAIRE ou GRAND. Il convient de garder à l’esprit que les sujets abordés durant les leçons ne se limitent pas à la critique des sources numériques. Afin d’offrir une plus grande variété de possibilités aux professeurs, d’autres techniques qui jouent un rôle essentiel dans l’histoire numérique sont également proposées, telles que faire des recherches sur le web et créer une carte ou une chronologie numérique. 
 
 
 
@@ -40,13 +40,13 @@ Les leçons ont été structurées de façon à répondre aux besoins des étudi
 
 <div class='component--size big size-large float-left mr-3 ml-2 mt-2 mb-2'>L</div>
 
-**one day** &mdash; Le **GRAND** module propose un support pour l’organisation d’un atelier pratique d’au moins une journée. Cet atelier devrait être dirigé par un professeur ayant de l’expérience avec les outils numériques et requiert une certaine préparation ainsi qu’un environnement adéquat tel qu’une salle informatique. L’objectif du support d’atelier est de parcourir toutes les étapes requises pour la création d’un projet d’histoire numérique. Ces étapes peuvent comprendre la création d’un site internet ou d’un podcast, l’application d’un outil de narration pour créer une exposition numérique ou l’annotation d’un corpus de photos.
+**un jour** &mdash; Le **GRAND** module propose un support pour l’organisation d’un atelier pratique d’au moins une journée. Cet atelier devrait être dirigé par un professeur ayant de l’expérience avec les outils numériques et requiert une certaine préparation ainsi qu’un environnement adéquat tel qu’une salle informatique. L’objectif du support d’atelier est de parcourir toutes les étapes requises pour la création d’un projet d’histoire numérique. Ces étapes peuvent comprendre la création d’un site internet ou d’un podcast, l’application d’un outil de narration pour créer une exposition numérique ou l’annotation d’un corpus de photos.
 
 
 {: .extra-spacing}
 ## Comment utiliser les leçons ?
 Un professeur peut choisir un(e) ou plusieurs modules et/ou tâches à réaliser et discuter en classe ou à donner en devoir. Les considérations suivantes peuvent aider les professeurs à choisir les supports adéquats :
-1.	De quelle manière le sujet de la critique des sources numériques s’intègre-t-il dans un cours spécifique (p. ex. : « introduction aux méthodes de recherche », tel que généralement proposé en première année du programme de bachelor). Pour des suggestions, veuillez vous référer à la section ....... .
+1.	De quelle manière le sujet de la critique des sources numériques s’intègre-t-il dans un cours spécifique (p. ex. : « introduction aux méthodes de recherche », tel que généralement proposé en première année du programme de bachelor). Pour des suggestions, veuillez vous référer à la prochaine section.
 2.	Le niveau de connaissance des étudiants et des professeurs en matière de numérique – pour un rapide test de maîtrise du numérique à soumettre à vos étudiants, veuillez vous référer à la section ....... .
 3.	Le temps disponible – veuillez vous référer aux métadonnées de chaque tâche pour des informations sur sa durée.
 
