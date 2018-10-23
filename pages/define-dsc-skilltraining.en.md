@@ -3,18 +3,18 @@ layout: page
 lang: en
 permalink: /define-dsc/skilltraining
 link: /define-dsc/skilltraining
-title: "PhD skill training, 30/31-10-2017: Exploring the origin and use of the term  \"digital source criticism\""
+title: "PhD skills training, 30/31-10-2017: Exploring the origin and use of the term  \"digital source criticism\""
 documents:
 - dsc-skill-training
 ---
 
 
-On the 30th and 31st of October 2017 a skill training was organized for the PhD's of the Doctoral Training Unit Digital History and Hermeunetics on the concept of "digital source criticism". Here you can find a description of the skill training.
-If you are interested in re-using the full program, please contact: ..........
+On 30 and 31 October 2017 skills training was organised for the PhD students in the Digital History and Hermeunetics Doctoral Training Unit on the concept of "digital source criticism". Here you can find a description of the skills training.
+If you are interested in re-using the full programme, please contact: ..........
 
 
 **PROGRAM**
-Skills Training ‘digital source criticism’
+Skills Training "digital source criticism"
 Doctoral Training Unit DHH
 by Prof. Andreas Fickers, Dr. Stefania Scagliola, Andy O’Dwyer
 30 + 31 October 2017
