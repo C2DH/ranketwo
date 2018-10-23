@@ -21,8 +21,7 @@ documents:
  - interface-luxembourgensia
 order: 6
 ---
-Newspapers have become an important media since the 19th century and offer valuable information about events and opinions in our past and present societies. The massive digitization of newspapers, ongoing in many (national) libraries, holds the promise a bonanza of data for historical research. However, in the process of creating online access to digitized newspaper, choices are made and changes occur that affect the informational and artefactual value of a source, and which historians should be able to identify and understand. What appears on your screen at home, is quite different from what you can hold in your hand in the archive.
-Moreover, National Libraries deal with all kinds of financial, legal and technical constraints, which together with their own institutional history, determine their digitization policy. Some libraries outsource the work of processing and exploiting the data through public-private partnerships with companies. This assignment covers two approaches: 1. You are asked to consider the choices made and technologies used for the digitization and online publication of various newspapers, 2. You will explore the diversity of news covergage and exploit the opportunities of online access to newspapers by conducting comparative research.
+Newspapers have become an important medium since the 19th century. They offer valuable information about events and opinions in past and present societies. The large-scale digitisation of newspapers that is currently taking place in many (national) libraries holds the promise of a bonanza of data for historical research. However, in the process of creating online access to digitised newspapers, choices are made and changes occur that affect the informational and artefactual value of a source, and historians should be able to identify and understand these changes. What appears on your screen at home is quite different from what you can hold in your hands at an archive. Moreover, national libraries have to deal with all kinds of financial, legal and technical constraints, which, together with their own institutional history, determine their digitisation policy. Some libraries outsource the work of processing and exploiting data through public-private partnerships with companies. This assignment covers two approaches: 1. You are asked to consider the choices made and the technologies used for the digitisation and online publication of various newspapers; 2. You will explore the diversity of news coverage and exploit the opportunities of online access to newspapers by conducting comparative research.
 
 [card](tom-tryniski)
 
@@ -58,15 +57,15 @@ Retrieval
 Instructions
 
 You are going to find out how and why newspapers are digitised and what is needed to be able to consult them online. Because of the diversity in approaches to digitisation projects and web design and possible unfamiliarity with online archives, there is a risk of not being able to see the wood for the trees while completing this assignment.
-To give you an example of what kind of answers are expected in response to these questions and what the variables in the table mean, we have created a sample answer on the basis of the Luxembourg online newspaper archive eluxemburgensia.lu and the Tageblatt newspaper.
-○	Open up this PDF, print it and use it as a reference to search for other newspapers
+To give you an example of what kind of answers are expected in response to these questions and what the variables in the table mean, we have created a sample answer on the basis of the Luxembourg online newspaper archive eluxemburgensia.lu and the *Tageblatt* newspaper.
+- Open up this PDF, print it and use it as a reference to search for other newspapers.
 [ref](interface-luxembourgensia)
 
 <!-- section -->
 ### 6.a Who digitises, with what purpose and how is access arranged?   
 <!-- section-contents -->
 
-- A list of initiatives across the globe has been collected on [wikipedia](https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives).What projects have been completed or are ongoing in your own country?
+- A list of initiatives across the globe has been collected on [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives). What projects have been completed or are ongoing in your own country?
 - Open up the links to the collections of digitised newspapers in the table, browse through the content and choose two newspapers in a    language that you master.
 
 
@@ -116,13 +115,12 @@ For each, collect:
 <!-- section -->
 ### 6.c Newspapers and websites as sources of knowledge
 <!-- section-contents -->
-Depending on your age and education, you will be accustomed to specific kinds of news, either television, radio, newspapers, news feeds through your mobile phone, or websites that publish news. This assignment asks you to reflect on the sources of your knowledge on current cultural, economical and political developments.
-- Choose a current topic or event and compare how it is represented in a paper newspaper, a news website, a newsreel on the radio and on the television.
+Depending on your age and educational background, you will be accustomed to specific kinds of news: television, radio, newspapers, news feeds through your mobile phone or websites that publish news. This assignment asks you to reflect on the sources of your knowledge on current cultural, economic and political developments.
+- Choose a current topic or event and compare how it is represented in a print newspaper, on a news website, in a newsreel on the radio and on the television.
 - Complete the table in your template on the basis of these key questions:
 - Why have you chosen these particular news sources?
 - Do you trust these sources?
 - What is your trust based on?
-
 <!-- section -->
 ### Reading/viewing suggestions
 <!-- section-contents -->
