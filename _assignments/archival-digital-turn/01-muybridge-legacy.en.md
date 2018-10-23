@@ -15,9 +15,9 @@ documents:
   - slices-of-time
 order: 1
 outcomes:
- - Learning about the relation between reproduction technology and re-use of material in the analogue era
+ - Learning about the relationship between reproduction technology and reuse of material in the analogue era
  - Learning to consult the Internet Archive
- - Learning the impact of digital technology and the web on the dissemination and knowledge about an artist/photographer 
+ - Learning how digital technology and the web influence knowledge about an artist/photographer 
 ---
 Eadweard Muybridge laid the basis for the development of cinematography by producing photos of a trotting horse with a series of cameras that “snapped” as soon as the horse passed through an electrical control. The silhouettes were transferred to glass plates, that were rotated at great speed, simulating a continuous movement. This device was called a [zoopraxiscope](https://en.wikipedia.org/wiki/Zoopraxiscope). Many artists, photographers and scholars were inspired by his work, but the impact and dissemination of his legacy was magnified by the introduction of digital technology and the web in the late 1990s.
 This assignment looks at the relationship between Muybridge’s original glass plates, and what can be retrieved,
