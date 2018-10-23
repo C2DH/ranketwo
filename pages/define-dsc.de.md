@@ -45,7 +45,7 @@ Unter den vielen Fragen die sich stellen, gelten folgende als Schlüsselfragen:
 [block](quelle)
 
 {: .extra-spacing}
-### Literature related to the concept of Digital Source Criticism
+### Literatur zum Konzept der digitale Quellenkritik 
 
 {: .ml-3.mt-4.mb-2}
 [ref](bothe-zeugnisse-uberlebender-der-shoah)
