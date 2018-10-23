@@ -3,21 +3,23 @@
 
     <div class="row">
       <div class="col-md-8 col-sm-6">
-        Copyright © <a href='https://wwwen.uni.lu/' target='_blank'>Université du Luxembourg</a> ({{ site.time | date: '%Y' }}). All rights reserved.
         <p>
+          <a href='{% if page.lang == site.default_lang %}{{"/who-we-are/" | absolute_url}}' {% else %} href="{{page.lang | absolute_url}}/who-we-are/"{% endif %}>Who we are</a>
+          <br>
+          <a {% if page.lang == site.default_lang %} href='{{"/contact-us/" | absolute_url}}' {% else %} href="{{page.lang | absolute_url}}/contact-us/"{% endif %}>Contact us</a>
+          <br>
           <a {% if page.lang == site.default_lang %} href='{{"/legal-notice/" | absolute_url}}' {% else %} href="{{page.lang | absolute_url}}/legal-notice/"{% endif %}>Legal Notice</a>
         </p>
       </div>
-      
-      <div class="col-md-4 col-sm-6">
-        <a {% if page.lang == site.default_lang %} href='{{"/who-we-are/" | absolute_url}}' {% else %} href="{{page.lang | absolute_url}}/who-we-are/"{% endif %}>Who we are</a>
-
-      </div>
     </div>
 
-    <div class="row extra-spacing bt-glitch-1 extra-padding">
-      <div class="col-sm-12">Made with ❤ at <a href='https://c2dh.uni.lu/' target='_blank'>C2DH</a> (v. <a href='https://github.com/C2DH/ranketwo' target='_blank'>{{site.github.build_revision | slice: 0, 7}}</a>)</div>
-      <div class="col-sm-12">Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+    <div class="row bt-glitch-1 extra-padding">
+      <div class="col-sm-12">Made with ❤ at <a href='https://c2dh.uni.lu/' target='_blank'>C2DH</a> (v. <a href='https://github.com/C2DH/ranketwo' target='_blank'>{{site.github.build_revision | slice: 0, 7}}</a>)
+      <!-- <div class="col-sm-12">Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div> -->
+      <p>
+      Copyright © <a href='https://wwwen.uni.lu/' target='_blank'>Université du Luxembourg</a> ({{ site.time | date: '%Y' }}). All rights reserved.
+      </p>
+      </div>
     </div>
   </div>
 </footer>
