@@ -41,9 +41,9 @@ considérés ?
 
 {: .extra-spacing}
 
-[block](dsc-skill-training)
+[block](dsc-skill-training-fr)
 
-[block](quelle)
+[block](quelle-fr)
 
 {: .extra-spacing}
 ### Littérature relative au concept de critique des sources numériques
