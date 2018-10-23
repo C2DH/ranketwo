@@ -2,7 +2,7 @@
 layout: assignment
 unit: archival-digital-turn
 lang: en
-title: Clinton's emails and Thathcher's letters 
+title: Clinton's emails and Thatcher's letters 
 cover:
 authors:
   - max-kemman
