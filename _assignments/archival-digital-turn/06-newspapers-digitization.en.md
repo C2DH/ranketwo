@@ -5,7 +5,7 @@ authors:
   - estelle-bunout
   - marten-during
 lang: en
-title: "The Digitisation of Newspapers: how to turn a page?"
+title: The digitisation of newspapers: how to turn a page
 cover:
 tags:
   - media history
@@ -13,9 +13,9 @@ tags:
   - conversion from analogue to digital
 requirements: Fast WIFI connection, scissors and paper
 outcomes:
- - Understand how the process works of selection, digitization and online publishing of newspapers
+ - Understand how the process of selection, digitisation and online publishing of newspapers works 
  - Understand what changes occur when newspapers are turned from paper to digital files
- - Understand what the affordances are of online access to massive amounts of digitized newspapers
+ - Understand the merits of online access to large volumes of digitised newspapers
 documents:
  - tom-tryniski
  - interface-luxembourgensia
@@ -63,7 +63,7 @@ To give you an example of what kind of answers are expected in response to these
 [ref](interface-luxembourgensia)
 
 <!-- section -->
-### 6.a Who digitizes, with what purpose and how is access arranged?   
+### 6.a Who digitises, with what purpose and how is access arranged?   
 <!-- section-contents -->
 
 - A list of initiatives across the globe has been collected on [wikipedia](https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives).What projects have been completed or are ongoing in your own country?
@@ -114,7 +114,7 @@ For each, collect:
 
 
 <!-- section -->
-### 6.c Newspapers and the websites as sources of knowledge
+### 6.c Newspapers and websites as sources of knowledge
 <!-- section-contents -->
 Depending on your age and education, you will be accustomed to specific kinds of news, either television, radio, newspapers, news feeds through your mobile phone, or websites that publish news. This assignment asks you to reflect on the sources of your knowledge on current cultural, economical and political developments.
 - Choose a current topic or event and compare how it is represented in a paper newspaper, a news website, a newsreel on the radio and on the television.
