@@ -2,7 +2,7 @@
 layout: assignment
 unit: archival-digital-turn
 lang: en
-title: "Muybridge's legacy: from museum to the web"
+title: "Muybridge's legacy: from museum to web"
 cover:
 tags:
   - media history
@@ -48,7 +48,7 @@ Answer the following questions:
 - Note down your findings in your template.
 
 <!-- section -->
-### 1.b Re-use of Muybridge’s material: the father of the *GIF*? | 30 min
+### 1.b Reuse of Muybridge’s material: the father of the GIF? | 30 min
 <!-- section-contents -->
 
 Muybridge has been referred to as the father of the *GIF*, a very recent development related to digital technology. This comparison points to how existing principles are adapted and re-used in new forms and raises the question of whether we can speak about an original work of art or innovation. The same applies of course with regard to historical sources.  
