@@ -79,6 +79,13 @@ layout: default
 
         <h3><a class="component--size" href="/structure-of-teaching-modules#small--animation--quiz">M</a>
           {% assign key="assignments" %}{% include t.html %} ({{assignments.size}})</h3>
+
+        {% if page.answertemplate %}
+          <a class='btn btn-primary' target='_blank' download href="{{page.answertemplate.url | relative_url}}">
+            {% assign key='download answer template' %} {% include t.html %}&darr;</a>
+
+        {% endif %}
+        <hr>
       </div>
     </div>
     <!-- one row per introduction; then one row per assignment section -->
@@ -138,11 +145,7 @@ layout: default
         </div>
       </div>
       <div class='col-sm-4'>
-        <div class="pl-4 mt-4">
-          <!-- <a class='btn btn-primary' href="{{assignment.url | relative_url}}">{%assign key='permalink'%}{% include t.html %}</a> -->
-          <a class='btn btn-primary' href="{{assignment.url | relative_url}}">download PDF</a>
-        </div>
-        <hr>
+
         <!-- <h3>{% assign key="requirements"%}{% include t.html %}</h3>
         {{ assignment.requirements | markdownify }} -->
         {% if assignment.outcomes %}

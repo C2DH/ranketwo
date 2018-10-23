@@ -23,6 +23,8 @@ mediatype: photos, letters, e-mails
 cover:
   url: assets/images/attachments/WikiXDC_National_Archives_Tour_Hall_-_Stierch.jpg
 order: 1
+answertemplate:
+  url: /assets/doc/answer-template-archival-digital-turn.docx
 ---
 
 Lesson on how the method of source criticism has been affected by the digital turn and what this means for the practice of students who study humanities disciplines and conduct research.
