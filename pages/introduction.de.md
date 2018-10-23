@@ -52,7 +52,7 @@ Die Umwandlung eines analogen Objekts in die digitale Form bringt eine Reihe von
 
 {: .extra-spacing}
 ### Der Hybridhistoriker
-Traditionelle Forschungsansätze sind nicht überholt. Nach wie vor gilt es, Primär- und Sekundärquellen aufmerksam zu lesen, zu analysieren und zu deuten. Unsere zeichnerischen Fertigkeiten und das klassische Schreiben mit Füller und Bleistift müssen wir erhalten. Wie bisher müssen wir uns in Archive, Bibliotheken und Museen begeben, da nur ein sehr geringer prozentualer Anteil ihrer Quellen online veröffentlicht wurde. Der bestausgestattete Historiker ist der „Hybridhistoriker“, der traditionelle und innovative Forschungspraktiken zu verbinden weiß.
+Traditionelle Forschungsansätze sind nicht überholt. Nach wie vor gilt es, Primär- und Sekundärquellen aufmerksam zu lesen, zu analysieren und zu deuten. Unsere zeichnerischen Fertigkeiten und das klassische Schreiben mit Füller und Bleistift müssen wir erhalten. Wie bisher müssen wir uns in Archive, Bibliotheken und Museen begeben, da nur ein sehr geringer prozentualer Anteil ihrer Quellen online veröffentlicht wurde. Der bestausgestattete Historiker ist der „Hybridhistoriker“, der traditionelle und innovative Forschungspraktiken zu verbinden weiß. Sehe: [lit](zaagsma-digital-history)
 
 {: .extra-spacing}
 ### Einblicke durch Crossovers
