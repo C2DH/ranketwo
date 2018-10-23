@@ -33,7 +33,19 @@
     id: david-boder-interactive
     thumbnail: assets/images/david-boder-interactive.png
     title: "David Boder's interview collection: from analogue to digital"
-    src: "https://allthingsmoving.com/DB_interactive_2018_07_07/#Intro"
+    src: "https://ranke2.uni.lu/klynt/en/#Intro"
+
+-
+    id: david-boder-interactive-french
+    thumbnail: assets/images/david-boder-interactive.png
+    title: "La collection d'interviews de David Boder : de l'analogue au numérique"
+    src: "https://ranke2.uni.lu/klynt/fr/#Intro"
+
+-
+    id: david-boder-interactive-german
+    thumbnail: assets/images/david-boder-interactive.png
+    title: "David Boders Interviewsammlung: Vom Analogen zum Digitalen"
+    src: "https://ranke2.uni.lu/klynt/de/#Intro"
 
 -
     id: transformations
