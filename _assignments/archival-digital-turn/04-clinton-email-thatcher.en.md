@@ -12,8 +12,8 @@ tags:
   - characteristics of letters and e-mails 
 requirements: internet connection to look up emails from the wikileaks Hillary Clinton Email Archive
 outcomes:
-- understanding the difference between a letter and an email
-- understanding considerations of how to define an email as an object
+- Understanding the difference between a letter and an email
+- Understanding how to define an email as an object
 order: 4
 ---
 The practice of sending and receiving letters is decreasing considerably. While it seems to have been substituted by email correspondence, there are significant differences with regard to the technologies that are applied and the conventions on how the message should be worded. Letters and emails from people in positions of political power are of special interest to the general public, as they reveal what goes on behind the scenes. In this assignment you will compare the emails by Hillary Clinton, which she was forced to disclose, with the digitised correspondence of former British Prime Minister Margaret Thatcher, which was published to honour her political legacy. Since both politicians operated in the field of international relations, their correspondence can play a key part in writing the history of their era. But as you will see, the context and options for communication in 1980 were quite different from those in 2008.  
