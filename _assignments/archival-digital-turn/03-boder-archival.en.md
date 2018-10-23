@@ -19,12 +19,12 @@ The focus in this lesson is on the transformation of his collection from intervi
 <!-- more -->
 
 <!-- briefing-student -->
-### Instruction
+### Instructions
 <!-- section-contents -->
 Watch this short animation of [6,5 minutes about David Boder](https://c2dh.github.io/ranketwo/u/boder/) and pay attention to the sequence of transformations of Boder's recordings.
 
 <!-- section -->
-### 3.a From steel wires to interactive Website
+### 3.a From steel wires to interactive website
 <!-- section-contents -->
 - What are the transformations and technologies that are used for the sound and for the textual representations of Boder's interviews?
 The dates in the template can help you with finding the right answer.
