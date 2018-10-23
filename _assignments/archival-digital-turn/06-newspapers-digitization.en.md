@@ -5,7 +5,7 @@ authors:
   - estelle-bunout
   - marten-during
 lang: en
-title: The digitisation of newspapers: how to turn a page
+title: "The digitisation of newspapers: how to turn a page"
 cover:
 tags:
   - media history
