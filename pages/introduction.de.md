@@ -47,7 +47,7 @@ Lernende, die eine oder mehrere dieser Lektionen abschließen, werden
 {: .extra-spacing}
 ### Umwandlung von analog zu digital
 Digitale Texte, Bilder oder Aufnahmen können gewiss Ähnlichkeiten mit ihrer analogen Version suggerieren. Doch in Wirklichkeit stellen sie eine Sammlung von Zahlen in einer bestimmten Reihenfolge dar, die ein Abbild des Originals verkörpern, das sich in entmaterialisierter Form auf einem Bildschirm visualisieren lässt.
-Die Umwandlung eines analogen Objekts in die digitale Form bringt eine Reihe von Veränderungen mit sich, die sich auf dessen Erscheinungsbild und Informationswert auswirken. Das analoge Objekt wird aus seinem ursprünglichen Kontext  wie einem privaten Haushalt, einem Archiv, Museum oder einer Bibliothek herausgenommen und im Anschluss in Zahlen umgewandelt. Das Ergebnis wird mit Metadaten angereichert und online veröffentlicht.
+Die Umwandlung eines analogen Objekts in die digitale Form bringt eine Reihe von Veränderungen mit sich, die sich auf dessen Erscheinungsbild und Informationswert auswirken. Das analoge Objekt wird aus seinem ursprünglichen Kontext  wie einem privaten Haushalt, einem Archiv, Museum oder einer Bibliothek herausgenommen und im Anschluss in Zahlen umgewandelt. Das Ergebnis wird mit Metadaten angereichert und online veröffentlicht. Sehe: [lit](owens-digital-sources-digital-archives) ; [lit](hughes-lang-transmutability-decontextualization); [lit](sternfeld-understanding-quantum-age); [lit](terras-digitisation-resources-humanities)
 
 
 {: .extra-spacing}
