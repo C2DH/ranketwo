@@ -35,13 +35,13 @@ In 2003, an early version of the foundation’s website was snapshotted by the I
 <!-- section-contents -->
 You are going to compare search results of a query in two different web resources: Google Images and Pinterest. 
 Before starting your web search, you can improve your search skills by exploring the following documents/clips: 
-Here is a clip about how [Google’s search engine works](https://youtu.be/BNHR6IQJGZs)as explained by Matt Cutts. 
+Here is a clip about how [Google’s search engine works](https://youtu.be/BNHR6IQJGZs) as explained by Matt Cutts. 
 - What has to be taken into account when watching this accessible and clear tutorial is that it is produced by Google, which is a commercial company. Its dominant role is called into question by people who are concerned with the concentration of power and how it can be misused to the disadvantage of smaller competitors. If you are interested you can listen to a newsreel about applying antitrust law against Google in the US. https://www.bloomberg.com/news/videos/2018-05-22/google-s-illegal-search-gets-prime-time-tv-treatment-video        
 Here is a short explanation on how Google Images works https://youtu.be/oJzD4vF5dFA. 
 Here is a clip explaining how the social medium Pinterest works https://youtu.be/oJzD4vF5dFA.  
 Here is an explanation on how to track down details on when online content has been published
 https://www.makeuseof.com/tag/find-date-published-post-insanely-simple-tips/. 
-Not every publication date can be traced through a link. If you want to avoid the frustrating experience of trial and error, first take a look at this PDF, in which the tips explained above have successfully been applied to a photo from Sander’s collection. [ref](what-works-and-what-doesnot)
+Not every publication date can be traced through a link. If you want to avoid the frustrating experience of trial and error, first take a look at this PDF, in which the tips explained above have successfully been applied to a photo from Sander’s collection [ref](what-works-and-what-doesnot)
 <!-- section -->
 ### 7.a Access to August Sander's portraits through Google and Pinterest
 <!-- section-contents -->
