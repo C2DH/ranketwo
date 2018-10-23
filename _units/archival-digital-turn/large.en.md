@@ -1,16 +1,16 @@
 ---
 type: large
-title: upcoming
+title: Workshop
 lang: en
 parent: archival-digital-turn
 size: L
 ---
 
 
-This module with a tutorial for a collaborative digital project will be *published soon*
+This LARGE module still has to be developed and will be published soon.  
 
 <!-- more -->
 
-### availble soon
+### Available soon
 <!-- section-contents -->
 ...

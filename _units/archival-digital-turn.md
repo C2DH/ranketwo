@@ -1,14 +1,14 @@
 ---
-title: "From the Archival to the Digital Turn"
+title: "From the archival to the digital turn"
 layout: unit
 toc: on
 tags:
-  - digitization
+  - digitisation
   - digital source criticism
-  - digitized photos
-  - digitized letters
-  - e-mails
-  - digitized audio-interviews
+  - digitised photos
+  - digitised letters
+  - emails
+  - digitised audio interviews
   - Leopold von Ranke
   - internal and external source criticism
 lang: en
@@ -19,7 +19,7 @@ audience: general public, bachelor, master humanities
 components:
   small: animation + quiz
   medium: animation + 6 assignments
-mediatype: photos, letters, e-mails
+mediatype: photos, letters, emails
 cover:
   url: assets/images/attachments/WikiXDC_National_Archives_Tour_Hall_-_Stierch.jpg
 order: 1

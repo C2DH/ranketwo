@@ -41,12 +41,12 @@ considérés ?
 
 {: .extra-spacing}
 
-[block](dsc-skill-training)
+[block](dsc-skill-training-fr)
 
-[block](quelle)
+[block](quelle-fr)
 
 {: .extra-spacing}
-### Literature related to the concept of Digital Source Criticism
+### Littérature relative au concept de critique des sources numériques
 
 {: .ml-3.mt-4.mb-2}
 [ref](bothe-zeugnisse-uberlebender-der-shoah)

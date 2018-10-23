@@ -3,7 +3,7 @@ layout: page
 lang: en
 permalink: /structure-of-teaching-modules/
 link: /structure-of-teaching-modules/
-title: Structure of Lessons
+title: About the lessons
 documents:
   - document-example
   - document-example-b
@@ -19,14 +19,14 @@ It is worth bearing in mind that the topics addressed in the lessons are not lim
 
 
 {: .extra-spacing}
-## SMALL / animation & quiz
+## SMALL / watch the animation & complete the quiz
 
 <div class='component--size big float-left mr-3 ml-2 mt-2 mb-2'>S</div>
 
 **15 minutes** &mdash; The **SMALL** module serves as a short introduction to a topic related to source criticism. It consists of a short animation of around 6 to 7 minutes in which a number of basic terms and questions are presented. This is followed by a quiz of around 10 minutes to test learners’ understanding of the ideas conveyed in the animation. The SMALL module is geared towards a broad audience with a general interest, including individual learners who are not part of a teaching context.
 
 {: .clear.extra-spacing }
-## MEDIUM / complete one ore more assignments
+## MEDIUM / complete one or more assignments
 
 <div class='component--size big size-medium float-left mr-3 ml-2 mt-2 mb-2'>M</div>
 
@@ -66,11 +66,11 @@ The content of the website has been translated into French and German to reach o
 {: .extra-spacing}
 ## Example scenarios
 
-1. In a class about **Source criticism** with about 1.5 hours at your disposal, you can watch the clip 'From the archival to the digital turn' which takes 6 minutes, then ask students to complete the quiz, which takes 15 minutes. After that you can distribute the 7 assignments among pairs of students, which they can start in class (only the first section a., which will take 20 to 30 mins, and then finish at home. The results of their work could be presented during the next session, or as part of a discussion with the teacher or lecturer. The assignment can also be tweaked to another topic of interest, by choosing other examples and offering other links. 
+1. In a class about **source criticism** with about 1.5 hours at your disposal, you can watch the clip “From the archival to the digital turn” which takes 6 minutes, then ask students to complete the quiz, which takes 15 minutes. After that you can distribute the 7 assignments among pairs of students, which they can start in class (only the first section a., which will take 20 to 30 mins, and then finish at home. The results of their work could be presented during the next session, or as part of a discussion with the teacher or lecturer. The assignment can also be tweaked to another topic of interest, by choosing other examples and offering other links. 
 
-2.	In a class about **Digital culture**, you can watch the clip “transformation”, which takes 2 minutes, complete the quiz that takes 15 minutes, and then have a class discussion about the concepts and terms that have been presented. The students can then complete the assignments in groups in their own time. Which assignments to choose and how many will depend on how much private study is generally expected from students, but it can vary from 30 mins to 3 hours.
+2.	In a class about **digital culture**, you can watch the clip “transformation”, which takes 2 minutes, complete the quiz that takes 15 minutes, and then have a class discussion about the concepts and terms that have been presented. The students can then complete the assignments in groups in their own time. Which assignments to choose and how many will depend on how much private study is generally expected from students, but it can vary from 30 mins to 3 hours.
 
-3.	In a class about **Holocaust studies** or **Oral history**, you can watch the animation “David Boder: from steel wire to website”, which takes 7 minutes, and complete the quiz which takes 15 minutes. Depending on the focus of the course, you can then invite the students to watch the interactive version of the animation and complete a set of assignments. You have the choice between assignments that deal with **media technology**, oral history, **interview methodology** and **source criticism**. If you want to venture further into the history of web technology, you can watch the video lecture “David Boder online – comparing websites 2000-2009”, which takes 9 minutes. Here you have the choice between a series of assignments that deal with the development of web technology and the preservation of digital resources.
+3.	In a class about **Holocaust studies** or **oral history**, you can watch the animation “David Boder: from steel wire to website”, which takes 7 minutes, and complete the quiz which takes 15 minutes. Depending on the focus of the course, you can then invite the students to watch the interactive version of the animation and complete a set of assignments. You have the choice between assignments that deal with **media technology**, oral history, **interview methodology** and **source criticism**. If you want to venture further into the history of web technology, you can watch the video lecture “David Boder online – comparing websites 2000-2009”, which takes 9 minutes. Here you have the choice between a series of assignments that deal with the development of web technology and the preservation of digital resources.
 
 
 
