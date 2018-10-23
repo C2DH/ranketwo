@@ -3,7 +3,7 @@ layout: page
 lang: en
 permalink: /define-dsc/
 link: /define-dsc/
-title: What is Digital Source Criticism
+title: What is digital source criticism?
 documents:
 - dsc-skill-training
 - quelle
@@ -26,7 +26,7 @@ documents:
 - zaagsma-digital-history
 ---
 
-How to agree on the meaning of a term that can be interpreted in so many ways? This is what the C2DH proposes:
+How to agree on the meaning of a term that can be interpreted in so many ways? This is what the CDH proposes:
 
 <!-- more -->
 
