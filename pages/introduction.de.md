@@ -11,6 +11,23 @@ documents:
   - archive-records
   - digitization-book-georgia
   - digital-world
+  - owens-digital-sources-digital-archives
+  - delalande-vincent-historien-cyborg
+  - hughes-lang-transmutability-decontextualization
+  - fickers-towards-digital-historicism-age-abundance
+  - hjorland-information-digital-literacy
+  - kirschbaum-digital-forensics-cultural-heritage
+  - margulies-digitale-geschichtswissenschaft-einfuhrung
+  - mounier-ouvrir-atelier-historien
+  - owens-digital-sources-digital-archives
+  - rheingold-crapp-detection
+  - schreiber-genuine-internetdaten-quellen
+  - solberg-advances-history-rhetoric
+  - sternfeld-understanding-quantum-age
+  - terras-digitisation-resources-humanities
+  - treleani-recontextualisation-audiovisuels
+  - wettlaufer-erkenntnisse-digitalisierte-geschichtswissenschaft-hermeneutischen
+  - zaagsma-digital-history
 ---
 
 **Ranke.2** ist eine Lernplattform mit einzelnen Lektionen, in denen aufgezeigt wird, wie digitale historische Quellen kritisch bewertet und verwendet werden. Schwerpunkt jeder Lektion ist eine bestimmte Form historischer Quellen. Dabei wird erörtert, wie die Quellenkritik auf dessen digitale Darstellung anzuwenden ist.
