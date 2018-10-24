@@ -1,8 +1,8 @@
 ---
 layout: page
 lang: en
-permalink: /structure-of-teaching-modules/
-link: /structure-of-teaching-modules/
+permalink: /about-lessons/
+link: /about-lessons/
 title: About the lessons
 documents:
   - document-example
@@ -47,7 +47,7 @@ A lecturer can choose one or more modules and/or assignments that can be complet
 
 1. How the topic of digital source criticism fits into a given course (for example an “introduction to research methods”, as generally offered in the first year of a Bachelor programme). For a number of suggestions, see below. 
 
-2. The level of digital savviness of students and lecturers. For the basics of digital literacy, and assessing the digital skills of your students, see the various [resources listed on the website of the university of Sunderland](https://canvas.sunderland.ac.uk/courses/3/pages/digital-literacy) 
+2. The level of digital savviness of students and lecturers. For the basics of digital literacy, and assessing the digital skills of your students, see the various [resources listed on the website of the university of Sunderland](https://canvas.sunderland.ac.uk/courses/3/pages/digital-literacy){:target="_blank"}. 
 
 3. The amount of available time – see the metadata of each assignment for information about the time required.
 

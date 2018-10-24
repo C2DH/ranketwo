@@ -1,9 +1,9 @@
 ---
 layout: page
 lang: de
-permalink: /de/structure-of-teaching-modules/
-link: /structure-of-teaching-modules/
-title: Struktur der Lektionen
+permalink: /de/about-lessons/
+link: /about-lessons/
+title: Über die Lektionen
 documents:
   - document-example
   - document-example-b
@@ -46,7 +46,7 @@ Ein Dozent kann eines oder mehrere Module und/oder Aufgaben wählen, die im Plen
 
 1. Wie lässt sich das Thema Kritik an digitalen Quellen in einen bestimmten Kurs einbauen (z. B. „Einführung in Forschungsmethoden“, so wie in der Regel im ersten Jahr eines Bachelor-Programms angeboten)? Für Vorschläge wird auf Abschnitt … verwiesen
 
-2. Für digitale Grundkenntnisse und zur Bewertung der digitalen Kompetenzen Ihrer Lernenden siehe die verschiedenen [Ressourcen auf der Website der University of Sunderland](https://canvas.sunderland.ac.uk/courses/3/pages/digital-literacy). 
+2. Für digitale Grundkenntnisse und zur Bewertung der digitalen Kompetenzen Ihrer Lernenden siehe die verschiedenen [Ressourcen auf der Website der University of Sunderland](https://canvas.sunderland.ac.uk/courses/3/pages/digital-literacy){:target="_blank"}. 
 
 3. Zur Verfügung stehende Zeit das benötigte Zeitfenster ist in den Metadaten jeder Aufgabe enthalten.
 

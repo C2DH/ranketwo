@@ -5,10 +5,10 @@ primary:
     - title: Digital source criticism
       href: /define-dsc/
     - title: About the platform
-      href: /introduction/
+      href: /about-platform/
     - title: About the lessons
-      href: /structure-of-teaching-modules/
+      href: /about-lessons/
     - title: Go to lessons
-      href: /teaching-modules/
+      href: /lessons/
       active_layout: unit
       

@@ -3,7 +3,7 @@ layout: page
 lang: de
 permalink: /de/define-dsc/
 link: /define-dsc/
-title: Was ist Digitale Quellenkritik?
+title: Kritik der digitalen Quellen
 documents:
 - dsc-skill-training-de
 - quelle-de

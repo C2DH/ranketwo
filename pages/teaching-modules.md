@@ -1,8 +1,8 @@
 ---
 layout: units
 lang: en
-permalink: /teaching-modules/
-link: /teaching-modules/
+permalink: /lessons/
+link: /lessons/
 title: Lessons
 documents:
   - Boder-wirerecorder
