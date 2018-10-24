@@ -5,8 +5,8 @@ permalink: /de/define-dsc/
 link: /define-dsc/
 title: Was ist Digitale Quellenkritik?
 documents:
-- dsc-skill-training
-- quelle
+- dsc-skill-training-de
+- quelle-de
 - bothe-zeugnisse-uberlebender-der-shoah
 - delalande-vincent-historien-cyborg
 - hughes-lang-transmutability-decontextualization
