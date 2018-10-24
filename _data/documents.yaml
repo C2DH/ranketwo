@@ -716,7 +716,7 @@
             en_us: 'comprehensive and concise review of biography of David Boder by Alan Rosen)  puts Boder back into intellectual and social science context of that era, instead of claims of being hidden and suddenly discovered,  lists all the archives that were consulted, he was not the only one, media and technology development, welfare organisations are listed, ubiquity of film and photography - competition for audience - Boder known for the writtten transcripts not for spoken content, ironic, as his concern was language and how it can point to trauma, German experimental psychology connects to alternatives to written reports about reactions to catastrophe, freshness not contaminated by key words that would later become conventions'
     _id: c6147a0bccb44d63a3260d5c6dcac447
 -
-    title: 'Who Shall Judge My Work? David P.Boder’s 1946 interviews of Holocaust survivors’'
+    title: ≈
     slug: pugh-judge-boder
     type: reference
     data:
@@ -730,6 +730,7 @@
         abstract:
             en_us: 'history of collection and website and dilemmas with audio restoration'
     _id: e476d52ea62d4bb3bce35c622f006457
+    attachment: /assets/pdf/v45n1p39-47.pdf
 -
     title: 'We know very little in America”, David Boder and un-belated testimony'
     slug: rosen-littele-america
