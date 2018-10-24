@@ -2,7 +2,7 @@
 layout: assignment
 unit: archival-digital-turn
 lang: fr
-title: "Muybridge's legacy: from museum to web"
+title: "[TO TRANSLATE] Muybridge's legacy: from museum to web"
 cover:
 tags:
   - media history
@@ -63,11 +63,11 @@ On désigne parfois Muybridge comme le père du GIF, un développement très ré
 
 [Vidéo en ligne](https://vimeo.com/131586644){:target="_blank"}  6.24 min
 
-[Commentaire sous une vidéo YouTube \[TO TRANSLATE\]from ferociousgumby](https://www.youtube.com/watch?v=5Awo-P3t4Ho&lc=UgiKWyd-N07eEHgCoAEC){:target="_blank"} **[TO TRNASLATE]** (you don't have to watch the whole video)   
+[Commentaire sous une vidéo YouTube \[TO TRANSLATE\]from ferociousgumby](https://www.youtube.com/watch?v=5Awo-P3t4Ho&lc=UgiKWyd-N07eEHgCoAEC){:target="_blank"} (Vous n’avez pas besoin de regarder toute la vidéo)   
 
 [Tableau](https://fr.wikipedia.org/wiki/Nu_descendant_un_escalier){:target="_blank"}
 
-[Concours associé à une exposition](https://www.npr.org/sections/pictureshow/2010/06/29/128192659/muybridgewinners?t=1533050973264){:target="_blank"} **[TO TRANSLATE]** (you only have to watch the first minute of each video) 
+[Concours associé à une exposition](https://www.npr.org/sections/pictureshow/2010/06/29/128192659/muybridgewinners?t=1533050973264){:target="_blank"} (Vous devez uniquement regarder la première minute de chaque vidéo) 
 
 [Spectacle multidisciplinaire](https://youtu.be/t1AWij9twWc){:target="_blank"}  2.14 min
 

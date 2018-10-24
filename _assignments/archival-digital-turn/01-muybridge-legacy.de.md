@@ -2,7 +2,7 @@
 layout: assignment
 unit: archival-digital-turn
 lang: de
-title: "Muybridge's legacy: from museum to web"
+title: "[TO TRANSLATE] Muybridge's legacy: from museum to web"
 cover:
 tags:
   - media history
@@ -28,7 +28,7 @@ Eadweard Muybridge schuf die Grundlage für die Entwicklung der Kinematografie, 
 
 <!-- briefing-student -->
 
-### 1.a **[TO TRANSLATE]** The original technology
+### 1.a **[TO TRANSLATE]** The original technology used by Muybridge | 20 min
 <!-- section-contents -->
 
 To capture images, Muybridge introduced a new technology.
@@ -63,11 +63,11 @@ Muybridge wurde mehrfach als Vater des GIF, einer noch sehr jungen Erfindung in 
 
 [Ein Online-Video](https://vimeo.com/131586644){:target="_blank"}  6.24 min
 
-[Ein Kommentar unter einem YouTube-Clipe \[TO TRANSLATE\]from ferociousgumby](https://www.youtube.com/watch?v=5Awo-P3t4Ho&lc=UgiKWyd-N07eEHgCoAEC){:target="_blank"} **[TO TRNASLATE]** (you don't have to watch the whole video)   
+[Ein Kommentar unter einem YouTube-Clipe \[TO TRANSLATE\]from ferociousgumby](https://www.youtube.com/watch?v=5Awo-P3t4Ho&lc=UgiKWyd-N07eEHgCoAEC){:target="_blank"} (Sie müssen nicht das ganze Video anschauen)   
 
 [Ein Gemälde](https://de.wikipedia.org/wiki/Akt,_eine_Treppe_herabsteigend_Nr._2){:target="_blank"}
 
-[Ein Wettbewerb im Zusammenhang mit einer Ausstellung](https://www.npr.org/sections/pictureshow/2010/06/29/128192659/muybridgewinners?t=1533050973264){:target="_blank"} **[TO TRANSLATE]** (you only have to watch the first minute of each video) 
+[Ein Wettbewerb im Zusammenhang mit einer Ausstellung](https://www.npr.org/sections/pictureshow/2010/06/29/128192659/muybridgewinners?t=1533050973264){:target="_blank"} (Sie brauchen nur die erste Minute jedes Videos anschauen) 
 
 [Eine disziplinenübergreifende Performance](https://youtu.be/t1AWij9twWc){:target="_blank"}  2.14 min
 

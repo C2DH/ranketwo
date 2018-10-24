@@ -3,49 +3,56 @@ layout: assignment
 unit: archival-digital-turn
 lang: de
 type: assignment
-title: Transformation from Analogue to Digital
+title: "[TO TRANSLATE] Transformation from Analogue to Digital"
 order: 3
 cover: /assets/images/attachments/12boxes/12boxes_01.png
 documents:
-  - v45n1p39-47
+  - pugh-judge-boder
 tags:
   - transformation from analogue to digital
 requirements: Fast WIFI connection, access to Ranke.2, computer or laptop, application on laptop or computer to view video,
 outcomes:
-  - Learning how sound can be copied and reproduced from an analogue to a digital carrier
+  - "[TO TRANSLATE] Learning how sound can be copied and reproduced from an analogue to a digital carrier"
 ---
-This assignment is based on the topic of a parallel lesson: from steel wire to website; the interviews of David Boder. It tells the story of how Jewish Latvian American psychologist David Boder pioneered in recording the first accounts of Holocaust survivors. In the summer of 1946 he visited several displacement camps with a wire recorder and collected 121 interviews in 8 different languages.
-The focus in this lesson is on the transformation of his collection from interviews fixed on steel wires in 1946, to content that has been made accessible through a publicly accessible website.
+
+Diese Aufgabe beruht auf dem Thema einer parallelen Lektion: „From steel wire to website; the interviews of David Boder“. Dargelegt ist, welch bahnbrechende Arbeit der lettisch-amerikanische Psychologe David Boder jüdischer Abstammung bei der Aufnahme der ersten Berichte von Holocaust-Überlebenden geleistet hat. Im Sommer 1946 besuchte er mit einem Drahttonbandgerät mehrere Vertriebenenlager und führte 121 Interviews in acht verschiedenen Sprachen durch. Der Schwerpunkt dieser Lektion liegt auf der Umwandlung seiner 1946 auf Stahldraht aufgenommenen Interviewsammlung in Inhalte, die über eine öffentliche Website zugänglich gemacht wurden.
+
 <!-- more -->
 
 <!-- briefing-student -->
-### Instruction
+
+### Anleitung
 <!-- section-contents -->
-Watch this short animation of [6,5 minutes about David Boder](https://c2dh.github.io/ranketwo/u/boder/) and pay attention to the sequence of transformations of Boder's recordings.
+
+Sehen Sie sich diese kurze Animation [über David Boder mit einer Dauer von 6 Minuten und 30 Sekunden](../boder/) an und beachten Sie die Reihenfolge der Umwandlungen von Boders Aufnahmen.
 
 <!-- section -->
-### 3.a From Steel Wires to Interactive Website
-<!-- section-contents -->
-- What are the transformations and technologies that are used for the sound and for the textual representations of Boder's interviews?
-The dates in the template can help you with finding the right answer
-(add dates in the template for the answers)
 
+### 3.a Vom Stahldraht zur interaktiven Website
+<!-- section-contents -->
+
+- Welche Transformationen und Technologien werden für den Ton und die textgebundenen Darstellungen von Boders Interviews verwendet? Die Daten in der Vorlage können Ihnen helfen, die richtige Antwort zu finden.
 
 <!-- section -->
-### 3.b Restoration or replacement?
+
+### 3.b Restaurierung oder Austausch?
 <!-- section-contents -->
 
-- Read this [short article by curator Ralph Pugh of the Illinois Institute of Technology](), about the process of publishing the collection online. What does he say about decisions that were taken with regard to the restoration of the sound?
-- Listen to the first 5 minutes of [this interview with Janis B.](http://voices.iit.edu/audio.php?doc=bJanis) in the collection of Boder.
-* To be able to listen to the interview, you have to open a Chrome Browser. Click on the small icon with, an ‘ i ‘ at the left side of the url,  and allow flash player and pop ups. Keep in mind that you hear Boder's introduction right away, but that the interview takes some time to load.
-- What would you have preferred, a better sound so that you may understand what is said, or the original sound with its own atmosphere?
-- Does it make sense to create access to spoken content if you don't understand the language or could one limit the information to the translated transcript?
-- Document your answer in your template
+- Lesen Sie diesen kurzen Artikel von Kurator Ralph Pugh des Illinois Institute of Technology [cit](pugh-judge-boder) über den Prozess der Online-Veröffentlichung der Sammlung. Was sagt er zu Entscheidungen, die mit Hinblick auf die Restaurierung des Tons getroffen wurden?
+- Hören Sie sich die ersten 5 Minuten [dieses Interviews mit Janis B.](http://voices.iit.edu/audio.php?doc=bJanis){:target="_blank"}<sup>*</sup> in der Sammlung Boders an.
+- Was wäre Ihnen lieber gewesen  ein besserer Ton zum besseren Verständnis des Gesagten oder der Originalton mit seiner eigenen Atmosphäre?
+- Macht es Sinn, Zugang zu gesprochenen Inhalten zu schaffen, wenn Sie die Sprache nicht verstehen, oder könnte die Information auf das übersetzte Transkript begrenzt sein?
+- Notieren Sie Ihre Antwort auf Ihrer Vorlage.
 
+\* Um [das Interview](http://voices.iit.edu/audio.php?doc=bJanis){:target="_blank"} hören zu können, müssen Sie ein Fenster in Ihrem Chrom-Browser öffnen. Klicken Sie auf die kleine Schaltfläche „i“ links der URL und erlauben Sie Flash Player und Pop-ups. Beachten Sie, dass Sie zwar sofort Boders einleitende Bemerkungen hören, aber das Interview erst nach einiger Zeit geladen wird.
+
+![chrome-address-bar.png](../../../assets/images/chrome-address-bar.png)
 
 <!-- section -->
-### Reading/viewing suggestions
+
+### Empfehlungen Lektüre/Video
 <!-- section-contents -->
-Alan Rosen, “‘We know very little in America’, David Boder and un-belated testimony”, In: After the Holocaust: Challenging the Myth of Silence, ed. David Cesarani and Eric J.Sundquist, (New York, 2012)
+
+Alan Rosen, „We Know Very Little in America: David Boder and Un-belated Testimony“, in: After the Holocaust: Challenging the Myth of Silence, herausgegeben von David Cesarani und Eric J. Sundquist (New York, 2012)
 
 <!-- briefing-teacher -->
