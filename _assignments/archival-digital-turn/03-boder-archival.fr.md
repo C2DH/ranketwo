@@ -38,7 +38,7 @@ Regardez cette courte animation de [6 minutes 30 secondes au sujet de David Bode
 ### 3.b Restauration ou remplacement ?
 <!-- section-contents -->
 
-- Lisez cette référence court article de Ralph Pugh, conservateur de l’Illinois Institute of Technology [ref](pugh-judge-boder) sur le processus de publication en ligne de la collection. Que dit-il au sujet des décisions prises concernant la restauration du son ? 
+- Lisez ce court article de Ralph Pugh, conservateur de l’Illinois Institute of Technology [ref](pugh-judge-boder) sur le processus de publication en ligne de la collection. Que dit-il au sujet des décisions prises concernant la restauration du son ? 
 - Écoutez les 5 premières minutes de cet [entretien avec Janis B.](http://voices.iit.edu/audio.php?doc=bJanis){:target="_blank"}<sup>*</sup> de la collection de Boder.
 - Que préférez-vous : un meilleur son vous permettant de comprendre ce qui se dit ou le son d’origine avec sa propre atmosphère ?
 - Est-il logique de créer un accès à un contenu audio si vous n’en comprenez pas la langue, ou les informations pourraient-elles se limiter à une transcription traduite ?
