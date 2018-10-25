@@ -33,11 +33,10 @@ Comment s'accorder sur le sens d'un terme qui peut être interprété de tant de
 Le terme « critique des sources numériques » est un terme composé. Il renvoie à ce que les historiens ont toujours fait – évaluer de manière critique l’origine et la valeur d’une source historique – et à la nécessité d’appliquer le même principe aux sources numérisées ainsi qu’à celles qui sont produites sous forme numérique dès l’origine et qui sont actuellement disponibles sur le web.
 
 Parmi les nombreuses questions qui se posent, les suivantes peuvent être considérées comme fondamentales:
-1. Pourquoi la source a-t-elle été sélectionnée pour être numérisée/pour être ajoutée à un dépôt numérique?
+1. Pourquoi la source a-t-elle été sélectionnée pour être numérisée/pour être ajoutée à un dépôt numérique ?
 2. Est-ce que la transformation d’une forme analogique à une forme numérique a eu un impact sur la valeur informative et artéfactuelle de la source ?
-3. Pourquoi, quand et comment la source a-t-elle été publiée sur le web et qui a pris l’initiative?
-4. Comment le moteur de recherche a-t-il extrait cette source spécifique? Y a-t-il d’autres choix pertinents qui n’ont pas été 
-considérés ?
+3. Pourquoi, quand et comment la source a-t-elle été publiée sur le web et qui a pris l’initiative ?
+4. Comment le moteur de recherche a-t-il extrait cette source spécifique? Y a-t-il d’autres choix pertinents qui n’ont pas été considérés&nbsp;?
 
 {: .extra-spacing}
 
