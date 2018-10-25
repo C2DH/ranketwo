@@ -45,13 +45,13 @@
               case 'cit':
                 d3.select(this)
                   .html('(' + _self.refAuthorTitleYear(doc) + ')')
-                  .attr('href', doc.url)
+                  .attr('href', _self.refUrl(doc))
                   .attr('target', '_blank');
                 break;
               case 'lit':
                 d3.select(this)
                   .html(_self.refAuthorYear(doc, false))
-                  .attr('href', doc.url)
+                  .attr('href', _self.refUrl(doc))
                   .attr('target', '_blank');
                 break;
               case 'block':

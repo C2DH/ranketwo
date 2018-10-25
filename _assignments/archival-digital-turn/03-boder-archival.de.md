@@ -38,7 +38,7 @@ Sehen Sie sich diese kurze Animation [über David Boder mit einer Dauer von 6 Mi
 ### 3.b Restaurierung oder Austausch?
 <!-- section-contents -->
 
-- Lesen Sie diesen kurzen Artikel von Kurator Ralph Pugh des Illinois Institute of Technology [ref](pugh-judge-boder) über den Prozess der Online-Veröffentlichung der Sammlung. Was sagt er zu Entscheidungen, die mit Hinblick auf die Restaurierung des Tons getroffen wurden?
+- Lesen Sie diesen kurzen Artikel von Kurator Ralph Pugh des Illinois Institute of Technology [cit](pugh-judge-boder) über den Prozess der Online-Veröffentlichung der Sammlung. Was sagt er zu Entscheidungen, die mit Hinblick auf die Restaurierung des Tons getroffen wurden?
 - Hören Sie sich die ersten 5 Minuten [dieses Interviews mit Janis B.](http://voices.iit.edu/audio.php?doc=bJanis){:target="_blank"}<sup>*</sup> in der Sammlung Boders an.
 - Was wäre Ihnen lieber gewesen  ein besserer Ton zum besseren Verständnis des Gesagten oder der Originalton mit seiner eigenen Atmosphäre?
 - Macht es Sinn, Zugang zu gesprochenen Inhalten zu schaffen, wenn Sie die Sprache nicht verstehen, oder könnte die Information auf das übersetzte Transkript begrenzt sein?

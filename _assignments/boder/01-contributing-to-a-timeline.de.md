@@ -31,9 +31,9 @@ In der gezeigten Animation liegt der Schwerpunkt überwiegend auf der Schaffung 
 ### Anweisung
 <!-- section-contents -->
 
-- Öffnen Sie die Box [**Boders Biografie**](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"} erneut und lesen Sie die verschiedenen Abschnitte  
+- Öffnen Sie die Box [**Boders Biografie**](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"} erneut und lesen Sie die verschiedenen Abschnitte.  
   {: .headsup}
-- Gehen Sie zur [Tiki-Toki-Zeitleiste-App](https://www.tiki-toki.com/){:target="_blank"}
+- Gehen Sie zur [Tiki-Toki-Zeitleiste-App](https://www.tiki-toki.com/){:target="_blank"}.
 - Geben Sie die Login-Daten des Accounts ein, der im Rahmen dieser Aufgabe eingerichtet wurde
 
     Benutzername: **Assignment1TikiToki**  
@@ -41,7 +41,7 @@ In der gezeigten Animation liegt der Schwerpunkt überwiegend auf der Schaffung 
 
 Sie sehen eine Zeitleiste mit Daten zu David Boders Leben.
 Dies ist die Basis für die Ausführung der nachfolgenden Aufgaben.
-If you need more guidance, then follow the step by step instructions provided in [ref](tutorial-tiki)
+If you need more guidance, then follow the step by step instructions provided in [cit](tutorial-tiki).
 
 <!-- section -->
 

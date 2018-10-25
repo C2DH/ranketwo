@@ -32,9 +32,9 @@ In the animation you watched the focus is mostly on the creation and transformat
 ### Instructions
 <!-- section-contents -->
 
-- Open the box [**Boder’s biography**](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"} again, and read the various sections
+- Open the box [**Boder’s biography**](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"} again, and read the various sections.
   {: .headsup}
-- Go to the timeline [application Tiki-Toki](https://www.tiki-toki.com/){:target="_blank"}
+- Go to the timeline [application Tiki-Toki](https://www.tiki-toki.com/){:target="_blank"}.
 - Fill in the login details of the account that has been created for this assignment
 
     Username: **Assignment1TikiToki**  
@@ -42,7 +42,7 @@ In the animation you watched the focus is mostly on the creation and transformat
 
 You will see a timeline with dates that relate to David Boder’s life.
 This is the basis to complete the assignments below.
-If you need more guidance, then follow the step by step instructions provided in [ref](tutorial-tiki)
+If you need more guidance, then follow the step by step instructions provided in [cit](tutorial-tiki).
 
 <!-- section -->
 

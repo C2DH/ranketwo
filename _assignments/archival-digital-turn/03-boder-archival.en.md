@@ -40,7 +40,7 @@ The dates in the template can help you with finding the right answer.
 ### 3.b Restoration or replacement?
 <!-- section-contents -->
 
-- Read this short article by curator Ralph Pugh form the Illinois Institute of Technology [ref](pugh-judge-boder), about the process of publishing the collection online. What does he say about decisions that were taken with regard to the restoration of the sound?
+- Read this short article by curator Ralph Pugh form the Illinois Institute of Technology [cit](pugh-judge-boder), about the process of publishing the collection online. What does he say about decisions that were taken with regard to the restoration of the sound?
 - Listen to the first 5 minutes of [this interview with Janis B.](http://voices.iit.edu/audio.php?doc=bJanis){:target="_blank"}<sup>*</sup> in the collection of Boder.
 - What would you have preferred, a better sound to help you understand what is said, or the original sound with its own atmosphere?
 - Does it make sense to create access to spoken content if you don't understand the language or could the information be limited to the translated transcript?
