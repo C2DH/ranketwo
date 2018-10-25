@@ -30,7 +30,7 @@ empty_array: []
 recaptcha: 6LfZKnYUAAAAAJGg9r--abfv5A08TDORCmv4mGOx
 forms:
   contact-us:
-    url: "https://ranke2.uni.lu/ecf"
+    url: "https://ranke2.uni.lu/ecf/"
     params:
       -
         name: use
