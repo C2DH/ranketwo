@@ -4,7 +4,7 @@
     <div class="row">
       <div class="col-md-8 col-sm-6">
         <p>
-          <a href='{% if page.lang == site.default_lang %}{{"/who-we-are/" | absolute_url}}' {% else %} href="{{page.lang | absolute_url}}/who-we-are/"{% endif %}>Who we are</a>
+          <a {% if page.lang == site.default_lang %} href='{{"/who-we-are/" | absolute_url}}' {% else %} href="{{page.lang | absolute_url}}/who-we-are/"{% endif %}>Who we are</a>
           <br>
           <a {% if page.lang == site.default_lang %} href='{{"/contact-us/" | absolute_url}}' {% else %} href="{{page.lang | absolute_url}}/contact-us/"{% endif %}>Contact us</a>
           <br>
