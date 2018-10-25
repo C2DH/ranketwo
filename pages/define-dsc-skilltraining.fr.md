@@ -12,7 +12,7 @@ documents:
 On 30 and 31 October 2017 skills training was organised for the PhD students in the Digital History and Hermeunetics Doctoral Training Unit on the concept of "digital source criticism". Here you can find a description of the skills training.
 If you are interested in re-using the full programme, please contact: ..........
 
-
+<!-- more -->
 **PROGRAM**
 Skills Training "digital source criticism"
 Doctoral Training Unit DHH
