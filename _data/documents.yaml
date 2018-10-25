@@ -730,6 +730,7 @@
         abstract:
             en_us: 'history of collection and website and dilemmas with audio restoration'
     _id: e476d52ea62d4bb3bce35c622f006457
+    attachment: /assets/pdf/v45n1p39-47.pdf
 -
     title: 'We know very little in America”, David Boder and un-belated testimony'
     slug: rosen-littele-america
@@ -1433,3 +1434,47 @@
             en_us: 2018
     attachment: '/assets/pdf/interface eluxembourgensia.pdf'
     _id: 4e98f668f42d4deeb6695122bd3d93ef
+-
+    title: 'Seminar PhD-Kompetenzen, 30/31.10.2017: Ursprung und Nutzung des Begriffs digitale Quellen Kritik '
+    slug: dsc-skill-training-de
+    type: link
+    data:
+        date:
+            en_us: 2017
+        year: 2017
+    attachment: /assets/images/DSC-skill-training.jpg
+    url: skilltraining
+    _id: 6661a921431c4c1e83225214fed44623
+-
+    title: 'Cours de formation doctorale, 30/31.10.2017 : Analyse de l’origine et de l’utilisation du terme « critique des sources numériques » '
+    slug: dsc-skill-training-fr
+    type: link
+    data:
+        date:
+            en_us: 2017
+        year: 2017
+    attachment: /assets/images/DSC-skill-training.jpg
+    url: skilltraining
+    _id: 6fb40cd0a8d54fc497ffd1b6e1df091c
+-
+    title: 'Expertentreffen, 18.12.2017: Verschiedene Perspektiven zum Konzept des „Digital Source Criticism“'
+    slug: quelle-de
+    type: link
+    data:
+        date:
+            en_us: 2017
+        year: 2017
+    attachment: /assets/images/source.png
+    url: expert-meeting
+    _id: 8f00c43c454b4918a73df3fe50a5579f
+-
+    title: 'Réunion d’experts, 18.12.2017 : Différents points de vue sur le concept de critique des sources numériques'
+    slug: quelle-fr
+    type: link
+    data:
+        date:
+            en_us: 2017
+        year: 2017
+    attachment: /assets/images/source.png
+    url: expert-meeting
+    _id: 59da62130bda42eab9433cdb3ac08d5c

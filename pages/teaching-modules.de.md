@@ -1,9 +1,9 @@
 ---
 layout: units
 lang: de
-permalink: /de/teaching-modules/
-link: /teaching-modules/
-title: Inhalt der Lektionen
+permalink: /de/lessons/
+link: /lessons/
+title: Lektionen
 documents:
   - Boder-wirerecorder
   - Transformation-Galilei

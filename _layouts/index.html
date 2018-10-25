@@ -54,7 +54,7 @@ layout: default
         {% endfor %}
 
     </section>
-    <a href='{{ "/" | relative_url }}teaching-modules' class="btn btn-block btn-primary btn-more">{% assign key='more lessons' %}{% include t.html %}</a>
+    <a {% if page.lang == site.default_lang %} href='{{"/lessons/" | relative_url}}' {% else %} href="{{page.lang | relative_url}}/lessons/" {% endif %} class="btn btn-block btn-primary btn-more">{% assign key='more lessons' %}{% include t.html %}</a>
 
   </div>
 </div>

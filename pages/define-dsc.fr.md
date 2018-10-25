@@ -3,10 +3,10 @@ layout: page
 lang: fr
 permalink: /fr/define-dsc/
 link: /define-dsc/
-title: Définir la critique des sources numériques
+title: Critiques des sources numériques
 documents:
-- dsc-skill-training
-- quelle
+- dsc-skill-training-fr
+- quelle-fr
 - bothe-zeugnisse-uberlebender-der-shoah
 - delalande-vincent-historien-cyborg
 - hughes-lang-transmutability-decontextualization

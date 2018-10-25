@@ -31,7 +31,7 @@ videos:
 
 sentences:
 
-  - Ranke.2 est une est une plateforme éducative sur la critiques de sources historiques numériques
+  - Ranke.2 est une plateforme éducative sur la critiques de sources historiques numériques
   - Ranke.2 enseigne comment evaluer les sources historiques numériques
   - Ranke.2 explique comment un objet analogue est transforme dans une représentation numérique 
   - Chaque lesson  aborde un type de données différent

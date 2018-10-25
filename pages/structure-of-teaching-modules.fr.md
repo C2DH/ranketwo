@@ -1,9 +1,9 @@
 ---
 layout: page
 lang: fr
-permalink: /fr/structure-of-teaching-modules/
-link: /structure-of-teaching-modules/
-title: Structure de la leçon
+permalink: /fr/about-lessons/
+link: /about-lessons/
+title: À propos des leçons
 documents:
   - document-example
   - document-example-b
@@ -46,9 +46,12 @@ Les leçons ont été structurées de façon à répondre aux besoins des étudi
 {: .extra-spacing}
 ## Comment utiliser les leçons ?
 Un professeur peut choisir un(e) ou plusieurs modules et/ou tâches à réaliser et discuter en classe ou à donner en devoir. Les considérations suivantes peuvent aider les professeurs à choisir les supports adéquats :
-1.	De quelle manière le sujet de la critique des sources numériques s’intègre-t-il dans un cours spécifique (p. ex. : « introduction aux méthodes de recherche », tel que généralement proposé en première année du programme de bachelor). Pour des suggestions, veuillez vous référer à la prochaine section.
-2.	Le niveau de connaissance des étudiants et des professeurs en matière de numérique – pour une introduction aux bases de la culture numérique et pour évaluer les compétences numériques de vos étudiants, consultez les diverses [ressources énumérées sur le site web de l’Université de Sunderland] (https://canvas.sunderland.ac.uk/courses/3/pages/digital-literacy). 
-3.	Le temps disponible – veuillez vous référer aux métadonnées de chaque tâche pour des informations sur sa durée.
+
+1. De quelle manière le sujet de la critique des sources numériques s’intègre-t-il dans un cours spécifique (p. ex. : « introduction aux méthodes de recherche », tel que généralement proposé en première année du programme de bachelor). Pour des suggestions, veuillez vous référer à la prochaine section.
+
+2. Le niveau de connaissance des étudiants et des professeurs en matière de numérique – pour une introduction aux bases de la culture numérique et pour évaluer les compétences numériques de vos étudiants, veuillez consulter les [ressources sur le site web de l'Université de Sunderland](https://canvas.sunderland.ac.uk/courses/3/pages/digital-literacy){:target="_blank"}.
+ 
+3. Le temps disponible – veuillez vous référer aux métadonnées de chaque tâche pour des informations sur sa durée.
 
 {: .extra-spacing}
 ## Comment choisir une tâche ?
