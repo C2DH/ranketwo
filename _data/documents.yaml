@@ -1443,7 +1443,7 @@
             en_us: 2017
         year: 2017
     attachment: /assets/images/DSC-skill-training.jpg
-    url: skilltraining
+    url: skilltraining.html
     _id: 6661a921431c4c1e83225214fed44623
 -
     title: 'Cours de formation doctorale, 30/31.10.2017 : Analyse de l’origine et de l’utilisation du terme « critique des sources numériques » '
@@ -1454,7 +1454,7 @@
             en_us: 2017
         year: 2017
     attachment: /assets/images/DSC-skill-training.jpg
-    url: skilltraining
+    url: skilltraining.html
     _id: 6fb40cd0a8d54fc497ffd1b6e1df091c
 -
     title: 'Expertentreffen, 18.12.2017: Verschiedene Perspektiven zum Konzept des „Digital Source Criticism“'
@@ -1465,7 +1465,7 @@
             en_us: 2017
         year: 2017
     attachment: /assets/images/source.png
-    url: expert-meeting
+    url: expert-meeting.html
     _id: 8f00c43c454b4918a73df3fe50a5579f
 -
     title: 'Réunion d’experts, 18.12.2017 : Différents points de vue sur le concept de critique des sources numériques'
@@ -1476,5 +1476,5 @@
             en_us: 2017
         year: 2017
     attachment: /assets/images/source.png
-    url: expert-meeting
+    url: expert-meeting.html
     _id: 59da62130bda42eab9433cdb3ac08d5c
