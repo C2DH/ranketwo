@@ -10,7 +10,7 @@
             en_us: 'this is bla bla '
     attachment: /assets/images/DSC-skill-training.jpg
     _id: 5f400180727c436d8af7d7069f8cfc08
-    url: skilltraining
+    url: skilltraining.html
 -
     title: 'Expert Meeting,  18-12-2017 : Various Perspectives on the concept of Digital Source Criticism '
     slug: quelle
@@ -23,7 +23,7 @@
             en_us: 'this is bla bla '
     attachment: /assets/images/source.png
     _id: e8f58be612cf4347bf4bbfc6ae6846de
-    url: expert-meeting
+    url: expert-meeting.html
 -
     title: Cosmographia
     slug: cosmographia
