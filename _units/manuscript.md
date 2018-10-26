@@ -1,5 +1,5 @@
 ---
-title: "The Chronicle of Dalimil: a photogenic mediaeval manuscript?"
+title: "UPCOMING The Chronicle of Dalimil: a photogenic mediaeval manuscript?"
 layout: unit
 tags:
   - manuscripts
