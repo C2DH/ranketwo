@@ -2,7 +2,7 @@
 layout: assignment
 unit: transformation
 lang: de
-title: "Transformation through re-use of online content"  
+title: "ASSIGNMENTS IN PREPARATION &mdash; Transformation through re-use of online content"  
 cover:
 tags:
   -  re-use of digital content

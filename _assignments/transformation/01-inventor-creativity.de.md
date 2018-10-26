@@ -2,7 +2,7 @@
 layout: assignment
 unit: transformation
 lang: de
-title: "inventors and creativity"  
+title: "ASSIGNMENTS IN PREPARATION &mdash; inventors and creativity"  
 cover:
 tags:
   -  history of technology
