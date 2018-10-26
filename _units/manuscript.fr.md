@@ -1,5 +1,5 @@
 ---
-title: "La Chronique de Dalimil : un manuscrit médiéval photogénique ? "
+title: "UPCOMING La Chronique de Dalimil : un manuscrit médiéval photogénique ? "
 layout: unit
 tags:
   - manuscripts

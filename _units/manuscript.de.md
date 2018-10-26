@@ -1,5 +1,5 @@
 ---
-title: "Die Dalimil-Chronik: Ein fotogenes mittelalterliches Manuskript?"
+title: "UPCOMING Die Dalimil-Chronik: Ein fotogenes mittelalterliches Manuskript?"
 layout: unit
 tags:
   - Manuskripte
