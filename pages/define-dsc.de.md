@@ -26,7 +26,7 @@ documents:
 - zaagsma-digital-history
 ---
 
-Wie kann man sich auf die Bedeutung eines Begriffes einigen, der in vielerlei Hinsicht interpretiert werden kann? Die C2DH schlägt vor:
+Wie kann man sich auf die Bedeutung eines Begriffes einigen, der in vielerlei Hinsicht interpretiert werden kann? Das C²DH schlägt vor:
 
 <!-- more -->
 
