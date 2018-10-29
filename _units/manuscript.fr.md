@@ -1,5 +1,5 @@
 ---
-title: "UPCOMING La Chronique de Dalimil : un manuscrit médiéval photogénique ? "
+title: "LECON PROCHAINE-La Chronique de Dalimil : un manuscrit médiéval photogénique ? "
 layout: unit
 tags:
   - manuscripts
@@ -21,7 +21,7 @@ order: 5
 
 ---
 
-Leçon sur la dynamique du World Wide Web et la priorité donnée à la valeur esthétique d’un manuscrit médiéval en vue de la diffusion de la connaissance et de la création d’accès, au détriment de sa version originale, non illustrée et moins attrayante.
+LECON PROCHAINE-Leçon sur la dynamique du World Wide Web et la priorité donnée à la valeur esthétique d’un manuscrit médiéval en vue de la diffusion de la connaissance et de la création d’accès, au détriment de sa version originale, non illustrée et moins attrayante.
 
 <!-- more -->
 
