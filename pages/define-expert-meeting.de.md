@@ -12,6 +12,8 @@ documents:
 On 18 December 2017 an expert meeting was held on "digital source criticism" at the C<sup>2</sup>DH at the University of Luxembourg. The objective was to bring scholars together who have written articles, blogs or who have organized workshops on the topic, together to present their interpretation of the concept, and to assess the feasibility of a special issue on the topic. 
 Below you can find the program of the expert meeting. If the presenters agree, links will be provided to their presentations. 
 
+<!-- more -->
+
 Expert meeting digital source criticism  
 18-12-2017  
 C2DH - Maison des Sciences Humaines, 11, 
@@ -19,7 +21,7 @@ Porte des Sciences / L-4366 Esch-Belval .
 University of Luxembourg 
 Room MO25020, Mezzanine floor 
 
-**Program**
+### PROGRAM
 
 9.30 - 10.00   (coffee and tea are served) 
 - Welcome by [Stefania Scagliola](https://www.c2dh.uni.lu/people/stefania-scagliola), project leader of Ranke.2 and Gerben Zaagsma, head of the section Historiography and Digital  History of C2DH - 
