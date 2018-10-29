@@ -14,7 +14,7 @@ This is an additional lesson on David Boder's collection that focuses on the com
 the website in 2000 and the one used in 2009
 <!-- more -->
 
-### What is the objective of this lesson?
+### What is the objective of this lesson? QUIZ AND ASSIGNMENTS UPCOMING 
 
 <!-- section-contents -->
 
