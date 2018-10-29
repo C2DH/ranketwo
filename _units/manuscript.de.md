@@ -1,5 +1,5 @@
 ---
-title: "UPCOMING Die Dalimil-Chronik: Ein fotogenes mittelalterliches Manuskript?"
+title: "SPATEREN LEKTION - Die Dalimil-Chronik: Ein fotogenes mittelalterliches Manuskript?"
 layout: unit
 tags:
   - Manuskripte
@@ -21,7 +21,7 @@ order: 5
 
 ---
 
-Eine Lektion zu dem Thema, wie die Dynamik des World Wide Web zur Priorisierung des ästhetischen Werts eines mittelalterlichen Manuskripts geführt hat, wenn es um die Verbreitung von Wissen und die Schaffung eines Zugangs zulasten der unillustrierten, weniger attraktiven Originalversion geht.
+SPATEREN LEKTION - Eine Lektion zu dem Thema, wie die Dynamik des World Wide Web zur Priorisierung des ästhetischen Werts eines mittelalterlichen Manuskripts geführt hat, wenn es um die Verbreitung von Wissen und die Schaffung eines Zugangs zulasten der unillustrierten, weniger attraktiven Originalversion geht.
 
 
 <!-- more -->
