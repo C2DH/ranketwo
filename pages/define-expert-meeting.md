@@ -9,7 +9,7 @@ documents:
 
 ***Interpretations*** [information from contributions to the expert meeting in December 2017]
 
-On 18 December 2017 an expert meeting was held on “digital source criticism” at the C<sup>2</sup>DH at the University of Luxembourg. The objective was to bring together scholars who have written articles or blogs or organised workshops on the topic, to present their interpretation of the concept and to assess the feasibility of a special journal issue on the topic. 
+On 18 December 2017 an expert meeting was held on “digital source criticism” at the C<sup>2</sup>DH, University of Luxembourg. The objective was to bring together scholars who have written articles or blogs or organised workshops on the topic, to present their interpretation of the concept and to assess the feasibility of a special journal issue on the theme. 
 Below you will find the programme of the expert meeting. If the presenters agree, links will be provided to their presentations. 
 
 <!-- more -->
@@ -45,7 +45,7 @@ Room MO25020, Mezzanine floor
 
 
 12.20 - 13.00
-- [Asanobu Kitamoto (National Institute of Informatics Japan)](https://www.nii.ac.jp/en/faculty/digital_content/kitamoto_asanobu/) –  Non-textual “close reading” through the comparison of sources (via video conference)
+- [Asanobu Kitamoto (National Institute of Informatics, Japan)](https://www.nii.ac.jp/en/faculty/digital_content/kitamoto_asanobu/) –  Non-textual “close reading” through the comparison of sources (via video conference)
 - Chaired by Jasmijn van Gorp 
 
 13.00 - 14.00 Lunch
