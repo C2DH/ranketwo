@@ -51,7 +51,7 @@ Room MO25020, Mezzanine floor
 13.00 - 14.00 Lunch
 
 14.00 - 14.40   
-- [Julia Noordegraaf(University of Amsterdam)](http://www.uva.nl/profiel/n/o/j.j.noordegraaf/j.j.noordegraaf.html) – Analysing audiovisual sources as data: Experiences from designing the CLARIAH media suite (via video conference)
+- [Julia Noordegraaf (University of Amsterdam)](http://www.uva.nl/profiel/n/o/j.j.noordegraaf/j.j.noordegraaf.html) – Analysing audiovisual sources as data: Experiences from designing the CLARIAH media suite (via video conference)
 - Chaired by Pascal Foehr
 
 
