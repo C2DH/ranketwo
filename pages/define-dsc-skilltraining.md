@@ -106,9 +106,7 @@ The exercise consists of tangible hands-on experiences of digitisation processes
 10.15 – 10.30
 Coffee/tea break
 
-12.00 – 12.30
-
-Discussion about how the teams’ practical experiences have influenced their understanding of the transformation process. Presentation of each team’s diagram and opportunity to make adjustments/corrections.
+12.00 – 12.30 Discussion about how the teams’ practical experiences have influenced their understanding of the transformation process. Presentation of each team’s diagram and opportunity to make adjustments/corrections.
 
 12.30 – 14.00
 Lunch
