@@ -1,8 +1,8 @@
 ---
 layout: page
 lang: fr
-permalink: /fr/define-dsc/skilltraining
-link: /define-dsc/skilltraining
+permalink: /fr/define-dsc/skilltraining.html
+link: /define-dsc/skilltraining.html
 title: "PhD skills training, 30/31-10-2017: Exploring the origin and use of the term  \"digital source criticism\""
 documents:
 - dsc-skill-training

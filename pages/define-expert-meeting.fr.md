@@ -1,8 +1,8 @@
 ---
 layout: page
 lang: fr
-permalink: /fr/define-dsc/expert-meeting
-link: /define-dsc/expert-meeting
+permalink: /fr/define-dsc/expert-meeting.html
+link: /define-dsc/expert-meeting.html
 title: "Expert meeting, 18-12-2017 : Various perspectives on the concept of digital source criticism"
 documents:
 ---
