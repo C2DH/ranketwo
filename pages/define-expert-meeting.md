@@ -3,7 +3,7 @@ layout: page
 lang: en
 permalink: /define-dsc/expert-meeting.html
 link: /define-dsc/expert-meeting.html
-title: "Expert meeting, 18-12-2017 : Various perspectives on the concept of digital source criticism"
+title: "Expert meeting, 18.12.2017: Various perspectives on the concept of digital source criticism"
 documents:
 ---
 
