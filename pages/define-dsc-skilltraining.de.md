@@ -9,125 +9,125 @@ documents:
 ---
 
 
-On 30 and 31 October 2017 skills training was organised for the PhD students in the Digital History and Hermeunetics Doctoral Training Unit on the concept of "digital source criticism". Here you can find a description of the skills training.
-If you are interested in re-using the full programme, please contact: ..........
+On 30 and 31 October 2017 skills training was organised for the PhD students in the Digital History and Hermeunetics Doctoral Training Unit on the concept of “digital source criticism”. Here you can find a description of the skills training.
+If you are interested in reusing the full programme, please contact: ..........
 
 <!-- more -->
 
-**PROGRAM**
-Skills Training "digital source criticism"
-Doctoral Training Unit DHH
-by Prof. Andreas Fickers, Dr. Stefania Scagliola, Andy O’Dwyer
-30 + 31 October 2017
-participants: 16
-Required: photoscanner, book scanner, 3d scanner, cassette/video player and software for analogue/digital conversion
+### PROGRAMME
+Skills training on digital source criticism  
+DHH Doctoral Training Unit  
+Run by Prof. Andreas Fickers, Dr Stefania Scagliola, Andy O’Dwyer  
+30 + 31 October 2017  
+Participants: 16  
+Required: photo scanner, book scanner, 3D scanner, cassette/video player and software for analogue/digital conversion
 
-**Context**
+### Context
 
-The term ‘Digital Source Criticism’ refers to the critical appraisal of digital sources of knowledge that can be retrieved through the web. It obviously draws on the legacy of  Leopold von Ranke, the 19th century German historian who is regarded as the father of modern professional history. Through his seminars he introduced the archive as the habitat of the historian and rigorous fact checking as the essence of the historian’s craft. He is said to be responsible for the archival turn at the end of the 19th century, but at present we are confronted with the consolidation of a new transition: the digital turn.  
-Adding the prefix ‘digital’ to ‘source criticism’ means that the traditional way of questioning the authenticity of a document by finding out who created it, at which time, for which purpose and in which context, no longer suffices. Additional layers of manipulation and interpretation need to be questioned. Historians of the 21st century need to be aware of how these transformation from analogue to digital affect the epistemological value and appearance of historical sources. This skills training explores the meanings and practices of ‘Digital Source Criticism’. It poses the question how the digital turn requires a further reconsideration of the historian’s craft. The training is dedicated to PhD candidates with an interest in digital history and hermeneutics, source criticism, and digital literacy.
+The term “digital source criticism” refers to the critical appraisal of digital sources of knowledge that can be retrieved through the web. It draws on the legacy of Leopold von Ranke, the 19th-century German historian who is regarded as the father of modern professional history. Through his seminars he introduced the archive as the historian’s habitat and rigorous fact-checking as the essence of the historian’s craft. He is said to be responsible for the archival turn at the end of the 19th century, but we are currently facing the emergence of a new period of transition, the “digital turn”.  
+Adding the prefix “digital” to “source criticism” means that the traditional way of questioning the authenticity of a document – finding out who created it, when, for what purpose and in what context – is no longer enough. We need to investigate additional layers of manipulation and interpretation. Historians of the 21st century need to be aware of how these transformations from analogue to digital affect the epistemological value and appearance of historical sources. This skills training explores the meanings and practices of “digital source criticism”. It looks at how the digital turn requires a further reconsideration of the historian’s craft. The training is geared towards PhD candidates with an interest in digital history and hermeneutics, source criticism and digital literacy.
 
-Keywords: digital source criticism, digital history, digital hermeneutics, digitization, multimodality, protocol, boundary objects, source collection, age of abundance.
+Keywords: digital source criticism, digital history, digital hermeneutics, digitisation, multimodality, protocol, boundary objects, source collection, age of abundance
 
-**Organisation**
+### Organisation
 
-The skills training is organized by the DHH doctoral training unit and will be led by Prof. Andreas Fickers, Dr. Stefania Scagliola and Andy O’Dwyer. It consists of a two-day program, in which lectures and theoretical discussions are combined with hands-on demonstrations and group experiments. The first day is dedicated to literature and to  making sketches and drawings of how the digital affects the nature of a historical source.
-The second day the participants are going to digitize various datatypes and reflect on their observations of this process and the differences between data types. The last part of the training consists of a crowdsourcing experiment in which the genealogy of the term Digital Source Criticism is going to be traced and documented.
+The skills training is organised by the DHH Doctoral Training Unit and will be led by Prof. Andreas Fickers, Dr Stefania Scagliola and Andy O’Dwyer. The two-day programme combines lectures and theoretical discussions with hands-on demonstrations and group experiments. The first day focuses on literature and making sketches and drawings of how digital technologies affect the nature of a historical source.  
+On the second day, the participants will digitise various data types and reflect on their observations of this process and the differences between data types. The last part of the training consists of a crowdsourcing experiment in which the genealogy of the term “digital source criticism” will be traced and documented.
 
-**Objectives**
+### Objectives
 
-Get acquainted with the concept of ‘Digital Source Criticism’ its relation to the traditional form of source criticism and its various perspectives and conceptualizations.
-Experience the transformation of a source from its analogue to its digital form.
-Being able to reflect on and problematize this transformation from analogue to digital  of different source types (textual, visual, audio, object, online)
-Being able to reflect on the relation between the analog archive, the web and your own hard disk(s).
-Being able to apply the principle of Digital Source Criticism to your own PhD research
+- Becoming acquainted with the concept of “digital source criticism”, how it relates to the traditional form of source criticism and its various perspectives and conceptualisations.
+- Experiencing the transformation of a source from its analogue to its digital form.
+- Reflecting on and problematising the transformation from analogue to digital for different source types (texts, visual and audio footage, objects, online material).
+- Reflecting on the relationship between analogue archives, the web and your own hard disk(s).
+- Learning how to apply the principles of digital source criticism to your own PhD research.
 
-**Time schedule of the training**
+### Schedule for the training
 
-DAY 1 Monday 30 October 2017 - Digital History Lab
+DAY 1 Monday 30 October 2017 – Digital History Lab
 
-09h10 – 10h45
+9.10 – 10.45
 
-**Introduction to ‘Digital Source Criticism’ -  the history of source criticism and its problematization from a digital history perspective**
-Lecture Prof. Andreas Fickers
-lecture 45 min - discussion 45
+### Introduction to the notion of “digital source criticism” – the history of source criticism and its problematisation from a digital history perspective
+Lecture by Prof. Andreas Fickers (45 mins) followed by discussion (45 mins)
 
-10h45 – 11h00
-Coffee break
+10.45 – 11.00
+Coffee/tea break
 
-11h00 – 12h30
-**A. Tag the Literature**
+11.00 – 12.30
+### A. Tag the literature
 
-Teams will be formed with the task of tagging the literature that has been read, on the basis of the abstracts that have been written as preparatory work, and the thesaurus on Digital History:  http://www.dhlab.lu/dh-glossary/
-In the last 20 min each team will present its results.
+Teams will be formed with the task of tagging the literature that has been read, on the basis of abstracts that have been written as preparatory work and the glossary on digital history (http://www.dhlab.lu/dh-glossary/).  
+For the last 20 mins each team will present its results.
 
-12h30 – 13h30
+12.30 – 13.30
 Lunch
 
-13h30 – 15h00
-**B. Source transformationfrom analogue to digital - Envisioning the phases of transformation**
+13.30 – 15.00
+### B. Source transformation from analogue to digital – envisioning the phases of transformation
 
-The teams consider the objects/data/sources that they have brought along, choose a number of different data types, and attempt to make sketches of the phases of its transformation from analog to digital. The result should be a series of  drawings/sketches that help to visualize and  reconstruct the transformation process. White boards, digital bords and paper will be at your disposal. A number of websites will be listed where you can find information about electricity, light, sound and other physical processes.
+The teams consider the objects/data/sources that they have brought along, choose a number of different data types, and attempt to make sketches of the phases of transformation from analogue to digital. The result should be a series of drawings/sketches that help to visualise and reconstruct the transformation process. White boards, digital boards and paper will be available for use. A number of websites will be listed where you can find information about electricity, light, sound and other physical processes.
 
-15h00 - 15.20
-**Source transformation: from analogue to digital (text, images and 3d)**
+15.00 - 15.20
+### Source transformation: from analogue to digital (text, images and 3D objects)
 
-Lecture Andy O’Dwyer- Reflection on the life cycle from creation to presentation and transformations in materiality of three data types: text, images and 3d objects.
+Lecture by Andy O’Dwyer – Reflection on the life cycle from creation to presentation and transformation by exploring the materiality of three data types: text, images and 3D objects
 
-15h20 - 15h40
-pause for coffee/tea
+15.20 - 15.40
+Coffee/tea break
 
-15h40 - 16h00
-**Source transformations: from analogue to digital (oral history)**
+15.40 - 16.00
+### Source transformation: from analogue to digital (oral history)
 
-Lecture Stefania Scagliola about Transformation of Sound
-Reflection on the life cycle of the interview collection of David Boder, from steel wire to interactive webresource.  
+Lecture by Stefania Scagliola about the transformation of sound – Reflection on the life cycle of the interview collection of David Boder, from steel wire to interactive web resource  
 
-16h00 - 16.30
-integrate new insights, missing features
-Adjust/correct visualizations. The teams have time to adjust/complement their schemes on the basis of new insights and prepare their sketches to present
+16.00 - 16.30
+Integrating new insights and missing features  
+Adjusting/correcting visualisations. The teams will have time to adjust/complement their sketches on the basis of new insights and prepare them for presentation.
 
-16h30 - 17.00
-**review of the results of the visualisations**
+16.30 - 17.00
+### Review of the results of the visualisations
 
-A team of specialists (Stefan Krebs, Daniele Guido, Andy O’Dwyer) will review results and give comments
-
+A team of specialists (Stefan Krebs, Daniele Guido and Andy O’Dwyer) will review and comment on the results.
 
 
-DAY 2 Tuesday 31 October 2017 - Digital History Lab
 
-9.00 - 9.10
-Day overview - show clip ‘transformation’
+DAY 2 Tuesday 31 October 2017 – Digital History Lab
 
-09h10 – 12h00
-**C. Actual digitization of data**
+9.00 - 9.10  
+Day overview, show clip on transformation
 
-The exercise consists of tangible hands-on experiences with actual digitization processes with different data types: text, image, sound and 3d.  The groups are divided in teams and each team goes through the various phases of transformation, and documents its observations in a scheme.
+9.10 – 12.00
 
-10h15 – 10h30
-Coffee break
+### C. Hands-on digitisation of data
 
-12h00 – 12h30
-**Discussion about how their practical experience has influenced their understanding of the transformation process presentation of the scheme of each team. Adjust/correct visualizations**
+The exercise consists of tangible hands-on experiences of digitisation processes with different data types: texts, images, audio footage and 3D objects. The groups are divided into teams; each team will look at the various phases of transformation and document its observations in a diagram.
 
-12h30 – 14h00
+10.15 – 10.30
+Coffee/tea break
+
+12.00 – 12.30 Discussion about how the teams’ practical experiences have influenced their understanding of the transformation process. Presentation of each team’s diagram and opportunity to make adjustments/corrections.
+
+12.30 – 14.00
 Lunch
 
-14h00 – 16h00
-**D. The genealogy of the term Digital Source Criticism - Evolution of the meanings of Digital Source Criticism**
+14.00 – 16.00
 
-The group is split up in teams, that each will  conduct web research, and consult a series of analog books and articles that will be provided, with the aim of tracing the origin and use of the term Digital Source Criticism, the combination of the three words, of the two words, and the separate words. The N-gram can be used for this purpose and some specific bibliographic search strategies.  The results will be turned into lemmas and inserted into a table. One of the PhD students will present the results.
-These will be later reviewed by experts. If the members of the team agree, the results of this research could be published on the Ranke.2 Website on Teaching Digital Source Criticism, as a collaborative work of the PhD Doctoral Training Unit Group.
+### D. The genealogy of the term “digital source criticism” – Changing meanings of digital source criticism
 
-16h00 – 17h00
-**Presentation of research on Digital Source Criticism to a team of specialists. Discussion of results**
+The group is split into teams, each of which will conduct web research and consult a series of analogue books and articles that will be provided with the aim of tracing the origins and use of the term “digital source criticism” – the combination of all three words, combinations of two of the words, and each separate word. The N-gram can be used for this purpose, as well as some specific bibliographical search strategies. The results will be turned into lemmas and inserted into a table. One of the PhD students will present the results. These will then be reviewed by experts. If the members of the team agree, the results of this research may be published on the Ranke.2 website on teaching digital source criticism, as a collaborative project by the PhD Doctoral Training Unit Group.
+
+16.00 – 17.00
+
+### Presentation of research on digital source criticism to a team of specialists. Discussion of results
 
 
-17h00 – 17h30
-**E. Evaluation**
+17.00 – 17.30
 
-Record short video-clip in pairs. Participants take their short description of their source that they have prepared in advance, read it out loud, and reflect on how what they have learned/experienced during the skill training, relates to their own source material  (3-minute) What is  the added value of the training for applying Digital Source Criticism to their own sources? This material is sent to a Google folder and can be the basis for the reflective report and a blog about the training.  
+### E. Evaluation
 
-17h30 - 18.00
-Drinks and Closing remarks
-post training assignment
+Record short video clips in pairs. Participants take the short description of their source that they have prepared in advance, read it out loud and reflect on how what they have learned/experienced during the skills training relates to their own source material (3 minutes). What added value have they gained from the training to enable them to apply digital source criticism to their own sources? This material is sent to a Google folder and will form the basis for a reflective report and a blog about the training.  
+
+17.30 - 18.00
+Drinks and closing remarks  
+Post-training assignment
