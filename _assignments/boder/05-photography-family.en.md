@@ -17,7 +17,8 @@ outcomes:
   - Learning to trace the origin of a photo through web research
 ---
 
-In the animation about Boder, photographs of victims and of families have been used without clarifying their identity. This is done to create an association. The photo stands for a group or for a societal-cultural context. In a sense the same effect is created with the newsreels about the liberated concentration camps, as Boder observed: people are portrayed as an anonymous group, disregarding their individuality.  Because this lesson is about source criticism, we have tried to trace the context in which these photos were taken and the names of the people who are portrayed. The assignment invites students to search for the context in which these photos were taken and how they ended up in this animation. 
+In the animation about Boder, photographs of victims and of families have been used without clarifying their identity. This is done to create an association. The photo stands for a group or for a societal-cultural context. In a sense the same effect is created with the newsreels about the liberated concentration camps, as Boder observed: people are portrayed as an anonymous group, disregarding their individuality.  
+Because this lesson is about source criticism, we have tried to trace the context in which these photos were taken and the names of the people who are portrayed. The assignment invites students to search for the context in which these photos were taken and how they ended up in this animation. 
 
 <!-- more -->
 
