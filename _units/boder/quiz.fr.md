@@ -3,7 +3,7 @@ title: Animation avec quiz
 lang: fr
 type: quiz
 parent: boder
-iframe: david-boder-playposit
+iframe: david-boder-playposit-french
 ---
 
 {: .headsup}                            

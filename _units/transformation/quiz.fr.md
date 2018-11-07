@@ -4,7 +4,7 @@ lang: fr
 type: quiz
 parent: transformation
 duration: 10
-iframe: transformations-playposit
+iframe: transformations-playposit-french
 ---
 
 {: .headsup}                            

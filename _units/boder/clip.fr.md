@@ -1,5 +1,5 @@
 ---
-title: "Animation sur David Boder et sa collection d’interviews : from analogue to digital"
+title: "Animation sur David Boder et sa collection d’interviews : de l'analogue au numérique"
 type: clip
 lang: fr
 parent: boder

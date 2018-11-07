@@ -26,7 +26,19 @@
     id: david-boder-playposit
     thumbnail: assets/images/david-boder-interactive.png
     title: "David Boder's interview collection: from analogue to digital. Quiz"
-    src: "https://app.playposit.com/share/258439/797374/David-Boders-Interview-collection"
+    src: "https://www.playposit.com/listcode/797374/n717d6/open/anonymous"
+
+-
+    id: david-boder-playposit-french
+    thumbnail: assets/images/david-boder-interactive.png
+    title: "La collection d'interviews de David Boder : de l'analogue au numérique. Quiz"
+    src: "https://www.playposit.com/listcode/870433/n717d6/open/anonymous"
+
+-
+    id: david-boder-playposit-german
+    thumbnail: assets/images/david-boder-interactive.png
+    title: "David Boders Interviewsammlung: Vom Analogen zum Digitalen. Quiz"
+    src: "https://www.playposit.com/listcode/870428/n717d6/open/anonymous"
 
 -
     id: david-boder-interactive
@@ -58,7 +70,19 @@
     id: transformations-playposit
     thumbnail: https://i.vimeocdn.com/video/718551052.jpg?mw=960&mh=540&q=70
     title: Transformations. A quiz.
-    src: "https://www.playposit.com/listcode/826731/n717d6"
+    src: "https://www.playposit.com/listcode/826731/n717d6/open/anonymous"
+
+-
+    id: transformations-playposit-french
+    thumbnail: https://i.vimeocdn.com/video/718551052.jpg?mw=960&mh=540&q=70
+    title: Transformations. Quiz.
+    src: "https://www.playposit.com/listcode/882092/n717d6/open/anonymous"
+
+-
+    id: transformations-playposit-german
+    thumbnail: https://i.vimeocdn.com/video/718551052.jpg?mw=960&mh=540&q=70
+    title: Transformations. Quiz.
+    src: "https://www.playposit.com/listcode/882086/n717d6/open/anonymous"
 
 -
     id: archival-to-digital-turn
@@ -67,17 +91,24 @@
     thumbnail: assets/images/attachments/archival-digital-turn.png
     src: "https://player.vimeo.com/video/296271988"
 
-
--   id: archival-to-digital-turn-german
+-
+    id: archival-to-digital-turn-german
     type: vimeo
     aspectratio: aspect-16-9
     thumbnail: assets/images/attachments/archival-digital-turn.png
     src: "https://player.vimeo.com/video/296271988"
 
--   id: archival-to-digital-turn-playposit
+-
+    id: archival-to-digital-turn-playposit
     aspectratio: aspect-16-9
     thumbnail: assets/images/attachments/archival-digital-turn.png
     src: "https://www.playposit.com/listcode/823197/n717d6/open/anonymous"
+
+-
+    id: archival-to-digital-turn-playposit-german
+    aspectratio: aspect-16-9
+    thumbnail: assets/images/attachments/archival-digital-turn.png
+    src: "https://www.playposit.com/listcode/881764/n717d6/open/anonymous"
 
 -
     id: boder2-webtechnology

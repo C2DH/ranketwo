@@ -3,7 +3,7 @@ title: Animation mit quiz
 lang: de
 type: quiz
 parent: archival-digital-turn
-iframe: archival-to-digital-turn-playposit
+iframe: archival-to-digital-turn-playposit-german
 ---
 
 {: .headsup}                            
