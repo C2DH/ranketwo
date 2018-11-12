@@ -28,6 +28,7 @@ defaults:
 markdown: kramdown
 empty_array: []
 recaptcha: 6LfZKnYUAAAAAJGg9r--abfv5A08TDORCmv4mGOx
+google_analytics: UA-97728144-3
 forms:
   contact-us:
     url: "https://ranke2.uni.lu/ecf/"
