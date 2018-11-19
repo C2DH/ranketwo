@@ -2,7 +2,7 @@
 layout: assignment
 unit: archival-digital-turn
 lang: de
-title: "From Glassplates to Google: Digital source criticism on August Sander’s People of the 20th Century"
+title: "Von Glasplatten bis Google: Kritik an digitalen Quellen bei „Menschen des 20. Jahrhunderts“ von August Sander"
 cover:
 authors:
   - juliane-tatarinov
@@ -16,78 +16,84 @@ tags:
   - Weimar Republic
   - Neue Sachlichkeit
   - German history
-learning outcomes:
-  - training students to reflect on the search results of an online search and how this is determined by the properties of the search engine,
-  - training studens to distinguish the various layers of interpretations when applying source criticism on analogue photos that have been published online
-  - making students conscious of the differences in informational and artifactual value between the analogue and digital source.
+outcomes:
+  - "[TO TRANSLATE] Training students to reflect on the search results of an online search and how this is determined by the properties of the search engine."
+  - "[TO TRANSLATE] Training students to distinguish between the various layers of interpretation when applying source criticism to analogue photos that have been published online."
+  - "[TO TRANSLATE] Making students conscious of the differences in informational and artefactual value between the analogue and digital source."
 order: 7
+documents:
+  - what-works-and-what-doesnot
 ---
-This assignment deals with the portrait-collection of the famous German photographer August Sander (1876-1964), People of the 20th Century. Sander’s aim was to document the entire society of his time as he perceived it. He believed that it would reveal a universal truth about societal traits by means of his photo camera. In the last decades many of his pictures have become accessible to the general audience through the web. When using this digitized and published material as source of knowledge on his work, it is however necessary to apply source criticism and trace the origin of what can be viewed on anyone's computer screen. What can we consider as the original work by Sander? His glassplates? Prints made from his glassplates? The printed books about his work that made him famous long after his death, or the digital versions of Sander’s portraits that can be found on the web? The following perspectives will be considered: first you will deal with the questions on why Sander' digital representations of his photos have been published online, and how they can be retreived through search engines. The second part of the assignment brings you back to the origin of the source: the images that were shot by him at the time, his motives, and how the first publishers and curators appreciated his work.  
+
+Gegenstand dieser Aufgabe ist der Bildatlas des berühmten deutschen Fotografen August Sander (1876-1964) – „Menschen des 20. Jahrhunderts“. Sanders Ziel war, die gesamte Gesellschaft seiner Zeit so darzustellen, wie er sie selbst wahrnahm. Seine Überzeugung war, dass seine Kamera universelle Erkenntnisse zu gesellschaftlichen Merkmalen zutage fördert. Durch das Web wurden viele seiner Aufnahmen in den letzten Jahrzehnten einem allgemeinen Publikum zugänglich. Doch wenn dieses digitalisierte und veröffentlichte Material als Quelle für Erkenntnisse über seine Arbeit herangezogen wird, ist die Quellenkritik anzuwenden und der Ursprung dessen abzuklären, was sich auf einem beliebigen Computerbildschirm anzeigen lässt. Was kann als Sanders Originalwerk betrachtet werden? Seine Glasplatten? Abzüge seiner Glasplatten? Die gedruckten Bücher seiner Werke, die ihn lange nach seinem Tod berühmt machten, oder die digitalen, im Web abrufbaren Fassungen von Sanders Porträts? Folgende Perspektiven werden berücksichtigt: Zunächst befassen Sie sich mit der Frage, warum die digitalen Fassungen von Sanders Fotos online veröffentlicht wurden und wie diese über Suchmaschinen auffindbar sind. Im zweiten Teil der Aufgabe gehen Sie zum Ursprung der Quelle zurück, d.h. den von ihm damals gemachten Aufnahmen, seinen Motiven und den Bewertungen seiner Werke durch die ersten Herausgeber und Kuratoren.
+
+Die Idee für Sanders Projekt „Menschen des 20. Jahrhunderts“ geht auf das Jahr 1925 und damit auf das Zeitalter der Weimarer Republik (1919-1933) zurück. Auch wenn Sander zu Lebzeiten Auszüge aus seinen Werken veröffentlichte und kleinere Ausstellungen kuratierte, blieb es ihm bedauerlicherweise versagt, die ursprünglich für 45 Portfolios ausgelegte Sammlung abzuschließen. Bei seinem Tod 1964 hinterließ er seinem Sohn Günther Sander rund 2 000 Negative, die Letzterer 1971 teilweise in dem Fotoband Menschen ohne Maske veröffentlichte. Eine weitere Auflage wurde 2001 von der August Sander Stiftung, SK Stiftung Kultur, in Köln herausgegeben. Im Jahr 2010 stellte die Stiftung eine [Sander gewidmete Website online](http://augustsander.org/md20jh/){:target="_blank"}. Gleichwohl lag die Verbreitung seiner Werke nicht vollständig in deren Händen.
+
+Im Jahr 2003 wurde eine frühere Fassung der Website der Stiftung vom Internet-Archiv abgespeichert. Anlässlich der Ausstellung „Fragile Democracy: new international photography“ erschien um das Jahr 2008 eine der ersten Online-Fotografien von August Sander auf der Website der Northern Gallery for Contemporary Art in Sunderland (GB). Im gleichen Jahr wurde das Internet-Kunstforum Luminous-Lint ins Leben gerufen, auf dessen Website Aufnahmen von August Sander zu sehen sind. Der erste YouTube-Clip erschien 2010 – zeitgleich mit der der Einführung des Suchtools Pinterest und der Google-Bild-Such-Algorithmen, die sich als äußerst erfolgreich erwiesen. All diese Entwicklungen wirkten sich auf die Verbreitung und Neuauslegung der Werke Sanders aus.
 
 <!-- more -->
 
 <!-- briefing-student -->
-### Instruction
+
+### Anweisungen
 <!-- section-contents -->
 
-The idea for his project “People of the 20th Century” was born in 1925 and covers the period of the Weimar Republic 1919-1933.
-During his life-time Sander published excerpts of his work and curated smaller exhibitions, but unfortunately never managed to finalise the collection that had been originally designed to comprise 45 portfolia. When he passed away in 1964, his son Günther Sander inherited  ca. 2,000 negatives and managed to publish part of these in the photo book Menschen ohne Maske in 1971. Another edition had been published in 2001 the August Sander Foundation, SK Stiftung Kultur, in Cologne published a next edition. Later in 2010 they launched a website dedicated to Sander http://augustsander.org/md20jh/. But the dissemination of his work was not completely in their hands.  
-As early as 2003 an early version of the foundation's website could be snapshotted by the Internet Archive. Around 2008 one of the first online photographs of August Sander appeared on the website of the Northern gallery of Contemporary Art in Sunderland (UK),in the context of the exhibition ‘Fragile Democracy:new international photography'. In the same year the internet art-forum Luminous-Lint was launched with pictures of August Sander on its website. The first youtube clip appeared in 2010, in the same period as the launch of the search tool Pinterest and the introduction of Google's image search algorithms which proved very succesful. All these developments influenced the dissemination and re-interpretation of Sander's work.
+Sie vergleichen die Ergebnisse einer Suche mit zwei verschiedenen Webressourcen: Google Images und Pinterest.
+Bevor Sie mit Ihrer Websuche beginnen, können Sie Ihre Suchkompetenzen anhand der folgenden Dokumente/Clips verbessern:
+- In [diesem Clip](https://youtu.be/BNHR6IQJGZs){:target="_blank"} ist dargestellt, wie die Suchmaschine von Google funktioniert.
+
+Beim Ansehen dieses zugänglichen und leicht verständlichen Lernvideos ist zu bedenken, dass dieses von Google und damit einem kommerziellen Unternehmen produziert wurde. Die Vormachtstellung dieses Konzerns wird von Menschen infrage gestellt, die über die Konzentration von Macht und die potenzielle Verwendung zum Nachteil kleinerer Mitbewerber besorgt sind. Weiterführende Informationen zu diesem Thema bieten die nachfolgenden [Reportagen über die Anwendung des Kartellrechts gegen Google in den USA](https://www.bloomberg.com/news/videos/2018-05-22/google-s-illegal-search-gets-prime-time-tv-treatment-video){:target="_blank"}.
+
+- Kurze Erläuterung zur [Funktionsweise von Google Images](https://youtu.be/oJzD4vF5dFA){:target="_blank"}. 
+- Clip mit Erläuterungen zur [Funktionsweise des sozialen Mediums Pinterest](https://youtu.be/oJzD4vF5dFA){:target="_blank"}.
+- Nachfolgend wird erläutert, [wie sich Details der Veröffentlichung von Online-Inhalten zurückverfolgen lassen](https://www.makeuseof.com/tag/find-date-published-post-insanely-simple-tips/){:target="_blank"}.
+
+Nicht jedes Veröffentlichungsdatum lässt sich über einen Link zurückverfolgen. Wenn Sie die frustrierende Erfahrung von Versuch und Irrtum vermeiden wollen, dann werfen Sie zuerst einen Blick auf dieses PDF-Dokument [cit](what-works-and-what-doesnot), in dem die vorgenannten Tipps erfolgreich auf ein Foto aus Sanders Sammlung angewandt wurden.
 
 <!-- section -->
-### 7.a Access to August Sander's portraits through Google and Pinterest
+
+### 7.a Zugang zu August Sanders Porträts über Google und Pinterest
 <!-- section-contents -->
-You are going to compare search results.
 
-Before you start your websearch, here are some links to documents/clips that offer some basic knowledge on the tools/resources:
-- Here is clip about how [Google's search engine works](https://www.youtube.com/watch?v=BNHR6IQJGZs)
-- Here is a short explanation on [how Google Images works](https://www.dummies.com/education/internet-basics/knowing-google-images-basics/)
-- Here is an explanation on the history and objective of [Pininterest](https://en.wikipedia.org/wiki/Pinterest)
-- Here is an explanation how to trace down details on when online content has been published  
-https://www.makeuseof.com/tag/find-date-published-post-insanely-simple-tips/
-
-- First use the [google picture search](9https://images.google.com) with the name August Sander  
-- Then open a new tab and do the same with the [social media website Pininterest](https://www.pinterest.de/search/pins/?q=August%20Sander&rs=typed&term_meta[]=August%7Ctyped&term_meta[]=Sander%7Ctyped)
-- Compare the two tabs with each other - What are the differences?
-- Try to find out when Sander's photos were published online, by whom and with what reason
-
-Document your findings in your template
+- Führen Sie zunächst mit dem Namen eine Google Images-Suche durch. **August Sander**.
+- Öffnen Sie nun einen neuen Reiter und wiederholen Sie dies mit Social-Media-Website Pinterest.
+- Vergleichen Sie die beiden Reiter. Notieren Sie die Unterschiede auf Ihrer Vorlage. Berücksichtigen Sie folgende Aspekte:
+  - Die Stichwörter oben auf der Seite Metadaten/Tags
+  - Den Standard für die Größe der Fotos
+  - Die Metadaten jedes Fotos, die auf der Webseite abgebildet sind
+- Wählen Sie nun zwei Fotos, die auf beiden Webseiten zu sehen sind, und notieren Sie sich die Metadaten des Fotos, die erscheinen, wenn Sie darauf klicken:
+  - Suchen Sie nach einem Verweis auf den Ursprung des Fotos in seiner analogen Form.
+  - Versuchen Sie herauszufinden, wann das Foto online veröffentlicht wurde.
+  - Überprüfen Sie, ob es sich wirklich um ein Foto von August Sander handelt. 
 
 <!-- section -->
-### 7.b Comparing Associative Tagging
+
+### 7.b Associative Tagging
 <!-- section-contents -->
-- Now, without clicking on the individual pictures in the results page, either those from Google or from Pinterest, choose 5 portraits (groups, individuals, old, young, women, men)
-- Take a long look at them and give each a tag or name that comes to your mind. Document this in your template.
-- Meet up with a fellow student, compare your search results, your choices, and your tags.  
-- Complement each others tags with an additional assessment of the background of the people portrayed on the photo
-  - social class
-  - profession
-  - age
-- Which criteria did you use for labelling the photographs? Why did you label the pictures in this way? Discuss!
-- Take a look at Sander's folders, in which folder would Sander have put the photographs you chose?
-- Now click on the pictures, you will see how Sander labelled the pictures himself.
-- What does this tell you about your own perceptions and labels?
-- What does it tell you about August Sander’s view on society?
+
+- Verabreden Sie sich mit einem anderen Studierenden und bringen Sie beide Ihr Laptop mit.
+- Vergleichen Sie die Bilder, die auf der Pinterest-Website auf Ihrem eigenen Bildschirm angezeigt werden. Die Ergebnisse können abweichen, sofern sich Ihr Suchverlauf und Ihr Geostandort unterscheiden. Google speichert diese Informationen, um die Suchergebnisse möglichst präzise auf den Benutzer abzustimmen.
+- Wenn Sie wissen wollen, welche Faktoren unterschiedliche Suchergebnisse bewirken, dann sehen Sie sich diesen Blog eines [Unternehmens für Online-Marketing](https://www.lcn.com/blog/get-different-results-google-vs-location-users/){:target="_blank"} an.
+- Wählen Sie nun sechs Porträts (Gruppen, Individuen, Alte, Junge, Frauen, Männer) von Google oder Pinterest, ohne auf die einzelnen Bilder auf der Ergebnisseite zu klicken.
+- Machen Sie Platz auf Ihrer Antwortvorlage frei, erstellen Sie Screenshots dieser sechs Porträts und fügen Sie sie in die Vorlage ein.
+- Lassen Sie unter jedem Porträt etwas Platz für ein Textfeld. Die Anleitung zur Erstellung eines Screenshots finden Sie auf dieser Webseite von [Microsoft](https://support.microsoft.com/de-de/help/13776/windows-use-snipping-tool-to-capture-screenshots){:target="_blank"} bzw. für Mac-Computer auf dieser [Website](https://support.apple.com/de-de/HT201361#earlier){:target="_blank"}.
+- Arbeiten Sie nun einzeln. Sehen Sie sich die Porträts auf Ihrem eigenen Laptop an und versehen Sie jedes Porträt mit einem assoziativen Tag bzw. dem ersten Wort, das Ihnen in den Sinn kommt.
+- Versuchen Sie nun, Alter, Beruf und soziale Klasse des/der Menschen auf den Porträts zu erraten. Fügen Sie diese Angaben in das Textfeld ein.
+- Vergleichen Sie Ihre Ergebnisse nach Fertigstellung mit dem anderen Studierenden.
+- Haben Sie eine Erklärung für die Unterschiede? Diskutieren Sie, warum Sie die Bilder auf diese Weise gekennzeichnet haben. 
+- Klicken Sie nun auf die Bilder und versuchen Sie, die ursprünglichen Beschreibungen der Porträts zu ermitteln. Fügen Sie diese Angaben in die Textfelder ein.
+- Möglicherweise haben Sie Schwierigkeiten, die Original-Metadaten zurückzuverfolgen. Ihre Suche kann Folgendes ergeben:
+  - Sie gelangen zu einer Website mit den Originalangaben auf dem Foto, seinen Ursprüngen, dem Inhalt sowie dem Grund und dem Zeitpunkt der Online-Veröffentlichung.
+  - Sie gelangen zu einer Website, die zwar keine Informationen über dieses besondere Foto, doch allgemeine Informationen über ein dieses Foto enthaltendes Buch umfasst.
+  - Sie gelangen zu einer Website, auf der das Foto wiederverwendet wurde, allerdings ohne Hinweise darauf, was abgebildet ist, wann und wie es geschaffen und wiederverwendet und online veröffentlicht wurde. Dieses Phänomen wird als „Entkontextualisierung“ bezeichnet. Das digitale Objekt wird aus seinem ursprünglichen Entstehungskontext und der archivalischen Geschichte herausgerissen. Sofern Sie von Ihrer Aufgabe ein PDF-Dokument angefertigt und dieses ohne Verweis auf das Originalwerk online veröffentlicht hätten, hätten sie ebenfalls zur Entkontextualisierung von Sanders Werken beigetragen. Um diese Prozesse unter Kontrolle zu halten, ist die korrekte Referenzierung unerlässlich.
 
 <!-- section -->
-### 7.c Printing Books
-<!-- section-contents -->
-How were the photos integrated into the book in 1971?
-First Book
-Last Book
-(see also internet ARchive)
 
-<!-- section -->
-### 7.d Where it all began: The Intention of the artist
+### Empfehlungen Lektüre/Video
 <!-- section-contents -->
-how did Sander create this collection?
-Technology, place and social approach (what were his sources?)
 
-<!-- section -->
-### reading/viewing suggestions
-<!-- section-contents -->
- "Zigeuner" sehen. Fotografische Expeditionen am Rande Europas
+"Zigeuner" sehen. Fotografische Expeditionen am Rande Europas
 in: Herbert Uerlings/Iulia-Karin Patrut (Hg.): "Zigeuner" und Nation. Repräsentation - Inklusion - Exklusion, Frankfurt am Main 2008
 
-
 <!-- briefing-teacher -->
+

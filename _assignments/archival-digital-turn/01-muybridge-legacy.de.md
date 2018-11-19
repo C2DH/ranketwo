@@ -28,7 +28,7 @@ Eadweard Muybridge schuf die Grundlage für die Entwicklung der Kinematografie, 
 
 <!-- briefing-student -->
 
-### 1.a **[TO TRANSLATE]** The original technology used by Muybridge | 20 min
+### 1.a **[TO TRANSLATE]** The original technology used by Muybridge | 20 Min
 <!-- section-contents -->
 
 To capture images, Muybridge introduced a new technology.
@@ -49,7 +49,7 @@ Answer the following questions:
 
 <!-- section -->
 
-### 1.b Wiederverwendung des Materials von Muybridge: Vater des GIF? | 30 min
+### 1.b Wiederverwendung des Materials von Muybridge: Vater des GIF? | 30 Min
 <!-- section-contents -->
 
 Muybridge wurde mehrfach als Vater des GIF, einer noch sehr jungen Erfindung in Zusammenhang mit digitaler Technologie, bezeichnet. Dieser Vergleich zeigt, wie vorhandene Grundsätze angepasst und in neuen Formen wiederverwendet werden. Außerdem wirft er die Frage auf, ob es hier um das Original eines Kunstwerks oder Innovation geht. Gleiches trifft selbstverständlich im Hinblick auf historische Quellen zu.

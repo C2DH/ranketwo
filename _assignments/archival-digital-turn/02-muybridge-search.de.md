@@ -19,7 +19,7 @@ Das Auffinden von Inhalten zu Eadweard Muybridge im Web hängt teilweise davon a
 
 <!-- briefing-student -->
 
-### Anleitung
+### Anweisungen
 <!-- section-contents -->
 
 Machen Sie sich zunächst etwas mit der Funktionsweise von Suchmaschinen vertraut:
@@ -28,7 +28,7 @@ Machen Sie sich zunächst etwas mit der Funktionsweise von Suchmaschinen vertrau
 
 <!-- section -->
 
-### 2.a Google im Vergleich zu Yahoo | 30 min
+### 2.a Google im Vergleich zu Yahoo | 30 Min
 <!-- section-contents -->
 
 - Öffnen Sie zwei Browser-Fenster auf Ihrem Bildschirm  eines mit Google und eines mit Yahoo  und führen Sie in beiden Fenstern eine Suche mit dem Stichwort Eadweard Muybridge durch.
@@ -38,7 +38,7 @@ Machen Sie sich zunächst etwas mit der Funktionsweise von Suchmaschinen vertrau
 
 <!-- section -->
 
-### 2.b Änderung Ihrer Einstellungen | 20 min
+### 2.b Änderung Ihrer Einstellungen | 20 Min
 <!-- section-contents -->
 
 - Auch die Einstellungen Ihrer Suchmaschine beeinflussen die Ergebnisse Ihrer Websuche. Wenn Sie beispielsweise die Sprache ändern, können Sie andere Ergebnisse erhalten.

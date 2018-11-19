@@ -5,7 +5,7 @@ authors:
   - estelle-bunout
   - marten-during
 lang: fr
-title: "The Digitisation of Newspapers: how to turn a page?"
+title: "La numérisation des journaux : comment tourner la page"
 cover:
 tags:
   - media history
@@ -13,112 +13,121 @@ tags:
   - conversion from analogue to digital
 requirements: Fast WIFI connection, scissors and paper
 outcomes:
- - Understand how the process works of selection, digitization and online publishing of newspapers
- - Understand what changes occur when newspapers are turned from paper to digital files
- - Understand what the affordances are of online access to massive amounts of digitized newspapers
+  - "[TO TRANSLATE] Understanding how the process of selection, digitisation and online publishing of newspapers works" 
+  - "[TO TRANSLATE] Understanding what changes occur when newspapers are transformed from print to digital files"
+  - "[TO TRANSLATE] Understanding the merits of online access to large volumes of digitised newspapers"
 documents:
- - tom-tryniski
+  - tom-tryniski
+  - interface-luxembourgensia
 order: 6
 ---
-Newspapers have become an important media since the 19th century and offer valuable information about events and opinions in our past and present societies. The massive digitization of newspapers, ongoing in many (national) libraries, holds the promise a bonanza of data for historical research. However, in the process of creating online access to digitized newspaper, choices are made and changes occur that affect the informational and artefactual value of a source, and which historians should be able to identify and understand. What appears on your screen at home, is quite different from what you can hold in your hand in the archive.
-Moreover, National Libraries deal with all kinds of financial, legal and technical constraints, which together with their own institutional history, determine their digitization policy. Some libraries outsource the work of processing and exploiting the data through public-private partnerships with companies. This assignment covers two approaches: 1. You are asked to consider the choices made and technologies used for the digitization and online publication of various newspapers, 2. You will explore the diversity of news covergage and exploit the opportunities of online access to newspapers by conducting comparative research.
+
+Depuis le XIXe siècle, les journaux sont devenus un média de premier plan. Ils offrent de précieuses informations sur les événements et les opinions des sociétés du passé comme dans celles du présent. La numérisation à grande échelle des journaux, qui est aujourd’hui entreprise dans de nombreuses bibliothèques (nationales), est une véritable aubaine pour la recherche historique de données. Toutefois, au cours du processus de création d’un accès en ligne à des journaux numérisés, des choix doivent être faits qui modifient et affectent la valeur informationnelle et artefactuelle des sources. Les historiens doivent donc être en mesure d’identifier et de comprendre ces modifications. Ce qui s’affiche sur votre écran à la maison est relativement différent de ce que vous pouvez tenir entre les mains dans les archives. De plus, les bibliothèques nationales doivent faire face à toutes sortes de contraintes financières, juridiques et techniques qui, associées à l’histoire institutionnelle qui leur est propre, déterminent leur politique de numérisation. Certaines bibliothèques externalisent les travaux de traitement et d’exploitation des données grâce à des partenariats public-privé avec des entreprises. Cet exercice couvre deux approches : 1. On vous demande de considérer les choix effectués et les technologies utilisées pour la numérisation et la publication en ligne de différents journaux ; 2. Vous allez explorer la diversité de la couverture des actualités et exploiter les opportunités d’accès à des journaux en ligne en effectuant une recherche comparative.
 
 [card](tom-tryniski)
 
 <!-- more -->
+
 <!-- briefing-student -->
-### Instruction
 
+### Instructions
 <!-- section-contents -->
-To sensitize you to the subject of digitization of newspapers, watch these clips on two large scale digitization projects, one in the Unites States that discusses all the aspects of the goal of the project and the digitization process: [Chronincling America](https://www.youtube.com/watch?v=LclIm9s7Iho), and one in Europe, [Europeana Newspapers](https://www.youtube.com/watch?v=5G6v00Z8CyQ) that is meant for promotion of the project. Also watch the [clip about retired engineer Tom Tryniski](https://www.youtube.com/watch?v=KVWDX6oaYCg&feature=youtu.be), who took up the task of digitizing a gigantic corpus of newspapers and offering them online free of charge.
 
-Then go through the key questions that should be asked when applying source criticism to digitized newspapers:
+Pour une introduction générale au sujet de la numérisation des journaux, regardez ces vidéos sur deux projets de numérisation à grande échelle, une sur le projet [Chronicling America](https://www.youtube.com/watch?v=LclIm9s7Iho){:target="_blank"} aux États-Unis, qui aborde les différents aspects du projet et son processus de numérisation, et une produite en Europe pour assurer la promotion du projet [Europeana Newspapers](https://www.youtube.com/watch?v=5G6v00Z8CyQ){:target="_blank"}. Regardez aussi la [vidéo concernant l’ingénieur à la retraite, Tom Tryniski](https://www.youtube.com/watch?v=KVWDX6oaYCg&feature=youtu.be){:target="_blank"}, qui a décidé de numériser un gigantesque corpus de journaux et de les proposer gratuitement à la consultation en ligne.
 
-Selection
+Examinez ensuite les questions majeures à se poser lorsqu’on applique la critique de la source aux journaux numérisés :
 
-- Why was this collection selected for digitization?
-- Is it complete? Which part of the collection is covered?
-- Is it representative?
+Sélection
 
-Transformation from analogue to digital source
+- Pourquoi cette collection a-t-elle été sélectionnée pour être numérisée ?
+- Est-elle complète ? Quelle partie de la collection est couverte ?
+- Est-elle représentative ?
+ 
+Transformation d’une source analogique en source numérique
 
-- How were the newspaper processed? Have all newspapers titles been processed in the same way?
-- What is the appearance of the original newspaper? Are they in black and white or in color? What is the color of the paper? Is this visible on your screen?
-- Was the digitisation carried out from microfilms or from hard copies?
-- What color makes the reading easier in the digital form?
-- How does digitization handle differences between newspapers coming from different periods?
+- Comment ces journaux ont-ils été traités ? Tous les titres de journaux ont-ils été traités de la même manière ?
+- À quoi ressemblent les journaux originaux ? Sont-ils en noir et blanc ou en couleur&nbsp;? Quelle est la couleur du papier ? Est-ce visible sur votre écran ?
+- La numérisation a-t-elle été réalisée à partir de microfilms ou d’exemplaires papier ?
+- Quelles sont les couleurs qui les rendent plus faciles à lire sous forme numérique&nbsp;?
+- Comment la numérisation gère-t-elle les différences entre des journaux de différentes périodes ?
 
-Retrieval
+Extraction
 
-- Are the newspapers searchable? Can we apply full text search on their content?
-- What is the quality of the Optical Character Recognition process?
-- Has article segmentation been applied? Can we search within advertisements, images ?
+- Les journaux sont-ils interrogeables ? Peut-être effectuer une recherche dans l’intégralité du texte qu’ils contiennent ?
+- Quelle est la qualité du processus de reconnaissance de caractères (OCR) ?
+- La segmentation des articles a-t-elle été appliquée ? Peut-on effectuer des recherches dans les publicités et les images ?
 
+**Instructions**
+
+Vous allez découvrir comment et pourquoi les journaux sont numérisés, ainsi que les conditions nécessaires pour pouvoir les consulter en ligne. Du fait de la diversité des approches des projets de numérisation et de Web design, ainsi que de la possible méconnaissance des archives en ligne, il est possible qu’au terme de cet exercice, l’arbre cache la forêt.  
+Pour vous donner un exemple du type de réponses attendues par rapport à ces questions, et de la signification des variables du tableau, nous avons créé une réponse modèle sur la base des archives de journaux en ligne du Luxembourg, eluxemburgensia.lu, et du journal Tageblatt.
+- Ouvrez ce PDF [cit](interface-luxembourgensia), imprimez-le et utilisez-le comme référence pour rechercher d’autres journaux.
 
 <!-- section -->
-### 6.a Who digitizes, with what purpose and how is access arranged?   
+
+### 6.a Qui numérise, dans quel but et comment l’accès est-il organisé ?
 <!-- section-contents -->
-You are going to find out how this is arranged for a number of collections.
 
-- A list of initiatives across the globe has been collected on [wikipedia](https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives):
-- What projects have been completed or are ongoing in your own country?
+- Une liste d’initiatives, dans le monde entier, a été rassemblée sur [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives){:target="_blank"}. Quels projets ont été menés ou sont en cours dans votre pays ?
+- Cliquez sur les liens vers les collections suivantes de journaux numérisés, parcourez leur contenu et choisissez deux journaux dans une langue que vous maîtrisez.
 
-- Open up the links to the following collections, browse throught the content, and choose at least two newspapers in a language you feel comfortable with.
-
-Complete the table in your template with the answers to the following questions:
-- What type of institution carried out the digitisation? public/private, for commercial/academic/preservation purpose?
-- How can you access these collections?
-- Is a subscription needed? Is there distant access or is it limited to the premisses of the institution?
-- Is there a dedicated interface for the digitised newspapers or is the interface common to other sources, such as books and images?
-- Where do the titles come from? In which languages are they available? Are there some special sub-collections?
-- What information is provided on each individual title by the institution?
-
-|     | 1. Institution | 2. Type of access | 3. Interface | 4. Collection specificities | 5. Metadata title
+|     | 1. Institution | 2. Type d’accès | 3. Interface | 4. Spécificités de la collection | 5. Titre des métadonnées
 | --- | -------------- | ----------------- | ------------ | --------------------------- | -----------------
-| [Europeana newspapers](http://www.europeana-newspapers.eu) (multilingual) |   |   |   |  
-| [E-Newspapers CH](http://www.onlinenewspapers.com/switzerl.htm) (FR+DE)   |   |   |   |  
-| [Gallica](https://gallica.bnf.fr/html/und/presse-et-revues/presse-et-revues)(FR)  |   |   |   |  
-| [Retronews](https://www.retronews.fr)(FR) |   |   |   |  
-| [ProQuest](https://www.proquest.com/products-services/pq-hist-news.html)(EN)|   |   |   |  
-| [Chronicling America](https://chroniclingamerica.loc.gov)(EN)|   |   |   |  
-| [Delpher](https://www.delpher.nl) (NL)|   |   |   |  
-| [ANNO](http://anno.onb.ac.at/anno-suche#searchMode=simple&from=1)(DE)|   |   |   |  
-| [Zeitungsportal DDR-Presse](http://zefys.staatsbibliothek-berlin.de/ddr-presse/) (DE) |   |   |   |
+| [Europeana newspapers](http://www.europeana-newspapers.eu){:target="_blank"} (multilingue) |   |   |   |  
+| [E-Newspapers CH](http://www.onlinenewspapers.com/switzerl.htm){:target="_blank"} (FR+DE)   |   |   |   |  
+| [Gallica](https://gallica.bnf.fr/html/und/presse-et-revues/presse-et-revues){:target="_blank"}(FR)  |   |   |   |  
+| [Retronews](https://www.retronews.fr){:target="_blank"}(FR) |   |   |   |  
+| [ProQuest](https://www.proquest.com/products-services/pq-hist-news.html){:target="_blank"}(EN)|   |   |   |  
+| [Chronicling America](https://chroniclingamerica.loc.gov){:target="_blank"}(EN)|   |   |   |  
+| [Delpher](https://www.delpher.nl){:target="_blank"} (NL)|   |   |   |  
+| [ANNO](http://anno.onb.ac.at/anno-suche#searchMode=simple&from=1){:target="_blank"}(DE)|   |   |   |  
+| [Zeitungsportal DDR-Presse](http://zefys.staatsbibliothek-berlin.de/ddr-presse/){:target="_blank"} (DE) |   |   |   |
+
+Complétez le tableau dans votre modèle avec les réponses aux questions suivantes :
+- Quel type d’institution a réalisé la numérisation ? Public/privé, dans un but commercial/universitaire/de conservation ?
+- Comment pouvez-vous accéder à ces collections ?
+- Un abonnement est-il nécessaire ? L’accès est-il possible à distance ou est-il limité aux locaux de l’institution ?
+- L’interface est-elle dédiée aux journaux numérisés ou est-elle commune avec d’autres sources, telles que livres et images ?
+- D’où viennent les titres ? En quelles langues sont-ils disponibles ? Existe-t-il des sous-collections particulières ?
+- Quelles sont les informations fournies par l’institution sur chaque titre ?
 
 <!-- section -->
-### 6.b The newspaper as historical source
+
+### 6.b Le journal en tant que source historique
 <!-- section-contents -->
 
-Newspapers are published regularly and collected on a daily or weekly basis, representing events that take place in society. One may find a great diversity of newspapers, with sometimes unexpected titles or languages in a national library’s collection. For instance, in the Austrian national library, we can find newspapers printed throughout the former Austro-hungarian empire until 1918. In the Polish national library, we find newspapers reflecting the presence of specific cultural communities in the past, written in hebrew, yiddish, russian, and german. This item in the [news website gizmodo about newspapers with an old tradition](https://io9.gizmodo.com/the-worlds-oldest-newspapers-still-being-published-tod-1369904730) illustrates the continuity of some newspapers. It is striking to see the difference in appearance. Reading the newspaper is also a practice that contributes to a sense of national identity. You will be comparing paper to digital newspapers and the representation of events over time.
+Les journaux sont publiés régulièrement et recueillis quotidiennement ou de façon hebdomadaire, afin de présenter des événements de la société. Dans une collection de bibliothèque nationale, on trouve habituellement une grande variété de journaux, avec quelquefois des titres ou dans des langues inattendus. Par exemple, dans la Bibliothèque nationale autrichienne, on peut trouver des journaux imprimés sous l’ancien Empire austro-hongrois jusqu’en 1918. Dans la Bibliothèque nationale polonaise, il y a des journaux qui reflètent la présence de communautés culturelles spécifiques par le passé, écrits en hébreu, yiddish, russe et allemand. Cet article sur le [site web d’actualité Gizmodo au sujet des journaux à longue durée de vie](https://io9.gizmodo.com/the-worlds-oldest-newspapers-still-being-published-tod-1369904730){:target="_blank"} illustre la continuité de certains journaux. Il est frappant de voir la différence d’apparence entre les journaux anciens et actuels. Lire un journal est aussi une pratique qui contribue au sentiment d’identité nationale. Vous comparerez les journaux imprimés aux journaux numérisés et la représentation des événements au fil du temps.
 
-- Collect articles on two events and recreate the chronology of these events, using one newspaper title in paper of a recent event, and one in digital form of the past.
+- Recueillez des articles sur deux événements, sous forme imprimée ou numérique, et recréez la chronologie de ces événements.
 
-For the “hard-copy” search: go to the library and collect articles on that event from the available newspapers  (suggestions: an election, a sports event, an art performance such as a concert etc.)
+Pour la recherche « sur papier », allez à la bibliothèque et rassemblez des articles sur cet événement dans les journaux disponibles (suggestions : une élection, un événement sportif, une performance artistique telle qu’un concert, etc.).
 
-For the digitised version, choose a historical event, such as the Titanic cruise/catastrophe, the assassination of Archduke Franz Ferdinand of Austria in 1914, the publication of Anne Frank's diary in 1952, the Woodstock festival of 1969, the Watergate scandal in 1974, the fall of the Berlin Wall in 1989.
+Pour la version numérisée, choisissez un événement historique tel que le naufrage du Titanic, l’assassinat de l’archiduc François-Ferdinand d’Autriche en 1914, la publication du Journal d’Anne Frank en 1952, le festival de Woodstock en 1969, le scandale du Watergate en 1974 ou la chute du Mur de Berlin en 1989.
 
-For each, collect
-- 3 articles published before (anticipation), during (description), after (comments, consequences),
-- For the digital sources: search for 3 articles commemorating this event 10, 20, 100 years after.
-
-- Complete the tables in your template
-
-- Write a short essay of about 500 words on your findings, based on the answers to these questions:
-- What has changed in the perception of the event/actors/situation? (short term, long term)
-- What are the main differences between collecting articles from paper newspapers and digitised newspapers? (sitting behind your screen, going to the archive/library)
+- Pour chacun, recueillez :
+  - Trois articles publiés avant (anticipation), pendant (description) et après (commentaires, conséquences) l’événement.
+  - Pour les sources numérisées : cherchez trois articles commémorant cet événement 10, 20 et 100 ans après.
+&nbsp;
+- Complétez les tableaux dans votre modèle.
+- Rédigez un court essai d’environ 500 mots sur vos découvertes, en vous basant sur les réponses à ces questions :
+  - Qu’est-ce qui a changé dans la perception de l’événement/des personnes impliquées/ de la situation ? (court terme, long terme)
+  - Quelles sont les principales différences entre le recueil d’articles dans des journaux imprimés et dans des journaux numérisés ? (assis devant votre écran, en allant aux archives/à la bibliothèque)
 
 <!-- section -->
-### 6.c The newspaper and the website as sources of knowledge
+
+### 6.c Les journaux et les sites web en tant que sources de connaissances
 <!-- section-contents -->
-Depeding on your age and education, you will be accustomed to specific kinds of news, either television, radio, newspapers, news feeds through your mobile phone, or websites that publish news. This assignment asks you to reflect on the sources of your knowledge on current cultural, economical and political developments.
-- Choose a current topic or event and compare how it is represented in a paper newspaper, a news website, a newsreel on the radio and on the television.
-- Complete the table in your template on the basis of these key questions:
-- Why have you chosen these particular news sources?
-- Do you trust these sources?
-- What is your trust based on?
+
+En fonction de votre âge et de votre parcours scolaire, vous serez habitué à des types spécifiques d’actualités : télévision, radio, journaux, nouvelles fournies par l’intermédiaire de votre téléphone portable ou de sites web qui publient des informations d’actualité. Cet exercice vous demande de réfléchir aux sources de vos connaissances sur les faits culturels, économiques et politiques actuels.
+- Choisissez un sujet ou un événement actuel et comparez la façon dont il est présenté dans un journal imprimé, sur un site web d’information, dans les actualités à la radio ou à la télévision.
+- Complétez le tableau dans votre modèle sur la base de ces questions clés :
+  - Pourquoi avez-vous choisi ces sources de nouvelles particulières ?
+  - Faites-vous confiance à ces sources ?
+  - Sur quoi est basée votre confiance ?
 
 <!-- section -->
-### Reading/viewing suggestions
+
+### Suggestions de lectures/vidéos
 <!-- section-contents -->
 
 <!-- briefing-teacher -->

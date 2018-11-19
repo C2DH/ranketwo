@@ -2,7 +2,7 @@
 layout: assignment
 unit: archival-digital-turn
 lang: de
-title: The Western European Union; analyzing the digital documents of the 'Sleeping Beauty'    
+title: Westeuropäische Union; Analyse der digitalen Dokumente der „schlafenden Schönheit“
 cover:
 authors:
   - florentina-armaselu
@@ -10,77 +10,92 @@ tags:
   -  compare data in paper and digital form
 requirements: Location and permission (probably, to be obtained by the lecturer beforehand) allowing the students to visit ANLUX and to consult the collection, Internet access to the digital edition and the related materials.
 outcomes:
-- Understand and conceptualise the differences/similarities and the factors at play in the transformation process from paper to digital historical sources.
+  - "[TO TRANSLATE] Understanding and conceptualising the differences/similarities and the factors at play in the transformation process from print to digital historical sources"
 order: 5
 documents:
   - owens-sources-evidentiary-digital-history
 ---
 
-When instituions cease to exist, they often hand over their papers to an archive to preserve the history of their existence. This was the case with the Western European Union (WEU), an organisation for military collaboration within Europe, set up in 1954 with the goal of creating a Europen Army that would integrate Germany, a condition that was seen as crucial to prevent the outbreak of a next war. The WEU existed aside the more powerful North Atlantic Treatee with the US in the lead. Its share in international military operations was therefore modest, which is symbolized by its nickname 'The sleeping beauty'. The WEU's documents were handed over to the Luxembourg national archives and digitised to be published online. They form the basis for this assignment, which is meant to teach you how a paper collection of institutional documents in French is turned into machine readable content that you can consult through your screen.   
+Wenn Institutionen aufgelöst werden, übergeben sie ihre Dokumente häufig an Archive, um die Geschichte ihres Wirkens zu erhalten. Ein Beispiel hierfür ist die Westeuropäische Union (WEU), ein kollektiver militärischer Beistandspakt, der 1954 gegründet wurde, um einen Rahmen für die europäische Verteidigung unter Einbezug Deutschlands zu schaffen. Letzteres wurde als wichtige Voraussetzung zur Verhinderung eines künftigen Kriegs betrachtet. Die WEU führte eine Koexistenz mit der mächtigeren Organisation des Nordatlantikpakts (NATO) unter Federführung der USA. Demgemäß spielte sie bei internationalen militärischen Operationen nur eine untergeordnete Rolle, wie anhand ihres Beinamens „schlafende Schönheit“ zum Ausdruck kommt. Die Dokumente der WEU wurden dem Luxemburger Nationalarchiv übergeben und mit Blick auf eine Online-Veröffentlichung digitalisiert. Diese Dokumente sind Gegenstand dieser Aufgabe, die aufzeigt, wie sich eine Sammlung papiergebundener institutioneller Dokumente in Französisch in maschinenlesbare Inhalte umwandeln lässt, die Sie auf Ihrem Bildschirm einsehen können.
+
 <!-- more -->
 
 <!-- briefing-student -->
-### Instruction
+
+### Anweisungen
 <!-- section-contents -->
 
-Read the [foreword and the introduction to the corpus of the WEU](https://www.cvce.eu/en/recherche/unit-content/-/unit/72d9869d-ff72-493e-a0e3-bedb3e671faa/fe555bab-5322-410b-98e5-96469d1a7de0) on the site of the Centre Virtuel de la Conaissance Europenne. This centre is now part of the Luxembourg Centre for European and Digital History. To have an idea of what kind of people discussed matters and created documents, watch a clip of a [meeting of members of the WEU in 1960 in Brussels](http://ec.europa.eu/avservices/play.cfm?ref=I001677&lg=MUE&sublg=none&autoplay=false) Compare it with [a meeting in Paris in 1997](https://www.youtube.com/watch?v=iFjISWWzZUY)
-The texts and the clips will give you an impression of the type of organisation and of the documents it produced.
+Lesen Sie das [Vorwort und die Einleitung zum WEU-Korpus](https://www.cvce.eu/de/recherche/unit-content/-/unit/72d9869d-ff72-493e-a0e3-bedb3e671faa/fe555bab-5322-410b-98e5-96469d1a7de0){:target="_blank"} auf der Website des Centre Virtuel de la Connaissance sur l’Europe (CVCE). Das CVCE ist inzwischen Bestandteil des Luxembourg Centre for Contemporary and Digital History. Einen Eindruck davon, welche Personen Diskussionen führten und Dokumente generierten, verschafft der Clip einer [Zusammenkunft von Mitgliedern der WEU im Jahr 1960 in Brüssel](http://ec.europa.eu/avservices/play.cfm?ref=I001677&lg=MUE&sublg=none&autoplay=false){:target="_blank"}. Vergleichen Sie dies mit [einem Treffen im Jahr 1997 in Paris](https://www.youtube.com/watch?v=iFjISWWzZUY){:target="_blank"}.
 
+Die Texte und Clips vermitteln Ihnen eine Vorstellung davon, was für eine Organisation die WEU war und welche Art von Dokumenten sie hervorbrachte.
 
 <!-- section -->
-### 4.a Exploring diplomatic documents of the Western European Union online and in the archive | 180 min |
+
+### 5.a Durchsicht diplomatischer Dokumente der Westeuropäischen Union online und in den Archiven | 180 Min
 <!-- section-contents -->
 
-In the section Instruction, you have read and watched content that explains and shows the historical dimension of the WEU and its archive.
-In this assignment the focus is on comparing the analog with the digital version of the collection. To understand how the corpus was processed and made machine readable, you will first read two articles and then explore the WEU's documents on armament issues (generically called WEU-Diplo, for reference purposes). This is supposed to be done in two places: on the Web and at the premises of the Archives nationales de Luxembourg (ANLUX). If you are not able to visit the archive, you can limit your search to the web.
+Im Abschnitt mit Anweisungen haben Sie Inhalte gelesen und angesehen, die die historische Dimension der WEU und ihrer Archive erläutern und aufzeigen.
 
-First read [Trevor Owens’ article on digital sources and digital archives](http://www.trevorowens.org/2015/12/digital-sources-digital-archives-the-evidentiary-basis-of-digital-history-draft/)
-Then read section 1 to 3 of this [article published by the CVCE](https://journals.openedition.org/jtei/1463#tocto2n1) about how the method of [text encoding](http://www.tei-c.org) was used to make the WEU- corpus suitable to publish online.   
+Schwerpunkt dieser Aufgabe ist der Vergleich zwischen der analogen und der digitalen Version der Sammlung. Um zu verstehen, wie das Korpus verarbeitet und maschinenlesbar gemacht wurde, lesen Sie zunächst zwei Artikel und gehen dann die Dokumente der WEU zu Rüstungsfragen durch (diese Archive werden zu Referenzzwecken generell als WEU-Diplo bezeichnet). Sie führen dies an zwei Orten durch: im Web und in den Räumlichkeiten des Luxemburger Nationalarchivs (ANLux). Sollte Ihnen ein Besuch der Archive nicht möglich sein, können Sie sich auf die Suche im Web beschränken. 
 
-Note the answers to the questions below in your template
-- What is WEU-Diplo?
-- What is the collection about and what period does it span?
-- Why was the corpus selected and by whom?
-- What criteria of selection have been applied?
-- What processing was necessary in the transformation from print to digital?
+Lesen Sie zunächst [Trevor Owens’ Artikel zu digitalen Quellen und digitalen Archiven](http://www.trevorowens.org/2015/12/digital-sources-digital-archives-the-evidentiary-basis-of-digital-history-draft/){:target="_blank"}.
+
+Lesen Sie im Folgenden Abschnitt 1 bis 3 dieses [vom CVCE veröffentlichten Artikels](https://journals.openedition.org/jtei/1463#tocto2n1){:target="_blank"} über das Verfahren der [Textkodierung](http://www.tei-c.org){:target="_blank"}, das mit Blick auf die Online-Veröffentlichung des WEU-Korpus angewendet wurde.
+
+Tragen Sie die Antworten auf die nachfolgenden Fragen in Ihre Vorlage ein:
+- Was ist WEU-Diplo?
+- Worum geht es in der Sammlung und welchen Zeitraum umspannt sie?
+- Warum wurde das Korpus ausgewählt und von wem?
+- Welche Auswahlkriterien fanden Anwendung?
+- Welche Verarbeitung war bei der Umwandlung der gedruckten in die digitale Form erforderlich?
 
 <!-- section -->
-### 4.b  From natural language to computer language | 180 min |
-<!-- section-contents -->
-Encoding the WEU-Diplo corpus in an XML-TEI format was only the first step in a whole chain. The next one was importing the XML-TEI into the CVCE [Back End / Front End system](https://www.youtube.com/watch?v=LzL4I4Pt7GU), this is further transformed into HTML, to create webpages, and published on the CVCE Website, in order to be visualised in the browser via a dedicated interface. [Here](https://www.cvce.eu/search?q=*&format=tei%2Bxml&publication=e7c423ed-a376-4a57-a415-f8519344e558) you can see the results of a search using the CVCE search engine. Find out how the information is organised on the screen (left/right):
 
-Note the answers to the questions below in your template:
-- What filters are used in the search?
-- To what publication does the corpus belong?
-- How many documents does the corpus contain?
-- What kind of information is available for each document in this view?
-
-<!-- section -->
-### 4.c Digging a layer deeper | 180 min |
+### 5.b Von natürlicher Sprache zu Computersprache | 180 Min
 <!-- section-contents -->
-Browse through the documents from the list to get an impression of the content.
-- Select a minimum of 5 documents of your choice to open and examine in more detail.
-- Write down your observations with regard to the questions below:
-- Can you identify any metadata for each document and what can you get to know through this type of information?
-- Does the interface provide any hints about how it should be used?
-- What features are available for visualisation and navigation through a document?
-- How have the documents been made searchable?
-- Can you relate any of these structural or search features to the encoding presented in the second article (point 2a)?
-- Is there any additional feature that you think is missing and would like to see provided with the interface? Why?
+
+Die Kodierung des WEU-Diplo-Korpus in ein XML-TEI-Format war nur der erste Schritt eines längeren Verfahrens. Im Folgenden wurde XML-TEI in das CVCE [Backend-/Frontend-System](https://www.youtube.com/watch?v=LzL4I4Pt7GU){:target="_blank"} importiert. Im Anschluss erfolgten die Umwandlung in das HTML-Format zur Erstellung von Webseiten und die Veröffentlichung auf der CVCE-Website, sodass es sich über eine spezielle Schnittstelle im Browser darstellen ließ. [Hier](https://www.cvce.eu/de/search?q=*&format=tei%2Bxml&publication=e7c423ed-a376-4a57-a415-f8519344e558){:target="_blank"} können Sie die Ergebnisse einer Suche mithilfe der CVCE-Suchmaschine einsehen. Finden Sie heraus, wie die Informationen auf dem Bildschirm strukturiert sind (links/rechts).
+
+Tragen Sie die Antworten auf die nachfolgenden Fragen in Ihre Vorlage ein:
+- Welche Filter werden bei der Suche verwendet?
+- Zu welcher Veröffentlichung gehört das Korpus?
+- Wie viele Dokumente enthält das Korpus?
+- Welche Informationen sind in dieser Ansicht für die einzelnen Dokumente verfügbar?
 
 <!-- section -->
-### 4.d Consult the documents from the list you have created on-site at the ANLUX | 240 min |
+
+### 5.c Vertiefung der Materie | 180 Min
 <!-- section-contents -->
-Take note of the:
-- particularities of the search and consultation process,
-- material characteristics of the documents themselves,
-- Keeping in mind the articles you have read (point 2.a), the questions above and the comparison with the digital edition published on the Website (points 2.b, 2.c), write a short essay (1 – 3 pages) about your findings.
+
+Gehen Sie die Dokumente der Liste durch und machen Sie sich ein Bild von den Inhalten.
+- Wählen Sie mindestens fünf beliebige Dokumente, die Sie öffnen und detaillierter untersuchen.
+- Notieren Sie Ihre Anmerkungen in Bezug auf die nachfolgenden Fragen:
+  - Können Sie für die einzelnen Dokumente Metadaten identifizieren? Was können Sie aus solchen Informationen lernen?
+  - Bietet die Schnittstelle Hinweise darauf, wie sie zu verwenden ist?
+  - Welche Funktionen sind verfügbar, um ein Dokument darzustellen und in diesem zu navigieren?
+  - Wie wurden die Dokumente durchsuchbar gemacht?
+  - Können Sie diese strukturellen Funktionen bzw. Suchfunktionen mit der im zweiten Artikel dargelegten Kodierung in Beziehung setzen (Punkt 2.a)?
+  - Gibt es zusätzliche Funktionen, die Ihres Erachtens fehlen und in die Schnittstelle integriert werden müssten? Warum?
 
 <!-- section -->
-### Reading/viewing  suggestions
+
+### 5.d Sehen Sie die Dokumente der Liste ein, die Sie vor Ort im Luxemburger Nationalarchiv erstellt haben | 240 min
 <!-- section-contents -->
-Trevor Owens, Digital Sources and Digital Archives, the evidentiary basis of Digital History, [ref](owens-sources-evidentiary-digital-history)
-Text Encoding Initiative:http://www.tei-c.org
-Florentina Armaselu, Verónica Martins, and Catherine Emma Jones (2016), [Materiality of TEI Encoding and Decoding: An Analysis of the Western European Union Archives on Armament Policy, Journal of the Text Encoding Initiative.] (https://journals.openedition.org/jtei/1463#tocto2n1)
+
+Berücksichtigen Sie Folgendes:
+- die Besonderheiten des Such- und Einsichtnahmeprozesses
+- die materiellen Eigenschaften der Dokumente selbst
+
+Fassen Sie Ihre Erkenntnisse in einem kurzen Aufsatz (1-3 Seiten) zusammen und beachten Sie dabei die von Ihnen gelesenen Artikel (Punkt 2.a), die vorstehenden Fragen und den Vergleich mit der auf der Website veröffentlichten digitalen Fassung.
+
+<!-- section -->
+
+### Reading/viewing suggestions
+<!-- section-contents -->
+
+- [ref](owens-sources-evidentiary-digital-history)
+- Text Encoding Initiative: [http://www.tei-c.org](http://www.tei-c.org){:target="_blank"}
+- Florentina Armaselu, Verónica Martins und Catherine Emma Jones (2016), [Materiality of TEI Encoding and Decoding: An Analysis of the Western European Union Archives on Armament Policy, Journal of the Text Encoding Initiative](https://journals.openedition.org/jtei/1463#tocto2n1){:target="_blank"}. 
 
 <!-- briefing-teacher -->
+

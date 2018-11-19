@@ -2,7 +2,7 @@
 layout: assignment
 unit: archival-digital-turn
 lang: fr
-title: Clinton's e-mails and Margaret's letters
+title: E-mails de Clinton et lettres de Thatcher
 cover:
 authors:
   - max-kemman
@@ -12,59 +12,74 @@ tags:
   - characteristics of letters and e-mails
 requirements: internet connection to look up emails from the wikileaks Hillary Clinton Email Archive
 outcomes:
-- understanding the difference between a letter and an email
-- understanding considerations of how to define an email as an object
+  - "[TO TRANSLATE] Understanding the difference between a letter and an email"
+  - "[TO TRANSLATE] Understanding how to define an email as an object"
 order: 4
 ---
-The practice of sending and receiving letters is decreasing considerably. While it seems to have been substituted by e-mail correspondance, there are considerable differences with regard to the technologies that are applied and the conventions on how the message should be worded. Letters and e-mails of people with political power are of special interest to the general public, as they show what goes on behind the scene. In this assignmen you will compare e-mails of Hillary Clinton that she was forced to disclose, to the digitized correspondance of former British prime minister Margaret Thatcher, that was published to honour her political legacy. As both politicians operated in a field of international relations, their correspondance is key to writing the history of their era. But as you will see, the context and options for communication in 1980 were quite different than those in 2008.
+
+L’envoi et la réception de lettres sont des pratiques qui se font de plus en plus rares. Alors qu’elles semblent avoir été remplacées par la correspondance électronique, il existe des différences importantes quant aux technologies utilisées et aux conventions de rédaction des messages. Les lettres et e-mails des personnes en position de pouvoir politique sont particulièrement intéressants pour le grand public, car ils révèlent ce qui se passe en coulisses. Dans cet exercice, vous comparerez les e-mails d’Hillary Clinton, qu’elle a été obligée de divulguer, et la correspondance numérisée de l’ancien Premier ministre britannique, Margaret Thatcher, publiée pour rendre hommage à son héritage politique. Ces deux femmes politiques ayant joué un rôle important dans les relations internationales, leur correspondance a participé à l’écriture de l’histoire de leur temps. Mais, comme vous le verrez, le contexte et les options de communication en 1980 étaient assez différents de ceux de 2008.
 
 <!-- more -->
 
 <!-- briefing-student -->
-### Instruction
+
+### Instructions
 <!-- section-contents -->
 
-- Have a look at this e-mail exchange between former [US secretary of state Hillary Clinton and Cherie Blair, the wife of former prime minister of the UK Tony Blair](https://wikileaks.org/clinton-emails/emailid/23) that refers to relations in Qatar.
-- Compare it with this message written in 1980 by [former prime minister of the UK Margaret Thatcher ](https://c59574e9047e61130f13-3f71d0fe2b653c4f00f32175760e96e7.ssl.cf1.rackcdn.com/801222%20MT%20to%20Zhaid%20%28529-163%29.pdf) to the crown prince of Qatar
-
+- Lisez cet échange d’e-mails entre l’ancienne [secrétaire d’État américaine, Hillary Clinton, et Cherie Blair, l’épouse de l’ancien Premier ministre du Royaume-Uni, Tony Blair](https://wikileaks.org/clinton-emails/emailid/23){:target="_blank"}, qui concerne des relations au Qatar.
+- Comparez-le au message rédigé en 1980 par [l’ancien Premier ministre du Royaume-Uni, Margaret Thatcher](https://c59574e9047e61130f13-3f71d0fe2b653c4f00f32175760e96e7.ssl.cf1.rackcdn.com/801222%20MT%20to%20Zhaid%20%28529-163%29.pdf){:target="_blank"} à l’attention du Prince héritier du Qatar.
 
 <!-- section -->
-### 4.a Comparing e-mails to letters: the creation of a source  
+
+### 4.a Comparaison d’e-mails et de lettres : la création d’une source  
 <!-- section-contents -->
 
-- Apply source criticism to both sources, if necessary conduct additional web research
-- Complete the table in your temaplate about the differences and similarities between the the messages of Hillary Clinton and of Margaret Thatcher.
+- Appliquez la critique de la source à ces deux sources. Si besoin, faites une recherche complémentaire sur le web.
+- Complétez le tableau de votre modèle concernant les différences et les similitudes entre les messages d’Hillary Clinton et ceux de Margaret Thatcher.
 
 <!-- section -->
-### 4.b Comparing e-mails to letters: the preservation of a source and its digital representation online
-<!-- section-contents -->
-A paper letter can be archived in a tangible place, a public or private archive or a library, where it can be consulted while holding it in one's hands. Otherwise, the e-mail is a digital born source, that can be shared with anyone once published online, but needs a hard disk or a server in order to be preserved.
 
-- Apply source criticism to both sources considering the way they have been preserved and processed in order to be accessible online.
-- Complete the table in your template about the differences and similarities between the two sources with regard to online publishing
+### 4.b Comparaison d’e-mails et de lettres : la préservation d’une source et sa représentation numérique en ligne 
+<!-- section-contents -->
+
+Une lettre sur papier peut être archivée dans un lieu tangible, des archives publiques ou privées. Elle peut être consultée et manipulée. Un e-mail est une source numérique par nature, qui peut être partagée avec n’importe qui une fois publiée en ligne, mais nécessite un disque dur ou un serveur pour être conservée.
+
+- Appliquez la critique de la source à ces deux sources, en examinant la façon dont elles ont été conservées et traitées afin d’être accessibles en ligne.
+- Complétez le tableau de votre modèle concernant les différences et les similitudes entre les deux sources en ce qui concerne leur publication en ligne.
 
 <!-- section -->
-### 4.c Preservation in the future  
+
+### 4.c Conservation à l’avenir
 <!-- section-contents -->
-- Imagine how the preservation of our e-mail correspondance, or social media exchange, could be preserved in order to be able to write the history of our era in 50 years time. How does the archive of the future look like?
-- Write down your answer in 100 words in your template.
+
+- Imaginez comment notre correspondance par e-mails ou nos échanges sur les réseaux sociaux pourraient être conservés de manière à pouvoir écrire l’histoire de notre époque dans 50 ans. À quoi ressembleraient les archives du futur ?
+- Rédigez votre réponse en 100 mots dans votre modèle.
 
 <!-- section -->
-### 4.d Intended and unintended audiences
-<!-- section-contents -->
-Besides addressing an intended audience, letters can also reach an unintended audience. Soldiers during the First World War knew their letters would be read by censors before they were sent out to their families. This prevented them from drawing a realistic picture of the war. Hillary Clinton set up a private email server, perhaps hoping she could discuss matters without the risk of disclosure online.
-Otherwise, the Margaret Thatcher Foundation digitized and published a selection of her private papers to honour her political legacy.
-- Are historians unintended audiences?
-- How long should the distance in time be before privacy no longer plays a role?
-- Do you consider unintended audiences when writing a letter or email?
-Answer these questions by going through the literature below, and write a short essay of 500 words.
 
+### 4.d Publics attendu et inattendu
+<!-- section-contents -->
+
+Même si les lettres sont écrites pour s’adresser à un public prévu, elles peuvent aussi toucher un public imprévu. Au cours de la Première Guerre mondiale, les soldats savaient que leurs lettres seraient lues par la censure avant d’être envoyées à leur famille. Cela les a empêchés de brosser un tableau réaliste de la guerre. Hillary Clinton a mis en place un serveur d’e-mails privé, espérant peut-être qu’elle pourrait discuter de certains sujets sans risque de divulgation en ligne.
+
+La Fondation Margaret Thatcher a numérisé et publié une sélection de ses documents privés pour rendre hommage à son héritage politique.
+
+- Les historiens sont-ils un public imprévu ?
+- Au bout de combien de temps la confidentialité n’est-elle plus prise en compte ?
+- Tenez-vous compte du public imprévu quand vous écrivez une lettre ou un e&#8209;mail&nbsp;?
+
+Répondez à ces questions en parcourant les textes ci-dessous et rédigez un court essai de 500 mots
 
 <!-- section -->
-### Reading/viewing suggestions
+
+### Suggestions de lectures/vidéos
 <!-- section-contents -->
-- Ozana Cucu Oancea, [Personal Documents as Data Sources for Social Sciences. A Review of History of Uses, Ethical, Methodological and Epistemological Considerations](https://www.researchgate.net/publication/271383447_Personal_Documents_as_Data_Sources_for_Social_Sciences_A_Review_of_History_of_Uses_Ethical_Methodological_and_Epistemological_Considerations)
-- Dobson, M. Letters. In M. Dobson & B. Ziemann (Eds.), Reading Primary Sources: The interpretation of texts from nineteenth- and twentieth-century history (pp. 57–73)(2009,Routledge)
-- Susan.C. Lawrence, Privacy and the past: Research, Law, Archives, Ethics (Rutgers University Press 2016) (chapter 1. Introduction, chapter 5. Managing Privacy; Historians at work,  and chapter 6. Conclusion: Resistance.
-- History Matters; Interpreting Letters and Diaries: http://historymatters.gmu.edu/mse/letters/
+
+- Ozana Cucu Oancea, [Personal Documents as Data Sources for Social Sciences. A Review of History of Uses, Ethical, Methodological and Epistemological Considerations](https://www.researchgate.net/publication/271383447_Personal_Documents_as_Data_Sources_for_Social_Sciences_A_Review_of_History_of_Uses_Ethical_Methodological_and_Epistemological_Considerations){:target="_blank"}.
+- Dobson, M. Letters. In M. Dobson & B. Ziemann (Eds.), Reading Primary Sources: The Interpretation of Texts from Nineteenth- and Twentieth-Century History (pp. 57–73)(2009,Routledge).
+- Susan C. Lawrence, Privacy and the Past: Research, Law, Archives, Ethics (Rutgers University Press 2016) (chapter 1. Introduction, chapter 5. Managing Privacy; Historians at Work, and chapter 6. Conclusion: Resistance.
+- History Matters; Interpreting Letters and Diaries: [http://historymatters.gmu.edu/mse/letters/](http://historymatters.gmu.edu/mse/letters/){:target="_blank"}. 
+
 <!-- briefing-teacher -->
+
+

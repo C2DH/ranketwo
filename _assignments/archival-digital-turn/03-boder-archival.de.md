@@ -21,7 +21,7 @@ Diese Aufgabe beruht auf dem Thema einer parallelen Lektion: „From steel wire 
 
 <!-- briefing-student -->
 
-### Anleitung
+### Anweisungen
 <!-- section-contents -->
 
 Sehen Sie sich diese kurze Animation [über David Boder mit einer Dauer von 6 Minuten und 30 Sekunden](../boder/#c-clip.de) an und beachten Sie die Reihenfolge der Umwandlungen von Boders Aufnahmen.
