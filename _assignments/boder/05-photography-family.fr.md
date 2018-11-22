@@ -36,7 +36,7 @@ Dans l'animation sur David Boder, des photographies de victimes et de familles o
 
 - Essayez de trouver plus d'informations contextuelles sur ces photographies en effectuant d'autres recherches sur internet. 
 - Qui a pris ces photos ?
-- Dans quel contexte ?
+- Quand, où et dans quel contexte ?
 - Qui les a collectées, documentées et publiées en ligne ? 
 - Comment pouvez-vous obtenir l’autorisation de les réutiliser ?
 - Comment pouvez-vous vous assurer que les informations trouvées sur ces photos sont fiables ? 
@@ -44,12 +44,12 @@ Notez vos observations dans votre modèle.
 
 <!-- section -->
 
-### 5.b  Photos publiées en ligne ligne | 20 min
+### 5.b  Photos publiées en ligne | 20 min
 <!-- section-contents -->
 
-
-
-- Que pouvez-vous dire au sujet des photos de famille ?
+Essayez de trouvez une personne portant le même nom que les personnes représentées sur ces photographies en effectuant d'autres recherches sur internet. Quel type de photos pouvez-vous trouver à leur sujet sur le Web?
+- Pouvez-vous discerner des différences de style et de technologie?
+- Quelle est la différence entre la manière dont les photos sont présentées sur le site Web du musée du Mémorial de l’Holocauste et la manière dont elles sont présentées dans l' animation interactive?
 - Notez vos observations dans votre modèle.  
 
 <!-- section -->
