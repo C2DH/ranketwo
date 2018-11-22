@@ -52,11 +52,11 @@ Da es in dieser Lektion um Quellenkritik geht, haben wir versucht, den Kontext, 
 
 - Vergleichen Sie das Foto der befreiten Häftlinge in diesem interaktiven Kontext mit der Nutzung in:
 
-  - 1. [diesem Kontext](http://www1.northbrook28.net/~mrench/Period%209%20Jack%27s%20Group/Jobs.html){:target="_blank"}
+  - 1 [diesem Kontext](http://www1.northbrook28.net/~mrench/Period%209%20Jack%27s%20Group/Jobs.html){:target="_blank"}
 
-  - 2. [und in diesem Kontext](http://motlc.wiesenthal.com/site/pp.asp?c=gvKVLcMVIuG&b=394959){:target="_blank"}
+  - 2 [und in diesem Kontext](http://motlc.wiesenthal.com/site/pp.asp?c=gvKVLcMVIuG&b=394959){:target="_blank"}
 
-  - 3. [und in diesem Kontext](http://australianews.today/2018/01/29/the-secret-love-of-the-auschwitz-tattooist/){:target="_blank"}
+  - 3 [und in diesem Kontext](http://australianews.today/2018/01/29/the-secret-love-of-the-auschwitz-tattooist/){:target="_blank"}
 
 - Notieren Sie Ihre Feststellungen auf Ihrer Vorlage.  
 
