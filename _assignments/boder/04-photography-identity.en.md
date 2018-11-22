@@ -38,12 +38,12 @@ Because this lesson is about source criticism, we have tried to trace the contex
 
 - Try to find more background information about these photographs through additional web research. 
 - Who created these photos?
-- In what context?
+- When, where and in what context?
 - Who collected, documented and published them online? 
 - How can you get permission to reuse them?
 - How can you be sure that the information you can find about these photos is trustworthy? 
-- How was the photo integrated into the animation? 
-- Note your findings in your template. 
+
+Note your findings in your template. 
 
 <!-- section -->
 
