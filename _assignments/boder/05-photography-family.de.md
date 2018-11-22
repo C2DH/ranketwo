@@ -27,38 +27,29 @@ Da es in dieser Lektion um Quellenkritik geht, haben wir versucht, den Kontext, 
 ### Anweisung
 <!-- section-contents -->
 
-- Öffnen Sie zunächst die Box Who are these liberated prisoners? Unter [https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"} und lesen Sie den Text.
-- Öffnen Sie nun die Box Who are the people in these photos? und lesen Sie den Text.
+- Öffnen Sie zunächst die Box Wie sind diese Leute? Unter [https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"} und lesen Sie den Text.
 
 <!-- section -->
 
-### 4.a  Online-Inhalte  wer steckt dahinter? | 20 min
+### 5.a  Online-Inhalte; wer steckt dahinter? | 20 min
 <!-- section-contents -->
 
 - Versuchen Sie, durch zusätzliche Webrecherchen weitere Hintergrundinformationen über diese Fotografien zusammenzutragen.  
 - Wer hat diese Aufnahmen gemacht?
-- und in welchem Kontext?
+- Wo, wann und in welchem Kontext?
 - Wer hat sie zusammengetragen, dokumentiert und online veröffentlicht? 
 - Wie können Sie die Genehmigung zur Wiederverwendung erlangen?
 - Wie können Sie sicher sein, dass potenzielle von Ihnen zu diesen Fotos gefundene Informationen vertrauenswürdig sind? 
-- Wie wurde das Foto in die Animation integriert? 
-- Notieren Sie Ihre Feststellungen auf Ihrer Vorlage. 
+ Notieren Sie Ihre Feststellungen auf Ihrer Vorlage. 
 
 <!-- section -->
 
-### 4.b  Online-Nutzung von Fotos im richtigen historischen Kontext | 20 min
+### 5.b  Online-Nutzung von Fotos | 20 min
 <!-- section-contents -->
-
-- Vergleichen Sie das Foto der befreiten Häftlinge in diesem interaktiven Kontext mit der Nutzung in:
-
-  - [diesem Kontext](http://www1.northbrook28.net/~mrench/Period%209%20Jack%27s%20Group/Jobs.html){:target="_blank"}
-
-  - [und in diesem Kontext](http://motlc.wiesenthal.com/site/pp.asp?c=gvKVLcMVIuG&b=394959){:target="_blank"}
-
-  - [und in diesem Kontext](http://australianews.today/2018/01/29/the-secret-love-of-the-auschwitz-tattooist/){:target="_blank"}
-
-- Was können Sie über die Fotos der Familien sagen?
-- Notieren Sie Ihre Feststellungen auf Ihrer Vorlage.  
+- Versuchen Sie, durch Webrecherchen weitere Hintergrundinformationen über diese Personen zu finden. Was für Fotos kan man finden im Internet?
+- Können Sie Unterschiede in Stil und Technologie erkennen?
+- Gibt es einen Unterschied in der Darstellung der Fotos auf der Website der Holocaust Memorial Museum-Website und in dieser interaktiven Animation?
+Notieren Sie Ihre Feststellungen auf Ihrer Vorlage.  
 
 <!-- section -->
 
