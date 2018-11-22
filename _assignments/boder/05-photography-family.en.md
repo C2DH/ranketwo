@@ -32,7 +32,7 @@ Because this lesson is about source criticism, we have tried to trace the contex
 
 <!-- section -->
 
-### 4.a  Online content, who is behind it? | 20 min
+### 5.a  Online content, who is behind it? | 20 min
 <!-- section-contents -->
 
 - Try to find more background information about these photographs through additional web research. 
@@ -46,7 +46,7 @@ Because this lesson is about source criticism, we have tried to trace the contex
 
 <!-- section -->
 
-### 4.b  Photos online used in the right historical context | 20 min
+### 5.b  Photos online used in the right historical context | 20 min
 <!-- section-contents -->
 Conduct webresearch and find a person with the same name as the people portrayed in the photos. What kind of photos can you find about them on the web? 
 - Can you discern differences in style and technology?
