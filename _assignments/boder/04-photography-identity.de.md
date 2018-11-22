@@ -38,12 +38,11 @@ Da es in dieser Lektion um Quellenkritik geht, haben wir versucht, den Kontext, 
 
 - Versuchen Sie, durch zusätzliche Webrecherchen weitere Hintergrundinformationen über diese Fotografien zusammenzutragen.  
 - Wer hat diese Aufnahmen gemacht?
-- und in welchem Kontext?
+- Wo, wann und in welchem Kontext?
 - Wer hat sie zusammengetragen, dokumentiert und online veröffentlicht? 
 - Wie können Sie die Genehmigung zur Wiederverwendung erlangen?
 - Wie können Sie sicher sein, dass potenzielle von Ihnen zu diesen Fotos gefundene Informationen vertrauenswürdig sind? 
-- Wie wurde das Foto in die Animation integriert? 
-- Notieren Sie Ihre Feststellungen auf Ihrer Vorlage. 
+Notieren Sie Ihre Feststellungen auf Ihrer Vorlage. 
 
 <!-- section -->
 
