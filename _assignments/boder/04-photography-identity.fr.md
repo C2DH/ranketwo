@@ -38,12 +38,12 @@ Dans l'animation sur David Boder, des photographies de victimes et de familles o
 
 - Essayez de trouver plus d'informations contextuelles sur ces photographies en effectuant d'autres recherches sur internet. 
 - Qui a pris ces photos ?
-- Dans quel contexte ?
+- Ou, quand et dans quel contexte ?
 - Qui les a collectées, documentées et publiées en ligne ? 
 - Comment pouvez-vous obtenir l’autorisation de les réutiliser ?
 - Comment pouvez-vous vous assurer que les informations trouvées sur ces photos sont fiables ? 
-- Comment les photos ont-elles été intégrées dans l'animation ? 
-- Notez vos observations dans votre modèle. 
+Notez vos observations dans votre modèle. 
+
 
 <!-- section -->
 
