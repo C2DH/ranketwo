@@ -52,11 +52,11 @@ Dans l'animation sur David Boder, des photographies de victimes et de familles o
 
 - Comparez la manière dont la photo des prisonniers libérés est utilisée dans ce contexte interactif avec la manière dont elle est utilisée dans : 
 
-  - 1. [ce contexte](http://www1.northbrook28.net/~mrench/Period%209%20Jack%27s%20Group/Jobs.html){:target="_blank"}
+  - 1 [ce contexte](http://www1.northbrook28.net/~mrench/Period%209%20Jack%27s%20Group/Jobs.html){:target="_blank"}
 
-  - 2. [ce contexte](http://motlc.wiesenthal.com/site/pp.asp?c=gvKVLcMVIuG&b=394959){:target="_blank"}
+  - 2 [ce contexte](http://motlc.wiesenthal.com/site/pp.asp?c=gvKVLcMVIuG&b=394959){:target="_blank"}
 
-  - 3. [et ce contexte](http://australianews.today/2018/01/29/the-secret-love-of-the-auschwitz-tattooist/){:target="_blank"}
+  - 3 [et ce contexte](http://australianews.today/2018/01/29/the-secret-love-of-the-auschwitz-tattooist/){:target="_blank"}
 
 - Notez vos observations dans votre modèle.  
 
