@@ -27,8 +27,7 @@ Dans l'animation sur David Boder, des photographies de victimes et de familles o
 ### Instructions
 <!-- section-contents -->
 
-- Ouvrez la boîte Qui sont ces prisonniers libérés ? sur le site [https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"} et lisez le texte.
-- Ouvrez ensuite la boîte Qui sont ces personnes sur les photos ? et lisez le texte.
+- Ouvrez la boîte Qui sont ces familles ? sur le site [https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"} et lisez le texte.
 
 <!-- section -->
 
@@ -41,21 +40,14 @@ Dans l'animation sur David Boder, des photographies de victimes et de familles o
 - Qui les a collectées, documentées et publiées en ligne ? 
 - Comment pouvez-vous obtenir l’autorisation de les réutiliser ?
 - Comment pouvez-vous vous assurer que les informations trouvées sur ces photos sont fiables ? 
-- Comment les photos ont-elles été intégrées dans l'animation ? 
-- Notez vos observations dans votre modèle. 
+Notez vos observations dans votre modèle. 
 
 <!-- section -->
 
-### 5.b  Photos en ligne utilisées dans le contexte historique approprié | 20 min
+### 5.b  Photos publiées en ligne ligne | 20 min
 <!-- section-contents -->
 
-- Comparez la manière dont la photo des prisonniers libérés est utilisée dans ce contexte interactif avec la manière dont elle est utilisée dans : 
 
-  - [ce contexte](http://www1.northbrook28.net/~mrench/Period%209%20Jack%27s%20Group/Jobs.html){:target="_blank"}
-
-  - [ce contexte](http://motlc.wiesenthal.com/site/pp.asp?c=gvKVLcMVIuG&b=394959){:target="_blank"}
-
-  - [et ce contexte](http://australianews.today/2018/01/29/the-secret-love-of-the-auschwitz-tattooist/){:target="_blank"}
 
 - Que pouvez-vous dire au sujet des photos de famille ?
 - Notez vos observations dans votre modèle.  
