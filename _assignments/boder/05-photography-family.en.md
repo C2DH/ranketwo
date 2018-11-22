@@ -41,8 +41,7 @@ Because this lesson is about source criticism, we have tried to trace the contex
 - Who collected, documented and published them online? 
 - How can you get permission to reuse them?
 - How can you be sure that the information you can find about these photos is trustworthy? 
-- How was the photo integrated into the animation? 
-- Note your findings in your template. 
+Note your findings in your template. 
 
 <!-- section -->
 
@@ -51,7 +50,7 @@ Because this lesson is about source criticism, we have tried to trace the contex
 Conduct webresearch and find a person with the same name as the people portrayed in the photos. What kind of photos can you find about them on the web? 
 - Can you discern differences in style and technology?
 - Is there a difference in how the photos are presented on the website of the Holocaust Memorial Museum website, and the way they are presented in this interactive animation? 
-- Note your findings in your template.
+Note your findings in your template.
 
 <!-- section -->
 
