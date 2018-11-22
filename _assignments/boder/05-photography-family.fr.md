@@ -32,7 +32,7 @@ Dans l'animation sur David Boder, des photographies de victimes et de familles o
 
 <!-- section -->
 
-### 4.a  Qui se cache derrière le contenu en ligne ? | 20 min
+### 5.a  Qui se cache derrière le contenu en ligne ? | 20 min
 <!-- section-contents -->
 
 - Essayez de trouver plus d'informations contextuelles sur ces photographies en effectuant d'autres recherches sur internet. 
@@ -46,7 +46,7 @@ Dans l'animation sur David Boder, des photographies de victimes et de familles o
 
 <!-- section -->
 
-### 4.b  Photos en ligne utilisées dans le contexte historique approprié | 20 min
+### 5.b  Photos en ligne utilisées dans le contexte historique approprié | 20 min
 <!-- section-contents -->
 
 - Comparez la manière dont la photo des prisonniers libérés est utilisée dans ce contexte interactif avec la manière dont elle est utilisée dans : 
