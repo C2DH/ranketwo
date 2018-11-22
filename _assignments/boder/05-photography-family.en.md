@@ -45,7 +45,7 @@ Note your findings in your template.
 
 <!-- section -->
 
-### 5.b  Photos online used in the right historical context | 20 min
+### 5.b  Photos published online | 20 min
 <!-- section-contents -->
 Conduct webresearch and find a person with the same name as the people portrayed in the photos. What kind of photos can you find about them on the web? 
 - Can you discern differences in style and technology?
