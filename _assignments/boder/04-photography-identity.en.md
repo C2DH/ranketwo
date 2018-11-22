@@ -52,13 +52,12 @@ Because this lesson is about source criticism, we have tried to trace the contex
 
 - Compare the photo of the liberated prisoners in this interactive context with how it is used in:
 
-  - [This context](http://www1.northbrook28.net/~mrench/Period%209%20Jack%27s%20Group/Jobs.html){:target="_blank"}
+  - 1. [This context](http://www1.northbrook28.net/~mrench/Period%209%20Jack%27s%20Group/Jobs.html){:target="_blank"}
 
-  - [and in this context](http://motlc.wiesenthal.com/site/pp.asp?c=gvKVLcMVIuG&b=394959){:target="_blank"}
+  - 2. [and in this context](http://motlc.wiesenthal.com/site/pp.asp?c=gvKVLcMVIuG&b=394959){:target="_blank"}
 
-  - [and in this context](http://australianews.today/2018/01/29/the-secret-love-of-the-auschwitz-tattooist/){:target="_blank"}
+  - 3. [and in this context](http://australianews.today/2018/01/29/the-secret-love-of-the-auschwitz-tattooist/){:target="_blank"}
 
-- What can you say about the photos of the families?
 - Note your findings in your template.  
 
 <!-- section -->
