@@ -1,6 +1,7 @@
 ---
 title: "Transformation: Wie digitale Technologien neue Realitäten schaffen können"
 layout: unit
+toc: on
 tags:
   - digitale Technologie
   - Manipulation

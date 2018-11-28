@@ -67,6 +67,22 @@
     src: "https://player.vimeo.com/video/279642025"
 
 -
+    id: transformations-french
+    aspectratio: aspect-16-9
+    type: vimeo
+    thumbnail: "https://i.vimeocdn.com/video/718551052.jpg?mw=960&mh=540&q=70"
+    title: Transformations.
+    src: "https://player.vimeo.com/video/303237564"
+
+-
+    id: transformations-german
+    aspectratio: aspect-16-9
+    type: vimeo
+    thumbnail: "https://i.vimeocdn.com/video/718551052.jpg?mw=960&mh=540&q=70"
+    title: Transformations.
+    src: "https://player.vimeo.com/video/303237677"
+
+-
     id: transformations-playposit
     thumbnail: https://i.vimeocdn.com/video/718551052.jpg?mw=960&mh=540&q=70
     title: Transformations. A quiz.
