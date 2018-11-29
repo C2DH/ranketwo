@@ -12,8 +12,8 @@ tags:
   - characteristics of letters and e-mails
 requirements: internet connection to look up emails from the wikileaks Hillary Clinton Email Archive
 outcomes:
-  - "[TO TRANSLATE] Understanding the difference between a letter and an email"
-  - "[TO TRANSLATE] Understanding how to define an email as an object"
+  - "Comprendre la différence entre une lettre et un e-mail"
+  - "Comprendre les réflexions indiquant comment définir un e-mail en tant qu’objet"
 order: 4
 ---
 
