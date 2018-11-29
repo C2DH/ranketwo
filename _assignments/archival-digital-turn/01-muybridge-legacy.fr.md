@@ -27,7 +27,7 @@ Cet exercice aborde la relation entre les plaques de verre originales de Muybrid
 
 <!-- briefing-student -->
 
-### 1.a **** La technologie originale utilisée par Muybridge | 20 min
+### 1.a La technologie originale utilisée par Muybridge | 20 min
 <!-- section-contents -->
 
 Muybridge a introduit une nouvelle technologie pour capturer des images.
