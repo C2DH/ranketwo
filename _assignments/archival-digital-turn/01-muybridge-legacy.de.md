@@ -63,7 +63,7 @@ Muybridge wurde mehrfach als Vater des GIF, einer noch sehr jungen Erfindung in 
 
 [Ein Online-Video](https://vimeo.com/131586644){:target="_blank"}  6.24 min
 
-[Ein Kommentar unter einem YouTube-Clipe \[TO TRANSLATE\]from ferociousgumby](https://www.youtube.com/watch?v=5Awo-P3t4Ho&lc=UgiKWyd-N07eEHgCoAEC){:target="_blank"} (Sie müssen nicht das ganze Video anschauen)   
+[Ein Kommentar unter einem YouTube-Clipe \from ferociousgumby](https://www.youtube.com/watch?v=5Awo-P3t4Ho&lc=UgiKWyd-N07eEHgCoAEC){:target="_blank"} (Sie müssen nicht das ganze Video anschauen)   
 
 [Ein Gemälde](https://de.wikipedia.org/wiki/Akt,_eine_Treppe_herabsteigend_Nr._2){:target="_blank"}
 
