@@ -10,7 +10,7 @@ tags:
   -  compare data in paper and digital form
 requirements: Location and permission (probably, to be obtained by the lecturer beforehand) allowing the students to visit ANLUX and to consult the collection, Internet access to the digital edition and the related materials.
 outcomes:
-  - "[TO TRANSLATE] Understanding and conceptualising the differences/similarities and the factors at play in the transformation process from print to digital historical sources"
+  - "Comprendre et conceptualiser les différences/similitudes et les éléments à l’œuvre dans le processus de transformation de sources historiques au format papier à des sources historiques numériques"
 order: 5
 documents:
   - owens-sources-evidentiary-digital-history
