@@ -2,7 +2,7 @@
 layout: assignment
 unit: archival-digital-turn
 lang: fr
-title: "[TO TRANSLATE] Muybridge's legacy: from museum to web"
+title: "L'héritage de Muybridge: du musée au web"
 cover:
 tags:
   - media history
@@ -27,24 +27,25 @@ Cet exercice aborde la relation entre les plaques de verre originales de Muybrid
 
 <!-- briefing-student -->
 
-### 1.a **[TO TRANSLATE]** The original technology used by Muybridge | 20 min
+### 1.a **** La technologie originale utilisée par Muybridge | 20 min
 <!-- section-contents -->
 
-To capture images, Muybridge introduced a new technology.
--  You are going to consult the Wayback Machine. This is an archive for websites, that takes snapshots of websites and stores them. But it also publishes analogue sources that have been digitised. By clicking on this link you will retrieve a digital copy of an illustration of Muybridge's accomplishments in 1878,  [Muybridge’s experiment with the horse Sally Gardner](https://web.archive.org/web/20120730172726/http://popartmachine.com/artwork/LOC+1071481/0/The-horse-in-motion,-illus.-by-Muybridge.-){:target="_blank"}. 
+Muybridge a introduit une nouvelle technologie pour capturer des images.
+-  Vous allez consulter la Wayback Machine. Ce sont les archives des sites web, qui prennent des clichés des sites web et les sauvegardent. Mais elles publient aussi des sources analogiques qui ont été numérisées. En cliquant sur ce lien, vous pourrez trouver un exemplaire numérique d’une illustration montrant les réalisations de Muybridge en 1878, [l’expérience de Muybridge avec le cheval Sallie Gardner](https://web.archive.org/web/20120730172726/http://popartmachine.com/artwork/LOC+1071481/0/The-horse-in-motion,-illus.-by-Muybridge.-)
 
-- Consult the document, use the + sign if the letters are soo small. Note down the name of the device for which Muybridge obtained a patent in your template. 
+- Consultez le document et utilisez le signe + si les caractères sont trop petits. Veuillez noter dans votre modèle le nom de l’appareil pour lequel Muybridge a obtenu un brevet.
 
-- Consult the digital copy of another relevant contemporary source, [the catalogue of an exhibit on Muybridge held at the Stanford University Museum of art in 1972](https://archive.org/stream/eadweardmuybridg00maye/eadweardmuybridg00maye_djvu.txt){:target="_blank"}.
-It has been digitised and published online by the Wayback Machine/Internet Archive in 2012, with the support of the Digital Library Project. Although the document is a catalogue of an exhibition, it consist only of texts that have been processed with [optical character recognition.](https://youtu.be/jO-1rztr4O0){:target="_blank"} The most probable reason for not including the images is that [copyright issues](https://youtu.be/1DKm96Ftfko){:target="_blank"} played a role. 
-The digitized text can be searched with ["Control F"](https://blog.spinweb.net/5-reasons-why-control-f-is-your-best-friend-for-productivity){:target="_blank"}. This means that you can directly trace the context of a name or term, without first having to read the entire document. Usually it is enough to read what comes before and after the term. If that does not suffice, read the entire section of a text, to figure out what kind of contribution it is (an essay, an interview, an article, a quote, a chapter from a book).
+- Consultez l’exemplaire numérique d’une autre source contemporaine, [le catalogue d’une exposition sur Muybridge présentée au Stanford University Museum en 1972](https://archive.org/stream/eadweardmuybridg00maye/eadweardmuybridg00maye_djvu.txt).
+Il a été numérisé et publié par la Wayback Machine/Internet Archive en 2012, avec le soutien du Digital Library Project. Même si le document est un catalogue d’exposition, il ne comporte que des textes qui ont été traités par [reconnaissance optique de caractères](https://youtu.be/jO-1rztr4O0). La raison la plus probable pour ne pas inclure les images est sûrement liée au rôle joué par les [questions de droits d’auteur](https://youtu.be/1DKm96Ftfko).
+Le texte numérisé peut faire l’objet d’une recherche en utilisant [« Contrôle F »](https://blog.spinweb.net/5-reasons-why-control-f-is-your-best-friend-for-productivity). Cela vous permet de retrouver directement le contexte d’un nom ou d’un terme, sans devoir lire le document en entier. D’habitude, il suffit de lire ce qui précède et ce qui suit un terme. Si cela ne suffit pas, lisez une partie entière d’un texte, pour déterminer quel genre de contribution c’est (un essai, une interview, un article, une citation, un chapitre d’un livre).
 
-The digitized catalogue contains several contributions by experts. Let's see whether you are able to use "Control F" in an efficient way.
-Answer the following questions: 
-- What was the relationship between Muybridge and the French inventor Marey? Who can claim to be the real inventor? 
-- What kind of drama affected Muybridge's 'private life'?  
-- What is the difference between a zoopraxiscope, a zootrope, a magic lantern and a phonograph? Try to find out what is specific about each gadget, if you can't distill that from the text, conduct additional webresearch. 
-- Note down your findings in your template.
+Le catalogue numérisé contient plusieurs contributions d’experts. Reste à savoir si vous êtes capable d’utiliser la fonction « Contrôle F » de manière efficace.
+Répondez aux questions suivantes :
+- Quelle était la relation entre Muybridge et l’inventeur français Marey ? Qui peut prétendre être le véritable inventeur ?
+- Quel genre de drame a frappé la vie privée de Muybridge ?
+- Quelle est la différence entre un zoopraxiscope, un a zootrope, une lanterne magique et une photographie ?
+- Essayez de découvrir les spécificités de chaque gadget et effectuez d’autres recherches web si vous ne réussissez pas à déduire cela du texte.
+- Veuillez noter ce que vous avez trouvé dans votre modèle.
 
 <!-- section -->
 
