@@ -3,7 +3,7 @@ layout: assignment
 unit: archival-digital-turn
 lang: fr
 type: assignment
-title: "Transformation de l'analogue au numérique"
+title: "Transformation de l’analogique au numérique"
 order: 3
 cover: /assets/images/attachments/12boxes/12boxes_01.png
 documents:
@@ -12,7 +12,7 @@ tags:
   - transformation from analogue to digital
 requirements: Fast WIFI connection, access to Ranke.2, computer or laptop, application on laptop or computer to view video,
 outcomes:
-  - "[TO TRANSLATE] Learning how sound can be copied and reproduced from an analogue to a digital carrier"
+  - "Apprendre comment copier et reproduire des sons d’un support analogique sur un support numérique"
 ---
 
 Cet exercice est basé sur le sujet d’une leçon parallèle : « De l’enregistrement magnétique au site web : les entretiens de David Boder ». Il relate l’histoire des travaux novateurs du psychologue juif de nationalité américano-lettonne, David Boder, dans l’enregistrement des premiers témoignages de survivants de l’Holocauste. À l’été 1946, David Boder a visité plusieurs camps de déplacés avec un enregistreur magnétique et a enregistré 121 entretiens, en 8 langues différentes. Cette leçon met l’accent sur la transformation de sa collection d’entretiens enregistrés sur bandes magnétiques en 1946, en contenu accessible grâce à un site web public.
