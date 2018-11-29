@@ -10,7 +10,7 @@ tags:
   - search engines
 order: 2
 outcomes:
-  - "[TO TRANSLATE] Understanding how search engines prioritize certain search results"
+  - "Comprendre comment les moteurs de recherche donnent la priorité à certains résultats de recherche"
 ---
 
 Le contenu trouvé sur le web à propos d’Eadweard Muybridge est en partie déterminé par ce que les moteurs de recherche ont référencé. Le choix de votre moteur de recherche dépend largement de la façon dont vous avez appris à utiliser le web. Cet exercice vous donnera une idée de la diversité des classements possibles et des résultats de recherche. Vous allez comparer les résultats d’une recherche sur Muybridge dans deux moteurs de recherche différents : Google et Yahoo.
