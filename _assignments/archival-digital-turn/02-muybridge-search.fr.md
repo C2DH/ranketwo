@@ -2,7 +2,7 @@
 layout: assignment
 unit: archival-digital-turn
 lang: fr
-title: "[TO TRANSLATE] Muybridge's legacy: searching on the web"
+title: "L'héritage de Muybridge: cherchez sur le web"
 cover:
 tags:
   - media history
