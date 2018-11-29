@@ -2,7 +2,7 @@
 layout: assignment
 unit: archival-digital-turn
 lang: fr
-title: "L'héritage de Muybridge: cherchez sur le web"
+title: "L'héritage de Muybridge: recherchez le web"
 cover:
 tags:
   - media history
