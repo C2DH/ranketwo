@@ -18,7 +18,7 @@ outcomes:
   - "Comprendre quelles sont les exigences de l’accès en ligne à une énorme quantité de journaux numérisés"
 documents:
   - tom-tryniski
-  - interface-luxembourgensia
+  - exemple-reponse-journaux
 order: 6
 ---
 
