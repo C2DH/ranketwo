@@ -22,7 +22,7 @@ outcomes:
   - "[TO TRANSLATE] Making students conscious of the differences in informational and artefactual value between the analogue and digital source."
 order: 7
 documents:
-  - what-works-and-what-doesnot
+  - sander-tracing-date-german
 ---
 
 Gegenstand dieser Aufgabe ist der Bildatlas des berühmten deutschen Fotografen August Sander (1876-1964) – „Menschen des 20. Jahrhunderts“. Sanders Ziel war, die gesamte Gesellschaft seiner Zeit so darzustellen, wie er sie selbst wahrnahm. Seine Überzeugung war, dass seine Kamera universelle Erkenntnisse zu gesellschaftlichen Merkmalen zutage fördert. Durch das Web wurden viele seiner Aufnahmen in den letzten Jahrzehnten einem allgemeinen Publikum zugänglich. Doch wenn dieses digitalisierte und veröffentlichte Material als Quelle für Erkenntnisse über seine Arbeit herangezogen wird, ist die Quellenkritik anzuwenden und der Ursprung dessen abzuklären, was sich auf einem beliebigen Computerbildschirm anzeigen lässt. Was kann als Sanders Originalwerk betrachtet werden? Seine Glasplatten? Abzüge seiner Glasplatten? Die gedruckten Bücher seiner Werke, die ihn lange nach seinem Tod berühmt machten, oder die digitalen, im Web abrufbaren Fassungen von Sanders Porträts? Folgende Perspektiven werden berücksichtigt: Zunächst befassen Sie sich mit der Frage, warum die digitalen Fassungen von Sanders Fotos online veröffentlicht wurden und wie diese über Suchmaschinen auffindbar sind. Im zweiten Teil der Aufgabe gehen Sie zum Ursprung der Quelle zurück, d.h. den von ihm damals gemachten Aufnahmen, seinen Motiven und den Bewertungen seiner Werke durch die ersten Herausgeber und Kuratoren.
