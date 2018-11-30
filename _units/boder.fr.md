@@ -20,6 +20,8 @@ mediatype: audiovisual, interviews
 order: 2
 cover:
   url: https://i.vimeocdn.com/video/708218729.jpg?mw=960&mh=540&q=70
+answertemplate:
+  url: /assets/doc/version_2_answer-template-boder.docx
 ---
 
 Leçon sur la transposition de la collection d’interviews de survivants des camps de concentration rassemblée par le psychologue David Boder en 1946 en un site internet interactif en 2009.
