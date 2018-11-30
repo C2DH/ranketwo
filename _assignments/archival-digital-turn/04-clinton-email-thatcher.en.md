@@ -26,7 +26,7 @@ The practice of sending and receiving letters is decreasing considerably. While 
 ### Instructions
 <!-- section-contents -->
 
-- Have a look at this email exchange between former [US secretary of state Hillary Clinton and Cherie Blair, the wife of former UK Prime Minister Tony Blair](https://wikileaks.org/clinton-emails/emailid/23){:target="_blank"}, which refers to relations in Qatar.
+- Have a look at this email exchange between former [US Secretary of State Hillary Clinton and Cherie Blair, the wife of former UK Prime Minister Tony Blair](https://wikileaks.org/clinton-emails/emailid/23){:target="_blank"}, which refers to relations in Qatar.
 - Compare it with this message written in 1980 by [former UK Prime Minister Margaret Thatcher](https://c59574e9047e61130f13-3f71d0fe2b653c4f00f32175760e96e7.ssl.cf1.rackcdn.com/801222%20MT%20to%20Zhaid%20%28529-163%29.pdf){:target="_blank"} to the Crown Prince of Qatar.
 
 <!-- section -->
@@ -34,8 +34,8 @@ The practice of sending and receiving letters is decreasing considerably. While 
 ### 4.a Comparing emails to letters: the creation of a source  
 <!-- section-contents -->
 
-- Apply source criticism to both sources, if necessary conduct additional web research.
-- Complete the table in your template about the differences and similarities between the the messages of Hillary Clinton and those of Margaret Thatcher.
+- Apply source criticism to both sources. If necessary conduct additional web research.
+- Complete the table in your template about the differences and similarities between the messages of Hillary Clinton and those of Margaret Thatcher.
 
 <!-- section -->
 
