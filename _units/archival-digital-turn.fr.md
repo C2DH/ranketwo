@@ -23,6 +23,8 @@ mediatype: photos, letters, e-mails
 cover:
   url: assets/images/attachments/WikiXDC_National_Archives_Tour_Hall_-_Stierch.jpg
 order: 1
+answertemplate:
+url: /assets/doc/version_2_answer-template-archival-digital-turn
 ---
 
 Leçon sur l’influence exercée par l’avènement du numérique sur la méthode de critique des sources et les implications pratiques de cette évolution pour les étudiants en lettres et les étudiants qui réalisent des recherches.
