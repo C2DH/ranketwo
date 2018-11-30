@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function(e) {
-  console.log('Display content from ranke');
+  console.log('Display content from ranke. Test');
   if (!window.jQuery) {
     console.warning('cannot display content. Jquery needed on the page');
     return;
@@ -16,5 +16,5 @@ document.addEventListener("DOMContentLoaded", function(e) {
 
   var id = wrapper.attr('data-id');
 
-  wrapper.text('loading...', id);
+  wrapper.html('loading complete. ' + id);
 });
