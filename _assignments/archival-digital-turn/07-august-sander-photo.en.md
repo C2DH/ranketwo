@@ -48,7 +48,7 @@ What has to be taken into account when watching this accessible and clear tutori
 - [Here](https://youtu.be/oJzD4vF5dFA){:target="_blank"} is a clip explaining how the social medium Pinterest works.  
 - [Here](https://www.makeuseof.com/tag/find-date-published-post-insanely-simple-tips/){:target="_blank"} is an explanation on how to track down details on when online content was published.   
 
-Not every publication date can be traced through a link. If you want to avoid the frustrating experience of trial and error, first take a look at this PDF [cit](what-works-and-what-doesnot), in which the tips explained above have successfully been applied to a photo from Sander’s collection.
+Not every publication date can be traced through a link. If you want to avoid the frustrating experience of trial and error, first take a look at this PDF [cit](what-works-and-what-doesn’t), in which the tips explained above have successfully been applied to a photo from Sander’s collection.
 
 <!-- section -->
 
