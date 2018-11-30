@@ -1423,7 +1423,7 @@
     attachment: /assets/pdf/what-works-and-what-doesnot.pdf
     _id: 7a5889f5f40f466092aaa7b25484bc13
 -
-    title: 'interface eluxembourgensia'
+    title: 'Interface eluxembourgensia'
     slug: interface-luxembourgensia
     type: pdf
     data:
@@ -1478,3 +1478,66 @@
     attachment: /assets/images/source.png
     url: expert-meeting.html
     _id: 59da62130bda42eab9433cdb3ac08d5c
+-
+    title: 'storyboard animation Boder English'
+    slug: storyboard-boder-english
+    type: pdf
+    data:
+        title:
+            en_us: 'storyboard animation Boder English'
+    url: 'https://ranke2.uni.lu/assets/pdf/storyboard-boder-english.pdf'
+    _id: 6cf635c8210f4ad6983fad043a36b0c5
+    attachment: /assets/pdf/storyboard-boder-english.pdf
+    _resolved: true
+-
+    title: 'storyboard animation Boder French'
+    slug: storyboard-boder-french
+    type: pdf
+    data: {}
+    url: 'https://ranke2.uni.lu/assets/pdf/storyboard-boder-french.pdf'
+    _id: b834f614acf74574aa84bf46dcdae4ab
+    attachment: /assets/pdf/storyboard-boder.french.pdf
+    _resolved: true
+-
+    title: 'storyboard animation Boder German'
+    slug: storyboard-boder-german
+    type: pdf
+    data: {}
+    url: 'https://ranke2.uni.lu/assets/pdf/storyboard-boder-german.pdf'
+    _id: d786a7a147f04c36918a6252d542672b
+    attachment: /assets/pdf/storyboard-boder-german.pdf
+    _resolved: true
+-
+    title: 'Dos and Don''ts '
+    slug: sander-tracing-date-german
+    type: pdf
+    data:
+        title:
+            en_us: 'Dos and Don''ts/pdf'
+    attachment: /assets/pdf/sander_german.pdf
+    _id: 4b9d3df1930d4b6ea1a23950538cf69e
+-
+    title: 'Ce qui fonctionne et ce qui ne fonctionne pas'
+    slug: sander-tracing-date-french
+    type: pdf
+    data: {}
+    attachment: /assets/pdf/sander_french.pdf
+    _id: abaaffa61dcb4479b3064d233e562ee4
+-
+    title: 'Exemple reponse journaux'
+    slug: exemple-reponse-journaux
+    type: pdf
+    data:
+        year: 2018
+    attachment: /assets/pdf/exemple_reponse_affectation_journaux.pdf
+    _id: d483e8e1fd4746498a00d7284e77e6fd
+-
+    title: 'Musterantworden Zeitung '
+    slug: musterantworten-zeitung
+    type: pdf
+    data:
+        title:
+            en_us: musterantworten.pdf
+        year: 2018
+    attachment: /assets/pdf/musterantworten_digitalisierten_zeitungen.pdf
+    _id: b2f2b7e8e2c74c65995a0676a74d6197
