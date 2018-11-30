@@ -31,7 +31,7 @@ First get some insights into how search engines work:
 ### 2.a Google compared to Yahoo | 30 min
 <!-- section-contents -->
 
-- Open two browser windows on your screen, one with Google and one with Yahoo and conduct a search on Eadweard Muybridge in both.
+- Open two browser windows on your screen, one with Google and one with Yahoo, and conduct a search on Eadweard Muybridge in both.
 - List the first 8 results using the tables in your answer template.
 - Complete the other columns on the basis of the options that are provided in the two boxes: **what type of organisation**, 
   **objective of the organisation**. 
