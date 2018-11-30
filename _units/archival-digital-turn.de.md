@@ -23,6 +23,8 @@ mediatype: photos, letters, e-mails
 cover:
   url: assets/images/attachments/WikiXDC_National_Archives_Tour_Hall_-_Stierch.jpg
 order: 1
+answertemplate:
+url: /assets/doc/version_2_answer-template-archival-digital-turn
 ---
 
 Eine Lektion über die Frage, wie sich der „digital Turn“ (digitale Wende) auf das Verfahren der Quellenkritik ausgewirkt hat und was dies für Studierende der Geisteswissenschaften mit Forschungstätigkeit bedeutet.
