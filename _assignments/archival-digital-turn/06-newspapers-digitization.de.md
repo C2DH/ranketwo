@@ -18,7 +18,7 @@ outcomes:
   - "[TO TRANSLATE] Understanding the merits of online access to large volumes of digitised newspapers"
 documents:
   - tom-tryniski
-  - interface-luxembourgensia
+  - musterantworten-zeitung
 order: 6
 ---
 
