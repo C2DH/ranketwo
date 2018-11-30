@@ -1,0 +1,20 @@
+---
+# json otuput for the answer templates, en
+layout: empty
+---
+{% assign answer_templates = site.assignments | where: "layout", "answer-template" | where: "lang", "en" %}
+
+[
+  {% for atmp in answer_templates %}{
+    {% assign sections = atmp.content | split: "<!-- section -->" %}
+
+    "name": "{{atmp.slug}}",
+    "sections": [
+      {% for section in sections %}
+        {% unless section == "" %}
+          {{ section | jsonify }}{%unless forloop.last %},{% endunless%}
+        {% endunless %}
+      {% endfor %}
+    ]
+  }{%unless forloop.last %},{% endunless%}{% endfor %}
+]

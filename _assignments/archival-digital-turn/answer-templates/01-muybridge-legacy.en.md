@@ -1,11 +1,13 @@
 ---
 layout: answer-template
 lang: en
+
 ---
+<!-- section -->
 ### 1.a The original technology
 
 {: .question}
-Consult the document, use the + sign if the letters are too small. Note down the name of the device for which Muybridge obtained a patent in your template. 
+Consult the document, use the + sign if the letters are too small. Note down the name of the device for which Muybridge obtained a patent in your template.
 
 {: .textarea-3}
 <textarea></textarea>
@@ -31,6 +33,7 @@ What is the difference between a zoopraxiscope, a zootrope, a magic lantern and 
 {: .textarea-4}
 <textarea></textarea>
 
+<!-- section -->
 ### 1.b  Re-use of Muybridge’s material: the father of the GIF?
 
 | Organisation | Objective | Time frame and location | What element has been used/ reused?
@@ -50,7 +53,7 @@ What is the difference between a zoopraxiscope, a zootrope, a magic lantern and 
 
 
 
-| Type of platform| Reason for the publication |When and where? 
+| Type of platform| Reason for the publication |When and where?
 | ------------ | ------- | ----------------------- | -----------------------------------
 |
 |

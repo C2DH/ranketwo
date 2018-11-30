@@ -1,6 +1,6 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang='{{ page.lang }}'>
+<body>
 <!--  select here parent unit-->
 {% assign unit = site.units|where:"layout","unit"|where:"lang",page.lang|where:"unit_id",page.unit | first %}
 <!--  unit: {{unit.id}} -->
@@ -32,3 +32,5 @@ layout: default
     </div>
   </div>
 </div>
+</body>
+</html>
