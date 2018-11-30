@@ -22,7 +22,7 @@ outcomes:
   - "[TO TRANSLATE] Making students conscious of the differences in informational and artefactual value between the analogue and digital source."
 order: 7
 documents:
-  - what-works-and-what-doesnot
+  - sander-tracing-date-french
 ---
 
 Cet exercice porte sur la collection de portraits du célèbre photographe allemand August Sander (1876-1964), « Hommes du XXe siècle ». L’objectif de Sander était de documenter la société de son temps dans son intégralité, telle qu’il la percevait. Il pensait que son appareil photo révèlerait des vérités universelles sur les caractéristiques de la société. Depuis quelques décennies, un grand nombre de ses photos sont devenues accessibles au grand public grâce au web. Mais lorsqu’on utilise ces documents numérisés et publiés comme source de connaissance de ses travaux, il est nécessaire d’être critique vis-à-vis de la source et de retracer l’origine de ce qui peut s’afficher sur notre écran d’ordinateur. Que pouvons-nous considérer comme l’œuvre originale de Sander ? Ses plaques de verre ? Les impressions réalisées à partir de ses plaques de verre ? Les livres imprimés à propos de ses travaux, qui l’ont rendu célèbre longtemps après sa mort, ou les versions numérisées des portraits de Sander que l’on peut trouver sur le web ? Les points de vue suivants vont être abordés : d’abord, vous étudierez la question de savoir pourquoi les représentations numériques des photos de Sander ont été publiées en ligne, et comment elles peuvent être consultées grâce aux moteurs de recherche. La deuxième partie de l’exercice vous ramène à l’origine de la source : les images prises par lui à l’époque, ses motivations et la façon dont les premiers éditeurs et conservateurs ont accueilli son œuvre.
