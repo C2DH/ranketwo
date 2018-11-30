@@ -20,6 +20,9 @@ mediatype: audiovisual, interviews
 order: 2
 cover:
   url: https://i.vimeocdn.com/video/708218729.jpg?mw=960&mh=540&q=70
+answertemplate:
+  url: /assets/doc/version_2_answer-template-boder.docx
+---
 ---
 
 Eine Lektion zu der Frage, wie die 1946 vom Psychologen David Boder zusammengestellte Sammlung von Interviews mit KZ-Überlebenden 2009 in eine interaktive Website verwandelt wurde.
