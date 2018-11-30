@@ -75,12 +75,12 @@ To give you an example of what kind of answers are expected in response to these
 | --- | -------------- | ----------------- | ------------ | --------------------------- | -----------------
 | [Europeana newspapers](http://www.europeana-newspapers.eu){:target="_blank"} (multilingual) |   |   |   |  
 | [E-Newspapers CH](http://www.onlinenewspapers.com/switzerl.htm){:target="_blank"} (FR+DE)   |   |   |   |  
-| [Gallica](https://gallica.bnf.fr/html/und/presse-et-revues/presse-et-revues){:target="_blank"}(FR)  |   |   |   |  
-| [Retronews](https://www.retronews.fr){:target="_blank"}(FR) |   |   |   |  
-| [ProQuest](https://www.proquest.com/products-services/pq-hist-news.html){:target="_blank"}(EN)|   |   |   |  
-| [Chronicling America](https://chroniclingamerica.loc.gov){:target="_blank"}(EN)|   |   |   |  
+| [Gallica](https://gallica.bnf.fr/html/und/presse-et-revues/presse-et-revues){:target="_blank"} (FR)  |   |   |   |  
+| [Retronews](https://www.retronews.fr){:target="_blank"} (FR) |   |   |   |  
+| [ProQuest](https://www.proquest.com/products-services/pq-hist-news.html){:target="_blank"} (EN)|   |   |   |  
+| [Chronicling America](https://chroniclingamerica.loc.gov){:target="_blank"} (EN)|   |   |   |  
 | [Delpher](https://www.delpher.nl){:target="_blank"} (NL)|   |   |   |  
-| [ANNO](http://anno.onb.ac.at/anno-suche#searchMode=simple&from=1){:target="_blank"}(DE)|   |   |   |  
+| [ANNO](http://anno.onb.ac.at/anno-suche#searchMode=simple&from=1){:target="_blank"} (DE)|   |   |   |  
 | [Zeitungsportal DDR-Presse](http://zefys.staatsbibliothek-berlin.de/ddr-presse/){:target="_blank"} (DE) |   |   |   |
 
 Complete the table in your template with the answers to the following questions:
