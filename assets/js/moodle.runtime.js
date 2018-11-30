@@ -6,5 +6,15 @@ document.addEventListener("DOMContentLoaded", function(e) {
   }
   console.log('loading...');
   var j = window.jQuery;
-  j("#ranketwo-contents").text('loading...');
+
+  var wrapper = j("#ranketwo-contents");
+
+  if(!wrapper.length) {
+    console.warning('cannot display content, check that a #ranketwo-contents exists');
+    return;
+  };
+
+  var id = wrapper.attr('data-id');
+
+  wrapper.text('loading...', id);
 });
