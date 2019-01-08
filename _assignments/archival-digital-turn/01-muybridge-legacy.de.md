@@ -28,7 +28,7 @@ Eadweard Muybridge schuf die Grundlage für die Entwicklung der Kinematografie, 
 
 <!-- briefing-student -->
 
-### 1.a **[TO TRANSLATE]** The original technology used by Muybridge | 20 Min
+### 1.a Die von Muybridge verwendete Originaltechnologie | 20 Min
 <!-- section-contents -->
 
 To capture images, Muybridge introduced a new technology.
