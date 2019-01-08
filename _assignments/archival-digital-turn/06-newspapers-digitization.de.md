@@ -13,8 +13,8 @@ tags:
   - conversion from analogue to digital
 requirements: Fast WIFI connection, scissors and paper
 outcomes:
-  - "[TO TRANSLATE] Understanding how the process of selection, digitisation and online publishing of newspapers works" 
-  - "[TO TRANSLATE] Understanding what changes occur when newspapers are transformed from print to digital files"
+  - "Verstehen, wie der Prozess für Auswahl, Digitalisierung und Online-Veröffentlichung von Zeitungen funktioniert" 
+  - "Verstehen, welche Änderungen eintreten, wenn Zeitungen von ihrer gedruckten Form in digitale Dateien umgewandelt werden"
   - "[TO TRANSLATE] Understanding the merits of online access to large volumes of digitised newspapers"
 documents:
   - tom-tryniski
