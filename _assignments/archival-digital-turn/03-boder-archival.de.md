@@ -3,7 +3,7 @@ layout: assignment
 unit: archival-digital-turn
 lang: de
 type: assignment
-title: "[TO TRANSLATE] Transformation from Analogue to Digital"
+title: "Umwandlung von analog zu digital"
 order: 3
 cover: /assets/images/attachments/12boxes/12boxes_01.png
 documents:
@@ -12,7 +12,7 @@ tags:
   - transformation from analogue to digital
 requirements: Fast WIFI connection, access to Ranke.2, computer or laptop, application on laptop or computer to view video,
 outcomes:
-  - "[TO TRANSLATE] Learning how sound can be copied and reproduced from an analogue to a digital carrier"
+  - "Lernen, wie Ton kopiert und von einem analogen auf einen digitalen Träger überspielt werden kann"
 ---
 
 Diese Aufgabe beruht auf dem Thema einer parallelen Lektion: „From steel wire to website; the interviews of David Boder“. Dargelegt ist, welch bahnbrechende Arbeit der lettisch-amerikanische Psychologe David Boder jüdischer Abstammung bei der Aufnahme der ersten Berichte von Holocaust-Überlebenden geleistet hat. Im Sommer 1946 besuchte er mit einem Drahttonbandgerät mehrere Vertriebenenlager und führte 121 Interviews in acht verschiedenen Sprachen durch. Der Schwerpunkt dieser Lektion liegt auf der Umwandlung seiner 1946 auf Stahldraht aufgenommenen Interviewsammlung in Inhalte, die über eine öffentliche Website zugänglich gemacht wurden.
