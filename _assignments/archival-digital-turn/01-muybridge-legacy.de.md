@@ -2,7 +2,7 @@
 layout: assignment
 unit: archival-digital-turn
 lang: de
-title: "[TO TRANSLATE] Muybridge's legacy: from museum to web"
+title: "[TO TRANSLATE] Muybridges Erbe: Vom Museum ins Web"
 cover:
 tags:
   - media history
@@ -15,9 +15,9 @@ documents:
   - slices-of-time
 order: 1
 outcomes:
- - "[TO TRANSLATE] Learning about the relationship between reproduction technology and reuse of material in the analogue era"
- - "[TO TRANSLATE] Learning to consult the Internet Archive"
- - "[TO TRANSLATE] Learning how digital technology and the web influence knowledge about an artist/photographer" 
+ - "Lernen, welcher Zusammenhang zwischen Reproduktionstechnologie und der Wiederverwendung von Material"
+ - "Lernen, das Internet-Archiv zu konsultieren"
+ - "Lernen, wie digitale Technologie und das Web das Wissen über Künstler/Fotografen beeinflussen" 
 ---
 
 Eadweard Muybridge schuf die Grundlage für die Entwicklung der Kinematografie, indem er mit mehreren Kameras Fotos eines galoppierenden Pferdes aufnahm und diese mit einem [Zoopraxiskop](https://de.wikipedia.org/wiki/Zoopraxiskop){:target="_blank"} wiedergab. Seine Erfindung inspirierte viele Künstler, Fotografen und Gelehrte, doch die Wirkung und Verbreitung seines Erbes vergrößerte sich durch die Einführung der digitalen Technologie und des Web Ende der 1990er-Jahre. In dieser Aufgabe wird untersucht, welche Beziehung zwischen den Original-Glasplatten von Muybridge besteht und was davon herausgelöst, betrachtet/gelesen und im Web wiederverwendet werden kann. Das San Francisco Museum of Modern Art hat zu diesem Thema [eine Animation](https://youtu.be/wNU7sXkZmSw){:target="_blank"} geschaffen. Letztere enthält einen kurzen Überblick über Eadweard Muybridge und seine Leistungen.
@@ -31,22 +31,21 @@ Eadweard Muybridge schuf die Grundlage für die Entwicklung der Kinematografie, 
 ### 1.a Die von Muybridge verwendete Originaltechnologie | 20 Min
 <!-- section-contents -->
 
-To capture images, Muybridge introduced a new technology.
--  You are going to consult the Wayback Machine. This is an archive for websites, that takes snapshots of websites and stores them. But it also publishes analogue sources that have been digitised. By clicking on this link you will retrieve a digital copy of an illustration of Muybridge's accomplishments in 1878,  [Muybridge’s experiment with the horse Sally Gardner](https://web.archive.org/web/20120730172726/http://popartmachine.com/artwork/LOC+1071481/0/The-horse-in-motion,-illus.-by-Muybridge.-){:target="_blank"}. 
+Um Bilder zu erfassen, führte Muybridge eine neue Technologie ein.
+-  Sie besuchen nun die Wayback Machine. Hierbei handelt es sich um ein Website-Archiv, das Screenshots von Websites erstellt und diese speichert. Ebenso werden analoge, später digitalisierte Quellen veröffentlicht. Durch Klick auf diesen Link erhalten Sie eine digitale Kopie einer Illustration von Muybridges Leistungen im Jahr 1878 [Muybridges Experiment mit dem Pferd Sally Gardner](https://web.archive.org/web/20120730172726/http://popartmachine.com/artwork/LOC+1071481/0/The-horse-in-motion,-illus.-by-Muybridge.-){:target="_blank"}. 
 
-- Consult the document, use the + sign if the letters are soo small. Note down the name of the device for which Muybridge obtained a patent in your template. 
+- Sehen Sie das Dokument ein und verwenden Sie die Taste +, wenn die Zeichen zu klein sind. Notieren Sie den Namen des Geräts, für das Muybridge ein Patent erhielt, auf Ihrer Vorlage. 
 
-- Consult the digital copy of another relevant contemporary source, [the catalogue of an exhibit on Muybridge held at the Stanford University Museum of art in 1972](https://archive.org/stream/eadweardmuybridg00maye/eadweardmuybridg00maye_djvu.txt){:target="_blank"}.
-It has been digitised and published online by the Wayback Machine/Internet Archive in 2012, with the support of the Digital Library Project. Although the document is a catalogue of an exhibition, it consist only of texts that have been processed with [optical character recognition.](https://youtu.be/jO-1rztr4O0){:target="_blank"} The most probable reason for not including the images is that [copyright issues](https://youtu.be/1DKm96Ftfko){:target="_blank"} played a role. 
-The digitized text can be searched with ["Control F"](https://blog.spinweb.net/5-reasons-why-control-f-is-your-best-friend-for-productivity){:target="_blank"}. This means that you can directly trace the context of a name or term, without first having to read the entire document. Usually it is enough to read what comes before and after the term. If that does not suffice, read the entire section of a text, to figure out what kind of contribution it is (an essay, an interview, an article, a quote, a chapter from a book).
+- Sehen Sie sich die digitale Kopie einer weiteren relevanten zeitgenössischen Quelle an [Katalog einer Ausstellung über Muybridge im Stanford University Museum of Art im Jahr 1972](https://archive.org/stream/eadweardmuybridg00maye/eadweardmuybridg00maye_djvu.txt){:target="_blank"}.
+2012 wurde sie von der Wayback Machine/Internet Archive mit Unterstützung des Digital Library Project digitalisiert und online gestellt. Obwohl es sich bei dem Dokument um den Katalog einer Ausstellung handelt, besteht es lediglich aus Texten, die mit [optischer Zeichenerkennung] verarbeitet wurden (https://youtu.be/jO-1rztr4O0){:target="_blank"} Dass die Bilder nicht enthalten sind, liegt höchstwahrscheinlich an [urheberrechtlichen Problemen](https://youtu.be/1DKm96Ftfko){:target="_blank"}. 
+Der digitalisierte Text lässt sich über das Tastaturkürzel [„Strg F“] durchsuchen (https://blog.spinweb.net/5-reasons-why-control-f-is-your-best-friend-for-productivity){:target="_blank"}. Demgemäß können Sie direkt den Kontext eines Namens oder eines Begriffs recherchieren, ohne zuerst das gesamte Dokument lesen zu müssen. Im Normalfall reicht es, das zu lesen, was vor und hinter dem Begriff steht. Lesen Sie andernfalls den gesamten Textabschnitt, um herauszufinden, um welchen Beitrag es sich handelt (Essay, Interview, Artikel, Zitat oder Buchauszug).
 
-The digitized catalogue contains several contributions by experts. Let's see whether you are able to use "Control F" in an efficient way.
-Answer the following questions: 
-- What was the relationship between Muybridge and the French inventor Marey? Who can claim to be the real inventor? 
-- What kind of drama affected Muybridge's 'private life'?  
-- What is the difference between a zoopraxiscope, a zootrope, a magic lantern and a phonograph? Try to find out what is specific about each gadget, if you can't distill that from the text, conduct additional webresearch. 
-- Note down your findings in your template.
-
+Der digitalisierte Katalog enthält mehrere Beiträge von Fachleuten. Finden wir heraus, ob Sie das Tastaturkürzel „Strg F“ effizient einsetzen können.
+Bitte beantworten Sie folgende Fragen: 
+- Welche Beziehung bestand zwischen Muybridge und dem französischen Erfinder Marey? Wer kann für sich beanspruchen, der wirkliche Erfinder zu sein? 
+- Welches Drama überschattete das Privatleben von Muybridge?  
+- Was ist der Unterschied zwischen einem Zoopraxiskop, einem Zootrop, einer Laterna magica und einem Phonographen? Finden Sie heraus, was das Besondere an jedem Gerät ist. Führen Sie weitere Webrecherchen durch, sofern Sie dies nicht aus dem Text ableiten können. 
+- Notieren Sie Ihre Feststellungen auf Ihrer Vorlage.
 <!-- section -->
 
 ### 1.b Wiederverwendung des Materials von Muybridge: Vater des GIF? | 30 Min
