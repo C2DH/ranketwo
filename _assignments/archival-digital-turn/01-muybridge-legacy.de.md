@@ -2,7 +2,7 @@
 layout: assignment
 unit: archival-digital-turn
 lang: de
-title: "[TO TRANSLATE] Muybridges Erbe: Vom Museum ins Web"
+title: "Muybridges Erbe: Vom Museum ins Web"
 cover:
 tags:
   - media history
