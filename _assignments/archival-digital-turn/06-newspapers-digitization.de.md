@@ -15,7 +15,7 @@ requirements: Fast WIFI connection, scissors and paper
 outcomes:
   - "Verstehen, wie der Prozess für Auswahl, Digitalisierung und Online-Veröffentlichung von Zeitungen funktioniert" 
   - "Verstehen, welche Änderungen eintreten, wenn Zeitungen von ihrer gedruckten Form in digitale Dateien umgewandelt werden"
-  - "[TO TRANSLATE] Understanding the merits of online access to large volumes of digitised newspapers"
+  - "Die Vorteile eines Online-Zugangs zu großen Volumen digitalisierter Zeitungen verstehen"
 documents:
   - tom-tryniski
   - musterantworten-zeitung
