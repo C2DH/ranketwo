@@ -7,7 +7,9 @@ size: L
 ---
 
 
-This LARGE module still has to be developed and will be published soon.  
+Dieses GROSSE Modul ist noch nicht entwickelt und wird demnächst veröffentlicht. 
+
+In Kürze verfügbar  
 
 <!-- more -->
 
