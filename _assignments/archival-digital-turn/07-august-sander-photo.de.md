@@ -44,7 +44,7 @@ Bevor Sie mit Ihrer Websuche beginnen, können Sie Ihre Suchkompetenzen anhand d
 
 Beim Ansehen dieses zugänglichen und leicht verständlichen Lernvideos ist zu bedenken, dass dieses von Google und damit einem kommerziellen Unternehmen produziert wurde. Die Vormachtstellung dieses Konzerns wird von Menschen infrage gestellt, die über die Konzentration von Macht und die potenzielle Verwendung zum Nachteil kleinerer Mitbewerber besorgt sind. Weiterführende Informationen zu diesem Thema bieten die nachfolgenden [Reportagen über die Anwendung des Kartellrechts gegen Google in den USA](https://www.bloomberg.com/news/videos/2018-05-22/google-s-illegal-search-gets-prime-time-tv-treatment-video){:target="_blank"}.
 
-- Kurze Erläuterung zur [Funktionsweise von Google Images](https://youtu.be/oJzD4vF5dFA){:target="_blank"}. 
+- Kurze Erläuterung zur [Funktionsweise von Google Images](https://www.dummies.com/education/internet-basics/knowing-google-images-basics/){:target="_blank"}. 
 - Clip mit Erläuterungen zur [Funktionsweise des sozialen Mediums Pinterest](https://youtu.be/oJzD4vF5dFA){:target="_blank"}.
 - Nachfolgend wird erläutert, [wie sich Details der Veröffentlichung von Online-Inhalten zurückverfolgen lassen](https://www.makeuseof.com/tag/find-date-published-post-insanely-simple-tips/){:target="_blank"}.
 
