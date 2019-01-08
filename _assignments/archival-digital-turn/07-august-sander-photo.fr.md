@@ -44,7 +44,7 @@ Avant de lancer votre recherche sur le web, vous pouvez améliorer vos méthodes
 
 En consultant ce tutoriel accessible et clair, il faut garder à l’esprit, qu’il est produit par Google, qui est une société commerciale. Sa position dominante est remise en question par des personnes inquiètes de la concentration des pouvoirs et de son potentiel détournement au détriment des concurrents plus petits. Si cela vous intéresse, vous pouvez écouter un [sujet d’actualité sur l’application de la législation antitrust contre Google aux États-Unis](https://www.bloomberg.com/news/videos/2018-05-22/google-s-illegal-search-gets-prime-time-tv-treatment-video){:target="_blank"}. 
 
-- [Ici](https://youtu.be/oJzD4vF5dFA){:target="_blank"}, vous trouverez une brève explication du fonctionnement de Google Images.
+- [Ici](https://www.dummies.com/education/internet-basics/knowing-google-images-basics/){:target="_blank"}, vous trouverez une brève explication du fonctionnement de Google Images.
 - Vous trouverez [ici](https://youtu.be/oJzD4vF5dFA){:target="_blank"} une vidéo expliquant comment fonctionne le média social Pinterest. 
 - [Ici](https://www.makeuseof.com/tag/find-date-published-post-insanely-simple-tips/){:target="_blank"}, une explication de la méthode permettant de retracer les détails de la date de publication d’un contenu en ligne.
 
