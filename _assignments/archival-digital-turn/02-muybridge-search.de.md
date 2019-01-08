@@ -2,7 +2,7 @@
 layout: assignment
 unit: archival-digital-turn
 lang: de
-title: "[TO TRANSLATE] Muybridge's legacy: searching on the web"
+title: "Muybridges Erbe: Suchen im Web"
 cover:
 tags:
   - media history
@@ -10,7 +10,7 @@ tags:
   - search engines
 order: 2
 outcomes:
-  - "[TO TRANSLATE] Understanding how search engines prioritize certain search results"
+  - "Verstehen, wie Suchmaschinen bestimmte Suchergebnisse priorisieren"
 ---
 
 Das Auffinden von Inhalten zu Eadweard Muybridge im Web hängt teilweise davon ab, was von Suchmaschinen indexiert wird. Welche Suchmaschine Sie verwenden, richtet sich weitestgehend danach, wie Sie die Nutzung des Web erlernt haben. Diese Aufgabe vermittelt Ihnen eine Vorstellung der potenziellen Vielfalt und Reihenfolge der Suchergebnisse. Sie vergleichen die Ergebnisse einer Suche nach Muybridge mit zwei verschiedenen Suchmaschinen: Google und Yahoo.
