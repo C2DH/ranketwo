@@ -44,7 +44,7 @@ Before starting your web search, you can improve your search skills by exploring
 
 What has to be taken into account when watching this accessible and clear tutorial is that it is produced by Google, which is a commercial company. Its dominant role is called into question by people who are concerned with the concentration of power and how it can be misused to the disadvantage of smaller competitors. If you are interested you can listen to a [newsreel about applying antitrust law against Google in the US](https://www.bloomberg.com/news/videos/2018-05-22/google-s-illegal-search-gets-prime-time-tv-treatment-video){:target="_blank"}.
 
-- [Here](https://youtu.be/oJzD4vF5dFA){:target="_blank"} is a short explanation on how Google Images works. 
+- [Here](https://www.dummies.com/education/internet-basics/knowing-google-images-basics/){:target="_blank"} is a short explanation on how Google Images works. 
 - [Here](https://youtu.be/oJzD4vF5dFA){:target="_blank"} is a clip explaining how the social medium Pinterest works.  
 - [Here](https://www.makeuseof.com/tag/find-date-published-post-insanely-simple-tips/){:target="_blank"} is an explanation on how to track down details on when online content was published.   
 
