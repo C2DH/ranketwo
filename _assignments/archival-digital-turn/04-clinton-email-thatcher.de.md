@@ -10,10 +10,9 @@ tags:
   - structure of born digital content
   - changes in conventions of writing
   - characteristics of letters and e-mails
-requirements: internet connection to look up emails from the wikileaks Hillary Clinton Email Archive
 outcomes:
-  - "[TO TRANSLATE] Understanding the difference between a letter and an email"
-  - "[TO TRANSLATE] Understanding how to define an email as an object"
+  - "Den Unterschied zwischen Brief und E-Mail verstehen"
+  - "Verstehen, wie eine E-Mail als ein Objekt definiert wird"
 order: 4
 ---
 
