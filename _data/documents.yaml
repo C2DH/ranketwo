@@ -1541,3 +1541,12 @@
         year: 2018
     attachment: /assets/pdf/musterantworten_digitalisierten_zeitungen.pdf
     _id: b2f2b7e8e2c74c65995a0676a74d6197
+-
+    title: 'cheet sheet with tips from Google'
+    slug: search-strategy
+    type: pdf
+    data: {}
+    attachment: '/assets/pdf/Cheat Sheet with tips from Google .pdf'
+    url: "https://coursebuilder.withgoogle.com/sample/course  \nhttps://support.google.com/websearch/"
+    _id: 5f12e9f44c414f168cc116f4632d65c8
+    _resolved: true
