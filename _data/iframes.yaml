@@ -112,9 +112,18 @@
     type: vimeo
     aspectratio: aspect-16-9
     thumbnail: assets/images/attachments/archival-digital-turn.png
-    src: "https://player.vimeo.com/video/303237473"
+    src: "https://player.vimeo.com/video/303237473" 
+
+
+-   
+    id: archival-to-digital-turn-french
+    type: vimeo
+    aspectratio: aspect-16-9
+    thumbnail: assets/images/attachments/archival-digital-turn.png
+    src: "https://player.vimeo.com/video/312728531" 
 
 -
+
     id: archival-to-digital-turn-playposit
     aspectratio: aspect-16-9
     thumbnail: assets/images/attachments/archival-digital-turn.png
