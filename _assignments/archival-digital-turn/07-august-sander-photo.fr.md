@@ -17,9 +17,10 @@ tags:
   - Neue Sachlichkeit
   - German history
 outcomes:
-  - Former les étudiants à réfléchir aux résultats d’une recherche en ligne et à comment ceux-ci sont déterminés par les propriétés des moteurs de recherche
-  - Former les étudiants à distinguer entre les différents niveaux d’interprétation lorsqu’ils appliquent la critique des sources à des photos analogiques publiées en ligne
-  - Rendre les étudiants conscients des différences en matière de valeurs informatives et artéfactuelles entre les sources analogues et numériques
+  - Apprendre le rapport entre la technologie de la reproduction et la réutilisation de matériaux dans l’ère analogique
+  - Apprendre à consulter l’Internet Archive
+  - Apprendre comment les technologies numériques et le web ont une incidence sur la connaissance d’un artiste/photographe
+
 order: 7
 documents:
   - sander-tracing-date-french
