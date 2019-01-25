@@ -9,7 +9,7 @@ tags:
   - dissemination of knowledge
   - esthetic qualities
 lang: fr
-uni_id: manuscript
+unit_id: manuscript
 link: /u/manuscript/
 permalink: /fr/u/manuscript/
 audience: general public, bachelor, master humanities

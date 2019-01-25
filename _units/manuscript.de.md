@@ -9,7 +9,7 @@ tags:
   - Verbreitung von Wissen
   - ästhetische Qualitäten
 lang: de
-uni_id: manuscript
+unit_id: manuscript
 link: /u/manuscript/
 permalink: /de/u/manuscript/
 audience: general public, bachelor, master humanities
