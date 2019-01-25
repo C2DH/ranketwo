@@ -17,9 +17,9 @@ tags:
   - Neue Sachlichkeit
   - German history
 outcomes:
-  - "[TO TRANSLATE] Training students to reflect on the search results of an online search and how this is determined by the properties of the search engine."
-  - "[TO TRANSLATE] Training students to distinguish between the various layers of interpretation when applying source criticism to analogue photos that have been published online."
-  - "[TO TRANSLATE] Making students conscious of the differences in informational and artefactual value between the analogue and digital source."
+  - Former les étudiants à réfléchir aux résultats d’une recherche en ligne et à comment ceux-ci sont déterminés par les propriétés des moteurs de recherche
+  - Former les étudiants à distinguer entre les différents niveaux d’interprétation lorsqu’ils appliquent la critique des sources à des photos analogiques publiées en ligne
+  - Rendre les étudiants conscients des différences en matière de valeurs informatives et artéfactuelles entre les sources analogues et numériques
 order: 7
 documents:
   - sander-tracing-date-french
