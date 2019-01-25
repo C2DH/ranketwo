@@ -49,7 +49,7 @@ DAY 1 Monday 30 October 2017 – Digital History Lab
 9.10 – 10.45
 
 ### Introduction to the notion of “digital source criticism” – the history of source criticism and its problematisation from a digital history perspective
-Lecture by Prof. Andreas Fickers (45 mins) followed by discussion (45 mins) (TURN TITLE INTO LINK TO PDF)
+Lecture by Prof. Andreas Fickers (45 mins) followed by discussion (45 mins) (TURN TITLE INTO LINK TO PDF FICKERS WINTERSCHOOL)
 
 10.45 – 11.00
 Coffee/tea break
@@ -71,7 +71,7 @@ The teams consider the objects/data/sources that they have brought along, choose
 15.00 - 15.20
 ### Source transformation: from analogue to digital (text, images and 3D objects)
 
-Lecture by Andy O’Dwyer – Reflection on the life cycle from creation to presentation and transformation by exploring the materiality of three data types: text, images and 3D objects (TURN TITLE INTO LINK TO PDF)
+Lecture by Andy O’Dwyer – Reflection on the life cycle from creation to presentation and transformation by exploring the materiality of three data types: text, images and 3D objects (TURN TITLE INTO LINK TO PDF POWER POINT ANDY O'DWYER)
 
 15.20 - 15.40
 Coffee/tea break
@@ -79,7 +79,7 @@ Coffee/tea break
 15.40 - 16.00
 ### Source transformation: from analogue to digital (oral history)
 
-Lecture by Stefania Scagliola about the transformation of sound – Reflection on the life cycle of the interview collection of David Boder, from steel wire to interactive web resource (TURN TITLE INTO LINK TO PDF)
+Lecture by Stefania Scagliola about the transformation of sound – Reflection on the life cycle of the interview collection of David Boder, from steel wire to interactive web resource (TURN TITLE INTO LINK TO PDF SKILL TRAINING STEF)
 
 16.00 - 16.30
 Integrating new insights and missing features  
