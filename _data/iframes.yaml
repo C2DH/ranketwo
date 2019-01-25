@@ -18,6 +18,7 @@
 -
     id: david-boder-german
     title: "David Boder's interview collection: from analogue to digital"
+    type: vimeo
     thumbnail: "https://i.vimeocdn.com/video/728677669_640.jpg"
     aspectratio: aspect-16-9
     src: "https://player.vimeo.com/video/312738684" 
