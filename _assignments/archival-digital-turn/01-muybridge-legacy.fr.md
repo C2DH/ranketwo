@@ -17,7 +17,8 @@ order: 1
 outcomes:
  - "Apprendre le rapport entre la technologie de la reproduction et la réutilisation de matériaux dans l’ère analogique"
  - "Apprendre à consulter l’Internet Archive"
- - "Apprendre comment les technologies numériques et le web ont une incidence sur la connaissance d’un artiste/photographe"  
+ - "Apprendre comment les technologies numériques et le web ont une incidence sur la connaissance d’un artiste/photographe"
+ 
 ---
 Eadweard Muybridge a jeté les bases pour le développement de la cinématographie en réalisant des photos d’un cheval au galop avec toute une série d’appareils photographiques qui se déclenchaient dès que le cheval passait un dispositif électrique. Les silhouettes ont ensuite été transférées sur des plaques de verre qui furent tournées à grande vitesse, afin de simuler un mouvement continu. Cet appareil a été appelé [zoopraxiscope] (https://fr.wikipedia.org/wiki/Zoopraxiscope){:target="_blank"}. De nombreux artistes, photographes et spécialistes se sont inspirés de son travail, mais les effets et la transmission de son héritage ont été démultipliés par la technologie numérique et le web, à la fin des années 1990.
 Cet exercice aborde la relation entre les plaques de verre originales de Muybridge et ce que l’on peut récupérer, visualiser/lire et réutiliser sur le web. Le Musée d’art moderne de San Francisco a créé [une animation](https://youtu.be/wNU7sXkZmSw)sur ce sujet. Consultez-la pour profiter d’une présentation concise sur Eadweard Muybridge et ses réalisations.
