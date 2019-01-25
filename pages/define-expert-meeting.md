@@ -30,28 +30,29 @@ Room MO25020, Mezzanine floor
 
 10.00 - 10.40    
 - Stefania Scagliola (C<sup>2</sup>DH) – How, when and where do we apply digital source criticism? Suggestions for turning a “polysemic” term into a clearly defined and manageable component of the historian’s research and teaching practice	
+(TURN TITLE INTO LINK TO PDF)
 - Chaired by [Chiel van den Akker (Free University of Amsterdam)](https://research.vu.nl/en/persons/cm-van-den-akker) 
 
 10.40 - 11.20    
--  [Pascal Fohr (Staatsarchiv Solothurn, Switzerland)](https://www.so.ch/staatskanzlei/staatsarchiv/ueber-uns/) – Historical source criticism in the digital age 
+-  [Pascal Fohr (Staatsarchiv Solothurn, Switzerland)](https://www.so.ch/staatskanzlei/staatsarchiv/ueber-uns/) – Historical source criticism in the digital age (TURN TITLE INTO LINK TO PDF)
 -  Chaired by [Daniela Schulz](https://www.editionen.uni-wuppertal.de/personen/kollegiatinnen-und-kollegiaten/schulz-daniela.html)  
 
 11.20 - 11.35  Short break 
 
 11.35 - 12.20    
-- [Jacco van Ossenbruggen (Research Institute for Mathematics and Computer Science)](https://www.cwi.nl/people/jacco-van-ossenbruggen)  and [Jasmijn van Gorp (University of Utrecht)](https://www.uu.nl/staff/JvanGorp) – Towards a model for digital tool criticism: Notes from an interdisciplinary workshop
+- [Jacco van Ossenbruggen (Research Institute for Mathematics and Computer Science)](https://www.cwi.nl/people/jacco-van-ossenbruggen)  and [Jasmijn van Gorp (University of Utrecht)](https://www.uu.nl/staff/JvanGorp) – Towards a model for digital tool criticism: Notes from an interdisciplinary workshop (TURN TITLE INTO LINK TO PDF)
 - Chaired  by [Gerben Zaagsma (Head of Digital History and Historiography, C<sup>2</sup>DH)](https://www.c2dh.uni.lu/people/gerben-zaagsma)
 
 
 
 12.20 - 13.00
-- [Asanobu Kitamoto (National Institute of Informatics, Japan)](https://www.nii.ac.jp/en/faculty/digital_content/kitamoto_asanobu/) –  Non-textual “close reading” through the comparison of sources (via video conference)
+- [Asanobu Kitamoto (National Institute of Informatics, Japan)](https://www.nii.ac.jp/en/faculty/digital_content/kitamoto_asanobu/) –  Non-textual “close reading” through the comparison of sources (via video conference) (TURN TITLE INTO LINK TO PDF)
 - Chaired by Jasmijn van Gorp 
 
 13.00 - 14.00 Lunch
 
 14.00 - 14.40   
-- [Julia Noordegraaf (University of Amsterdam)](http://www.uva.nl/profiel/n/o/j.j.noordegraaf/j.j.noordegraaf.html) – Analysing audiovisual sources as data: Experiences from designing the CLARIAH media suite (via video conference)
+- [Julia Noordegraaf (University of Amsterdam)](http://www.uva.nl/profiel/n/o/j.j.noordegraaf/j.j.noordegraaf.html) – Analysing audiovisual sources as data: Experiences from designing the CLARIAH media suite (via video conference) (TURN TITLE INTO LINK TO PDF)
 - Chaired by Pascal Foehr
 
 
