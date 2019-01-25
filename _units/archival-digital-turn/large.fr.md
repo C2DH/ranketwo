@@ -1,16 +1,17 @@
 ---
 type: large
-title: Workshop
+title: Atelier
 lang: fr
 parent: archival-digital-turn
 size: L
 ---
 
 
-This LARGE module still has to be developed and will be published soon.  
+Ce grand module doit encore être développé et sera bientôt publié.
+ 
 
 <!-- more -->
 
-### Available soon
+### Bientôt disponible
 <!-- section-contents -->
 ...
