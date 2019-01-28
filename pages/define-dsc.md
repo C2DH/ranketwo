@@ -11,8 +11,10 @@ documents:
 - delalande-vincent-historien-cyborg
 - hughes-lang-transmutability-decontextualization
 - fickers-towards-digital-historicism-age-abundance
+- foehr-quellenkritik-digitalen-alter
 - hjorland-information-digital-literacy
 - kirschbaum-digital-forensics-cultural-heritage
+- gorp-ossenbruggen-koolen-toolcriticism
 - margulies-digitale-geschichtswissenschaft-einfuhrung
 - mounier-ouvrir-atelier-historien
 - owens-digital-sources-digital-archives
@@ -60,10 +62,16 @@ Of the many questions to ask, these can be regarded as key:
 [ref](fickers-towards-digital-historicism-age-abundance)
 
 {: .ml-3.mt-4.mb-2}
+[ref](foehr-quellenkritik-digitalen-alter)
+
+{: .ml-3.mt-4.mb-2}
 [ref](hjorland-information-digital-literacy)
 
 {: .ml-3.mt-4.mb-2}
 [ref](kirschbaum-digital-forensics-cultural-heritage)
+
+{: .ml-3.mt-4.mb-2}
+[ref](gorp-ossenbruggen-koolen-toolcriticism)
 
 {: .ml-3.mt-4.mb-2}
 [ref](margulies-digitale-geschichtswissenschaft-einfuhrung)
