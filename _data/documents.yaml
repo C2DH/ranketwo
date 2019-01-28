@@ -1545,8 +1545,142 @@
     title: 'cheet sheet with tips from Google'
     slug: search-strategy
     type: pdf
-    data: {}
+    data:
+        title:
+            en_us: 'cheet sheet with tips from Google'
+        date:
+            en_us: 2018
+        year: 2018
+        reference: "https://coursebuilder.withgoogle.com/sample/course  \n"
     attachment: '/assets/pdf/Cheat Sheet with tips from Google .pdf'
     url: "https://coursebuilder.withgoogle.com/sample/course  \nhttps://support.google.com/websearch/"
     _id: 5f12e9f44c414f168cc116f4632d65c8
     _resolved: true
+-
+    title: 'How, when and where do we apply Digital Source Criticism '
+    slug: scagliola-expertmeeting-dsc
+    type: pdf
+    data:
+        title:
+            en_us: 18-12-2017
+        author: 'stefania scagliola'
+        date:
+            en_us: 18-12-2017
+        year: 2017
+    attachment: '/assets/pdf/Scagliola DSC 18-12-2017.pptx.pdf'
+    _id: b7a715e6e1d34043800f51f0c687ca42
+-
+    title: 'Historical Source Criticis in the Digital Age '
+    slug: foehr-expertmeeting-dsc
+    type: pdf
+    data:
+        title:
+            en_us: 18-12-2017
+        author: 'pascal foehr'
+        date:
+            en_us: 18-12-2017
+        year: 2017
+    attachment: '/assets/pdf/Historical Source Criticism - Presentation - Pascal Foehr.pdf'
+    _id: da968785e2cf48f992895f24e237733b
+-
+    title: 'Digital Criticism – Non-Textual “Close Reading” through the Comparison of Sources'
+    slug: kitamoto-expertmeeting-dsc
+    type: pdf
+    data:
+        title:
+            en_us: 18-12-2017
+        author: 'asanobu kitamoto'
+        date:
+            en_us: 18-12-2017
+        year: 2017
+    attachment: /assets/pdf/kitamoto.pptx.pdf
+    _id: 71f28607643f4c54a93674abfae4f668
+-
+    title: ' Towards a model of Digital Tool Criticism: notes from an Interdisciplinary Workshop'
+    slug: ossenburgh-vangorp-expertmeeting-dsc
+    type: pdf
+    data:
+        title:
+            en_us: 18-12-2017
+        author: 'jacco van ossenburg en jasmijn van gorp'
+        date:
+            en_us: 18-12-2017
+        year: 2017
+    attachment: '/assets/pdf/luxembourg 18 Dec - toolcrit ws report.pdf'
+    _id: e76c9ff0ca734b01a9aca9b7b3114c81
+-
+    title: 'Analyzing AV sources as data - experiences gained with designing the media suite '
+    slug: noordegraaf-expertmeeting-dsc
+    type: pdf
+    data:
+        title:
+            en_us: 18-12-2017
+        author: 'julia noordegraaf'
+        date:
+            en_us: 18-12-2017
+        year: 2017
+    attachment: '/assets/pdf/Slides Noordegraaf.pdf'
+    _id: 54204a29c4704132a9dcd2ed1b5e3b5a
+-
+    title: 'David Boder''s interview collection - from steel wire to website'
+    slug: scagliola-skilltraining-dsc
+    type: pdf
+    data:
+        title:
+            en_us: 30/31-12-2017
+        author: 'stefania scagliola'
+        date:
+            en_us: 30/31-10-2017
+        year: 2017
+    _id: 00abd48b0c684df790927209faee7c54
+-
+    title: 'source transformations: from analogue to digital '
+    slug: dwyer-skilltraining-dsc
+    type: pdf
+    data:
+        title:
+            en_us: 30/31-10-2017
+        author: 'andy 0''dwyer'
+        date:
+            en_us: 30/31-10-2017
+        year: 2017
+    _id: 4c6b32f4389247efb05d7eb514305326
+-
+    title: 'digital source criticism - winterschool - february 2017'
+    slug: fickers-skilltraining-dsc
+    type: pdf
+    data:
+        title:
+            en_us: 30/31-10-2017
+        author: 'andreas fickers'
+        date:
+            en_us: 30/31-10-2017
+        year: 2017
+    attachment: '/assets/pdf/Digital Source Criticism Winter School 2017.pdf'
+    _id: 181338974dda451ca5ff36baaf514b2a
+-
+    title: "Historische Quellenkritik im Digitalen Zeitalter\nFöhr, Pascal. Historische Quellenkritik im Digitalen Zeitalter. 2017, Doctoral Thesis, University of Basel, Faculty of Humanities and Social Sciences."
+    slug: foehr-quellenkritik-digitalen-alter
+    type: link
+    data:
+        title:
+            en_us: "Historische Quellenkritik im Digitalen Zeitalter\nFöhr, Pascal. Historische Quellenkritik im Digitalen Zeitalter. 2017, Doctoral Thesis, University of Basel, Faculty of Humanities and Social Sciences."
+        author: 'Pascal Foehr'
+        date:
+            en_us: 2018
+        year: 2018
+    url: 'https://edoc.unibas.ch/64111/'
+    _id: 645e5587c5234f5eb69d08bb5cb0015d
+-
+    title: 'Toward a model for digital tool criticism: Reflection as integrative practice, Digital Scholarship in the Humanities,'
+    slug: gorp-ossenbruggen-koolen-toolcriticism
+    type: link
+    data:
+        title:
+            en_us: 'Toward a model for digital tool criticism: Reflection as integrative practice, Digital Scholarship in the Humanities,'
+        author: 'Marijn Koolen, Jasmijn van Gorp, Jacco van Ossenbruggen'
+        date:
+            en_us: 2018
+        year: 2018
+    url: 'https://doi.org/10.1093/llc/fqy048'
+    _id: 04d6c6f7cdce4c7db9273c7c0ebd25c4
