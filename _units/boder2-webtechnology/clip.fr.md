@@ -1,5 +1,5 @@
 ---
-title: A comparison between David Boder's websites in 2000 and 2009 
+title: "La technologie web en bref : Comparaison du premier site web sur David Boder avec celui de 2009"
 type: clip
 lang: fr
 parent: boder2-webtechnology

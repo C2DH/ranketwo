@@ -1,5 +1,5 @@
 ---
-title: Do mediaeval manuscripts need to be photogenic? The lives of the Chronicle of Dalimil 
+title: "Die Leben der Dalimil Chronik: Müssen die mittelalterlichen Manuskripte fotogen sein?"
 type: clip
 lang: de
 parent: manuscript

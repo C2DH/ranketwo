@@ -141,7 +141,7 @@
     type: vimeo
     aspectratio: aspect-16-9
     thumbnail: "https://i.vimeocdn.com/video/718778251.jpg?mw=900&mh=506&q=70"
-    title: Boder and webtechology. A video lecture by Lars Wieneke
+    title: "Web history in a nutshell: comparing the first website on David Boder in 2000 to the one launched in 2009"
     src: "https://player.vimeo.com/video/279392604"
 
 -
@@ -149,7 +149,7 @@
     type: vimeo
     aspectratio: aspect-16-9
     thumbnail: "https://i.vimeocdn.com/video/718778251.jpg?mw=900&mh=506&q=70"
-    title: Boder and webtechology. A video lecture by Lars Wieneke
+    title: "La technologie web en bref : Comparaison du premier site web sur David Boder avec celui de 2009"
     src: "https://player.vimeo.com/video/312895779"
 
 -
@@ -157,14 +157,14 @@
     type: vimeo
     aspectratio: aspect-16-9
     thumbnail: "https://i.vimeocdn.com/video/718778251.jpg?mw=900&mh=506&q=70"
-    title: Boder and webtechology. A video lecture by Lars Wieneke
+    title: "Die Webtechnologie auf den Punkt gebracht: Vergleich der ersten Website über David Boder mit der von 2009"
     src: "https://player.vimeo.com/video/312896406"
 
 -
     id: manuscript
     type: vimeo
     aspectratio: aspect-16-9
-    title: Do mediaeval manuscripts need to be photogenic? The lives of the Chronicle of Dalimil
+    title: "Do mediaeval manuscripts need to be photogenic? The lives of the Chronicle of Dalimil"
     src: "https://player.vimeo.com/video/312892694"
 
 -
@@ -178,7 +178,7 @@
     id: manuscript-german
     type: vimeo
     aspectratio: aspect-16-9
-    title: Do mediaeval manuscripts need to be photogenic? The lives of the Chronicle of Dalimil
+    title: "Die Leben der Dalimil Chronik: Müssen die mittelalterlichen Manuskripte fotogen sein?"
     src: "https://player.vimeo.com/video/312894085"
 
 -

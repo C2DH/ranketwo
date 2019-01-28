@@ -1,5 +1,5 @@
 ---
-title: A comparison between David Boder's websites in 2000 and 2009 
+title: "Web history in a nutshell: comparing the first website on David Boder in 2000 to the one launched in 2009"
 type: clip
 lang: en
 parent: boder2-webtechnology

@@ -1,5 +1,5 @@
 ---
-title: A comparison between David Boder's websites in 2000 and 2009 
+title: "Die Webtechnologie auf den Punkt gebracht: Vergleich der ersten Website über David Boder mit der von 2009"
 type: clip
 lang: de
 parent: boder2-webtechnology
