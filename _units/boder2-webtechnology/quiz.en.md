@@ -2,7 +2,7 @@
 title: Animation in a quiz mode
 lang: en
 type: quiz
-parent: boder
+parent: boder2-webtechnology
 iframe: boder2-webtechnology-playposit
 ---
 
