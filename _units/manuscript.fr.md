@@ -17,8 +17,9 @@ components:
   small: animation + quiz
   medium: animation + 6 assignments,   
 mediatype: manuscripts, digitized manuscripts
+cover:
+  url: assets/images/attachments/dalimil-manuscripts-preview.jpg
 order: 5
-
 ---
 
 LECON PROCHAINE-Leçon sur la dynamique du World Wide Web et la priorité donnée à la valeur esthétique d’un manuscrit médiéval en vue de la diffusion de la connaissance et de la création d’accès, au détriment de sa version originale, non illustrée et moins attrayante.

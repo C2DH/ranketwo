@@ -17,8 +17,9 @@ components:
   small: Animation + Quiz
   medium: Animation + 6 Aufgaben   
 mediatype: manuscripts, digitized manuscripts
+cover:
+  url: assets/images/attachments/dalimil-manuscripts-preview.jpg
 order: 5
-
 ---
 
 SPATEREN LEKTION - Eine Lektion zu dem Thema, wie die Dynamik des World Wide Web zur Priorisierung des ästhetischen Werts eines mittelalterlichen Manuskripts geführt hat, wenn es um die Verbreitung von Wissen und die Schaffung eines Zugangs zulasten der unillustrierten, weniger attraktiven Originalversion geht.
