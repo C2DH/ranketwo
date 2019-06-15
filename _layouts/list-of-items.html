@@ -1,0 +1,43 @@
+---
+layout: default
+---
+{% assign paragraphs = page.content | split: site.excerpt_separator %}
+{% include page.top.html %}
+<div class='container'>
+
+  <div class='contents mt-5 mb-5' id="contents">
+    <div class="row">
+      {% assign items = site.data[page.items] %}
+
+      {% for item in items %}
+        {% capture item_download_url %}
+          {% if url contains '://' %}
+            {{url}}
+          {% else %}
+            {{url | relative_url}}
+          {% endif %}
+        {% endcapture %}
+        <div class='col-md-4 col-lg-3'>
+          <div class="card" style="width: 100%;">
+            <div class="card-body">
+              <h5 class="card-title">
+                {{ item.title }}
+              </h5>
+            </div>
+            <p class="card-text">{{item.abstract[page.lang]}}</p>
+            <p class="card-tags">
+              <span class='label'>
+                {% assign key="use-in-units" %}{% include t.html %}
+              </span>
+              {% for unit_slug in item.units %}
+                
+                <a href="/u/{{unit_slug}}"></a>{% unless forloop.last %}, {% endunless %}
+              {% endfor %}
+            </p>
+            <a href='{{ item_download_url }}' class="btn btn-block btn-primary">{% assign key='download' %}{% include t.html %} ↓ </a>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
