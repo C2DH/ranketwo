@@ -1,12 +1,16 @@
 -
     title: 'Test source “digital source criticism” '
-    type: link
-    data:
-        date:
-            en_us: 2017
-        year: 2017
-        abstract:
-            en_us: 'Abstract here.'
-    url: /assets/pdf/
+    abstract:
+      en: 'Abstract here.'
+    url: /assets/pdf/x.pdf
+    type: pdf file
+    units:
+      - archival-digital-turn
+-
+    title: 'hHstorical Source Criticism blog on openedition'
+    abstract:
+      en: 'HISTORICAL SOURCE CRITICISM Historische Quellenkritik im Digitalen Zeitalter'
+    url: https://www.openedition.org/11106?lang=en
+    type: external link, pdf file
     units:
       - archival-digital-turn
