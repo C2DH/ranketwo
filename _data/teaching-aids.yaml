@@ -1,16 +1,85 @@
 -
-    title: 'Test source “digital source criticism” '
-    abstract:
-      en: 'Abstract here.'
+    title: 'Didigital Source Criticism in a nutshell'
+    abstract:  
+      en: 'This is a handout about Ranke'
     url: /assets/pdf/x.pdf
     type: pdf file
     units:
       - archival-digital-turn
 -
-    title: 'hHstorical Source Criticism blog on openedition'
+    title: 'How to collaborate'
     abstract:
-      en: 'HISTORICAL SOURCE CRITICISM Historische Quellenkritik im Digitalen Zeitalter'
+      en: 'Guide on how to create teaching content for Ranke.2'
     url: https://www.openedition.org/11106?lang=en
     type: external link, pdf file
     units:
       - archival-digital-turn
+-  
+
+    title: 'Visual Aids'
+    abstract:
+      en: 'Aids that explain how digitised and born digital sources are created'
+    url: https://www.openedition.org/11106?lang=en
+    type: external link, pdf file
+    units:
+      - archival-digital-turn
+      
+-
+
+    title: 'Answer form 'David Boder, from wire recorder to website''
+    abstract:
+      en: 'Answer form 'David Boder, from wire recorder to website''
+    url: https://www.openedition.org/11106?lang=en
+    type: external link, pdf file
+    units:
+      - archival-digital-turn
+
+-
+    
+    title: 'Answer form 'From archival to digital turn''
+    abstract:
+      en: 'Answer form 'From archival to digital turn''
+    url: https://www.openedition.org/11106?lang=en
+    type: external link, pdf file
+    units:
+      - archival-digital-turn
+
+- 
+
+    title: 'Struggling with timelines'
+    abstract:
+      en: 'Aid for finding a suitbale timeline tool'
+    url: https://www.openedition.org/11106?lang=en
+    type: external link, pdf file
+    units:
+      - archival-digital-turn
+
+- 
+
+    title: 'How to use the timeline tool TikiToki'
+    abstract:
+      en: 'Aid for working with the timeline tool TikiToki'
+    url: https://www.openedition.org/11106?lang=en
+    type: external link, pdf file
+    units:
+      - archival-digital-turn
+- 
+
+    title: 'What works and what does not'
+    abstract:
+      en: 'Aid for tracing the publication date of webcontent'
+    url: https://www.openedition.org/11106?lang=en
+    type: external link, pdf file
+    units:
+      - archival-digital-turn
+
+- 
+
+    title: 'Cheat sheet with search tips from Google'
+    abstract:
+      en: 'Aid with search tips '
+    url: https://www.openedition.org/11106?lang=en
+    type: external link, pdf file
+    units:
+      - archival-digital-turn
+
