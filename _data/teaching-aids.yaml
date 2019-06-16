@@ -1,5 +1,6 @@
 -
     title: 'Didigital Source Criticism in a nutshell'
+    slug: digital-source-criticism-nutshell
     abstract:  
       en: 'This is a handout about Ranke'
     url: /assets/pdf/C3.2-RankeNutshell-5-printdoc-hires.pdf
@@ -9,6 +10,7 @@
       
 -
     title: 'How to collaborate'
+    slug: how-to-collaborate
     abstract:
       en: 'Guide on how to create teaching content for Ranke.2'
     url: https://www.openedition.org/11106?lang=en
@@ -18,6 +20,7 @@
 -  
 
     title: 'Visual Aids'
+    slug: visual-aids-ranke
     abstract:
       en: 'Aids that explain how digitised and born digital sources are created'
     url: https://www.openedition.org/11106?lang=en
