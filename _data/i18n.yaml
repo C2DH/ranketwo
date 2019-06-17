@@ -55,9 +55,12 @@ list of tags:
 list of lessons:
   en: "list of lessons"
   fr: "Liste des leçons"
+in lessons:
+  en: "in lessons:"
+  fr: "dans les leçons :"
 in collaboration with:
   en: "In collaboration with:"
-  fr: "en coopération avec:"
+  fr: "en coopération avec :"
   de: "in Zusammenarbeit mit:"
 communication technology:
   fr: technologies de la communication

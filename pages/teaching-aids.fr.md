@@ -1,7 +1,7 @@
 ---
 layout: list-of-items
-lang: en
-permalink: /teaching-aids/
+lang: fr
+permalink: /fr/teaching-aids/
 link: /teaching-aids/
 title: Teaching Aids
 items: teaching-aids
