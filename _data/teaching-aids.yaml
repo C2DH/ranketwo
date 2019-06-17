@@ -43,32 +43,36 @@
 
     title: 'Struggling with timelines'
     abstract:
-      en: 'Aid for finding a suitbale timeline tool'
-    url: https://www.openedition.org/11106?lang=en
+      en: 'How to find a suitable timeline tool'
+    url: /assets/pdf/struggling-timeline.pdf
     type: external link, pdf file
+    mimetype: pdf
     units:
-      - archival-digital-turn
+      - boder
 -
     title: 'How to use the timeline tool TikiToki'
     abstract:
       en: 'Aid for working with the timeline tool TikiToki'
-    url: https://www.openedition.org/11106?lang=en
+    url: /assets/pdf/tutorial-tiki.pdf
+    mimetype: pdf
     type: external link, pdf file
     units:
-      - archival-digital-turn
+      - boder
 -
     title: 'What works and what does not'
     abstract:
       en: 'Aid for tracing the publication date of webcontent'
-    url: https://www.openedition.org/11106?lang=en
+    url: /assets/pdf/what-works-and-what-doesnot.pdf
     type: external link, pdf file
+    mimetype: pdf
     units:
       - archival-digital-turn
 -
     title: 'Cheat sheet with search tips from Google'
     abstract:
       en: 'Aid with search tips '
-    url: https://www.openedition.org/11106?lang=en
+    url: /assets/pdf/Cheat-Sheet-with-tips-from-Google.pdf
     type: external link, pdf file
+    mimetype: pdf
     units:
       - archival-digital-turn
