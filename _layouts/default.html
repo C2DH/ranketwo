@@ -48,6 +48,15 @@
         var toggle = langDropdownMenu.classed('show');
         langDropdownMenu.classed('show', !toggle);
       })
+
+      var homeDropdown = d3.select('#navbarDropdown-home');
+      var homeDropdownToggle = homeDropdown.select('a.dropdown-toggle');
+      var homeDropdownMenu = homeDropdown.select('div.dropdown-menu');
+
+      homeDropdownToggle.on('click', function () {
+        var toggle = homeDropdownMenu.classed('show');
+        homeDropdownMenu.classed('show', !toggle);
+      })
     });
   </script>
 </body>
