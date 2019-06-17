@@ -2,13 +2,21 @@
   <div class="container">
 
     <div class="row">
-      <div class="col-md-8 col-sm-6">
+      <div class="col-6 col-sm-6">
         <p>
           <a {% if page.lang == site.default_lang %} href='{{"/who-we-are/" | relative_url}}' {% else %} href="{{page.lang | relative_url}}/who-we-are/"{% endif %}>Who we are</a>
           <br>
           <a {% if page.lang == site.default_lang %} href='{{"/contact-us/" | relative_url}}' {% else %} href="{{page.lang | relative_url}}/contact-us/"{% endif %}>Contact us</a>
           <br>
           <a {% if page.lang == site.default_lang %} href='{{"/legal-notice/" | relative_url}}' {% else %} href="{{page.lang | relative_url}}/legal-notice/"{% endif %}>Legal Notice</a>
+        </p>
+      </div>
+      <div class="col-6 col-sm-6">
+        <p>
+          <a {% if page.lang == site.default_lang %} href='{{"/lessons/" | relative_url}}' {% else %} href="{{page.lang | relative_url}}/lessons/"{% endif %}>{% assign key="Go to lessons"%}{% include t.html %}</a>
+          <br>
+          <a {% if page.lang == site.default_lang %} href='{{"/teaching-aids/" | relative_url}}' {% else %} href="{{page.lang | relative_url}}/teaching-aids/"{% endif %}>{% assign key="Teaching aids"%}{% include t.html %}</a>
+          <br>
         </p>
       </div>
     </div>
