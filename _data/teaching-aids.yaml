@@ -1,45 +1,37 @@
 -
     title: 'Didigital Source Criticism in a nutshell'
     slug: digital-source-criticism-nutshell
-    abstract:  
+    abstract:
       en: 'This is a handout about Ranke'
     url: /assets/pdf/C3.2-RankeNutshell-5-printdoc-hires.pdf
     type: pdf file
-    units:
-      - archival-digital-turn
-      
+    mimetype: pdf
 -
     title: 'How to collaborate'
     slug: how-to-collaborate
     abstract:
       en: 'Guide on how to create teaching content for Ranke.2'
-    url: https://www.openedition.org/11106?lang=en
+    url: /assets/pdf/C2.1c-howtocollaborate.pdf
     type: external link, pdf file
-    units:
-      - archival-digital-turn
--  
-
+    mimetype: pdf
+-
     title: 'Visual Aids'
     slug: visual-aids-ranke
     abstract:
       en: 'Aids that explain how digitised and born digital sources are created'
-    url: https://www.openedition.org/11106?lang=en
+    url: /assets/pdf/C3.1-visual-aid-3.pdf
     type: external link, pdf file
-    units:
-      - archival-digital-turn
-      
+    mimetype: pdf
 -
-
-    title: 'Answer form 'David Boder,from wire recorder to website'
+    title: 'Answer form for "David Boder,from wire recorder to website"'
     abstract:
-      en: 'Answer form 'David Boder,from wire recorder to website'
+      en: 'Answer form for "David Boder,from wire recorder to website"'
     url: https://www.openedition.org/11106?lang=en
     type: external link, pdf file
     units:
-      - archival-digital-turn
-
+      - boder
 -
-    
+
     title: 'Answer form From archival to digital turn'
     abstract:
       en: 'Answer form From archival to digital turn'
@@ -47,8 +39,7 @@
     type: external link, pdf file
     units:
       - archival-digital-turn
-
-- 
+-
 
     title: 'Struggling with timelines'
     abstract:
@@ -57,9 +48,7 @@
     type: external link, pdf file
     units:
       - archival-digital-turn
-
-- 
-
+-
     title: 'How to use the timeline tool TikiToki'
     abstract:
       en: 'Aid for working with the timeline tool TikiToki'
@@ -67,8 +56,7 @@
     type: external link, pdf file
     units:
       - archival-digital-turn
-- 
-
+-
     title: 'What works and what does not'
     abstract:
       en: 'Aid for tracing the publication date of webcontent'
@@ -76,9 +64,7 @@
     type: external link, pdf file
     units:
       - archival-digital-turn
-
-- 
-
+-
     title: 'Cheat sheet with search tips from Google'
     abstract:
       en: 'Aid with search tips '
@@ -86,4 +72,3 @@
     type: external link, pdf file
     units:
       - archival-digital-turn
-
