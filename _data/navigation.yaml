@@ -16,3 +16,12 @@ primary:
       active_layout: unit
     - title: Teaching aids
       href: /teaching-aids/
+
+footer:
+  links:
+    - title: Who we are
+      href: /who-we-are/
+    - title: Contact us
+      href: /contact-us/
+    - title: Legal Notice
+      href: /legal-notice/

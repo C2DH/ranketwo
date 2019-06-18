@@ -1,6 +1,16 @@
 <nav id='nav--mobile'>
   <div class='toggler' style='width: 120px;margin-left:-60px'>{% assign key="close menu"%}{% include t.html %}</div>
   <ul class="navbar-nav left" >
+    {% for link in site.data.navigation.home.links %}
+    <li class='nav-item {% if page.link == link.href %} active {% endif %}'>
+      <a class="nav-link"
+        {% if page.lang == site.default_lang %}
+          href='{{link.href | absolute_url}}'
+        {% else %}
+          href='{{page.lang | absolute_url}}{{link.href}}'
+        {% endif %}>{% assign key=link.title%}{% include t.html %}</a>
+    </li>
+    {% endfor %}
     {% for link in site.data.navigation.primary.links %}
     <li class='nav-item {% if page.link == link.href %} active {% endif %}'>
       <a class="nav-link"
@@ -13,7 +23,7 @@
     {% endfor %}
   </ul>
   <ul class="navbar-nav right" >
-    {% for link in site.data.navigation.secondary.links %}
+    {% for link in site.data.navigation.footer.links %}
       <li class='nav-item {% if page.link == link.href %} active {% endif %}'>
         <a class="nav-link"
           {% if page.lang == site.default_lang %}
