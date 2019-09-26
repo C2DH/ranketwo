@@ -3,7 +3,7 @@ title: Animation in a quiz mode
 lang: fr
 type: quiz
 parent: manuscript
-iframe: manuscript-playposit
+iframe: manuscript-playposit-french
 ---
 
 {: .headsup}                            
