@@ -44,10 +44,10 @@
                 {% assign is_active = true %}
               {% endif %}
               <a class='dropdown-item {% if is_active %} active {% endif %}'
-                  {% if lang == site.default_lang %}
+                  {% if page.lang == site.default_lang %}
                     href='{{link.href | absolute_url}}'
                   {% else %}
-                    href='{{lang | absolute_url}}{{link.href}}'
+                    href='{{page.lang | absolute_url}}{{link.href}}'
                   {% endif %}>{% assign key=link.title %}{% include t.html%}</a>
 
             {% endfor %}
