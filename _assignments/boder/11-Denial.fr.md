@@ -26,7 +26,7 @@ Cet exercice aidera les étudiants à identifier les sources de l'information re
 ### Instructions
 <!-- section-contents -->
 
-- Allez sur la page [https://allthingsmoving.com/DB_interactive_2018_07_07/](https://allthingsmoving.com/DB_interactive_2018_07_07/){:target="_blank"} et lisez le contenu de la boîte sur l'ancien président iranien Ahmadinejad.
+- Allez sur la page [https://ranke2.uni.lu/klynt/en/](https://ranke2.uni.lu/klynt/en/){:target="_blank"} et lisez le contenu de la boîte sur l'ancien président iranien Ahmadinejad.
 
 <!-- section -->
 

@@ -22,7 +22,7 @@ In dieser Aufgabe soll aufgezeigt werden, wie sich Schilderungen eines ähnliche
 ### Anweisung
 <!-- section-contents -->
 
-- Gehen Sie zu [https://allthingsmoving.com/DB_interactive_2018_07_07/](https://allthingsmoving.com/DB_interactive_2018_07_07/){:target="_blank"} und lesen Sie die Box zum Textausschnitt.
+- Gehen Sie zu [https://ranke2.uni.lu/klynt/en/](https://ranke2.uni.lu/klynt/en/){:target="_blank"} und lesen Sie die Box zum Textausschnitt.
 
 <!-- section -->
 

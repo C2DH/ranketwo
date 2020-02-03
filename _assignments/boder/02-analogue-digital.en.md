@@ -6,7 +6,7 @@ type: assignment
 title: The analogue wire recorder compared to digital audio recording
 cover: /assets/images/attachments/12boxes/12boxes_02.png
 order: 2
-tags: 
+tags:
  - history of communication technology
  - obsolete recording devices
 requirements: Fast WIFI connection, access to Ranke.2, computer or laptop, application on laptop or computer to view video.
@@ -14,9 +14,9 @@ outcomes:
  - Learning about the physics of audio recording in analogue and digital form
  - Understanding how we depende on technology for the spread of knowledge
 ---
- 
+
 One might wonder why students of a humanities discipline should learn about the obsolete technology of the wire recorder. The reason is to understand the difference between the physics of capturing sound in the analogue era and how this relates to the physics of digital technology. Practising digital source criticism is about more than just reflecting on the informational value of a historical source. It also means considering the transmitter of information and its material qualities. With digital information technology now so pervasive in our everyday life, it is important to understand the underlying physical phenomena and to be able to reflect on how the shift from analogue to digital has affected our use of technology.
- 
+
 <!-- more -->
 
 <!-- briefing-student -->
@@ -24,7 +24,7 @@ One might wonder why students of a humanities discipline should learn about the 
 ### Instructions
 <!-- section-contents -->
 
-- Open the second box "How does the wire recorder work?" and watch [the animation](https://allthingsmoving.com/DB_interactive_2018_07_07/){:target="_blank"}.
+- Open the second box "How does the wire recorder work?" and watch [the animation](https://ranke2.uni.lu/klynt/en/){:target="_blank"}.
 
 <!-- section -->
 

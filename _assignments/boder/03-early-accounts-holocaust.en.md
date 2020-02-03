@@ -30,7 +30,7 @@ When reflecting on the value and meaning of a source that has been published on 
 <!-- section-contents -->
 
 
-- Open the box ["Early accounts on the Holocaust"](https://allthingsmoving.com/DB_interactive_2018_07_07/#Intro){:target="_blank"} and read the various sections.
+- Open the box ["Early accounts on the Holocaust"](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"} and read the various sections.
 
 <!-- section -->
 

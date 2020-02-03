@@ -22,7 +22,7 @@ The purpose of this assignment is to illustrate how the narrative on experiences
 ### Instructions
 <!-- section-contents -->
 
-- Go to [https://allthingsmoving.com/DB_interactive_2018_07_07/](https://allthingsmoving.com/DB_interactive_2018_07_07/){:target="_blank"} and read the box about the snippet of text.
+- Go to [https://ranke2.uni.lu/klynt/en/](https://ranke2.uni.lu/klynt/en/){:target="_blank"} and read the box about the snippet of text.
 
 <!-- section -->
 

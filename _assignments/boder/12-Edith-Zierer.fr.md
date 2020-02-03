@@ -22,7 +22,7 @@ L'objectif de cet exercice est de montrer comment le récit sur un même sujet, 
 ### Instructions
 <!-- section-contents -->
 
-- Allez sur la page [https://allthingsmoving.com/DB_interactive_2018_07_07/](https://allthingsmoving.com/DB_interactive_2018_07_07/){:target="_blank"} et lisez le contenu de la boîte sur l'extrait de texte.
+- Allez sur la page [https://ranke2.uni.lu/klynt/en/](https://ranke2.uni.lu/klynt/en/){:target="_blank"} et lisez le contenu de la boîte sur l'extrait de texte.
 
 <!-- section -->
 
