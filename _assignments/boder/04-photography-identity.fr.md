@@ -6,7 +6,7 @@ type: assignment
 title: Qui sont ces personnes ? Photographie et identité
 order: 4
 cover: /assets/images/attachments/12boxes/12boxes_04.png
-tags: 
+tags:
   - réutilisation des photographies
   - métadonnées
   - propriété
@@ -28,7 +28,7 @@ Dans l'animation sur David Boder, des photographies de victimes et de familles o
 ### Instructions
 <!-- section-contents -->
 
-- Ouvrez la boîte Qui sont ces prisonniers libérés ? sur le site [https://ranke2.uni.lu/klynt/en/#Intro](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"} et lisez le texte.
+- Ouvrez la boîte [Qui sont ces prisonniers libérés ?](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"} et lisez le texte.
 - Ouvrez ensuite la boîte Qui sont ces personnes sur les photos ? et lisez le texte.
 
 <!-- section -->
@@ -36,13 +36,13 @@ Dans l'animation sur David Boder, des photographies de victimes et de familles o
 ### 4.a  Qui se cache derrière le contenu en ligne ? | 20 min
 <!-- section-contents -->
 
-- Essayez de trouver plus d'informations contextuelles sur ces photographies en effectuant d'autres recherches sur internet. 
+- Essayez de trouver plus d'informations contextuelles sur ces photographies en effectuant d'autres recherches sur internet.
 - Qui a pris ces photos ?
 - Ou, quand et dans quel contexte ?
-- Qui les a collectées, documentées et publiées en ligne ? 
+- Qui les a collectées, documentées et publiées en ligne ?
 - Comment pouvez-vous obtenir l’autorisation de les réutiliser ?
-- Comment pouvez-vous vous assurer que les informations trouvées sur ces photos sont fiables ? 
-Notez vos observations dans votre modèle. 
+- Comment pouvez-vous vous assurer que les informations trouvées sur ces photos sont fiables ?
+Notez vos observations dans votre modèle.
 
 
 <!-- section -->
@@ -50,7 +50,7 @@ Notez vos observations dans votre modèle.
 ### 4.b  Photos en ligne utilisées dans le contexte historique approprié | 20 min
 <!-- section-contents -->
 
-- Comparez la manière dont la photo des prisonniers libérés est utilisée dans ce contexte interactif avec la manière dont elle est utilisée dans : 
+- Comparez la manière dont la photo des prisonniers libérés est utilisée dans ce contexte interactif avec la manière dont elle est utilisée dans :
 
   - 1 [ce contexte](http://www1.northbrook28.net/~mrench/Period%209%20Jack%27s%20Group/Jobs.html){:target="_blank"}
 

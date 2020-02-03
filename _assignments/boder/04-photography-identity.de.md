@@ -6,7 +6,7 @@ type: assignment
 title: Wer sind diese Menschen? Fotografie und Identität
 order: 4
 cover: /assets/images/attachments/12boxes/12boxes_04.png
-tags: 
+tags:
   - Wiederverwendung von Fotografien
   - Metadaten
   - Eigentum
@@ -28,8 +28,8 @@ Da es in dieser Lektion um Quellenkritik geht, haben wir versucht, den Kontext, 
 ### Anweisung
 <!-- section-contents -->
 
-- Öffnen Sie zunächst die Box Who are these liberated prisoners? Unter [https://ranke2.uni.lu/klynt/en/#Intro](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"} und lesen Sie den Text.
-- Öffnen Sie nun die Box Who are the people in these photos? und lesen Sie den Text.
+- Öffnen Sie zunächst die Box [Who are these liberated prisoners](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"} und lesen Sie den Text.
+- Öffnen Sie nun die Box *Who are the people in these photos?* und lesen Sie den Text.
 
 <!-- section -->
 
@@ -39,10 +39,10 @@ Da es in dieser Lektion um Quellenkritik geht, haben wir versucht, den Kontext, 
 - Versuchen Sie, durch zusätzliche Webrecherchen weitere Hintergrundinformationen über diese Fotografien zusammenzutragen.  
 - Wer hat diese Aufnahmen gemacht?
 - Wo, wann und in welchem Kontext?
-- Wer hat sie zusammengetragen, dokumentiert und online veröffentlicht? 
+- Wer hat sie zusammengetragen, dokumentiert und online veröffentlicht?
 - Wie können Sie die Genehmigung zur Wiederverwendung erlangen?
-- Wie können Sie sicher sein, dass potenzielle von Ihnen zu diesen Fotos gefundene Informationen vertrauenswürdig sind? 
-Notieren Sie Ihre Feststellungen auf Ihrer Vorlage. 
+- Wie können Sie sicher sein, dass potenzielle von Ihnen zu diesen Fotos gefundene Informationen vertrauenswürdig sind?
+Notieren Sie Ihre Feststellungen auf Ihrer Vorlage.
 
 <!-- section -->
 

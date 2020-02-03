@@ -6,7 +6,7 @@ type: assignment
 title: Who are these people? Photography and identity
 order: 4
 cover: /assets/images/attachments/12boxes/12boxes_04.png
-tags: 
+tags:
   - re-use of photographs
   - metadata
   - ownership
@@ -19,7 +19,7 @@ outcomes:
 ---
 
 In the animation about Boder, photographs of victims and of families have been used without clarifying their identity. This is done to create an association. The photo stands for a group or for a societal-cultural context. In a sense the same effect is created with the newsreels about the liberated concentration camps, as Boder observed: people are portrayed as an anonymous group, disregarding their individuality.  
-Because this lesson is about source criticism, we have tried to trace the context in which these photos were taken and the names of the people who are portrayed. The assignment invites students to search for the context in which these photos were taken and how they ended up in this animation. 
+Because this lesson is about source criticism, we have tried to trace the context in which these photos were taken and the names of the people who are portrayed. The assignment invites students to search for the context in which these photos were taken and how they ended up in this animation.
 
 <!-- more -->
 
@@ -28,7 +28,7 @@ Because this lesson is about source criticism, we have tried to trace the contex
 ### Instructions
 <!-- section-contents -->
 
-- First open the box Who are these liberated prisoners, at [https://ranke2.uni.lu/klynt/en/#Intro](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"} and read the text.
+- First open the box "[Who are these liberated prisoners](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"}" and read the text.
 - Then open the box  "Who are the people in these photos?" and read the text
 
 <!-- section -->
@@ -36,14 +36,14 @@ Because this lesson is about source criticism, we have tried to trace the contex
 ### 4.a  Online content, who is behind it? | 20 min
 <!-- section-contents -->
 
-- Try to find more background information about these photographs through additional web research. 
+- Try to find more background information about these photographs through additional web research.
 - Who created these photos?
 - When, where and in what context?
-- Who collected, documented and published them online? 
+- Who collected, documented and published them online?
 - How can you get permission to reuse them?
-- How can you be sure that the information you can find about these photos is trustworthy? 
+- How can you be sure that the information you can find about these photos is trustworthy?
 
-Note your findings in your template. 
+Note your findings in your template.
 
 <!-- section -->
 
