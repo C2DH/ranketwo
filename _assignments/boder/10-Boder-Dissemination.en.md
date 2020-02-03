@@ -24,7 +24,7 @@ You will be asked to create a map and mark the places with institutes that hold 
 ### Instructions
 <!-- section-contents -->
 
-- Go to the credits page of the [interactive animation](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"}. 
+- Go to the credits page of the [interactive animation](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"}. 
 - Make a list of the institutes that have provided material for this interactive animation  
 
 <!-- section -->

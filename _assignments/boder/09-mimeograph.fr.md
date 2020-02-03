@@ -21,7 +21,7 @@ La réduction des coûts et des protocoles faciles à gérer impliquent que des 
 ### Instructions
 <!-- section-contents -->
 
-- Regardez la vidéo sur [les technologies de reproduction des années 1950](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"}.
+- Regardez la vidéo sur [les technologies de reproduction des années 1950](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"}.
 
 <!-- section -->
 

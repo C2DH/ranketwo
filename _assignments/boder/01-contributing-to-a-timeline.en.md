@@ -32,7 +32,7 @@ In the animation you watched the focus is mostly on the creation and transformat
 ### Instructions
 <!-- section-contents -->
 
-- Open the box [**Boder’s biography**](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"} again, and read the various sections.
+- Open the box [**Boder’s biography**](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"} again, and read the various sections.
   {: .headsup}
 - Go to the timeline [application Tiki-Toki](https://www.tiki-toki.com/){:target="_blank"}.
 - Fill in the login details of the account that has been created for this assignment

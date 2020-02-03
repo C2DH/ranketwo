@@ -31,7 +31,7 @@ Dans l'animation que vous avez regardée, l'accent est mis essentiellement sur l
 ### Instructions
 <!-- section-contents -->
 
-- Ouvrez de nouveau la boîte intitulée [**Biographie de David Boder**](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"} et lisez les différentes sections.  
+- Ouvrez de nouveau la boîte intitulée [**Biographie de David Boder**](https://ranke2.uni.lu/klynt/fr/#Intro){:target="_blank"} et lisez les différentes sections.  
   {: .headsup}
 - Ouvrez l'application de création de frises chronologiques [application Tiki-Toki](https://www.tiki-toki.com/){:target="_blank"}.
 - Saisissez les données de connexion du compte créé pour cet exercice
@@ -76,7 +76,7 @@ Elles peuvent couvrir des sujets liés à la vie de David Boder, tels que :
 
 Suivez les instructions fournies dans le tutoriel.
 
-- Créez au moins quatre entrées sur la frise traitant d'un sujet lié à la vie de David Boder ou à d'autres témoignages sur les camps de concentration. 
+- Créez au moins quatre entrées sur la frise traitant d'un sujet lié à la vie de David Boder ou à d'autres témoignages sur les camps de concentration.
 
 Ces entrées peuvent porter sur :
 

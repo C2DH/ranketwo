@@ -28,7 +28,7 @@ Da es in dieser Lektion um Quellenkritik geht, haben wir versucht, den Kontext, 
 ### Anweisung
 <!-- section-contents -->
 
-- Öffnen Sie zunächst die Box Who are these liberated prisoners? Unter [https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"} und lesen Sie den Text.
+- Öffnen Sie zunächst die Box Who are these liberated prisoners? Unter [https://ranke2.uni.lu/klynt/en/#Intro](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"} und lesen Sie den Text.
 - Öffnen Sie nun die Box Who are the people in these photos? und lesen Sie den Text.
 
 <!-- section -->

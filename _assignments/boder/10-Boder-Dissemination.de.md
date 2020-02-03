@@ -27,7 +27,7 @@ Sie müssen in dieser Aufgabe eine Karte erstellen und die Orte der Institute ma
 ### Instruction
 <!-- section-contents -->
 
-- Gehen Sie zur Credits-Seite der [interaktiven Animation](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"}. 
+- Gehen Sie zur Credits-Seite der [interaktiven Animation](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"}. 
 - Erstellen Sie eine Liste der Institute, die Material für diese interaktive Animation bereitgestellt haben.  
 
 <!-- section -->

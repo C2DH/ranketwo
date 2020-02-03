@@ -21,7 +21,7 @@ Reduzierte Kosten und leicht zu verwaltende Protokolle implizieren, dass Laien, 
 ### Anweisung
 <!-- section-contents -->
 
-- Offenen Sie sich den clip über [Wiedergabetechnologien in den 1950er-Jahren]. First open Boder interactive, then click on the bottom left corner on the index. Open up BOX 9 (https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"}.
+- Offenen Sie sich den clip über [Wiedergabetechnologien in den 1950er-Jahren]. First open Boder interactive, then click on the bottom left corner on the index. Open up BOX 9 (https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"}.
 
 <!-- section -->
 

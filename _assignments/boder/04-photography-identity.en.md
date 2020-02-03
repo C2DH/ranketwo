@@ -28,7 +28,7 @@ Because this lesson is about source criticism, we have tried to trace the contex
 ### Instructions
 <!-- section-contents -->
 
-- First open the box Who are these liberated prisoners, at [https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"} and read the text.
+- First open the box Who are these liberated prisoners, at [https://ranke2.uni.lu/klynt/en/#Intro](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"} and read the text.
 - Then open the box  "Who are the people in these photos?" and read the text
 
 <!-- section -->

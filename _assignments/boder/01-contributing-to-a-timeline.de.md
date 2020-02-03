@@ -22,7 +22,7 @@ documents:
   - tutorial-tiki
 ---
 
-In der gezeigten Animation liegt der Schwerpunkt überwiegend auf der Schaffung und Umwandlung der Sammlung David Boders von einer analogen Quelle in eine Online-Webressource. Aber auch der historische Kontext gebietet eine gewisse Beachtung. Boders Wissen und Einstellung wurden geformt von dem, was er Zeit seines Lebens an persönlichen Rückschlägen, technologischer Innovation, wissenschaftlichem Fortschritt und politischen Konflikten durchlebte. In dieser Aufgabe werden Sie mit einem digitalen Tool zur Erstellung einer Zeitleiste vertraut gemacht, die vervollständigt und geteilt werden kann. Der Grundgedanke besteht darin, Ihnen den historischen Kontext vor Augen zu führen, in dem die historischen Quellen Boders entstanden. Sie führen dabei kritische Webrecherchen durch und tragen zu einer digitalen Zeitleiste bei. 
+In der gezeigten Animation liegt der Schwerpunkt überwiegend auf der Schaffung und Umwandlung der Sammlung David Boders von einer analogen Quelle in eine Online-Webressource. Aber auch der historische Kontext gebietet eine gewisse Beachtung. Boders Wissen und Einstellung wurden geformt von dem, was er Zeit seines Lebens an persönlichen Rückschlägen, technologischer Innovation, wissenschaftlichem Fortschritt und politischen Konflikten durchlebte. In dieser Aufgabe werden Sie mit einem digitalen Tool zur Erstellung einer Zeitleiste vertraut gemacht, die vervollständigt und geteilt werden kann. Der Grundgedanke besteht darin, Ihnen den historischen Kontext vor Augen zu führen, in dem die historischen Quellen Boders entstanden. Sie führen dabei kritische Webrecherchen durch und tragen zu einer digitalen Zeitleiste bei.
 
 <!-- more -->
 
@@ -31,7 +31,7 @@ In der gezeigten Animation liegt der Schwerpunkt überwiegend auf der Schaffung 
 ### Anweisung
 <!-- section-contents -->
 
-- Öffnen Sie die Box [**Boders Biografie**](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"} erneut und lesen Sie die verschiedenen Abschnitte.  
+- Öffnen Sie die Box [**Boders Biografie**](https://ranke2.uni.lu/klynt/de/#Intro){:target="_blank"} erneut und lesen Sie die verschiedenen Abschnitte.  
   {: .headsup}
 - Gehen Sie zur [Tiki-Toki-Zeitleiste-App](https://www.tiki-toki.com/){:target="_blank"}.
 - Geben Sie die Login-Daten des Accounts ein, der im Rahmen dieser Aufgabe eingerichtet wurde
@@ -76,12 +76,12 @@ Hierbei kann es sich um Themen im Zusammenhang mit Boders Leben handeln, darunte
 
 Befolgen Sie die Anweisungen im Leitfaden.
 
-- Erstellen Sie mindestens vier Einträge auf einer Zeitleiste zu einem Thema, das entweder in Zusammenhang mit Boders Leben oder sonstigen frühen Erfahrungsberichten über Konzentrationslager steht. 
+- Erstellen Sie mindestens vier Einträge auf einer Zeitleiste zu einem Thema, das entweder in Zusammenhang mit Boders Leben oder sonstigen frühen Erfahrungsberichten über Konzentrationslager steht.
 
 Einige Anregungen:
 
 - Politische und gesellschaftliche Entwicklungen: Denken Sie an die politische Lage in den Ländern, in denen Boder lebte bzw. in die er reiste: Lettland, Russland, Sibirien, Japan, Mexiko, Vereinigte Staaten von Amerika, Europa.
-- Technologie: Denken Sie an Erfindungen in Zusammenhang mit der Aufnahme- oder Kommunikationstechnologie. 
+- Technologie: Denken Sie an Erfindungen in Zusammenhang mit der Aufnahme- oder Kommunikationstechnologie.
 - Geschichte der Psychologie: Denken Sie an die Entwicklungen in dieser Wissenschaft und die Gründung der US National Mental Health Association (US-Behörde für geistige Gesundheit).
 - Geschichte von Interviewsammlungen: Von wem stammt die Idee, menschliche Erlebnisse aufzuzeichnen und diese Aufzeichnungen zu sammeln?
 - Chronologische Liste von Audio- und Filmaufnahmen mit Erfahrungsberichten zu Konzentrationslagern: Denken Sie an Kriegsprozesse, Fernsehen, Radio oder das Web.
@@ -101,7 +101,7 @@ Bei den Aufgaben 1b und 1c müssen Sie den bestehenden Rechtsrahmen zur Wiederve
 - Überprüfen Sie, welche der Bilder, die Sie für Ihre Zeitleiste genutzt haben, lizenzfrei sind und welche nur mit Genehmigung genutzt werden dürfen.
 Where can you find this information if you search on the web?
 
-- Fassen Sie in Ihrer Vorlage kurz zusammen (150 Wörter), was Sie im Web gefunden haben und was Sie damit tun können. 
+- Fassen Sie in Ihrer Vorlage kurz zusammen (150 Wörter), was Sie im Web gefunden haben und was Sie damit tun können.
 
   1. Ausführliche Informationen zum Umgang mit Urheberrechten finden Sie [hier](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/481194/c-notice-201401.pdf){:target="_blank"}.  
   2. Einen Videoclip zu den Creative-Commons-Prinzipien finden Sie [hier](https://youtu.be/1DKm96Ftfko){:target="_blank"}.

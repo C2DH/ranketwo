@@ -28,7 +28,7 @@ sect
 ### Instructions
 <!-- section-contents -->
 
-- Open the box [Boder’s approach](https://allthingsmoving.com/DB_interactive_2018_07_03/#Intro){:target="_blank"}.
+- Open the box [Boder’s approach](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"}.
 - Watch the footage.
 
 <!-- section -->
