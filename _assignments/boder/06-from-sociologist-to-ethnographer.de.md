@@ -25,7 +25,7 @@ Nachdem Boder zunächst als traditioneller Sozialwissenschaftler Beweise sammelt
 ### Anweisung
 <!-- section-contents -->
 
-- Öffnen Sie die Box [Boder’s approach](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"}.
+- Öffnen Sie die Box [Boder’s approach](https://ranke2.uni.lu/klynt/de/#Intro){:target="_blank"}.
 - Sehen Sie sich das Filmmaterial an.
 
 <!-- section -->

@@ -29,7 +29,7 @@ Lorsque l'on réfléchit à la valeur et à la signification d'une source publi�
 ### Instructions
 <!-- section-contents -->
 
-- Ouvrez la boîte [Premiers témoignages sur l'Holocauste](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"} et lisez les différentes sections.
+- Ouvrez la boîte [Premiers témoignages sur l'Holocauste](https://ranke2.uni.lu/klynt/fr/#Intro){:target="_blank"} et lisez les différentes sections.
 
 <!-- section -->
 

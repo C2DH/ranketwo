@@ -29,7 +29,7 @@ Bei einem Reflexionsprozess über Wert und Bedeutung einer im Web veröffentlich
 ### Anweisung
 <!-- section-contents -->
 
-- Öffnen Sie die Box [Early accounts on the Holocaust](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"} und lesen Sie die verschiedenen Abschnitte
+- Öffnen Sie die Box [Early accounts on the Holocaust](https://ranke2.uni.lu/klynt/de/#Intro){:target="_blank"} und lesen Sie die verschiedenen Abschnitte
 
 <!-- section -->
 

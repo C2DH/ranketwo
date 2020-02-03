@@ -27,7 +27,7 @@ L'approche de David Boder est passée de celle d'un sociologue traditionnel cher
 ### Instructions
 <!-- section-contents -->
 
-- Ouvrez la boîte [Approche de David Boder](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"}.
+- Ouvrez la boîte [Approche de David Boder](https://ranke2.uni.lu/klynt/fr/#Intro){:target="_blank"}.
 - Regardez la séquence. 
 
 <!-- section -->

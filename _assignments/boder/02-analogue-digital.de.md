@@ -24,7 +24,7 @@ Warum sich Studierende der Geisteswissenschaften mit der veralteten Technologie 
 ### Anweisung
 <!-- section-contents -->
 
-- Öffnen Sie die zweite Box How does the wire recorder work? und sehen Sie sich [die Animation](https://ranke2.uni.lu/klynt/en/){:target="_blank"}.
+- Öffnen Sie die zweite Box How does the wire recorder work? und sehen Sie sich [die Animation](https://ranke2.uni.lu/klynt/de/){:target="_blank"}.
 
 <!-- section -->
 

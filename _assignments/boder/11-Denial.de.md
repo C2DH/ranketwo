@@ -26,7 +26,7 @@ Diese Aufgabe soll Studierenden bei der Identifizierung der Quellen helfen, auf 
 ### Anweisung
 <!-- section-contents -->
 
-- Gehen Sie zu [https://ranke2.uni.lu/klynt/en/](https://ranke2.uni.lu/klynt/en/){:target="_blank"} und lesen Sie den Inhalt in der Box über den früheren iranischen Präsidenten Ahmadinejad.
+- Gehen Sie zu [https://ranke2.uni.lu/klynt/de/](https://ranke2.uni.lu/klynt/de/){:target="_blank"} und lesen Sie den Inhalt in der Box über den früheren iranischen Präsidenten Ahmadinejad.
 
 <!-- section -->
 

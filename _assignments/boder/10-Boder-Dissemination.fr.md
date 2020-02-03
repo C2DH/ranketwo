@@ -27,7 +27,7 @@ Vous devrez créer une carte et y indiquer les instituts qui détiennent une par
 ### Instructions
 <!-- section-contents -->
 
-- Allez dans le menu « Crédits » de l'[animation interactive](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"}. 
+- Allez dans le menu « Crédits » de l'[animation interactive](https://ranke2.uni.lu/klynt/fr/#Intro){:target="_blank"}. 
 - Dressez la liste des instituts qui ont fourni des supports pour cette animation interactive.  
 
 <!-- section -->

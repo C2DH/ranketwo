@@ -27,7 +27,7 @@ Da es in dieser Lektion um Quellenkritik geht, haben wir versucht, den Kontext, 
 ### Anweisung
 <!-- section-contents -->
 
-- Öffnen Sie zunächst die Box Wie sind diese Leute? Unter [https://ranke2.uni.lu/klynt/en/#Intro](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"} und lesen Sie den Text.
+- Öffnen Sie zunächst die Box Wie sind diese Leute? Unter [https://ranke2.uni.lu/klynt/de/#Intro](https://ranke2.uni.lu/klynt/de/#Intro){:target="_blank"} und lesen Sie den Text.
 
 <!-- section -->
 

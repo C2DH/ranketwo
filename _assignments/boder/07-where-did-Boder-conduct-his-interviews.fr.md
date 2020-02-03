@@ -23,7 +23,7 @@ Cet exercice vise à vous montrer que les camps de déplacés étaient les premi
 ### Instructions
 <!-- section-contents -->
 
-- Ouvrez la boîte [Où David Boder a-t-il réalisé ses interviews ?](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"} et regardez la vidéo sur les camps de déplacés.
+- Ouvrez la boîte [Où David Boder a-t-il réalisé ses interviews ?](https://ranke2.uni.lu/klynt/fr/#Intro){:target="_blank"} et regardez la vidéo sur les camps de déplacés.
 
 <!-- section -->
 

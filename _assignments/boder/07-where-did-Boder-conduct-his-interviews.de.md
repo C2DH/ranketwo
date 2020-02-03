@@ -23,7 +23,7 @@ Diese Aufgabe soll Ihnen helfen, über Vertriebenenlager als wichtigste Stätte 
 ### Anweisung
 <!-- section-contents -->
 
-- Öffnen Sie die Box [Where did Boder conduct his interviews?](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"} und sehen Sie sich den Clip über Vertriebenenlager an.
+- Öffnen Sie die Box [Where did Boder conduct his interviews?](https://ranke2.uni.lu/klynt/de/#Intro){:target="_blank"} und sehen Sie sich den Clip über Vertriebenenlager an.
 
 <!-- section -->
 
