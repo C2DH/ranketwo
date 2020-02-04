@@ -54,9 +54,9 @@ Note your findings in your template.
 
   - 1 [This context](http://www1.northbrook28.net/~mrench/Period%209%20Jack%27s%20Group/Jobs.html){:target="_blank"}
 
-  - 2 [and in this context](http://motlc.wiesenthal.com/site/pp.asp?c=gvKVLcMVIuG&b=394959){:target="_blank"}
+  - 2 [and in this context](https://encyclopedia.ushmm.org/content/en/photo/liberated-prisoners-at-ebensee){:target="_blank”}
 
-  - 3 [and in this context](http://australianews.today/2018/01/29/the-secret-love-of-the-auschwitz-tattooist/){:target="_blank"}
+  - 3 [and in this context](https://denisonmagazine.com/article/uncommon-ground-surviving-mauthausen/){:target="_blank”} 
 
 - Note your findings in your template.  
 
