@@ -8,7 +8,7 @@ iframe: david-boder-interactive-german
 ---
 
 {: .headsup}
-**Lesen sie diese Einführung, bevor sie sich die interaktive Animation ansehen, [TO TRANSLATE] then choose one of the assignments!**
+**Lesen sie diese Einführung, bevor sie sich die interaktive Animation ansehen**
 
 Im Gegensatz zum Quiz, in dem die Fragen automatisch eingeblendet werden, müssen Sie in dieser interaktiven Version des Clips auf eine rechteckige schwarze Box mit einem weißen Titel klicken, die unten links auf Ihrem Bildschirm eingeblendet wird. Durch einen Klick auf die Box gelangen Sie zu einem Fenster mit weiteren Informationen zu einem bestimmten Thema. Sie benötigen diese Informationen, um Ihre Aufgaben abzuschließen. Statt den Clip abzuspielen und auf die Box zu warten, können Sie auch auf den Index unten links auf dem Bildschirm klicken. Ein Überblick über alle Boxen und Themen wird so wie nachfolgend aufgezeigt eingeblendet.
 
