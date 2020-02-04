@@ -54,9 +54,10 @@ Notez vos observations dans votre modèle.
 
   - 1 [ce contexte](http://www1.northbrook28.net/~mrench/Period%209%20Jack%27s%20Group/Jobs.html){:target="_blank"}
 
-  - 2 [ce contexte](http://motlc.wiesenthal.com/site/pp.asp?c=gvKVLcMVIuG&b=394959){:target="_blank"}
+  - 2 [ce contexte](https://encyclopedia.ushmm.org/content/en/photo/liberated-prisoners-at-ebensee){:target="_blank"}
 
-  - 3 [et ce contexte](http://australianews.today/2018/01/29/the-secret-love-of-the-auschwitz-tattooist/){:target="_blank"}
+  - 3 [et ce contexte](https://denisonmagazine.com/article/uncommon-ground-surviving-mauthausen/){:target="_blank"}
+
 
 - Notez vos observations dans votre modèle.  
 
@@ -65,7 +66,7 @@ Notez vos observations dans votre modèle.
 ### Suggestions de lectures/vidéos
 <!-- section-contents -->
 
-- [Photography and fictionality](https://drive.google.com/open?id=1NT4m-KnYk7yq5ZnubifAnW6TcJScGQkX){:target="_blank"}, par Jens Schröter
+- [Photography and fictionality](https://drive.google.com/open?id=1NT4m-KnYk7yq5ZnubifAnW6TcJScGQkX){:target="_blank"},par Jens Schröter
 - [Regarding the pain of others, images of horror](https://books.google.nl/books/about/Regarding_the_Pain_of_Others.html?id=XYo3AAAAQBAJ&source=kp_cover&redir_esc=y){:target="_blank"}, Susan Sontag
 
 <!-- briefing-teacher -->
