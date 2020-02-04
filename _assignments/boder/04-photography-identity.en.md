@@ -54,7 +54,7 @@ Note your findings in your template.
 
   - 1 [This context](http://www1.northbrook28.net/~mrench/Period%209%20Jack%27s%20Group/Jobs.html){:target="_blank"}
 
-  - 2 [and in this context](http://www1.northbrook28.net/~mrench/Period%209%20Jack%27s%20Group/Jobs.html){:target="_blank"}
+  - 2 [and in this context](https://encyclopedia.ushmm.org/content/en/photo/liberated-prisoners-at-ebensee){:target="_blank"}
 
   - 3 [and in this context] 
 
