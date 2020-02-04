@@ -56,7 +56,7 @@ Note your findings in your template.
 
   - 2 [and in this context](https://encyclopedia.ushmm.org/content/en/photo/liberated-prisoners-at-ebensee){:target="_blank"}
 
-  - 3 [and in this context] 
+  - 3 [and in this context](https://denisonmagazine.com/article/uncommon-ground-surviving-mauthausen/){:target="_blank"}
 
 - Note your findings in your template.  
 
