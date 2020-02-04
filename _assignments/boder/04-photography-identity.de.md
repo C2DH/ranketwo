@@ -53,9 +53,9 @@ Notieren Sie Ihre Feststellungen auf Ihrer Vorlage.
 
   - 1 [diesem Kontext](http://www1.northbrook28.net/~mrench/Period%209%20Jack%27s%20Group/Jobs.html){:target="_blank"}
 
-  - 2 [und in diesem Kontext](http://motlc.wiesenthal.com/site/pp.asp?c=gvKVLcMVIuG&b=394959){:target="_blank"}
+  - 2 [und in diesem Kontext](https://encyclopedia.ushmm.org/content/en/photo/liberated-prisoners-at-ebensee){:target="_blank”}
 
-  - 3 [und in diesem Kontext](http://australianews.today/2018/01/29/the-secret-love-of-the-auschwitz-tattooist/){:target="_blank"}
+  - 3 [und in diesem Kontext](https://denisonmagazine.com/article/uncommon-ground-surviving-mauthausen/){:target="_blank"}{:target="_blank"}
 
 - Notieren Sie Ihre Feststellungen auf Ihrer Vorlage.  
 
