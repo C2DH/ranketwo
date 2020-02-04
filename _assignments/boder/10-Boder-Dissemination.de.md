@@ -24,7 +24,7 @@ Sie müssen in dieser Aufgabe eine Karte erstellen und die Orte der Institute ma
 
 <!-- briefing-student -->
 
-### Instruction
+### Anweisung
 <!-- section-contents -->
 
 - Gehen Sie zur Credits-Seite der [interaktiven Animation](https://ranke2.uni.lu/klynt/de/#Intro){:target="_blank"}. 
