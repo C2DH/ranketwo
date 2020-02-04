@@ -8,7 +8,7 @@ iframe: david-boder-interactive-french
 ---
 
 {: .headsup}
-**Lisez l'introduction avant de lancer cette animation interactive, [TO TRANSLATE] then choose one of the assignments!**
+**Lisez l'introduction avant de lancer cette animation interactive**
 
 À l’inverse du quiz, où les questions apparaissent automatiquement, dans cette version interactive de la vidéo, vous devez cliquer sur le cadre rectangulaire de texte blanc sur fond noir qui s’affiche en bas à gauche de votre écran. En cliquant sur cet élément, vous appelez une fenêtre contenant davantage d’informations sur un sujet spécifique. Vous avez besoin de ces informations pour mener à bien la tâche. Si vous ne souhaitez pas attendre qu’un tel cadre apparaisse pendant que vous visionnez la vidéo, vous pouvez cliquer sur l’index dans le coin inférieur gauche de l’écran. Un aperçu de tous les cadres et sujets s’affiche tel qu’illustré ci-dessous.
 
