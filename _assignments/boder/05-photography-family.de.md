@@ -12,9 +12,9 @@ tags:
   - ownership
   - digital archives 
 outcomes:
-  - Understanding how photographs can be used for different purposes,
-  - Understanding how digital and web technologies have enhanced the re-use of photographs
-  - Learning to trace the origin of a photo through web research
+  - Verstehen wie Fotografien für unterschiedliche Zwecke verwendet werden können.
+  - Verstehen wie digitale und Web-Technologien die Wiederverwendung von Fotografien verstärkt haben
+  - Lernen wie man die Herkunft einer Fotografie durch Web-Recherche zurückverfolgen kann.
 ---
 
 In der Animation über Boder wurden Aufnahmen von Opfern und Familien verwendet, ohne deren Identität klarzustellen. Dies soll eine Assoziation bewirken. Das Foto steht für eine Gruppe bzw. einen soziokulturellen Kontext. Mit den Wochenschauen über die befreiten Konzentrationslager wird  wie von Boder beobachtet  in gewisser Weise derselbe Effekt erzeugt: Menschen werden als anonyme Gruppe unter Missachtung ihrer Individualität dargestellt.  
