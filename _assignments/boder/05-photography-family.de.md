@@ -3,7 +3,7 @@ layout: assignment
 unit: boder
 lang: de
 type: assignment
-title: "[TO TRANSLATE] Who are these families?"
+title: "Wer sind diese Familien?"
 order: 5
 cover: /assets/images/attachments/12boxes/12boxes_04.png
 tags: 
