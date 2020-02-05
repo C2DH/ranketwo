@@ -41,7 +41,7 @@ In der gezeigten Animation liegt der Schwerpunkt überwiegend auf der Schaffung 
 
 Sie sehen eine Zeitleiste mit Daten zu David Boders Leben.
 Dies ist die Basis für die Ausführung der nachfolgenden Aufgaben.
-If you need more guidance, then follow the step by step instructions provided in [cit](tutorial-tiki).
+Sollten Sie zusätzliche Orientierungshilfe benötigen, dann befolgen Sie die Schritt-für-Schritt Anweisungen[cit](tutorial-tiki).
 
 <!-- section -->
 
@@ -67,7 +67,7 @@ Hierbei kann es sich um Themen im Zusammenhang mit Boders Leben handeln, darunte
 - Wann und wo studierte Boder?
 - Wann wurde das Drahttonbandgerät erfunden?
 - Wann wurden die amerikanischen Wochenschauen über die Lager einem US-amerikanischen Publikum gezeigt?
-- Document your findings in the appropiate field in the template.
+- Dokumentieren Sie Ihre Ergebnisse im entsprechenden Feld der Vorlage.
 
 <!-- section -->
 
