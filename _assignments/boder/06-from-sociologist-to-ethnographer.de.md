@@ -57,6 +57,6 @@ Tragen Sie über [diesen Link](https://www.youtube.com/watch?v=LCvwnJl7_uE&list=
 •	Ins Deutsche.
 
 - Hören Sie sich ein Radiobeitrag vom 16.5.2015 des National Public Radio in den USA über Lieder der Holocaust-Überlebenden an [Songs from Holocaust survivors](https://www.npr.org/2015/05/16/406967291/1-000-songs-from-holocaust-survivors-archived?t=1530721766077&t=1539629898605) 
-- Lesen Sie über die Bedeutung von Lieder für Holocaust-Überlebende in: S. GILBERT: SOCIAL HISTORY AND MUSICAL TEXTS, IRASM 36 (2005) 1, 117-134[ref](gilbert-music-songs) 
+- Lesen Sie über die Bedeutung von Lieder für Holocaust-Überlebende in: S. GILBERT: SOCIAL HISTORY AND MUSICAL TEXTS, IRASM 36 (2005) 1, 117-134 [ref](gilbert-music-songs) 
 
 <!-- briefing-teacher -->
