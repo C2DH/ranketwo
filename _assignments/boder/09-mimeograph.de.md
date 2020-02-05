@@ -56,7 +56,7 @@ Reduzierte Kosten und leicht zu verwaltende Protokolle implizieren, dass Laien, 
 ### Empfehlungen Lektüre/Video
 <!-- section-contents -->
 - Sehen Sie sich diese Animation über die Geschichte der Kommunikationstechnologie [the history of communication technology](https://youtu.be/u43zr_7Y0ts), die von der Dow Chemical Company erstellt wurde, an
-- Konsultieren Sie diese interaktive Zeitleiste zur Geschichte der Kommunikation [interactive timeline about the history of communication](http://www.thehistoryofcommunication.com)die vom Unternehmen Special Answering Services erstellt wurde.
+- Konsultieren Sie diese interaktive Zeitleiste zur Geschichte der Kommunikation [interactive timeline about the history of communication](http://www.thehistoryofcommunication.com) die vom Unternehmen Special Answering Services erstellt wurde.
 
 
 
