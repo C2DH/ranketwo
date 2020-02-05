@@ -8,9 +8,9 @@ order: 7
 lang: de
 requirements: schnelles WLAN, Zugang zu Ranke.2, Computer oder Laptop, Anwendung auf Computer oder Laptop zum Abspielen von Videos
 outcomes:
-  - learning about circumstances in the displacement camps
-  - learning to search with image recognition
-  - learning to conduct web research
+  - Etwas über die Umstände in den Vertriebenenlagern erfahren
+  - Das Recherchieren mit Bilderkennung erlernen
+  - Die Durchführung von Web-Recherche erlernen   
 ---
 
 Wie im Clip beschrieben, führte Boder seine Gespräche unter schwierigen Umständen durch. Häufig war es nicht einfach, einen ruhigen Bereich zu finden, in dem er mit seinen Befragten alleine sein konnte. Dies wirkte sich auf die Qualität seiner Aufnahmen und vermutlich auch auf die Länge der Interviews aus. Einen Eindruck von diesen Rahmenbedingungen verschafft ein von Yad Vashem zu den Umständen in Vertriebenenlagern gedrehtes Video.  
