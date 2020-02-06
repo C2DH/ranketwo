@@ -64,6 +64,6 @@ Sie müssen in dieser Aufgabe eine Karte erstellen und die Orte der Institute ma
 ### Empfehlungen Lektüre/Video
 <!-- section-contents -->
 
-Fragen Sie Andreas nach grundlegenden Schriften zu digitalen Archiven.
+Lesen Sie diese Rezension Historypin's in the American Archivist: https://reviews.americanarchivist.org/2016/07/02/historypin/ 
 
 <!-- briefing-teacher -->
