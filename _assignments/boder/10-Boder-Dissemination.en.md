@@ -60,6 +60,5 @@ You will be asked to create a map and mark the places with institutes that hold 
 ### Reading/viewing suggestions
 <!-- section-contents -->
 
-This website provides a clear explanation of how to work with Historypin: https://www.fractuslearning.com/historypin/ 
-
+Read a review of Historypin in the American in the American Archivist: https://reviews.americanarchivist.org/2016/07/02/historypin/ 
 <!-- briefing-teacher -->
