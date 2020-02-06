@@ -7,10 +7,11 @@ cover: /assets/images/attachments/12boxes/12boxes_07.png
 order: 7
 lang: fr
 requirements: bonne connexion Wi-Fi, accès à Ranke.2, PC ou ordinateur portable, application installée sur le PC ou le portable permettant de visualiser des vidéos
-outcomes:
-  - learning about circumstances in the displacement camps
-  - learning to search with image recognition
-  - learning to conduct web research
+resultat d'apprendissage:
+  - En apprendre plus sur les circonstances dans les camps de personnes déplacées.
+  - Apprendre à effectuer des recherches avec la reconnaissance d’image.
+  - Apprendre à faire des recherches sur le web
+
 ---
 
 Comme le mentionne la vidéo, David Boder a réalisé ses interviews dans des conditions difficiles. Il avait du mal à trouver des endroits tranquilles pour être en tête à tête avec les personnes qu'il souhaitait interroger. Cela a affecté la qualité de ses enregistrements et a sans doute eu un impact sur la durée des interviews. Pour vous donner une idée de ces conditions, vous pouvez regarder une vidéo réalisée par Yad Vashem sur la situation dans les camps de déplacés.  
