@@ -66,6 +66,6 @@ Diese Aufgabe soll Studierenden bei der Identifizierung der Quellen helfen, auf 
 ### Empfehlungen Lektüre/Video
 <!-- section-contents -->
 
-Suche nach grundlegenden Schriften, Gerben? 
+Have a look at a Rand report published in 2019 about how news coverage has changed over time: https://www.rand.org/pubs/research_reports/RR2960.html 
 
 <!-- briefing-teacher -->
