@@ -66,6 +66,6 @@ Cet exercice aidera les étudiants à identifier les sources de l'information re
 ### Suggestions de lectures/vidéos
 <!-- section-contents -->
 
-Recherche de documents de base, Gerben ? 
+Have a look at a Rand report published in 2019 about how news coverage has changed over time: https://www.rand.org/pubs/research_reports/RR2960.html 
 
 <!-- briefing-teacher -->
