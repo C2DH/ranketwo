@@ -27,7 +27,7 @@ Dans l'animation sur David Boder, des photographies de victimes et de familles o
 ### Instructions
 <!-- section-contents -->
 
-- Ouvrez la boîte Qui sont ces familles ? sur le site [https://ranke2.uni.lu/klynt/fr/#Intro](https://ranke2.uni.lu/klynt/fr/#Intro){:target="_blank"} et lisez le texte.
+- Ouvrez la boîte "[Qui sont ces familles?](https://ranke2.uni.lu/klynt/fr/#Intro]{:target="_blank"}" et lisez le texte.
 
 <!-- section -->
 
