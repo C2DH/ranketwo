@@ -60,6 +60,6 @@ You will be asked to create a map and mark the places with institutes that hold 
 ### Reading/viewing suggestions
 <!-- section-contents -->
 
-Ask Andreas for basic literature about digital archives?
+This website provides a clear explanation of how to work with Historypin: https://www.fractuslearning.com/historypin/ 
 
 <!-- briefing-teacher -->
