@@ -29,7 +29,7 @@ Dans l'animation sur David Boder, des photographies de victimes et de familles o
 <!-- section-contents -->
 
 - Ouvrez la boîte [Qui sont ces prisonniers libérés ?](https://ranke2.uni.lu/klynt/fr/#Intro){:target="_blank"} et lisez le texte.
-- Ouvrez ensuite la boîte Qui sont ces personnes sur les photos ? et lisez le texte.
+
 
 <!-- section -->
 
