@@ -29,7 +29,7 @@ Because this lesson is about source criticism, we have tried to trace the contex
 <!-- section-contents -->
 
 - First open the box "[Who are these liberated prisoners](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"}" and read the text.
-- Then open the box  "Who are the people in these photos?" and read the text
+
 
 <!-- section -->
 
