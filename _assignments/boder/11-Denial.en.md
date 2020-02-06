@@ -58,7 +58,7 @@ how this news spread, and how it was represented by the international press.
 - Who created the timeline and text about Holocaust denial? 
 - Who created the wiki? 
 - Can you trust these sources? What are your criteria to judge whether the information is valid? 
-- Look up how this event was covered in the newspapers/agencies that are listed in 10a.
+- Look up how this event was covered in the newspapers/agencies that are listed in 11a.
 - Add it to your template. 
 
 <!-- section -->
