@@ -27,7 +27,8 @@ Because this lesson is about source criticism, we have tried to trace the contex
 ### Instructions
 <!-- section-contents -->
 
-- First open the box "[Who are the people in these photos?](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"} and read the text.
+- First open the box "[Who are the people in these photos?](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"}" and read the text.
+
  
 <!-- section -->
 
