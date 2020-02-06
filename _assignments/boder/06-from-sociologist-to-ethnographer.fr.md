@@ -53,10 +53,10 @@ L'approche de David Boder est passée de celle d'un sociologue traditionnel cher
 ### Suggestions de lectures/vidéos 
 <!-- section-contents -->
 
-Empfehlungen Lektüre/Video
+Suggestions de lectures/vidéos
 
-- Listen to a radio service broadcasted on 16-5-2015 from the National Public Radio in the US on Songs from Holocaust survivors
-- Read about the meaning of songs for Holocaust survivors in: S. GILBERT: SOCIAL HISTORY AND MUSICAL TEXTS, IRASM 36 (2005) 1, 117-134 [ref](gilbert-music-songs) 
+- Écoutez un reportage radio du 16.5.2015 de la National Public Radio aux USA sur les chansons des survivants de l’holocauste.
+- Découvrez la signification des chansons pour les survivants de l’holocauste dans : S. GILBERT: SOCIAL HISTORY AND MUSICAL TEXTS, IRASM 36 (2005) 1, 117-134 [ref](gilbert-music-songs) 
 
 <!-- briefing-teacher -->
 
