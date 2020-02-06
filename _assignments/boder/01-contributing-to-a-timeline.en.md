@@ -32,7 +32,7 @@ In the animation you watched the focus is mostly on the creation and transformat
 ### Instructions
 <!-- section-contents -->
 
-- Go to the interactive animation (3rd screen from the top) click on the tab 'index' in the left lower corner, and the index will appear with all the topics that are dealt with, click [**Boder’s biography**](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"} again, and read the various sections.
+- Go to the interactive animation (3rd screen from the top) you will see the program Klynt appear. Click on the tab 'index' in the left lower corner, and an overview will appear with boxes that contain extra information. Click on the box [**Boder’s biography**](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"} read the various sections. 
   {: .headsup}
 - Go to the timeline [application Tiki-Toki](https://www.tiki-toki.com/){:target="_blank"}.
 - Fill in the login details of the account that has been created for this assignment
