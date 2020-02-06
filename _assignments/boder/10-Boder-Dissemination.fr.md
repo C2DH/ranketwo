@@ -64,6 +64,6 @@ Vous devrez créer une carte et y indiquer les instituts qui détiennent une par
 ### Suggestions de lectures/vidéos
 <!-- section-contents -->
 
-Demandez à Andreas la documentation de base sur les archives numériques.
+Veuillez lire cette recension de Historypin dans la revue the American in the American Archivist: https://reviews.americanarchivist.org/2016/07/02/historypin/ 
 
 <!-- briefing-teacher -->
