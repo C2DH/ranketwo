@@ -66,6 +66,6 @@ how this news spread, and how it was represented by the international press.
 ### Reading/viewing suggestions
 <!-- section-contents -->
 
-To do Search for basic literature, Gerben? 
+Have a look at a Rand report published in 2019 about how news coverage has changed over time: https://www.rand.org/pubs/research_reports/RR2960.html 
 
 <!-- briefing-teacher -->
