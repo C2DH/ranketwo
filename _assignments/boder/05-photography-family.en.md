@@ -27,9 +27,8 @@ Because this lesson is about source criticism, we have tried to trace the contex
 ### Instructions
 <!-- section-contents -->
 
-- First open the box, at [https://ranke2.uni.lu/klynt/en/#Intro](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"} and read the text.
-- Then open the box  "Who are the people in these photos?" 
-
+- First open the box "[Who are the people in these photos?](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"} and read the text.
+ 
 <!-- section -->
 
 ### 5.a  Online content, who is behind it? | 20 min
