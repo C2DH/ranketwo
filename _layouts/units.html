@@ -32,9 +32,11 @@ layout: default
   <div class="row">
     {% assign units = site.units|where:"layout","unit"|where:"lang", page.lang| sort: 'order' %}
     {% for card in units%}
+      {% unless card.hide %}
     <div class='col-md-6 col-lg-4'>
     {% include card.html %}
     </div>
+      {% endunless %}
     {% endfor %}
   </div>
 </div>

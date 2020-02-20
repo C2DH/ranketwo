@@ -4,7 +4,7 @@
     type: vimeo
     aspectratio: aspect-16-9
     thumbnail: "https://i.vimeocdn.com/video/708218729.jpg?mw=960&mh=540&q=70"
-    vimeo_id: 292701349 
+    vimeo_id: 292701349
     src: "https://player.vimeo.com/video/312736421"
 -
     id: david-boder
@@ -21,7 +21,7 @@
     type: vimeo
     thumbnail: "https://i.vimeocdn.com/video/728677669_640.jpg"
     aspectratio: aspect-16-9
-    src: "https://player.vimeo.com/video/312738684" 
+    src: "https://player.vimeo.com/video/312738684"
 
 -
     id: david-boder-playposit
@@ -106,22 +106,22 @@
     type: vimeo
     aspectratio: aspect-16-9
     thumbnail: assets/images/attachments/archival-digital-turn.png
-    src: "https://player.vimeo.com/video/303681867" 
+    src: "https://player.vimeo.com/video/303681867"
 
 -
     id: archival-to-digital-turn-german
     type: vimeo
     aspectratio: aspect-16-9
     thumbnail: assets/images/attachments/archival-digital-turn.png
-    src: "https://player.vimeo.com/video/303237473" 
+    src: "https://player.vimeo.com/video/303237473"
 
 
--   
+-
     id: archival-to-digital-turn-french
     type: vimeo
     aspectratio: aspect-16-9
     thumbnail: assets/images/attachments/archival-digital-turn.png
-    src: "https://player.vimeo.com/video/312728531" 
+    src: "https://player.vimeo.com/video/312728531"
 
 -
 
@@ -158,50 +158,50 @@
     aspectratio: aspect-16-9
     thumbnail: "https://i.vimeocdn.com/video/718778251.jpg?mw=900&mh=506&q=70"
     title: "Die Webtechnologie auf den Punkt gebracht: Vergleich der ersten Website über David Boder mit der von 2009"
-    src: "https://player.vimeo.com/video/312896406" 
+    src: "https://player.vimeo.com/video/312896406"
 
 -
     id: boder2-webtechnology-playposit
     aspectratio: aspect-16-9
-    thumbnail: 
+    thumbnail:
     src: "https://www.playposit.com/listcode/978363/n717d6/open/anonymous"
-       
+
 -
     id: boder2-webtechnology-playposit-french
     aspectratio: aspect-16-9
-    thumbnail: 
+    thumbnail:
     src: "https://www.playposit.com/listcode/978363/n717d6/open/anonymous"
 
 -
     id: boder2-webtechnology-playposit-german
     aspectratio: aspect-16-9
-    thumbnail: 
-    src: "https://www.playposit.com/listcode/978363/n717d6/open/anonymous" 
+    thumbnail:
+    src: "https://www.playposit.com/listcode/978363/n717d6/open/anonymous"
 
 -
     id: manuscript
     type: vimeo
     aspectratio: aspect-16-9
     title: "Do mediaeval manuscripts need to be photogenic? The lives of the Chronicle of Dalimil"
-    src: "https://player.vimeo.com/video/312892694"  
-    
+    src: "https://player.vimeo.com/video/312892694"
+
 -
     id: manuscript-playposit
     aspectratio: aspect-16-9
-    thumbnail: 
-    src: "https://www.playposit.com/listcode/978332/n717d6/open/anonymous" 
-       
+    thumbnail:
+    src: "https://www.playposit.com/listcode/978332/n717d6/open/anonymous"
+
 -
     id: manuscript-playposit-french
     aspectratio: aspect-16-9
-    thumbnail: 
+    thumbnail:
     src: "https://api.playposit.com/go/share/10921/258439/0/0/FrenchDalimil-"
 
 -
     id: manuscript-playposit-german
     aspectratio: aspect-16-9
-    thumbnail: 
-    src: "https://www.playposit.com/listcode/978332/n717d6/open/anonymous" 
+    thumbnail:
+    src: "https://www.playposit.com/listcode/978332/n717d6/open/anonymous"
 
 -
     id: manuscript-french
@@ -224,3 +224,10 @@
     thumbnail: "https://i.vimeocdn.com/video/732712719.jpg?mw=1900&mh=1129&q=70"
     title: Leopold von Ranke
     src: "https://player.vimeo.com/video/279392604"
+
+-
+    id: exploring-historical-newspapers
+    type: vimeo
+    aspectratio: aspect-16-9
+    thumbnail: "https://i.vimeocdn.com/video/857946968.jpg?mw=1920&mh=1080&q=70"
+    src: "https://player.vimeo.com/video/392733729"
