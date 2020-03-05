@@ -2,7 +2,7 @@
 layout: assignment
 unit: exploring-historical-newspapers
 lang: en
-title: "What is digitisation?"
+title: "Digitisation and how computers learn to read?"
 cover:
 tags:
   - media history
@@ -39,7 +39,11 @@ A similar detection mechanism then identifies the language and compares the word
 
 <!-- briefing-student -->
 
-### 1.a How computers learn to read  | 20 Min
+### 1.a Font recognition  | 20 Min
 <!-- section-contents -->
+
+Computerphile, a channel dedicated to explaining computer science topics to a lay audience,  published an interview with Professor Steve Simske, an expert on OCR, in 2017, in which he explains the underlying principles of OCR software. In the following excerpt he explains how the classification of fonts works:
+
+
 
 
