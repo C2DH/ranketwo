@@ -44,6 +44,37 @@ A similar detection mechanism then identifies the language and compares the word
 
 Computerphile, a channel dedicated to explaining computer science topics to a lay audience,  published an interview with Professor Steve Simske, an expert on OCR, in 2017, in which he explains the underlying principles of OCR software. In the following excerpt he explains how the classification of fonts works:
 
+Watch [this passage from 10’10’’ to 12’47’](https://youtu.be/ZNrteLp_SvY?t=610){:target="_blank"}
+ 
+- What is the core principle of classification? 
+- What is needed for a word to be matched with a particular font? (choose two elements from the four below)
+
+- A library of fonts to compare to the scanned image of the letters  
+- The best average of matches of individual letters to a particular font
+- An exact match for each letter to a font 
+- A manual validation of each word
+
+
+### 1.b OCR and Gothic font
+<!-- section-contents -->
+
+Some fonts are more difficult to process than others. A recurring difficulty that arises with historical texts is the recognition of texts in Gothic font. 
+
+Open [this link](http://www.eluxemburgensia.lu/BnlViewer/view/index.html?lang=fr#panel:pa|issue:1160880|article:DTL31){:target="_blank"} and compare the facsimile with the OCR text: 
+
+- What can you say about the variation in OCR output of the word “chorale” between the Latin and Gothic font in the same text?
+- Find two other words in the text that start with a capital “C” in Gothic: what letter have they been turned into? 
+
+
+
+### Reading/viewing suggestions
+<!-- section-contents -->
+
+
+
+
+
+
 
 
 
