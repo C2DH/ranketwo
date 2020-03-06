@@ -40,7 +40,7 @@ A similar detection mechanism then identifies the language and compares the word
 <!-- section-contents -->
 
 Computerphile, a channel dedicated to explaining computer science topics to a lay audience, published an interview with Professor Steve Simske, an expert on OCR, in 2017, in which he explains the underlying principles of OCR software. In the following excerpt he explains how the classification of fonts works:
-Watch [this passage from 10’10’’ to 12’47'(https://youtu.be/ZNrteLp_SvY?t=610){:target="_blank"}
+Watch [this passage from 10’10’’ to 12’47'](https://youtu.be/ZNrteLp_SvY?t=610){:target="_blank"}
 
 <!-- section -->
 
@@ -61,7 +61,6 @@ Watch [this passage from 10’10’’ to 12’47'(https://youtu.be/ZNrteLp_SvY?
 <!-- section-contents -->
 
 Some fonts are more difficult to process than others. A recurring difficulty that arises with historical texts is the recognition of texts in Gothic font. 
-
 Open [this link](http://www.eluxemburgensia.lu/BnlViewer/view/index.html?lang=fr#panel:pa|issue:1160880|article:DTL31){:target="_blank"} and compare the facsimile with the OCR text: 
 
 - What can you say about the variation in OCR output of the word “chorale” between the Latin and Gothic font in the same text?
