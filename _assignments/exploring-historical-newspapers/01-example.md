@@ -11,10 +11,7 @@ tags:
 requirements: Fast WIFI connection, computer or laptop, application on laptop or computer to view video,
 learning outcomes:
   - Understand the process of digitisation and optical character recognition 
-documents:
 order: 1
-outcomes:
- - Understand the process of digitisation and optical character recognition 
 ---
 
 Digitisation facilitates access to historical newspapers, but at the same time it introduces hurdles: searching for articles on a given topic can be hindered by mistakes that have been made when applying, for example, optical character recognition (OCR).
@@ -39,13 +36,17 @@ A similar detection mechanism then identifies the language and compares the word
 
 <!-- briefing-student -->
 
+###Instructions
+<!-- section-contents -->
+
+Computerphile, a channel dedicated to explaining computer science topics to a lay audience, published an interview with Professor Steve Simske, an expert on OCR, in 2017, in which he explains the underlying principles of OCR software. In the following excerpt he explains how the classification of fonts works:
+Watch [this passage from 10’10’’ to 12’47'(https://youtu.be/ZNrteLp_SvY?t=610){:target="_blank"}
+
+<!-- section -->
+
 ### 1.a Font recognition  | 20 Min
 <!-- section-contents -->
 
-Computerphile, a channel dedicated to explaining computer science topics to a lay audience,  published an interview with Professor Steve Simske, an expert on OCR, in 2017, in which he explains the underlying principles of OCR software. In the following excerpt he explains how the classification of fonts works:
-
-Watch [this passage from 10’10’’ to 12’47’](https://youtu.be/ZNrteLp_SvY?t=610){:target="_blank"}
- 
 - What is the core principle of classification? 
 - What is needed for a word to be matched with a particular font? (choose two elements from the four below)
 
@@ -54,6 +55,7 @@ Watch [this passage from 10’10’’ to 12’47’](https://youtu.be/ZNrteLp_S
 - An exact match for each letter to a font 
 - A manual validation of each word
 
+<!-- section -->
 
 ### 1.b OCR and Gothic font
 <!-- section-contents -->
@@ -65,6 +67,7 @@ Open [this link](http://www.eluxemburgensia.lu/BnlViewer/view/index.html?lang=fr
 - What can you say about the variation in OCR output of the word “chorale” between the Latin and Gothic font in the same text?
 - Find two other words in the text that start with a capital “C” in Gothic: what letter have they been turned into? 
 
+<!-- section -->
 
 
 ### Reading/viewing suggestions
