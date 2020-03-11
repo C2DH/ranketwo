@@ -72,8 +72,7 @@ Open [this link](http://www.eluxemburgensia.lu/BnlViewer/view/index.html?lang=fr
 ### Reading/viewing suggestions
 <!-- section-contents -->
 
-
-
+<!-- briefing-teacher --> 
 
 
 
