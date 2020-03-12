@@ -3,7 +3,7 @@ title: Animation in a quiz mode
 lang: en
 type: quiz
 parent: exploring-historical-newspapers
-iframe: exploring-historical-newspapers 
+iframe: exploring-historical-newspapers-quiz 
 ---
 
 {: .headsup}                            
