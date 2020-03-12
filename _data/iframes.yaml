@@ -232,8 +232,9 @@
     thumbnail: "https://i.vimeocdn.com/video/857946968.jpg?mw=1920&mh=1080&q=70"
     src: "https://player.vimeo.com/video/392733729"
     
--   id: exploring-historical-newspapers
+-   
+    id: exploring-historical-newspapers
     type: vimeo
     aspectratio: aspect-16-9
     thumbnail: 
-    src: "https://api.playposit.com/go/share/528112/258439/0/0/From-the-shelf-to-the-web-exploring-historical-newspapers-in-the-digital-age" 
+    src: "https://api.playposit.com/go/listcode/528112/258439/0/3/From-the-shelf-to-the-web-exploring-historical-newspapers-in-the-digital-age"
