@@ -81,7 +81,7 @@ As part of the impresso project, referred to in the clip of this lesson, Phillip
 
 The two outputs of the OCR are shown below. Compare them and answer the questions. 
 
-| A. First lines of the front page article of the 26.10.1793 issue of the NZZ |
+|### A. First lines of the front page article of the 26.10.1793 issue of the NZZ |
 
 ![fragment-zurich.png](../../assets/images/fragment-zurich.png)
 
