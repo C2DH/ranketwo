@@ -1,10 +1,13 @@
 ---
-title: "(UPCOMING) From the shelf to the web, exploring historical newspapers in the digital age."
+title: "From the shelf to the web, exploring historical newspapers in the digital age."
 layout: unit
 toc: on
 tags:
-  - digitisation
+  - digitisation of newspapers
   - digital source criticism
+  - optical character recognition
+  - search engines
+  - interface
 lang: en
 unit_id: exploring-historical-newspapers
 link: /u/exploring-historical-newspapers/
