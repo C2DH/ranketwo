@@ -34,7 +34,7 @@ This assignment requires you to download a folder with different kinds of data s
 
 <!-- section -->
 
-### 3.a What is in the database or Where is the flu hiding?) | 20 Min
+### 3.a What is in the database or where is the flu hiding? | 20 Min
 <!-- section-contents -->
 
 - Go to https://data.bnl.lu/data/historical-newspapers/  
