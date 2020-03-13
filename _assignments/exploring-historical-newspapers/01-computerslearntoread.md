@@ -113,6 +113,16 @@ Would you have been able to find this article on the basis of the first OCR if y
 <!-- section-contents -->
 
 
+- For a technical and historical overview and information about some applications of optical character recognition (OCR), take a look at the Wikipedia article: https://en.wikipedia.org/wiki/Optical_character_recognition 
+
+- To understand how optical character recognition (OCR) identifies characters and words as a whole (known as pattern recognition), look at the explanation by Aryaman Sharda: https://www.youtube.com/watch?v=cAkklvGE5io 
+
+- For a more detailed explanation of each step of the optical character recognition (OCR) process, look at the interview with Professor Steve Simske by Computerphile: https://www.youtube.com/watch?v=ZNrteLp_SvY
+
+- Prof. Simske explains binarisation: https://youtu.be/ZNrteLp_SvY?t=149 
+
+Here is information about the single connected component (or one letter): https://youtu.be/ZNrteLp_SvY?t=235 , followed by information on the classification of the fonts, or the recognition of the types of letters used in a given text: https://youtu.be/ZNrteLp_SvY?t=446 
+
 
 <!-- briefing-teacher --> 
 
