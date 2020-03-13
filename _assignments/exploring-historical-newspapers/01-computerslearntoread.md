@@ -14,8 +14,6 @@ learning outcomes:
 order: 1
 ---
 
-Digitisation facilitates access to historical newspapers, but at the same time it introduces hurdles: searching for articles on a given topic can be hindered by mistakes that have been made when applying, for example, optical character recognition (OCR).
-
 The process of digitisation begins by scanning a physical newspaper in order to produce an image of each page. Since images as such are not searchable, the letters in the text have to be made recognisable. This is done through a technique known as optical character recognition (OCR), with software that is able to understand the meaning of the image of a character and turn it into a digital entity that represents a single character. 
 
 For this to happen, two sub-steps have to be taken:   
