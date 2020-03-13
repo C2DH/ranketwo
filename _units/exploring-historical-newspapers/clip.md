@@ -8,7 +8,7 @@ iframe: exploring-historical-newspapers
 ---
 
 {: .headsup}                            
-**A fantastic adventure in impresso**
+**An animation on the impact of the digital on the newspaper as historical source**
 
 Impresso.
 
