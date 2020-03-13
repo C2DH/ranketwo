@@ -68,6 +68,22 @@ Open [this link](http://www.eluxemburgensia.lu/BnlViewer/view/index.html?lang=fr
 
 <!-- section -->
 
+### 1.c Improvement of OCR quality
+<!-- section-contents -->
+
+This is the scanned image of the front page of the Neue Zürcher Zeitung (NZZ) published on 26.10.1793 in Zürich, Switzerland. It reports on the trial and execution of Louis XVI’s widow Marie Antoinette in October 1793.
+
+![zurich-newspaper.png](../../assets/images/zurich.png)
+
+The archives of the NZZ were entirely digitised for the first time in 2005, using the microfilms of newspapers to produce scans that were then OCRed. The result of this process proved to be imperfect, especially for earlier texts that were published in Gothic font.
+
+As part of the impresso project, referred to in the clip of this lesson, Phillip Ströbel and Simon Clematide from the University of Zurich have experimented with software developed to recognise handwritten text to improve the quality of the OCR on Gothic fonts. 
+
+The two outputs of the OCR are shown below. Compare them and answer the questions. 
+
+
+
+
 
 ### Reading/viewing suggestions
 <!-- section-contents -->
