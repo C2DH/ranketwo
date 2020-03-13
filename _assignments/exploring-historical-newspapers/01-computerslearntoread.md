@@ -69,6 +69,11 @@ Open [this link](http://www.eluxemburgensia.lu/BnlViewer/view/index.html?lang=fr
 <!-- section -->
 
 
+\* To be able to listen to [the interview](http://voices.iit.edu/audio.php?doc=bJanis){:target="_blank"}, you have to open a Chrome browser window. Click on the small “i” icon to the left of the URL and allow Flash Player and pop-ups. Bear in mind that you will hear Boder’s introduction right away but that the interview takes some time to load.
+
+![chrome-address-bar.png](../../assets/images/chrome-address-bar.png)
+
+
 ### Reading/viewing suggestions
 <!-- section-contents -->
 
