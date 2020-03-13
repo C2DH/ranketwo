@@ -8,7 +8,7 @@ iframe: exploring-historical-newspapers
 ---
 
 {: .headsup}                            
-**An animation on the impact of the digital on the newspaper as historical source**
+**An animation on the impact of digital technology on the newspaper as historical source**
 
 Impresso.
 
