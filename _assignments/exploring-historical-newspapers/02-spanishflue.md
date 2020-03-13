@@ -42,18 +42,28 @@ To understand the principle of article segmentation you are going to search for 
 
 <!-- section -->
 
-### 1.b OCR and Gothic font
+### 2.b Queries on the Spanish flu: different countries, different reactions? 
 <!-- section-contents -->
 
-Some fonts are more difficult to process than others. A recurring difficulty that arises with historical texts is the recognition of texts in Gothic font. 
-Open [this link](http://www.eluxemburgensia.lu/BnlViewer/view/index.html?lang=fr#panel:pa|issue:1160880|article:DTL31){:target="_blank"} and compare the facsimile with the OCR text: 
+Choose two languages that you master and two search environments to search with the query “Spanish flu” or “grippe espagnole” or “Spanische Grippe”: 
+EN: https://trove.nla.gov.au/newspaper/?q= 
+FR/DE: http://www.eluxemburgensia.lu 
+EN/DE/FR: https://www.europeana.eu/portal/en/collections/newspapers?q= 
+FR/DE: https://www.e-newspaperarchives.ch  
+DE: http://anno.onb.ac.at/anno-suche#searchMode=simple&from=1
 
-- What can you say about the variation in OCR output of the word “chorale” between the Latin and Gothic font in the same text?
-- Find two other words in the text that start with a capital “C” in Gothic: what letter have they been turned into? 
+- Compare the results by considering the following features:
+
+| | resource 1 | resource 2 |
+| Type of article (event, opinion, human interest)| | |
+| Does the collection cover the years in which the Spanish flu spread in Europe? |  |  |
+| Are there peaks in news coverage? |  |  | 
+| Is there a dominant frame?|  |  |
+| Are there specific features in the interface that limit your search output?| |  |
 
 <!-- section -->
 
-### 1.c Improvement of OCR quality
+### 2.c 
 
 This is the scanned image of the front page of the Neue Zürcher Zeitung (NZZ) published on 26.10.1793 in Zürich, Switzerland. It reports on the trial and execution of Louis XVI’s widow Marie Antoinette in October 1793.
 
