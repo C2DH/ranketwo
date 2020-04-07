@@ -71,7 +71,9 @@ Open [this link](http://www.eluxemburgensia.lu/BnlViewer/view/index.html?lang=fr
 
 This is the scanned image of the front page of the Neue Zürcher Zeitung (NZZ) published on 26.10.1793 in Zürich, Switzerland. It reports on the trial and execution of Louis XVI’s widow Marie Antoinette in October 1793.
 
-![zurich-newspaper.png](../../assets/images/zurich.png)
+![zurich-newspaper.png](../../assets/images/zurich.png =200x200)
+
+
 
 The archives of the NZZ were entirely digitised for the first time in 2005, using the microfilms of newspapers to produce scans that were then OCRed. The result of this process proved to be imperfect, especially for earlier texts that were published in Gothic font.
 
