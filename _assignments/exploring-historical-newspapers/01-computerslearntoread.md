@@ -112,7 +112,7 @@ Now have a look at the manual transcription of the same passage, and compare thi
 <!-- section-contents -->
 
 
-- For a technical and historical overview and information about some applications of optical character recognition (OCR), take a look at the Wikipedia article: https://en.wikipedia.org/wiki/Optical_character_recognition 
+- For a technical and historical overview and information about some applications of optical character recognition (OCR), take a look at the [Wikipedia article on this topic](https://en.wikipedia.org/wiki/Optical_character_recognition){:target="_blank"}
 
 - To understand how optical character recognition (OCR) identifies characters and words as a whole (known as pattern recognition), look at the explanation by Aryaman Sharda: https://www.youtube.com/watch?v=cAkklvGE5io 
 
