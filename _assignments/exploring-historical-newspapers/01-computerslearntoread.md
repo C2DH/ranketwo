@@ -120,9 +120,7 @@ Now have a look at the manual transcription of the same passage, and compare thi
 
 - [Prof. Steve Simske explains the principle of binarisation](https://youtu.be/ZNrteLp_SvY?t=149){:target="_blank"}
 
-Here is information about [the single connected component (or one letter)](https://youtu.be/ZNrteLp_SvY?t=235){:target="_blank"} 
-
-followed by information on the recognition of the types of letters used in a given text, or [the classification of the fonts](https://youtu.be/ZNrteLp_SvY?t=446){:target="_blank"}  
+- Here is information about [the single connected component (or one letter)](https://youtu.be/ZNrteLp_SvY?t=235){:target="_blank"} followed by information on the recognition of the types of letters used in a given text, or [the classification of the fonts](https://youtu.be/ZNrteLp_SvY?t=446){:target="_blank"}  
 
 
 <!-- briefing-teacher --> 
