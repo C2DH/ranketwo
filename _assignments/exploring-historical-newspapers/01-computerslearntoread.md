@@ -14,7 +14,7 @@ learning outcomes:
 order: 1
 ---
 
-The process of digitisation begins by scanning a physical newspaper in order to produce an image of each page. Since images as such are not searchable, the letters in the text have to be made recognisable. This is done through a technique known as optical character recognition (OCR), with software that is able to understand the meaning of the image of a character and turn it into a digital entity that represents a single character. 
+The process of digitisation begins by scanning a physical newspaper in order to produce an image of each page. Since images as such are not searchable, the letters in the text have to be made recognisable. This is done through a technique known as optical character recognition (OCR), with software that is able to understand the image of a character and turn it into a digital entity that represents a single character. 
 
 For this to happen, two sub-steps have to be taken:   
 
@@ -22,7 +22,7 @@ For this to happen, two sub-steps have to be taken:
 
 2. Classification of the letters. After the individual characters have been delineated, they have to be assembled into words. In order to do so, the software first compares the captured letters to known fonts and selects the font that is most likely to fit.
 
-It considers these features:  
+These are features that can be considered:   
 - Are these letters from a Latin alphabet or an Arabic one? 
 - Are the letters in italic or bold? 
 - Is the font Times New Roman or Comic Sans MS? 
@@ -45,8 +45,8 @@ Watch [this passage from 10’10’’ to 12’47'](https://youtu.be/ZNrteLp_SvY
 ### 1.a Font recognition  | 20 Min
 <!-- section-contents -->
 
-- What is the core principle of classification? 
-- What is needed for a word to be matched with a particular font? (choose two elements from the four below)
+The core principle of classification; What is needed for a word to be matched with a particular font?
+(choose two elements from the four below)
 
 - A library of fonts to compare to the scanned image of the letters  
 - The best average of matches of individual letters to a particular font
