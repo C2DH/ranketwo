@@ -32,8 +32,9 @@ We will now use this example of Robert Schuman(n) to understand how best to cont
 
 - Read key information that can be useful to distinguish the two Robert Schuman(n)s:
 
-Robert Schuman, the politician, is most famous for [the eponymous declaration]  (https://www.cvce.eu/obj/the_declaration_by_robert_schuman_paris_9_may_1950-en-d27938ef-7d39-4d32-b340-07fe7268e3c3.html)
-
+Robert Schuman, the politician, is most famous for 
+[the eponymous declaration](https://www.cvce.eu/obj/the_declaration_by_robert_schuman_paris_9_may_1950-en-d27938ef-7d39-4d32-b340-07fe7268e3c3.html)
+  
 Robert Schumann, [the composer](https://820e1645-e1f5-453e-859e-1a81895231f2_2368fdc80b.widget.getarchive.net/media/robert-schumann-portrait-b290ac) 
 
 - What kind of search filters could be used to distinguish the two personalities? 
