@@ -47,21 +47,16 @@ Robert Schumann, the composer: https://820e1645-e1f5-453e-859e-1a81895231f2_2368
 ### 4.b Collecting articles on Robert Schuman(n) 
 <!-- section-contents -->
 
-1. Go to the website of the Australian National Library and select the section dedicated to digitised newspapers (https://trove.nla.gov.au).
-There, search for articles containing Robert Schuman(n) in the year 1950.
+Go to the website of the Australian National Library and select the section dedicated to [digitised newspapers](https://trove.nla.gov.au)
+- Search for articles containing Robert Schuman(n) in the year 1950.
+- Collect one article on Robert Schuman the politician, and one on Robert Schumann the composer (including 
+  advertisements for concerts)
 
-- Collect:
-one article on Robert Schuman the politician
-one article on Robert Schumann the composer (including advertisements for concerts)
+Go to the website of the Luxembourg National Library on[digitised newspapers](http://www.eluxemburgensia.lu) 
+- Conduct the same query, one article on Robert Schuman the politician and one on Robert Schumann the composer (including 
+  advertisements for concerts)
 
-2. Go to the Luxembourg National Library website for digitised newspapers  (http://www.eluxemburgensia.lu) and conduct the same query.
-
-- Collect :
-one article on Robert Schuman the politician
-one article on Robert Schumann the composer (including advertisements for concerts)
-
-
-- What difference do you notice in the results for the same query in the two interfaces?
+- What difference do you notice in the results for the same queries in the two interfaces?
 - How can you make sure you find relevant results for each case? 
 - What options can you use to improve your control over the list of results?
 
@@ -72,22 +67,18 @@ one article on Robert Schumann the composer (including advertisements for concer
 <!-- section-contents -->
 
 As you will know by now, Robert Schuman is a politician from Luxembourg, where he is not the only person with this name.
-There was a doctor in Bettembourg in the 1930s with the same name. How could you find an article about this person from the Luxembourg National Library’s collection of digitised newspapers (http://www.eluxemburgensia.lu)?
+There was a doctor in Bettembourg in the 1930s with the same name. How can you find an article about this person from the Luxembourg National Library’s collection of [digitised newspapers](http://www.eluxemburgensia.lu)?
 
 - Before starting the search, reflect on what could be problematic in finding information on this person in the newspaper. 
-- After conducting the search, describe what search strategies you used to help you find an article about him.
+- After conducting the search, describe what search strategies you used to help you find an article about Robert Schuman the doctor. 
 
 <!-- section -->
 
 ### Reading/viewing suggestions
 <!-- section-contents -->
-Read this blog to understand how progress in digital technology has led to the improvement of the OCR technique: https://community.aiim.org/blogs/chris-riley%20ecmp%20ioap/2010/10/05/modern-ocr-has-game  
+Read this blog by technologist and industry expert Chris Riley to understand how progress in digital technology has led to [the improvement of the OCR technique](https://community.aiim.org/blogs/chris-riley%20ecmp%20ioap/2010/10/05/modern-ocr-has-game)  
 
 <!-- briefing-teacher --> 
-
-
-
-
 
 
 
