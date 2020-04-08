@@ -15,7 +15,7 @@ order: 2
 ---
 To make digitised newspapers searchable a further process is also needed: article segmentation. Newspapers tend to publish texts on topics that are not related to each other on the same page. Single articles are also often divided up into parts that are printed on different pages. To retrieve a meaningful version of an article, it is necessary to understand which characters and words belong to the same article. This “understanding” is made possible through the technique of article segmentation. While OCR gives us information on which letters and words appear on which page of the newspaper, article segmentation, the technique of scaling a page down into smaller units, gives us information on which letters and words on a page belong to the same unit. 
 
-After applying OCR and article segmentation, the final step is to make the digitised newspapers available to the public. The extracted texts and the images of the newspapers are published on the web and can be viewed and searched using a carefully designed interface. 
+After applying OCR and article segmentation, the final step is to make the digitised newspapers available to the public. The extracted texts and the images of the newspapers are published on the web and can be viewed and searched using a carefully designed interface. Applying article segmentation is however not always included in the digitisation process, and a user only notices after having conducted a search. You will notice the difference between searching digital newspaper archives where this prinicple has been applied and where it is missing.  
 
 <!-- more -->
 
