@@ -45,12 +45,15 @@ This is a package for people who are starting to work with digitised newspapers,
 - Open one of the folders 
 
 - You will see 4 file types that are necessary to display historical newspapers, what are these filetypes?
-- |type 1|  |
-- |type 2|  |
-- |type 3|  |
-- |type 4|  |
 
-- Complete the table
+|type 1|  |
+
+|type 2|  |
+
+|type 3|  |
+
+|type 4|  |
+
 
 <!-- section -->
 
