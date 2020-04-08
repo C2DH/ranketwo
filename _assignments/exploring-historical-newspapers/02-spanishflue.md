@@ -36,7 +36,6 @@ To understand the principle of article segmentation you are going to search for 
 
 2. Go to https://www.e-newspaperarchives.ch 
 - Search for “grippe” and “espagnole”: what difference do you notice compared with the previous interface?
-
 - Document what you have learned from this comparison 
 
 
@@ -46,11 +45,11 @@ To understand the principle of article segmentation you are going to search for 
 <!-- section-contents -->
 
 Choose two languages that you master and two search environments to search with the query “Spanish flu” or “grippe espagnole” or “Spanische Grippe”: 
-EN: https://trove.nla.gov.au/newspaper/?q= 
-FR/DE: http://www.eluxemburgensia.lu 
-EN/DE/FR: https://www.europeana.eu/portal/en/collections/newspapers?q= 
-FR/DE: https://www.e-newspaperarchives.ch  
-DE: http://anno.onb.ac.at/anno-suche#searchMode=simple&from=1
+- EN: https://trove.nla.gov.au/newspaper/?q= 
+- FR/DE: http://www.eluxemburgensia.lu 
+- EN/DE/FR: https://www.europeana.eu/portal/en/collections/newspapers?q= 
+- FR/DE: https://www.e-newspaperarchives.ch  
+- DE: http://anno.onb.ac.at/anno-suche#searchMode=simple&from=1
 
 - Compare the results by considering the following features:
 
