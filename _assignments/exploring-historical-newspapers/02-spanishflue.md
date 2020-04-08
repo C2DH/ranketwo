@@ -29,7 +29,7 @@ To understand the principle of article segmentation you are going to search for 
 ### 2.a How to find an article that deals with the Spanish flu | 20 min
 <!-- section-contents -->
 
-1.Go to [Les Temps(Swiss Newspapers)](https://www.letempsarchives.ch/){:target="_blank"}
+1.Go to [Les Temps (Swiss Newspapers)](https://www.letempsarchives.ch/){:target="_blank"}
 
 - First search for the combination “grippe espagnole” (French for “Spanish flu”, as the newspaper is in French) and document your findings.
 - Then search for the single nouns  “grippe” and “espagnole” and document your findings. 
@@ -52,7 +52,7 @@ Choose two languages that you master and two search environments to search with 
 - FR/DE: https://www.e-newspaperarchives.ch  
 - DE: http://anno.onb.ac.at/anno-suche#searchMode=simple&from=1
 
-- Compare the results by considering the following features:
+Compare the results by considering the following features:
 
 | | resource 1 | resource 2 |
 | Type of article (event, opinion, human interest)| | |
