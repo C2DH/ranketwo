@@ -37,7 +37,7 @@ This assignment requires you to download a folder with different kinds of data s
 ### 3.a What is in the database or where is the flu hiding? | 20 Min
 <!-- section-contents -->
 
-- Go to https://data.bnl.lu/data/historical-newspapers/  
+- Go to [Historical Newspapers of Luxembourg](https://data.bnl.lu/data/historical-newspapers/)  
 - Browse to the bottom of the page
 - Download the “starter pack”
 This is a package for people who are starting to work with digitised newspapers, it contains the news of 5 days, from 5 different newspapers, in total 22 pages.  
@@ -45,12 +45,12 @@ This is a package for people who are starting to work with digitised newspapers,
 - Open one of the folders 
 
 - You will see 4 file types that are necessary to display historical newspapers, what are these filetypes?
-|type 1|  |
-|type 2|  |
-|type 3|  |
-|type 4|  |
+- |type 1|  |
+- |type 2|  |
+- |type 3|  |
+- |type 4|  |
 
-Elaborate
+- Complete the table
 
 <!-- section -->
 
