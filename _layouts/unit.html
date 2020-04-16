@@ -72,14 +72,14 @@ layout: default
   <div class='lines'>
     <div class="line left"></div>
     <div class="line right"></div>
-    <div class='type'>{% assign key = "assignment" %}{% include t.html %}<a class='component--size size-medium' href='{{ "structure-of-teaching-modules" | relative_url}}#medium--complete-one-ore-more-assignments'>M</a></div>
+    <div class='type'>{% assign key = "assignment" %}{% include t.html %}<a class='component--size size-medium' href='{{ "about-lessons" | relative_url}}#medium--complete-one-or-more-assignments'>M</a></div>
 
   </div>
   <div class='container'>
     <div class='row'>
       <div class='col-sm-4 ml-auto'>
 
-        <h3 class='assignments-title'><a class="component--size" href="/structure-of-teaching-modules#small--animation--quiz">M</a>
+        <h3 class='assignments-title'><a class="component--size" href='{{ "about-lessons" | relative_url}}#medium--complete-one-or-more-assignments'>M</a>
           {% assign key="assignments" %}{% include t.html %} ({{assignments.size}})</h3>
 
         {% if page.answertemplate %}

@@ -15,7 +15,7 @@
     <div class="line right"></div>
     <!-- <div class='line top'></div> -->
     {% unless component.order and component.order != 1 %}
-        <div class='type'>{% assign key = component.type %}{% include t.html %}<a class='component--size' href='{{ "structure-of-teaching-modules" | relative_url}}#small--animation--quiz'>
+        <div class='type'>{% assign key = component.type %}{% include t.html %}<a class='component--size' href='{{ "about-lessons" | relative_url}}#small--watch-the-animation--complete-the-quiz'>
           {% if component.size %}{{component.size}}
           {% else %}S{%endif%}</a></div>
 
@@ -29,10 +29,10 @@
       </div>
       <div class='col-sm-4'>
         {% if is_iframe %}
-        <h3><a class='component--size' href='{{ "structure-of-teaching-modules" | relative_url}}#small--animation--quiz'>S</a> {{component.title}}</h3>
+        <h3><a class='component--size' href='{{ "about-lessons" | relative_url}}#small--watch-the-animation--complete-the-quiz'>S</a> {{component.title}}</h3>
         {% endif %}
         {% if component.size == 'L'%}
-        <h3><a class='component--size big' href='{{ "structure-of-teaching-modules" | relative_url}}#'>L</a> {{component.title}}</h3>
+        <h3><a class='component--size big' href='{{ "about-lessons" | relative_url}}#large--engage-in-workshops'>L</a> {{component.title}}</h3>
 
 
         {% endif %}
