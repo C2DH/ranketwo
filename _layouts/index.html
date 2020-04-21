@@ -5,7 +5,7 @@ layout: default
 {% assign units = site.units | where:"layout","unit" | where:"lang", page.lang | sort: 'order' %}
 
 {% assign videos = page.videos %}
-<div id='index--slide-wrapper' class='wrapper with-gradient' style='height: 89%'>
+<div id='index--slide-wrapper' class='wrapper with-gradient' style='height: 380px'>
   <div class='slide-background'></div>
 
   {% for video in videos %}
@@ -33,7 +33,7 @@ layout: default
 
   <!-- <div class='slide' style='background-image: url({{ 'assets/images/bs-30-11-DW-Kultur-Salzburg-jpg.jpg' | relative_url }}); background-size:cover'></div> -->
   <div id='index--headline-wrapper'>
-    <div class='container'>
+    <div class='container position-relative'>
       <h2 id="index--headline"></h2>
     </div>
   </div>
@@ -46,11 +46,11 @@ layout: default
     {% assign key="list of lessons" %}{% include t.html %}
   </div>
   <div class='container'>
-    <section class="row">
-        {% for card in units limit: 4 %}
-          <div class='col-sm-6'>
+    <section class="card-columns">
+        {% for card in units limit: 6 %}
+          <!-- <div class='col-sm-6 col-md-4'> -->
             {% include card.html %}
-          </div>
+          <!-- </div> -->
         {% endfor %}
 
     </section>
