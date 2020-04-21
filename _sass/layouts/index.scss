@@ -21,6 +21,13 @@
   }
 }
 
+#index--button {
+  position: absolute;
+  right: 0;
+  top: 0;
+  pointer-events: auto;
+}
+
 @media (min-width: 768px){
   #index--headline{
     font-size: 3em;
