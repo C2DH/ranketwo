@@ -11,11 +11,11 @@ primary:
   links:
     - title: About the lessons
       href: /about-lessons/
-    - title: Go to lessons
-      href: /lessons/
-      active_layout: unit
-    - title: Teaching aids
-      href: /teaching-aids/
+    # - title: Go to lessons
+    #   href: /lessons/
+      # active_layout: unit
+    # - title: Teaching aids
+    #   href: /teaching-aids/
 
 footer:
   links:
