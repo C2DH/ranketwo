@@ -2,13 +2,13 @@
 layout: assignment
 unit: transformation
 lang: en
-title: "ASSIGNMENTS IN PREPARATION &mdash; transformation in the world of animals"  
+title: "The Right to Copy: The Role of Copyright in Transformation"  
 cover:
 tags:
-  -  biology
+  -  copyright
   -  innovation and creativity
 learning outcomes:
--  Understandig the various associations with the term 'transformation'
+-  Learn about the origin of copyright and what arrangements have been made on the web to both protect the rights of authors while at the same time ensuring that content that can be shared freely.
 order: 2
 ---
 <!-- more -->
