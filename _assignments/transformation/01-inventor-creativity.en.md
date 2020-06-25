@@ -42,13 +42,27 @@ Copy those screenshots in the two fields below.
 |      |                          |                            |
 |      |                          |                            |
 
+Taking the screenshots automatically generates information about them that we call metadata. Metadata, which literally means “data about data”, is information about the object in question. It is a concept that is key for the management of digital content (including photos, texts, audio or video-files, tweets, or 3d objects). In the case of digitally produced images, this type of metadata is called Exif data, which stands for: 
+Exchangeable Image File Format. This file contains information about the image such as the amount of pixels, the number of bytes, the colour scheme, the date of creation, and the format of the image. 
+
+Watch [this video}(https://www.youtube.com/watch?v=ABF2FvSPVYE){:target="_blank"} by metadata librarian Mary Rose of the Southern Illinois University Edwardsville Libraries that gives you an introduction to the concept of metadata by using the analogy of how we label leftovers in a fridge.
+
+You are now going to inspect the metadata of the first of the two screenshots that you created. 
+Click here for access to a PDF with an overview of all the metadata fields, how to access them, and what they mean
+Using the PDF, you will see all the major fields for metadata information in the tables below. Fill out only the metadata fields that are highlighted for the first of the two screenshots you took, either in the Mac or the Windows version, while taking note of all the other types of common metadata
+
+link to (pdf) and images of examples of metadata schemese Windows and MAC should be placed here 
 
 
 
+Check whether or not the metadata that you looked up was correct by using the online tool https://www.metadata2go.com, which helps you find and examine the Exif and metadata of an image, in addition to providing explanations for a number of metadata categories or fields that you might not be familiar with.
 
+
+CAN I ADD THIS HERE? #### Reading/viewing  suggestions 
 
 <!-- section -->
-### 1b. application of Shannon's principle 
+
+### 1.b application of Shannon's principle 
 <!-- section-contents -->
 
 article about history of applying principle 
