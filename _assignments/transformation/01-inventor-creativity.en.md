@@ -21,7 +21,7 @@ All of the images from the clip ‘Transformation’ that you just saw originate
 <!-- briefing-student -->
 
 
-### 1.a   Inspect screen shots |   50 min
+### 1.a  Inspect screen shots |   35 min
 <!-- section-contents -->
 
 A screenshot (sometimes referred to as a screencap, screengrab, or in the earlier days of the internet, as a print screen), can be seen as revolutionary. The ease with which you can copy and paste an image, use it in another context, and share it with others, encourages the use and spread of images on the web. This is especially the case when the images are copyright free. The first step in exploring image recognition is using your laptop to create two screenshots of images of your choice that have been used for the animation ‘Transformation.’ 
@@ -103,7 +103,7 @@ Evaluate your findings in a short summary (100 words max.) in which you assess t
 
 <!-- section -->
 
-### 1.c Applying Digital Source Criticism to screenshots
+### 1.c Applying Digital Source Criticism to screenshots | 50 min
 <!-- section-contents -->
 
 Source criticism is the practice of critically engaging with a source. Historians, for example, have always questioned the origin, meaning, and credibility of the historical sources that they use. However, when a source is digitised, published online, and reproduced by many people, it can become more difficult to trace the origin of the source. In this assignment, you are going to document the characteristics of the image from its original creation to its digital representation online, tracking the changes that happen each time the image is transformed into something else. It is important to remember that while the transformed image communicates the same message as the original in most instances, its artifactual value has profoundly changed.
