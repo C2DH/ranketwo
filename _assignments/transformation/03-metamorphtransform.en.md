@@ -47,17 +47,17 @@ In the old days, the meaning of a term would be looked up in a dictionary, of wh
 - To evaluate the quality of this resource, use the CRAP strategy from above and answer the questions that each letter represents in the box below. Note: You may not be able to find all the information requested - that is OK.
 
 
-|      |          
-| ---  |----------------------------|----------------------------|
-|      |                            |                            |
-|      |                            |                            |
-|      |                            |                            |
-|      |                            |                            |
-|      |                            |                            |
-|      |                            |                            |
-|      |                            |                            |
-|      |                            |                            |
-|      |                            |                            |
+|      |   CRAP       
+| ---  |-----------|----------------------------|
+|      |     C     |                            |
+|      |           |                            |
+|      |     R     |                            |
+|      |           |                            |
+|      |     A     |                            |
+|      |           |                            |
+|      |     P     |                            |
+|      |           |                            |
+|      |           |                            |
 
 
 
