@@ -55,6 +55,7 @@ Blog post by Zachary Strebeck ‘How to find out if something is copyrighted –
 <!-- section -->  
 
 ### 2.b  Differences in copyright law. | 25 min
+<!-- section-contents -->
 
 While copyright has been introduced to protect somebody’s unique creation, the way that protection is exercised and the extent of that protection is not the same globally. While most countries in the world have some form of copyright protection, even the basics of that protection can differ widely from country to country. In this assignment, we will briefly discuss some of the differences in several various countries.
 
@@ -72,6 +73,7 @@ To get an idea of the diversity read pages 197-204 of the article [The Tangled W
 <!-- section -->  
 
 ### 2.c   What kind of creativity has been put in the clip ‘Transformation’? | 15 min
+<!-- section-contents -->
 
 Copyright has been introduced to protect somebody’s unique creation. When considering the variety of technologies, scripts, designs, sounds, and images that are used in an animation, one could say that it is the result of many kinds of creativities. In this assignment, you are challenged to discover which creative input was needed to put the ‘Transformation’ clip together and how we managed to keep the costs of purchasing images low. 
 
@@ -91,6 +93,7 @@ Reading/viewing suggestions:
 [Different types of licenses on the Creative Commons Website](https://creativecommons.org/licenses/)
 [Blog post by Zachary Strebeck ‘How to find out if something is copyrighted – a quick guide’](https://strebecklaw.com/find-something-copyrighted-quick-guide/)
 [‘Starting Your Copyright Research’ page under Stanford’s Copyright and Fair Use website](https://fairuse.stanford.edu/overview/copyright-research/getting-started/)
+<!-- section -->  
 
 <!-- briefing-teacher -->
 ## Briefing lecturer
