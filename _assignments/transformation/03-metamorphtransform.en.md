@@ -31,6 +31,33 @@ In the old days, the meaning of a term would be looked up in a dictionary, of wh
 - Now, look up the etymology of the terms ’metamorphosis’ and ‘transformation’ in the [Online Etymology Dictionary](https://www.etymonline.com) and write down the origins of the two terms in your own words in the boxes below. Pay attention to the different parts of the terms, such as any prefixes, verbs, nouns, or suffixes.
 
 
+|      | methamorphosis             |        transformation      |
+| ---  |----------------------------|----------------------------|
+|      | Etymology:                 | Etymology:                 |
+|      |                            |                            |
+|      |                            |                            |
+|      |                            |                            |
+|      |                            |                            |
+|      |                            |                            |
+|      |                            |                            |
+|      |                            |                            |
+|      |                            |                            |
+
+
+- To evaluate the quality of this resource, use the CRAP strategy from above and answer the questions that each letter represents in the box below. Note: You may not be able to find all the information requested - that is OK.
+
+
+ |--------------------------------------------------------|
+ |- C                                                     |                               
+ |                                                        |
+ |- R                                                     |  
+ |                                                        |
+ |- A                                                     |                                        
+ |                                                        |
+ |- P                                                     |                                              
+
+
+
 
 <!-- section -->
 ### 1b. Transformations through digital technology 
