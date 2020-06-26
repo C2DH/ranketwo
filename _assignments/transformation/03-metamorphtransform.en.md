@@ -131,6 +131,22 @@ Use the resource to trace the stories in the poem that are connected to the name
 | Women turn into trees  (6.30)|   |   |   |  
 | Women turn into a stone (7.11))|   |   |   |  
 
+
+
+
+
+|      |   Hint    |  Who is involved and what is at stake?|                    
+| ---  |-----------|---------------------------------------|
+|      | A human being is turned into an animal (2.45) |   |                                  
+|      |           |                                       |
+|      | A deity is turned into a bush (4.48)|   |                                      
+|      |           |                                       |
+|      | A woman is turned into a fisherman  (5.09)|   |                                    
+|      |           |                                  |
+|      | From girl to man (6.00)|   |                  |                                     
+|      |           |                                   |
+|      |  Women turn into trees  (6.30)|   |                                   
+
 <!-- section -->
 
 
