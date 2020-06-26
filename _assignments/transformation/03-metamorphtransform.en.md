@@ -137,8 +137,6 @@ Listen to the first 10 minutes of [this BBC podcast](https://www.youtube.com/wat
 
 <!-- section -->
 
-
-
 ### 3.d Metamorphosis depicted in paintings | 40 mins
 <!-- section-contents -->
 
@@ -155,7 +153,6 @@ Then, find the corresponding passage about the mythological figures that is depi
 
 (place table with example as illustration) 
 
-
 |      |   screenshot paiting    |  name, author, date | Myth depicted with description of characters | Link to corresponding passage from Ovid’s Metamorphoses | Name contemporary artist and work of art |                   
 
 (image painting)
@@ -171,9 +168,9 @@ Next Sipylus, hearing the sound of a quiver in the empty air, let out the reins,
 [https://www.widewalls.ch/banksy-art-from-gaza-and-then-more-banksy/](https://www.widewalls.ch/banksy-art-from-gaza-and-then-more-banksy/) |Banksy in Gaza – image of Niobe (courtesy of [banksy.co.uk](http://banksy.co.uk/))                              
 
 <!-- section-contents -->
+
 <!-- briefing-teacher -->
 ## Briefing lecturer
-
 
 #### Reading/viewing  suggestions
 
