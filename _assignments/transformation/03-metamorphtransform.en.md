@@ -166,8 +166,8 @@ Then, find the corresponding passage about the mythological figures that is depi
 Next Sipylus, hearing the sound of a quiver in the empty air, let out the reins, just as a shipmaster sensing a storm runs for it when he sees the cloud, and claps on all sail, so that not even the slightest breeze is lost. Still giving full rein, he was overtaken, by the arrow none can avoid, and the shaft stuck quivering in his neck, and the naked tip protruded from his throat. Leaning forward, as he was, he rolled down over the mane and the galloping hooves| 
 
 [https://www.widewalls.ch/banksy-art-from-gaza-and-then-more-banksy/](https://www.widewalls.ch/banksy-art-from-gaza-and-then-more-banksy/) |Banksy in Gaza – image of Niobe (courtesy of [banksy.co.uk](http://banksy.co.uk/))                              
-
 <!-- section -->
+
 
 <!-- briefing-teacher -->
 ## Briefing lecturer
