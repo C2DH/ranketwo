@@ -52,7 +52,7 @@ this 3-min video about the creation of a Creative Commons License.
 Blog post by Zachary Strebeck ‘How to find out if something is copyrighted – a quick guide’
 ‘Starting Your Copyright Research’ page under Stanford’s Copyright and Fair Use website
 
-
+### 2b. Taking copyright into account   
 
 
 
