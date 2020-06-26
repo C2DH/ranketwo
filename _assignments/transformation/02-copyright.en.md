@@ -71,7 +71,7 @@ To get an idea of the diversity read pages 197-204 of the article [The Tangled W
 
 <!-- section -->  
 
-2.c   What kind of creativity has been put in the clip ‘Transformation’? | 15 min
+### 2.c   What kind of creativity has been put in the clip ‘Transformation’? | 15 min
 
 Copyright has been introduced to protect somebody’s unique creation. When considering the variety of technologies, scripts, designs, sounds, and images that are used in an animation, one could say that it is the result of many kinds of creativities. In this assignment, you are challenged to discover which creative input was needed to put the ‘Transformation’ clip together and how we managed to keep the costs of purchasing images low. 
 
