@@ -59,9 +59,10 @@ In the old days, the meaning of a term would be looked up in a dictionary, of wh
 |      |           |                            |
 |      |           |                            |
 
-
+<!-- section -->  
 
 ### 3.b Changes in how the terms ‘transformation’ and ‘metamorphosis’ are used in language. | 55 min
+<!-- section-contents -->
 
 The contexts in which particular terms are used is affected by technological, cultural, and economic changes in society. How the use of terms changes over time can be traced with the help of a tool called the Google Books Ngram Viewer. This is a search engine created by Google that charts the frequencies of a term in 18 million books available in the public domain in the English language that were printed between 1500 and 2008. This is done via statistical analysis of yearly counts of words. Although it is not fully representative, it can give a good impression of how the meaning of a term can change over time.
 
@@ -103,13 +104,27 @@ Evaluation
 
 - How would you judge the results of your searches and assessments now, after taking the criticism of the article in Wired into consideration? 
 
+<!-- section -->
+
+### 3.c  Metamorphosis and Ovid: the classic source
+<!-- section-contents -->
+
+Metamorphosis (also known as shapeshifting) has been used as a recurrent theme in mythology, folklore, and speculative fiction since the dawn of time. One of the most influential works inspired by Greek mythology which deals with this topic is Ovid’s epic poem the Metamorphoses. [Ovid (known in Latin as Ovidius)](https://en.wikipedia.org/wiki/Ovid) was a Roman poet who lived from 43 BC to 17/18 AD and became fairly famous during his lifetime and even more so after his death. His epic poem Metamorphoses consists of over 250 myths centered around the idea of ‘forms that change,’ and recounts the ‘history’ of the world from its creation until the time of Caesar. Metamorphoses has had a significant impact on Western culture ever since its creation including providing inspiration for several of William Shakespeare’s plays. In this assignment, we will explore some of the main themes found in the poem. 
+
+
+Listen to the first 10 minutes of [this BBC podcast](https://www.youtube.com/watch?v=T5PbTOMQm1k&feature=youtu.be&t=11) as presenter Melvyn Bragg, author A.S. Byatt, and literary critic A. Catherine Bates discuss the appeal and several themes of Ovid’s poem Metamorphoses and then answer the questions that follow.
+
+- What is Byatt’s explanation for the appeal of Ovid’s poetry from ancient times to the present? (1:34 - 3:58)
+
+
+- During the exchange of opinions on Ovid, in the first eight minutes the experts refer to six mythological forms of transformation, mentioning the names of the deities that are involved. Try to identify them by making use of the hints and the indicated time-stamps in the table.
+
+
+
+
 
 <!-- section -->
-### 3.c  Metamorphosis and Ovid: the classic source
 
-
-clip about second life, virtual reality 
-reflect on technology 
 
 <!-- section-contents -->
 <!-- briefing-teacher -->
