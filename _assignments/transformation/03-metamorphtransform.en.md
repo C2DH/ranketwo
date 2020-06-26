@@ -106,7 +106,7 @@ Evaluation
 
 <!-- section -->
 
-### 3.c  Metamorphosis and Ovid: the classic source
+### 3.c  Metamorphosis and Ovid: the classic source | 30 min
 <!-- section-contents -->
 
 Metamorphosis (also known as shapeshifting) has been used as a recurrent theme in mythology, folklore, and speculative fiction since the dawn of time. One of the most influential works inspired by Greek mythology which deals with this topic is Ovid’s epic poem the Metamorphoses. [Ovid (known in Latin as Ovidius)](https://en.wikipedia.org/wiki/Ovid) was a Roman poet who lived from 43 BC to 17/18 AD and became fairly famous during his lifetime and even more so after his death. His epic poem Metamorphoses consists of over 250 myths centered around the idea of ‘forms that change,’ and recounts the ‘history’ of the world from its creation until the time of Caesar. Metamorphoses has had a significant impact on Western culture ever since its creation including providing inspiration for several of William Shakespeare’s plays. In this assignment, we will explore some of the main themes found in the poem. 
