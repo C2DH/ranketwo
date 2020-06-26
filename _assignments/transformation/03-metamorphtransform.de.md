@@ -18,25 +18,18 @@ order: 3
 
 
 
-### 1a. Ovidius reuse of Greek Mythology in Metamorphosis
+### 1a. 
 <!-- section-contents -->
 
 intro text
 
-Podcast Byatt - about transformation and Ovidius
-https://www.youtube.com/watch?v=T5PbTOMQm1k
 
-short read, count transformations
 
-look up paintings that cover the various transformations,
-document in table
 
 <!-- section -->
 ### 1b. Transformations through digital technology
 <!-- section-contents -->
 
-clip about second life, virtual reality
-reflect on technology
 
 
 <!-- briefing-teacher -->
