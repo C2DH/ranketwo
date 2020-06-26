@@ -2,10 +2,10 @@
 layout: assignment
 unit: transformation
 lang: en
-title: "ASSIGNMENTS IN PREPARATION &mdash; Transformation in mythology"  
+title: "Changes in Meaning: Metamorphosis and Transformation in Language and Images"  
 cover:
 tags:
-  -  greek mythology 
+  -  changes in meaning 
   -  concept of transformation 
 learning outcomes: 
 -  Understand the various interpretations of the concept of 'transformation' 
@@ -18,7 +18,7 @@ order: 3
 
 
 
-### 1a. Ovidius reuse of Greek Mythology in Metamorphosis 
+### 3.a 
 <!-- section-contents -->
 
 intro text 
