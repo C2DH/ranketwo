@@ -167,7 +167,7 @@ Next Sipylus, hearing the sound of a quiver in the empty air, let out the reins,
 
 [https://www.widewalls.ch/banksy-art-from-gaza-and-then-more-banksy/](https://www.widewalls.ch/banksy-art-from-gaza-and-then-more-banksy/) |Banksy in Gaza – image of Niobe (courtesy of [banksy.co.uk](http://banksy.co.uk/))                              
 
-<!-- section-contents -->
+<!-- section -->
 
 <!-- briefing-teacher -->
 ## Briefing lecturer
