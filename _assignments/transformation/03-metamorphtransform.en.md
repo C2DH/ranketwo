@@ -60,6 +60,7 @@ In the old days, the meaning of a term would be looked up in a dictionary, of wh
 |      |           |                            |
 
 
+
 ### 3.b Changes in how the terms ‘transformation’ and ‘metamorphosis’ are used in language. | 55 min
 
 The contexts in which particular terms are used is affected by technological, cultural, and economic changes in society. How the use of terms changes over time can be traced with the help of a tool called the Google Books Ngram Viewer. This is a search engine created by Google that charts the frequencies of a term in 18 million books available in the public domain in the English language that were printed between 1500 and 2008. This is done via statistical analysis of yearly counts of words. Although it is not fully representative, it can give a good impression of how the meaning of a term can change over time.
