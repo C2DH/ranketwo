@@ -120,32 +120,20 @@ Listen to the first 10 minutes of [this BBC podcast](https://www.youtube.com/wat
 - During the exchange of opinions on Ovid, in the first eight minutes the experts refer to six mythological forms of transformation, mentioning the names of the deities that are involved. Try to identify them by making use of the hints and the indicated time-stamps in the table.
 
 
-|     | Hint | Who is involved and what is at stake? | [This is a link](https://ovid.lib.virginia.edu/trans/Ovhome.htm#askline) to a translated version of Ovid’s work by Anthony. S. Kline, published online in open access by the University of Virginia and made searchable. In the index you can look up the names of the mythological protagonists in Ovid’s Metamorphosis. 
-Use the resource to trace the stories in the poem that are connected to the names you have identified in the podcast. Put the link in the field with a short description of what the context is. (75 words max.)
-|
-| --- | -------------- | ----------------- | ------------ | --------------------------- | -----------------
-| A human being is turned into an animal (2.45) |   |   |   |  
-| A deity is turned into a bush (4.48)  |   |   |   |  
-| A woman is turned into a fisherman  (5.09)  |   |   |   |  
-| From girl to man (6.00)|   |   |   |  
-| Women turn into trees  (6.30)|   |   |   |  
-| Women turn into a stone (7.11))|   |   |   |  
-
-
-
-
-
 |      |   Hint    |  Who is involved and what is at stake?|                    
 | ---  |-----------|---------------------------------------|
-|      | A human being is turned into an animal (2.45) |   |                                  
-|      |           |                                       |
-|      | A deity is turned into a bush (4.48)|   |                                      
-|      |           |                                       |
-|      | A woman is turned into a fisherman  (5.09)|   |                                    
-|      |           |                                  |
-|      | From girl to man (6.00)|   |                  |                                     
-|      |           |                                   |
-|      |  Women turn into trees  (6.30)|   |                                   
+|      | A human being is turned into an animal (2.45) |   |   |                                
+|      |           |                                       |   |
+|      | A deity is turned into a bush (4.48)|   |         |                            
+|      |           |                                       |   |
+|      | A woman is turned into a fisherman  (5.09)|   |       |                             
+|      |           |                                  |        |
+|      | From girl to man (6.00)|   |                  |       |                              
+|      |           |                                   |       |
+|      |  Women turn into trees  (6.30)|   |                   |      
+
+
+[This is a link](https://ovid.lib.virginia.edu/trans/Ovhome.htm#askline) to a translated version of Ovid’s work by Anthony. S. Kline, published online in open access by the University of Virginia and made searchable. In the index you can look up the names of the mythological protagonists in Ovid’s Metamorphosis. Use the resource to trace the stories in the poem that are connected to the names you have identified in the podcast. Put the link in the field with a short description of what the context is. (75 words max.)
 
 <!-- section -->
 
