@@ -138,6 +138,34 @@ Listen to the first 10 minutes of [this BBC podcast](https://www.youtube.com/wat
 <!-- section -->
 
 
+
+### 3.d Metamorphosis depicted in paintings | 40 mins
+<!-- section-contents -->
+
+It was the Roman poet Ovid’s fascination for the world being in a constant state of flux that led to the creation of his epic poem Metamorphosis. The fact that this fascination is everlasting is illustrated by the massive impact of his poem, especially on Western culture. Renaissance and Baroque artists frequently depicted mythological scenes and characters from his poem while famous authors such as Shakespeare and Chaucer drew on his work. Ovid would probably have been thrilled to learn that nowadays the structure of his work can be analyzed with the help of digital tools. The recurrent use of the term ‘transformation’ when referring to the impact of digital technology on today’s society echoes Ovid’s enchantment with change. In this assignment, you will identify themes from the Metamorphoses that are depicted in paintings which, thanks to digital technology, we now have instantaneous access to. 
+
+As mentioned, Ovid’s Metamorphoses has had a significant impact on Western culture, especially within the art world. While themes and scenes from the Metamorphoses can be found in literally hundreds of paintings all over the globe, here we will examine several which are the most well-known.
+
+-Contextualise two of the paintings in the table below by researching the title of the work, the painter, and the year(s) it was painted in and put the information (as well as a link to the image) in the second column. You can use a reverse image search service such as Google Search by Image or Tineye, or you can try to describe the image using the usual keyword search on a search engine of your choice. To use reverse image search, make a screenshot of the images you have chosen, and upload them in the search box.  
+
+- Next, describe in your own words the myth being depicted in the painting. 
+Then, find the corresponding passage about the mythological figures that is depicted in the painting in this [online version of the Metamorphoses](https://ovid.lib.virginia.edu/trans/Ovhome.htm) hosted by the University of Virginia in the USA and paste it in the table with its corresponding link, in size 8 font. Take into account that the spelling of the names may vary and that the online version of Ovid’s poem contains an [alphabetical index of all the names used](https://ovid.lib.virginia.edu/trans/MetindexA.htm). 
+
+- For the last column, conduct web research to find out whether the mythological figure(s) depicted in the painting and described in Ovid’s poem have inspired any contemporary artists. If so, document the name of the author, the work of art, the context in which it was made, and a link to the work or an article about it.   
+
+(place table with example as illustration) 
+
+
+|      |   screenshot paiting    |  name, author, date | Myth depicted with description of characters | Link to corresponding passage from Ovid’s Metamorphoses | Name contemporary artist and work of art |                   
+| ---  |-----------|---------------------------------------|
+|      | 
+1. The Death of Niobe's Children
+2. Johann König
+3. First half of 17th century|[https://commons.wikimedia.org/wiki/File:Johann_König_-_The_Death_of_Niobe's_Children_-_WGA12263.jpg](https://commons.wikimedia.org/wiki/File:Johann_König_-_The_Death_of_Niobe's_Children_-_WGA12263.jpg)
+ | The twin children of Latona, Phoebus (Apollo) and Phoebe (Artemis), kill all 14 of Niobe’s children in punishment for her refusal to worship Latona. | From: [Bk VI:204-266 The gods’ vengeance: Niobe’s sons are killed](https://ovid.lib.virginia.edu/trans/Metamorph6.htm#480077261)
+“There was a broad, open plain near the walls, flattened by the constant passage of horses, where many wheels and hard hooves had levelled the turf beneath them. There, a number of Amphion’s seven sons mounted on their strong horses, and sitting firmly on their backs, bright with Tyrian purple, guided them using reins heavy with gold. While Ismenus, one of these, who had been the first of his mother’s burdens, was wheeling his horse’s path around in an unerring circle, and hauling at the foaming bit, he cried out ‘Oh, I am wounded!’ and revealed an arrow fixed in his chest, and loosing the reins from his dying hands, slipped gradually, sideways, over his mount’s right shoulder. 
+    Next Sipylus, hearing the sound of a quiver in the empty air, let out the reins, just as a shipmaster sensing a storm runs for it when he sees the cloud, and claps on all sail, so that not even the slightest breeze is lost. Still giving full rein, he was overtaken, by the arrow none can avoid, and the shaft stuck quivering in his neck, and the naked tip protruded from his throat. Leaning forward, as he was, he rolled down over the mane and the galloping hooves| [https://www.widewalls.ch/banksy-art-from-gaza-and-then-more-banksy/](https://www.widewalls.ch/banksy-art-from-gaza-and-then-more-banksy/) |Banksy in Gaza – image of Niobe (courtesy of [banksy.co.uk](http://banksy.co.uk/))                              
+
 <!-- section-contents -->
 <!-- briefing-teacher -->
 ## Briefing lecturer
