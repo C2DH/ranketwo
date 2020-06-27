@@ -20,11 +20,9 @@ In the ‘Transformation’ clip, the claim is made that digital technology enha
 ### 3.a Interpretations and origins of two key terms: ‘metamorphosis’ and ‘transformation’ | 20 min
 <!-- section-contents -->
 
-The terms ‘metamorphosis’ and ‘transformation’ are related but are not synonymous. ‘Metamorphosis’ is associated with animals that are able to transform from one shape into another (even though this was not its original meaning) while ‘transformation’ is a more generic reference to ‘change’, and is commonly used in combination with ‘digital’. Both these terms are regularly used in today’s world, but to trace their original meaning or the origin of any word (also called a word’s etymology), before the advent of the internet, you had to use a printed dictionary. Digital technology can help us retrieve various interpretations of their original meanings instantaneously. It can also help with tracing back how these meanings changed over time. Yet, the importance of applying the same source criticism you would use with printed materials applies equally to information resources that one can find on the web.
+The terms ‘metamorphosis’ and ‘transformation’ are related but are not synonymous. ‘Metamorphosis’ is associated with animals that are able to transform from one shape into another (even though this was not its original meaning) while ‘transformation’ is a more generic reference to ‘change’, and is commonly used in combination with ‘digital’. To trace the original meaning or the origin of any word (also called a word’s etymology), before the advent of the internet, you had to use a printed dictionary, of which the credibility and authority would be secured by the status of an organisation or person (normally either the publishing house or the editors). Digital technology can help us retrieve various interpretations of their original meanings instantaneously. It can also help with tracing back how these meanings changed over time. Yet, the importance of applying the same source criticism you would use with printed materials applies equally to information resources that one can find on the web.
 
-In the old days, the meaning of a term would be looked up in a dictionary, of which the credibility and authority would be secured by the status of an organisation or person (normally either the publishing house or the editors). The magnitude of information resources that we can now find on the web requires us to take a number of principles into account when looking for information that is reliable. 
-
-- In this assignment, this is what you are going to do when looking up the etymology (origin) of the words ‘metamorphosis’ and ‘transformation’ in the [Online Etymology Dictionary](https://www.etymonline.com)
+- In this assignment, you are going to look up the etymology (origin) of the words ‘metamorphosis’ and ‘transformation’ in the [Online Etymology Dictionary](https://www.etymonline.com)
 
 - To check whether you can trust the information on any website, one strategy is to read and apply the criteria for ‘detecting CRAP’ as outlined in [this page](https://learn.canvas.net/courses/1659/pages/crap-detection) from Canvas Network’s massive open online course (or MOOC) ‘Understanding Media: Facts, Authority, and What We Believe.’ Read over this page. 
 
@@ -112,7 +110,7 @@ Evaluation
 Metamorphosis (also known as shapeshifting) has been used as a recurrent theme in mythology, folklore, and speculative fiction since the dawn of time. One of the most influential works inspired by Greek mythology which deals with this topic is Ovid’s epic poem the Metamorphoses. [Ovid (known in Latin as Ovidius)](https://en.wikipedia.org/wiki/Ovid) was a Roman poet who lived from 43 BC to 17/18 AD and became fairly famous during his lifetime and even more so after his death. His epic poem Metamorphoses consists of over 250 myths centered around the idea of ‘forms that change,’ and recounts the ‘history’ of the world from its creation until the time of Caesar. Metamorphoses has had a significant impact on Western culture ever since its creation including providing inspiration for several of William Shakespeare’s plays. In this assignment, we will explore some of the main themes found in the poem. 
 
 
-Listen to the first 10 minutes of [this BBC podcast](https://www.youtube.com/watch?v=T5PbTOMQm1k&feature=youtu.be&t=11) as presenter Melvyn Bragg, author A.S. Byatt, and literary critic A. Catherine Bates discuss the appeal and several themes of Ovid’s poem Metamorphoses and then answer the questions that follow.
+- Listen to the first 10 minutes of [this BBC podcast](https://www.youtube.com/watch?v=T5PbTOMQm1k&feature=youtu.be&t=11) as presenter Melvyn Bragg, author A.S. Byatt, and literary critic A. Catherine Bates discuss the appeal and several themes of Ovid’s poem Metamorphoses and then answer the questions that follow.
 
 - What is Byatt’s explanation for the appeal of Ovid’s poetry from ancient times to the present? (1:34 - 3:58)
 
@@ -130,7 +128,7 @@ Listen to the first 10 minutes of [this BBC podcast](https://www.youtube.com/wat
 |      |           |                                  |        |
 |      | From girl to man (6.00)|   |                  |       |                              
 |      |           |                                   |       |
-|      |  Women turn into trees  (6.30)|   |                   |      
+|      | Women turn into trees  (6.30)|   |                   |      
 
 
 [This is a link](https://ovid.lib.virginia.edu/trans/Ovhome.htm#askline) to a translated version of Ovid’s work by Anthony. S. Kline, published online in open access by the University of Virginia and made searchable. In the index you can look up the names of the mythological protagonists in Ovid’s Metamorphosis. Use the resource to trace the stories in the poem that are connected to the names you have identified in the podcast. Put the link in the field with a short description of what the context is. (75 words max.)
@@ -144,7 +142,7 @@ It was the Roman poet Ovid’s fascination for the world being in a constant sta
 
 As mentioned, Ovid’s Metamorphoses has had a significant impact on Western culture, especially within the art world. While themes and scenes from the Metamorphoses can be found in literally hundreds of paintings all over the globe, here we will examine several which are the most well-known.
 
--Contextualise two of the paintings in the table below by researching the title of the work, the painter, and the year(s) it was painted in and put the information (as well as a link to the image) in the second column. You can use a reverse image search service such as Google Search by Image or Tineye, or you can try to describe the image using the usual keyword search on a search engine of your choice. To use reverse image search, make a screenshot of the images you have chosen, and upload them in the search box.  
+- Contextualise two of the paintings in the table below by researching the title of the work, the painter, and the year(s) it was painted in and put the information (as well as a link to the image) in the second column. You can use a reverse image search service such as Google Search by Image or Tineye, or you can try to describe the image using the usual keyword search on a search engine of your choice. To use reverse image search, make a screenshot of the images you have chosen, and upload them in the search box.  
 
 - Next, describe in your own words the myth being depicted in the painting. 
 Then, find the corresponding passage about the mythological figures that is depicted in the painting in this [online version of the Metamorphoses](https://ovid.lib.virginia.edu/trans/Ovhome.htm) hosted by the University of Virginia in the USA and paste it in the table with its corresponding link, in size 8 font. Take into account that the spelling of the names may vary and that the online version of Ovid’s poem contains an [alphabetical index of all the names used](https://ovid.lib.virginia.edu/trans/MetindexA.htm). 
