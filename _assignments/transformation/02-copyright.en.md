@@ -85,7 +85,9 @@ Watch part of the ['Transformation' clip](https://ranke2.uni.lu/u/transformation
 - Have the creators of the Transformation clip taken risks with regard to the use of images? For some inspiration, take a look at columns I and J of the storyboard document above. 
 <!-- section -->  
 
-Reading/viewing suggestions:
+### Reading/viewing suggestions:
+<!-- section-contents -->
+
 - [More information about the first modern copyright law, the Statute of Anne, enacted in the UK in 1710](http://historyofcopyright.org/pb/wp_ff342f50/wp_ff342f50.html)
 - [Blog post ‘4 Easiest Ways to Tell if an Image is Copyrighted' (2014)](https://www.drumbeatmarketing.net/marketing-blog/4-easiest-ways-tell-image-copyrighted)
 - [Part 1 of the Wikihow Article ‘How to Find Out if Something Is Copyrighted’](https://www.wikihow.com/Find-Out-if-Something-Is-Copyrighted)
@@ -93,7 +95,6 @@ Reading/viewing suggestions:
 - [Different types of licenses on the Creative Commons Website](https://creativecommons.org/licenses/)
 - [Blog post by Zachary Strebeck ‘How to find out if something is copyrighted – a quick guide’](https://strebecklaw.com/find-something-copyrighted-quick-guide/)
 - [‘Starting Your Copyright Research’ page under Stanford’s Copyright and Fair Use website](https://fairuse.stanford.edu/overview/copyright-research/getting-started/)
-
 
 
 <!-- briefing-teacher -->
