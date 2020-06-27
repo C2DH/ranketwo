@@ -21,7 +21,7 @@ Copying and re-using images and texts is easier than ever before since the adven
 
 There has always been a connection between technological progress and the need to introduce new laws to protect the ideas and efforts of authors, inventors, and artists. The first copyright law was enacted in Great Britain in 1710 to protect the rights of authors from the unauthorized reproduction of their works. A similar need evolved with the advent of digital technology and the web, which facilitated copying and spreading original works. Digitisation has made the concept of ownership and copyright difficult to deal with. This assignment is about arrangements that have been made to regulate the use of images on the web.
 
-- Watch Part 4 of Everything is a Remix (22:50-34:30) by Kirby Ferguson to learn about the origin of the concept of copyright. We recommend watching the other parts of this fascinating four-part video series, which show Ferguson’s insights into the world of content ownership and modification.
+- Watch[Part 4 of Everything is a Remix](https://youtu.be/nJPERZDfyWc?t=1370)(22:50-34:30) by Kirby Ferguson to learn about the origin of the concept of copyright. We recommend watching the other parts of this fascinating four-part video series, which show Ferguson’s insights into the world of content ownership and modification.
 
 The ease with which one can make a copy of an image on the web encourages the re-use and re-mix of digital content, as Ferguson explains in his video series. But just because an image exists on the web and you can easily download it does not mean that you are dealing with copyright-free material. The conditions for using the image should be checked first.
 
