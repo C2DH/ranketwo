@@ -7,7 +7,7 @@ cover:
 tags:
   -  copyright
   -  innovation and creativity
-learning outcomes:
+outcomes:
 -  Learn about the origin of copyright and what arrangements have been made on the web to both protect the rights of authors while at the same time ensuring that content that can be shared freely.
 order: 2
 ---
@@ -98,4 +98,4 @@ Watch part of the ['Transformation' clip](https://ranke2.uni.lu/u/transformation
 
 
 <!-- briefing-teacher -->
-## Briefing lecturer
+
