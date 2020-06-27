@@ -61,13 +61,6 @@ link to (pdf) and images of examples of metadata schemese Windows and MAC should
 
 - Check whether or not the metadata that you looked up was correct by using the online tool https://www.metadata2go.com, which helps you find and examine the Exif and metadata of an image, in addition to providing explanations for a number of metadata categories or fields that you might not be familiar with.
 
-
-#### Reading/viewing  suggestions 
-Click here for an explanation on [how to find and remove Exif data on a Mac and on a Windows computer](https://www.howtogeek.com/203592/what-is-exif-data-and-how-to-remove-it/)
-[Anna Neatrour and Greer Martin, Using Metadata to Describe Digital Content, 2015](https://www.youtube.com/watch?v=RqgFLj_yspk) 
-[Deepak Jagdish and Daniel Smilkov, The Power of Metadata, 2013](https://www.youtube.com/watch?v=i2a8pDbCabg)
-
-
 <!-- section -->
 
 ### 1.b  Explore Image Recognition Tools | 50 min
@@ -126,15 +119,12 @@ To give you an idea of how to respond to the questions, an example is given belo
 
 ### Reading/viewing suggestions
 <!-- section-contents -->
-
+ 
+- An explanation on [how to find and remove Exif data on a Mac and on a Windows computer](https://www.howtogeek.com/203592/what-is-exif-data-and-how-to-remove-it/)
+- [Anna Neatrour and Greer Martin, Using Metadata to Describe Digital Content, 2015](https://www.youtube.com/watch?v=RqgFLj_yspk) 
+- [Deepak Jagdish and Daniel Smilkov, The Power of Metadata, 2013](https://www.youtube.com/watch?v=i2a8pDbCabg)
 - [Read the original article from the team that produced the Google Books Ngram Viewer for free here](https://dash.harvard.edu/handle/1/8899722)
-- [‘Using Metadata to Describe Digital Content’ video from Anna Neatrour and Greer Martin (2015)](https://www.youtube.com/watch?v=RqgFLj_yspk)
-- [‘The Power of Metadata’ TEDx Talk by Deepak Jagdish and Daniel Smilkov (2013)](https://www.youtube.com/watch?v=i2a8pDbCabg)
-- [An explanation on how to find and remove Exif data on a Mac and a Windows computer](https://www.howtogeek.com/203592/what-is-exif-data-and-how-to-remove-it/)
 - If you want to go more in-depth about the field of Image Recognition software and Computer Vision, one of the fundamental texts is Computer Vision: Algorithms and Applications by Richard Szeliski (2010) and it is [available online for free](http://szeliski.org/Book/)
-
-
-
 
 
 <!-- briefing-teacher -->
