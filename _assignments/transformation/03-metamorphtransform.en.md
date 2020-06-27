@@ -7,7 +7,7 @@ cover:
 tags:
   -  changes in meaning 
   -  concept of transformation 
-outcomes: 
+learning outcomes: 
 -  Understand the various interpretations of the concept of 'transformation' 
 order: 3
 ---
@@ -15,6 +15,7 @@ In the ‘Transformation’ clip, the claim is made that digital technology enha
 <!-- more -->
 
 <!-- briefing-student -->
+
 
 ### 3.a Interpretations and origins of two key terms: ‘metamorphosis’ and ‘transformation’ | 20 min
 <!-- section-contents -->
