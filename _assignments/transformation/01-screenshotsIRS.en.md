@@ -122,16 +122,19 @@ To give you an idea of how to respond to the questions, an example is given belo
 
 (special table created to show the data at different stages of the process) 
 
+<!-- section -->
 
+### Reading/viewing suggestions
+<!-- section-contents -->
 
+If you want to go more in-depth about the field of Image Recognition software and Computer Vision, one of the fundamental texts is Computer Vision: Algorithms and Applications by Richard Szeliski (2010) available online for free here: http://szeliski.org/Book/
 
 <!-- briefing-teacher -->
 ## Briefing lecturer
 
 
 
-#### Reading/viewing  suggestions
-If you want to go more in-depth about the field of Image Recognition software and Computer Vision, one of the fundamental texts is Computer Vision: Algorithms and Applications by Richard Szeliski (2010) available online for free here: http://szeliski.org/Book/
+
 
 
 
