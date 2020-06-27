@@ -13,9 +13,8 @@ order: 3
 ---
 In the ‘Transformation’ clip, the claim is made that digital technology enhances the processes of transformation, which is why the term is so often used in combination with that of ‘digital’. In this assignment, you are going to explore the meaning of the term ‘transformation’ as well as the related term ‘metamorphosis’. You will also trace back the changes in the meaning of both terms by using the Google Ngram Viewer tool. 
 <!-- more -->
-<!-- briefing-student -->
 
-<!-- section --> 
+<!-- briefing-student -->
 
 ### 3.a Interpretations and origins of two key terms: ‘metamorphosis’ and ‘transformation’ | 20 min
 <!-- section-contents -->
