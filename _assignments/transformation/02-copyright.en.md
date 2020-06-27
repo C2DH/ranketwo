@@ -83,16 +83,18 @@ Watch part of the ['Transformation' clip](https://ranke2.uni.lu/u/transformation
 - What kind of content has been used to create the clip? (sound, text, image) To help you out, check out one of the first versions of the [storyboard that was created for the Transformation clip](https://docs.google.com/spreadsheets/d/1Y6V7TX3o75lHOnPznarbfz16hv0q157vvr1qT3Y688w/edit?usp=sharing).
 
 - Have the creators of the Transformation clip taken risks with regard to the use of images? For some inspiration, take a look at columns I and J of the storyboard document above. 
+<!-- section -->  
 
 Reading/viewing suggestions:
-[More information about the first modern copyright law, the Statute of Anne, enacted in the UK in 1710](http://historyofcopyright.org/pb/wp_ff342f50/wp_ff342f50.html)
-[Blog post ‘4 Easiest Ways to Tell if an Image is Copyrighted' (2014)](https://www.drumbeatmarketing.net/marketing-blog/4-easiest-ways-tell-image-copyrighted)
-[Part 1 of the Wikihow Article ‘How to Find Out if Something Is Copyrighted’](https://www.wikihow.com/Find-Out-if-Something-Is-Copyrighted)
-[A 3-min video about the creation of a Creative Commons License](https://vimeo.com/13590841)
-[Different types of licenses on the Creative Commons Website](https://creativecommons.org/licenses/)
-[Blog post by Zachary Strebeck ‘How to find out if something is copyrighted – a quick guide’](https://strebecklaw.com/find-something-copyrighted-quick-guide/)
-[‘Starting Your Copyright Research’ page under Stanford’s Copyright and Fair Use website](https://fairuse.stanford.edu/overview/copyright-research/getting-started/)
-<!-- section -->  
+- [More information about the first modern copyright law, the Statute of Anne, enacted in the UK in 1710](http://historyofcopyright.org/pb/wp_ff342f50/wp_ff342f50.html)
+- [Blog post ‘4 Easiest Ways to Tell if an Image is Copyrighted' (2014)](https://www.drumbeatmarketing.net/marketing-blog/4-easiest-ways-tell-image-copyrighted)
+- [Part 1 of the Wikihow Article ‘How to Find Out if Something Is Copyrighted’](https://www.wikihow.com/Find-Out-if-Something-Is-Copyrighted)
+- [A 3-min video about the creation of a Creative Commons License](https://vimeo.com/13590841)
+- [Different types of licenses on the Creative Commons Website](https://creativecommons.org/licenses/)
+- [Blog post by Zachary Strebeck ‘How to find out if something is copyrighted – a quick guide’](https://strebecklaw.com/find-something-copyrighted-quick-guide/)
+- [‘Starting Your Copyright Research’ page under Stanford’s Copyright and Fair Use website](https://fairuse.stanford.edu/overview/copyright-research/getting-started/)
+
+
 
 <!-- briefing-teacher -->
 ## Briefing lecturer
