@@ -16,7 +16,7 @@ Copying and re-using images and texts is easier than ever before since the adven
 
 <!-- briefing-student -->
 
-### 2a. Taking copyright into account | 45 min 
+### 2.a Taking copyright into account | 45 min 
 <!-- section-contents -->
 
 There has always been a connection between technological progress and the need to introduce new laws to protect the ideas and efforts of authors, inventors, and artists.  The first copyright law was enacted in Great Britain in 1710 to protect the rights of authors from the unauthorized reproduction of their works. A similar need evolved with the advent of digital technology and the web, which facilitated copying and spreading original works. This assignment deals with the arrangements that have been made to regulate the use of images on the web.
