@@ -7,7 +7,7 @@ cover:
 tags:
   -  changes in meaning 
   -  concept of transformation 
-learning outcomes: 
+outcomes: 
 -  Understand the various interpretations of the concept of 'transformation' 
 order: 3
 ---
@@ -166,10 +166,6 @@ Next Sipylus, hearing the sound of a quiver in the empty air, let out the reins,
 [https://www.widewalls.ch/banksy-art-from-gaza-and-then-more-banksy/](https://www.widewalls.ch/banksy-art-from-gaza-and-then-more-banksy/) |Banksy in Gaza – image of Niobe (courtesy of [banksy.co.uk](http://banksy.co.uk/))                              
 <!-- section -->
 
-
-<!-- briefing-teacher -->
-## Briefing lecturer
-
-#### Reading/viewing  suggestions
-
+### Reading/viewing  suggestions
+<!-- section-contents -->
 
