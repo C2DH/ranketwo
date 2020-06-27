@@ -7,7 +7,7 @@ cover:
 tags:
   -  history of technology
   -  innovation and creativity
-learning outcomes: 
+outcomes: 
 -  Learn how digital technology is applied to copy images and how this automatically generates metadata (information about the copy that has been created)
 - Learn the basic principles of image recognition and how this contributes to a move from textual to multimodal forms of communication.
 - Learn how to apply source criticism to a digital representation of an object that has been published online. 
