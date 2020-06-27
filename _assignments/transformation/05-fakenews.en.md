@@ -22,23 +22,23 @@ At the end of the ‘Transformation’ clip, the question of whether or not we c
 
 One of the negative effects of excessive uses of the web and digital applications is the risk of increased depression and loneliness. As people substitute digital connections for physical ones, these negative effects are having larger and larger impacts around the world. In this assignment, you are going to learn about the context of some of these adverse effects.
 
-Listen to the first 22 ½ minutes of [this podcast](https://podcasts.apple.com/us/podcast/we-cant-just-log-off-mental-health-and-tech/id1439658455?i=1000452023198) by entrepreneur Anil Dash, titled: _We Can't Just Log Off: Mental Health and Tech_, in which he talks about both the positive and negative potential of the web. 
+- Listen to the first 22 ½ minutes of [this podcast](https://podcasts.apple.com/us/podcast/we-cant-just-log-off-mental-health-and-tech/id1439658455?i=1000452023198) by entrepreneur Anil Dash, titled: _We Can't Just Log Off: Mental Health and Tech_, in which he talks about both the positive and negative potential of the web. 
 
-1. List one positive and one negative feature in Dash’s account.
+- List one positive and one negative feature in Dash’s account.
 - Positive:
 - Negative:
 
-2. Do you recognize some of the elements in Dash’s account in your own life? Reflect on your own experience with the internet or a smartphone in different phases of your life: as a child, an adolescent, a university student, (and potentially even) as an adult with a job or hobby. Some themes/keywords that might help jump-start your reflections are: fascination, fun, disappointment, bullying, learning, sharing, contact at a distance, mobilizing people for an initiative, or being deceived.
+- Do you recognize some of the elements in Dash’s account in your own life? Reflect on your own experience with the internet or a smartphone in different phases of your life: as a child, an adolescent, a university student, (and potentially even) as an adult with a job or hobby. Some themes/keywords that might help jump-start your reflections are: fascination, fun, disappointment, bullying, learning, sharing, contact at a distance, mobilizing people for an initiative, or being deceived.
 - Child:
 - Adolescent:
 - Student:
 - Adult:
 
-3. One of the experts who is interviewed by Anil Dash is Dr. Elias Aboujaoude, who is also mentioned in Assignment 4a. Dr. Aboujaoude discusses two elements that distinguish the transformation of society after the introduction of technologies such as the telephone, radio, and television, on the one hand, and after the introduction of the world wide web, on the other (6:46 - 9:04). Describe the two distinguishing features below:
+- One of the experts who is interviewed by Anil Dash is Dr. Elias Aboujaoude, who is also mentioned in Assignment 4a. Dr. Aboujaoude discusses two elements that distinguish the transformation of society after the introduction of technologies such as the telephone, radio, and television, on the one hand, and after the introduction of the world wide web, on the other (6:46 - 9:04). Describe the two distinguishing features below:
 
-4. Do you agree with Dr. Aboujaoude’s opinion about the impact of social media and app use  on society? What are your personal experiences with this effect?  (13:43 - 16:27)
+- Do you agree with Dr. Aboujaoude’s opinion about the impact of social media and app use  on society? What are your personal experiences with this effect?  (13:43 - 16:27)
 
-5. What are Dr. Aboujaoude’s thoughts on tools or utilities that web developers create to manage their own mental health or unhealthy behaviors? (16:27 - 18:55). Would you trust such an application to check whether you need to consult or go straight to a doctor? 
+- What are Dr. Aboujaoude’s thoughts on tools or utilities that web developers create to manage their own mental health or unhealthy behaviors? (16:27 - 18:55). Would you trust such an application to check whether you need to consult or go straight to a doctor? 
 
 <!-- section -->  
 
@@ -64,10 +64,10 @@ Now, read the tab titled, [‘Why We Fall for Fake News’](https://www.cits.ucs
 Four aspects of this bias are listed below. Reflect on how these aspects play a role in your appreciation of news.
 - Hint: think of news on controversial issues. Examples might include Brexit, coronavirus, the climate crisis, the increasing numbers of refugees in Europe in recent years, the war in Syria, the news coverage of populist parties, and the news coverage of some of the largest and most influential companies in the world, such as Amazon, Microsoft, Google, or Apple.
 
-1. Do you tend to only read the headlines?
-2. Are you ever critical about a message coming from social media that is appealing to you? 
-3. Are you able to be critical about a message that matches your worldview?
-4. Do you think you would be able to speak out when your peers or people in your social network believe information that has been proven to be false?
+- Do you tend to only read the headlines?
+- Are you ever critical about a message coming from social media that is appealing to you? 
+- Are you able to be critical about a message that matches your worldview?
+- Do you think you would be able to speak out when your peers or people in your social network believe information that has been proven to be false?
 
 If you click on the link in the caption of the Wikipedia cognitive bias visualisation shown at the end of the [‘Why We Fall for Fake News’](https://www.cits.ucsb.edu/fake-news/why-we-fall) tab and then click on the + to magnify the image, you will end up with [this high-resolution image](https://upload.wikimedia.org/wikipedia/commons/a/a4/The_Cognitive_Bias_Codex_-_180%2B_biases%2C_designed_by_John_Manoogian_III_%28jm3%29.png ) of the four categories of biases:
 1. What Should We Remember?
@@ -166,7 +166,35 @@ English
 - [https://www.darkmoon.me](https://www.darkmoon.me)
 - [http://livingpresence.com](http://livingpresence.com)
 
-(more to add here)
+German
+- https://www.der-postillon.com 
+- https://jungefreiheit.de/kultur/ 
+- https://www.selbstheilung-online.com 
+- https://www.spick.ch  
+
+Italian
+- https://www.studenti.it/classificazione-fonti-storiche.html 
+- https://www.lercio.it
+- https://www.open.online/2020/01/30/audio-di-un-italiano-bloccato-in-cina-teorie-di-complotto-e-cattiva-informazione/  
+- https://web.archive.org/web/20160306122819/http://www.lafucina.it/ 
+
+Dutch
+- https://neoavantgarde.de/digitale-kunst/
+- https://www.atlantis-erfgoed.nl/crowdsourcing/?gclid=CjwKCAjw_LL2BRAkEiwAv2Y3Sa0vCniHi-- n88LpOKXWpsE6z4kjsqPrnS4xRD6vnSpKvHG6LMGc67RoCaVYQAvD_BwE  
+- https://www.dumpert.nl 
+- https://www.fvd.nl/standpunten
+
+Spanish
+- https://www.vozpopuli.com/espana/anuncio-navidad-campofrio-2019-fake-me_0_1310269475.html 
+- https://expatpsi.com/psicologa-para-expatriados/?gclid=Cj0KCQjwoaz3BRDnARIsAF1RfLf2WLqci_I1_WKO75cKDca2u3Zg5yzXvmsBerxg4Zjrjt-Oc5Xbi6IaAh5CEALw_wcB 
+- https://www.mosteirodesaobentorio.org.br/vida-monastica/o-que-e-vida-monastica 
+- http://ri.uaemex.mx/handle/20.500.11799/104743 
+
+Danish
+- https://denmark.dk 
+- https://www.thelocal.dk 
+- https://museetalhambra.dk/en/ 
+- https://stjarnhealing.se/stjarnhealingnorsk.html 
 
 <!-- section -->  
 
