@@ -10,7 +10,7 @@ tags:
   -  mental health
 learning outcomes:
 -  Assess the risks that are connected to the excessive use of the web as the sole mode of contact or information gathering and how to asses the quality of the information on the web.
-order: 2
+order: 5
 ---
 At the end of the ‘Transformation’ clip, the question of whether or not we can trust digital technologies and the web is raised. The very existence of this teaching platform that can be accessed by anyone throughout the world at no cost other than an internet connection illustrates the enormous potential benefit of this technology. But as with anything in excess, there can be detrimental effects of exorbitant use of the web and of specific applications. There is the risk of addiction to video games or social media as well as the risk of isolation when people substitute digital connections for physical ones. You can end up in a filter bubble, meaning that you only receive and listen to information that connects and confirms your preferences and worldview. The risk that is most talked about at present, is that of the mobilizing power of unreliable and misleading news, also known as ‘fake news’. In these assignments, you are going to deal with the diverse ways in which digital technology can impact our lives.
 <!-- more -->
