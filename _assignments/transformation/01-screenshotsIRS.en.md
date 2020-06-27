@@ -126,9 +126,8 @@ To give you an idea of how to respond to the questions, an example is given belo
 - [Read the original article from the team that produced the Google Books Ngram Viewer for free here](https://dash.harvard.edu/handle/1/8899722)
 - If you want to go more in-depth about the field of Image Recognition software and Computer Vision, one of the fundamental texts is Computer Vision: Algorithms and Applications by Richard Szeliski (2010) and it is [available online for free](http://szeliski.org/Book/)
 
-
 <!-- briefing-teacher -->
-## Briefing lecturer
+
 
 
 
