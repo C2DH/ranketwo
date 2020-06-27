@@ -2,13 +2,13 @@
 layout: assignment
 unit: transformation
 lang: en
-title: "From Credible to Misleading: Issues Surrounding Fake News"  
+title: "From Credible to Misleading: the problem of addiction and Fake News"  
 cover:
 tags:
   -  fake news
   -  CRAP detection
   -  mental health
-learning outcomes:
+outcomes:
 -  Assess the risks that are connected to the excessive use of the web as the sole mode of contact or information gathering and how to asses the quality of the information on the web.
 order: 5
 ---
@@ -199,4 +199,4 @@ Danish
 <!-- section -->  
 
 <!-- briefing-teacher -->
-## Briefing lecturer
+
