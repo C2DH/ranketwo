@@ -127,8 +127,6 @@ To give you an idea of how to respond to the questions, an example is given belo
 ### Reading/viewing suggestions
 <!-- section-contents -->
 
-
-Reading/viewing suggestions:
 - [Read the original article from the team that produced the Google Books Ngram Viewer for free here](https://dash.harvard.edu/handle/1/8899722)
 - [‘Using Metadata to Describe Digital Content’ video from Anna Neatrour and Greer Martin (2015)](https://www.youtube.com/watch?v=RqgFLj_yspk)
 - [‘The Power of Metadata’ TEDx Talk by Deepak Jagdish and Daniel Smilkov (2013)](https://www.youtube.com/watch?v=i2a8pDbCabg)
