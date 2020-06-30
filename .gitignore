@@ -2,6 +2,7 @@
 _site/
 .sass-cache/
 .jekyll-metadata
+.jekyll-cache
 
 d3/node_modules
 scripts/node_modules
