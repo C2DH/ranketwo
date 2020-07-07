@@ -31,7 +31,7 @@ A screenshot (sometimes referred to as a screencap, screengrab, or in the earlie
 
 For Mac users, the screenshots will automatically appear on your desktop. For Windows users, 
 the screenshots will appear in a folder called “Screenshots” in your “Pictures” folder.
-Copy those screenshots in the two fields of your answerform.
+Copy those screenshots in the two fields of your answerform (this will be added to this lesson to download asap).
 
 |      | Screenshot 1             |        Screenshot 2.       |
 | ---  |--------------------------|----------------------------|
