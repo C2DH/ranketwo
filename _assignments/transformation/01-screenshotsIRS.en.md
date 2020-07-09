@@ -111,7 +111,7 @@ NOTE: You may need to do some additional web research to answer all the question
 ![Postmortem children](../../assets/images/transformation/1c/postmortem_children.jpg)
 ![Iris](../../assets/images/transformation/1c/iris.jpg)
 ![Woman labor](../../assets/images/transformation/1c/woman-labor.jpg)
-![boy-in-blue-long-sleeve-shirt-wearing-face-mask-4145249](../..assets/images/transformation/1c/boy-in-blue-long-sleeve-shirt-wearing-face-mask-4145249.jpg)
+![boy-in-blue-long-sleeve](../../assets/inages/transformation/1c/boy-in-blue-long-sleeve.jpg)
 ![oscar-wild](../../assets/images/transformation/1c/oscar-wild.png)
 
 
