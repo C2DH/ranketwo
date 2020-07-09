@@ -111,7 +111,7 @@ NOTE: You may need to do some additional web research to answer all the question
 ![Postmortem children](../../assets/images/transformation/1c/postmortem_children.jpg)
 ![Iris](../../assets/images/transformation/1c/iris.jpg)
 ![Woman labor](../../assets/images/transformation/1c/woman-labor.jpg)
-![1c/boy-in-blue-long-sleeve-shirt-wearing-face-mask-4145249](../..assets/images/transformation/1c/boy-in-blue-long-sleeve-shirt-wearing-face-mask-4145249.jpg)
+![boy-in-blue-long-sleeve-shirt-wearing-face-mask-4145249](../..assets/images/transformation/1c/boy-in-blue-long-sleeve-shirt-wearing-face-mask-4145249.jpg)
 
 - Fill out the tables below using two of the images selected above. For the first section, ‘Context of creation’, we suggest that you repeat the process of Assignment 1b of uploading the screenshot in the image recognition service that you prefer. The list of results that appears will guide you in answering the questions in the first section.
 
