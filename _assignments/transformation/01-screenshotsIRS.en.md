@@ -71,7 +71,7 @@ For this assignment, you will choose the second  of the two screenshots you took
 ![Image search results Google Image](../../assets/images/transformation/1b/google-image-screenshot.png)
 ![Image search results Tineye](../../assets/images/transformation/1b/tineye.png)
 
-![Image search results Tineye](../../assets/images/transformation/1b/tineye.png =100x20)
+<img src="google-image-screenshot.png" alt="google-image-screenshot" width="200"/>
 
 
 - To understand how image recognition through computers evolved first, watch this [TED Talk by scholar Fei Fei Li of Stanford University](https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures?utm_campaign=tedspread--a&utm_medium=referral&utm_source=tedcomshare).
