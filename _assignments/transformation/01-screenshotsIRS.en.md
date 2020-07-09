@@ -71,8 +71,6 @@ For this assignment, you will choose the second  of the two screenshots you took
 ![Image search results Google Image](../../assets/images/transformation/1b/google-image-screenshot.png)
 ![Image search results Tineye](../../assets/images/transformation/1b/tineye.png)
 
-[<img src="google-image-screenshot.png" width="250"/>](google-image-screenshot.png)
-
 
 - To understand how image recognition through computers evolved first, watch this [TED Talk by scholar Fei Fei Li of Stanford University](https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures?utm_campaign=tedspread--a&utm_medium=referral&utm_source=tedcomshare).
 - Next, open one tab to [Google Images](https://images.google.com/), and another tab to [Tineye](https://tineye.com) and upload your screenshot from your desktop to both services. A summary of the retrieved results will appear, along with all the listed hits below.
