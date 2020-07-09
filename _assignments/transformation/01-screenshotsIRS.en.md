@@ -33,20 +33,18 @@ For Mac users, the screenshots will automatically appear on your desktop. For Wi
 the screenshots will appear in a folder called “Screenshots” in your “Pictures” folder.
 Copy those screenshots in the two fields of your answerform (this will be added to this lesson to download asap).
 
-|      | Screenshot 1             |        Screenshot 2.       |
-| ---  |--------------------------|----------------------------|
-|      |                          |                            |
-|      |                          |                            |
-|      |                          |                            |
-|      |                          |                            |
-|      |                          |                            |
-|      |                          |                            |
-|      |                          |                            |
-|      |                          |                            |
-|      |                          |                            |
+|      | Screenshot 1                       |        Screenshot 2.              |
+| ---  |------------------------------------|-----------------------------------|
+|      |                                    |                                   |
+|      |                                    |                                   |
+|      |                                    |                                   |
+|      |                                    |                                   |
+
 
 Taking the screenshots automatically generates information about them that we call metadata. Metadata, which literally means “data about data”, is information about the object in question. It is a concept that is key for the management of digital content (including photos, texts, audio or video-files, tweets, or 3d objects). In the case of digitally produced images, this type of metadata is called Exif data, which stands for:
-### Exchangeable Image File Format ### This file contains information about the image such as the amount of pixels, the number of bytes, the colour scheme, the date of creation, and the format of the image.
+
+### Exchangeable Image File Format 
+This file contains information about the image such as the amount of pixels, the number of bytes, the colour scheme, the date of creation, and the format of the image.
 
 - Watch [this video](https://www.youtube.com/watch?v=ABF2FvSPVYE) by metadata librarian Mary Rose of the Southern Illinois University Edwardsville Libraries that gives you an introduction to the concept of metadata by using the analogy of how we label leftovers in a fridge.
 
@@ -55,7 +53,7 @@ You are now going to inspect the metadata of the first of the two screenshots th
 Using the PDF, you will see all the major fields for metadata information in the tables below.
 - Fill out only the metadata fields that are highlighted for the first of the two screenshots you took, either in the Mac or the Windows version, while taking note of all the other types of common metadata
 
-link to (pdf) and images of examples of metadata schemese Windows and MAC should be placed here
+[link to (pdf) and images of examples of metadata schemese Windows and MAC should be placed here]
 
 
 
