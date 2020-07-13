@@ -683,7 +683,7 @@
         year: 2012
         reference: 'Rachel Deblinger,, In: After the Holocaust: Challenging the Myth of Silence, ed. David Cesarani and Eric J.Sundquist, (New York, 2012)'
         abstract:
-            en_us: "special inbetweenness of DP camps, dual emotions, no clear start, no resolution , interruptions because of change spools or wire breaking, interruptions point to incomprehensibility of Holocaust, points to transitional period in which the narrative was not cemented: what should I ask, what should I tell? Here we have references to Jewish violence, which in later accounts would become taboo\n"
+            en_us: "special inbetweenness of DP camps, dual emotions, no clear start, no resolution, interruptions because of change spools or wire breaking, interruptions point to incomprehensibility of Holocaust, points to transitional period in which the narrative was not cemented: what should I ask, what should I tell? Here we have references to Jewish violence, which in later accounts would become taboo\n"
     url: 'https://drive.google.com/open?id=17WHmbZg4Wr8x7N4QEDMRsjdFyFKw6pU4'
     _id: 0a4141e32b5b435ebc07a349e211139b
 -
@@ -1684,3 +1684,31 @@
         year: 2018
     url: 'https://doi.org/10.1093/llc/fqy048'
     _id: 04d6c6f7cdce4c7db9273c7c0ebd25c4
+-
+    title: The Metadata Librarian Explains Metadata
+    slug: the-metadata-librarian-explains-metadata-video
+    type: video
+    data:
+        embed:
+            type: video,
+            thumbnail_height: 360,
+            provider_url: "https://www.youtube.com/"
+            author_url:  "https://www.youtube.com/user/SIUElibraries"
+            thumbnail_width: 480
+            thumbnail_url: "https://i.ytimg.com/vi/ABF2FvSPVYE/hqdefault.jpg"
+            height: 270
+            provider_name: YouTube
+            width: 480
+            title: "The Metadata Librarian Explains Metadata"
+            url: "https://www.youtube.com/watch?v=ABF2FvSPVYE"
+            author_name: "SIUE Lovejoy Library"
+            # html: "<iframe width=\" 480\" height=\"270\" src=\"https://www.youtube.com/embed/ABF2FvSPVYE?feature=oembed\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>",
+            version": "1.0"
+        year: 2014
+        date_published:
+            en_us: 2014
+        abstract:
+            en_us: "Find out what metadata is from the Library and Information Services Metadata Librarian, Mary Rose."
+    url: "https://www.youtube.com/watch?v=ABF2FvSPVYE"
+    _id: c01aadc569b84991ba459f2835ca7ac2
+    _resolved: true

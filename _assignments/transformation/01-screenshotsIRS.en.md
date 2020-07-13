@@ -8,13 +8,16 @@ tags:
   -  history of technology
   -  innovation and creativity
 outcomes:
--  Learn how digital technology is applied to copy images and how this automatically generates metadata (information about the copy that has been created)
-- Learn the basic principles of image recognition and how this contributes to a move from textual to multimodal forms of communication.
-- Learn how to apply source criticism to a digital representation of an object that has been published online.
+  -  Learn how digital technology is applied to copy images and how this automatically generates metadata (information about the copy that has been created)
+  - Learn the basic principles of image recognition and how this contributes to a move from textual to multimodal forms of communication.
+  - Learn how to apply source criticism to a digital representation of an object that has been published online.
 documents:
+  - the-metadata-librarian-explains-metadata-video
 order: 1
 ---
 All of the images from the clip ‘Transformation’ that you just saw originated somewhere else. They have been copied and pasted in a new context thanks to technologies that allow you to ‘transform’ and retrieve images. This assignment revolves around Image Recognition Software, also known as Computer Vision. You will first learn how to create a screenshot of an image and inspect its corresponding metadata. Then, you will learn how to use software to find where an image on the web originally comes from. Finally, you will analyse the image using digital source criticism tools. This will allow you to  trace the origin of the image to its publication in a digital representation in an online environment, documenting the transformations it has undergone in order to reach its most recent stage.
+
+[card](the-metadata-librarian-explains-metadata-video)
 
 <!-- more -->
 
@@ -46,7 +49,7 @@ Taking the screenshots automatically generates information about them that we ca
 ### Exchangeable Image File Format 
 This file contains information about the image such as the amount of pixels, the number of bytes, the colour scheme, the date of creation, and the format of the image.
 
-- Watch [this video](https://www.youtube.com/watch?v=ABF2FvSPVYE) by metadata librarian Mary Rose of the Southern Illinois University Edwardsville Libraries that gives you an introduction to the concept of metadata by using the analogy of how we label leftovers in a fridge.
+- Watch the video [The Metadata Librarian Explains Metadata](https://www.youtube.com/watch?v=ABF2FvSPVYE){:target="_blank"} by metadata librarian Mary Rose of the Southern Illinois University Edwardsville Libraries that gives you an introduction to the concept of metadata by using the analogy of how we label leftovers in a fridge.
 
 You are now going to inspect the metadata of the first of the two screenshots that you created.
 - Click here for access to a PDF with an overview of all the metadata fields, how to access them, and what they mean
