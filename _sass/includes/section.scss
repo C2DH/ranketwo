@@ -99,6 +99,7 @@
 .table {
   &.with-pairs td, &.with-pairs th {
     width: 50%;
+    text-align: left;
   }
   &.text-bold-highlight td strong{
     background: yellow;
