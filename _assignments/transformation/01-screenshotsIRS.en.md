@@ -46,7 +46,7 @@ Copy those screenshots in the two fields of your answerform (this will be added 
 
 Taking the screenshots automatically generates information about them that we call metadata. Metadata, which literally means “data about data”, is information about the object in question. It is a concept that is key for the management of digital content (including photos, texts, audio or video-files, tweets, or 3d objects). In the case of digitally produced images, this type of metadata is called Exif data, which stands for:
 
-### Exchangeable Image File Format 
+### Exchangeable Image File Format
 This file contains information about the image such as the amount of pixels, the number of bytes, the colour scheme, the date of creation, and the format of the image.
 
 - Watch the video [The Metadata Librarian Explains Metadata](https://www.youtube.com/watch?v=ABF2FvSPVYE){:target="_blank"} by metadata librarian Mary Rose of the Southern Illinois University Edwardsville Libraries that gives you an introduction to the concept of metadata by using the analogy of how we label leftovers in a fridge.
@@ -105,17 +105,18 @@ NOTE: You may need to do some additional web research to answer all the question
 - Look at the images below, choose two, and take screenshots of them.
 
 {:.mosaic}
-![Charles Darwin portrait by John Collier](../../assets/images/transformation/1c/charles-darwin-portrait-by-john-collier.jpg)
-![Morel](../../assets/images/transformation/1c/morel-v-afp-1.jpg)
-![Sandro Botticelli - La nascita di Venere](../../assets/images/transformation/1c/sandro-botticelli-la-nascita-di-venere.jpg)
-![Barack Obama hope poster](../../assets/images/transformation/1c/barack-obama-hope-poster.jpg)
-![Boy children Christmas](../../assets/images/transformation/1c/boy-children-christmas.jpg)
-![Man mask](../../assets/images/transformation/1c/man-mask.jpg)
-![Postmortem children](../../assets/images/transformation/1c/postmortem_children.jpg)
-![Iris](../../assets/images/transformation/1c/iris.jpg)
-![Woman labor](../../assets/images/transformation/1c/woman-labor.jpg)
-![boy-in-blue-long-sleeve](../../assets/images/transformation/1c/boy-in-blue-long-sleeve.jpg)
-![oscar-wild](../../assets/images/transformation/1c/oscar-wild.png)
+[![Charles Darwin portrait by John Collier](../../assets/images/transformation/1c/thumbs/charles-darwin-portrait-by-john-collier.jpg "Charles Darwin portrait by John Collier")](../../assets/images/transformation/1c/charles-darwin-portrait-by-john-collier.jpg){:target="_blank"}
+[![Morel](../../assets/images/transformation/1c/thumbs/morel-v-afp-1.jpg "Morel")](../../assets/images/transformation/1c/morel-v-afp-1.jpg){:target="_blank"}
+[![Sandro Botticelli - La nascita di Venere](../../assets/images/transformation/1c/thumbs/sandro-botticelli-la-nascita-di-venere.jpg "Sandro Botticelli - La nascita di Venere")](../../assets/images/transformation/1c/sandro-botticelli-la-nascita-di-venere.jpg){:target="_blank"}
+[![Barack Obama hope poster](../../assets/images/transformation/1c/thumbs/barack-obama-hope-poster.jpg "Barack Obama hope poster")](../../assets/images/transformation/1c/barack-obama-hope-poster.jpg){:target="_blank"}
+[![Boy children Christmas](../../assets/images/transformation/1c/thumbs/boy-children-christmas.jpg "Boy children Christmas")](../../assets/images/transformation/1c/boy-children-christmas.jpg){:target="_blank"}
+[![Man mask](../../assets/images/transformation/1c/thumbs/man-mask.jpg "Man mask")](../../assets/images/transformation/1c/man-mask.jpg){:target="_blank"}
+[![Postmortem children](../../assets/images/transformation/1c/thumbs/postmortem-children.jpg "Postmortem children")](../../assets/images/transformation/1c/postmortem-children.jpg){:target="_blank"}
+[![Iris](../../assets/images/transformation/1c/thumbs/iris.jpg "Iris")](../../assets/images/transformation/1c/iris.jpg){:target="_blank"}
+[![Woman labor](../../assets/images/transformation/1c/thumbs/woman-labor.jpg "Woman labor")](../../assets/images/transformation/1c/woman-labor.jpg){:target="_blank"}
+[![Boy in blue long sleeve](../../assets/images/transformation/1c/thumbs/boy-in-blue-long-sleeve.jpg "Boy in blue long sleeve")](../../assets/images/transformation/1c/boy-in-blue-long-sleeve.jpg){:target="_blank"}
+[![Oscar Wild](../../assets/images/transformation/1c/thumbs/oscar-wild.jpg "Oscar Wild")](../../assets/images/transformation/1c/oscar-wild.jpg){:target="_blank"}
+[![Postmortem man](../../assets/images/transformation/1c/thumbs/postmortem-man.jpg "Postmortem man")](../../assets/images/transformation/1c/postmortem-man.jpg){:target="_blank"}
 
 
 - Fill out the tables below using two of the images selected above. For the first section, ‘Context of creation’, we suggest that you repeat the process of Assignment 1b of uploading the screenshot in the image recognition service that you prefer. The list of results that appears will guide you in answering the questions in the first section.
