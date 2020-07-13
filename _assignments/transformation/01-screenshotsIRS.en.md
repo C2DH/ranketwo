@@ -162,7 +162,34 @@ NOTE: You may need to do some additional web research to answer all the question
 
 To give you an idea of how to respond to the questions, an example is given below.
 
-(special table created to show the data at different stages of the process)
+{:.table.border.table-sm.text-sm.text-bold-highlight.with-pairs}
+| 1. Context of creation | answer |
+|--------------------------------|--------|
+| What is its name and who created it? 	| Portrait de [Dora Maar](https://en.wikipedia.org/wiki/Dora_Maar). It was created by the painter Pablo Picasso. 
+| When and where was it created?        | 1937 and potentially in Paris.
+| For which purpose?                    | to create a work of art 
+| What is portrayed in the image?       | [Dora Maar](https://en.wikipedia.org/wiki/Dora_Maar), a pseudonym for the french photographer, painter and poet Henriette Theodora Markovitch, Picasso’s muse
+| With which technology/craft/medium?   | Oil on linen
+
+{:.table.border.table-sm.text-sm.text-bold-highlight.with-pairs}
+| 1. Context of preservation | answer |
+|--------------------------------|--------|
+| Where is the original?	| At the Musée Picasso in Paris
+| What does this say about the value of the source? | It is valued as an important work of art
+| Is it accessible to an audience? | It is not clear whether it is in the museum’s archive or currently being exhibited to the public
+| Has its value/ appearance//identity changed in this different context?  | Yes, it has become part of shared cultural heritage as it is in a publicly funded museum.
+
+{:.table.border.table-sm.text-sm.text-bold-highlight.with-pairs}
+| 1. Context of digitisation and online publishing  | answer |
+|--------------------------------|--------|
+| On which website  did you find it? | I found it both on commercial images selling companies websites like Alamy, and in websites of collections, like [wikiart](https://www.wikiart.org/en/pablo-picasso/portrait-of-dora-maar-1937-1). An interesting thing to note is that you can end up on a website where you have to pay to receive a copy, whereas the image is licensed under ‘fair use’ and can be downloaded without costs, in a lower resolution
+| Who published it online, when and where? | This is not possible to find out online and would require an investigation based on contact with the owner of the painting, that is, the museum
+| Why and how was it digitised | Same as above
+| Was information lost or added? | Yes, its materiality was lost, the colors are different, the dimensions are different, and it has changed into digits and automatically created metadata when being photographed, being converted to a lower resolution to make it suitable for upload. When uploaded, the structure of the bits changed again, and new metadata was added. 
+| Who is the owner of the digital copy? | Probably the Picasso Museum, but it is being shared under the principle of ‘fair use’ and for educational and research purposes a lower resolution is freely available.
+
+
+
 
 <!-- section -->
 

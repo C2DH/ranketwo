@@ -97,6 +97,9 @@
 }
 
 .table {
+  &.with-pairs td, &.with-pairs th {
+    width: 50%;
+  }
   &.text-bold-highlight td strong{
     background: yellow;
   }
