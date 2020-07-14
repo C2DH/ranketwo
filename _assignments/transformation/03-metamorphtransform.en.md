@@ -134,24 +134,38 @@ Then, find the corresponding passage about the mythological figures that is depi
 
 - For the last column, conduct web research to find out whether the mythological figure(s) depicted in the painting and described in Ovid’s poem have inspired any contemporary artists. If so, document the name of the author, the work of art, the context in which it was made, and a link to the work or an article about it.   
 
-(place table with example as illustration) 
+{:.mosaic}
+![Metamorphosis of Daphe](/../../assets/images/transformation/3d/thumbs/the-master-of-the-judgement-of-paris-the-metamorphosis-of-daphne.jpg)
+![The Rape of Europa](/../../assets/images/transformation/3d/thumbs/noel-nicolas-coypel-the-rape-of-europa.jpg)
+![Echo and Narcissus](/../../assets/images/transformation/3d/thumbs/john-william-waterhouse-echo-and-narcissus.jpg)
+![Diana and Callisto](/../../assets/images/transformation/3d/thumbs/diana-and-callisto-by-jan-breughel-the-elder-and-hencrick-van-balen.jpg)
+![The Death of Niobe's children](/../../assets/images/transformation/3d/thumbs/johann-konig-the-death-of-niobes-children.jpg)
 
-|      |   screenshot paiting    |  name, author, date | Myth depicted with description of characters | Link to corresponding passage from Ovid’s Metamorphoses | Name contemporary artist and work of art |                   
+{:.table.border.table-sm.with-pairs}
+| question | answer |
+| --- |---|
+| name, author, date |  
+| Which is the Myth depicted (with description of characters)? |
+| Link to corresponding passage from Ovid’s Metamorphoses? | 
+| Name contemporary artist and work of art? |    
 
-(image painting)
 
-1. The Death of Niobe's Children
-2. Johann König
-3. First half of 17th century|[https://commons.wikimedia.org/wiki/File:Johann_König_-_The_Death_of_Niobe's_Children_-_WGA12263.jpg](https://commons.wikimedia.org/wiki/File:Johann_König_-_The_Death_of_Niobe's_Children_-_WGA12263.jpg)
+{:.table.border.table-sm.with-pairs}
+| question | answer |
+| --- |---|
+| picture | ![The Death of Niobe's children](/../../assets/images/transformation/3d/thumbs/johann-konig-the-death-of-niobes-children.jpg)
+| name, author, date |  The Death of Niobe's Children, Johann König (First half of 17th century) 
+| Which is the Myth depicted (with description of characters)? | The twin children of Latona, Phoebus (Apollo) and Phoebe (Artemis), kill all 14 of Niobe’s children in punishment for her refusal to worship Latona. From: [Bk VI:204-266 The gods’ vengeance: Niobe’s sons are killed](https://ovid.lib.virginia.edu/trans/Metamorph6.htm#480077261)
+| Link to corresponding passage from Ovid’s Metamorphoses? | “There was a broad, open plain near the walls, flattened by the constant passage of horses, where many wheels and hard hooves had levelled the turf beneath them. There, a number of Amphion’s seven sons mounted on their strong horses, and sitting firmly on their backs, bright with Tyrian purple, guided them using reins heavy with gold. While Ismenus, one of these, who had been the first of his mother’s burdens, was wheeling his horse’s path around in an unerring circle, and hauling at the foaming bit, he cried out ‘Oh, I am wounded!’ and revealed an arrow fixed in his chest, and loosing the reins from his dying hands, slipped gradually, sideways, over his mount’s right shoulder. 
+| | Next Sipylus, hearing the sound of a quiver in the empty air, let out the reins, just as a shipmaster sensing a storm runs for it when he sees the cloud, and claps on all sail, so that not even the slightest breeze is lost. Still giving full rein, he was overtaken, by the arrow none can avoid, and the shaft stuck quivering in his neck, and the naked tip protruded from his throat. Leaning forward, as he was, he rolled down over the mane and the galloping hooves
+| Name contemporary artist and work of art? | [https://www.widewalls.ch/banksy-art-from-gaza-and-then-more-banksy/](https://www.widewalls.ch/banksy-art-from-gaza-and-then-more-banksy/) Banksy in Gaza – image of Niobe (courtesy of [banksy.co.uk](http://banksy.co.uk/))
 
- | The twin children of Latona, Phoebus (Apollo) and Phoebe (Artemis), kill all 14 of Niobe’s children in punishment for her refusal to worship Latona. | From: [Bk VI:204-266 The gods’ vengeance: Niobe’s sons are killed](https://ovid.lib.virginia.edu/trans/Metamorph6.htm#480077261)
-“There was a broad, open plain near the walls, flattened by the constant passage of horses, where many wheels and hard hooves had levelled the turf beneath them. There, a number of Amphion’s seven sons mounted on their strong horses, and sitting firmly on their backs, bright with Tyrian purple, guided them using reins heavy with gold. While Ismenus, one of these, who had been the first of his mother’s burdens, was wheeling his horse’s path around in an unerring circle, and hauling at the foaming bit, he cried out ‘Oh, I am wounded!’ and revealed an arrow fixed in his chest, and loosing the reins from his dying hands, slipped gradually, sideways, over his mount’s right shoulder. 
-Next Sipylus, hearing the sound of a quiver in the empty air, let out the reins, just as a shipmaster sensing a storm runs for it when he sees the cloud, and claps on all sail, so that not even the slightest breeze is lost. Still giving full rein, he was overtaken, by the arrow none can avoid, and the shaft stuck quivering in his neck, and the naked tip protruded from his throat. Leaning forward, as he was, he rolled down over the mane and the galloping hooves| 
 
-[https://www.widewalls.ch/banksy-art-from-gaza-and-then-more-banksy/](https://www.widewalls.ch/banksy-art-from-gaza-and-then-more-banksy/) |Banksy in Gaza – image of Niobe (courtesy of [banksy.co.uk](http://banksy.co.uk/))                              
+                          
 <!-- section -->
 
 ### Reading/viewing  suggestions
 <!-- section-contents -->
+
 
 <!-- briefing-teacher -->
