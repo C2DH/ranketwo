@@ -14,3 +14,4 @@ records.json
 package-lock.json
 .bundle/
 .project
+.DS_Store

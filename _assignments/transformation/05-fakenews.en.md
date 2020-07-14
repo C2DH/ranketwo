@@ -138,6 +138,7 @@ Doing your own web research, try to find a similar example in a different langua
 
 We are now going to apply the CRAP principle to a number of web resources. Go to the website of the university Sewanee in Tennessee and open [this guideline to CRAP](https://library.sewanee.edu/ld.php?content_id=29815361). Try to answer the four key questions of two web resources (listed below) in two languages that you speak. You can also try out languages that you do not speak by using Google translate or another translation tool. 
 
+{:.table.border.table-sm.with-pairs}
 | CRAP Principles - Website 1 |   |
 |-----------------------------|---|
 | Currency:                   |   |
@@ -145,6 +146,7 @@ We are now going to apply the CRAP principle to a number of web resources. Go to
 | Authority:                  |   |
 | Purpose/Point of view:      |   |
 
+{:.table.border.table-sm.with-pairs}
 | CRAP Principles - Website 2 |   |
 |-----------------------------|---|
 | Currency:                   |   |
@@ -196,7 +198,6 @@ Danish
 - https://museetalhambra.dk/en/ 
 - https://stjarnhealing.se/stjarnhealingnorsk.html 
 
-<!-- section -->  
 
 <!-- briefing-teacher -->
 
