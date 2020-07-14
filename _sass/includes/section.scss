@@ -81,6 +81,7 @@
     img {
       float: left;
       margin: 5px;
+      height: 200px;
     }
 
     &:after {
@@ -88,5 +89,19 @@
       display: block;
       clear: both;
     }
+  }
+}
+
+.border{
+  border: 1px solid #a5b0bb;
+}
+
+.table {
+  &.with-pairs td, &.with-pairs th {
+    width: 50%;
+    text-align: left;
+  }
+  &.text-bold-highlight td strong{
+    background: yellow;
   }
 }

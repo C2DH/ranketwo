@@ -41,16 +41,13 @@ https://fairuse.stanford.edu/overview/website-permissions/websites/
 - Now choose two other images from Assignment 1c, make screenshots of them, and place them in the table below. 
 You are going to trace back the copyright arrangements or the absence of any regulation for these two images. Just as in the previous assignment, you can start by reverse image searching, but this time only focus on tracing back the rights for reuse. Keep in mind that sometimes it is difficult to find the copyright information for an image. If you can’t find the information, don't use it. 
 
-
-(table to complete as an example) 
-    
-### Reading/viewing suggestions:
-More information about the first modern copyright law, the Statute of Anne, that enacted in the UK in 1710 is available here: http://historyofcopyright.org/pb/wp_ff342f50/wp_ff342f50.html 
-- 2014 Blog post ‘4 Easiest Ways to Tell if an Image is Copyrighted’
-- Part 1 of the Wikihow Article ‘How to Find Out if Something Is Copyrighted’
-- this 3-min video about the creation of a Creative Commons License.
-- Blog post by Zachary Strebeck ‘How to find out if something is copyrighted – a quick guide’
-- ‘Starting Your Copyright Research’ page under Stanford’s Copyright and Fair Use website
+{:.table.border.table-sm.text-sm.text-bold-highlight}
+|  | screenshot 1 | screenshot 2 |
+|--|--------------|--------------|
+| Where did you find the image? (choose the web resource with the most valuable information about the origin of the image) 
+| What are the terms of use? 
+| Under what law has this arrangement been made? 
+| Where did you find this type of information?
 
 <!-- section -->  
 
@@ -87,8 +84,7 @@ Watch part of the ['Transformation' clip](https://ranke2.uni.lu/u/transformation
 
 ### Reading/viewing suggestions:
 <!-- section-contents -->
-
-- [More information about the first modern copyright law, the Statute of Anne, enacted in the UK in 1710](http://historyofcopyright.org/pb/wp_ff342f50/wp_ff342f50.html)
+More information about the first modern copyright law, the **Statute of Anne**, that enacted in the UK in 1710 is available at [History of Copyright website](http://historyofcopyright.org/pb/wp_ff342f50/wp_ff342f50.html)
 - [Blog post ‘4 Easiest Ways to Tell if an Image is Copyrighted' (2014)](https://www.drumbeatmarketing.net/marketing-blog/4-easiest-ways-tell-image-copyrighted)
 - [Part 1 of the Wikihow Article ‘How to Find Out if Something Is Copyrighted’](https://www.wikihow.com/Find-Out-if-Something-Is-Copyrighted)
 - [A 3-min video about the creation of a Creative Commons License](https://vimeo.com/13590841)
