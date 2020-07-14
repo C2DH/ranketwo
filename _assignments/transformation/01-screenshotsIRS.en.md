@@ -110,8 +110,8 @@ The purpose of Image Recognition software is to teach systems to recognize patte
 
 For this assignment, you will choose the second  of the two screenshots you took in Assignment 1a (that is, not the one that you analyzed the metadata of) to search for its origin via two image recognition services, Google Search by Image, and Tineye.
 
-![Image search results Google Image](../../assets/images/transformation/1b/google-image-screenshot.png)
-![Image search results Tineye](../../assets/images/transformation/1b/tineye.png)
+![Image search results Google Image](/../../assets/images/transformation/1b/google-image-screenshot.png)
+![Image search results Tineye](/../../assets/images/transformation/1b/tineye.png)
 
 
 - To understand how image recognition through computers evolved first, watch this [TED Talk by scholar Fei Fei Li of Stanford University](https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures?utm_campaign=tedspread--a&utm_medium=referral&utm_source=tedcomshare).
@@ -144,18 +144,18 @@ NOTE: You may need to do some additional web research to answer all the question
 - Look at the images below, choose two, and take screenshots of them.
 
 {:.mosaic}
-[![Charles Darwin portrait by John Collier](../../assets/images/transformation/1c/thumbs/charles-darwin-portrait-by-john-collier.jpg "Charles Darwin portrait by John Collier")](../../assets/images/transformation/1c/charles-darwin-portrait-by-john-collier.jpg){:target="_blank"}
-[![Morel](../../assets/images/transformation/1c/thumbs/morel-v-afp-1.jpg "Morel")](../../assets/images/transformation/1c/morel-v-afp-1.jpg){:target="_blank"}
-[![Sandro Botticelli - La nascita di Venere](../../assets/images/transformation/1c/thumbs/sandro-botticelli-la-nascita-di-venere.jpg "Sandro Botticelli - La nascita di Venere")](../../assets/images/transformation/1c/sandro-botticelli-la-nascita-di-venere.jpg){:target="_blank"}
-[![Barack Obama hope poster](../../assets/images/transformation/1c/thumbs/barack-obama-hope-poster.jpg "Barack Obama hope poster")](../../assets/images/transformation/1c/barack-obama-hope-poster.jpg){:target="_blank"}
-[![Boy children Christmas](../../assets/images/transformation/1c/thumbs/boy-children-christmas.jpg "Boy children Christmas")](../../assets/images/transformation/1c/boy-children-christmas.jpg){:target="_blank"}
-[![Man mask](../../assets/images/transformation/1c/thumbs/man-mask.jpg "Man mask")](../../assets/images/transformation/1c/man-mask.jpg){:target="_blank"}
-[![Postmortem children](../../assets/images/transformation/1c/thumbs/postmortem-children.jpg "Postmortem children")](../../assets/images/transformation/1c/postmortem-children.jpg){:target="_blank"}
-[![Iris](../../assets/images/transformation/1c/thumbs/iris.jpg "Iris")](../../assets/images/transformation/1c/iris.jpg){:target="_blank"}
-[![Woman labor](../../assets/images/transformation/1c/thumbs/woman-labor.jpg "Woman labor")](../../assets/images/transformation/1c/woman-labor.jpg){:target="_blank"}
-[![Boy in blue long sleeve](../../assets/images/transformation/1c/thumbs/boy-in-blue-long-sleeve.jpg "Boy in blue long sleeve")](../../assets/images/transformation/1c/boy-in-blue-long-sleeve.jpg){:target="_blank"}
-[![Oscar Wild](../../assets/images/transformation/1c/thumbs/oscar-wild.jpg "Oscar Wild")](../../assets/images/transformation/1c/oscar-wild.jpg){:target="_blank"}
-[![Postmortem man](../../assets/images/transformation/1c/thumbs/postmortem-man.jpg "Postmortem man")](../../assets/images/transformation/1c/postmortem-man.jpg){:target="_blank"}
+[![Charles Darwin portrait by John Collier](/../../assets/images/transformation/1c/thumbs/charles-darwin-portrait-by-john-collier.jpg "Charles Darwin portrait by John Collier")](/../../assets/images/transformation/1c/charles-darwin-portrait-by-john-collier.jpg){:target="_blank"}
+[![Morel](/../../assets/images/transformation/1c/thumbs/morel-v-afp-1.jpg "Morel")](/../../assets/images/transformation/1c/morel-v-afp-1.jpg){:target="_blank"}
+[![Sandro Botticelli - La nascita di Venere](/../../assets/images/transformation/1c/thumbs/sandro-botticelli-la-nascita-di-venere.jpg "Sandro Botticelli - La nascita di Venere")](/../../assets/images/transformation/1c/sandro-botticelli-la-nascita-di-venere.jpg){:target="_blank"}
+[![Barack Obama hope poster](/../../assets/images/transformation/1c/thumbs/barack-obama-hope-poster.jpg "Barack Obama hope poster")](/../../assets/images/transformation/1c/barack-obama-hope-poster.jpg){:target="_blank"}
+[![Boy children Christmas](/../../assets/images/transformation/1c/thumbs/boy-children-christmas.jpg "Boy children Christmas")](/../../assets/images/transformation/1c/boy-children-christmas.jpg){:target="_blank"}
+[![Man mask](/../../assets/images/transformation/1c/thumbs/man-mask.jpg "Man mask")](/../../assets/images/transformation/1c/man-mask.jpg){:target="_blank"}
+[![Postmortem children](/../../assets/images/transformation/1c/thumbs/postmortem-children.jpg "Postmortem children")](/../../assets/images/transformation/1c/postmortem-children.jpg){:target="_blank"}
+[![Iris](/../../assets/images/transformation/1c/thumbs/iris.jpg "Iris")](/../../assets/images/transformation/1c/iris.jpg){:target="_blank"}
+[![Woman labor](/../../assets/images/transformation/1c/thumbs/woman-labor.jpg "Woman labor")](/../../assets/images/transformation/1c/woman-labor.jpg){:target="_blank"}
+[![Boy in blue long sleeve](/../../assets/images/transformation/1c/thumbs/boy-in-blue-long-sleeve.jpg "Boy in blue long sleeve")](/../../assets/images/transformation/1c/boy-in-blue-long-sleeve.jpg){:target="_blank"}
+[![Oscar Wild](/../../assets/images/transformation/1c/thumbs/oscar-wild.jpg "Oscar Wild")](/../../assets/images/transformation/1c/oscar-wild.jpg){:target="_blank"}
+[![Postmortem man](/../../assets/images/transformation/1c/thumbs/postmortem-man.jpg "Postmortem man")](/../../assets/images/transformation/1c/postmortem-man.jpg){:target="_blank"}
 
 
 - Fill out the tables below using two of the images selected above. For the first section, ‘Context of creation’, we suggest that you repeat the process of Assignment 1b of uploading the screenshot in the image recognition service that you prefer. The list of results that appears will guide you in answering the questions in the first section.
