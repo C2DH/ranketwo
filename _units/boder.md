@@ -22,6 +22,8 @@ cover:
   url: https://i.vimeocdn.com/video/708218729.jpg?mw=960&mh=540&q=70
 answertemplate:
   url: /assets/doc/answer-template-boder.docx
+og:
+  description: In 1946 David Boder collected a series of interviews with concentration camp survivors. His recordings were turned into an interactive website in 2000 and 2009...
 ---
 
 A lesson about how the collection of interviews with concentration camp survivors created by psychologist David Boder in 1946 was turned into an interactive website in 2000 and 2009.

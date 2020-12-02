@@ -6,8 +6,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Language" content="{{ page.lang }}">
     <title>{% if page.title %}{{page.title}} · {% endif %}{{site.title}}</title>
-
-
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="og:title" content="{% if page.title %}{{page.title}} · {% endif %}{{site.title}}" />
+    <meta property="og:url" content="{{ site.ranke2_baseurl }}{{ page.url }}" />
+    {% if page.tags %}
+      <meta property="og:type" content="article" />
+      <meta property="article:publisher" content="Center for Contemporary and Digital History - University of Luxembourg" />
+      {% for tag in page.tags %}
+        <meta property="article:tags" content="{{tag}}" />
+      {% endfor %}
+    {% else %}
+      <meta property="og:type" content="website" />
+    {% endif %}
+    {% assign og_image = page.cover.url %}
+    {% if og_image %}
+      {% capture og_image_url %}{% if og_image contains '://' %}{{ og_image }}{% else %}{{ site.ranke2_baseurl }}{{ og_image | relative_url}}{% endif %}{% endcapture %}
+    {% endif %}
+    <meta property="og:image" content="{{og_image_url}}" />
+    {% if page.og.description %}
+    <meta property="og:description" content="{{ page.og.description }}" />`
+    {% endif %}
     <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,700" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css?v=' | relative_url }}" >
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">

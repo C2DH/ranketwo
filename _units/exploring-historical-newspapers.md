@@ -20,6 +20,8 @@ mediatype: newspapers
 cover:
   url: https://impresso.github.io/assets/images/project-schema.jpg
 order: 10
+og:
+  description: "Digitised newspapers are changing the way historians use them as historical sources, and ask new skills for applying source criticism."
 ---
 
 Impresso.

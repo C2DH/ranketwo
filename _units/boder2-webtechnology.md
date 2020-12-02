@@ -18,6 +18,9 @@ components:
 order: 3
 cover:
   url: https://i.vimeocdn.com/video/718778251.jpg?mw=900&mh=506&q=70
+og:
+  description: "Web history in a nutshell: comparing the first website on David Boder in 2000 to the one launched in 2009."
+
 ---
 
 Web history in a nutshell: comparing the first website on David Boder in 2000 to the one launched in 2009.
