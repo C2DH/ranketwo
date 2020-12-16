@@ -48,8 +48,11 @@ Document your findings in your template.
 ### 7.b  Documenting the recent past | 20 min
 <!-- section-contents -->
 
-- Click on [this link to see a poster created in a displacement camp](https://www.kedem-auctions.com/content/two-posters-issued-central-historical-commission-central-committee-liberated-jews-american){:target="_blank"}.
-- Download the image, enlarge it, and read what it says in the left lower corner.
+- Click on [this link to see a poster created in a displacement camp](https://il.bidspirit.com/ui/lotPage/source/catalog/auction/6955/lot/126311/Two-Posters-Issued-by-the-Central?lang=zh){:target="_blank"}. 
+If the link is broken, try[this one](https://www.pinterest.pt/pin/169870217173984497/?amp_client_id=CLIENT_ID(_)&mweb_unauth_id=%7B%7Bdefault.session%7D%7D&from_amp_pin_page=true){:target="_blank"}.
+
+
+- Enlarge the image, read what it says in the left lower corner.
 - Try to find the original place where this poster was created by conducting web research.
 - Who designed the poster? Where was it created? With what resources? Who published it on the web? 
 Document your findings in your template. 
