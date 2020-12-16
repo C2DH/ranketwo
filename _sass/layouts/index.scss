@@ -21,16 +21,27 @@
   }
 }
 
+.index--left-headline,
+.index--right-headline,
+{
+  height: 50%;
+  overflow: hidden
+}
+
 @media (min-width: 768px){
   #index--headline{
     font-size: 3em;
-    width: 50%;
+    width: 100%;
     > span{
       // text-shadow: -2px -2px 0 #D53A33, 2px 2px 0 white;
     }
   }
   #index--headline-wrapper{
     top: 40%;
+  }
+  .index--left-headline,
+  .index--right-headline{
+    height: 100%;
   }
 }
 
