@@ -49,7 +49,8 @@ When reflecting on the value and meaning of a source that has been published on 
 - Go to the website with the collection of protocols collected by the [Hungarian National Commission for Deportees](http://degob.org/){:target="_blank"}.
 - Search with the keyword “**help**” to get an idea of how to search in interview summaries. 
 - If you go through the first five hits by using Ctrl + F, you can trace how the term “help” has different positive and negative meanings in the reports. 
-- Try to do the same with [Voices of the Holocaust](http://voices.iit.edu/voices_project){:target="_blank"}.
+- Try to do the same with [Voices of the Holocaust](https://iit.aviaryplatform.com/collections/231/collection_resources/17626?u=t&keywords[]=HELP){:target="_blank"}.
+At present a new version of the website Voices of the Holocaust is under construction, so the link will bring you to a temporary searchable database containing all the interviews. Click on advanced search and type in the key word. All the interviews with transcripts that contain that keyword will be retrieved and at the top you will see a field with the amount of hits. 
 - What strikes you when assessing the search results? 
 - Note the answers in your template.
 
