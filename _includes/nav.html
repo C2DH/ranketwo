@@ -6,11 +6,11 @@
 
     <div class='navbar-text'>
       <a href="https://www.c2dh.uni.lu{% if page.lang != site.default_lang %}/{{page.lang}}{% endif %}" target="_blank">
-        <img style='height:40px;' src='{{ "assets/images/c2dh-logo-cyan.svg" | relative_url}}' alt='a C2DH production'>
+        <img style='width:200px; margin-left:-3px; margin-top:-6px' src='{{ "assets/images/unilu-c2dh-logo-white.svg" | relative_url}}' alt='a C2DH production'>
       </a>
     </div>
     <!-- <a class="navbar-brand{% if page.link == "/" %} active{% endif %}"  {% if page.lang == site.default_lang %} href='{{"/" | absolute_url}}'' {% else %} href="{{page.lang | absolute_url}}/" {% endif %}>{{site.title}}</a> -->
-    <a class="navbar-brand mx-auto d-block"  {% if page.lang == site.default_lang %} href='{{"/" | absolute_url}}' {% else %} href="{{page.lang | absolute_url}}/" {% endif %}>
+    <a class="navbar-brand mx-auto d-block" style="padding-right:200px;"  {% if page.lang == site.default_lang %} href='{{"/" | absolute_url}}' {% else %} href="{{page.lang | absolute_url}}/" {% endif %}>
       <strong>{% assign key='site.title'%} {% include t.html %}</strong> <span style='letter-spacing:-5px;'>~~~</span>
       {% assign key='site.headline'%}{% include t.html %}
     </a>
@@ -21,11 +21,11 @@
       </li>
     {% endfor %}
     </ul> -->
-    <div class='navbar-text'>
+    <!-- <div class='navbar-text'>
       <a href="https://www{{page.lang}}.uni.lu" target="_blank">
         <img style='height:30px;' src='{{ "assets/images/unilu-logo-cyan.svg" | relative_url}}' alt='university of Luxembourg'>
       </a>
-    </div>
+    </div> -->
   </div>
 </nav>
 
@@ -33,8 +33,12 @@
   <div class="container">
     <div class="navbar-collapse collapse justify-content-between align-items-center w-100">
       <ul class="navbar-nav">
-        <li class="nav-item dropdown" id="navbarDropdown-home">
-          <a class="nav-link dropdown-toggle" href="#"  role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        {% assign is_active = false %}
+        {% if page.link == "/" %}
+          {% assign is_active = true %}
+        {% endif %}
+        <li class="nav-item dropdown {% if is_active %} active {% endif %}" id="navbarDropdown-home">
+          <a class="nav-link dropdown-toggle" href='{{"/" | absolute_url}}' role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             {% assign key="Home" %}{% include t.html%}
           </a>
           <div class="dropdown-menu dropdown-menu-left" aria-labelledby="navbarDropdown">
@@ -53,11 +57,9 @@
             {% endfor %}
           </div>
         </li>
-      </ul>
-      <ul class="navbar-nav text-left">
-      {% for link in site.data.navigation.primary.links %}
-        {% include link.html %}
-      {% endfor %}
+        {% for link in site.data.navigation.primary.links %}
+          {% include link.html %}
+        {% endfor %}
       </ul>
       <ul class="navbar-nav">
       <li class="nav-item dropdown" id="navbarDropdown">

@@ -30,7 +30,8 @@
 
 #nav--pages--primary .navbar-collapse{
   //  background: rgba(255,255,255,.2);
-  border-bottom: 2px solid rgba(255, 255, 255, 0.25);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+  border-top: 1px solid rgba(255, 255, 255, 0.25);
 }
 
 #nav--pages--secondary{
@@ -40,8 +41,8 @@
 
 .navbar-text{
   // background: white;
-      padding: 0 3px 5px;
-    margin-top: 7px;
+    //   padding: 0 3px 5px;
+  margin-top: 0px;
 }
 .navbar-brand{
   background: transparent;

@@ -7,7 +7,11 @@
 {% endif %}
 
 <li class='nav-item
+  {% if page.layout == "unit" and link.active_layout %}
+  pr-0 mr-0
+  {% else %}
   {% if is_active %} active {% endif %}
+  {% endif %}
   {% if forloop.first %} first {%endif%}
   {% if forloop.last %} last {%endif%}'>
   <a class='nav-link'
@@ -15,6 +19,10 @@
       href='{{link.href | relative_url}}'
     {% else %}
       href='{{page.lang | relative_url}}{{link.href}}'
-    {% endif %}>{% assign key=link.title%}{% include t.html %}
-    {% if page.layout == "unit" and link.active_layout %}/#{{page.order}}{% endif %}</a>
+    {% endif %}>{% assign key=link.title%}{% include t.html %}</a>
+
 </li>
+{% if page.layout == "unit" and link.active_layout %}
+<li class='nav-item text-white px-0 mx-0'><span class='nav-link px-0 mx-0'>/</span></li>
+<li class='nav-item pl-0 ml-0 active'><a class='nav-link'><span class='ellipsis'>{{page.title}}</span></a></li>
+{% endif %}

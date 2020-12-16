@@ -11,6 +11,9 @@
         {% endif %}>{% assign key=link.title%}{% include t.html %}</a>
     </li>
     {% endfor %}
+
+  </ul>
+  <ul class="navbar-nav right" >
     {% for link in site.data.navigation.primary.links %}
     <li class='nav-item {% if page.link == link.href %} active {% endif %}'>
       <a class="nav-link"
@@ -21,8 +24,6 @@
         {% endif %}>{% assign key=link.title%}{% include t.html %}</a>
     </li>
     {% endfor %}
-  </ul>
-  <ul class="navbar-nav right" >
     {% for link in site.data.navigation.footer.links %}
       <li class='nav-item {% if page.link == link.href %} active {% endif %}'>
         <a class="nav-link"
