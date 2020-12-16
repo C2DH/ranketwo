@@ -19,7 +19,7 @@ layout: default
     </video>
     <div class='overlay'></div>
     <div class='overlay-dotted'></div>
-    <figcaption>
+    <figcaption class="d-none d-md-block">
       <div class='container'>
         <div class='row'>
           <div class='col-sm-6 ml-auto'>
@@ -31,13 +31,21 @@ layout: default
   </div>
   {% endfor %}
 
-  <!-- <div class='slide' style='background-image: url({{ 'assets/images/bs-30-11-DW-Kultur-Salzburg-jpg.jpg' | relative_url }}); background-size:cover'></div> -->
-  <div id='index--headline-wrapper'>
-    <div class='container'>
-      <h2 id="index--headline"></h2>
+  <div class="position-absolute" style="top:0;right:0;bottom:0;left:0;z-index:3">
+    <div class="container h-100">
+      <div class="row h-100">
+        <div class="col-md-6 index--left-headline ">
+          <div class="d-flex w-100 h-100 align-items-center justify-content-center"><h2 id="index--headline"></h2></div>
+        </div>
+        <div class="col-md-6 index--right-headline">
+          <div class="d-flex w-100 h-100 align-items-center justify-content-center text-white">
+            <h3>{{ page.content }}</h3>
+          </div>
+        </div>
+      </div>
     </div>
+    occ
   </div>
-
 
 </div>
 

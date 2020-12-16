@@ -11,8 +11,6 @@ home:
 
 primary:
   links:
-    - title: About the lessons
-      href: /about-lessons/
     - title: Go to lessons
       href: /lessons/
       active_layout: unit

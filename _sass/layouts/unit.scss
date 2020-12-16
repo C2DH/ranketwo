@@ -1,12 +1,19 @@
 div.page.unit {
   margin-top: 250px;
-
+  margin-bottom: 30px;
   h1{
     transform: skew(2deg) rotate(2deg);
     color: cyan;
   }
 }
 
+.ellipsis{
+  max-width: 200px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  display: inherit;
+  white-space: nowrap;
+}
 /* ID speecific */
 #table-of-contents-wrapper{
   position: absolute;
