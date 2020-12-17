@@ -44,7 +44,7 @@ This file contains information about the image such as the amount of pixels, the
 - Watch the video [The Metadata Librarian Explains Metadata](https://www.youtube.com/watch?v=ABF2FvSPVYE){:target="_blank"} by metadata librarian Mary Rose of the Southern Illinois University Edwardsville Libraries that gives you an introduction to the concept of metadata by using the analogy of how we label leftovers in a fridge.
 
 You are now going to inspect the metadata of the first of the two screenshots that you created.
-- Click here for access to a PDF with an overview of all the metadata fields, how to access them, and what they mean
+- Click [here](../../assets/pdf/SS_Exif.data.in.Mac.and.Windows.pdf){:target="_blank"} for access to a PDF with an overview of all the metadata fields, how to access them, and what they mean
 Using the PDF, you will see all the major fields for metadata information in the tables below.
 - Fill out only the metadata fields that are highlighted for the first of the two screenshots you took, either in the Mac or the Windows version, while taking note of all the other types of common metadata
 
@@ -56,11 +56,11 @@ Using the PDF, you will see all the major fields for metadata information in the
 | Where
 | Created
 | Modified
-| Last opened 
+| Last opened
 | **Dimensions**
 | **Colour space**
 | **Colour profile**
-| **Alpha channel** 
+| **Alpha channel**
 | **Name and extension**
 | Comments
 | **Open with**
@@ -73,14 +73,14 @@ Using the PDF, you will see all the major fields for metadata information in the
 | **Type of file**
 | **Opens with**
 | Location
-| **Size** 
+| **Size**
 | Size on disk
 | Created
-| Modified 
+| Modified
 | Accessed
 | Attributes
 | **Object Name**
-| Permissions 
+| Permissions
 | Date taken
 | **Dimensions**
 | **Width**
@@ -98,14 +98,14 @@ Using the PDF, you will see all the major fields for metadata information in the
 
 
 
-- Check whether or not the metadata that you looked up was correct by using the online tool https://www.metadata2go.com, which helps you find and examine the Exif and metadata of an image, in addition to providing explanations for a number of metadata categories or fields that you might not be familiar with.
+- Check whether or not the metadata that you looked up was correct by using the online tool <https://www.metadata2go.com>{:target="_blank"}, which helps you find and examine the Exif and metadata of an image, in addition to providing explanations for a number of metadata categories or fields that you might not be familiar with.
 
 <!-- section -->
 
 ### 1.b  Explore Image Recognition Tools | 50 min
 <!-- section-contents -->
 
-The purpose of Image Recognition software is to teach systems to recognize patterns in images in the same way humans do. The software is trained with data that enables it to create a kind of prediction model. This model defines a set of conditions that have to be met and translates those into pixel values, which allows the software to recognize different images by looking for the closest possible resemblances to what it has learned and stored.  We are now going to explore two online image recognition services: a well known one, [Google Search by Image](https://www.google.com/imghp?hl=en), and a less-known service, [Tineye](https://tineye.com).
+The purpose of Image Recognition software is to teach systems to recognize patterns in images in the same way humans do. The software is trained with data that enables it to create a kind of prediction model. This model defines a set of conditions that have to be met and translates those into pixel values, which allows the software to recognize different images by looking for the closest possible resemblances to what it has learned and stored.  We are now going to explore two online image recognition services: a well known one, [Google Search by Image](https://www.google.com/imghp?hl=en){:target="_blank"}, and a less-known service, [Tineye](https://tineye.com){:target="_blank"}.
 
 For this assignment, you will choose the second  of the two screenshots you took in Assignment 1a (that is, not the one that you analyzed the metadata of) to search for its origin via two image recognition services, Google Search by Image, and Tineye.
 
@@ -113,8 +113,8 @@ For this assignment, you will choose the second  of the two screenshots you took
 ![Image search results Tineye](/../../assets/images/transformation/1b/tineye.png)
 
 
-- To understand how image recognition through computers evolved first, watch this [TED Talk by scholar Fei Fei Li of Stanford University](https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures?utm_campaign=tedspread--a&utm_medium=referral&utm_source=tedcomshare).
-- Next, open one tab to [Google Images](https://images.google.com/), and another tab to [Tineye](https://tineye.com) and upload your screenshot from your desktop to both services. A summary of the retrieved results will appear, along with all the listed hits below.
+- To understand how image recognition through computers evolved first, watch this [TED Talk by scholar Fei Fei Li of Stanford University](https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures?utm_campaign=tedspread--a&utm_medium=referral&utm_source=tedcomshare){:target="_blank"}.
+- Next, open one tab to [Google Images](https://images.google.com/){:target="_blank"}, and another tab to [Tineye](https://tineye.com){:target="_blank"} and upload your screenshot from your desktop to both services. A summary of the retrieved results will appear, along with all the listed hits below.
 - Complete the table with your findings. Put a copy of your screenshot in the first field (if you have chosen a portrait page setup, you will need to make it smaller to fit in the field)
 - Describe the differences in options to select between the two services
 - Describe the metadata components of the summary of the search in both services, paying attention to the differences between the two services. This includes things such as the dimensions of the image, possible related search terms, the file type, and any other information relating to the image itself.
@@ -131,7 +131,7 @@ For this assignment, you will choose the second  of the two screenshots you took
 
 Source criticism is the practice of critically engaging with a source. Historians, for example, have always questioned the origin, meaning, and credibility of the historical sources that they use. However, when a source is digitised, published online, and reproduced by many people, it can become more difficult to trace the origin of the source. In this assignment, you are going to document the characteristics of the image from its original creation to its digital representation online, tracking the changes that happen each time the image is transformed into something else. It is important to remember that while the transformed image communicates the same message as the original in most instances, its artifactual value has profoundly changed.
 
-- Open [this visual aid](https://ranke2.uni.lu/assets/pdf/C3.1-visual-aid-3.pdf) from the Ranke.2 website. You will see the heading ‘Questions to ask about a digitised manuscript published on the web.’ Below, three contexts are identified in which
+- Open [this visual aid](https://ranke2.uni.lu/assets/pdf/C3.1-visual-aid-3.pdf){:target="_blank"} from the Ranke.2 website. You will see the heading ‘Questions to ask about a digitised manuscript published on the web.’ Below, three contexts are identified in which
 the identity, appearance, and value of a source changes. In each context, different questions should be asked.
 In this assignment, you will pose similar questions about two images that you will choose below.
 
@@ -164,10 +164,10 @@ To give you an idea of how to respond to the questions, an example is given belo
 {:.table.border.table-sm.text-sm.text-bold-highlight.with-pairs}
 | 1. Context of creation | example answer |
 |--------------------------------|--------|
-| What is its name and who created it? 	| *Portrait de [Dora Maar](https://en.wikipedia.org/wiki/Dora_Maar). It was created by the painter Pablo Picasso.* 
+| What is its name and who created it? 	| *Portrait de [Dora Maar](https://en.wikipedia.org/wiki/Dora_Maar){:target="_blank"}. It was created by the painter Pablo Picasso.*
 | When and where was it created?        | *1937 and potentially in Paris.*
 | For which purpose?                    | *to create a work of art*
-| What is portrayed in the image?       | *[Dora Maar](https://en.wikipedia.org/wiki/Dora_Maar), a pseudonym for the french photographer, painter and poet Henriette Theodora Markovitch, Picasso’s muse*
+| What is portrayed in the image?       | *[Dora Maar](https://en.wikipedia.org/wiki/Dora_Maar){:target="_blank"}, a pseudonym for the french photographer, painter and poet Henriette Theodora Markovitch, Picasso’s muse*
 | With which technology/craft/medium?   | *Oil on linen*
 
 {:.table.border.table-sm.text-sm.text-bold-highlight.with-pairs}
@@ -181,7 +181,7 @@ To give you an idea of how to respond to the questions, an example is given belo
 {:.table.border.table-sm.text-sm.text-bold-highlight.with-pairs}
 | 3. Context of digitisation and online publishing  | example answer |
 |--------------------------------|--------|
-| On which website  did you find it? | *I found it both on commercial images selling companies websites like Alamy, and in websites of collections, like [wikiart](https://www.wikiart.org/en/pablo-picasso/portrait-of-dora-maar-1937-1). An interesting thing to note is that you can end up on a website where you have to pay to receive a copy, whereas the image is licensed under ‘fair use’ and can be downloaded without costs, in a lower resolution*
+| On which website  did you find it? | *I found it both on commercial images selling companies websites like Alamy, and in websites of collections, like [wikiart](https://www.wikiart.org/en/pablo-picasso/portrait-of-dora-maar-1937-1){:target="_blank"}. An interesting thing to note is that you can end up on a website where you have to pay to receive a copy, whereas the image is licensed under ‘fair use’ and can be downloaded without costs, in a lower resolution*
 | Who published it online, when and where? | *This is not possible to find out online and would require an investigation based on contact with the owner of the painting, that is, the museum*
 | Why and how was it digitised | *Same as above*
 | Was information lost or added? | *Yes, its materiality was lost, the colors are different, the dimensions are different, and it has changed into digits and automatically created metadata when being photographed, being converted to a lower resolution to make it suitable for upload. When uploaded, the structure of the bits changed again, and new metadata was added.*
@@ -195,10 +195,10 @@ To give you an idea of how to respond to the questions, an example is given belo
 ### Reading/viewing suggestions
 <!-- section-contents -->
 
-- An explanation on [how to find and remove Exif data on a Mac and on a Windows computer](https://www.howtogeek.com/203592/what-is-exif-data-and-how-to-remove-it/)
-- [Anna Neatrour and Greer Martin, Using Metadata to Describe Digital Content, 2015](https://www.youtube.com/watch?v=RqgFLj_yspk)
-- [Deepak Jagdish and Daniel Smilkov, The Power of Metadata, 2013](https://www.youtube.com/watch?v=i2a8pDbCabg)
-- [Read the original article from the team that produced the Google Books Ngram Viewer for free here](https://dash.harvard.edu/handle/1/8899722)
-- If you want to go more in-depth about the field of Image Recognition software and Computer Vision, one of the fundamental texts is Computer Vision: Algorithms and Applications by Richard Szeliski (2010) and it is [available online for free](http://szeliski.org/Book/)
+- An explanation on [how to find and remove Exif data on a Mac and on a Windows computer](https://www.howtogeek.com/203592/what-is-exif-data-and-how-to-remove-it/){:target="_blank"}
+- [Anna Neatrour and Greer Martin, Using Metadata to Describe Digital Content, 2015](https://www.youtube.com/watch?v=RqgFLj_yspk){:target="_blank"}
+- [Deepak Jagdish and Daniel Smilkov, The Power of Metadata, 2013](https://www.youtube.com/watch?v=i2a8pDbCabg){:target="_blank"}
+- [Read the original article from the team that produced the Google Books Ngram Viewer for free here](https://dash.harvard.edu/handle/1/8899722){:target="_blank"}
+- If you want to go more in-depth about the field of Image Recognition software and Computer Vision, one of the fundamental texts is Computer Vision: Algorithms and Applications by Richard Szeliski (2010) and it is [available online for free](http://szeliski.org/Book/){:target="_blank"}
 
 <!-- briefing-teacher -->
