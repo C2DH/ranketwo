@@ -39,4 +39,5 @@ sentences:
 
 <!-- more -->
 
-Ranke.2 is a teaching platform for <b>lecturers</b> and <b>students</b> of History to teach source criticism to digitised and digital born historical sources.
+Ranke.2 is a teaching platform for <b>lecturers and students of History</b>
+to teach how to apply source criticism source criticism to digitised and digital born historical sources.
