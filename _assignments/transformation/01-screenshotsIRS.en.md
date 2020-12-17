@@ -159,6 +159,7 @@ NOTE: You may need to do some additional web research to answer all the question
 [![Boy in blue long sleeve](/../../assets/images/transformation/1c/thumbs/boy-in-blue-long-sleeve.jpg "Boy in blue long sleeve")](/../../assets/images/transformation/1c/boy-in-blue-long-sleeve.jpg){:target="_blank"}
 [![Oscar Wild](/../../assets/images/transformation/1c/thumbs/oscar-wild.jpg "Oscar Wild")](/../../assets/images/transformation/1c/oscar-wild.jpg){:target="_blank"}
 [![Postmortem man](/../../assets/images/transformation/1c/thumbs/postmortem-man.jpg "Postmortem man")](/../../assets/images/transformation/1c/postmortem-man.jpg){:target="_blank"}
+[![Dora Maar Picasso](/../../assets/images/transformation/1c/thumbs/dora-maar-picasso.jpg "Dora Maar Picasso")](/../../assets/images/transformation/1c/dora-maar-picasso.jpg){:target="_blank"}
 
 
 - Fill out the tables below using two of the images selected above. For the first section, ‘Context of creation’, we suggest that you repeat the process of Assignment 1b of uploading the screenshot in the image recognition service that you prefer. The list of results that appears will guide you in answering the questions in the first section.
