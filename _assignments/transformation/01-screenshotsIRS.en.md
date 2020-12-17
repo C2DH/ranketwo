@@ -115,6 +115,10 @@ For this assignment, you will choose the second  of the two screenshots you took
 
 - To understand how image recognition through computers evolved first, watch this [TED Talk by scholar Fei Fei Li of Stanford University](https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures?utm_campaign=tedspread--a&utm_medium=referral&utm_source=tedcomshare){:target="_blank"}.
 - Next, open one tab to [Google Images](https://images.google.com/){:target="_blank"}, and another tab to [Tineye](https://tineye.com){:target="_blank"} and upload your screenshot from your desktop to both services. A summary of the retrieved results will appear, along with all the listed hits below.
+
+[![Image search results Tineye](/../../assets/images/transformation/1b/tineye-results.png "Image search results Tineye")](/../../assets/images/transformation/1b/tineye-results.png){:target="_blank"}
+[![Image search results Google Image](/../../assets/images/transformation/1b/google-image-results.png "Image search results Google Image")](/../../assets/images/transformation/1b/google-image-results.png){:target="_blank"}
+
 - Complete the table with your findings. Put a copy of your screenshot in the first field (if you have chosen a portrait page setup, you will need to make it smaller to fit in the field)
 - Describe the differences in options to select between the two services
 - Describe the metadata components of the summary of the search in both services, paying attention to the differences between the two services. This includes things such as the dimensions of the image, possible related search terms, the file type, and any other information relating to the image itself.
