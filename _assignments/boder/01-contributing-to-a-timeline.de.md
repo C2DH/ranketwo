@@ -31,12 +31,12 @@ In der gezeigten Animation liegt der Schwerpunkt überwiegend auf der Schaffung 
 ### Anweisung
 <!-- section-contents -->
 
-- Öffnen Sie die Box [**Boders Biografie**](https://ranke2.uni.lu/klynt/de/#Intro){:target="_blank"} erneut und lesen Sie die verschiedenen Abschnitte.  
+- Öffnen Sie die Box [**Boders Biografie**](https://ranke2.uni.lu/klynt/de/#Intro){:target="_blank"} erneut und lesen Sie die verschiedenen Abschnitte.
   {: .headsup}
 - Gehen Sie zur [Tiki-Toki-Zeitleiste-App](https://www.tiki-toki.com/){:target="_blank"}.
 - Geben Sie die Login-Daten des Accounts ein, der im Rahmen dieser Aufgabe eingerichtet wurde
 
-    Benutzername: **Assignment1TikiToki**  
+    Benutzername: **Assignment1TikiToki**
     Passwort: **davidboder**
 
 Sie sehen eine Zeitleiste mit Daten zu David Boders Leben.
@@ -50,8 +50,11 @@ Sollten Sie zusätzliche Orientierungshilfe benötigen, dann befolgen Sie die Sc
 
 Informationen ergänzt werden.
 
-- Bitte wählen Sie zwei Daten, um Einträge zu erstellen.  
+- Bitte wählen Sie zwei Daten, um Einträge zu erstellen.
 Gehen Sie für Hintergrundinformationen zu potenziellen Einträgen zur Box „links“ im letzten Abschnitt von Boders Biografie und rufen Sie die Website Voices of the Holocaust und den Clip 5 min History auf.
+  <https://web.archive.org/web/20200322000230/http://voices.iit.edu/#about>{:target="_blank"}
+  <https://web.archive.org/web/20200322000228/http://voices.iit.edu/voices_project>{:target="_blank"}
+  <https://web.archive.org/web/20200322000227/http://voices.iit.edu/project_notes>{:target="_blank"}
 - Öffnen Sie Ihre Vorlage und gehen Sie zur Tabelle für Aufgabe 1a.
 - Verfassen Sie zwei Einträge mit höchstens 100 Wörtern.
 - Suchen Sie nach geeigneten Bildern im Web und fügen Sie die Links zu diesen Bildern in dieselbe Tabelle ein.
@@ -103,10 +106,10 @@ Where can you find this information if you search on the web?
 
 - Fassen Sie in Ihrer Vorlage kurz zusammen (150 Wörter), was Sie im Web gefunden haben und was Sie damit tun können.
 
-  1. Ausführliche Informationen zum Umgang mit Urheberrechten finden Sie [hier](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/481194/c-notice-201401.pdf){:target="_blank"}.  
+  1. Ausführliche Informationen zum Umgang mit Urheberrechten finden Sie [hier](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/481194/c-notice-201401.pdf){:target="_blank"}.
   2. Einen Videoclip zu den Creative-Commons-Prinzipien finden Sie [hier](https://youtu.be/1DKm96Ftfko){:target="_blank"}.
   3. Einen Videoclip zu Ursprüngen und Geschichte des Urheberrechts können Sie [hier](https://vimeo.com/36881035){:target="_blank"} abrufen.
-  4. Websites, die lizenzfreie Bilder anbieten, finden Sie unter den nachfolgenden Links:  
+  4. Websites, die lizenzfreie Bilder anbieten, finden Sie unter den nachfolgenden Links:
       https://ccsearch.creativecommons.org
       https://www.flickr.com/creativecommons/
       https://www.flickr.com/commons/usage/

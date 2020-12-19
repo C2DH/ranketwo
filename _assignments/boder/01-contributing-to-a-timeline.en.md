@@ -32,12 +32,12 @@ In the animation you watched the focus is mostly on the creation and transformat
 ### Instructions
 <!-- section-contents -->
 
-- Go to the interactive animation (3rd screen from the top) you will see the program Klynt appear. Click on the tab 'index' in the left lower corner, and an overview will appear with boxes that contain extra information. Click on the box [**Boder’s biography**](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"} read the various sections. 
+- Go to the interactive animation (3rd screen from the top) you will see the program Klynt appear. Click on the tab 'index' in the left lower corner, and an overview will appear with boxes that contain extra information. Click on the box [**Boder’s biography**](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"} read the various sections.
   {: .headsup}
 - Go to the timeline [application Tiki-Toki](https://www.tiki-toki.com/){:target="_blank"}.
 - Fill in the login details of the account that has been created for this assignment
 
-    Username: **Assignment1TikiToki**  
+    Username: **Assignment1TikiToki**
     Password: **davidboder**
 
 You will see a timeline with dates that relate to David Boder’s life.
@@ -50,9 +50,12 @@ If you need more guidance, then follow the step by step instructions provided in
 <!-- section-contents -->
 
 The chronological sequence of dates needs to be complemented with information. Create an entry in one of the dates in the timeline.
-- Choose two dates to create entries.  
+- Choose two dates to create entries.
 For more background information on Boder besides what is provided in the black box, go to the box "links", the last section of Boder’s biography, and consult the following resources:
   - Voices of the Holocaust
+    <https://web.archive.org/web/20200322000230/http://voices.iit.edu/#about>{:target="_blank"}
+    <https://web.archive.org/web/20200322000228/http://voices.iit.edu/voices_project>{:target="_blank"}
+    <https://web.archive.org/web/20200322000227/http://voices.iit.edu/project_notes>{:target="_blank"}
   - Clip 5 min History
 
 - Open your template and go to the table for assignment 1a.
@@ -69,7 +72,7 @@ Remember to regularly save your entries.
 Create entries under two of the dates in the timeline. These can be subjects related to Boder’s life, such as:
 - When and  where did Boder study?
 - When was the wire recorder invented?
-- When were the American newsreels about the camps shown to an American audience?  
+- When were the American newsreels about the camps shown to an American audience?
 - Document your findings in the appropiate field in the template.
 
 <!-- section -->
@@ -112,7 +115,7 @@ Where can you find this information if you search on the web?
   1. See [this document](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/481194/c-notice-201401.pdf){:target="_blank"} For an overview about handling copyright in the United Kingdomn.
   2. See [this video clip](https://youtu.be/1DKm96Ftfko){:target="_blank"} on the principles of Creative Commons.
   3. See [this clip]( https://vimeo.com/36881035){:target="_blank"} about the origin and history of copyright.
-  4.  For  websites that offer images free of copyright click on one of the links below:  
+  4.  For  websites that offer images free of copyright click on one of the links below:
       https://ccsearch.creativecommons.org
       https://www.flickr.com/creativecommons/
       https://www.flickr.com/commons/usage/

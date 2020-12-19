@@ -31,12 +31,12 @@ Dans l'animation que vous avez regardée, l'accent est mis essentiellement sur l
 ### Instructions
 <!-- section-contents -->
 
-- Ouvrez de nouveau la boîte intitulée [**Biographie de David Boder**](https://ranke2.uni.lu/klynt/fr/#Intro){:target="_blank"} et lisez les différentes sections.  
+- Ouvrez de nouveau la boîte intitulée [**Biographie de David Boder**](https://ranke2.uni.lu/klynt/fr/#Intro){:target="_blank"} et lisez les différentes sections.
   {: .headsup}
 - Ouvrez l'application de création de frises chronologiques [application Tiki-Toki](https://www.tiki-toki.com/){:target="_blank"}.
 - Saisissez les données de connexion du compte créé pour cet exercice
 
-    Nom d'utilisateur: **Assignment1TikiToki**  
+    Nom d'utilisateur: **Assignment1TikiToki**
     Mot de passe: **davidboder**
 
 Vous verrez une frise chronologique avec les dates clés de la vie de David Boder.
@@ -50,8 +50,11 @@ If you need more guidance, then follow the step by step instructions provided in
 
 La séquence chronologique de dates doit être complétée par des informations supplémentaires.
 
-- Choisissez deux dates pour créer des entrées.  
+- Choisissez deux dates pour créer des entrées.
 Pour obtenir des informations générales sur les entrées possibles, cliquez sur la boîte « liens » (dernière section de la biographie de D. Boder). Consultez ensuite le site web Voix de l'Holocauste et regardez la vidéo intitulée 5 min d'histoire.
+  <https://web.archive.org/web/20200322000230/http://voices.iit.edu/#about>{:target="_blank"}
+  <https://web.archive.org/web/20200322000228/http://voices.iit.edu/voices_project>{:target="_blank"}
+  <https://web.archive.org/web/20200322000227/http://voices.iit.edu/project_notes>{:target="_blank"}
 - Ouvrez votre modèle et allez dans le tableau de l'exercice 1a.
 - Rédigez deux entrées de 100 mots maximum.
 - Recherchez des images appropriées sur internet et insérez dans le tableau les liens vers ces images.
