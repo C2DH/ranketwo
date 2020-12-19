@@ -46,10 +46,10 @@ Lorsque l'on réfléchit à la valeur et à la signification d'une source publi�
 <!-- section-contents -->
 
 - Allez sur le site web présentant la collection de protocoles recueillis par le [Comité national hongrois d'assistance aux déportés](http://degob.org/){:target="_blank"}.
-- Faites une recherche avec le mot clé « **help** » pour avoir une idée de la manière dont s'effectuent les recherches dans les résumés d'interviews. 
-- Si vous parcourez les cinq premiers résultats en utilisant le raccourci Ctrl + F, vous constaterez que ce terme a des connotations positives et négatives dans les récits. 
+- Faites une recherche avec le mot clé « **help** » pour avoir une idée de la manière dont s'effectuent les recherches dans les résumés d'interviews.
+- Si vous parcourez les cinq premiers résultats en utilisant le raccourci Ctrl + F, vous constaterez que ce terme a des connotations positives et négatives dans les récits.
 - Essayez de faire la même chose sur le site [Voices of the Holocaust](http://voices.iit.edu/voices_project){:target="_blank"}.
-- Qu'est-ce qui vous frappe dans les résultats de votre recherche ? 
+- Qu'est-ce qui vous frappe dans les résultats de votre recherche ?
 - Notez vos réponses dans votre modèle.
 
 <!-- section -->
@@ -57,8 +57,8 @@ Lorsque l'on réfléchit à la valeur et à la signification d'une source publi�
 ### 3.c  Deuxième exploration des archives : comment les principaux personnages sont représentés | 15 min
 <!-- section-contents -->
 
-- Comparez la description du processus de sélection pour les chambres à gaz et du rôle du médecin SS Mengele faite par une personne interrogée dans le [protocole](http://degob.org/index.php?showjk=131){:target="_blank"} avec celle faite par [Jola Gross lors de son entretien avec D. Boder](http://voices.iit.edu/interview?doc=grossJ&display=g){:target="_blank"}.
-- Qu'est-ce qui vous semble différent entre l'interview résumée et la transcription littérale de l'interview ? 
+- Comparez la description du processus de sélection pour les chambres à gaz et du rôle du médecin SS Mengele faite par une personne interrogée dans le [protocole](http://degob.org/index.php?showjk=131){:target="_blank"} avec celle faite par [Jola Gross lors de son entretien avec D. Boder](https://iit.aviaryplatform.com/r/2804x54p2z){:target="_blank"}.
+- Qu'est-ce qui vous semble différent entre l'interview résumée et la transcription littérale de l'interview ?
 - Saisissez la réponse dans votre modèle.
 
 <!-- section -->
@@ -66,10 +66,10 @@ Lorsque l'on réfléchit à la valeur et à la signification d'une source publi�
 ### 3.d  Troisième exploration des archives : l'identité du locuteur | 15 min
 <!-- section-contents -->
 
-- Comparez le protocole d'une jeune fille de 15 ans publié sur le site [http://degob.org/](http://degob.org/){:target="_blank"} (sélectionnez Femme et date de naissance 1931 dans la rubrique Recherche) avec l'enregistrement audio de l'[entretien réalisé par David Boder avec Edith Zierer, âgée de 15 ans](http://voices.iit.edu/audio?doc=ziererE){:target="_blank"}<sup>*</sup>.
+- Comparez le protocole d'une jeune fille de 15 ans publié sur le site [http://degob.org/](http://degob.org/){:target="_blank"} (sélectionnez Femme et date de naissance 1931 dans la rubrique Recherche) avec l'enregistrement audio de l'[entretien réalisé par David Boder avec Edith Zierer, âgée de 15 ans](https://iit.aviaryplatform.com/r/0g3gx44z67){:target="_blank"}<sup>*</sup>.
 - Qu'est-ce qui vous semble différent lorsque vous comparez ces deux sources ?
 - Notez vos observations dans votre modèle.
-              
+
 \* Pour écouter l'interview d'[Edith Zierer](http://voices.iit.edu/audio?doc=ziererE){:target="_blank"}, vous devez ouvrir le navigateur Chrome. Cliquez sur la petite icône « i » et autorisez Flash Player et les fenêtres contextuelles à s'exécuter. Veuillez noter que le chargement de l'interview est relativement long. Vous pouvez donc faire un autre exercice pendant ce temps.
 
 ![chrome-address-bar.png](../../../assets/images/chrome-address-bar.png)

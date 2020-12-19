@@ -46,10 +46,10 @@ Bei einem Reflexionsprozess über Wert und Bedeutung einer im Web veröffentlich
 <!-- section-contents -->
 
 - Gehen Sie zur Website der Protokolle, die von der [Nationalen ungarischen Kommission für Deportierte](http://degob.org/){:target="_blank"} gesammelt wurden.
-- Verschaffen Sie sich anhand einer Suche mit dem Stichwort „**help**“ einen Eindruck davon, wie Sie Zusammenfassungen von Interviews durchsuchen können. 
-- Wenn Sie die ersten fünf Treffer mithilfe der Tastaturkombination Ctrl + F durchgehen, können Sie sehen, inwieweit der Begriff „help“ in den Berichten mit positiven und negativen Bedeutungen unterlegt ist. 
+- Verschaffen Sie sich anhand einer Suche mit dem Stichwort „**help**“ einen Eindruck davon, wie Sie Zusammenfassungen von Interviews durchsuchen können.
+- Wenn Sie die ersten fünf Treffer mithilfe der Tastaturkombination Ctrl + F durchgehen, können Sie sehen, inwieweit der Begriff „help“ in den Berichten mit positiven und negativen Bedeutungen unterlegt ist.
 - Gehen Sie genauso vor mit [Voices of the Holocaust](http://voices.iit.edu/voices_project){:target="_blank"}.
-- Was fällt Ihnen auf, wenn Sie die Suchergebnisse auswerten? 
+- Was fällt Ihnen auf, wenn Sie die Suchergebnisse auswerten?
 - Notieren Sie die Antworten auf Ihrer Vorlage.
 
 <!-- section -->
@@ -57,8 +57,8 @@ Bei einem Reflexionsprozess über Wert und Bedeutung einer im Web veröffentlich
 ### 3.c  Zweite Auswertung der Archive: wie wichtige Personen dargestellt werden | 15 min
 <!-- section-contents -->
 
-- Vergleichen Sie, wie ein Befragter den Auswahlprozess für die Gaskammern und die Rolle des SS-Arztes Mengele im [Protokoll](http://degob.org/index.php?showjk=131){:target="_blank"} beschreibt, mit der Beschreibung in [Boders Interview mit Jola Gross](http://voices.iit.edu/interview?doc=grossJ&display=g){:target="_blank"}.
-- Welche Unterschiede fallen Ihnen zwischen dem zusammengefassten Interview und dem wörtlichen Transkript des Interviews auf? 
+- Vergleichen Sie, wie ein Befragter den Auswahlprozess für die Gaskammern und die Rolle des SS-Arztes Mengele im [Protokoll](http://degob.org/index.php?showjk=131){:target="_blank"} beschreibt, mit der Beschreibung in [Boders Interview mit Jola Gross](https://iit.aviaryplatform.com/r/2804x54p2z){:target="_blank"}.
+- Welche Unterschiede fallen Ihnen zwischen dem zusammengefassten Interview und dem wörtlichen Transkript des Interviews auf?
 - Notieren Sie die Antwort auf Ihrer Vorlage.
 
 <!-- section -->
@@ -66,10 +66,10 @@ Bei einem Reflexionsprozess über Wert und Bedeutung einer im Web veröffentlich
 ### 3.d  Dritte Auswertung der Archive: Identität des Sprechers | 15 min
 <!-- section-contents -->
 
-- Vergleichen Sie das Protokoll eines 15-jährigen Mädchens unter [http://degob.org/](http://degob.org/){:target="_blank"} (wählen Sie Female und Geburtsjahr 1931 in der Suchumgebung) mit [Boders Interview der 15-jährigen Edith Zierer](http://voices.iit.edu/audio?doc=ziererE){:target="_blank"}<sup>*</sup>.
+- Vergleichen Sie das Protokoll eines 15-jährigen Mädchens unter [http://degob.org/](http://degob.org/){:target="_blank"} (wählen Sie Female und Geburtsjahr 1931 in der Suchumgebung) mit [Boders Interview der 15-jährigen Edith Zierer](https://iit.aviaryplatform.com/r/0g3gx44z67){:target="_blank"}<sup>*</sup>.
 - Inwieweit unterscheiden sich die beiden Quellen?
 - Notieren Sie Ihre Feststellungen auf Ihrer Vorlage.
-              
+
 \* Für die Schilderungen von [Edith Zierer](http://voices.iit.edu/audio?doc=ziererE){:target="_blank"} müssen Sie den Chrome-Browser öffnen. Klicken Sie auf die kleine Schaltfläche „i“ und erlauben Sie Flash Player und Pop-ups. Beachten Sie, dass das Herunterladen des Interviews eine gewisse Zeit dauert, und führen Sie in der Zwischenzeit gegebenenfalls eine andere Aufgabe aus.
 
 ![chrome-address-bar.png](../../../assets/images/chrome-address-bar.png)

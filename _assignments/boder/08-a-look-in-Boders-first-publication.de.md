@@ -19,7 +19,7 @@ outcomes:
   - Verstehen der Wechselwirkung zwischen den Eigenschaften einer Methode zur Erfassung von Daten, den Eigenschaften des Mediums, über das diese Daten geteilt werden, und der Darstellung dieser Daten.
 ---
 
-Boder hat seine grundlegenden Quellen  d. h. die Transkripte seiner Interviews  zur Veröffentlichung in seinem ersten Buch überarbeitet. Die interaktive Version enthält einen PDF-Auszug aus seinem Buch. Bei der Lektüre von Büchern mit textgebundenen Darstellungen eines gesprochenen Interviews, das von der deutschen in die englische Sprache übersetzt wurde, sind potenzielle Abänderungen zu bedenken.  
+Boder hat seine grundlegenden Quellen  d. h. die Transkripte seiner Interviews  zur Veröffentlichung in seinem ersten Buch überarbeitet. Die interaktive Version enthält einen PDF-Auszug aus seinem Buch. Bei der Lektüre von Büchern mit textgebundenen Darstellungen eines gesprochenen Interviews, das von der deutschen in die englische Sprache übersetzt wurde, sind potenzielle Abänderungen zu bedenken.
 In dieser Aufgabe soll aufgezeigt werden, wie sich eine Quelle, d. h. eine Audioaufnahme, nach Maßgabe der jeweiligen Eigenschaften des Mediums in verschiedenen Formen darstellen lässt. Sie vergleichen das Interview, so wie es 1948 im Buch veröffentlicht wurde, mit der 2009 geschaffenen digitalen Online-Darstellung.
 
 <!-- more -->
@@ -37,21 +37,21 @@ In dieser Aufgabe soll aufgezeigt werden, wie sich eine Quelle, d. h. eine Audio
 <!-- section-contents -->
 
 - Lesen Sie das Interview mit Jorn Gastfreund (alias Jürgen Bassfreund) mit der kurzen Einführung von David Boder. Es umfasst 27 Seiten. Dies ist ein digitaler Scan seines gedruckten Buchs.
-- Gehen Sie nun zur Website [Voices of the Holocaust](http://voices.iit.edu/){:target="_blank"} (verwenden Sie Chrome als Browser, Sie können so mit dem Flash Player den Ton hören). 
-- Die URL sieht so aus: 
+- Gehen Sie nun zur Website [Voices of the Holocaust](http://voices.iit.edu/){:target="_blank"} (verwenden Sie Chrome als Browser, Sie können so mit dem Flash Player den Ton hören).
+- Die URL sieht so aus:
 
 ![chrome-address-bar.png](../../../assets/images/chrome-address-bar.png)
 
-- Klicken Sie auf die kleine Schaltfläche „i” und konfigurieren Sie Ihren Browser. Erlauben Sie die Flash Player und Pop-ups, indem Sie die entsprechenden Häkchen setzen. 
-- Klicken Sie dann auf diesen Link: [http://voices.iit.edu/interviewee?doc=bassfreundJ](http://voices.iit.edu/interviewee?doc=bassfreundJ){:target="_blank"}.
+- Klicken Sie auf die kleine Schaltfläche „i” und konfigurieren Sie Ihren Browser. Erlauben Sie die Flash Player und Pop-ups, indem Sie die entsprechenden Häkchen setzen.
+- Klicken Sie dann auf diesen Link: <https://iit.aviaryplatform.com/r/1r6n00zz2w>{:target="_blank"}.
 - Lesen Sie zunächst die Rubrik „Commentary“. Klicken Sie dann auf „English translation“.
 - Lesen Sie den Text bis zu dem Satz:
 
 „I worked at that time on the railroad and the Hitler guard packed us into a truck and we were all driven to a distribution camp.“
- 
+
 - Im ersten Teil dieser Aufgabe müssen Sie die Tabelle in Ihrer Vorlage ausfüllen und dabei etwaige Unterschiede zwischen den verschiedenen Fassungen des Interviews notieren.
 - Vergleichen Sie zunächst das Transkript im Buch mit der digitalen Online-Fassung des Transkripts bis zum vorgenannten Satz.
-- Notieren Sie die Unterschiede in den ersten beiden Spalten der Tabelle in Ihrer Vorlage. 
+- Notieren Sie die Unterschiede in den ersten beiden Spalten der Tabelle in Ihrer Vorlage.
 
 <!-- section -->
 

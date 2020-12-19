@@ -20,8 +20,8 @@ outcomes:
   - Understanding the limitations and benefits of online access to databases with personal narratives.
 ---
 
-When reflecting on the value and meaning of a source that has been published on the web, it is important to take the context of its creation into consideration. Turning everything into searchable digital data raises the risk of disregarding the different methods and approaches used by researchers when they created the data. This assignment is designed to highlight the differences between the accounts of Holocaust survivors that were summarised in written reports and those recorded on a device by Boder. They are both accessible online, but what is the difference? What can you do with this material that was not possible when it was kept in an archive? 
- 
+When reflecting on the value and meaning of a source that has been published on the web, it is important to take the context of its creation into consideration. Turning everything into searchable digital data raises the risk of disregarding the different methods and approaches used by researchers when they created the data. This assignment is designed to highlight the differences between the accounts of Holocaust survivors that were summarised in written reports and those recorded on a device by Boder. They are both accessible online, but what is the difference? What can you do with this material that was not possible when it was kept in an archive?
+
 <!-- more -->
 
 <!-- briefing-student -->
@@ -47,11 +47,11 @@ When reflecting on the value and meaning of a source that has been published on 
 <!-- section-contents -->
 
 - Go to the website with the collection of protocols collected by the [Hungarian National Commission for Deportees](http://degob.org/){:target="_blank"}.
-- Search with the keyword “**help**” to get an idea of how to search in interview summaries. 
-- If you go through the first five hits by using Ctrl + F, you can trace how the term “help” has different positive and negative meanings in the reports. 
+- Search with the keyword “**help**” to get an idea of how to search in interview summaries.
+- If you go through the first five hits by using Ctrl + F, you can trace how the term “help” has different positive and negative meanings in the reports.
 - Try to do the same with [Voices of the Holocaust](https://iit.aviaryplatform.com/collections/231/collection_resources/17626?u=t&keywords[]=HELP){:target="_blank"}.
-At present a new version of the website Voices of the Holocaust is under construction, so the link will bring you to a temporary searchable database containing all the interviews. Click on advanced search and type in the key word. All the interviews with transcripts that contain that keyword will be retrieved and at the top you will see a field with the amount of hits. 
-- What strikes you when assessing the search results? 
+At present a new version of the website Voices of the Holocaust is under construction, so the link will bring you to a temporary searchable database containing all the interviews. Click on advanced search and type in the key word. All the interviews with transcripts that contain that keyword will be retrieved and at the top you will see a field with the amount of hits.
+- What strikes you when assessing the search results?
 - Note the answers in your template.
 
 <!-- section -->
@@ -59,8 +59,8 @@ At present a new version of the website Voices of the Holocaust is under constru
 ### 3.c  A second exploration of the archives: how key characters are represented | 15 min
 <!-- section-contents -->
 
-- Compare how a respondent describes the selection process for the gas chambers and the role of SS physician Mengele in [protocol](http://degob.org/index.php?showjk=131){:target="_blank"} with how this is done in [Boder’s interview with Jola Gross](http://voices.iit.edu/interview?doc=grossJ&display=g){:target="_blank"}.
-- What strikes you as different between the summarised interview and the literal transcript of the interview? 
+- Compare how a respondent describes the selection process for the gas chambers and the role of SS physician Mengele in [protocol](http://degob.org/index.php?showjk=131){:target="_blank"} with how this is done in [Boder’s interview with Jola Gross](https://iit.aviaryplatform.com/r/2804x54p2z){:target="_blank"}.
+- What strikes you as different between the summarised interview and the literal transcript of the interview?
 - Note the answer in your template.
 
 <!-- section -->
@@ -68,11 +68,11 @@ At present a new version of the website Voices of the Holocaust is under constru
 ### 3.d  A third exploration of the archives: the identity of the speaker | 15 min
 <!-- section-contents -->
 
-- Compare the protocol of a 15-year-old girl in [http://degob.org/](http://degob.org/){:target="_blank"} (select Female and date of birth 1931 in the search environment) with listening to [Boder’s interview with 15-year-old Edith Zierer](http://voices.iit.edu/audio?doc=ziererE){:target="_blank"}<sup>*</sup>. 
+- Compare the protocol of a 15-year-old girl in [http://degob.org/](http://degob.org/){:target="_blank"} (select Female and date of birth 1931 in the search environment) with listening to [Boder’s interview with 15-year-old Edith Zierer](https://iit.aviaryplatform.com/r/0g3gx44z67){:target="_blank"}<sup>*</sup>.
 - What strikes you as different when comparing the two sources?
 - Note your findings in your template.
-              
-\* If you want to listen to [Edith Zierer](http://voices.iit.edu/audio?doc=ziererE){:target="_blank"}, you have to open the Chrome browser. Click on the small “i” icon and allow Flash Player and pop-ups. Bear in mind that the interview takes a long time to load, so you might want to carry on with another assignment in the meantime. 
+
+\* If you want to listen to [Edith Zierer](http://voices.iit.edu/audio?doc=ziererE){:target="_blank"}, you have to open the Chrome browser. Click on the small “i” icon and allow Flash Player and pop-ups. Bear in mind that the interview takes a long time to load, so you might want to carry on with another assignment in the meantime.
 
 ![chrome-address-bar.png](../../assets/images/chrome-address-bar.png)
 
