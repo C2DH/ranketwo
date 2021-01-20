@@ -18,7 +18,7 @@ the website in 2000 and the one used in 2009
 
 <!-- section-contents -->
 
-This lesson is meant to teach students the developments of webtechnology and some basic concepts of the backend of a website
+This lesson teaches the basics of the web to historians on the basis of a case study in which two websites on the interview collection of the psychologist David Boder, created in 2000 and 2009 are compared.
 <!-- section -->
 
 ### How is the content organized?
