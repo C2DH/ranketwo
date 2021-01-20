@@ -10,15 +10,14 @@ lang: en
 link: /u/boder2-webtechnology/
 ---
 
-This is an additional lesson on David Boder's collection that focuses on the comparison between the webtechnology that was used for
-the website in 2000 and the one used in 2009
+This lesson teaches the basics of the web to historians on the basis of a case study in which two websites on the interview collection of the psychologist David Boder, created in 2000 and 2009 are compared.
 <!-- more -->
 
 ### What is the objective of this lesson? QUIZ AND ASSIGNMENTS UPCOMING 
 
 <!-- section-contents -->
 
-This lesson teaches the basics of the web to historians on the basis of a case study in which two websites on the interview collection of the psychologist David Boder, created in 2000 and 2009 are compared.
+
 <!-- section -->
 
 ### How is the content organized?
