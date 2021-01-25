@@ -137,43 +137,43 @@
     src: "https://www.playposit.com/listcode/881764/n717d6/open/anonymous"
 
 -
-    id: boder2-webtechnology
+    id: webarchives
     type: vimeo
     aspectratio: aspect-16-9
     thumbnail: "https://i.vimeocdn.com/video/718778251.jpg?mw=900&mh=506&q=70"
-    title: "Web history in a nutshell: comparing the first website on David Boder in 2000 to the one launched in 2009"
+    title: "Lars Wieneke about changes in web technology"
     src: "https://player.vimeo.com/video/279392604"
 
 -
-    id: boder2-webtechnology-french
+    id: webarchives-french
     type: vimeo
     aspectratio: aspect-16-9
     thumbnail: "https://i.vimeocdn.com/video/718778251.jpg?mw=900&mh=506&q=70"
-    title: "La technologie web en bref : Comparaison du premier site web sur David Boder avec celui de 2009"
+    title: "Lars Wieneke about changes in web technology"
     src: "https://player.vimeo.com/video/312895779"
 
 -
-    id: boder2-webtechnology-german
+    id: webarchives-german
     type: vimeo
     aspectratio: aspect-16-9
     thumbnail: "https://i.vimeocdn.com/video/718778251.jpg?mw=900&mh=506&q=70"
-    title: "Die Webtechnologie auf den Punkt gebracht: Vergleich der ersten Website über David Boder mit der von 2009"
+    title: "Lars Wieneke about changes in web technology"
     src: "https://player.vimeo.com/video/312896406"
 
 -
-    id: boder2-webtechnology-playposit
+    id: webarchives-playposit
     aspectratio: aspect-16-9
     thumbnail:
     src: "https://www.playposit.com/listcode/978363/n717d6/open/anonymous"
 
 -
-    id: boder2-webtechnology-playposit-french
+    id: webarchives-playposit-french
     aspectratio: aspect-16-9
     thumbnail:
     src: "https://www.playposit.com/listcode/978363/n717d6/open/anonymous"
 
 -
-    id: boder2-webtechnology-playposit-german
+    id: webarchives-playposit-german
     aspectratio: aspect-16-9
     thumbnail:
     src: "https://www.playposit.com/listcode/978363/n717d6/open/anonymous"
@@ -231,10 +231,10 @@
     aspectratio: aspect-16-9
     thumbnail: "https://i.vimeocdn.com/video/857946968.jpg?mw=1920&mh=1080&q=70"
     src: "https://player.vimeo.com/video/392733729"
-    
--   
+
+-
     id: exploring-historical-newspapers-quiz
     type: vimeo
     aspectratio: aspect-16-9
-    thumbnail: 
+    thumbnail:
     src: "https://api.playposit.com/go/listcode/528112/258439/0/3/From-the-shelf-to-the-web-exploring-historical-newspapers-in-the-digital-age"

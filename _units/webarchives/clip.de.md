@@ -1,11 +1,12 @@
 ---
-title: "La technologie web en bref : Comparaison du premier site web sur David Boder avec celui de 2009"
+title: "Die Webtechnologie auf den Punkt gebracht: Vergleich der ersten Website über David Boder mit der von 2009"
 type: clip
-lang: fr
+lang: de
 parent: boder2-webtechnology
 duration: 10
-iframe: boder2-webtechnology-french
+iframe: webarchives
 ---
+
 A video lecture that explains the difference between Boder's websites created in 2000 and in 2009
 
 
