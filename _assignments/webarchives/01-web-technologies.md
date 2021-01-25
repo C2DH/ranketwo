@@ -7,11 +7,11 @@ cover:
 tags:
   -  web technology
   -  the history of the web
+documents:
+order: 1
 outcomes:
   - Understand the basics of web technology  
   - Understanding how to deal with web archives 
-documents:
-order: 1
 ---
 In the clip above, engineer Lars Wieneke explains how over time web technologies increasingly broadened the range and scale of data that could be shared and shown through the web. To illustrate these changes he elaborates on the two websites about the interview collection of the psychologist David Boder, the topic of another lesson on Ranke2, that were developed in 2000 and 2009.
 Understanding the changes brought about by software such as Flash Player and languages such as XML (Extensible Markup Language) and PHP (Hypertext Preprocessor) is crucial in being able to apply source criticism to a website. However, as historians we should first place the topic into its historical context: how did websites evolve in the first place and what technologies were needed to make them work? 
