@@ -54,7 +54,11 @@ To familiarise yourself with the Internet Archive Wayback Machine, read this sho
 -	What organisations does the IA work with and what is the rationale behind the collaboration? 
 
 
-
+|enter your answers in the answer form|
+||
+||
+||
+||
 
 
 Next, read this PDF that gives an explanation of the Wayback Machine interface using the example of Google’s home page and answer the following questions about the interface. We recommend that you use the PDF as a “cheat sheet” to help you complete the rest of this assignment.
@@ -63,6 +67,10 @@ Next, read this PDF that gives an explanation of the Wayback Machine interface u
 -	Where can you find the number of times a particular URL has been saved in the Wayback Machine? 
 -	What information can you tell about a snapshot just by looking at its URL?
 -	How can you find out which organisation or robot performed the crawl for the snapshot you are looking at?
+
+
+
+
 
 
 
