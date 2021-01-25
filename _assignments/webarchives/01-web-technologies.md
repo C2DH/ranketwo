@@ -47,7 +47,7 @@ After watching the video explanations from Twila Camp and VSauce, note the xxx m
 
 |enter your answers in the answer form|
 |------------------------|
-|------------------------|
+
 
 To connect the differences between the web and the internet to your own use of both, here is a list of common things that people do with their smartphones or computers for which they need the internet and/or the web. Put a cross in the right column(s).  
 
@@ -63,7 +63,7 @@ To connect the differences between the web and the internet to your own use of b
 
 <!-- section -->
 
-### 1.c 
+### 1.c The materiality of the internet
 <!-- section-contents -->
 
 Even if we understand the principles, history and evolution of the internet and the web, it can still be hard to fully grasp the materiality of our information systems. Where do we find tangible traces of the internet in our environment and what do they look like?
