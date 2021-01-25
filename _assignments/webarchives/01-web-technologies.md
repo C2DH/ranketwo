@@ -19,10 +19,6 @@ Understanding the changes brought about by software such as Flash Player and lan
 
 <!-- briefing-student -->
 
-### Instructions
-<!-- section-contents -->
-
-
 ### 1.a The history of the web and the technology behind it | ? Min
 <!-- section-contents -->
 
