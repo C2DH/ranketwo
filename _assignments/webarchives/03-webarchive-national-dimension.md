@@ -13,41 +13,110 @@ documents:
   - 
 order: 3
 ---
-The act of archiving is not just driven by neutral concerns for preservation. It is very much embedded in ways of prolonging and solidifying one’s identity, status and position. According to Janne Nielsen, who proposes a clear distinction between “macro” and “micro” archiving 
-(http://www.netlab.dk/wp-content/uploads/2016/10/Nielsen_Using_Web_Archives_in_Research.pdf), it is important to differentiate, for example, between a powerful institution that designs a preservation strategy for prosperity with a broad imaginary future audience in mind (“macro”) and a scholar at the end of a funded project who manages to conserve her data for future use within her academic career (“micro”). In the case of the EU, as the examples below show, preservation is also relevant for reasons of transparency about how decisions are taken or how legal frameworks intended to protect citizens and their cultural heritage evolve over time. The case study presented here – how the European Union deals with the preservation of its web archives – is an example of macro-archiving. The “level” of archiving in this context should be kept in mind throughout the example. 
+Fortunately, the Internet Archive is not the only institution that is trying to archive the web. Several other institutions are active on a smaller scale, usually for websites considered important or relevant to specific countries. Several European countries, such as Finland, France, Ireland, Spain and Sweden, have even included web archives in the [legal deposit](https://en.wikipedia.org/wiki/Legal_deposit) of their country, which means that they have attributed a similar status to websites as that given to archive material such as books and newspapers for centuries. See for example the UK (https://www.webarchive.org.uk), Denmark (http://netarkivet.dk/in-english/) and France (https://www.bnf.fr/fr/archives-de-linternet).
+Yet the task of archiving the entire web is not an easy one. The explosive growth of online content, especially since the 2000s, has made it impossible for archives and organisations to archive every single website and its various versions over time. Even as the technological expertise at these institutions has increased, a decrease in activities at the national level can be observed, which leads to a stronger dependency on the IA. This is luckily not the case in Luxembourg, where the National Library 
 
-###4. The European Union Web Archive
+<!-- more -->
 
-The European Union (https://en.wikipedia.org/wiki/European_Union) was created within a specific geopolitical context in the aftermath of the Second World War to stimulate trade and collaboration between European countries and diminish the risk of future violent conflict. As this context developed and new countries joined the EU, the EU changed accordingly, and one of these changes was the increase in the number of EU agencies. With the advent of the web in the 1990s, the way in which these institutes could present themselves to their audiences was also affected. Thus, when consulting a web archive for an EU agency, it is important to understand what the function of the website was for that agency at that point in time. Ask yourself: **Was creating a website and publishing texts about the mission of the agency something completely new at the time, or was it a continuation of an existing practice – such as informing the outside world about what an organisation does – through the new medium of the website?** Reflecting on this question will help you understand the value of a website as a historical source. 
+<!-- briefing-student -->
 
-There are two ways of consulting the web archives of the EU. You can use the Internet Archive’s Wayback Machine (https://archive.org/web/), which has taken random snapshots since the very beginning of the web in 1996 on a non-profit basis, or you can consult the European Union Web Archive (https://www.archive-it.org/collections/12090), which consists of web pages that are covered more systematically by the Internet Archive’s paid service, Archive-It, which started to offer these services in 2006. The institution responsible for preservation policy is the Publications Office of the European Union. Based in Luxembourg, this inter-institutional organisation has the task of producing and disseminating the EU’s publications, providing free access to official information and data from the EU, and ensuring the long-term preservation of content produced by EU institutions and bodies. 
-For this assignment we will use the Wayback Machine and our corresponding “cheat sheet” to compare the archived content of two EU agencies over time: the European Court of Justice (https://curia.europa.eu/) and the European Institute for Gender Equality (https://eige.europa.eu/).
+### 3.a Challenges and limits of preservation: The example of the Luxembourg Web Archive
+<!-- section-contents -->
+In this sub-assignment, the Luxembourg Web Archive (LWA) (https://www.webarchive.lu/) managed by the BnL will be explored to identify the benefits, limitations and challenges of web archiving.
+Web archivists have the task of defining the parameters and criteria for their digital collection of web pages. They have to decide which types of sites they should archive (i.e. government sites, news agency sites, museum sites, personal blogs, etc.), how many times a year snapshots should be taken, and how this content can be made accessible to their audience.
 
-●	Tip: The best way to compare the two is to take a screenshot of each home page, decrease the size, and then place them next to each other on your screen. 
+Imagine that you work at the National Library of Luxembourg and your job is to help select and collect all the relevant information on the web that pertains to the Grand Duchy of Luxembourg. Now imagine that a secondary school student wants to understand how the LWA works and has asked you to help explain it to her.
+Using the information found on the main page of the Luxembourg Web Archive (https://www.webarchive.lu/), its FAQ section (https://www.webarchive.lu/faq/) and the “How it Works” page (https://www.webarchive.lu/how-it-works/), answer the following questions that are posed by this imaginary secondary school student: 
 
-Open the Internet Archive’s Wayback Machine (https://archive.org/web/) in two different tabs. In the first tab, search for the snapshots of the European Court of Justice (ECJ) using the URL of its home page: https://curia.europa.eu/. In the second tab, search for the snapshots of the European Institute for Gender Equality (EIGE) using the URL of its home page: https://eige.europa.eu/. Then, using the web archives and any additional web research needed, complete the table below:
+-	Regarding the collection policy of the LWA, who or what are Luxembourgish publishers? 
+
+-	How many times a year do you (the BnL) archive the Luxembourgish web?
+
+-	Which types of websites do you archive (e.g. government sites, news agency sites, personal blogs, etc.)?
+
+-	How can someone access the information in the LWA?
+
+-	What is your process for collecting information for the LWA? (Hint: it’s a three-step process)
+
+-	What are the three different types of crawls used by the LWA and what are the differences between them? 
+
+-	What are some of the reasons that you might decide not to collect a website? 
+
+<!-- section -->
 
 
-||European Court of Justice	|European Institute for Gender Equality|
- |Overview|In what year was it founded?(if necessary make use of Wikipedia)|		
-|What is the mission of the agency?|		
-|Older archived web pages|
-|What are the first archived web pages that you can find with the Wayback Machine, What year and what date? In what language(s)?|		
-|What are the titles of the different pages of the website? Does the structure make sense to you?| 		
-|With the oldest archived web page available, try and find the page that gives the best overview of what the website contains and share the heading and the link of that page (often this is the home page, but not always)|	
-|Is there a search function that gives access to one or more databases?What do these databases contain?|	
-|Can you upload or download content?|		
-|The most recent archived versions of the websites (this year)|
-|Reflect on the changes that you can identify between the first and the last archived website of the respective EU institutions|		
-|Do the changes reflect a different course that the agency took during this period? This could be:
--	expanding its mission and/or services
--	merging with other agencies or moving its premises to cut costs
--	adjusting its policies to adapt to new countries joining the EU		
-|Do the changes consist of a more modern design and/or an increase in functionalities?
-This could be :
--	from static to interactive
--	providing access to databases with search functionalities 
--	moving from face-to-face to online services
--	offering streaming services  
--	providing a web design that is responsive to tablets and smartphones| 		
+### 3.b Exploring Luxembourg web content 
+<!-- section-contents -->
+
+The example of the LWA in assignment 3.a shows the contradiction between the principle of openness and the limits of institutions in sustaining an open system when they also have to take into account the rights of copyright holders. Because of the latter, we do not have online access to the information within the LWA, as it can only be used within certain library premises. However, we are lucky that some of the content in the LWA is also available online through the Internet Archive’s Wayback Machine (WM). As such, this lesson makes use of the Wayback Machine, rather than the LWA, for the next sub-assignment on archived Luxembourgish web content. The BnL has a contract with IA to crawl the Luxembourgish web, meaning that they offer the same content, but the BnL offers some complementary tools to explore the collections. 
+
+Download the teaching aid for working with the interface of the Wayback Machine from; url
+
+Go to the Internet Archive’s Wayback Machine (https://web.archive.org/), copy and paste the URL www.luxembourg.lu and press the “Enter” key. You should arrive on the page https://web.archive.org/web/*/www.luxembourg.lu.
+Referring to the WM interface user guide, answer the following questions: 
+
+-	Select two elements on this page that provide information about how the Internet Archive has archived the web page that corresponds to this specific URL.
+-	Select one element that provides information about the archived web page itself.
+
+
+-	What does the note under the calendar tell us? How many captures of the site www.luxembourg.lu have been made and over what period? Is the distribution of captures evenly spread over time? 
+
+
+Under the URL search bar, click on the “Summary” button for statistics and details about the archived snapshots of the www.luxembourg.lu web page. 
+-	How many captures of the site were made in 1996? How many in 2005? 
+
+
+-	What can be inferred from this? Why do you think the number of captures might be uneven over time? 
+
+
+
+-	What does this mean for using the Wayback Machine as a resource for archiving web pages?  
+
+
+
+Now return to the “Calendar” view. Between the line indicating the number of times that the web page has been saved and the calendar below, hover over the timeline and click on the year 1996 (you might need to scroll to the left). Next, select the snapshot taken on 9 November 1996 at 20:07:38. This should bring you to the archived page: [https://web.archive.org/web/19961109200738/http://www.luxembourg.lu/](https://web.archive.org/web/19961109200738/http://www.luxembourg.lu/)
+-	What does this page show?
+
+
+-	Is there any information on the date of creation or the author? What about any temporal information? 
+
+ 
+Following the same steps above, now go to the archived snapshot from 22 March 2003 taken at 18:49:25: [https://web.archive.org/web/20030322184925/http://www.luxembourg.lu/](https://web.archive.org/web/20030322184925/http://www.luxembourg.lu/)
+-	What does this page show?
+
+
+-	Is there any more information about the source (date, author, etc.)? What elements seem to be relevant or missing? 
+
+
+-	What does the “About this capture” button in the upper right-hand corner tell us?
+
+
+-	In your opinion, what is the most noticeable change between the archive of 9 November 1996 and that of 22 March 2003?
+
+
+Lastly, go back to the “Calendar” view and choose a snapshot taken within the last five years. What are some of the first things you notice about it?
+
+
+Based on these three archived snapshots from 1996, 2003 and the last five years, write a paragraph summarising how the luxembourg.lu website has changed over a 20-year period. 
+-	First start with some basic questions: Who created this website and why? What kind of functions did a website offer at the time? How were these functions catered for before the evolution of the web? Did the function of the website change over time? 
+-	Then identity changes in the appearance and content of the website: consider the URLs, colours/fonts, structure, tabs, etc. on the basis of the information that is available on the Wayback Machine. Make sure you also discuss the possible uses of this archived site for historians. (Hint: think about this from different perspectives, such as historians of Luxembourg or historians of the digital world.)
+
+<!-- section -->
+
+### Reading/viewing suggestions 
+<!-- section-contents -->
+
+-	[*Using Web Archives in Research: An Introduction* by Janne Nielsen (Aarhus: NetLab, 2016)](http://www.netlab.dk/wp-content/uploads/2016/10/Nielsen_Using_Web_Archives_in_Research.pdf)
+-	[*The Web as History: Using Web Archives to Understand the Past and the Present* edited by Niels Brügger and Ralph Schroeder (London: UCL Press, 2017)](https://discovery.ucl.ac.uk/id/eprint/1542998/1/The-Web-as-History.pdf)
+-	[“How Many Websites Are There Around The World?” by Nick Huss from siteefy (2020)](https://siteefy.com/how-many-websites-are-there/)
+-	Why Archive The Web? by Abby Potter via the IIPC (https://www.youtube.com/watch?v=pU32rjTaMFE)
+-	“Web Archiving” by the Library of Congress (30 Nov. 2009) (https://www.youtube.com/watch?v=T0943YkhLWU)
+-	World Wide Web Size research project measuring the size of the indexed web by Tilburg University (updated on a daily basis) (https://www.worldwidewebsize.com/)
+ 
+ 
+<!-- briefing-teacher -->
+
+
+
+
 
