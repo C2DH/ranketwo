@@ -55,29 +55,21 @@ Most people use the terms “web” and “internet” interchangeably as they a
 After watching the video explanations from Twila Camp and VSauce, note the xxx most important differences between the internet and the web. 
 
 
-||
+|enter your answers in the answer form|
+|------------------------|
 |------------------------|
 
-{:.table.border.table-sm.text-bold-highlight}
-| Mac OS metadata | Screenshot |
-|-----------------|------------|
-| **Kind**
-| **Size**
-| Where
-| Created
-| Modified
-| Last opened
-| **Dimensions**
-| **Colour space**
-| **Colour profile**
-| **Alpha channel**
-| **Name and extension**
-| Comments
-| **Open with**
-| Preview (smaller version of screenshot)
-| Sharing permissions
+To connect the differences between the web and the internet to your own use of both, here is a list of common things that people do with their smartphones or computers for which they need the internet and/or the web. Put a cross in the right column(s).  
 
-
+|     | Common things done on a computer/smartphone | Uses the internet but not the web | 	Uses both the internet and the web | 
+| --- | -------------- | ----------------- | ------------ | --------------------------- | -----------------|
+| Searching for a picture on Google	|   |   |   |  
+| Using Skype for a video call |   |   |   |  
+| Checking email with an application |   |   |   |  
+| Looking at your Facebook or Instagram feed on a web browser|   |   |   |  
+| Sharing a file with someone via a peer-to-peer file network |   |   |   |  
+| Downloading a file from a website |   |   |   |  
+| Making a call via FaceTime |   |   |   |  
 
 
 
