@@ -18,7 +18,12 @@ As described in the clip by Lars Wieneke, the David Boder websites from 2000 and
 
 To see an archived version of the very first website ever created in 1991 by Tim Berners-Lee and archived by CERN in Switzerland, click here: http://info.cern.ch/hypertext/WWW/TheProject.html.
 
+<!-- more -->
+
+<!-- briefing-student -->
+
 ###2.a The difference between the live web and the archived web
+<!-- section-contents -->
 The live web consists of any web page or website that you can access *at this very moment*. If you type the URL https://www.google.com, the home page of what is currently the world’s most popular search engine, into your web browser, the page will appear and you can immediately access the search engine. This is different from the **archived web**, which consists of web pages or websites that you can no longer access but whose information has been saved in the form of past versions of that web page or website. Without the **archived web** we would run the risk of web content disappearing from the accessible historical record entirely. This is why knowing both how to deal with web archives and how to ensure that web content is preserved are key for the historian’s profession.
 
 For a basic understanding of what web archives are, start by reading three sections from the publication 
@@ -41,8 +46,10 @@ Hypothetical example: You visit a small website that has information about the r
 
 -	What are some potential reasons why the website changed and then disappeared between the different dates that you accessed it?
 -	How might you go about trying to recover the information you remember seeing but can no longer access? 
+<!-- section-->
 
 ###2.b Familiarising yourself with the Wayback Machine
+<!-- section-contents -->
 In this sub-assignment, you will explore the history of the Internet Archive, a non-profit organisation that was established by computer engineer Brewster Kahle in 1996 with the objective of creating a complete digital record of the past. It is mentioned in the clip for this lesson, at minute 3:05, by engineer Lars Wieneke, when he explains how it is possible to retrieve “snapshots” of the David Boder website from 2000.
 
 Taking into consideration that approximately 360-380 new websites were created *every minute* in 2020 (source – https://siteefy.com/how-many-websites-are-there/), Kahle has set himself a nearly impossible task. The way in which the Internet Archive’s Wayback Machine collects material from the web is by programming robots called web crawlers (https://en.wikipedia.org/wiki/Web_crawler) in such a way that they take “snapshots” of certain web pages at specific points in time. These snapshots are not screenshots; they allow users to navigate the web of the past in an interactive manner, although they only yield a selection of web pages rather than the entire history of a website. The scale of what is nonetheless archived remains quite impressive, especially bearing in mind that the number of pages on the live web is currently around 6 billion (https://www.worldwidewebsize.com/), while the Internet Archive Wayback Machine provides access to more than 480 billion archived web pages (as of November 2020). Additionally, the Internet Archive is no longer the only organisation that archives the web. Institutions at the national level (mostly national libraries) in Ireland, Denmark, Luxembourg, Switzerland, Portugal, France and the United Kingdom, to name but a few, curate web content that is relevant for their country. The latter two countries have even included web archives as a category in their [legal deposits](https://en.wikipedia.org/wiki/Legal_deposit), meaning that web pages related to their citizens or state are considered as publications that are vital for records of the countries’ official history.
@@ -75,8 +82,11 @@ Next, read this PDF that gives an explanation of the Wayback Machine interface u
 |-------------|
 |-------------|
 
+<!--section-->
+
 
 ###2.c The original ambitions of the Wayback Machine compared to later thoughts
+<!-- section-contents -->
 As a historian it is vital to place a resource such as the Wayback Machine in a historical context. Idealism and belief in the democratising power of technology lie at the heart of the creation of this resource. To understand this more clearly, watch these three video segments from a 2011 presentation by Brewster Kahle to the Long Now Foundation (https://archive.org/details/brewsterkahlelongnowfoundation).
 1.	The objectives of the Internet Archive as a foundation (9:36 - 12:30)
 2.	How the Wayback Machine is used to preserve the web (40:55 - 44:39)
@@ -106,8 +116,10 @@ Now compare the narrative in the passages you watched from 2011 with the discour
 |-------------|
 |-------------|
 
+<!-- section -->
 
 ###2.d Explore how the web pages of Google and YouTube have been preserved
+<!-- section-contents -->
 Finally, it is time for you to explore the Internet Archive’s web archiving tool, the Wayback Machine, yourself. While doing this assignment, keep in mind that owing to the sheer amount of data saved in its archives (over 25 petabytes or 25 million gigabytes as of 2018 – source https://thehustle.co/inside-wayback-machine-internet-archive), the WM can sometimes take a little longer to load than the web pages you might be used to. Sometimes you need to refresh a page once or twice to get it to load properly.
 
 First, go to the Wayback Machine (https://web.archive.org/) and search for Google’s home page by entering the URL https://www.google.com/ in the search box. The query should look like this: https://web.archive.org/web/*/https://www.google.com/ 
@@ -126,8 +138,6 @@ Now, below the information that gives you the number of captures of the URL that
 
 Think about some of the classic questions that you would ask of any historical source: Who created this? When did they create it? Why did they create it? How did they create it? What was their purpose in creating it? How was it used at the time? How did it look at the time compared to other similar sources? 
 -	Using the PDF “cheat sheet” as a guide, answer the classic historical source criticism questions above and feel free to add any others you can think of. 
-
-
 
 |enter your answers in the answer form|
 |Who created this? -------------|
@@ -190,7 +200,7 @@ Reading/viewing suggestions
 -	[*Qu’est-ce qu’une archive du Web?* by Francesca Musiani et al. (Marseille: OpenEdition, 2019)](https://books.openedition.org/oep/8713)
 -	[“Brewster Kahle: A Free Digital Library” TED Talk (2007)](https://www.ted.com/talks/brewster_kahle_a_free_digital_library
 
-
+<!-- section -->
 
 
 
