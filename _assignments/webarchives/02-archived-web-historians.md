@@ -69,9 +69,11 @@ Next, read this PDF that gives an explanation of the Wayback Machine interface u
 -	How can you find out which organisation or robot performed the crawl for the snapshot you are looking at?
 
 
-
-
-
+|enter your answers in the answer form|
+|-------------|
+|-------------|
+|-------------|
+|-------------|
 
 
 ###2.c The original ambitions of the Wayback Machine compared to later thoughts
@@ -87,11 +89,22 @@ Now answer the following questions (with additional web research if needed):
 -	Why are there multiple physical locations for the digital archives of the Internet Archive?
 
 
+|enter your answers in the answer form|
+|-------------|
+|-------------|
+|-------------|
+|-------------|
 
 Now compare the narrative in the passages you watched from 2011 with the discourse adopted in the opening keynote talk by Brewster Kahle in 2019 at the Charleston Conference (https://youtu.be/bA67X9y-ozc?t=209 from 3:29 to 12:22) and answer the following questions:
 -	What strikes you as different?
 -	In your opinion, why might Kahle’s idea have changed?
 -	Do you think this collaboration with Wikipedia is a good direction for the Internet Archive and the Wayback Machine to go in? Why or why not?
+
+|enter your answers in the answer form|
+|-------------|
+|-------------|
+|-------------|
+|-------------|
 
 
 ###2.d Explore how the web pages of Google and YouTube have been preserved
@@ -102,48 +115,80 @@ First, go to the Wayback Machine (https://web.archive.org/) and search for Googl
 Have a look at the note under the red button marked “Calendar”. How many captures of the web page at this URL have been made and over what period?
 
 
+|enter your answers in the answer form|
+|-------------|
+|-------------|
+|-------------|
+|-------------|
+
 
 Now, below the information that gives you the number of captures of the URL that have been made but above the calendar view of the past 12 months, scroll through the chronological bar graph showing all the years the URL has been saved. Find and click on the very first year that this web page was saved and then search for the month in which the very first snapshot was made. Finally, click on that first snapshot of Google saved by the Wayback Machine. 
 
 Think about some of the classic questions that you would ask of any historical source: Who created this? When did they create it? Why did they create it? How did they create it? What was their purpose in creating it? How was it used at the time? How did it look at the time compared to other similar sources? 
 -	Using the PDF “cheat sheet” as a guide, answer the classic historical source criticism questions above and feel free to add any others you can think of. 
 
-Who created this? - 
-When did they create it? - 
-Why did they create it? - 
-How did they create it? - 
-What was their purpose in creating it? - 
-How was it used at the time? - 
-How did it look at the time compared to other similar sources? - 
+
+
+|enter your answers in the answer form|
+|Who created this? -------------|
+|When did they create it?-------------|
+|Why did they create it?-------------|
+|How did they create it?-------------|
+|What was their purpose in creating it?-------------|
+|How was it used at the time?-----|
+|How did it look at the time compared to other similar sources?---|
+
 
 Next, go to the next saved date of the Google home page (it should be in the following month) and click on the snapshot. Explore the content of the page and its hyperlinks to find out the purpose of the company and the reason they choose the name “Google”.
 
-Purpose - 
-Why the name “Google”? - 
+
+|enter your answers in the answer form|
+|Purpose -------------|
+|Why the name “Google”?-------------|
+|-------------|
+|-------------|
 
 Now go back to the current home page of the Wayback Machine (https://web.archive.org/) and search for YouTube’s home page using the URL https://www.youtube.com. Find the first saved snapshot available on the Wayback Machine, and click on the link. 
 -	What are your first impressions of YouTube’s then home page?
 
+
+|enter your answers in the answer form|
+|-------------|
+|-------------|
+|-------------|
+|-------------|
 
 Take a screenshot of this first snapshot. Then try to click on the tabs in this snapshot (“favorites”, “messages”, “videos”). 
 
 -	What happens? What does this mean for using the Wayback Machine as a resource for archiving web pages?
 
 
+|enter your answers in the answer form|
+|-------------|
+|-------------|
+|-------------|
+|-------------|
+
 Now, go back to your calendar view of all the times that YouTube has been saved by the Wayback Machine. Click on a snapshot from 10 years after the first snapshot was made and take a screenshot of the snapshot. Complete the table below indicating differences between the features of YouTube in 2005 and 2015. Note: if you don’t find the information below in the snapshots, conduct additional research and note which other source(s) you consulted to find the information.
 
-Year 	     2005	2015
-Your screenshot		
-Design 		
-Navigation links at the top		
-Information about the company 		
-What can be accessed		
-Notes about privacy 		
-Notes about copyright 		
+
+|Year |	2005 | 2015
+|Your screenshot|	
+|Navigation links at the top|		
+|Information about the company|		
+|What can be accessed|		
+|Notes about privacy|		
+|Notes about copyright| 		
 
 Would the Wayback Machine be useful to you if you wanted to know whether the character of the uploaded material on YouTube has changed between 2005 and 2010?
 
 
+Reading/viewing suggestions
+-	[*Using Web Archives in Research: An Introduction* by Janne Nielsen (Aarhus: NetLab, 2016)](http://www.netlab.dk/wp-content/uploads/2016/10/Nielsen_Using_Web_Archives_in_Research.pdf)
+-	[*The Web as History: Using Web Archives to Understand the Past and the Present* edited by Niels Brügger and Ralph Schroeder (London: UCL Press, 2017)](https://discovery.ucl.ac.uk/id/eprint/1542998/1/The-Web-as-History.pdf)
+-	[“How Many Websites Are There Around The World?” by Nick Huss from siteefy (2020)](https://siteefy.com/how-many-websites-are-there/)
+-	[*Qu’est-ce qu’une archive du Web?* by Francesca Musiani et al. (Marseille: OpenEdition, 2019)](https://books.openedition.org/oep/8713)
+-	[“Brewster Kahle: A Free Digital Library” TED Talk (2007)](https://www.ted.com/talks/brewster_kahle_a_free_digital_library
 
 
 
