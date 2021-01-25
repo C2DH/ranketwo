@@ -7,23 +7,21 @@ cover:
 tags:
   -  web archiving
   -  the internet archive
+documents
+order: 2
 outcomes:
   - Learn how to apply digital source criticism to websites 
   - Learn about the Internet Archie and how to use the Wayback Machine
-documents:
-  - 
-order: 2
 ---
 As described in the clip by Lars Wieneke, the David Boder websites from 2000 and 2009 changed over time as new technology became available. The older version from 2000 no longer exists on the “live” web, but a comparison between the version published in 2000 and the new 2009 version is possible thanks to the archived web. In this assignment, you will learn about the basics of the archived web and become familiar with one of the most popular and useful resources to access archived web pages – the Internet Archive’s Wayback Machine. At the same time you will learn about the challenges and limits of web archiving from a historian’s point of view.
 
 To see an archived version of the very first website ever created in 1991 by Tim Berners-Lee and archived by CERN in Switzerland, click here: http://info.cern.ch/hypertext/WWW/TheProject.html.
-
 <!-- more -->
 
 <!-- briefing-student -->
 
-###2.a The difference between the live web and the archived web
-<!-- section-contents -->
+###2.a The difference between the live web and the archived web | min?
+<!--section-contents-->
 The live web consists of any web page or website that you can access *at this very moment*. If you type the URL https://www.google.com, the home page of what is currently the world’s most popular search engine, into your web browser, the page will appear and you can immediately access the search engine. This is different from the **archived web**, which consists of web pages or websites that you can no longer access but whose information has been saved in the form of past versions of that web page or website. Without the **archived web** we would run the risk of web content disappearing from the accessible historical record entirely. This is why knowing both how to deal with web archives and how to ensure that web content is preserved are key for the historian’s profession.
 
 For a basic understanding of what web archives are, start by reading three sections from the publication 
@@ -46,10 +44,10 @@ Hypothetical example: You visit a small website that has information about the r
 
 -	What are some potential reasons why the website changed and then disappeared between the different dates that you accessed it?
 -	How might you go about trying to recover the information you remember seeing but can no longer access? 
-<!-- section-->
+<!--section-->
 
 ###2.b Familiarising yourself with the Wayback Machine
-<!-- section-contents -->
+<!--section-contents-->
 In this sub-assignment, you will explore the history of the Internet Archive, a non-profit organisation that was established by computer engineer Brewster Kahle in 1996 with the objective of creating a complete digital record of the past. It is mentioned in the clip for this lesson, at minute 3:05, by engineer Lars Wieneke, when he explains how it is possible to retrieve “snapshots” of the David Boder website from 2000.
 
 Taking into consideration that approximately 360-380 new websites were created *every minute* in 2020 (source – https://siteefy.com/how-many-websites-are-there/), Kahle has set himself a nearly impossible task. The way in which the Internet Archive’s Wayback Machine collects material from the web is by programming robots called web crawlers (https://en.wikipedia.org/wiki/Web_crawler) in such a way that they take “snapshots” of certain web pages at specific points in time. These snapshots are not screenshots; they allow users to navigate the web of the past in an interactive manner, although they only yield a selection of web pages rather than the entire history of a website. The scale of what is nonetheless archived remains quite impressive, especially bearing in mind that the number of pages on the live web is currently around 6 billion (https://www.worldwidewebsize.com/), while the Internet Archive Wayback Machine provides access to more than 480 billion archived web pages (as of November 2020). Additionally, the Internet Archive is no longer the only organisation that archives the web. Institutions at the national level (mostly national libraries) in Ireland, Denmark, Luxembourg, Switzerland, Portugal, France and the United Kingdom, to name but a few, curate web content that is relevant for their country. The latter two countries have even included web archives as a category in their [legal deposits](https://en.wikipedia.org/wiki/Legal_deposit), meaning that web pages related to their citizens or state are considered as publications that are vital for records of the countries’ official history.
