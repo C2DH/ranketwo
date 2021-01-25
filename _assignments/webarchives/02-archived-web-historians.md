@@ -8,10 +8,10 @@ tags:
   -  web archives
   -  the Internet Archive
 documents:
-order: 2
 outcomes:
   - Understand the basics of web archiving 
   - Understanding the policies and complexities of webarchiving
+order: 2
 ---
 As described in the clip by Lars Wieneke, the David Boder websites from 2000 and 2009 changed over time as new technology became available. The older version from 2000 no longer exists on the “live” web, but a comparison between the version published in 2000 and the new 2009 version is possible thanks to the archived web. In this assignment, you will learn about the basics of the archived web and become familiar with one of the most popular and useful resources to access archived web pages – the Internet Archive’s Wayback Machine. At the same time you will learn about the challenges and limits of web archiving from a historian’s point of view.
 
@@ -149,6 +149,6 @@ Would the Wayback Machine be useful to you if you wanted to know whether the cha
 -	[“How Many Websites Are There Around The World?” by Nick Huss from siteefy (2020)](https://siteefy.com/how-many-websites-are-there/)
 -	[*Qu’est-ce qu’une archive du Web?* by Francesca Musiani et al. (Marseille: OpenEdition, 2019)](https://books.openedition.org/oep/8713)
 
-<!--section-->
+<!-- briefing-student -->
 
 
