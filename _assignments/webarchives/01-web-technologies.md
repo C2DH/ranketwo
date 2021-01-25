@@ -75,57 +75,52 @@ To connect the differences between the web and the internet to your own use of b
 
 <!-- section -->
 
-### 1.c Improvement of OCR quality
-<!-- section-contents -->
+### 1.c 
 
-This is the scanned image of the front page of the Neue Zürcher Zeitung (NZZ) published on 26.10.1793 in Zürich, Switzerland. It reports on the trial and execution of Louis XVI’s widow Marie Antoinette in October 1793.
+Even if we understand the principles, history and evolution of the internet and the web, it can still be hard to fully grasp the materiality of our information systems. Where do we find tangible traces of the internet in our environment and what do they look like?
+Despite frequent references to “the cloud” and “cyberspace” and the widespread use of WiFi (all of which contribute to the belief that the web and the internet are intangible and transparent), the internet in fact consists of highly tangible elements. For an introduction to how the internet works, watch this TED lecture by Andrew Blum: “What is the Internet, really?” (2012) (https://youtu.be/XE_FPEFpHt4) (12 mins).
 
-<img src="../../assets/images/zurich.png" width="600">
+-	Is this information new to you? How does it compare to what you imagined the internet to be?
+-	What is meant by the line “wired people should know something about wires”? (min. 11.34)
 
-The archives of the NZZ were entirely digitised for the first time in 2005, using the microfilms of newspapers to produce scans that were then OCRed. The result of this process proved to be imperfect, especially for earlier texts that were published in Gothic font.
+Now take a look at this “Submarine Cable Map 2015” by Telegeography (https://submarine-cable-map-2015.telegeography.com/) 
+The map looks old but it was created in 2015. 
+-	Where do you notice the highest and lowest concentration of cables? What does this suggest with regard to power and control in world politics? 
+-	Conduct some additional web research and find out how many undersea cables have been built since and now exist in total (don’t forget to cite your source).
 
-As part of the impresso project, referred to in the clip of this lesson, Phillip Ströbel and Simon Clematide from the University of Zurich have experimented with software developed to recognise handwritten text to improve the quality of the OCR on Gothic fonts.
 
-The two outputs of the OCR are shown below. Compare them and answer the questions.
+### 1.d Information systems and power 
 
-|**A. First lines of the front page article of the 26.10.1793 issue of the NZZ**|
+The placement of underwater cables is not random; it is heavily influenced by history. New communication systems are generally rooted in the infrastructures of previous systems. These developments do not only reflect progress in technology, they are also an expression of power relations. It matters a lot who is connected to whom as well as who pays for and controls information systems. Watch these two videos and then answer the essay question below:
 
-<img src="../../assets/images/fragment-zurich.png" width="600">
+-	“Thin underwater cables hold the internet. See a map of them all” by Vox (2015) (https://www.youtube.com/watch?v=Ve810FHZ1CQ) (3 mins) 
+-	“Bundled, Buried & Behind Closed Doors” by Ben Mendelsohn (2011) – Vimeo video about 60 Hudson Street and the materiality of the internet (https://vimeo.com/30642376) (10 mins)
 
-| **B. OCR output in 2005** |
-| Prozeß der Marie Antoinette. Nachdem dieselbe am i g. Weinm. alten StvlS, oder am rz. des ersten Monat« im 2,en Jahre der Republik neuen KaleuderstplS, in den Audienzsaal eingesührt wurde, und sie sich auf den Sessel niedergelassen hatte- fragte sie der Präsident: Wie sie heisse? „ Ich nenne mich, antwortete sie, Marie Antoinette von Lotharingen. Oestreich re. — Wer seyd ihr ?. Ich bin dir Wittwr Ludwig Capet«, ehemaligen Königs der Frauzo« seu.— Wie alt? Z8 Jahre. — Nun wurde von demGe-richtsschreiber die Auklagsakte vorgelesen. Darin» heißt e«,daß aus den dem Tribunale rnhandengestellten Schriften erhellet 'Daß gleich den Messalinen Brunehaut, Fredegoude»nd Medizi«, die man einstKöniainnea von Frankreich genannt habe, und deren verhaßte Namennie au« de» Jahrbüchern der Geschichte werden vertilgt werde» , Marie Antoinette , Ludwig Capets Wittwr, feit ihrem Aufenthalte inFrankreich die Plage und Blotfaugeriun der Franzosen gewesen; daß sie" noch vor der glücklichen Revoluzion |
-| **improved OCR output in 2019** |
-| Prozeß der Marie Antoinette. Nachdem dieselbe am 15. Weinm. alten Styls, oder am 23. des ersten Monats im 2ten Jahre der Republik neuen Kalenderstyls, in den Audienzsaal eingeführt wurde, und sie sich auf den Sessel niedergelassen hatte, fragte sie der Präsident: Wie sie heisse? „ Ich nenne mich, antwortete sie, Marie Antoinette von Lotharingen- Oestreich ic. — Wer seyd ihr ?. Ich bin die Wittwe Ludwig Capets, ehemaligen Königs der Franzosen.— Wie alt? 38 Jahre. — Nun wurde von dem Gerichtsschreiber die Anklagsakte vorgelesen. Darinn heißt es, daß aus en dem Tribunale zuhandengestellten Schriften erhelle: Daß gleich den Messalinen Brunehaut, Fredegonde und Medizis, die man einst Königinnen von Frankreich genaunt habe, und deren verhaßte Namen nie aus den Jahrbüchern der Geschichte werden vertilgt werden, Marie Antoinette, Ludwig Capets Wittwe, seit ihrem Aufenthalte in Frankreich die Plage und Blutsaugerinn der Franzosen gewesen; daß sie noch vor der glückichen Revoluzion |
+Write a short essay of 500 words in which you incorporate the answers to the following questions: 
+-	What were the predecessors of the internet cables at the bottom of the ocean?  
+-	Why were they laid, for what reason and by whom?
+-	What do you think is the connection with regard to the division of power worldwide between those who had the resources to invest in the system of underwater telegraph cables in the past, and those who at present have taken up this role for fibreglass cables? 
+-	Who was the owner of these systems in the 19th century, and who owns the cables that are laid out to connect us with the internet worldwide? What are the implications of this ownership for freedom of information?
 
-- How was the word “Wittwe” recognised in 2005 and 2019?
-- What differences do you notice in the recognition of numbers between the 2005 and 2019 outputs?
 
-Now have a look at the manual transcription of the same passage, and compare this to how the numbers were recognised in the 2005 and 2019 outputs.
-
-| **A. Manual Transcription** |
-| Prozeß der Marie Antoinette. Nachdem dieselbe am 15. Weinm. alten Styls, oder am 23. des ersten Monats im 2tem Jahre der Republik neuen Kalenderstyls, in den Audienzsaal eingeführt wurde, und sie sich auf dem Sessel niederlassen hatte, fragte sie der Präsident: Wie sie heisse? “Ich nenne mich, antwortete Sie, Marie Antoinette von Lotharingen-Oestreich - Wer seyd ihr? Ich bin die Wittwe Ludwig Capets, ehemaligen König der Franzosen. - Wie alt? 38 Jahre. - Nun wurde von dem Gerichtsschreiber die Anklagsakte vorgelesen. Darinn heißt es daß aus den dem Tribunale zuhandengestellten Schriften erhelle: Daß gleich den Messalinen Brunehaus, Fredegonde und Medizis, die man einst Königin von Frankreich genannt habe, und deren verhaßte Namen nie aus den Jahrbüchern der Geschichte werden vertilgt werden, Marie Antoinette, Ludwig Capets Wittwe, seit ihrem Aufenthalte in Frankreich die Plage und Blutsaugerinn der Franzosen gewesen: daß sie noch der glücklichen Revoluzion, |
-
-- Would you have been able to find this article on the basis of the first OCR if you had searched with the following keywords? (explain why for each case)
-“Marie Antoinette”
-“Revolution”
+|enter your answers in the answer form|
+|------------------------|
+|------------------------|
 
 <!-- section -->
-
 
 
 ### Reading/viewing suggestions
 <!-- section-contents -->
 
-
-- For a technical and historical overview and information about some applications of optical character recognition (OCR), take a look at the [Wikipedia article on this topic](https://en.wikipedia.org/wiki/Optical_character_recognition){:target="_blank"}
-
-- To understand how optical character recognition (OCR) identifies characters and words(known as pattern recognition), watch  the [explanation by Aryaman Sharda](https://www.youtube.com/watch?v=cAkklvGE5io){:target="_blank"}
-
-- For a more detailed explanation of each step of the optical character recognition (OCR) process, watch the [interview with Professor Steve Simske by Computerphile](https://www.youtube.com/watch?v=ZNrteLp_SvY){:target="_blank"}
-
-- [Prof. Steve Simske explains the principle of binarisation](https://youtu.be/ZNrteLp_SvY?t=149){:target="_blank"}
-
-- Here is information about [the single connected component (or one letter)](https://youtu.be/ZNrteLp_SvY?t=235){:target="_blank"} followed by information on the recognition of the types of letters used in a given text, or [the classification of the fonts](https://youtu.be/ZNrteLp_SvY?t=446){:target="_blank"}
+-	“History of the Internet” by Melih Bilgil (2009) (https://vimeo.com/2696386)
+-	“A brief history of the World Wide Web” by CERN (2019) (https://www.youtube.com/watch?v=k0gvAyCubGQ&f)
+-	“A short history on web technologies” by and on The Byte Story (2018) (https://thebytestory.com/2018/11/09/a-short-history-on-web-technologies/)
+-	A very accessible low-threshold explanation of the web for children of all ages by Tim Berners-Lee: https://www.w3.org/People/Berners-Lee/Kids.html 
+-	A timeline of some of the first clips that went viral on the web: https://www.pewresearch.org/internet/2014/03/11/world-wide-web-timeline/#2009 
+-	Tim Berners-Lee’s first proposal for the web from March 1989: “Information Management: A Proposal”
+-	“A Short History of the Web” at CERN (date unknown): https://home.cern/science/computing/birth-web/short-history-web
+-	“What is a web browser?” by Treehouse (May 2019) (https://www.youtube.com/watch?v=QzohDuGk4mM&)
 
 
 <!-- briefing-teacher --
