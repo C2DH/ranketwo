@@ -1,21 +1,4 @@
 
----
-layout: assignment
-unit: webarchives
-lang: en
-title: "The web and its technologies"
-cover:
-tags:
-  - web technology
-  - web history
-  - information and power
-requirements: Fast WIFI connection, computer or laptop, application on laptop or computer to view video,
-learning outcomes:
-  - Understand the basics of how the web developed and how it works 
-order: 1
----
-These assignments will briefly explore the history of the web and the technological developments that make it work. They will then dive into the differences between the web and the internet, before discussing the physical infrastructure that allows the world to be globally connected.
-
 <!-- more -->
 
 <!-- briefing-student -->
