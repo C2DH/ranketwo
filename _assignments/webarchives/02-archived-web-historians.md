@@ -2,64 +2,102 @@
 layout: assignment
 unit: webarchives
 lang: en
-title: "The web and its technologies"
+title: "The archived web for historians"
 cover:
 tags:
-  -  web technology
-  -  the history of the web
+  -  web archives
+  -  the Internet Archive
 documents:
-order: 1
+order: 2
 outcomes:
-  - Understand the basics of web technology  
-  - Understanding how to deal with web archives 
+  - Understand the basics of web archiving 
+  - Understanding the policies and complexities of webarchiving
 ---
-In the clip above, engineer Lars Wieneke explains how over time web technologies increasingly broadened the range and scale of data that could be shared and shown through the web. To illustrate these changes he elaborates on the two websites about the interview collection of the psychologist David Boder, the topic of another lesson on Ranke2, that were developed in 2000 and 2009.
-Understanding the changes brought about by software such as Flash Player and languages such as XML (Extensible Markup Language) and PHP (Hypertext Preprocessor) is crucial in being able to apply source criticism to a website. However, as historians we should first place the topic into its historical context: how did websites evolve in the first place and what technologies were needed to make them work? 
+As described in the clip by Lars Wieneke, the David Boder websites from 2000 and 2009 changed over time as new technology became available. The older version from 2000 no longer exists on the “live” web, but a comparison between the version published in 2000 and the new 2009 version is possible thanks to the archived web. In this assignment, you will learn about the basics of the archived web and become familiar with one of the most popular and useful resources to access archived web pages – the Internet Archive’s Wayback Machine. At the same time you will learn about the challenges and limits of web archiving from a historian’s point of view.
+
+To see an archived version of the very first website ever created in 1991 by Tim Berners-Lee and archived by CERN in Switzerland, click here: http://info.cern.ch/hypertext/WWW/TheProject.html.
+ 
 <!-- more -->
 
 <!-- briefing-student -->
 
-### 1.a The history of the web and the technology behind it | ? Min
+### 2.a The difference between the live web and the archived web| ? Min
 <!-- section-contents -->
 
--	For a brief overview of the history of the web and the technologies involved, read Sections 1, 2, 3 and 6 of “How the World Wide Web (WWW) works” by Chris Woodford (2006/2020) (https://www.explainthatstuff.com/howthewebworks.html)
--	For an insight into the role of one of the game changers in the history of the web, computer scientist Tim Berners-Lee, read this article by the World Wide Web Foundation: “History of the Web” (https://webfoundation.org/about/vision/history-of-the-web/) 
--	For an insight into the differences between Web 1.0, Web 2.0 and Web 3.0, read this concise history of web technologies: https://thebytestory.com/2018/11/09/a-short-history-on-web-technologies/
+The live web consists of any web page or website that you can access *at this very moment*. If you type the URL https://www.google.com, the home page of what is currently the world’s most popular search engine, into your web browser, the page will appear and you can immediately access the search engine. This is different from the **archived web**, which consists of web pages or websites that you can no longer access but whose information has been saved in the form of past versions of that web page or website. Without the **archived web** we would run the risk of web content disappearing from the accessible historical record entirely. This is why knowing both how to deal with web archives and how to ensure that web content is preserved are key for the historian’s profession.
 
-Now that you have some more information about the development of the web and about Tim Berners-Lee, answer the following questions:
--	Why was Tim Berners-Lee’s innovation fundamental for the development of the web? 
--	What is the difference between HTTP and HTML?
--	What is a URI/URL?
--	What is the difference between a web server and a web browser?
--	What is the main difference between Web 1.0, Web 2.0 and Web 3.0 technologies? 
+For a basic understanding of what web archives are, start by reading three sections from the publication 
+ *Using Web Archives in Research: An Introduction* by Janne Nielsen (Aarhus: NetLab, 2016) (http://www.netlab.dk/wp-content/uploads/2016/10/Nielsen_Using_Web_Archives_in_Research.pdf) and then answer the questions below:
+1.	Section 1 “Introduction” (pp. 6-10)
+2.	Section 2.1 “Main Types of Web Archiving” (pp. 11-12)
+3.	Section 2.5 “Characteristics of the Archived Material” (p. 23)
+
+Questions:
+-	Why were web archives created and how can they be used?
+-	What is the definition of web archiving as given by the International Internet Preservation Consortium (IIPC)?
+-	How often did a typical web page last before it changed or disappeared from the year 2000 to 2010? How does this differ from the pace of changes at present?  
+-	In what ways is web archiving different from traditional archiving?
+-	What are some challenges associated with web archiving? 
+-	Imagine yourself in a future professional role (not necessarily a historian): in what kind of situation would knowledge about web archiving be useful?
+
+Now that you have some knowledge about what web archives are, read the hypothetical example below and answer the questions that follow.
+
+Hypothetical example: You visit a small website that has information about the recent matches of a local football team on Tuesday 11 February. You look for the score of the most recent match and are able to find the information you are searching for. On Wednesday 12 February, you try to access the website again to show the score to your friend, but the website looks completely different. You eventually find the information but it’s on a different page on the website and it takes you more time to find it than before. When you visit the website a third time on Friday 14 February to check the results of the latest match, you discover that you can’t access the website at all, no matter how many times you refresh the page or which browser you use.
+
+-	What are some potential reasons why the website changed and then disappeared between the different dates that you accessed it?
+-	How might you go about trying to recover the information you remember seeing but can no longer access? 
 
 <!-- section -->
 
-### 1.b The difference between the web and the internet
+### 2.b Familiarising yourself with the Wayback Machine
 <!-- section-contents -->
 
-Most people use the terms “web” and “internet” interchangeably as they are very closely linked to each other, even though they are, in fact, two different things. In order to help you understand the crucial differences between the two, watch these two informative and humorous videos: 
--	“What is the world wide web? – Twila Camp” from TED-Ed (2014) (https://www.youtube.com/watch?v=J8hzJxb0rpc) (3.50 mins)
--	“The Web Is Not The Net” by VSauce (2014) (https://youtu.be/scWj1BMRHUA?t=34), only from 00:34 to 05:04
+In this sub-assignment, you will explore the history of the Internet Archive, a non-profit organisation that was established by computer engineer Brewster Kahle in 1996 with the objective of creating a complete digital record of the past. It is mentioned in the clip for this lesson, at minute 3:05, by engineer Lars Wieneke, when he explains how it is possible to retrieve “snapshots” of the David Boder website from 2000.
 
-After watching the video explanations from Twila Camp and VSauce, note the xxx most important differences between the internet and the web. 
+Taking into consideration that approximately 360-380 new websites were created *every minute* in 2020 (source – https://siteefy.com/how-many-websites-are-there/), Kahle has set himself a nearly impossible task. The way in which the Internet Archive’s Wayback Machine collects material from the web is by programming robots called web crawlers (https://en.wikipedia.org/wiki/Web_crawler) in such a way that they take “snapshots” of certain web pages at specific points in time. These snapshots are not screenshots; they allow users to navigate the web of the past in an interactive manner, although they only yield a selection of web pages rather than the entire history of a website. The scale of what is nonetheless archived remains quite impressive, especially bearing in mind that the number of pages on the live web is currently around 6 billion (https://www.worldwidewebsize.com/), while the Internet Archive Wayback Machine provides access to more than 480 billion archived web pages (as of November 2020). Additionally, the Internet Archive is no longer the only organisation that archives the web. Institutions at the national level (mostly national libraries) in Ireland, Denmark, Luxembourg, Switzerland, Portugal, France and the United Kingdom, to name but a few, curate web content that is relevant for their country. The latter two countries have even included web archives as a category in their [legal deposits](https://en.wikipedia.org/wiki/Legal_deposit), meaning that web pages related to their citizens or state are considered as publications that are vital for records of the countries’ official history.
 
-
-|enter your answers in the answer form|
-|------------------------|
-
-
-To connect the differences between the web and the internet to your own use of both, here is a list of common things that people do with their smartphones or computers for which they need the internet and/or the web. Put a cross in the right column(s).  
+To familiarise yourself with the Internet Archive Wayback Machine, read this short web page (https://help.archive.org/hc/en-us/articles/360004716091-Wayback-Machine-General-Information) and answer the following questions:
+-	What is the difference between the Internet Archive and the Wayback Machine?
+-	What is the criterion for web pages to be collected by the Wayback Machine? 
+-	Who can access the information available on the Wayback Machine?
+-	What organisations does the IA work with and what is the rationale behind the collaboration? 
 
 
-| | Common things done on a computer/smartphone | Uses the internet but not the web | Uses both the internet and the web | 
-| Searching for a picture on Google	|  |  |  |  
-| Using Skype for a video call |  |  |  |  
-| Checking email with an application |  |  |  |  
-| Looking at your Facebook or Instagram feed on a web browser|  |  |  |  
-| Sharing a file with someone via a peer-to-peer file network |  |  |  |  
-| Downloading a file from a website |  |  |  |  
-| Making a call via FaceTime |  |  |  |  
 
+
+
+
+
+
+Next, read this PDF that gives an explanation of the Wayback Machine interface using the example of Google’s home page and answer the following questions about the interface. We recommend that you use the PDF as a “cheat sheet” to help you complete the rest of this assignment.
+-	Do you search for snapshots (saved versions) of a web page in the Wayback Machine with key terms or with a specific URL?
+-	What are the benefits and disadvantages of the Wayback Machine’s system of finding past saved versions of a web page?
+-	Where can you find the number of times a particular URL has been saved in the Wayback Machine? 
+-	What information can you tell about a snapshot just by looking at its URL?
+-	How can you find out which organisation or robot performed the crawl for the snapshot you are looking at?
+
+
+
+
+
+
+
+2.c The original ambitions of the Wayback Machine compared to later thoughts
+As a historian it is vital to place a resource such as the Wayback Machine in a historical context. Idealism and belief in the democratising power of technology lie at the heart of the creation of this resource. To understand this more clearly, watch these three video segments from a 2011 presentation by Brewster Kahle to the Long Now Foundation (https://archive.org/details/brewsterkahlelongnowfoundation).
+1.	The objectives of the Internet Archive as a foundation (9:36 - 12:30)
+2.	How the Wayback Machine is used to preserve the web (40:55 - 44:39)
+3.	The preservation strategies pursued by the Internet Archive and the Wayback Machine (45:41 - 50:20)
+ 
+Now answer the following questions (with additional web research if needed): 
+-	What was the Library of Alexandria?
+-	How would you describe Brewster Kahle’s idea of “universal access to all knowledge” in your own words?
+-	What is the value of preserving web pages for a historian? 
+-	Why are there multiple physical locations for the digital archives of the Internet Archive?
+
+
+Now compare the narrative in the passages you watched from 2011 with the discourse adopted in the opening keynote talk by Brewster Kahle in 2019 at the Charleston Conference (https://youtu.be/bA67X9y-ozc?t=209 from 3:29 to 12:22) and answer the following questions:
+-	What strikes you as different?
+-	In your opinion, why might Kahle’s idea have changed?
+-	Do you think this collaboration with Wikipedia is a good direction for the Internet Archive and the Wayback Machine to go in? Why or why not?
 <!-- section -->
 
