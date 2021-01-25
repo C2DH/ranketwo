@@ -1,1 +1,16 @@
-
+---
+layout: assignment
+unit: webarchives
+lang: en
+title: "The archived web for historians "
+cover:
+tags:
+  -  web archiving
+  -  the internet archive
+outcomes:
+  - Learn how to apply digital source criticism to websites 
+  - Learn about the Internet Archie and how to use the Wayback Machine
+documents:
+  - 
+order: 1
+---
