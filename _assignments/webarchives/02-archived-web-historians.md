@@ -70,10 +70,10 @@ Next, read this PDF that gives an explanation of the Wayback Machine interface u
 -	What information can you tell about a snapshot just by looking at its URL?
 -	How can you find out which organisation or robot performed the crawl for the snapshot you are looking at?
 
-<!-- section contents -->
+<!-- section -->
 
 ### 2.c The original ambitions of the Wayback Machine compared to later thoughts
-<!-- section- -->
+<!-- section-contents -->
 As a historian it is vital to place a resource such as the Wayback Machine in a historical context. Idealism and belief in the democratising power of technology lie at the heart of the creation of this resource. To understand this more clearly, watch these three video segments from a 2011 presentation by Brewster Kahle to the Long Now Foundation (https://archive.org/details/brewsterkahlelongnowfoundation).
 1.	The objectives of the Internet Archive as a foundation (9:36 - 12:30)
 2.	How the Wayback Machine is used to preserve the web (40:55 - 44:39)
@@ -92,7 +92,7 @@ Now compare the narrative in the passages you watched from 2011 with the discour
 -	Do you think this collaboration with Wikipedia is a good direction for the Internet Archive and the Wayback Machine to go in? Why or why not?
 <!-- section -->
 
-###2.d Explore how the web pages of Google and YouTube have been preserved
+### 2.d Explore how the web pages of Google and YouTube have been preserved
 <!-- section-contents -->
 Finally, it is time for you to explore the Internet Archive’s web archiving tool, the Wayback Machine, yourself. While doing this assignment, keep in mind that owing to the sheer amount of data saved in its archives (over 25 petabytes or 25 million gigabytes as of 2018 – source https://thehustle.co/inside-wayback-machine-internet-archive), the WM can sometimes take a little longer to load than the web pages you might be used to. Sometimes you need to refresh a page once or twice to get it to load properly.
 
