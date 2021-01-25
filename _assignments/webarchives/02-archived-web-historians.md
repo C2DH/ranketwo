@@ -63,12 +63,6 @@ To familiarise yourself with the Internet Archive Wayback Machine, read this sho
 -	What organisations does the IA work with and what is the rationale behind the collaboration? 
 
 
-
-
-
-
-
-
 Next, read this PDF that gives an explanation of the Wayback Machine interface using the example of Google’s home page and answer the following questions about the interface. We recommend that you use the PDF as a “cheat sheet” to help you complete the rest of this assignment.
 -	Do you search for snapshots (saved versions) of a web page in the Wayback Machine with key terms or with a specific URL?
 -	What are the benefits and disadvantages of the Wayback Machine’s system of finding past saved versions of a web page?
@@ -76,13 +70,10 @@ Next, read this PDF that gives an explanation of the Wayback Machine interface u
 -	What information can you tell about a snapshot just by looking at its URL?
 -	How can you find out which organisation or robot performed the crawl for the snapshot you are looking at?
 
+<!-- section contents -->
 
-
-
-
-
-
-2.c The original ambitions of the Wayback Machine compared to later thoughts
+### 2.c The original ambitions of the Wayback Machine compared to later thoughts
+<!-- section- -->
 As a historian it is vital to place a resource such as the Wayback Machine in a historical context. Idealism and belief in the democratising power of technology lie at the heart of the creation of this resource. To understand this more clearly, watch these three video segments from a 2011 presentation by Brewster Kahle to the Long Now Foundation (https://archive.org/details/brewsterkahlelongnowfoundation).
 1.	The objectives of the Internet Archive as a foundation (9:36 - 12:30)
 2.	How the Wayback Machine is used to preserve the web (40:55 - 44:39)
@@ -108,7 +99,6 @@ Finally, it is time for you to explore the Internet Archive’s web archiving to
 First, go to the Wayback Machine (https://web.archive.org/) and search for Google’s home page by entering the URL https://www.google.com/ in the search box. The query should look like this: https://web.archive.org/web/*/https://www.google.com/ 
 
 Have a look at the note under the red button marked “Calendar”. How many captures of the web page at this URL have been made and over what period?
-
 
 
 Now, below the information that gives you the number of captures of the URL that have been made but above the calendar view of the past 12 months, scroll through the chronological bar graph showing all the years the URL has been saved. Find and click on the very first year that this web page was saved and then search for the month in which the very first snapshot was made. Finally, click on that first snapshot of Google saved by the Wayback Machine. 
@@ -150,8 +140,10 @@ Notes about privacy
 Notes about copyright 		
 
 Would the Wayback Machine be useful to you if you wanted to know whether the character of the uploaded material on YouTube has changed between 2005 and 2010?
+<!-- section -->
 
-Reading/viewing suggestions
+### Reading/viewing suggestions
+<!-- section-contents -->
 -	[*Using Web Archives in Research: An Introduction* by Janne Nielsen (Aarhus: NetLab, 2016)](http://www.netlab.dk/wp-content/uploads/2016/10/Nielsen_Using_Web_Archives_in_Research.pdf)
 -	[*The Web as History: Using Web Archives to Understand the Past and the Present* edited by Niels Brügger and Ralph Schroeder (London: UCL Press, 2017)](https://discovery.ucl.ac.uk/id/eprint/1542998/1/The-Web-as-History.pdf)
 -	[“How Many Websites Are There Around The World?” by Nick Huss from siteefy (2020)](https://siteefy.com/how-many-websites-are-there/)
