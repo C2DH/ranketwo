@@ -1,4 +1,19 @@
-
+---
+layout: assignment
+unit: webarchives
+lang: en
+title: "The web and its technologie"
+cover:
+tags:
+  -  web technology
+  -  the history of the web
+outcomes:
+  - Understand the basics of web technology  
+  - Understanding how to deal with web archives 
+documents:
+  - 
+order: 1
+---
 <!-- more -->
 
 <!-- briefing-student -->
