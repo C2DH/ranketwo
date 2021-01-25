@@ -60,16 +60,6 @@ After watching the video explanations from Twila Camp and VSauce, note the xxx m
 To connect the differences between the web and the internet to your own use of both, here is a list of common things that people do with their smartphones or computers for which they need the internet and/or the web. Put a cross in the right column(s).  
 
 
-
-
-| | resource 1 | resource 2 |
-| Type of article (event, opinion, human interest)| | |
-| Does the collection cover the years in which the Spanish flu spread in Europe? |  |  |
-| Are there peaks in news coverage? |  |  | 
-| Is there a dominant frame?|  |  |
-| Are there specific features in the interface that limit your search output?| |  |
-
-
 | | Common things done on a computer/smartphone | Uses the internet but not the web | Uses both the internet and the web | 
 | Searching for a picture on Google	|  |  |  |  
 | Using Skype for a video call |  |  |  |  
