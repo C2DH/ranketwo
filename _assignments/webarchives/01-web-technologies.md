@@ -23,8 +23,6 @@ Understanding the changes brought about by software such as Flash Player and lan
 <!-- section-contents -->
 
 
-<!-- section -->
-
 ### 1.a The history of the web and the technology behind it | ? Min
 <!-- section-contents -->
 
@@ -67,11 +65,10 @@ To connect the differences between the web and the internet to your own use of b
 | Downloading a file from a website |  |  |  |  
 | Making a call via FaceTime |  |  |  |  
 
-
-
 <!-- section -->
 
 ### 1.c 
+<!-- section-contents -->
 
 Even if we understand the principles, history and evolution of the internet and the web, it can still be hard to fully grasp the materiality of our information systems. Where do we find tangible traces of the internet in our environment and what do they look like?
 Despite frequent references to “the cloud” and “cyberspace” and the widespread use of WiFi (all of which contribute to the belief that the web and the internet are intangible and transparent), the internet in fact consists of highly tangible elements. For an introduction to how the internet works, watch this TED lecture by Andrew Blum: “What is the Internet, really?” (2012) (https://youtu.be/XE_FPEFpHt4) (12 mins).
@@ -83,9 +80,10 @@ Now take a look at this “Submarine Cable Map 2015” by Telegeography (https:/
 The map looks old but it was created in 2015. 
 -	Where do you notice the highest and lowest concentration of cables? What does this suggest with regard to power and control in world politics? 
 -	Conduct some additional web research and find out how many undersea cables have been built since and now exist in total (don’t forget to cite your source).
-
+<!-- section -->
 
 ### 1.d Information systems and power 
+<!-- section-contents -->
 
 The placement of underwater cables is not random; it is heavily influenced by history. New communication systems are generally rooted in the infrastructures of previous systems. These developments do not only reflect progress in technology, they are also an expression of power relations. It matters a lot who is connected to whom as well as who pays for and controls information systems. Watch these two videos and then answer the essay question below:
 
@@ -105,7 +103,6 @@ Write a short essay of 500 words in which you incorporate the answers to the fol
 
 <!-- section -->
 
-
 ### Reading/viewing suggestions
 <!-- section-contents -->
 
@@ -117,6 +114,6 @@ Write a short essay of 500 words in which you incorporate the answers to the fol
 -	Tim Berners-Lee’s first proposal for the web from March 1989: “Information Management: A Proposal”
 -	“A Short History of the Web” at CERN (date unknown): https://home.cern/science/computing/birth-web/short-history-web
 -	“What is a web browser?” by Treehouse (May 2019) (https://www.youtube.com/watch?v=QzohDuGk4mM&)
-
+<!-- section -->
 
 <!-- briefing-teacher --
