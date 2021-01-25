@@ -54,7 +54,7 @@ Most people use the terms “web” and “internet” interchangeably as they a
 
 After watching the video explanations from Twila Camp and VSauce, note the xxx most important differences between the internet and the web. 
 
-{:.table.border.table-sm.text-bold-highlight}
+
 ||
 |------------------------|
 
