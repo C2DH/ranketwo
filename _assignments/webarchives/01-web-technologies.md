@@ -95,7 +95,7 @@ Write a short essay of 500 words in which you incorporate the answers to the fol
 
 |enter your answers in the answer form|
 |------------------------|
-|------------------------|
+
 
 <!-- section -->
 
@@ -112,4 +112,4 @@ Write a short essay of 500 words in which you incorporate the answers to the fol
 -	“What is a web browser?” by Treehouse (May 2019) (https://www.youtube.com/watch?v=QzohDuGk4mM&)
 <!-- section -->
 
-<!-- briefing-teacher --
+
