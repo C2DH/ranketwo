@@ -31,33 +31,35 @@ For this assignment we will use the Wayback Machine and our corresponding “che
 Open the Internet Archive’s Wayback Machine (https://archive.org/web/) in two different tabs. In the first tab, search for the snapshots of the European Court of Justice (ECJ) using the URL of its home page: https://curia.europa.eu/. In the second tab, search for the snapshots of the European Institute for Gender Equality (EIGE) using the URL of its home page: https://eige.europa.eu/. Then, using the web archives and any additional web research needed, complete the table below:
 
 
-	European Court of Justice	European Institute for Gender Equality
-Overview
-In what year was it founded?
-(if necessary make use of Wikipedia)		
-What is the mission of the agency?		
-Older archived web pages
-What are the first archived web pages that you can find with the Wayback Machine?
+| |European Court of Justice |	European Institute for Gender Equality |
+| Overview |
+| In what year was it founded?
+(if necessary make use of Wikipedia) |		
+| What is the mission of the agency? |		
+| Older archived web pages |
+| What are the first archived web pages that you can find with the Wayback Machine?
 What year and what date?
-In what language(s)?		
-What are the titles of the different pages of the website? Does the structure make sense to you? 		
-With the oldest archived web page available, try and find the page that gives the best overview of what the website contains and share the heading and the link of that page (often this is the home page, but not always)		
-Is there a search function that gives access to one or more databases?
-What do these databases contain?		
-Can you upload or download content? 		
-The most recent archived versions of the websites (this year)
-Reflect on the changes that you can identify between the first and the last archived website of the respective EU institutions		
-Do the changes reflect a different course that the agency took during this period? This could be:
+In what language(s)? |		
+| What are the titles of the different pages of the website? Does the structure make sense to you? |		
+| With the oldest archived web page available, try and find the page that gives the best overview of what the website contains and share the heading and the link of that page (often this is the home page, but not always) |		
+| Is there a search function that gives access to one or more databases? 
+What do these databases contain? |		
+| Can you upload or download content? |		
+| The most recent archived versions of the websites (this year) |
+| Reflect on the changes that you can identify between the first and the last archived website of the respective EU institutions |		
+| Do the changes reflect a different course that the agency took during this period? This could be:
 -	expanding its mission and/or services
 -	merging with other agencies or moving its premises to cut costs
--	adjusting its policies to adapt to new countries joining the EU		
-Do the changes consist of a more modern design and/or an increase in functionalities?
+-	adjusting its policies to adapt to new countries joining the EU	|	
+| Do the changes consist of a more modern design and/or an increase in functionalities?
 This could be :
 -	from static to interactive
 -	providing access to databases with search functionalities 
 -	moving from face-to-face to online services
 -	offering streaming services  
--	providing a web design that is responsive to tablets and smartphones 		
+-	providing a web design that is responsive to tablets and smartphones |
+
+| use the answer form to write down the answers |
 
 <!-- section -->
 
@@ -73,6 +75,8 @@ Take into consideration the following:
 -	The information in the blog “The History of Website Design: 28 Years of Building the Web” by Ryan Shelley (2019, https://www.smamarketing.net/blog/the-history-of-website-design) as well as the clip “The History of Web Design in 2 Min Flat” (https://www.youtube.com/watch?v=wJB0vnOyYmk&ab) about how web design has evolved
 -	The information in this chronological graph on the growth of the web from Internet Live Stats: https://www.internetlivestats.com/total-number-of-websites/ 
 -	And the information in the Wikipedia article “Website” about how different types of websites have evolved over time: https://en.wikipedia.org/wiki/Website#Overview
+
+| write the essay in your answer form |
 
 <!-- section -->
 
