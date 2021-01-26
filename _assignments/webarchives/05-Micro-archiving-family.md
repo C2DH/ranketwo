@@ -22,15 +22,15 @@ As creating websites has become increasingly easy for people without a technolog
 <!-- section-contents -->
 
 One of the southern regions in the Netherlands, Limburg, used to be known for its coal mines. These were all closed down at the end of the 1960s, when much cheaper gas resources were found in the north of the Netherlands. The whole culture around coal miners was an important marker for the regional history of Limburg. This is the context in which Roy Simons – aged just 10 – started to document all the objects and stories that his grandfather had preserved about his life working in the mines. By 2012, at the age of 16, Roy had put together the website Mijn Museum – De Beukel (Mine Museum – The Beukel), which looked like this: https://web.archive.org/web/20061213192809/http://www.webklik.nl/index.php (this is a link to Roy’s website, which was created using a template provided by Webklik).
-[image uploaden]
+[image uploaden de Beukel]
 
 Roy ended up winning the history online award for historical websites, initiated by the online history magazine Historiek. 
 
-[image uploaden]
+[image uploaden Historiek]
 
 While it was an excellent website, Roy’s website is an example of how these types of sites run the risk of disappearing over time. He succeeded in creating his website by making use of one of the first free website services in the Netherlands, Webklik. 
 
-[image]
+[image webklik]
 
 But this service did not last and all the content was moved to a service called Weebly. 
 
@@ -38,7 +38,7 @@ The last snapshot made by the Wayback Machine with webklik is on 10 September 20
 
 The first mention with the URL weebly is on 6 January 2015 https://web.archive.org/web/20151206030556/http://mijnbouw.weebly.com/
 
-[image]
+[image de Beukel2]
 
 This is still the URL where the website can be found at present (http://mijnbouw.weebly.com), but the *appearance* of the site has completely changed. The home page does not have a personal welcome message and the multiple photos of a coal miner with a helmet and a drill are omitted. All references to Roy Simons and his grandfather are taken out. The “De Beukel collection” is now the entity that is central to the presentation, and no mention is made of a person or relative.  
 
