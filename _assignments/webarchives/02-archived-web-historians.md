@@ -80,9 +80,6 @@ Next, read this PDF [cit](wayback-machine-interface) that gives an explanation o
 -	What information can you tell about a snapshot just by looking at its URL?
 -	How can you find out which organisation or robot performed the crawl for the snapshot you are looking at?
 
-[Wayback machine interface](../../assets/pdf/wayback-machine-interface.pdf){:target="_blank"}
-[cit]ranketwo/assets/pdf/wayback-machine-interface.pdf
-
 
 {:style="width: 100%"}
 | |
