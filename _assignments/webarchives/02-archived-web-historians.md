@@ -75,7 +75,7 @@ Next, read this PDF that gives an explanation of the Wayback Machine interface u
 -	What information can you tell about a snapshot just by looking at its URL?
 -	How can you find out which organisation or robot performed the crawl for the snapshot you are looking at?
 
-link to PDF
+ranketwo/assets/pdf/Wayback Machine Interface - 17-12-2020.pdf
 
 | use the answer form to write down the answers |
 
