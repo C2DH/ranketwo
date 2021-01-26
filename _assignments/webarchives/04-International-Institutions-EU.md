@@ -33,17 +33,13 @@ Open the Internet Archive’s Wayback Machine (https://archive.org/web/) in two 
 
 | |European Court of Justice |	European Institute for Gender Equality |
 | Overview |
-| In what year was it founded?
-(if necessary make use of Wikipedia) |		
+| In what year was it founded?(if necessary make use of Wikipedia) |		
 | What is the mission of the agency? |		
 | Older archived web pages |
-| What are the first archived web pages that you can find with the Wayback Machine?
-What year and what date?
-In what language(s)? |		
+| What are the first archived web pages that you can find with the Wayback Machine?What year and what date?In what language(s)? |		
 | What are the titles of the different pages of the website? Does the structure make sense to you? |		
 | With the oldest archived web page available, try and find the page that gives the best overview of what the website contains and share the heading and the link of that page (often this is the home page, but not always) |		
-| Is there a search function that gives access to one or more databases? 
-What do these databases contain? |		
+| Is there a search function that gives access to one or more databases? What do these databases contain? |		
 | Can you upload or download content? |		
 | The most recent archived versions of the websites (this year) |
 | Reflect on the changes that you can identify between the first and the last archived website of the respective EU institutions |		
