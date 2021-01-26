@@ -145,7 +145,7 @@ Take a screenshot of this first snapshot. Then try to click on the tabs in this 
 
 Now, go back to your calendar view of all the times that YouTube has been saved by the Wayback Machine. Click on a snapshot from 10 years after the first snapshot was made and take a screenshot of the snapshot. Complete the table below indicating differences between the features of YouTube in 2005 and 2015. Note: if you don’t find the information below in the snapshots, conduct additional research and note which other source(s) you consulted to find the information.
 
-| | Year | 	2005 | 2015 |
+| | 2005 | 2015 |
 | Your screenshot |		
 | Design | 		
 | Navigation links at the top |		
@@ -155,6 +155,8 @@ Now, go back to your calendar view of all the times that YouTube has been saved 
 | Notes about copyright |		
 
 Would the Wayback Machine be useful to you if you wanted to know whether the character of the uploaded material on YouTube has changed between 2005 and 2010?
+
+| use the answer form to complete the table and write down your answers |
 <!-- section -->
 
 ### Reading/viewing suggestions
