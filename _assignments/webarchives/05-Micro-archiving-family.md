@@ -22,6 +22,9 @@ As creating websites has become increasingly easy for people without a technolog
 <!-- section-contents -->
 
 One of the southern regions in the Netherlands, Limburg, used to be known for its coal mines. These were all closed down at the end of the 1960s, when much cheaper gas resources were found in the north of the Netherlands. The whole culture around coal miners was an important marker for the regional history of Limburg. This is the context in which Roy Simons – aged just 10 – started to document all the objects and stories that his grandfather had preserved about his life working in the mines. By 2012, at the age of 16, Roy had put together the website Mijn Museum – De Beukel (Mine Museum – The Beukel), which looked like this: https://web.archive.org/web/20061213192809/http://www.webklik.nl/index.php (this is a link to Roy’s website, which was created using a template provided by Webklik).
+
+![Roy's website](/../../assets/images/de Beukel.png)
+
 [image uploaden de Beukel]
 
 Roy ended up winning the history online award for historical websites, initiated by the online history magazine Historiek. 
