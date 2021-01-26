@@ -25,15 +25,16 @@ One of the southern regions in the Netherlands, Limburg, used to be known for it
 
 ![Roy's website](/../../assets/images/BeukelA.png)
 
-[image uploaden de Beukel]
+
 
 Roy ended up winning the history online award for historical websites, initiated by the online history magazine Historiek. 
 
-[image uploaden Historiek]
+![online history magazine Historiek](/../../assets/images/Hiestoriek.png)
 
 While it was an excellent website, Roy’s website is an example of how these types of sites run the risk of disappearing over time. He succeeded in creating his website by making use of one of the first free website services in the Netherlands, Webklik. 
 
-[image webklik]
+![webklik](/../../assets/images/webklik.png)
+
 
 But this service did not last and all the content was moved to a service called Weebly. 
 
@@ -41,7 +42,7 @@ The last snapshot made by the Wayback Machine with webklik is on 10 September 20
 
 The first mention with the URL weebly is on 6 January 2015 https://web.archive.org/web/20151206030556/http://mijnbouw.weebly.com/
 
-[image de Beukel2]
+![Roy's website](/../../assets/images/BeukelB.png)
 
 This is still the URL where the website can be found at present (http://mijnbouw.weebly.com), but the *appearance* of the site has completely changed. The home page does not have a personal welcome message and the multiple photos of a coal miner with a helmet and a drill are omitted. All references to Roy Simons and his grandfather are taken out. The “De Beukel collection” is now the entity that is central to the presentation, and no mention is made of a person or relative.  
 
