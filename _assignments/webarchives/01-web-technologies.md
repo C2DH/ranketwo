@@ -33,6 +33,9 @@ Now that you have some more information about the development of the web and abo
 -	What is the difference between a web server and a web browser?
 -	What is the main difference between Web 1.0, Web 2.0 and Web 3.0 technologies? 
 
+|enter your answers in the answer form|
+|------------------------|
+
 <!-- section -->
 
 ### 1.b The difference between the web and the internet
