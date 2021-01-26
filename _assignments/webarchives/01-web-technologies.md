@@ -48,7 +48,7 @@ Most people use the terms “web” and “internet” interchangeably as they a
 After watching the video explanations from Twila Camp and VSauce, note the xxx most important differences between the internet and the web. 
 
 
-| | enter your answers in the answer form |
+| enter your answers in the answer form |
 
 
 
@@ -79,6 +79,8 @@ Now take a look at this “Submarine Cable Map 2015” by Telegeography (https:/
 The map looks old but it was created in 2015. 
 -	Where do you notice the highest and lowest concentration of cables? What does this suggest with regard to power and control in world politics? 
 -	Conduct some additional web research and find out how many undersea cables have been built since and now exist in total (don’t forget to cite your source).
+
+| enter your answers in the answer form |
 <!-- section -->
 
 ### 1.d Information systems and power 
@@ -96,8 +98,7 @@ Write a short essay of 500 words in which you incorporate the answers to the fol
 -	Who was the owner of these systems in the 19th century, and who owns the cables that are laid out to connect us with the internet worldwide? What are the implications of this ownership for freedom of information?
 
 
-|enter your answers in the answer form|
-|------------------------|
+| use the answer form|
 
 
 <!-- section -->
