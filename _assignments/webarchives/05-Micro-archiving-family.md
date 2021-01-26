@@ -29,7 +29,7 @@ One of the southern regions in the Netherlands, Limburg, used to be known for it
 
 Roy ended up winning the history online award for historical websites, initiated by the online history magazine Historiek. 
 
-![online history magazine Historiek](/../../assets/images/Hiestoriek.png)
+![online history magazine Historiek](/../../assets/images/Historiek.png)
 
 While it was an excellent website, Roy’s website is an example of how these types of sites run the risk of disappearing over time. He succeeded in creating his website by making use of one of the first free website services in the Netherlands, Webklik. 
 
