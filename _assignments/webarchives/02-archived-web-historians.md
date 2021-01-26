@@ -7,7 +7,7 @@ cover:
 tags:
   -  web archives
   -  the Internet Archive
-documents:
+documents: wayback-machine-interface
 outcomes:
   - Understand the basics of web archiving 
   - Understanding the policies and complexities of webarchiving
