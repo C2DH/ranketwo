@@ -16,7 +16,13 @@ In the clip above, engineer Lars Wieneke explains how over time web technologies
 Understanding the changes brought about by software such as Flash Player and languages such as XML (Extensible Markup Language) and PHP (Hypertext Preprocessor) is crucial in being able to apply source criticism to a website. However, as historians we should first place the topic into its historical context: how did websites evolve in the first place and what technologies were needed to make them work?
 These assignments will briefly explore the history of the web and the technological developments that make it work. They will then dive into the differences between the web and the internet, before discussing the physical infrastructure that allows the world to be globally connected.
 
-[card](slices-of-time)
+
+[![alt text](http://example.com/exampl.png)](http://example.com/link "title")
+
+https://webfoundation.org/about/vision/history-of-the-web/
+BernersLee.png
+
+[![history of the web](https://webfoundation.org/about/vision/history-of-the-web//BernersLee.png)](http://https://webfoundation.org/about/vision/history-of-the-web//link "history of the web")
 
 <!-- more -->
 
