@@ -7,7 +7,8 @@ cover:
 tags:
   -  web archives
   -  the Internet Archive
-documents: wayback-machine-interface
+documents: 
+- wayback-machine-interface
 outcomes:
   - Understand the basics of web archiving 
   - Understanding the policies and complexities of webarchiving
@@ -65,10 +66,10 @@ To familiarise yourself with the Internet Archive Wayback Machine, read this sho
 -	What is the criterion for web pages to be collected by the Wayback Machine? 
 -	Who can access the information available on the Wayback Machine?
 -	What organisations does the IA work with and what is the rationale behind the collaboration? 
-
+ 
 | use the answer form to write down the answers |
 
-Next, read this PDF that gives an explanation of the Wayback Machine interface using the example of Google’s home page and answer the following questions about the interface. We recommend that you use the PDF as a “cheat sheet” to help you complete the rest of this assignment.
+Next, read this PDF [cit](wayback-machine-interface) that gives an explanation of the Wayback Machine interface using the example of Google’s home page and answer the following questions about the interface. We recommend that you use the PDF as a “cheat sheet” to help you complete the rest of this assignment.
 -	Do you search for snapshots (saved versions) of a web page in the Wayback Machine with key terms or with a specific URL?
 -	What are the benefits and disadvantages of the Wayback Machine’s system of finding past saved versions of a web page?
 -	Where can you find the number of times a particular URL has been saved in the Wayback Machine? 
@@ -76,6 +77,7 @@ Next, read this PDF that gives an explanation of the Wayback Machine interface u
 -	How can you find out which organisation or robot performed the crawl for the snapshot you are looking at?
 
 [cit]ranketwo/assets/pdf/wayback-machine-interface.pdf
+
 
 | use the answer form to write down the answers |
 
