@@ -31,7 +31,7 @@ For this assignment we will use the Wayback Machine and our corresponding “che
 Open the Internet Archive’s Wayback Machine (https://archive.org/web/) in two different tabs. In the first tab, search for the snapshots of the European Court of Justice (ECJ) using the URL of its home page: https://curia.europa.eu/. In the second tab, search for the snapshots of the European Institute for Gender Equality (EIGE) using the URL of its home page: https://eige.europa.eu/. Then, using the web archives and any additional web research needed, complete the table below:
 
 
-| |European Court of Justice |	European Institute for Gender Equality |
+| European Court of Justice |	European Institute for Gender Equality |
 | Overview |
 | In what year was it founded?(if necessary make use of Wikipedia) |		
 | What is the mission of the agency? |		
