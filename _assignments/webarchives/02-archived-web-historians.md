@@ -40,12 +40,16 @@ Questions:
 -	What are some challenges associated with web archiving? 
 -	Imagine yourself in a future professional role (not necessarily a historian): in what kind of situation would knowledge about web archiving be useful?
 
+| use the answer form to write down the answers |
+
 Now that you have some knowledge about what web archives are, read the hypothetical example below and answer the questions that follow.
 
 Hypothetical example: You visit a small website that has information about the recent matches of a local football team on Tuesday 11 February. You look for the score of the most recent match and are able to find the information you are searching for. On Wednesday 12 February, you try to access the website again to show the score to your friend, but the website looks completely different. You eventually find the information but it’s on a different page on the website and it takes you more time to find it than before. When you visit the website a third time on Friday 14 February to check the results of the latest match, you discover that you can’t access the website at all, no matter how many times you refresh the page or which browser you use.
 
 -	What are some potential reasons why the website changed and then disappeared between the different dates that you accessed it?
 -	How might you go about trying to recover the information you remember seeing but can no longer access? 
+
+| use the answer form to write down the answers |
 
 <!-- section -->
 
@@ -62,6 +66,7 @@ To familiarise yourself with the Internet Archive Wayback Machine, read this sho
 -	Who can access the information available on the Wayback Machine?
 -	What organisations does the IA work with and what is the rationale behind the collaboration? 
 
+| use the answer form to write down the answers |
 
 Next, read this PDF that gives an explanation of the Wayback Machine interface using the example of Google’s home page and answer the following questions about the interface. We recommend that you use the PDF as a “cheat sheet” to help you complete the rest of this assignment.
 -	Do you search for snapshots (saved versions) of a web page in the Wayback Machine with key terms or with a specific URL?
@@ -69,6 +74,10 @@ Next, read this PDF that gives an explanation of the Wayback Machine interface u
 -	Where can you find the number of times a particular URL has been saved in the Wayback Machine? 
 -	What information can you tell about a snapshot just by looking at its URL?
 -	How can you find out which organisation or robot performed the crawl for the snapshot you are looking at?
+
+link to PDF
+
+| use the answer form to write down the answers |
 
 <!-- section -->
 
@@ -85,11 +94,13 @@ Now answer the following questions (with additional web research if needed):
 -	What is the value of preserving web pages for a historian? 
 -	Why are there multiple physical locations for the digital archives of the Internet Archive?
 
+| use the answer form to write down the answers |
 
 Now compare the narrative in the passages you watched from 2011 with the discourse adopted in the opening keynote talk by Brewster Kahle in 2019 at the Charleston Conference (https://youtu.be/bA67X9y-ozc?t=209 from 3:29 to 12:22) and answer the following questions:
 -	What strikes you as different?
 -	In your opinion, why might Kahle’s idea have changed?
 -	Do you think this collaboration with Wikipedia is a good direction for the Internet Archive and the Wayback Machine to go in? Why or why not?
+| use the answer form to write down the answers |
 <!-- section -->
 
 ### 2.d Explore how the web pages of Google and YouTube have been preserved
@@ -100,44 +111,48 @@ First, go to the Wayback Machine (https://web.archive.org/) and search for Googl
 
 Have a look at the note under the red button marked “Calendar”. How many captures of the web page at this URL have been made and over what period?
 
+| use the answer form to write down the answers |
 
 Now, below the information that gives you the number of captures of the URL that have been made but above the calendar view of the past 12 months, scroll through the chronological bar graph showing all the years the URL has been saved. Find and click on the very first year that this web page was saved and then search for the month in which the very first snapshot was made. Finally, click on that first snapshot of Google saved by the Wayback Machine. 
 
 Think about some of the classic questions that you would ask of any historical source: Who created this? When did they create it? Why did they create it? How did they create it? What was their purpose in creating it? How was it used at the time? How did it look at the time compared to other similar sources? 
 -	Using the PDF “cheat sheet” as a guide, answer the classic historical source criticism questions above and feel free to add any others you can think of. 
 
-Who created this? - 
-When did they create it? - 
-Why did they create it? - 
-How did they create it? - 
-What was their purpose in creating it? - 
-How was it used at the time? - 
-How did it look at the time compared to other similar sources? - 
+| Who created this? |  
+| When did they create it?|
+| Why did they create it? | 
+| How did they create it? | 
+| What was their purpose in creating it? | 
+| How was it used at the time? |
+| How did it look at the time compared to other similar sources? | 
+
+| use the answer form to write down the answers |
 
 Next, go to the next saved date of the Google home page (it should be in the following month) and click on the snapshot. Explore the content of the page and its hyperlinks to find out the purpose of the company and the reason they choose the name “Google”.
 
-Purpose - 
-Why the name “Google”? - 
+| Purpose | 
+| Why the name “Google”? | 
 
 Now go back to the current home page of the Wayback Machine (https://web.archive.org/) and search for YouTube’s home page using the URL https://www.youtube.com. Find the first saved snapshot available on the Wayback Machine, and click on the link. 
 -	What are your first impressions of YouTube’s then home page?
 
+| use the answer form to write down the answers |
 
 Take a screenshot of this first snapshot. Then try to click on the tabs in this snapshot (“favorites”, “messages”, “videos”). 
-
 -	What happens? What does this mean for using the Wayback Machine as a resource for archiving web pages?
 
+| use the answer form to write down the answers |
 
 Now, go back to your calendar view of all the times that YouTube has been saved by the Wayback Machine. Click on a snapshot from 10 years after the first snapshot was made and take a screenshot of the snapshot. Complete the table below indicating differences between the features of YouTube in 2005 and 2015. Note: if you don’t find the information below in the snapshots, conduct additional research and note which other source(s) you consulted to find the information.
 
-Year 	     2005	2015
-Your screenshot		
-Design 		
-Navigation links at the top		
-Information about the company 		
-What can be accessed		
-Notes about privacy 		
-Notes about copyright 		
+| | Year | 	2005 | 2015 |
+| Your screenshot |		
+| Design | 		
+| Navigation links at the top |		
+| Information about the company |		
+| What can be accessed |		
+| Notes about privacy | 		
+| Notes about copyright |		
 
 Would the Wayback Machine be useful to you if you wanted to know whether the character of the uploaded material on YouTube has changed between 2005 and 2010?
 <!-- section -->
