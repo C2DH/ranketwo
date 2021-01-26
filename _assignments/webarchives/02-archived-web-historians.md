@@ -100,7 +100,9 @@ Now compare the narrative in the passages you watched from 2011 with the discour
 -	What strikes you as different?
 -	In your opinion, why might Kahle’s idea have changed?
 -	Do you think this collaboration with Wikipedia is a good direction for the Internet Archive and the Wayback Machine to go in? Why or why not?
-| use the answer form to write down the answers |
+
+| use the answer form to write down your answers |
+
 <!-- section -->
 
 ### 2.d Explore how the web pages of Google and YouTube have been preserved
