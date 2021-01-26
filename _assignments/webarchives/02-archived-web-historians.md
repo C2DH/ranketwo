@@ -80,6 +80,7 @@ Next, read this PDF [cit](wayback-machine-interface) that gives an explanation o
 -	What information can you tell about a snapshot just by looking at its URL?
 -	How can you find out which organisation or robot performed the crawl for the snapshot you are looking at?
 
+[Wayback machine interface](../../assets/pdf/wayback-machine-interface.pdf){:target="_blank"}
 [cit]ranketwo/assets/pdf/wayback-machine-interface.pdf
 
 
@@ -180,4 +181,4 @@ Would the Wayback Machine be useful to you if you wanted to know whether the cha
 -	[“How Many Websites Are There Around The World?” by Nick Huss from siteefy (2020)](https://siteefy.com/how-many-websites-are-there/)
 -	[*Qu’est-ce qu’une archive du Web?* by Francesca Musiani et al. (Marseille: OpenEdition, 2019)](https://books.openedition.org/oep/8713)
 
-<!-- briefing-student -->
+<!-- briefing-teacher -->

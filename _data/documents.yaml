@@ -1685,6 +1685,12 @@
     url: 'https://doi.org/10.1093/llc/fqy048'
     _id: 04d6c6f7cdce4c7db9273c7c0ebd25c4
 -
+    title: 'Wayback machine interface'
+    slug: wayback-machine-interface
+    type: pdf
+    data: {}
+    attachment: '/assets/pdf/wayback-machine-interface.pdf'
+-
     title: The Metadata Librarian Explains Metadata
     slug: the-metadata-librarian-explains-metadata-video
     type: video
