@@ -23,16 +23,17 @@ As creating websites has become increasingly easy for people without a technolog
 
 One of the southern regions in the Netherlands, Limburg, used to be known for its coal mines. These were all closed down at the end of the 1960s, "Roy's website"when much cheaper gas resources were found in the north of the Netherlands. The whole culture around coal miners was an important marker for the regional history of Limburg. This is the context in which Roy Simons – aged just 10 – started to document all the objects and stories that his grandfather had preserved about his life working in the mines. By 2012, at the age of 16, Roy had put together the website Mijn Museum – De Beukel (Mine Museum – The Beukel), which looked like this: <https://web.archive.org/web/20061213192809/http://www.webklik.nl/index.php>{:target="_blank"} (this is a link to Roy’s website, which was created using a template provided by Webklik).
 
-![Roy's website](/../../assets/images/BeukelA.png "Roy's website")
-
+![Roy's website](/../../assets/images/BeukelB.png "Roy's website")
 
 
 Roy ended up winning the history online award for historical websites, initiated by the online history magazine Historiek.
 
+{:style="text-align:center"}
 ![online history magazine Historiek](/../../assets/images/Historiek.png "online history magazine Historiek")
 
 While it was an excellent website, Roy’s website is an example of how these types of sites run the risk of disappearing over time. He succeeded in creating his website by making use of one of the first free website services in the Netherlands, Webklik.
 
+{:style="text-align:center"}
 ![webklik](/../../assets/images/webklik.png "webklik")
 
 
@@ -42,7 +43,7 @@ The last snapshot made by the Wayback Machine with webklik is on 10 September 20
 
 The first mention with the URL weebly is on 6 January 2015 <https://web.archive.org/web/20151206030556/http://mijnbouw.weebly.com/>{:target="_blank"}
 
-![Roy's website](/../../assets/images/BeukelB.png "Roy's website")
+![Roy's website](/../../assets/images/BeukelA.png "Roy's website")
 
 This is still the URL where the website can be found at present (http://mijnbouw.weebly.com), but the *appearance* of the site has completely changed. The home page does not have a personal welcome message and the multiple photos of a coal miner with a helmet and a drill are omitted. All references to Roy Simons and his grandfather are taken out. The “De Beukel collection” is now the entity that is central to the presentation, and no mention is made of a person or relative.
 
