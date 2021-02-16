@@ -4,6 +4,7 @@ unit: webarchives
 lang: en
 title: "The web and its technologies"
 cover:
+documents: web-history-future
 tags:
   -  web technology
   -  the history of the web
