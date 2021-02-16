@@ -1,8 +1,8 @@
 -
-     title: 'the web, past and future'
-     slug: web-past-future
-     type: video
-     data:
+    title: 'the web, past and future'
+    slug: web-past-future
+    type: video
+    data:
           embed:
               author_url: 'https://youtu.be/4pjG1UfgWD8'
               thumbnail_height: 360
