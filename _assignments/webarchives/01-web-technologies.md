@@ -18,6 +18,9 @@ Understanding the changes brought about by software such as Flash Player and lan
 These assignments will briefly explore the history of the web and the technological developments that make it work. They will then dive into the differences between the web and the internet, before discussing the physical infrastructure that allows the world to be globally connected.
 
 
+[card](web-history-future)
+
+
 [![alt text](http://example.com/exampl.png)](http://example.com/link "title")
 
 https://webfoundation.org/about/vision/history-of-the-web/
