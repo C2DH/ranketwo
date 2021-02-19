@@ -1,4 +1,15 @@
 
+-     
+    title: 'Universal Access To All Knowledge'
+    slug: access-knowledge
+    type: video
+    data:
+        embed:
+            title: internet
+            author_name: Brewster Kahle
+            thumbnail_url: 'https://i3.ytimg.com/vi/brewsterkahlelongnowfoundation/default.jpg'
+        year: 2012
+    url: 'https://archive.org/details/brewsterkahlelongnowfoundation'
 
 -
     title: 'Thin underwater cables hold the internet'
