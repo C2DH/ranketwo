@@ -22,7 +22,7 @@ These assignments will briefly explore the history of the web and the technologi
 [card](web-past-future)
 
 
-Watch this 35 documentary created by the Web Foundation about how Tim Berners Lee created the world wide web. 
+Watch this 35 min documentary created by the Web Foundation about how Tim Berners Lee created the world wide web. 
 
 <!-- more -->
 
