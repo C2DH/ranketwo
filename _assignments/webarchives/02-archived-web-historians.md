@@ -32,9 +32,8 @@ The live web consists of any web page or website that you can access *at this ve
 For a basic understanding of what web archives are, start by reading three sections from the publication
  *Using Web Archives in Research: An Introduction* by Janne Nielsen (Aarhus: NetLab, 2016) (http://www.netlab.dk/wp-content/uploads/2016/10/Nielsen_Using_Web_Archives_in_Research.pdf)
 
-[![kahle servers](../../assets/images/kahle-servers.jpg "kahle servers")](http://www.netlab.dk/wp-content/uploads/2016/10/Nielsen_Using_Web_Archives_in_Research.pdf){:target="_blank"}
+[![nielsen](../../assets/images/nielsen.png "nielsen")](http://www.netlab.dk/wp-content/uploads/2016/10/Nielsen_Using_Web_Archives_in_Research.pdf){:target="_blank"}
 
-[![kahle servers](../../assets/images/kahle-servers.jpg "kahle servers")](http://www.netlab.dk/wp-content/uploads/2016/10/Nielsen_Using_Web_Archives_in_Research.pdf){:target="_blank"}
 
 Answer the questions below:
 1.	Section 1 “Introduction” (pp. 6-10)
@@ -69,7 +68,7 @@ In this sub-assignment, you will explore the history of the Internet Archive, a 
 
 Taking into consideration that approximately 360-380 new websites were created *every minute* in 2020 (source – https://siteefy.com/how-many-websites-are-there/), Kahle has set himself a nearly impossible task. The way in which the Internet Archive’s Wayback Machine collects material from the web is by programming robots called web crawlers (https://en.wikipedia.org/wiki/Web_crawler) in such a way that they take “snapshots” of certain web pages at specific points in time. These snapshots are not screenshots; they allow users to navigate the web of the past in an interactive manner, although they only yield a selection of web pages rather than the entire history of a website. The scale of what is nonetheless archived remains quite impressive, especially bearing in mind that the number of pages on the live web is currently around 6 billion (https://www.worldwidewebsize.com/), while the Internet Archive Wayback Machine provides access to more than 480 billion archived web pages (as of November 2020). Additionally, the Internet Archive is no longer the only organisation that archives the web. Institutions at the national level (mostly national libraries) in Ireland, Denmark, Luxembourg, Switzerland, Portugal, France and the United Kingdom, to name but a few, curate web content that is relevant for their country. The latter two countries have even included web archives as a category in their [legal deposits](https://en.wikipedia.org/wiki/Legal_deposit), meaning that web pages related to their citizens or state are considered as publications that are vital for records of the countries’ official history.
 
-[image server internet archive]
+[![kahle servers](../../assets/images/kahle-servers.jpg "kahle servers")](http://www.netlab.dk/wp-content/uploads/2016/10/Nielsen_Using_Web_Archives_in_Research.pdf){:target="_blank"}
 
 To familiarise yourself with the Internet Archive Wayback Machine, read this short web page (https://help.archive.org/hc/en-us/articles/360004716091-Wayback-Machine-General-Information) and answer the following questions:
 -	What is the difference between the Internet Archive and the Wayback Machine?
@@ -136,7 +135,7 @@ Finally, it is time for you to explore the Internet Archive’s web archiving to
 
 First, go to the Wayback Machine (https://web.archive.org/) and search for Google’s home page by entering the URL https://www.google.com/ in the search box. The query should look like this: https://web.archive.org/web/*/https://www.google.com/
 
-
+google
 
 
 Have a look at the note under the red button marked “Calendar”. How many captures of the web page at this URL have been made and over what period?
