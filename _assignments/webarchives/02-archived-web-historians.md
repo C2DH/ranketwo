@@ -36,7 +36,7 @@ For a basic understanding of what web archives are, start by reading three secti
 
 [![imate alt text](image url "image title")](link url){:target="_blank"}
 
-![kahle servers](/../../assets/images/kahle servers.png "kahle servers"](
+[![kahle servers](/../../assets/images/kahle servers.png "kahle servers")](https://github.com/C2DH/ranketwo/blob/master/assets/images/kahle%20servers.jpg){:target="_blank"}
 
 
  
