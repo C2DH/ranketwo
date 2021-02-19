@@ -135,7 +135,7 @@ Finally, it is time for you to explore the Internet Archive’s web archiving to
 First, go to the Wayback Machine (https://web.archive.org/) and search for Google’s home page by entering the URL https://www.google.com/ in the search box. The query should look like this: https://web.archive.org/web/*/https://www.google.com/
 
 google
-
+[![homepage-google](../../assets/images/homepage-google.png "homepage-google")](//https://web.archive.org/web/*/https://www.google.com){:target="_blank"}
 
 Have a look at the note under the red button marked “Calendar”. How many captures of the web page at this URL have been made and over what period?
 
