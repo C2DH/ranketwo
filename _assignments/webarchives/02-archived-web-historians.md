@@ -10,6 +10,7 @@ tags:
 documents:
 - wayback-machine-interface
 - access-knowledge
+- trust-truth
 outcomes:
   - Understand the basics of web archiving
   - Understanding the policies and complexities of webarchiving
@@ -114,7 +115,7 @@ Now answer the following questions (with additional web research if needed):
 
 Now compare the narrative in the passages you watched from 2011 with the discourse adopted in the opening keynote talk by Brewster Kahle in 2019 at the Charleston Conference (https://youtu.be/bA67X9y-ozc from 3:29 to 12:22) 
 
-[CARD] 
+[card](trust-truth)
 
 and answer the following questions:
 -	What strikes you as different?
