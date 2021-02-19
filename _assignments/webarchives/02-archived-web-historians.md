@@ -32,7 +32,7 @@ The live web consists of any web page or website that you can access *at this ve
 For a basic understanding of what web archives are, start by reading three sections from the publication
  *Using Web Archives in Research: An Introduction* by Janne Nielsen (Aarhus: NetLab, 2016) (http://www.netlab.dk/wp-content/uploads/2016/10/Nielsen_Using_Web_Archives_in_Research.pdf) 
  
-![kahle servers](kahle servers.png)
+! [kahle servers] (kahle servers.png)
  
 Answer the questions below:
 1.	Section 1 “Introduction” (pp. 6-10)
