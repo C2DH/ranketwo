@@ -35,6 +35,10 @@ For a basic understanding of what web archives are, start by reading three secti
 ![kahle servers](kahle servers.png)
 
 [![imate alt text](image url "image title")](link url){:target="_blank"}
+
+![kahle servers](/../../assets/images/kahle servers.png "kahle servers"](
+
+
  
 Answer the questions below:
 1.	Section 1 “Introduction” (pp. 6-10)
