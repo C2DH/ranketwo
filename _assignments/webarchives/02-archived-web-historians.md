@@ -9,6 +9,7 @@ tags:
   -  the Internet Archive
 documents:
 - wayback-machine-interface
+- access-knowledge
 outcomes:
   - Understand the basics of web archiving
   - Understanding the policies and complexities of webarchiving
@@ -58,6 +59,9 @@ Hypothetical example: You visit a small website that has information about the r
 <!-- section-contents -->
 
 In this sub-assignment, you will explore the history of the Internet Archive, a non-profit organisation that was established by computer engineer Brewster Kahle in 1996 with the objective of creating a complete digital record of the past. It is mentioned in the clip for this lesson, at minute 3:05, by engineer Lars Wieneke, when he explains how it is possible to retrieve “snapshots” of the David Boder website from 2000.
+
+[card](access-knowledge)
+Listen to Brewster Kahle's vision on the objective of the Internet Archive, at the event _Universal Access To All Knowledge_, organized by the Long Now Foundation on November 30th, 2011 in San Francisco. His talk is from min 9.05 min to 53.05 min. It is a long talk, but very informative about the need for webarchiving. 
 
 Taking into consideration that approximately 360-380 new websites were created *every minute* in 2020 (source – https://siteefy.com/how-many-websites-are-there/), Kahle has set himself a nearly impossible task. The way in which the Internet Archive’s Wayback Machine collects material from the web is by programming robots called web crawlers (https://en.wikipedia.org/wiki/Web_crawler) in such a way that they take “snapshots” of certain web pages at specific points in time. These snapshots are not screenshots; they allow users to navigate the web of the past in an interactive manner, although they only yield a selection of web pages rather than the entire history of a website. The scale of what is nonetheless archived remains quite impressive, especially bearing in mind that the number of pages on the live web is currently around 6 billion (https://www.worldwidewebsize.com/), while the Internet Archive Wayback Machine provides access to more than 480 billion archived web pages (as of November 2020). Additionally, the Internet Archive is no longer the only organisation that archives the web. Institutions at the national level (mostly national libraries) in Ireland, Denmark, Luxembourg, Switzerland, Portugal, France and the United Kingdom, to name but a few, curate web content that is relevant for their country. The latter two countries have even included web archives as a category in their [legal deposits](https://en.wikipedia.org/wiki/Legal_deposit), meaning that web pages related to their citizens or state are considered as publications that are vital for records of the countries’ official history.
 
