@@ -22,12 +22,7 @@ These assignments will briefly explore the history of the web and the technologi
 [card](web-past-future)
 
 
-[![alt text](http://example.com/exampl.png)](http://example.com/link "title")
-
-https://webfoundation.org/about/vision/history-of-the-web/
-BernersLee.png
-
-[![history of the web](https://webfoundation.org/about/vision/history-of-the-web//BernersLee.png)](http://https://webfoundation.org/about/vision/history-of-the-web//link "history of the web")
+Watch this 35 documentary created by the Web Foundation about how Tim Berners Lee created the world wide web. 
 
 <!-- more -->
 
