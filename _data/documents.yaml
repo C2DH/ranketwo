@@ -1,4 +1,15 @@
 -
+    title: 'What is the internet,really?'
+    slug: what-internet-really
+    type: video
+    data:
+        embed:
+            title: internet
+            author_name: Andrew Blum
+            thumbnail_url: 'https://img.youtube.com/vi/<XE_FPEFpHt4>/default.jpg'
+        year: 2012
+    url: 'https://youtu.be/XE_FPEFpHt4'
+-
     title: 'The web, past and future'
     slug: web-past-future
     type: video
