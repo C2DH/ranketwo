@@ -31,8 +31,8 @@ Watch this 35 min documentary created by the Web Foundation about how Tim Berner
 ### 1.a The history of the web and the technology behind it | ? Min
 <!-- section-contents -->
 
--	For a brief overview of the history of the web and the technologies involved, read Sections 1, 2, 3 and 6 of “How the World Wide Web (WWW) works” by Chris Woodford (2006/2020) (https://www.explainthatstuff.com/howthewebworks.html)
--	For an insight into the role of one of the game changers in the history of the web, computer scientist Tim Berners-Lee, read this article by the World Wide Web Foundation: “History of the Web” (https://webfoundation.org/about/vision/history-of-the-web/)
+-	This short article, also published by the Web Foundation, provides insight into the role of Tim Berners Lee in a nutshell: “History of the Web” (https://webfoundation.org/about/vision/history-of-the-web/)
+-	For a brief overview of how the web functions and which technologies are involved, read Sections 1, 2, 3 and 6 of “How the World Wide Web (WWW) works” by Chris Woodford (2006/2020) (https://www.explainthatstuff.com/howthewebworks.html)
 -	For an insight into the differences between Web 1.0, Web 2.0 and Web 3.0, read this concise history of web technologies: https://thebytestory.com/2018/11/09/a-short-history-on-web-technologies/
 
 Now that you have some more information about the development of the web and about Tim Berners-Lee, answer the following questions:
@@ -80,6 +80,8 @@ To connect the differences between the web and the internet to your own use of b
 
 Even if we understand the principles, history and evolution of the internet and the web, it can still be hard to fully grasp the materiality of our information systems. Where do we find tangible traces of the internet in our environment and what do they look like?
 Despite frequent references to “the cloud” and “cyberspace” and the widespread use of WiFi (all of which contribute to the belief that the web and the internet are intangible and transparent), the internet in fact consists of highly tangible elements. For an introduction to how the internet works, watch this TED lecture by Andrew Blum: “What is the Internet, really?” (2012) (https://youtu.be/XE_FPEFpHt4) (12 mins).
+
+CARD 
 
 -	Is this information new to you? How does it compare to what you imagined the internet to be?
 -	What is meant by the line “wired people should know something about wires”? (min. 11.34)
