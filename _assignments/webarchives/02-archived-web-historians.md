@@ -30,16 +30,16 @@ To see an archived version of the very first website ever created in 1991 by Tim
 The live web consists of any web page or website that you can access *at this very moment*. If you type the URL https://www.google.com, the home page of what is currently the world’s most popular search engine, into your web browser, the page will appear and you can immediately access the search engine. This is different from the **archived web**, which consists of web pages or websites that you can no longer access but whose information has been saved in the form of past versions of that web page or website. Without the **archived web** we would run the risk of web content disappearing from the accessible historical record entirely. This is why knowing both how to deal with web archives and how to ensure that web content is preserved are key for the historian’s profession.
 
 For a basic understanding of what web archives are, start by reading three sections from the publication
- *Using Web Archives in Research: An Introduction* by Janne Nielsen (Aarhus: NetLab, 2016) (http://www.netlab.dk/wp-content/uploads/2016/10/Nielsen_Using_Web_Archives_in_Research.pdf) 
- 
+ *Using Web Archives in Research: An Introduction* by Janne Nielsen (Aarhus: NetLab, 2016) (http://www.netlab.dk/wp-content/uploads/2016/10/Nielsen_Using_Web_Archives_in_Research.pdf)
+
 ![kahle servers](kahle servers.png)
 
 [![imate alt text](image url "image title")](link url){:target="_blank"}
 
-[![kahle servers](/../../assets/images/kahle servers.png "kahle servers")](https://github.com/C2DH/ranketwo/blob/master/assets/images/kahle%20servers.jpg){:target="_blank"}
+[![kahle servers](../../assets/images/kahle-servers.jpg "kahle servers")](http://www.netlab.dk/wp-content/uploads/2016/10/Nielsen_Using_Web_Archives_in_Research.pdf){:target="_blank"}
 
 
- 
+
 Answer the questions below:
 1.	Section 1 “Introduction” (pp. 6-10)
 2.	Section 2.1 “Main Types of Web Archiving” (pp. 11-12)
@@ -87,7 +87,7 @@ To familiarise yourself with the Internet Archive Wayback Machine, read this sho
 | |
 | |
 
-Next, use this PDF “cheat sheet” [cit](wayback-machine-interface) that gives an explanation of the Wayback Machine's interface with Google’s home page as an example, to answer the following questions: 
+Next, use this PDF “cheat sheet” [cit](wayback-machine-interface) that gives an explanation of the Wayback Machine's interface with Google’s home page as an example, to answer the following questions:
 -	Do you search for snapshots (saved versions) of a web page in the Wayback Machine with key terms or with a specific URL?
 -	What are the benefits and disadvantages of the Wayback Machine’s system of finding past saved versions of a web page?
 -	Where can you find the number of times a particular URL has been saved in the Wayback Machine?
@@ -121,7 +121,7 @@ Now answer the following questions (with additional web research if needed):
 
 | use the answer form to write down the answers |
 
-Now compare the narrative in the passages you watched from 2011 with the discourse adopted in the opening keynote talk by Brewster Kahle in 2019 at the Charleston Conference (https://youtu.be/bA67X9y-ozc from 3:29 to 12:22) 
+Now compare the narrative in the passages you watched from 2011 with the discourse adopted in the opening keynote talk by Brewster Kahle in 2019 at the Charleston Conference (https://youtu.be/bA67X9y-ozc from 3:29 to 12:22)
 
 [card](trust-truth)
 
