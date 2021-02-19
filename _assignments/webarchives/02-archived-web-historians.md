@@ -34,6 +34,8 @@ For a basic understanding of what web archives are, start by reading three secti
 
 [![kahle servers](../../assets/images/kahle-servers.jpg "kahle servers")](http://www.netlab.dk/wp-content/uploads/2016/10/Nielsen_Using_Web_Archives_in_Research.pdf){:target="_blank"}
 
+[![kahle servers](../../assets/images/kahle-servers.jpg "kahle servers")](http://www.netlab.dk/wp-content/uploads/2016/10/Nielsen_Using_Web_Archives_in_Research.pdf){:target="_blank"}
+
 Answer the questions below:
 1.	Section 1 “Introduction” (pp. 6-10)
 2.	Section 2.1 “Main Types of Web Archiving” (pp. 11-12)
