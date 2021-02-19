@@ -7,6 +7,7 @@ cover:
 documents:
   - web-past-future
   - what-internet-really
+  - underwater-cables
 tags:
   -  web technology
   -  the history of the web
@@ -99,6 +100,8 @@ The map looks old but it was created in 2015.
 <!-- section-contents -->
 
 The placement of underwater cables is not random; it is heavily influenced by history. New communication systems are generally rooted in the infrastructures of previous systems. These developments do not only reflect progress in technology, they are also an expression of power relations. It matters a lot who is connected to whom as well as who pays for and controls information systems. Watch these two videos and then answer the essay question below:
+
+[card](underwater-cables)
 
 -	“Thin underwater cables hold the internet. See a map of them all” by Vox (2015) (https://www.youtube.com/watch?v=Ve810FHZ1CQ) (3 mins)
 -	“Bundled, Buried & Behind Closed Doors” by Ben Mendelsohn (2011) – Vimeo video about 60 Hudson Street and the materiality of the internet (https://vimeo.com/30642376) (10 mins)
