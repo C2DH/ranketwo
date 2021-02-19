@@ -6,6 +6,7 @@ title: "The web and its technologies"
 cover:
 documents:
   - web-past-future
+  - what-internet-really
 tags:
   -  web technology
   -  the history of the web
@@ -81,7 +82,7 @@ To connect the differences between the web and the internet to your own use of b
 Even if we understand the principles, history and evolution of the internet and the web, it can still be hard to fully grasp the materiality of our information systems. Where do we find tangible traces of the internet in our environment and what do they look like?
 Despite frequent references to “the cloud” and “cyberspace” and the widespread use of WiFi (all of which contribute to the belief that the web and the internet are intangible and transparent), the internet in fact consists of highly tangible elements. For an introduction to how the internet works, watch this TED lecture by Andrew Blum: “What is the Internet, really?” (2012) (https://youtu.be/XE_FPEFpHt4) (12 mins).
 
-CARD 
+[card](what-internet-really) 
 
 -	Is this information new to you? How does it compare to what you imagined the internet to be?
 -	What is meant by the line “wired people should know something about wires”? (min. 11.34)
