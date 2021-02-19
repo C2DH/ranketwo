@@ -1,3 +1,16 @@
+
+
+-
+    title: 'Thin underwater cables hold the internet'
+    slug: underwater-cables
+    type: video
+    data:
+        embed:
+            title: internet
+            author_name: VOX
+            thumbnail_url: 'https://i3.ytimg.com/vi/Ve810FHZ1CQ/default.jpg'
+        year: 2012
+    url: 'https://youtu.be/Ve810FHZ1CQ'
 -
     title: 'What is the internet,really?'
     slug: what-internet-really
