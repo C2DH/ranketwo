@@ -1,4 +1,15 @@
-
+    
+ -   
+    title: 'Webarchives National Library Luxembourg'
+    slug: webarchives-luxemboug
+    type: video
+    data:
+        embed:
+            title: webarchives National Library Luxembourg
+            author_name: BNL
+            thumbnail_url: 'https://image.thum.io/get/https://bnl.public.lu/fr/rechercher/outils-recherche/webarchive.html '
+        year: 2021
+    url: 'https://bnl.public.lu/fr/rechercher/outils-recherche/webarchive.html'
 -  
     title: 'The Project'
     slug: project-internet
