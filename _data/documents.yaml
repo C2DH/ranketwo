@@ -1,3 +1,15 @@
+
+
+ title: 'History of the Web'
+    slug: history-web
+    type: video
+    data:
+        embed:
+            title: internet
+            author_name: Tim Berners Lee
+            thumbnail_url: 'https://image.thum.io/get/https://webfoundation.org/about/vision/history-of-the-web/'
+        year: 2014
+    url: 'https://webfoundation.org/about/vision/history-of-the-web'
 -
     title: 'Building Trust When Truth Fractures'
     slug: trust-truth
