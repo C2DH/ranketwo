@@ -1,5 +1,27 @@
+ -
+    title: 'What is the world wide web?'
+    slug: what-web
+    type: video
+    data:
+        embed:
+            title: internet
+            author_name: Twila Camp 
+            thumbnail_url: 'https://image.thum.io/get/https://youtu.be/J8hzJxb0rpc'
+        year: 2014
+    url: 'https://youtu.be/J8hzJxb0rpc'
 -
-    title: 'the byte story'
+    title: 'The Web is not the Net'
+    slug: web-not-net
+    type: video
+    data:
+        embed:
+            title: internet
+            author_name: VSauce
+            thumbnail_url: 'https://image.thum.io/get/https://youtu.be/scWj1BMRHUA?t=34'
+        year: 2014
+    url: 'https://youtu.be/scWj1BMRHUA?t=34'
+-
+    title: 'The Byte Story'
     slug: byte-story
     type: video
     data:
