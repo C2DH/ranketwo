@@ -9,6 +9,8 @@ documents:
   - what-internet-really
   - underwater-cables
   - history-web
+  - explain-stuff
+  - byte-story
 tags:
   -  web technology
   -  the history of the web
@@ -34,12 +36,17 @@ Watch this 35 min documentary created by the Web Foundation about how Tim Berner
 ### 1.a The history of the web and the technology behind it | ? Min
 <!-- section-contents -->
 
--	This short article, also published by the Web Foundation, provides insight into the role of Tim Berners Lee in a nutshell: “History of the Web” (https://webfoundation.org/about/vision/history-of-the-web/)
+-	This short article, also published by the Web Foundation, provides insight into the role of Tim Berners Lee in a nutshell: “History of the Web” 
 
 [card](history-web)
 
--	For a brief overview of how the web functions and which technologies are involved, read Sections 1, 2, 3 and 6 of “How the World Wide Web (WWW) works” by Chris Woodford (2006/2020) (https://www.explainthatstuff.com/howthewebworks.html)
--	For an insight into the differences between Web 1.0, Web 2.0 and Web 3.0, read this concise history of web technologies: https://thebytestory.com/2018/11/09/a-short-history-on-web-technologies/
+-	For a brief overview of how the web functions and which technologies are involved, read Sections 1, 2, 3 and 6 of “How the World Wide Web (WWW) works” by Chris Woodford (2006/2020) 
+
+[card](explain-stuff)
+
+-	For an insight into the differences between Web 1.0, Web 2.0 and Web 3.0, read this concise history of web technologies: 
+
+[card](byte-story)
 
 Now that you have some more information about the development of the web and about Tim Berners-Lee, answer the following questions:
 -	Why was Tim Berners-Lee’s innovation fundamental for the development of the web?
