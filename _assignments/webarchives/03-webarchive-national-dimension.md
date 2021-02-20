@@ -10,11 +10,13 @@ tags:
 outcomes:
   - Understand preservation policies with regard to websites of various institutions
 documents:
-  - 
+  - webarchives-luxembourg
 order: 3
 ---
 Fortunately, the Internet Archive is not the only institution that is trying to archive the web. Several other institutions are active on a smaller scale, usually for websites considered important or relevant to specific countries. Several European countries, such as Finland, France, Ireland, Spain and Sweden, have even included web archives in the [legal deposit](https://en.wikipedia.org/wiki/Legal_deposit) of their country, which means that they have attributed a similar status to websites as that given to archive material such as books and newspapers for centuries. See for example the UK (https://www.webarchive.org.uk), Denmark (http://netarkivet.dk/in-english/) and France (https://www.bnf.fr/fr/archives-de-linternet).
 Yet the task of archiving the entire web is not an easy one. The explosive growth of online content, especially since the 2000s, has made it impossible for archives and organisations to archive every single website and its various versions over time. Even as the technological expertise at these institutions has increased, a decrease in activities at the national level can be observed, which leads to a stronger dependency on the IA. This is luckily not the case in Luxembourg, where the National Library (Bibliothèque nationale du Luxembourg or BnL) has been tasked with archiving the Luxembourgish web since 2016. 
+
+[card](webarchives-luxembourg)
 
 <!-- more -->
 
