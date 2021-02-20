@@ -11,7 +11,6 @@ outcomes:
   - Understand preservation policies with regard to websites of various institutions
 documents:
   - webarchives-luxembourg
-  - lux-web
 order: 3
 ---
 Fortunately, the Internet Archive is not the only institution that is trying to archive the web. Several other institutions are active on a smaller scale, usually for websites considered important or relevant to specific countries. Several European countries, such as Finland, France, Ireland, Spain and Sweden, have even included web archives in the [legal deposit](https://en.wikipedia.org/wiki/Legal_deposit) of their country, which means that they have attributed a similar status to websites as that given to archive material such as books and newspapers for centuries. See for example the UK (https://www.webarchive.org.uk), Denmark (http://netarkivet.dk/in-english/) and France (https://www.bnf.fr/fr/archives-de-linternet).
@@ -29,7 +28,7 @@ In this sub-assignment, the Luxembourg Web Archive (LWA) (https://www.webarchive
 Web archivists have the task of defining the parameters and criteria for their digital collection of web pages. They have to decide which types of sites they should archive (i.e. government sites, news agency sites, museum sites, personal blogs, etc.), how many times a year snapshots should be taken, and how this content can be made accessible to their audience.
 
 {:style="text-align:center"}
-![lux-web](/../../assets/images/lux.web.png "lux-web")
+![lux-web](/../../assets/images/lux-web.png "lux-web")
 
 Imagine that you work at the National Library of Luxembourg and your job is to help select and collect all the relevant information on the web that pertains to the Grand Duchy of Luxembourg. Now imagine that a secondary school student wants to understand how the LWA works and has asked you to help explain it to her.
 Using the information found on the main page of the Luxembourg Web Archive (https://www.webarchive.lu/), its FAQ section (https://www.webarchive.lu/faq/) and the “How it Works” page (https://www.webarchive.lu/how-it-works/), answer the following questions that are posed by this imaginary secondary school student: 
