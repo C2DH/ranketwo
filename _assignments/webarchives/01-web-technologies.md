@@ -8,6 +8,7 @@ documents:
   - web-past-future
   - what-internet-really
   - underwater-cables
+  - history-web
 tags:
   -  web technology
   -  the history of the web
@@ -34,6 +35,9 @@ Watch this 35 min documentary created by the Web Foundation about how Tim Berner
 <!-- section-contents -->
 
 -	This short article, also published by the Web Foundation, provides insight into the role of Tim Berners Lee in a nutshell: “History of the Web” (https://webfoundation.org/about/vision/history-of-the-web/)
+
+[card](history-web)
+
 -	For a brief overview of how the web functions and which technologies are involved, read Sections 1, 2, 3 and 6 of “How the World Wide Web (WWW) works” by Chris Woodford (2006/2020) (https://www.explainthatstuff.com/howthewebworks.html)
 -	For an insight into the differences between Web 1.0, Web 2.0 and Web 3.0, read this concise history of web technologies: https://thebytestory.com/2018/11/09/a-short-history-on-web-technologies/
 
