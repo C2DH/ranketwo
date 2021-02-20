@@ -7,9 +7,9 @@
         embed:
             title: webarchives National Library Luxembourg
             author_name: BNL
-            thumbnail_url: 'https://image.thum.io/get/https://bnl.public.lu/fr/rechercher/outils-recherche/webarchive.html '
+            thumbnail_url: 'https://image.thum.io/get/https://www.webarchive.lu '
         year: 2021
-    url: 'https://bnl.public.lu/fr/rechercher/outils-recherche/webarchive.html'
+    url: 'https://www.webarchive.lu'
 -  
     title: 'The Project'
     slug: project-internet
