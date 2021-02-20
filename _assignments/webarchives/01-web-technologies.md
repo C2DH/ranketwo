@@ -11,6 +11,8 @@ documents:
   - history-web
   - explain-stuff
   - byte-story
+  - what-web
+  - web-not-net
 tags:
   -  web technology
   -  the history of the web
@@ -64,10 +66,16 @@ Now that you have some more information about the development of the web and abo
 <!-- section-contents -->
 
 Most people use the terms “web” and “internet” interchangeably as they are very closely linked to each other, even though they are, in fact, two different things. In order to help you understand the crucial differences between the two, watch these two informative and humorous videos:
--	“What is the world wide web? – Twila Camp” from TED-Ed (2014) (https://www.youtube.com/watch?v=J8hzJxb0rpc) (3.50 mins)
--	“The Web Is Not The Net” by VSauce (2014) (https://youtu.be/scWj1BMRHUA?t=34), only from 00:34 to 05:04
+-	“What is the world wide web? – Twila Camp” from TED-Ed (2014)(3.50 mins)
 
-After watching the video explanations from Twila Camp and VSauce, note the xxx most important differences between the internet and the web.
+[card](what-web)
+
+-	“The Web Is Not The Net” by VSauce (2014), only from 00:34 to 05:04
+
+[card](web-not-net)
+
+
+After watching these video note the most important differences between the internet and the web.
 
 
 | enter your answers in the answer form |
@@ -112,10 +120,12 @@ The map looks old but it was created in 2015.
 
 The placement of underwater cables is not random; it is heavily influenced by history. New communication systems are generally rooted in the infrastructures of previous systems. These developments do not only reflect progress in technology, they are also an expression of power relations. It matters a lot who is connected to whom as well as who pays for and controls information systems. Watch these two videos and then answer the essay question below:
 
+“Thin underwater cables hold the internet. See a map of them all” by Vox (2015)(3 mins)
+
 [card](underwater-cables)
 
--	“Thin underwater cables hold the internet. See a map of them all” by Vox (2015) (https://www.youtube.com/watch?v=Ve810FHZ1CQ) (3 mins)
--	“Bundled, Buried & Behind Closed Doors” by Ben Mendelsohn (2011) – Vimeo video about 60 Hudson Street and the materiality of the internet (https://vimeo.com/30642376) (10 mins)
+
+“Bundled, Buried & Behind Closed Doors” by Ben Mendelsohn (2011) – Vimeo video about 60 Hudson Street and the materiality of the internet (https://vimeo.com/30642376) (10 mins)
 
 Write a short essay of 500 words in which you incorporate the answers to the following questions:
 -	What were the predecessors of the internet cables at the bottom of the ocean?
