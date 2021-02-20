@@ -11,8 +11,6 @@ documents:
   - history-web
   - explain-stuff
   - byte-story
-  - what-web
-  - web-not-net
 tags:
   -  web technology
   -  the history of the web
@@ -68,11 +66,11 @@ Now that you have some more information about the development of the web and abo
 Most people use the terms “web” and “internet” interchangeably as they are very closely linked to each other, even though they are, in fact, two different things. In order to help you understand the crucial differences between the two, watch these two informative and humorous videos:
 -	“What is the world wide web? – Twila Camp” from TED-Ed (2014)(3.50 mins)
 
-[card](what-web)
+
 
 -	“The Web Is Not The Net” by VSauce (2014), only from 00:34 to 05:04
 
-[card](web-not-net)
+
 
 
 After watching these video note the most important differences between the internet and the web.
