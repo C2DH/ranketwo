@@ -28,7 +28,8 @@ Yet the task of archiving the entire web is not an easy one. The explosive growt
 In this sub-assignment, the Luxembourg Web Archive (LWA) (https://www.webarchive.lu/) managed by the BnL will be explored to identify the benefits, limitations and challenges of web archiving.
 Web archivists have the task of defining the parameters and criteria for their digital collection of web pages. They have to decide which types of sites they should archive (i.e. government sites, news agency sites, museum sites, personal blogs, etc.), how many times a year snapshots should be taken, and how this content can be made accessible to their audience.
 
-image lux-web
+{:style="text-align:center"}
+![lux-web](/../../assets/images/lux.web.png "lux-web")
 
 Imagine that you work at the National Library of Luxembourg and your job is to help select and collect all the relevant information on the web that pertains to the Grand Duchy of Luxembourg. Now imagine that a secondary school student wants to understand how the LWA works and has asked you to help explain it to her.
 Using the information found on the main page of the Luxembourg Web Archive (https://www.webarchive.lu/), its FAQ section (https://www.webarchive.lu/faq/) and the “How it Works” page (https://www.webarchive.lu/how-it-works/), answer the following questions that are posed by this imaginary secondary school student: 
