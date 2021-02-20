@@ -7,6 +7,8 @@ cover:
 tags:
   -  family archives
   -  local history
+documents:
+  -  digital-lifestyles
 outcomes:
   - Understand how to trace the history of a website
   - Understanding the historical value of personal digital data
@@ -65,7 +67,9 @@ Think about the interactive nature of a website and the need to convert big file
 ### 5.b Archiving your own future historical sources
 <!-- section-contents -->
 
-Listen to this brief talk by Dr Rebecca Huntley from the National and State Libraries of Australia on family-level micro-archiving. She makes the connection between looking back at her family history and imagining what will be needed in the future to reconstruct her own history: “Born Digital 2016: Digital lifestyles with Dr Rebecca Huntley (2016, National and State Libraries Australia, ASLA)” (https://www.youtube.com/watch?v=hR9VQPfNHaE)
+Listen to this brief talk by Dr Rebecca Huntley from the National and State Libraries of Australia on family-level micro-archiving. She makes the connection between looking back at her family history and imagining what will be needed in the future to reconstruct her own history: “Born Digital 2016: Digital lifestyles with Dr Rebecca Huntley (2016, National and State Libraries Australia, ASLA)”
+
+[card](digital-lifestyles)
 
 Now think of your own presence online and answer the following questions:
 -	What kind of content have you uploaded or posted on the web?
