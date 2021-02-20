@@ -1,4 +1,26 @@
 -
+    title: 'the byte story'
+    slug: byte-story
+    type: video
+    data:
+        embed:
+            title: internet
+            author_name: The Byte Story 
+            thumbnail_url: 'https://image.thum.io/get/https://thebytestory.com/2018/11/09/a-short-history-on-web-technologies'
+        year: 2014
+    url: 'https://thebytestory.com/2018/11/09/a-short-history-on-web-technologies'
+-
+    title: 'Explain that stuff'
+    slug: explain-stuff
+    type: video
+    data:
+        embed:
+            title: internet
+            author_name:  Chris Woodford
+            thumbnail_url: 'https://image.thum.io/get/https://www.explainthatstuff.com/howthewebworks.html'
+        year: 2021
+    url: 'https://www.explainthatstuff.com/howthewebworks.html'
+-
     title: 'History of the Web'
     slug: history-web
     type: video
