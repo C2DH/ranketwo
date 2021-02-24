@@ -1,15 +1,15 @@
-- 
+-
     title: 'Born Digital 2016: Digital lifestyles with Dr Rebecca Huntley'
     slug: digital-lifestyles
     type: video
     data:
         embed:
-            title: Born Digital 2016: Digital lifestyles with Dr Rebecca Huntley
+            title: 'Born Digital 2016: Digital lifestyles with Dr Rebecca Huntley'
             author_name: Rebecca Huntley
             thumbnail_url: 'https://image.thum.io/get/https://www.youtube.com/watch?v=hR9VQPfNHaE'
         year: 2016
     url: 'https://www.youtube.com/watch?v=hR9VQPfNHaE'  
- -   
+-
     title: 'Webarchives National Library Luxembourg'
     slug: webarchives-luxembourg
     type: video
@@ -20,7 +20,7 @@
             thumbnail_url: 'https://image.thum.io/get/https://www.webarchive.lu '
         year: 2021
     url: 'https://www.webarchive.lu'
--  
+-
     title: 'The Project'
     slug: project-internet
     type: video
@@ -38,7 +38,7 @@
     data:
         embed:
             title: internet
-            author_name: The Byte Story 
+            author_name: The Byte Story
             thumbnail_url: 'https://image.thum.io/get/https://thebytestory.com/2018/11/09/a-short-history-on-web-technologies'
         year: 2014
     url: 'https://thebytestory.com/2018/11/09/a-short-history-on-web-technologies'
@@ -76,7 +76,7 @@
         year: 2019
     url: 'https://youtu.be/bA67X9y-ozc'
 
--     
+-
     title: 'Universal Access To All Knowledge'
     slug: access-knowledge
     type: video
