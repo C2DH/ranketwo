@@ -13,6 +13,7 @@ documents:
   - byte-story
   - what-web
   - web-not-net
+  - submarine-map
 tags:
   -  web technology
   -  the history of the web
@@ -103,8 +104,11 @@ Despite frequent references to “the cloud” and “cyberspace” and the wide
 -	Is this information new to you? How does it compare to what you imagined the internet to be?
 -	What is meant by the line “wired people should know something about wires”? (min. 11.34)
 
-Now take a look at this “Submarine Cable Map 2015” by Telegeography (https://submarine-cable-map-2015.telegeography.com/)
+Now take a look at this “Submarine Cable Map 2015” by Telegeography.
 The map looks old but it was created in 2015.
+
+[card](submarine-map)
+
 -	Where do you notice the highest and lowest concentration of cables? What does this suggest with regard to power and control in world politics?
 -	Conduct some additional web research and find out how many undersea cables have been built since and now exist in total (don’t forget to cite your source).
 

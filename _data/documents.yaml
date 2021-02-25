@@ -21,6 +21,16 @@
         year: 2014
     url: 'https://youtu.be/scWj1BMRHUA?t=34'
 -
+    title: 'Submarine Cable Map 2015'
+    slug: submarine-map
+    type: link
+    data:
+      embed:
+        author_name: Telegeography
+        thumbnail_url: 'https://image.thum.io/get/https://submarine-cable-map-2015.telegeography.com'
+      year: 2015
+    url: 'https://submarine-cable-map-2015.telegeography.com/'
+-
     title: 'Born Digital 2016: Digital lifestyles with Dr Rebecca Huntley'
     slug: digital-lifestyles
     type: video
