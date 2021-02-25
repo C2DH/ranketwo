@@ -11,6 +11,8 @@ documents:
   - history-web
   - explain-stuff
   - byte-story
+  - what-web
+  - web-not-net
 tags:
   -  web technology
   -  the history of the web
@@ -27,7 +29,7 @@ These assignments will briefly explore the history of the web and the technologi
 [card](web-past-future)
 
 
-Watch this 35 min documentary created by the Web Foundation about how Tim Berners Lee created the world wide web. 
+Watch this 35 min documentary created by the Web Foundation about how Tim Berners Lee created the world wide web.
 
 <!-- more -->
 
@@ -36,15 +38,15 @@ Watch this 35 min documentary created by the Web Foundation about how Tim Berner
 ### 1.a The history of the web and the technology behind it | ? Min
 <!-- section-contents -->
 
--	This short article, also published by the Web Foundation, provides insight into the role of Tim Berners Lee in a nutshell: “History of the Web” 
+-	This short article, also published by the Web Foundation, provides insight into the role of Tim Berners Lee in a nutshell: “History of the Web”
 
 [card](history-web)
 
--	For a brief overview of how the web functions and which technologies are involved, read Sections 1, 2, 3 and 6 of “How the World Wide Web (WWW) works” by Chris Woodford (2006/2020) 
+-	For a brief overview of how the web functions and which technologies are involved, read Sections 1, 2, 3 and 6 of “How the World Wide Web (WWW) works” by Chris Woodford (2006/2020)
 
 [card](explain-stuff)
 
--	For an insight into the differences between Web 1.0, Web 2.0 and Web 3.0, read this concise history of web technologies: 
+-	For an insight into the differences between Web 1.0, Web 2.0 and Web 3.0, read this concise history of web technologies:
 
 [card](byte-story)
 
@@ -64,14 +66,10 @@ Now that you have some more information about the development of the web and abo
 <!-- section-contents -->
 
 Most people use the terms “web” and “internet” interchangeably as they are very closely linked to each other, even though they are, in fact, two different things. In order to help you understand the crucial differences between the two, watch these two informative and humorous videos:
--	“What is the world wide web? – Twila Camp” from TED-Ed (2014)(3.50 mins)
 
+[card](what-web)
 
-
--	“The Web Is Not The Net” by VSauce (2014), only from 00:34 to 05:04
-
-
-
+[card](web-not-net)
 
 After watching these video note the most important differences between the internet and the web.
 
@@ -100,7 +98,7 @@ To connect the differences between the web and the internet to your own use of b
 Even if we understand the principles, history and evolution of the internet and the web, it can still be hard to fully grasp the materiality of our information systems. Where do we find tangible traces of the internet in our environment and what do they look like?
 Despite frequent references to “the cloud” and “cyberspace” and the widespread use of WiFi (all of which contribute to the belief that the web and the internet are intangible and transparent), the internet in fact consists of highly tangible elements. For an introduction to how the internet works, watch this TED lecture by Andrew Blum: “What is the Internet, really?” (2012) (https://youtu.be/XE_FPEFpHt4) (12 mins).
 
-[card](what-internet-really) 
+[card](what-internet-really)
 
 -	Is this information new to you? How does it compare to what you imagined the internet to be?
 -	What is meant by the line “wired people should know something about wires”? (min. 11.34)
