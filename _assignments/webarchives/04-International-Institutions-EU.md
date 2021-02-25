@@ -34,7 +34,7 @@ Open the Internet Archive’s Wayback Machine (https://archive.org/web/) in two 
   <tr>
     <th widht="40%"></th>
     <th width="30%">European Court of Justice</th>
-    <th width="30%">European Court of Justic</th>
+    <th width="30%">European Institute for Gender Equality</th>
   </tr>
   <tr>
     <td colspan="3"><u>Overview</u></td>
