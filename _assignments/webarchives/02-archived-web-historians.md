@@ -121,7 +121,7 @@ Now answer the following questions (with additional web research if needed):
 
 | use the answer form to write down the answers |
 
-Now compare the narrative in the passages you watched from 2011 with the discourse adopted in the opening keynote talk by Brewster Kahle in 2019 at the Charleston Conference.
+Now compare the narrative in the passages you watched from 2011 with the discourse adopted in the opening keynote talk by Brewster Kahle in 2019 at the Charleston Conference (from 3:29 to 12:22).
 
 [card](trust-truth)
 
