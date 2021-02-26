@@ -16,7 +16,7 @@ order: 4
 The act of archiving is not just driven by neutral concerns for preservation. It is very much embedded in ways of prolonging and solidifying one’s identity, status and position. According to Janne Nielsen, who proposes a clear distinction between “macro” and “micro” archiving
 (<http://www.netlab.dk/wp-content/uploads/2016/10/Nielsen_Using_Web_Archives_in_Research.pdf>{:target='_blank'}), it is important to differentiate, for example, between a powerful institution that designs a preservation strategy for prosperity with a broad imaginary future audience in mind (“macro”) and a scholar at the end of a funded project who manages to conserve her data for future use within her academic career (“micro”). In the case of the EU, as the examples below show, preservation is also relevant for reasons of transparency about how decisions are taken or how legal frameworks intended to protect citizens and their cultural heritage evolve over time. The case study presented here – how the European Union deals with the preservation of its web archives – is an example of macro-archiving. The “level” of archiving in this context should be kept in mind throughout the example.
 
-{:style='text-align:center'}
+{:.text-center}
 ![Watch the ENTIRE history of Europe unfold before your very eyes](https://i.giphy.com/media/B22vnwkQSMldC/giphy.webp)
 
 <!-- more -->

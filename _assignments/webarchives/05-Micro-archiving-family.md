@@ -16,6 +16,9 @@ order: 5
 ---
 As creating websites has become increasingly easy for people without a technological background, there has been a steady increase in historical websites created by individuals that make use of open source applications. Wordpress, Google and Weebly are examples of such resources. The people who set up websites like this are often volunteers who want to share their passion for a subject or relatives of an older generation who want to preserve a record of a certain historical practice that they regard as important. The focus is often on local topics: the landscape, the village, the city or the neighbourhood. Yet the most documented experiences are of migration and war. The practice of passing family photo albums from one generation to the next does not exist when it comes to digital family heritage. How should websites or pages (with potential historical relevance) that are not embedded in an institutional setting or are posted on social media platforms be preserved for the future? On the basis of a case study below, you are going to explore the best strategies for micro-archiving.
 
+{:.text-center}
+![Waving Family Portrait GIF By Archives Of Ontario](https://i.giphy.com/media/9XWiUASpHCdeTQZDWV/giphy.webp "Waving Family Portrait GIF By Archives Of Ontario")
+
 <!-- more -->
 
 <!-- briefing-student -->
