@@ -105,7 +105,7 @@ Next, use this PDF “cheat sheet” [cit](wayback-machine-interface) that gives
 
 ### 2.c The original ambitions of the Wayback Machine compared to later thoughts
 <!-- section-contents -->
-As a historian it is vital to place a resource such as the Wayback Machine in a historical context. Idealism and belief in the democratising power of technology lie at the heart of the creation of this resource. To understand this more clearly, watch these three video segments from a 2011 presentation by Brewster Kahle to the Long Now Foundation (https://archive.org/details/brewsterkahlelongnowfoundation).
+As a historian it is vital to place a resource such as the Wayback Machine in a historical context. Idealism and belief in the democratising power of technology lie at the heart of the creation of this resource. To understand this more clearly, watch these three video segments from a 2011 presentation by Brewster Kahle to the Long Now Foundation.
 
 [card](access-knowledge)
 
@@ -121,7 +121,7 @@ Now answer the following questions (with additional web research if needed):
 
 | use the answer form to write down the answers |
 
-Now compare the narrative in the passages you watched from 2011 with the discourse adopted in the opening keynote talk by Brewster Kahle in 2019 at the Charleston Conference (https://youtu.be/bA67X9y-ozc from 3:29 to 12:22)
+Now compare the narrative in the passages you watched from 2011 with the discourse adopted in the opening keynote talk by Brewster Kahle in 2019 at the Charleston Conference.
 
 [card](trust-truth)
 

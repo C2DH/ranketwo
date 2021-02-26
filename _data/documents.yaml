@@ -102,9 +102,9 @@
     type: video
     data:
         embed:
-            title: internet
             author_name: Brewster Kahle
-            thumbnail_url: 'https://i3.ytimg.com/vi/bA67X9y-ozc/default.jpg'
+            thumbnail_url: 'https://image.thum.io/get/https://youtu.be/bA67X9y-ozc'
+            note: 'from 3:29 to 12:22'
         year: 2019
     url: 'https://youtu.be/bA67X9y-ozc'
 
@@ -114,10 +114,9 @@
     type: video
     data:
         embed:
-            title: internet
             author_name: Brewster Kahle
-            thumbnail_url: 'https://i3.ytimg.com/vi/brewsterkahlelongnowfoundation/default.jpg'
-        year: 2012
+            thumbnail_url: 'https://image.thum.io/get/https://archive.org/details/brewsterkahlelongnowfoundation'
+        year: 2011
     url: 'https://archive.org/details/brewsterkahlelongnowfoundation'
 
 -
