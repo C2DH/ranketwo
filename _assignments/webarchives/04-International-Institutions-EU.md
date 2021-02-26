@@ -32,6 +32,19 @@ For this assignment we will use the Wayback Machine and our corresponding “che
 
 ●	Tip: The best way to compare the two is to take a screenshot of each home page, decrease the size, and then place them next to each other on your screen.
 
+<div class="text-center" markdown="1">
+
+{:.mr-3}
+{:.d-inline-block}
+{:style="max-width:250px"}
+[![European Court of Justice](https://image.thum.io/get/https://curia.europa.eu/ "European Court of Justice")](https://curia.europa.eu/){:target='_blank'}
+
+{:.d-inline-block}
+{:style="max-width:250px"}
+[![European Institute for Gender Equality](https://image.thum.io/get/https://eige.europa.eu/ "European Institute for Gender Equality")](https://eige.europa.eu/){:target='_blank'}
+
+</div>
+
 Open the Internet Archive’s Wayback Machine (<https://archive.org/web/>{:target='_blank'}) in two different tabs. In the first tab, search for the snapshots of the European Court of Justice (ECJ) using the URL of its home page: <https://curia.europa.eu/>{:target='_blank'}. In the second tab, search for the snapshots of the European Institute for Gender Equality (EIGE) using the URL of its home page: <https://eige.europa.eu/>{:target='_blank'}. Then, using the web archives and any additional web research needed, complete the table below:
 
 <table width="100%">
