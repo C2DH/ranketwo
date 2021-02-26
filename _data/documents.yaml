@@ -121,16 +121,28 @@
     url: 'https://archive.org/details/brewsterkahlelongnowfoundation'
 
 -
-    title: 'Thin underwater cables hold the internet'
+    title: 'Thin underwater cables hold the internet. See a map of them all'
     slug: underwater-cables
     type: video
     data:
         embed:
-            title: internet
-            author_name: VOX
+            author_name: Vox
             thumbnail_url: 'https://i3.ytimg.com/vi/Ve810FHZ1CQ/default.jpg'
-        year: 2012
+            duration: 178
+        year: 2015
     url: 'https://youtu.be/Ve810FHZ1CQ'
+-
+    title: 'Bundled, Buried & Behind Closed Doors'
+    slug: closed-doors
+    type: video
+    data:
+        embed:
+            author_name: Ben Mendelsohn
+            description: 'Vimeo video about 60 Hudson Street and the materiality of the internet'
+            thumbnail_url: 'https://image.thum.io/get/https://vimeo.com/30642376'
+            duration: 605
+        year: 2011
+    url: 'https://vimeo.com/30642376'
 -
     title: 'What is the internet,really?'
     slug: what-internet-really

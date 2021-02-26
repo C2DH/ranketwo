@@ -161,13 +161,16 @@
         cardBody.append('p')
           .text(_self.refAuthorYear(doc));
       } else if (doc.data && doc.data.embed && doc.data.embed.author_name) {
-        cardBody.append('p')
+        cardBody.append('div').classed('mb-1', true)
           .text(
               doc.data.embed.author_name+ ', ' +
               doc.data.year +
               (doc.data.embed.note ? ' (' + doc.data.embed.note + ')' : '') +
               (doc.data.embed.duration ? ' (' + Math.floor(doc.data.embed.duration / 60) + ':' + ("0" + (doc.data.embed.duration % 60)).slice(-2) + ')' : '')
           );
+        if(doc.data.embed.description)
+          cardBody.append('p')
+            .text(doc.data.embed.description);
       }
       return card
     }
