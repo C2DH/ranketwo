@@ -95,24 +95,26 @@ protect yourself is to either to use copyright free material, or to make sure
 the web-environment is not public, by working in a password protected
 environment.
 
-- Check which of the images that you have used for your timeline are
+- First explore the information below and then check which of the images that you have used for your timeline are
 open source and which ones can only be used with permission.
-Where can you find this information if you search on the web?
-
-- Write a short abstract of 150-words in your template on what you have found on the web, and what you can do with it.
 
   1. See [this document](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/481194/c-notice-201401.pdf){:target="_blank"} For an overview about handling copyright in the United Kingdomn.
   2. See [this video clip](https://youtu.be/1DKm96Ftfko){:target="_blank"} on the principles of Creative Commons.
   3. See [this clip]( https://vimeo.com/36881035){:target="_blank"} about the origin and history of copyright.
-  4.  For  websites that offer images free of copyright click on one of the links below:
-      https://ccsearch.creativecommons.org
-      https://www.flickr.com/creativecommons/
-      https://www.flickr.com/commons/usage/
-      https://commons.wikimedia.org/wiki/Main_Page
-      https://diva.sfsu.edu/collections/world
-      https://www.europeana.eu/portal/en
-      https://pixabay.com
-  5. you can also configure your settings in Google to show only free images:
+
+- Write a short abstract of 150-words in your answerform on what your findings are. 
+
+  4. For  websites that offer images free of copyright click on one of the links below:
+     https://ccsearch.creativecommons.org
+     https://www.flickr.com/creativecommons/
+     https://www.flickr.com/commons/usage/
+     https://commons.wikimedia.org/wiki/Main_Page
+     https://diva.sfsu.edu/collections/world
+     https://www.europeana.eu/portal/en
+     https://pixabay.com
+     https://unsplash.com
+     
+  5. You can also configure your settings in Google to show only free images:
     http://images.google.com/advanced_image_search?hl=en
 
 <!-- section -->
@@ -120,7 +122,7 @@ Where can you find this information if you search on the web?
 ### Reading / viewing suggestions
 <!-- section-contents -->
 
-- For an overview of learning goals that can be achieved through creating digital timelines, see  the teaching guide of the Vanderbilt University [Vanderbilt University]( https://cft.vanderbilt.edu/guides-sub-pages/digital-timelines/){:target="_blank"}.
+- For an overview of learning goals that can be achieved through creating digital timelines, see the teaching guide of the Vanderbilt University [Vanderbilt University]( https://cft.vanderbilt.edu/guides-sub-pages/digital-timelines/){:target="_blank"}.
 
 - For assessing the pros and cons of different tools for creating timelines, consult this guide [ref](struggling-timeline){:target="_blank"}.
 
