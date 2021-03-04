@@ -63,18 +63,7 @@ Vergessen Sie nicht, Ihre Einträge zu speichern.
 
 <!-- section -->
 
-### 1.b  Zwei neue Einträge mit Text und Bildern in der Zeitleiste erstellen | 20 Min
-<!-- section-contents -->
-
-Hierbei kann es sich um Themen im Zusammenhang mit Boders Leben handeln, darunter:
-- Wann und wo studierte Boder?
-- Wann wurde das Drahttonbandgerät erfunden?
-- Wann wurden die amerikanischen Wochenschauen über die Lager einem US-amerikanischen Publikum gezeigt?
-- Dokumentieren Sie Ihre Ergebnisse im entsprechenden Feld der Vorlage.
-
-<!-- section -->
-
-### 1.c  Neuen Account und neue Zeitleiste erstellen | 120 Min
+### 1.b  Neuen Account und neue Zeitleiste erstellen | 120 Min
 <!-- section-contents -->
 
 Befolgen Sie die Anweisungen im Leitfaden.
@@ -96,7 +85,7 @@ Tiki-Toki bietet die Möglichkeit, auf einen entgeltlichen „Teacher Account“
 
 <!-- section -->
 
-### 1.d  Urheberrecht und das Web | 130 Min
+### 1.c  Urheberrecht und das Web | 130 Min
 <!-- section-contents -->
 
 Bei den Aufgaben 1b und 1c müssen Sie den bestehenden Rechtsrahmen zur Wiederverwendung von Bildern aus dem Web beachten. Die Verletzung von Urheberrechten kann hohe Geldstrafen nach sich ziehen. Ideal ist, entweder urheberrechtsfreie Materialien zu verwenden oder sicherzustellen, dass die Web-Umgebung nicht öffentlich ist, indem in einer passwortgeschützten Umgebung gearbeitet wird.
