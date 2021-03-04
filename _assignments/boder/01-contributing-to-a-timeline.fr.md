@@ -63,18 +63,7 @@ N'oubliez pas de sauvegarder vos entrées.
 
 <!-- section -->
 
-### 1.b  Créez deux nouvelles entrées avec du texte et des images dans la frise chronologique | 20 min
-<!-- section-contents -->
-
-Elles peuvent couvrir des sujets liés à la vie de David Boder, tels que :
-- Où et quand D. Boder a-t-il fait ses études ?
-- Quand l'enregistreur à fil a-t-il été inventé ?
-- Quand les films d'actualités américains sur les camps de concentration ont-ils été diffusés auprès d'un public américain ?
-- Document your findings in the appropiate field in the template.
-
-<!-- section -->
-
-### 1.c  Créez un nouveau compte et une nouvelle frise chronologique | 120 min
+### 1.b  Créez un nouveau compte et une nouvelle frise chronologique | 120 min
 <!-- section-contents -->
 
 Suivez les instructions fournies dans le tutoriel.
@@ -96,7 +85,7 @@ Tiki-Toki offre la possibilité de passer à une version payante (« compte ense
 
 <!-- section -->
 
-### 1.d  La législation sur les droits d'auteur et l'internet | 130 min
+### 1.c  La législation sur les droits d'auteur et l'internet | 130 min
 <!-- section-contents -->
 
 Pour les exercices 1b et 1c, vous devez tenir compte du cadre juridique régissant la réutilisation des images sur le web. La violation des droits d'auteur peut donner lieu à de lourdes amendes. La meilleure façon de vous protéger est soit d'utiliser des supports libres de droits, soit de vous assurer que l'environnement web n'est pas public en travaillant dans un environnement protégé par mot de passe.
