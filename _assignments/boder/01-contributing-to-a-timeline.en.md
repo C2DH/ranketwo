@@ -46,7 +46,7 @@ If you need more guidance, then follow the step by step instructions provided in
 
 <!-- section -->
 
-### 1.a Entering data in a timeline | 10 min
+### 1.a Entering data in a timeline | 30 min
 <!-- section-contents -->
 
 The chronological sequence of dates needs to be complemented with information. Create an entry in one of the dates in the timeline.
@@ -66,18 +66,7 @@ Remember to regularly save your entries.
 
 <!-- section -->
 
-### 1.b  Creating entries | 20 min
-<!-- section-contents -->
-
-Create entries under two of the dates in the timeline. These can be subjects related to Boder’s life, such as:
-- When and  where did Boder study?
-- When was the wire recorder invented?
-- When were the American newsreels about the camps shown to an American audience?
-- Document your findings in the appropiate field in the template.
-
-<!-- section -->
-
-### 1.c  Create a new timeline | 120 min
+### 1.b  Create a new timeline | 120 min
 <!-- section-contents -->
 
 - Create your own account and a new timeline. Create at least four entries on a timeline about a topic related either to Boder’s life or to early accounts on experiences in concentration camps.
@@ -96,7 +85,7 @@ Tiki-Toki gives you the possibility of upgrading your account to a teacher’s a
 
 <!-- section -->
 
-### 1.d  Copyright Law and the web | 130 min
+### 1.c  Copyright Law and the web | 130 min
 <!-- section-contents -->
 
 For assignments 1b and 1c  you must take into account the existing legal
