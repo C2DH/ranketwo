@@ -36,7 +36,7 @@ how this news spread, and how it was represented by the international press.
 - Read the text about [Holocaust deniers](https://www.ushmm.org/wlc/en/article.php?ModuleId=10007272){:target="_blank"} on the website of the US Holocaust Memorial.
 - Go through the [timeline of Holocaust deniers](https://www.ushmm.org/wlc/en/article.php?ModuleId=10008003){:target="_blank"} on the same website.     
 - What kind of denial is the statement about the Holocaust of Ahmadinejad? Which part of the narrative about the Holocaust is questioned?
-- Compare the way the event has been covered in the international press.
+- Compare the way the event has been covered across different international sources (France, Great Britain, US, Germany)  
 - Document your findings in your template.
 
 <!-- section -->
