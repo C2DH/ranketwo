@@ -30,38 +30,41 @@ This assignment is designed to help you reflect on displacement camps as the fir
 ### 7.a  Envisioning a future life | 15 min
 <!-- section-contents -->
 
-The mindsets of the survivors housed in displacement camps were clearly geared towards the future. But there is one reference to commemoration projects.
+The mindsets of the survivors housed in displacement camps were clearly geared towards the future. There are however also references to commemoration projects. One of them is a poster commissioned by the "Central Historical Commission at the Central Committee of Liberated Jews in the American Zone of Occupation in Germany"
 - Stop the clip when the poster is shown and take a print screen.
-- As the text is in Hebrew, you are going to use Google’s image recognition technology to find more information about the poster. 
+- As the text is in Hebrew, if you don't master the language, you can use Google’s image recognition technology to find more information about the poster. 
 - Go to Google Images, click on the icon of the camera in the search bar, choose “upload” and upload the print screen of the poster.
-- You will find references to a collection of Jewish posters. 
-- Write a short abstract of max. 150 words about this collection, based on applying source criticism to its website:
-  - Who created the organisation?
-  - Who created the website? 
-  - When did this happen? 
-  - What financial resources were used?
-  - what was the purpose? 
-Document your findings in your template. 
+- If the link is still working you can find [information about the poster here.](https://il.bidspirit.com/ui/lotPage/source/catalog/auction/6955/lot/126311/Two-Posters-Issued-by-the-Central?lang=zh){:target="_blank"} 
+In the left corner, you will see the icon of a second poster. 
+- If the link is broken, open this screencast of the [webresource] 
+- What kind of website it this?
+- Where were the posters created, by whom and with what purpose?
+- Would you regard these posters as belonging to the domain of art or are they purely historical sources? 
 
 <!-- section -->
 
-### 7.b  Documenting the recent past | 20 min
+### 7.b  Displacement camps in 1945 and 1946 | 20 min
 <!-- section-contents -->
+- Boder interviewed survivors at the following locations:
+Bellevue, France; OPEJ children's home (6)
+Feldafing, Germany; Feldafing displaced-person's camp (2)
+Fontenay-aux-Roses, France; Chateau de Boucicaut; OSE home for adolescents (5)
+Genève, Switzerland (1)
+Genève, Switzerland; Community home for displaced Jewish refugees (3)
+Genève, Switzerland; ORT School (8)
+Hénonville, France (9)
+München, Germany; Funkkaserne displaced-person's camp (6)
+München, Germany; Lohengrinstrasse (10)
+München, Germany; UNRRA University at the Deutsches Museum (7)
+Paris, France (7)
+Paris, France; AJDC office (10)
+Paris, France; Grand Hotel (4)
+Paris, France; Jewish Committee home for adult Jewish refugees (15)
+Paris, France; ORT School (11)
+Tradate, Italy (9)
+Wiesbaden, Germany (5) 
+- Try and find out which of these locations were real displacement camps, and whether besides contributing to Boder's interview project other initiatives were taken up to document the experiences of the inmates. 
 
-- Click on [this link to see a poster created in a displacement camp](https://il.bidspirit.com/ui/lotPage/source/catalog/auction/6955/lot/126311/Two-Posters-Issued-by-the-Central?lang=zh){:target="_blank"}. 
-If the link is broken, try [this one](https://www.pinterest.pt/pin/169870217173984497/?amp_client_id=CLIENT_ID(_)&mweb_unauth_id=%7B%7Bdefault.session%7D%7D&from_amp_pin_page=true){:target="_blank"}.
-- Enlarge the image, read what it says in the left lower corner.
-- Try to find the original place where this poster was created by conducting web research.
-- Who designed the poster? Where was it created? With what resources? Who published it on the web? 
-Document your findings in your template. 
-
-<!-- section -->
-
-### 7.c  Displacement camps in 1945 and 1946 | 30 min
-<!-- section-contents -->
-
-- Boder also visited displacement camps. The Voices of the Holocaust website contains a map indicating all the locations that he visited.
-- Try to find out whether initiatives were taken up in these camps to document the experiences of the inmates. 
 - For your web research you can consult the following resources:                              
   - [https://www.ehri-project.eu/call-papers-life-aftermath-–-displaced-persons-displaced-children-and-child-survivors-move](https://www.ehri-project.eu/call-papers-life-aftermath-–-displaced-persons-displaced-children-and-child-survivors-move){:target="_blank"}
   - [https://collections.ushmm.org/search/](https://collections.ushmm.org/search/){:target="_blank"}
@@ -70,6 +73,7 @@ Document your findings in your template.
   Document your findings in your template. 
 
 <!-- section -->
+
 
 ### Reading/viewing  suggestions
 <!-- section-contents -->
