@@ -36,7 +36,8 @@ sect
 ### 6.a  Reconstructing the sequence of transformations: film footage | 20 min
 <!-- section-contents -->
 
-- Try to reconstruct the steps in the creation and dissemination of the film footage and its presence online.
+- Try to reconstruct what kind of technologies were applied to create this film at the time and how this type of source had to be processed to make it suitable to publish online and include itin this web-documentary. Make use of the teaching aid  ‘Handout for Digital Source Criticism’ that you can find on Ranke2. You will also have to conduct additional research. 
+
 - Note your findings in your template.
 
 <!-- section -->
