@@ -47,7 +47,7 @@ how this news spread, and how it was represented by the international press.
 - Consider the  two cases of denial before his statements in December 2005, and the impact in international politics of the event that was held in Iran in 2006. 
 - Consult this [wiki](https://en.wikipedia.org/wiki/International_Holocaust_Cartoon_Competition){:target="_blank"}.
 - Does this information change your perspective on how Ahmadinejad's statements should be interpreted? 
-- Write a short blog about how Ahmadinejad’s statements should be interpreted according to you.
+- Write a short essay about how Ahmadinejad’s statements should be interpreted according to you.
 - Add it to your template
 
 <!-- section -->
