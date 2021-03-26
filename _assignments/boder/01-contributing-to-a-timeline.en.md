@@ -32,9 +32,9 @@ In the animation you watched the focus is mostly on the creation and transformat
 ### Instructions
 <!-- section-contents -->
 
-- Go to the interactive animation (3rd screen from the top) you will see the program Klynt appear. Click on the tab 'index' in the left lower corner, and an overview will appear with boxes that contain extra information. Click on the box [**Boder’s biography**](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"} read the various sections.
+- Go to the 'animation in an interactive mode'(3rd screen from the top) and click on the pink play button, the name Klynt will appear shortly (this is the name of the software application that has been used for this interactive animation). At the bottom of the black screen you will see a series of tabs. Click on 'index' in the left lower corner and an overview will appear with boxes. Click on the box [**Boder’s biography**](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank" } and read the various sections.
   {: .headsup}
-- Go to the timeline [application Tiki-Toki](https://www.tiki-toki.com/){:target="_blank"}.
+- Go to the [Tiki-Toki application](https://www.tiki-toki.com/){:target="_blank"}timeline .
 - Fill in the login details of the account that has been created for this assignment
 
     Username: **Assignment1TikiToki**
@@ -49,7 +49,7 @@ If you need more guidance, then follow the step by step instructions provided in
 ### 1.a Entering data in a timeline | 30 min
 <!-- section-contents -->
 
-The chronological sequence of dates needs to be complemented with information. Create an entry in one of the dates in the timeline.
+The chronological sequence of dates needs to be complemented with information. 
 - Choose two dates to create entries.
 For more background information on Boder besides what is provided in the black box, go to the box "links", the last section of Boder’s biography, and consult the following resources:
   - Voices of the Holocaust
