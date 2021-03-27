@@ -12,8 +12,8 @@ outcomes:
   - Changes in accessibility and technology.
 ---
 
-In 1946 fifteen years old Edith Zierer was interviewed by David Boder in Bellevue, an orphanage for displaced Jewish children near Paris. The interview was conducted in German. 57 years later, in June 2003, she was interviewed again in Hebrew by an interviewer of the United States Holocaust Memorial Museum.
-The purpose of this assignment is to illustrate how the narrative on experiences in concentration camps and its impact on one’s life, changes over time. You will be comparing features of the interview held in 1946 to the one conducted in 2003.
+In 1946, Edith Zierer, who was only fifteen years old, was interviewed by David Boder at the Bellevue orphanage for displaced Jewish children in Paris. The interview was conducted in German. 57 years later, in June 2003, she was interviewed again in Hebrew by an interviewer from the United States Holocaust Memorial Museum.  
+The purpose of this assignment is to illustrate how the narrative on a similar topic – experiences in concentration camps and their impact on one’s life – changes over time and is determined by the age and status of both interviewer and narrator. You will be comparing features of the interview held in 1946 to the one conducted in 2003. 
 
 <!-- more -->
 
@@ -47,9 +47,6 @@ The purpose of this assignment is to illustrate how the narrative on experiences
 - How does this relate to the document that you are consulting online?
  Document your findings in your template.
 
-\* If you want to listen to [Edith Zierer](https://iit.aviaryplatform.com/r/0g3gx44z67){:target="_blank"}, you have to open the Chrome browser. Click on the small “i” icon and allow Flash Player and pop-ups. Bear in mind that the interview takes a long time to load, so you might want to carry on with another assignment in the meantime.
-
-![chrome-address-bar.png](../../assets/images/chrome-address-bar.png)
 
 <!-- section -->
 
