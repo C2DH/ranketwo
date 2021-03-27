@@ -37,13 +37,7 @@ The purpose of this assignment is to show how one source, an audio recording, ca
 <!-- section-contents -->
 
 - Read the interview with Jorn Gastfreund (alias Jurgen Bassfreund) with the short introduction by David Boder. It is 27 pages long. This is a digital scan of his printed book.
-- Now go to the [Voices of the Holocaust](http://voices.iit.edu/){:target="_blank"} website (use Chrome as your browser – it will allow you to accept Flash Player so that you can listen to the sound).
-- The URL looks like this:
-
-![chrome-address-bar.png](../../assets/images/chrome-address-bar.png)
-
-- click on the small “i” icon to configure your browser settings. Allow Flash Player and pop ups by ticking the boxes.
-- Then click on this link: <https://iit.aviaryplatform.com/r/1r6n00zz2w>{:target="_blank"}.
+- Now click on this link that will bring you to the interview conducted with Jurgen Bassfreund in German : <https://iit.aviaryplatform.com/r/1r6n00zz2w>{:target="_blank"}.
 - First read the “Commentary”. Then click on “English translation”.
 - Read the text up to the sentence:
 
@@ -66,7 +60,7 @@ The purpose of this assignment is to show how one source, an audio recording, ca
 <!-- section-contents -->
 
 - Read about how Boder’s handled the issue of language in Beate Muller’s article on Boder’s translations.
-- Write a short essay of about 750 words describing your explorations, and the differences you observed  between reading a scan from a book published in 1948, reading a transcript in digital format published online, and listening to the audio version. Use the template to note your findings about the different experiences.
+- Write a short essay of about 750 words describing your explorations, and the differences you observed between reading a scan from a book published in 1948, reading a transcript in digital format published online, and listening to the audio version. Use the template to note your findings about the different experiences.
 
 <!-- section -->
 
