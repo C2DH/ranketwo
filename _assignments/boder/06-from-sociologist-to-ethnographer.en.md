@@ -19,7 +19,6 @@ outcomes:
 ---
 
 Boder’s approach shifted from that of a traditional social scientist looking for evidence to that of an ethnographer documenting people’s expressions. The footage shown in this box was shot in Henonville but it only shows moving images of people without sound. The sound is stored on a separate medium. This assignment is designed to make students aware of the multimodal dimension of a source and how the web facilitates access to these different modes. You will be asked to reflect on the context of creation, the context of preservation and the context of digitisation of the material. 
-sect
 
 <!-- more -->
 
@@ -36,7 +35,7 @@ sect
 ### 6.a  Reconstructing the sequence of transformations: film footage | 20 min
 <!-- section-contents -->
 
-- Try to reconstruct what kind of technologies were applied to create this film at the time and how this type of source had to be processed to make it suitable to publish online and include itin this web-documentary. Make use of the teaching aid  ‘Handout for Digital Source Criticism’ that you can find on Ranke2. You will also have to conduct additional research. 
+- Try to reconstruct what kind of technologies were applied to create this film at the time and how this type of source had to be processed to make it suitable to publish online and include it in this web-documentary. Make use of the teaching aid  ‘Handout for Digital Source Criticism’ that you can find on Ranke2. You will also have to conduct additional research. 
 
 - Note your findings in your template.
 
