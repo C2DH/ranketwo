@@ -17,7 +17,7 @@ outcomes:
   - Learning to trace the origin of a photo through web research
 ---
 
-In this assignment we are going to trace the identity of the families portrayed in the photos, as they lived their lives before the Second World War. Here as well, they are portrayed as an anonymous family, their personal identity, their name, age and background are not mentioned in the animation. They have been used to illustrate a situational context. Because this lesson is about source criticism, we have traced back the context in which these photos were taken and the names of the people who are portrayed. The assignment challenges students to search for the context in which these photos were taken and how they ended up in this animation. 
+In this assignment we are going to trace the identity of the families portrayed in the photos, as they lived their lives before the Second World War. Just as in assignment 4, they are portrayed as an anonymous group of people. Their personal identity, their name, age and background are not mentioned in the animation. They have been used to illustrate a situational context. Because this lesson is about source criticism, we have traced back the context in which these photos were taken and the names of the people who are portrayed. The assignment challenges students to search for the context in which these photos were taken and how they ended up in this animation. 
 
 <!-- more -->
 
