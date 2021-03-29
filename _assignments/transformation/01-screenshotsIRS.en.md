@@ -49,7 +49,7 @@ Using the PDF, you will see all the major fields for metadata information in the
 - Fill out only the metadata fields that are highlighted for the first of the two screenshots you took, either in the Mac or the Windows version, while taking note of all the other types of common metadata
 
 {:.table.border.table-sm.text-bold-highlight}
-| Mac OS metadata | Screenshot |
+| Mac OS metadata | Finding |
 |-----------------|------------|
 | **Kind**
 | **Size**
@@ -68,7 +68,7 @@ Using the PDF, you will see all the major fields for metadata information in the
 | Sharing permissions
 
 {:.table.border.table-sm.text-sm.text-bold-highlight}
-| Windows metadata | Screenshot |
+| Windows metadata | Finding |
 |-----------------|------------|
 | **Type of file**
 | **Opens with**
