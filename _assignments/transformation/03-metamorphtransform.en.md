@@ -142,19 +142,19 @@ Then, find the corresponding passage about the mythological figures that is depi
 [![The Death of Niobe's children](/../../assets/images/transformation/3d/thumbs/johann-konig-the-death-of-niobes-children.jpg "The Death of Niobe's children")](/../../assets/images/transformation/3d/johann-konig-the-death-of-niobes-children.jpg){:target="_blank"}
 
 {:.table.border.table-sm.with-pairs}
-| question | answer |
+| Question | Answer |
 | --- |---|
-| name, author, date |
+| Name, author, date |
 | Which is the Myth depicted (with description of characters)? |
 | Link to corresponding passage from Ovid’s Metamorphoses? |
 | Name contemporary artist and work of art? |
 
 
 {:.table.border.table-sm.with-pairs}
-| question | answer |
+| Question | Answer |
 | --- |---|
 | picture | ![The Death of Niobe's children](/../../assets/images/transformation/3d/thumbs/johann-konig-the-death-of-niobes-children.jpg)
-| name, author, date |  The Death of Niobe's Children, Johann König (First half of 17th century)
+| Name, author, date |  The Death of Niobe's Children, Johann König (First half of 17th century)
 | Which is the Myth depicted (with description of characters)? | The twin children of Latona, Phoebus (Apollo) and Phoebe (Artemis), kill all 14 of Niobe’s children in punishment for her refusal to worship Latona. From: [Bk VI:204-266 The gods’ vengeance: Niobe’s sons are killed](https://ovid.lib.virginia.edu/trans/Metamorph6.htm#480077261){:target="_blank"}
 | Link to corresponding passage from Ovid’s Metamorphoses? | “There was a broad, open plain near the walls, flattened by the constant passage of horses, where many wheels and hard hooves had levelled the turf beneath them. There, a number of Amphion’s seven sons mounted on their strong horses, and sitting firmly on their backs, bright with Tyrian purple, guided them using reins heavy with gold. While Ismenus, one of these, who had been the first of his mother’s burdens, was wheeling his horse’s path around in an unerring circle, and hauling at the foaming bit, he cried out ‘Oh, I am wounded!’ and revealed an arrow fixed in his chest, and loosing the reins from his dying hands, slipped gradually, sideways, over his mount’s right shoulder.
 | | Next Sipylus, hearing the sound of a quiver in the empty air, let out the reins, just as a shipmaster sensing a storm runs for it when he sees the cloud, and claps on all sail, so that not even the slightest breeze is lost. Still giving full rein, he was overtaken, by the arrow none can avoid, and the shaft stuck quivering in his neck, and the naked tip protruded from his throat. Leaning forward, as he was, he rolled down over the mane and the galloping hooves
