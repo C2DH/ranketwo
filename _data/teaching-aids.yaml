@@ -12,7 +12,7 @@
     abstract:
       en: 'Guide on how to create teaching content for Ranke.2'
     url: /assets/pdf/C2.1c-howtocollaborate.pdf
-    type: external link, pdf file
+    type: pdf file
     mimetype: pdf
 -
     title: 'Handout for Teaching Digital Source Criticism'
@@ -20,33 +20,31 @@
     abstract:
       en: 'Aids that explain how digitised and born digital sources are created'
     url: /assets/pdf/C3.1-visual-aid-3.pdf
-    type: external link, pdf file
+    type: pdf file
     mimetype: pdf
 -
     title: 'Answer form for "David Boder,from wire recorder to website"'
     abstract:
       en: 'Answer form for "David Boder,from wire recorder to website"'
     url: https://www.openedition.org/11106?lang=en
-    type: external link, pdf file
+    type: external link
     units:
       - boder
 -
-
     title: 'Answer form From archival to digital turn'
     abstract:
       en: 'Answer form From archival to digital turn'
     url: /assets/pdf/answerform-ArchivalToDigital-1-nonotes.pdf
-    type: external link, pdf file
+    type: pdf file
     mimetype: pdf
     units:
       - archival-digital-turn
 -
-
     title: 'Struggling with timelines'
     abstract:
       en: 'How to find a suitable timeline tool'
     url: /assets/pdf/struggling-timeline.pdf
-    type: external link, pdf file
+    type: pdf file
     mimetype: pdf
     units:
       - boder
@@ -56,7 +54,7 @@
       en: 'Aid for working with the timeline tool TikiToki'
     url: /assets/pdf/tutorial-tiki.pdf
     mimetype: pdf
-    type: external link, pdf file
+    type: pdf file
     units:
       - boder
 -
@@ -64,7 +62,7 @@
     abstract:
       en: 'Aid for tracing the publication date of webcontent'
     url: /assets/pdf/what-works-and-what-doesnot.pdf
-    type: external link, pdf file
+    type: pdf file
     mimetype: pdf
     units:
       - archival-digital-turn
@@ -73,7 +71,14 @@
     abstract:
       en: 'Aid with search tips '
     url: /assets/pdf/Cheat-Sheet-with-tips-from-Google.pdf
-    type: external link, pdf file
+    type: pdf file
     mimetype: pdf
     units:
       - archival-digital-turn
+-
+    title: 'How to search the Waybackmachine'
+    url: /assets/pdf/wayback-machine-interface.pdf
+    type: pdf file
+    mimetype: pdf
+    units:
+      - webarchives
