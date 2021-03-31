@@ -1,6 +1,6 @@
 ---
 type: large
-title: Workshop
+title: Hands on - from Analogue to Digital Source - Learning by Doing
 lang: en
 parent: archival-digital-turn
 size: L
