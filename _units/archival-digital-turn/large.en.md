@@ -4,13 +4,13 @@ title: Workshop
 lang: en
 parent: archival-digital-turn
 size: L
+cover:
+  url: /assets/images/archival-digital-turn/workshop.jpg
 ---
 
+This module offers guidelines and content to organise a two-day workshop with lectures, theoretical discussions and hands-on experiences on the concept of ‘digital source criticism’. The four assignments that are offered deal with:
 
-This LARGE module still has to be developed and will be published soon.  
-
-<!-- more -->
-
-### Available soon
-<!-- section-contents -->
-...
+1. Reviewing literature on the concept,
+2. Visualising the technology of various digitisation processes,
+3. Digitizing various data types,
+4. Tracing the genealogy of the term and how it is applied in different disciplines.

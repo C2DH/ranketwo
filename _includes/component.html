@@ -33,6 +33,9 @@
         {% endif %}
         {% if component.size == 'L'%}
         <h3><a class='component--size big' href='{{ "about-lessons" | relative_url}}#large--engage-in-workshops'>L</a> {{component.title}}</h3>
+        <div class='caption'>
+          {{component.content | markdownify }}
+        </div>
 
 
         {% endif %}

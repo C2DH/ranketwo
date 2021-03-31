@@ -100,7 +100,11 @@
 
 }
 
-
+.component.large{
+  img {
+    max-width: 100%;
+  }
+}
 
 .component-wrapper{
   margin-top: 0px;
@@ -111,7 +115,7 @@
 
 
 
-  &.clip, &.quiz, &.interactive{
+  &.clip, &.quiz, &.interactive, &.large{
     border-top: 1px solid blue;
     margin-bottom: 0px;
     padding-bottom: 0;
@@ -146,9 +150,15 @@
       border: 1px solid cyan;
     }
 
-    div.caption p{
-      color: $almost-white;
+    div.caption{
+      p, li{
+        color: $almost-white;
+      }
     }
+  }
+
+  &.large{
+    padding-bottom: 2rem;
   }
 
   &.quiz, &.interactive {
