@@ -1,0 +1,7 @@
+<div class="component workshop">
+  {% if component.cover.url %}
+    <img alt="{{ component.title }}" src="{{ component.cover.url }}" />
+  {% else %}
+    not found.
+  {% endif %}
+</div>

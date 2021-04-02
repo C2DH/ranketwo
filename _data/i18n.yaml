@@ -33,8 +33,10 @@ interactive:
   en: watch this interactive animation
 introduction:
   en: about the lesson
-large:
+workshop:
   en: workshop
+workshop-content:
+  en: about the workshop
 download answer template:
   en: download answer template
   fr: download answer template

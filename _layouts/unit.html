@@ -6,7 +6,8 @@ layout: default
 {% assign quizzes = components | where: "type", "quiz" %}
 {% assign interactives = components | where: "type", "interactive" %}
 {% assign videolectures = components | where: "type", "videolecture" %}
-{% assign larges = components | where: "type", "large" %}
+{% assign workshop = components | where: "type", "workshop" %}
+{% assign workshopContent = site.workshops | where: "unit", page.unit_id | where: "lang", page.lang | sort: 'order' %}
 
 {% assign introductions = components | where: "type", "introduction" %}
 
@@ -179,7 +180,11 @@ layout: default
 
 {% endif %}
 
-{% for component in larges %}
+{% for component in workshop %}
+  {% include component.html %}
+{% endfor %}
+
+{% for component in workshopContent %}
   {% include component.html %}
 {% endfor %}
 
@@ -230,7 +235,7 @@ layout: default
                 <a href='#c-assignments'>{% assign key="assignments" %}{% include t.html %} ({{assignments.size}}) / M</a>
               </li>
             {% endif %}
-            {% for component in larges %}
+            {% for component in workshop %}
               <li>
                 <div class='lines'>
                   <div class="group">
