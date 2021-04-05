@@ -1,5 +1,5 @@
 ---
-title: objective 
+title: Objective 
 type: introduction
 parent: archival-digital-turn
 lang: en
