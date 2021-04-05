@@ -23,6 +23,7 @@ cover:
 og:
   description: "Lesson about the fundamentals of the web and web archiving for historians."
 ---
+Curated by Stefania Scagliola, Jordan Ricker and Valerie Schaefer 
 
 Lesson about the fundamentals of the web and web archiving for historians.
 
