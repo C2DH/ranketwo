@@ -23,6 +23,7 @@ order: 4
 og:
   description: "Digital technology has stirred our imagination and enabled us to create new realities"
 ---
+Curated by Stefania Scagliola and Jordan Ricker
 
 A lesson about how digital technology has stirred our imagination and enabled us to create new realities. At the same time we need to be sceptical about the merits of an all-encompassing digital lifestyle.
 
