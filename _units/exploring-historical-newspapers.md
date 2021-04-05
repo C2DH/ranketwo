@@ -23,7 +23,8 @@ order: 10
 og:
   description: "Digitised newspapers are changing the way historians use them as historical sources, and ask new skills for applying source criticism."
 ---
+Curated by Marten Duering, Estelle Bunout and Stefania Scagliola 
 
-Impresso.
+Lesson about the digitisation and exploration of digital newspapers 
 
 <!-- more -->
