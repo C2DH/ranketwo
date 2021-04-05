@@ -20,6 +20,7 @@ components:
   small: animation + quiz
   medium: animation + 6 assignments
 mediatype: photos, letters, emails
+curated: by Stefania Scagliola
 cover:
   url: assets/images/attachments/WikiXDC_National_Archives_Tour_Hall_-_Stierch.jpg
 order: 1
