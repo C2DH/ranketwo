@@ -5,8 +5,6 @@ parent: archival-digital-turn
 lang: en
 link: /u/archival-digital-turn/
 ---
-Curated by Stefania Scagliola 
-
 This lesson aims to teach students of humanities disciplines how the digital turn has affected the method of applying source criticism to a historical source that is published on the web. Besides the usual questions about the origin, authenticity and value of a source, one must ask questions that relate to how the digitisation process has led to transformations and alterations of the source. With regard to digital born sources, questions have to be asked about the software that was used to create the source.
 
 <!-- more -->
