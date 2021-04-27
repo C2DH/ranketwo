@@ -22,5 +22,4 @@ mediatype: social media, personal documents
 cover:
 order: 1
 answertemplate:
-og:
-  description: How historians can benefit from integrating social media in teaching and research
+og:description: How historians can benefit from integrating social media in teaching and research
