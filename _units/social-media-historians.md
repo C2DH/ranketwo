@@ -1,3 +1,4 @@
+---
 title: "Social Media and Historians"
 layout: unit
 toc: on
@@ -22,4 +23,12 @@ mediatype: social media, personal documents
 cover:
 order: 1
 answertemplate:
-og:description: How historians can benefit from integrating social media in teaching and research
+og:
+description: How historians can benefit from integrating social media in teaching and research
+---
+Curated by Stefania Scagliola, Jordan Ricker and Emmanuelle Decker
+
+Lesson on how to deal with the abudance of digital born data, with regard to research, reaching out to audiences,teaching and preservation strategies, with social media as a case study.
+
+<!-- more -->
+
