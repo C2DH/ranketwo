@@ -1883,3 +1883,11 @@
     url: "https://www.youtube.com/watch?v=ABF2FvSPVYE"
     _id: c01aadc569b84991ba459f2835ca7ac2
     _resolved: true
+-
+    title: 'History Students Social Media Log Comparison'
+    slug: social-media-log-comparison
+    type: pdf
+    data:
+        title:
+            en_us: 'History Students Social Media Log Comparison'
+    attachment: '/assets/pdf/social-media-historians/history-students-social-media-log-comparison.pdf'
