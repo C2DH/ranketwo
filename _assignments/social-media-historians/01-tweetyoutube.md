@@ -15,7 +15,8 @@ order: 1
 ---
 Amongst historians, it is argued that in order to consider an event "mature" enough for historical inquiry, there should be distance in time and access to classified documents. This idea of a necessary "waiting period" has long  determined the "historicity" of a given event or topic. The advent of the web and social media—with direct access to an abundance of data, especially in the realm of the private life—seems to have challenged the idea of what can be considered as "historical". In this assignment, you are going to be confronted with different opinions on the role of social media in history and whether they can be considered "historical sources".
 
-
+{:.mosaic}
+[![Charles Darwin portrait by John Collier](/../../assets/images/transformation/1c/thumbs/charles-darwin-portrait-by-john-collier.jpg "Charles Darwin portrait by John Collier")](/../../assets/images/transformation/1c/charles-darwin-portrait-by-john-collier.jpg){:target="_blank"}
 ![socialmedia](../../assets/images/social-media/socialmedia.gif){:target="_blank"}
 ![iphone](../../assets/images/social-media/iphone.gif){:target="_blank"}
 ![interactivity](../../assets/images/social-media/interactivity.gif){:target="_blank"}
