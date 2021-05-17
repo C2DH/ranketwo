@@ -1,5 +1,5 @@
 ---
-title: "Social media and historians; who bother?"
+title: "Social media and historians; why bother?"
 type: clip
 lang: en
 parent: social-media-historians
