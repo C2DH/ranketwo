@@ -16,9 +16,9 @@ order: 1
 Amongst historians, it is argued that in order to consider an event "mature" enough for historical inquiry, there should be distance in time and access to classified documents. This idea of a necessary "waiting period" has long  determined the "historicity" of a given event or topic. The advent of the web and social media—with direct access to an abundance of data, especially in the realm of the private life—seems to have challenged the idea of what can be considered as "historical". In this assignment, you are going to be confronted with different opinions on the role of social media in history and whether they can be considered "historical sources".
 
 
-![socialmedia](../../assets/images/social-media/socialmedia.gif)
-![iphone](../../assets/images/social-media/iphone.gif)
-![interactivity](../../assets/images/social-media/interactivity.gif)
+![socialmedia](../../assets/images/social-media/socialmedia.gif){:target="_blank"}
+![iphone](../../assets/images/social-media/iphone.gif){:target="_blank"}
+![interactivity](../../assets/images/social-media/interactivity.gif){:target="_blank"}
 
 Image credits: 
 Image 1: Linaria Comunicación via Giphy - (https://media.giphy.com/media/rB8CbdO6xSJofmOAKL/giphy.gif)
