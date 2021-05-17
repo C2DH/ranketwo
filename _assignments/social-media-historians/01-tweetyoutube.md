@@ -74,7 +74,8 @@ A Wikipedia page - https://en.wikipedia.org/wiki/List_of_female_explorers_and_tr
 After having argued why or why not something should be considered "historical", let's examine what professional historians have to say on the subject. 
 
 Option 1
-Read the following two blogs by professional historians and jot down what arguments are presented by the authors about what can be considered to be part of the ‘past’:
+
+Read the following two blogs by professional historians and jot down what arguments are presented by the authors about ***what can be considered to be part of the ‘past’***:
 
 [Suzannah Lipscomb in the British history journal Historytoday in her blog post "How recent is History?"](https://www.historytoday.com/how-recent-history)(770 words) 
 Selected quote: "Historians from the page might want to learn from those of the screen". 
@@ -84,7 +85,7 @@ Selected quote: "Today, hundreds of billions of websites preserved at the Intern
 
 Option 2
 
-Watch the two clips and read the two blogs below and then list some positive and problematic aspects of historians engaging with social media. 
+Watch the two clips and read the two blogs below and then list some ***positive and problematic aspects of historians engaging with social media.*** 
 Clips:
 
 [Journalist/writer John Birmingham on the website of the Born Digital program of the National and State Libraries of Australia](https://youtu.be/p9BmO-HLcVk) (9 min) 
@@ -100,19 +101,12 @@ Selected quote: "In a Twitter thread last June, curator Sara Huws wrote of her c
 [Digital historians Caroline Mueller and Frederic Clavert reflect on the prejudices of historians against social media](https://www.historytoday.com/archive/head-head/social-media-good-history)(4237 words) 
 Selected quote: ‘"The social networking service Twitter suffers from a bad reputation in the academic world and, more broadly, among those who do not use it."
 
-Combining your own thoughts with those you've now seen from professional historians, write a short essay of about 500 words with your opinion on when an event, experience, or artifact becomes "historical" and what this means for the relationship between historians and social media. Use the space in your answer form.
+Combining your own thoughts with those you have now seen from professional historians, write a short essay of about 500 words with your opinion on when an event, experience, or artifact becomes "historical" and what this means for the relationship between historians and social media. Use the space in your answer form.
 (Hint: Think of the introduction of previous popular media such as radio, the telephone, film, or television and what kind of sources they yielded)
 
 Further Reading/Viewing Suggestions
 ["How does the past become history?" History on screen , University of Tartu](https://ajalugu.haridusekraanil.ee/en/theoretical/time-together/how-does-the-past-form-the-history) Last accessed 28 April 2021
 
-
-<!-- section -->
-
-### 1.b Chapter 1.b
-<!-- section-contents -->
-
-Assignment example
 
 <!-- section -->
 
