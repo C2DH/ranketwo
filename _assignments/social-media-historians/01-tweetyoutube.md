@@ -53,6 +53,7 @@ An Instagram account - https://www.instagram.com/lgbt_history/
 
 ![pink](../../assets/images/social-media/pink.png)
 
+
 A Wikipedia page - https://en.wikipedia.org/wiki/List_of_female_explorers_and_travelers 
 
 ![wiki](../../assets/images/social-media/wiki.png)
