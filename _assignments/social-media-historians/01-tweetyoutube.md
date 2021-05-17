@@ -64,7 +64,7 @@ After having argued why or why not something should be considered "historical", 
 Option 1
 Read the following two blogs by professional historians and jot down what arguments are presented by the authors about what can be considered to be part of the ‘past’:
 
-Suzannah Lipscomb in the British history journal Historytoday in her blog post "How recent is History?" (770 words)- https://www.historytoday.com/how-recent-history
+[Suzannah Lipscomb in the British history journal Historytoday in her blog post "How recent is History?"](https://www.historytoday.com/how-recent-history)(770 words) 
 
 Selected quote: "Historians from the page might want to learn from those of the screen". 
 
