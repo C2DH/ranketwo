@@ -36,24 +36,23 @@ Do you consider any of these messages, posts, photos, or web pages "historical"?
 
 A Tweet - https://www.bbc.com/news/technology-13257940 
  
-![tweetbinladen](/../../assets/images/social-media/1a/tweetbinladen.png)
-
+![tweetbinladen](../../assets/images/social-media/1a/tweetbinladen.png)
 
 A Gif - https://media.giphy.com/media/LMeVjYYdUkOoE/giphy.gif 
 
-![firstfilm](/../../assets/images/social-media/1a/firstfilm.gif)
+![firstfilm](../../assets/images/social-media/1a/firstfilm.gif)
 
 A Facebook group - https://www.facebook.com/groups/1500687070143366 
 
-![facebook]((/../../assets/images/social-media/1a/facebook.png)
+![facebook]((../../assets/images/social-media/1a/facebook.png)
 
 An Instagram account - https://www.instagram.com/lgbt_history/ 
 
-![pink]((/../../assets/images/social-media/1a/pink.png)
+![pink]((../../assets/images/social-media/1a/pink.png)
 
 A Wikipedia page - https://en.wikipedia.org/wiki/List_of_female_explorers_and_travelers 
 
-![wiki]((/../../assets/images/social-media/1a/wiki.png)
+![wiki](../../assets/images/social-media/1a/wiki.png)
 
 <!-- section -->
 
