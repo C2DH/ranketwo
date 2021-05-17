@@ -34,9 +34,12 @@ Image 3: Flamingo Services via Giphy - https://media.giphy.com/media/jQmn1Dkw55R
 
 Do you consider any of these messages, posts, photos, or web pages "historical"? Argue why or why not you would consider this content"historical" and support your answers through web research on the background and/or authors of the content. Write down your answers in the answer form.
 
+
 A Tweet - https://www.bbc.com/news/technology-13257940 
  
 ![tweetbinladen](../../assets/images/social-media/tweetbinladen.png)
+
+
 
 
 A Gif - https://media.giphy.com/media/LMeVjYYdUkOoE/giphy.gif 
@@ -44,14 +47,23 @@ A Gif - https://media.giphy.com/media/LMeVjYYdUkOoE/giphy.gif
 ![firstfilm](../../assets/images/social-media/firstfilm.gif)
 
 
+
+
+
 A Facebook group - https://www.facebook.com/groups/1500687070143366 
 
 ![facebook](../../assets/images/social-media/facebook.png)
 
 
+
+
+
 An Instagram account - https://www.instagram.com/lgbt_history/ 
 
 ![pink](../../assets/images/social-media/pink.png)
+
+
+
 
 
 A Wikipedia page - https://en.wikipedia.org/wiki/List_of_female_explorers_and_travelers 
