@@ -210,6 +210,19 @@
       width: 50px;
       border: 1px solid cyan;
     }
+
+    .mosaic {
+      img {
+        float: left;
+        margin: 5px;
+        height: 200px;
+      }
+      &:after {
+        content: '';
+        display: block;
+        clear: both;
+      }
+    }
   }
 
   // &.introduction{

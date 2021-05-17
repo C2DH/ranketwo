@@ -76,20 +76,6 @@
   img {
     max-width: 100%;
   }
-
-  .mosaic {
-    img {
-      float: left;
-      margin: 5px;
-      height: 200px;
-    }
-
-    &:after {
-      content: '';
-      display: block;
-      clear: both;
-    }
-  }
 }
 
 .border{
