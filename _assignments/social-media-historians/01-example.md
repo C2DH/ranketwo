@@ -45,13 +45,15 @@ A Gif - https://media.giphy.com/media/LMeVjYYdUkOoE/giphy.gif
 
 A Facebook group - https://www.facebook.com/groups/1500687070143366 
 
-FACEBOOK 
+![facebook]((/../../assets/images/social-media/1a/facebook.png)
 
 An Instagram account - https://www.instagram.com/lgbt_history/ 
 
-INSTAGRAM
+![pink]((/../../assets/images/social-media/1a/pink.png)
 
 A Wikipedia page - https://en.wikipedia.org/wiki/List_of_female_explorers_and_travelers 
+
+![wiki]((/../../assets/images/social-media/1a/wiki.png)
 
 <!-- section -->
 
