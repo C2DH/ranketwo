@@ -27,3 +27,4 @@ Watch this TEDx Talk by [journalist and computer scientist Tom Standage author o
 In the table below, the key characteristics of this YouTube clip are listed. Your task is to check Standage’s claims about social media being the continuation of an old practice by complementing the table with the examples that he gives of social media in the past. Try to determine whether the features of the ancient social media that Standage discusses are similar or different to contemporary ones.
 <!-- section -->
 
+<!-- briefing-teacher -->
