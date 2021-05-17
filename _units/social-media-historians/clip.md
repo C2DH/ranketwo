@@ -8,7 +8,7 @@ iframe: social-media
 
 {: .headsup}                            
 
-This animation describes the relevance and historical value of social media for the historical community. 
+This animation discusses the relevance and historical value of social media for the historical community. 
 
 
 
