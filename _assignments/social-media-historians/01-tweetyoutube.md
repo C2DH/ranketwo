@@ -65,11 +65,9 @@ Option 1
 Read the following two blogs by professional historians and jot down what arguments are presented by the authors about what can be considered to be part of the ‘past’:
 
 [Suzannah Lipscomb in the British history journal Historytoday in her blog post "How recent is History?"](https://www.historytoday.com/how-recent-history)(770 words) 
-
 Selected quote: "Historians from the page might want to learn from those of the screen". 
 
-Historian Ian Milligan in the British/Australian platform for journalism The Conversation (1100 words) https://theconversation.com/historians-archival-research-looks-quite-different-in-the-digital-age-121096
-
+[Historian Ian Milligan in the British/Australian platform for journalism The Conversation](https://theconversation.com/historians-archival-research-looks-quite-different-in-the-digital-age-121096)(1100 words) 
 Selected quote: "Today, hundreds of billions of websites preserved at the Internet Archive alone is more archival information than scholars have ever had access to".
 
 Option 2
@@ -77,37 +75,25 @@ Option 2
 Watch the two clips and read the two blogs below and then list some positive and problematic aspects of historians engaging with social media. 
 Clips:
 
-Journalist/writer John Birmingham on the website of the Born Digital program of the National and State Libraries of Australia: (9 min) https://youtu.be/p9BmO-HLcVk
-
+[Journalist/writer John Birmingham on the website of the Born Digital program of the National and State Libraries of Australia](https://youtu.be/p9BmO-HLcVk) (9 min) 
 Selected quote: "All of that stuff, of which we don’t really think about, because it’s like the air around us, that’s HISTORY!"
 
-Historian Rebecca Huntley on the website of the Born Digital program of the National and State Libraries of Australia: (3.30 min) https://www.youtube.com/watch?v=hR9VQPfNHaE&feature=youtu.be
-
+[Historian Rebecca Huntley on the website of the Born Digital program of the National and State Libraries of Australia](https://www.youtube.com/watch?v=hR9VQPfNHaE&feature=youtu.be)(3.30 min) 
 Selected quote: "Reflecting now on my life, and the documents in my life, a lot is not written down"
 
 Blogs:
-Historian Cathrine Fletcher in the British Journal History today: (1480 words) https://www.historytoday.com/archive/head-head/social-media-good-history
-
+[Historian Cathrine Fletcher in the British Journal History today](https://www.historytoday.com/archive/head-head/social-media-good-history)(1480 words) 
 Selected quote: "In a Twitter thread last June, curator Sara Huws wrote of her concern that the histories she tweeted from a Welsh museum account got more attention if she implied they’d been suppressed."
 
-Digital historians Caroline Mueller and Frederic Clavert reflect on the prejudices of historians against social media (4237 words) - https://www.historytoday.com/archive/head-head/social-media-good-history 
-
+[Digital historians Caroline Mueller and Frederic Clavert reflect on the prejudices of historians against social media](https://www.historytoday.com/archive/head-head/social-media-good-history)(4237 words) 
 Selected quote: ‘"The social networking service Twitter suffers from a bad reputation in the academic world and, more broadly, among those who do not use it."
 
 Combining your own thoughts with those you've now seen from professional historians, write a short essay of about 500 words with your opinion on when an event, experience, or artifact becomes "historical" and what this means for the relationship between historians and social media. Use the space in your answer form.
 (Hint: Think of the introduction of previous popular media such as radio, the telephone, film, or television and what kind of sources they yielded)
 
 Further Reading/Viewing Suggestions
-"How does the past become history?" History on screen. University of Tartu. https://ajalugu.haridusekraanil.ee/en/theoretical/time-together/how-does-the-past-form-the-history. Last accessed 28 April 2021
+["How does the past become history?" History on screen , University of Tartu](https://ajalugu.haridusekraanil.ee/en/theoretical/time-together/how-does-the-past-form-the-history) Last accessed 28 April 2021
 
-
-
-
-
-
-
-
-Assignment example
 
 <!-- section -->
 
