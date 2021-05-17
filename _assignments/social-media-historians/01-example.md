@@ -36,7 +36,7 @@ Do you consider any of these messages, posts, photos, or web pages "historical"?
 
 A Tweet - https://www.bbc.com/news/technology-13257940 
  
-![Image search results Google Image](/../../assets/images/transformation/1b/google-image-screenshot.png)
+![Tweetbinladen](/../../assets/images/socialmedia/1a/tweetbinladen.png)
 
 A Gif - https://media.giphy.com/media/LMeVjYYdUkOoE/giphy.gif 
 
