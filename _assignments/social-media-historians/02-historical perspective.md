@@ -22,7 +22,7 @@ When looking at social media from a historian's perspective, it is important to 
 ### 2.a When did it all start?| 20 Min
 <!-- section-contents -->
 
-[romans](../../assets/images/social-media/romans.png)
+![romans](../../assets/images/social-media/romans.png)
 
 Image credit: Portrait of Terentius Neo, ca. 20-30 CE. Currently preserved at the Naples National Archaeological Museum and freely available in the public domain. Available at: https://www.museoarcheologiconapoli.it/en/room-and-sections-of-the-exhibition/frescoes/
 
