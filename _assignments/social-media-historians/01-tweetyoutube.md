@@ -49,7 +49,6 @@ A Gif - https://media.giphy.com/media/LMeVjYYdUkOoE/giphy.gif
 
 
 
-
 A Facebook group - https://www.facebook.com/groups/1500687070143366 
 
 ![facebook](../../assets/images/social-media/facebook.png)
@@ -57,11 +56,9 @@ A Facebook group - https://www.facebook.com/groups/1500687070143366
 
 
 
-
 An Instagram account - https://www.instagram.com/lgbt_history/ 
 
 ![pink](../../assets/images/social-media/pink.png)
-
 
 
 
