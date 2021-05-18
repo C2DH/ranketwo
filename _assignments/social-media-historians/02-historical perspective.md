@@ -36,7 +36,7 @@ In the table below, the key characteristics of this YouTube clip are listed. You
 | Radio broadcasts |  |  |  |  |
 | Film recording of a lecture with slides by a renowned scholar on the topic of technology and communication (16 min)  |  |  |  |  |
 
-
+*This is a simplification of the technological processes involved in uploading and viewing a YouTube video. For more detailed information on these processes, check out [this 2016 infographic from How It Works](https://www.howitworksdaily.com/wp-content/uploads/2016/04/How-YouTube-works-1024x891.jpg).
 
 <!-- section -->
 
