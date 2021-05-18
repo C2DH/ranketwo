@@ -22,9 +22,9 @@ Amongst historians, it is argued that in order to consider an event "mature" eno
 [![interactivity](https://media.giphy.com/media/jQmn1Dkw55R3cjm3eC/giphy.webp "Flamingo Services via Giphy")](https://giphy.com/gifs/instagram-hearts-likes-jQmn1Dkw55R3cjm3eC){:target="_blank"}
 
 Image credits:
-Image 1: Linaria Comunicación via Giphy - (https://media.giphy.com/media/rB8CbdO6xSJofmOAKL/giphy.gif)
-Image 2: INTO ACTION via Giphy - https://media.giphy.com/media/gIMdqhwG5Xa45Mb2Ex/giphy.gif
-Image 3: Flamingo Services via Giphy - https://media.giphy.com/media/jQmn1Dkw55R3cjm3eC/giphy.gif
+Image 1: Linaria Comunicación via Giphy
+Image 2: INTO ACTION via Giphy
+Image 3: Flamingo Services via Giphy 
 
 <!-- more -->
 
@@ -40,25 +40,27 @@ A Tweet - https://www.bbc.com/news/technology-13257940
 
 ![tweetbinladen](../../assets/images/social-media/tweetbinladen.png)
 
-{:.mt-4}
+{:.mt-5}
 A Gif - https://media.giphy.com/media/LMeVjYYdUkOoE/giphy.gif
 
 ![firstfilm](../../assets/images/social-media/firstfilm.gif)
 
-{:.mt-4}
+{:.mt-5}
 A Facebook group - https://www.facebook.com/groups/1500687070143366
 
 ![facebook](../../assets/images/social-media/facebook.png)
 
-{:.mt-4}
+{:.mt-5}
 An Instagram account - https://www.instagram.com/lgbt_history/
 
 ![pink](../../assets/images/social-media/pink.png)
 
-{:.mt-4}
+{:.mt-5}
 A Wikipedia page - https://en.wikipedia.org/wiki/List_of_female_explorers_and_travelers
 
 ![wiki](../../assets/images/social-media/wiki.png)
+
+{:.mt-5}
 
 <!-- section -->
 
@@ -66,9 +68,9 @@ A Wikipedia page - https://en.wikipedia.org/wiki/List_of_female_explorers_and_tr
 <!-- section-contents -->
 After having argued why or why not something should be considered "historical", let's examine what professional historians have to say on the subject.
 
-Option 1
+**Option 1**
 
-Read the following two blogs by professional historians and jot down what arguments are presented by the authors about ***what can be considered to be part of the ‘past’***:
+Read the following two blogs by professional historians and jot down what arguments are presented by the authors about *what can be considered to be part of the ‘past’*:
 
 [Suzannah Lipscomb in the British history journal Historytoday in her blog post "How recent is History?"](https://www.historytoday.com/how-recent-history)(770 words)
 Selected quote: "Historians from the page might want to learn from those of the screen".
@@ -76,9 +78,9 @@ Selected quote: "Historians from the page might want to learn from those of the 
 [Historian Ian Milligan in the British/Australian platform for journalism The Conversation](https://theconversation.com/historians-archival-research-looks-quite-different-in-the-digital-age-121096)(1100 words)
 Selected quote: "Today, hundreds of billions of websites preserved at the Internet Archive alone is more archival information than scholars have ever had access to".
 
-Option 2
+**Option 2**
 
-Watch the two clips and read the two blogs below and then list some ***positive and problematic aspects of historians engaging with social media.***
+Watch the two clips and read the two blogs below and then list some *positive and problematic aspects of historians engaging with social media.*
 Clips:
 
 [Journalist/writer John Birmingham on the website of the Born Digital program of the National and State Libraries of Australia](https://youtu.be/p9BmO-HLcVk) (9 min)
@@ -97,14 +99,12 @@ Selected quote: ‘"The social networking service Twitter suffers from a bad rep
 Combining your own thoughts with those you have now seen from professional historians, write a short essay of about 500 words with your opinion on when an event, experience, or artifact becomes "historical" and what this means for the relationship between historians and social media. Use the space in your answer form.
 (Hint: Think of the introduction of previous popular media such as radio, the telephone, film, or television and what kind of sources they yielded)
 
-Further Reading/Viewing Suggestions
-["How does the past become history?" History on screen , University of Tartu](https://ajalugu.haridusekraanil.ee/en/theoretical/time-together/how-does-the-past-form-the-history) Last accessed 28 April 2021
-
-
 <!-- section -->
 
 ### Reading/viewing suggestions
 <!-- section-contents -->
+["How does the past become history?" History on screen , University of Tartu](https://ajalugu.haridusekraanil.ee/en/theoretical/time-together/how-does-the-past-form-the-history) Last accessed 28 April 2021
 
-Assignment example
+
+
 <!-- briefing-teacher -->
