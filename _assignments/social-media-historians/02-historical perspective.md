@@ -27,6 +27,17 @@ Image credit: Portrait of Terentius Neo, ca. 20-30 CE. Currently preserved at th
 
 Watch this TEDx Talk by [journalist and computer scientist Tom Standage author of "Writing on the wall"](https://youtu.be/ixsridS3qVs)(16 min), a study on social media from a historical perspective. In his talk, he argues that a number of historical periods and events have the same type of communication structure as present-day social media. He goes so far as to regard the era of traditional analogue media - radio, television, and film - as an exception to the practice of passing on information at a low cost that can be modified from one peer to another. In his view, the twenty-first century is a "return" to the communication structures that were common before the technological innovations of the nineteenth and twentieth centuries.
 In the table below, the key characteristics of this YouTube clip are listed. Your task is to check Standage’s claims about social media being the continuation of an old practice by complementing the table with the examples that he gives of social media in the past. Try to determine whether the features of the ancient social media that Standage discusses are similar or different to contemporary ones.
+
+
+| | Content | Time period and geographic area | Social Medium | Technologies applied |
+| Wax tablets and scrolls	|  |  |  |  |
+| Pamphlets |  |  |  |  |
+| Coffeehouses |  |  |  |  |
+| Radio broadcasts |  |  |  |  |
+| Film recording of a lecture with slides by a renowned scholar on the topic of technology and communication (16 min)  |  |  |  |  |
+
+
+
 <!-- section -->
 
 <!-- briefing-teacher -->
