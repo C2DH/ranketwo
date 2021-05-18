@@ -40,4 +40,23 @@ In the table below, the key characteristics of this YouTube clip are listed. You
 
 <!-- section -->
 
+### 2.b Different views on the beginning of social media | ? Min
+<!-- section-contents -->
+
+Read this concise history on the origins of social media,offered as part of an [online course for bachelor students of marketing at Maryville University in St. Louis, Missouri (USA)](https://online.maryville.edu/blog/evolution-social-media/) , and answer the following question in your answer form. 
+
+- What was the first form of social media, according to the definition of social media referred to in this article?
+- According to the author, there have been two major shifts with regard to users/audiences who engage with social media and the devices through which they communicate. Identify these two changes.
+
+| | 
+
+Now read a different version of the history of social media, this time published on the platform [History Cooperative by author Matthew Jones](https://historycooperative.org/the-history-of-social-media/) and answer the following question in your answer form. 
+
+"The Complete History of Social Media: A Timeline of the Invention of Online Networking", History Cooperative, June 16, 2015, https://historycooperative.org/the-history-of-social-media/. Last accessed 6 October 2020.
+
+Which two key elements are different in Jones' interpretation of the phenomenon of social media compared to the one offered by Maryville University?
+
+| |
+
+
 <!-- briefing-teacher -->
