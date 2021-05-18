@@ -38,6 +38,19 @@ In the table below, the key characteristics of this YouTube clip are listed. You
 
 
 
+| | Common things done on a computer/smartphone | Uses the internet but not the web | Uses both the internet and the web |
+| Searching for a picture on Google	|  |  |  |
+| Using Skype for a video call |  |  |  |
+| Checking email with an application |  |  |  |
+| Looking at your Facebook or Instagram feed on a web browser |  |  |  |
+| Sharing a file with someone via a peer-to-peer file network |  |  |  |
+| Downloading a file from a website |  |  |  |
+| Making a call via FaceTime |  |  |  |
+
+
+
+
+
 <!-- section -->
 
 <!-- briefing-teacher -->
