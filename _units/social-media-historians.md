@@ -3,14 +3,14 @@ title: "Social Media and Historians"
 layout: unit
 toc: on
 tags:
-  - social media 
+  - social media
   - preservation
   - decontextualisation
   - copyright
   - open access
   - multimodality
   - youth culture
-  - digital pedagogy 
+  - digital pedagogy
 lang: en
 unit_id: social-media-historians
 link: /u/social-media-historians/
@@ -21,6 +21,7 @@ components:
   medium: animation + 6 assignments
 mediatype: social media, personal documents
 cover:
+  url: https://i.vimeocdn.com/video/1134520619.jpg?mw=700&mh=394
 order: 1
 answertemplate:
 og:
@@ -31,4 +32,3 @@ Curated by Stefania Scagliola, Jordan Ricker and Emmanuelle Decker
 Lesson on how to deal with the abudance of digital born data, with regard to research, reaching out to audiences,teaching and preservation strategies, with social media as a case study.
 
 <!-- more -->
-
