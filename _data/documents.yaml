@@ -6,9 +6,9 @@
         embed:
             title: internet
             author_name:  maryville university 
-            thumbnail_url: 'https://image.thum.io/get/https://online.maryville.edu/blog/evolution-social-media'    
+            thumbnail_url: 'https://image.thum.io/get/https://online.maryville.edu/blog/evolution-social-media/'    
         year: 2021
-    url: 'https://online.maryville.edu/blog/evolution-social-media'
+    url: 'https://online.maryville.edu/blog/evolution-social-media/'
 -
     title: 'What is the world wide web?  Twila Camp'
     slug: what-web
