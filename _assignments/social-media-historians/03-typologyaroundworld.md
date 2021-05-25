@@ -13,7 +13,7 @@ tags:
 outcomes:
 order: 3
 ---
-
+![typology](../../assets/images/social-media/typology.png)
 
 "2021 World Map of Social Networks". Image created by Vincenzo Cosenza and used here without adaptation from the original on Vinco’s Blog under Creative Commons License CC-BY-NC.
 
@@ -23,12 +23,15 @@ In this assignment, you are expected to conduct web research to complete the pro
 <!-- more -->
 <!-- briefing-student -->
 
-### 2.a When did it all start?| 20 Min
+### 3.a Social Media around the world|20 Min
 <!-- section-contents -->
-![romans](../../assets/images/social-media/romans.png)
+
+In the two tables below, a number of social media platforms are listed. Some are popular worldwide and some are only known in specific regions. Fill out the table below in your answer form with the help of web research and/or literature. Remember, you can always make use of Google Translate for languages that you don’t understand fluently. 
 
 
-Image credit: Portrait of Terentius Neo, ca. 20-30 CE. Currently preserved at the Naples National Archaeological Museum and freely available in the public domain. Available at: https://www.museoarcheologiconapoli.it/en/room-and-sections-of-the-exhibition/frescoes/
+
+
+
 
 Watch this TEDx Talk by [journalist and computer scientist Tom Standage author of "Writing on the wall"](https://youtu.be/ixsridS3qVs)(16 min), a study on social media from a historical perspective. In his talk, he argues that a number of historical periods and events have the same type of communication structure as present-day social media. He goes so far as to regard the era of traditional analogue media - radio, television, and film - as an exception to the practice of passing on information at a low cost that can be modified from one peer to another. In his view, the twenty-first century is a "return" to the communication structures that were common before the technological innovations of the nineteenth and twentieth centuries.
 In the table below, the key characteristics of this YouTube clip are listed. Your task is to check Standage’s claims about social media being the continuation of an old practice by complementing the table with the examples that he gives of social media in the past. Try to determine whether the features of the ancient social media that Standage discusses are similar or different to contemporary ones.
