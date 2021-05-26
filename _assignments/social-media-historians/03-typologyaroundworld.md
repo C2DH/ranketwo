@@ -60,20 +60,22 @@ Table 2
 Now you are going to focus on the companies behind a number of well-known social media platforms and the  strategies and policies of these companies regarding their platforms.  Fill out the table below in your answer form with the help of web research and/or literature.
 
 | | LinkedIn| Whatsapp | Youtube | 
-| *Type of platform:* 
-blogging/discussing/sharing/connecting/crowdsourcing |  |  |  |  
-| *Creators:* 
-name of company, CEO, founding date, location of headquarters |  |  |  |  
-| *Business model:* 
-how do they generate income?|  |  |  |  
-| *What is their selling point? 
-What maked the unique? * |  |  |  |  
-| *Do they exert control on what is posted by users? 
-Why or why not? * |  |  |  | 
-| *What is their policy with regard 
-to the data they collect? * | | | |
+| *Type of platform:* blogging/discussing/sharing/connecting/crowdsourcing |  |  |  |  
+| *Creators:* name of company, CEO, founding date, location of headquarters |  |  |  |  
+| *Business model:* how do they generate income?|  |  |  |  
+| *What is their selling point? What maked the unique? * |  |  |  |  
+| *Do they exert control on what is posted by users? Why or why not? * |  |  |  | 
+| *What is their policy with regard to the data they collect? * | | | |
 
+<!-- section -->
 
+### 3.c Business models of social media 
+<!-- section-contents -->
+
+After having compared the different companies behind some of the world's most well-known social media platforms, read this infographic post  ["How Social Sites Make Money"](https://www.getcenturylink.com/how-social-sites-make-money) from CenturyLink as well as this 2018 Slate article by Will Oremus ["Are You Really the Product?"](https://slate.com/technology/2018/04/are-you-really-facebooks-product-the-history-of-a-dangerous-idea.html) and answer the following questions below in approximately 500 words:
+
+What is the connection between personal data and income generation for social media platforms? What do you think about the ethics behind this? 
+|   |
                      
 <!-- briefing-teacher -->
 
