@@ -27,6 +27,8 @@ One of the best ways to understand the impact and function of social media on ou
 | Day 1 |
 | Day 2 |
 | Day 3 |
+
+[fix the design of table]
 <!-- section -->
                      
 <!-- briefing-teacher -->
