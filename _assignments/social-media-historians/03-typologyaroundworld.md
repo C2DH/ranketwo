@@ -14,8 +14,7 @@ outcomes:
 order: 3
 ---
 ![typology](../../assets/images/social-media/typology.png)
-{:.mt-4}
-"2021 World Map of Social Networks". Image created by Vincenzo Cosenza and used here without adaptation from the original on Vinco’s Blog under Creative Commons License CC-BY-NC.
+"2021 World Map of Social Networks". Image created by Vincenzo Cosenza and used here without adaptation from the original on Vinco’s Blog under Creative Commons License CC-BY-NC. [smaller font and downsize image]
 
 In this assignment, you are expected to conduct web research to complete the profiles of different social media platforms. There are many approaches to specifying the characteristics of a social medium; for instance, one can consider the technology and the type of communication it facilitates, the user experience, or focus on the policy and strategy of the company that runs the social medium, the business model. These different approaches help to better understand what these different social media actually are and classifying their typology allows historians to more accurately analyse the digital sources that are produced by them as content.
 
@@ -67,6 +66,8 @@ Now you are going to focus on the companies behind a number of well-known social
 | *Do they exert control on what is posted by users? Why or why not?* |  |  |  | 
 | *What is their policy with regard to the data they collect?* | | | |
 
+[make sure that field with Youtube is visible]
+
 <!-- section -->
 
 ### 3.c Business models of social media 
@@ -76,7 +77,7 @@ After having compared the different companies behind some of the world's most we
 
 What is the connection between personal data and income generation for social media platforms? What do you think about the ethics behind this? 
 
-[rectangular block here]
+[place empty rectangular block here]
 
                      
 <!-- briefing-teacher -->
