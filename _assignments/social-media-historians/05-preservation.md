@@ -81,10 +81,15 @@ Congress Blog, 26.12.2017, https://blogs.loc.gov/loc/2017/12/update-on-the-twitt
 Have a closer look at this Twitter account: https://twitter.com/POTUS45 
 ![trump](../../assets/images/social-media/trump.png)
 
+[make image smaller]
+
+
 Image credit: Screenshot of "President Trump 45 Archived (@POTUS45)" Twitter page taken on a desktop computer on 14 April 2021 - https://twitter.com/POTUS45 
 
 - Has the Library of Congress indeed applied the criteria that they describe in their change of policy in December 2017?
 - Does this mean that these archived Tweets are accessible for research? Elaborate your answer with arguments.
+
+[instead of a table, create an empty rectangular box, as a symbol for the answer for]
 
 |  your arguments  |   |
 |   |   |
@@ -101,6 +106,8 @@ Read this paper by Helen Hockx-Yu presented at the international conference of t
 
 List three important arguments for why archiving social media is problematic. 
 
+[instead of a table, create an empty rectangular box, with 3 rows and each a number]
+
 1.
 2.
 3.
@@ -110,6 +117,8 @@ At the end of her paper, she suggests alternative ways of preserving social medi
   - In which way and by what means?
   - What would motivate you to make this effort of preserving your private archive? 
   - What are your ideas about who owns the copyright and how your privacy and that of your social circle should be dealt with?
+
+[instead of a table, create an empty rectangular box, with 4 rows and each a number]
 
 1.
 2.
