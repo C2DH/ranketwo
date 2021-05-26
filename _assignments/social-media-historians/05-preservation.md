@@ -42,8 +42,6 @@ You are now going to conduct an historical inquiry into these two social media p
 
 - Complete this table on the basis of the info you can find:
 
-
-
 | | Six degrees | Friendster | 
 | Created: date, place, name of authors/company |  |  |
 | Business model: |  |  |
