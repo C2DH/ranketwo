@@ -12,7 +12,6 @@ tags:
 outcomes:
 order: 5
 ---
-[fix images and table]
 
 ![digitalbevaring](../../assets/images/social-media/digitalbevaring.png)
 
