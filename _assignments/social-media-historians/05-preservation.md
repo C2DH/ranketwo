@@ -14,7 +14,8 @@ order: 5
 ---
 [fix images and table]
 
-![digitalbevaring] (../../assets/images/social-media/digitalbevaring.png)
+![digitalbevaring](../../assets/images/social-media/digitalbevaring.png)
+
 
 "Digital Preservation." Image created by Jørgen Stamp and used here without adaptation from the original on Digitalbevaring.dk 
 under Creative Commons License CC BY 2.5 DK.
@@ -23,8 +24,8 @@ under Creative Commons License CC BY 2.5 DK.
 
 ### 5.a An historical inquiry into two archived social media platforms
 <!-- section-contents -->
-![six] (../../assets/images/social-media/six.png)
-![friend] (../../assets/images/social-media/friend.png)
+![six](../../assets/images/social-media/six.png)
+![friend](../../assets/images/social-media/friend.png)
 
 SixDegrees: Logo in public domain. Image from https://commons.wikimedia.org/wiki/File:SixDegrees.com_logo.png. 
 Friendster: Former logo used from 2002-2009. Image from https://1000logos.net/wp-content/uploads/2021/04/Friendster-Logo-2002.png. 
