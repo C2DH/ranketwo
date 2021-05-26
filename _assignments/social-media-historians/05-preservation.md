@@ -53,22 +53,19 @@ You are now going to conduct an historical inquiry into these two social media p
 | Privacy:* What does the company that runs the platform know about their users and what happens to this data? | | | |
 
 
-
-
-
-| |Six Degrees|Friendster|
-| Created: date, place, name of authors/company | | |
-| Business model: | | |
-| Objective: | | |
-| Target audience: | | |
-| Access: | | |
-| Design: | | |
+| | Six Degrees | Friendster |
+| Created: date, place, name of authors/company |  |  |
+| Business model: |  |  |
+| Objective: |  |  |
+| Target audience: |  |  |
+| Access: |  |  |
+| Design: |  |  |
 | Users:
 How Many
 Background 
-Nationality | | |
+Nationality |  |  |
 | Shut down or bought by other company: 
-who when and why | | |
+who when and why |  |  |
 
 <!-- section -->
                      
