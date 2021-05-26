@@ -53,7 +53,7 @@ You are now going to conduct an historical inquiry into these two social media p
 | Privacy:* What does the company that runs the platform know about their users and what happens to this data? | | | |
 
 
-| Six Degrees | Friendster |
+| | Facebook | Cloob | VK  | 
 | Created: date, place, name of authors/company |  |  |
 | Business model: |  |  |
 | Objective: |  |  |
