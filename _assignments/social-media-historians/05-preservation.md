@@ -43,27 +43,15 @@ You are now going to conduct an historical inquiry into these two social media p
 - Complete this table on the basis of the info you can find:
 
 
-| | Facebook | Cloob | VK  | 
-| *Social element of the platform* e.g.,blogging, discussing, sharing, connecting, crowdsourcing |  |  |  |  
-| *Content:* What kind of content is produced on this platform? e.g., news, opinions, photos, personal stories, messages, games, films, clips, hobbies |  |  |  |  
-| *Closest similar set of practices in the analogue era* e.g., pub, letter, telegraph, cinema, photo album, etc.|  |  |  |  
-| *Target audience:* Who is the primary target of this platform? business or leisure? |  |  |  |  
-| *Device:* What kind of device do you need to access the social medium? e.g., computer, tablet, smartphone, etc. |  |  |  | 
-| Control:* Is what is posted monitored? If so, by whom and for what reason? (and if not, why not?) | | | |
-| Privacy:* What does the company that runs the platform know about their users and what happens to this data? | | | |
 
-
-| | Facebook | Cloob | VK  | 
+| | Six degrees | Friendster | 
 | Created: date, place, name of authors/company |  |  |
 | Business model: |  |  |
 | Objective: |  |  |
 | Target audience: |  |  |
 | Access: |  |  |
 | Design: |  |  |
-| Users:
-How Many
-Background 
-Nationality |  |  |
+| Users: How many, their background, nationality |  |  |
 | Shut down or bought by other company: 
 who when and why |  |  |
 
