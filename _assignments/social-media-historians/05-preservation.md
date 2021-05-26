@@ -71,6 +71,30 @@ Congress Blog, 26.12.2017, https://blogs.loc.gov/loc/2017/12/update-on-the-twitt
 |   |   |
 
 [place the table more at the centre]
+<!-- section -->
+
+### 5.c Who is still covered by the Library of Congress?
+ <!-- section-contents -->
+ 
+- Read this article by Andrew McGill on how the LOC underestimated the problems that it would encounter by archiving the entire Twitter archive: , «Can Twitter Fit Inside the Library of Congress? », The Atlantic, 04.08.2016. <http://www.theatlantic.com/technology/archive/2016/08/can-twitter-fit-inside-the-library-of-congress/494339/>, 
+
+Have a closer look at this Twitter account: https://twitter.com/POTUS45 
+![trump](../../assets/images/social-media/trump.png)
+
+Image credit: Screenshot of "President Trump 45 Archived (@POTUS45)" Twitter page taken on a desktop computer on 14 April 2021 - https://twitter.com/POTUS45 
+
+- Has the Library of Congress indeed applied the criteria that they describe in their change of policy in December 2017?
+- Does this mean that these archived Tweets are accessible for research? Elaborate your answer with arguments.
+
+|  your arguments  |   |
+|   |   |
+|   |   |
+|   |   |
+
+<!-- section -->
+
+ 
 
 <!-- briefing-teacher -->
+
 
