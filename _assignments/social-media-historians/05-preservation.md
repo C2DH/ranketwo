@@ -54,6 +54,21 @@ You are now going to conduct an historical inquiry into these two social media p
 who when and why |  |  |
 
 <!-- section -->
-                     
+
+### 5.b Archival efforts to preserve social media 
+  <!-- section-contents -->
+  
+The duty of a person or group to deposit a copy of a publication or of a  government to deposit all its documents to a national library or archive is described in a so-called  [‘legal deposit’](https://www.ifla.org/book/export/html/8302). The exact terms vary from country to country. What they do have in common is that until the late 20th century this obligation only applied to printed, and sometimes, audio-visual materials. With the advent of digital technology the legislation had to be extended to digital documents. This asks for different measures, but is fairly feasible with regard to static digital content. Yet, with the increasingly dynamic, interactive and immediate character of social media data, and the issue of copyright, cultural heritage institutions are faced with a set of new challenges.
+Read the following two blogs and make notes on arguments pro-preservation of Tweets and arguments against: 
+- The Library of Congress announces on its website that it is going to preserve all tweets that have been created through Twitter, on April 14th 2010. Go through the first 30 comments on the announcement. « How Tweet It Is!: Library Acquires Entire Twitter Archive », Library of Congress Blog, 14.04.2010, <https://blogs.loc.gov/loc/2010/04/how-tweet-it-is-library-acquires-entire-twitter-archive/>
+
+- Blog published seven years later. «Update on the Twitter Archive at the Library of Congress», Library of                
+Congress Blog, 26.12.2017, https://blogs.loc.gov/loc/2017/12/update-on-the-twitter-archive-at-the-library-of-congress-2/?loclr=blogloc
+
+|  pro-preservation |  against preservation |
+|   |   |
+|   |   |
+
+
 <!-- briefing-teacher -->
 
