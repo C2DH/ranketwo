@@ -1,7 +1,7 @@
 -
     title: 'historycooperative'
-    slug: history-cooperative
-    type: link
+    slug:  history-cooperative
+    type:  link
     data:
       embed:
         author_name: matthew jones
@@ -10,8 +10,8 @@
     url: 'https://historycooperative.org/the-history-of-social-media'
 -
     title: 'Evolution Social Media'
-    slug: evolution-social-media
-    type: link
+    slug:  evolution-social-media
+    type:  link
     data:
         embed:
             title: internet
