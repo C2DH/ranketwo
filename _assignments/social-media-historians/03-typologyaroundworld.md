@@ -60,12 +60,18 @@ Table 2
 Now you are going to focus on the companies behind a number of well-known social media platforms and the  strategies and policies of these companies regarding their platforms.  Fill out the table below in your answer form with the help of web research and/or literature.
 
 | | LinkedIn| Whatsapp | Youtube | 
-| *Type of platform:* blogging/discussing/sharing/connecting/crowdsourcing |  |  |  |  
-| *Creators:* name of company, CEO, founding date, location of headquarters |  |  |  |  
-| *Business model:* how do they generate income?|  |  |  |  
-| *What is their selling point? What maked the unique? * |  |  |  |  
-| *Do they exert control on what is posted by users? Why or why not?* |  |  |  | 
-| *What is their policy with regard to the data they collect? | | | |
+| *Type of platform:* 
+blogging/discussing/sharing/connecting/crowdsourcing |  |  |  |  
+| *Creators:* 
+name of company, CEO, founding date, location of headquarters |  |  |  |  
+| *Business model:* 
+how do they generate income?|  |  |  |  
+| *What is their selling point? 
+What maked the unique? * |  |  |  |  
+| *Do they exert control on what is posted by users? 
+Why or why not? * |  |  |  | 
+| *What is their policy with regard 
+to the data they collect? * | | | |
 
 
                      
