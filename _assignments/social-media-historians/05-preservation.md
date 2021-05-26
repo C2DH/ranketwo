@@ -68,7 +68,7 @@ Congress Blog, 26.12.2017, https://blogs.loc.gov/loc/2017/12/update-on-the-twitt
 |  pro-preservation |  against preservation |
 |   |   |
 |   |   |
-
+|   |   |
 
 <!-- briefing-teacher -->
 
