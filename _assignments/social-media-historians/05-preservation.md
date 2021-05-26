@@ -13,33 +13,45 @@ outcomes:
 order: 5
 ---
 
-
+![digitalbevaring] (../../assets/images/social-media/digitalbevaring.png)
+"Digital Preservation." Image created by Jørgen Stamp and used here without adaptation from the original on Digitalbevaring.dk 
+under Creative Commons License CC BY 2.5 DK.
 <!-- more -->
 <!-- briefing-student -->
 
-### 5.a Document and compare your own use of social media 
+### 5.a An historical inquiry into two archived social media platforms
 <!-- section-contents -->
-One of the best ways to understand the impact and function of social media on our lives is to closely monitor your own use of it. For this assignment, you are expected to keep a log of your social media use for three consecutive days and then compare your own habits with those of three anonymous history students as well as with statistical data for your country of residence. 
+![six] (../../assets/images/social-media/six.png)
+![friend] (../../assets/images/social-media/friend.png)
 
-1. Keep a log of your own social media use with the help of the schedule below. (You can also find a copy and complete this in your answer form)
+SixDegrees: Logo in public domain. Image from https://commons.wikimedia.org/wiki/File:SixDegrees.com_logo.png. 
+Friendster: Former logo used from 2002-2009. Image from https://1000logos.net/wp-content/uploads/2021/04/Friendster-Logo-2002.png. 
 
-| |Which social media platform I used | Why I used it | What I felt about it | How long I used it for |
-| Day 1 |
-| Day 2 |
-| Day 3 |
+In the chronological list of social media referred to in assignment 3b two early initiatives are mentioned: SixDegrees.com (www.SixDegrees.com) and Friendster (http://www.friendster.com, now defunct). If these would be the names of telephone companies or daily newspapers from the early 1900’s, you would probably start your research in company or government archives. But who is responsible for preserving the content of web platforms that were accessible worldwide but no longer exist? We are lucky to have the non profit organisation, the Internet Archive, dedicated to instructing robots to make daily snapshots of whatever is published online, store this material in a database and make it retrievable through a search interface.
+You are now going to conduct an historical inquiry into these two social media platforms by consulting the Internet Archive. 
+[see for a more in depth - our handout on how to search the Internet Archive](https://ranke2.uni.lu/assets/pdf/wayback-machine-interface.pdf)  
 
-[fix the design of table]
+- Put the url of  www.SixDegrees.com in the search box of the IA and search for snapshots made on April 28th 1999. https://web.archive.org/web/19990428073521/http://www.sixdegrees.com/  
 
-2. After keeping your own log, open the link below to see the log of three  anonymous history students and note what strikes you as similar and different in their habits from your own.
-[Link to History Students Social Media Log Comparison]
+- Open up a new tab in your browser and now search for http://www.friendster.com  and look for the snapshots made on April 1st 2004. https://web.archive.org/web/20040401183007/http://friendster.com/info/moreinfo.jsp 
 
-3. Lastly, compare your use of social media with that of your country of residence. Use this 2021 global report on the use of social media to look up your respective country. (Simon Kemp, we are social/Hootsuite, slides 78-101)
-What can you say when comparing your social media habits with those of the students above and the global report? Write down some of your thoughts and findings in a short essay (max. 250 words). 
+- You now have 2 start pages with several links to other pages. Make a comparison between the two by reading the startpage, checking the links that still work, and looking up information in the  section ‘about us’, ‘about the company’, ‘about the site’ (often only to find in a very small font at the very bottom of a page)
 
-[rectangular block that represents space in answer form]
+- Complete this table on the basis of the info you can find:
 
-
-
+| |Six Degrees|Friendster|
+| Created: date, place, name of authors/company| | |
+| Business model:| | |
+| Objective:| | |
+| Target audience:| | |
+| Access:| | |
+| Design:| | |
+| Users:
+How Many
+Background 
+Nationality | | |
+| Shut down or bought by other company: 
+who when and why | | |
 
 <!-- section -->
                      
