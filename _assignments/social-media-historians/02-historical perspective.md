@@ -42,8 +42,7 @@ In the table below, the key characteristics of this YouTube clip are listed. You
 
 ### 2.b Different views on the beginning of social media | ? Min
 <!-- section-contents -->
-
- Read this concise history on the origins of social media,offered as part of an [online course for bachelor students of marketing at Maryville University in St. Louis, Missouri (USA)](https://online.maryville.edu/blog/evolution-social-media/) , and answer the following question in your answer form. 
+Read this concise history on the origins of social media,offered as part of an [online course for bachelor students of marketing at Maryville University in St. Louis, Missouri (USA)](https://online.maryville.edu/blog/evolution-social-media/) , and answer the following question in your answer form. 
 
 [card] evolution-social-media
 
