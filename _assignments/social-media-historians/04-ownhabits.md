@@ -17,5 +17,6 @@ order: 4
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="dqSRAaT"  ><a href="//imgur.com/dqSRAaT">Smartphone Social Media</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-
+<!-- more -->
+<!-- briefing-student -->
 
