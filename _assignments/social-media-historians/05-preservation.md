@@ -93,7 +93,29 @@ Image credit: Screenshot of "President Trump 45 Archived (@POTUS45)" Twitter pag
 
 <!-- section -->
 
+### 5.d What about other social media? 
+ <!-- section-contents -->
  
+Much attention has been given to the ‘open approach’ of Twitter with regard to access to its data. But what about the many other social platforms? Do they offer the same possibilities? 
+Read this paper by Helen Hockx-Yu presented at the international conference of the Federation of Libraries and Archives in 2014 in Lyon, on the difficulties of archiving social media data for cultural heritage institutions. http://library.ifla.org/999/1/107-hockxyu-en.pdf 
+
+List three important arguments for why archiving social media is problematic. 
+
+1.
+2.
+3.
+
+At the end of her paper, she suggests alternative ways of preserving social media, then through key institutions that are held accountable.  Imagine your daily use of social media, and the needs of a historian in 100 years time to understand the lifestyle of young people between 2020 and 2025 (the years of Covid and its aftermath)  
+  - What do you think should be preserved? 
+  - In which way and by what means?
+  - What would motivate you to make this effort of preserving your private archive? 
+  - What are your ideas about who owns the copyright and how your privacy and that of your social circle should be dealt with?
+
+1.
+2.
+3.
+4.
+
 
 <!-- briefing-teacher -->
 
