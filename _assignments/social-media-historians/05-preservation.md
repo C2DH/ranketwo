@@ -15,6 +15,7 @@ order: 5
 [fix images and table]
 
 ![digitalbevaring] (../../assets/images/social-media/digitalbevaring.png)
+
 "Digital Preservation." Image created by Jørgen Stamp and used here without adaptation from the original on Digitalbevaring.dk 
 under Creative Commons License CC BY 2.5 DK.
 <!-- more -->
