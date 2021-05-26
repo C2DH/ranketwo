@@ -23,10 +23,10 @@ One of the best ways to understand the impact and function of social media on ou
 
 1. Keep a log of your own social media use with the help of the schedule below. (You can also find a copy and complete this in your answer form)
 
-| |Which social media platform I used |Why I used it|What I felt about it|How long I used it for|
-| Day 1|
-| Day 2|
-| Day 3|
+| |Which social media platform I used | Why I used it | What I felt about it | How long I used it for |
+| Day 1 |
+| Day 2 |
+| Day 3 |
 <!-- section -->
                      
 <!-- briefing-teacher -->
