@@ -23,7 +23,7 @@ Amongst historians, it is argued that in order to consider an event "mature" eno
 
 Image credits:
 Image 1: Linaria Comunicación via Giphy
-Image 2: INTO ACTION via Giphy
+Image 2: No action;   via Giphy
 Image 3: Flamingo Services via Giphy 
 
 <!-- more -->
