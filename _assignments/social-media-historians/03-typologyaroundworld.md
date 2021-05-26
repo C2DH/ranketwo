@@ -41,7 +41,8 @@ Table 1
 
 
 Table 2 
-| | JamiiForums | Ravelry | Instagram  | 
+
+| | JamiiForums | Ravelry | Instagram | 
 | *Social element of the platform* e.g.,blogging, discussing, sharing, connecting, crowdsourcing |  |  |  |  
 | *Content:* What kind of content is produced on this platform? e.g., news, opinions, photos, personal stories, messages, games, films, clips, hobbies |  |  |  |  
 | *Closest similar set of practices in the analogue era* e.g., pub, letter, telegraph, cinema, photo album, etc.|  |  |  |  
