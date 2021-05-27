@@ -22,7 +22,7 @@ Answer the questions below in your answer form.
 ### 7.a Twitter’s history and specific characteristics 
 <!-- section-contents -->]
 
-**How it was created**
+***How it was created***
 
 ![dorsey](../../assets/images/social-media/dorsey.jpg)
 
