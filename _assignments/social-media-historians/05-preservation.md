@@ -22,10 +22,11 @@ under Creative Commons License CC BY 2.5 DK.
 <!-- briefing-student -->
 
 ### 5.a An historical inquiry into two archived social media platforms
-<!-- section-contents -->]
+<!-- section-contents -->
 
-![six](../../assets/images/social-media/six.png)
-![friend](../../assets/images/social-media/friend.png)
+{:.text-center}
+![six](../../assets/images/social-media/six.png){:style="width:250px;display:inline"}
+![friend](../../assets/images/social-media/friend.png){:style="width:250px;display:inline"}
 
 SixDegrees: Logo in public domain. Image from https://commons.wikimedia.org/wiki/File:SixDegrees.com_logo.png.
 Friendster: Former logo used from 2002-2009. Image from https://1000logos.net/wp-content/uploads/2021/04/Friendster-Logo-2002.png.
