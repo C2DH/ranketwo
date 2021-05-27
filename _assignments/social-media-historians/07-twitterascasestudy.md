@@ -126,5 +126,12 @@ Those two snapshots are versions of the tweets archived by the Wayback Machine o
 
 <!-- section -->
 
+### Reading/viewing suggestions
+<!-- section-contents -->
+
+Zimmer Michael, « The Twitter Archive at the Library of Congress: Challenges for information practice and information policy », First Monday 20 (7), 21.06.2015. En ligne: <http://firstmonday.org/ojs/index.php/fm/article/view/5619>.
+
+<!-- section -->
+
 <!-- briefing-teacher -->
 
