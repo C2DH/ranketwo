@@ -37,7 +37,7 @@ Read [this interview in the Los Angeles Times of February 18 2009 with Jack Dors
 {:style="height:100px"}
 | |
 
-**How it is defined**
+***How it is defined***
 
 ![jacktweet](../../assets/images/social-media/jacktweet.png)
 
@@ -52,7 +52,7 @@ Go to the [Twitter beginner’s guide](https://help.twitter.com/en/new-user-faq)
 {:style="height:100px"}
 | |
 
-**How it changed over time**
+***How it changed over time***
 
 ![bird](../../assets/images/social-media/bird.png)
 
@@ -88,7 +88,7 @@ Now go to the present Twitter homepage: http://www.twitter.com
 {:style="height:100px"}
 | |
 
-**How you can interact with others**
+***How you can interact with others***
 
 ![obamareply](../../assets/images/social-media/obamareply.png)
 
@@ -104,7 +104,7 @@ Go to this [New York Times article by Mike Isaac](https://www.nytimes.com/2017/0
 | |
 
 
-**How a Tweet is archived**
+***How a Tweet is archived***
 
 ![jacktweet](../../assets/images/social-media/jacktweet.png)
 Image credit: Jack Dorsey (@jack) - https://twitter.com/jack/status/20 
