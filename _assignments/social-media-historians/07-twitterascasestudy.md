@@ -37,9 +37,11 @@ Read [this interview in the Los Angeles Times of February 18 2009 with Jack Dors
 {:style="height:100px"}
 | |
 
+
 ***How it is defined***
 
 ![jacktweet](../../assets/images/social-media/jacktweet.png)
+Image credit: The Lighthouse(@the_bercibot) - https://twitter.com/the_bercibot/status/1379647473640161280 
 
 Go to the [Twitter beginner’s guide](https://help.twitter.com/en/new-user-faq) to answer this question:
 - What is a tweet?
@@ -52,6 +54,7 @@ Go to the [Twitter beginner’s guide](https://help.twitter.com/en/new-user-faq)
 {:style="height:100px"}
 | |
 
+
 ***How it changed over time***
 
 ![bird](../../assets/images/social-media/bird.png)
@@ -63,7 +66,6 @@ Now go to the present Twitter homepage: http://www.twitter.com
 *Note 1: in this section, we will use the Internet Archive’s Wayback Machine. For a guideline on how to use this resource see: [handout Wayback machine](https://ranke2.uni.lu/assets/pdf/wayback-machine-interface.pdf)  
 
 *Note 2: Those who already have a Twitter account need to first log out, to be able to complete this assignment!
-
 
 - What does the text say on the homepage?
 
@@ -88,10 +90,10 @@ Now go to the present Twitter homepage: http://www.twitter.com
 {:style="height:100px"}
 | |
 
+
 ***How you can interact with others***
 
 ![obamareply](../../assets/images/social-media/obamareply.png)
-
 Image credit: Screenshot of selecting "reply" to an already posted Tweet taken on a desktop computer on 14 April 2021.
 
 Go to this [New York Times article by Mike Isaac](https://www.nytimes.com/2017/09/26/technology/twitter-280-characters.html?smid=url-share) 
@@ -102,6 +104,7 @@ Go to this [New York Times article by Mike Isaac](https://www.nytimes.com/2017/0
 {:.w-100}
 {:style="height:100px"}
 | |
+
 
 
 ***How a Tweet is archived***
