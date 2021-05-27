@@ -25,7 +25,7 @@ cover:
 order: 1
 answertemplate:
 og:
-description: How historians can benefit from integrating social media in teaching and research
+  description: How historians can benefit from integrating social media in teaching and research
 ---
 Curated by Stefania Scagliola, Jordan Ricker and Emmanuelle Decker
 
