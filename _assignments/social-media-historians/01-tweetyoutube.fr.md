@@ -43,22 +43,22 @@ Do you consider any of these messages, posts, photos, or web pages "historical"?
 {:.mt-5}
 [A Gif](https://media.giphy.com/media/LMeVjYYdUkOoE/giphy.gif)
 
-![firstfilm](../../assets/images/social-media/firstfilm.gif)
+![firstfilm](../../../assets/images/social-media/firstfilm.gif)
 
 {:.mt-5}
 [A Facebook group](https://www.facebook.com/groups/1500687070143366)
 
-![facebook](../../assets/images/social-media/facebook.png)
+![facebook](../../../assets/images/social-media/facebook.png)
 
 {:.mt-5}
 [An Instagram account](https://www.instagram.com/lgbt_history/)
 
-![pink](../../assets/images/social-media/pink.png)
+![pink](../../../assets/images/social-media/pink.png)
 
 {:.mt-5}
 [A Wikipedia page](https://en.wikipedia.org/wiki/List_of_female_explorers_and_travelers)
 
-![wiki](../../assets/images/social-media/wiki.png)
+![wiki](../../../assets/images/social-media/wiki.png)
 
 {:.mt-5}
 

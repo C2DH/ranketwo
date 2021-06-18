@@ -24,7 +24,7 @@ Answer the questions below in your answer form.
 
 ***How it was created***
 
-![dorsey](../../assets/images/social-media/dorsey.jpg){:style="max-height:500px"}
+![dorsey](../../../assets/images/social-media/dorsey.jpg){:style="max-height:500px"}
 
 Image Credit: An early sketch of the ideas that would become Twitter. Published on Jack Dorsey's Flickr account on 24 March 2006 and available at: https://flickr.com/photos/jackdorsey/182613360/.
 
@@ -40,7 +40,7 @@ Read [this interview in the Los Angeles Times of February 18 2009 with Jack Dors
 
 ***How it is defined***
 
-![jacktweet](../../assets/images/social-media/jacktweet.png)
+![jacktweet](../../../assets/images/social-media/jacktweet.png)
 Image credit: The Lighthouse(@the_bercibot) - https://twitter.com/the_bercibot/status/1379647473640161280
 
 Go to the [Twitter beginner’s guide](https://help.twitter.com/en/new-user-faq) to answer this question:
@@ -57,7 +57,7 @@ Go to the [Twitter beginner’s guide](https://help.twitter.com/en/new-user-faq)
 
 ***How it changed over time***
 
-![bird](../../assets/images/social-media/bird.png)
+![bird](../../../assets/images/social-media/bird.png)
 
 Image credit: Current Twitter logo respecting the Brand Guidelines. Taken from https://about.twitter.com/en/who-we-are/brand-toolkit.
 
@@ -93,7 +93,7 @@ Now go to the present Twitter homepage: http://www.twitter.com
 
 ***How you can interact with others***
 
-![obamareply](../../assets/images/social-media/obamareply.png)
+![obamareply](../../../assets/images/social-media/obamareply.png)
 Image credit: Screenshot of selecting "reply" to an already posted Tweet taken on a desktop computer on 14 April 2021.
 
 Go to this [New York Times article by Mike Isaac](https://www.nytimes.com/2017/09/26/technology/twitter-280-characters.html?smid=url-share)
@@ -109,7 +109,7 @@ Go to this [New York Times article by Mike Isaac](https://www.nytimes.com/2017/0
 
 ***How a Tweet is archived***
 
-![jacktweet](../../assets/images/social-media/jacktweet.png)
+![jacktweet](../../../assets/images/social-media/jacktweet.png)
 Image credit: Jack Dorsey (@jack) - https://twitter.com/jack/status/20
 
 

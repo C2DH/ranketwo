@@ -13,7 +13,7 @@ outcomes:
 order: 5
 ---
 
-![digitalbevaring](../../assets/images/social-media/digitalbevaring.png)
+![digitalbevaring](../../../assets/images/social-media/digitalbevaring.png)
 
 "Digital Preservation." Image created by Jørgen Stamp and used here without adaptation from the original on Digitalbevaring.dk
 under Creative Commons License CC BY 2.5 DK.
@@ -25,8 +25,8 @@ under Creative Commons License CC BY 2.5 DK.
 <!-- section-contents -->
 
 {:.text-center}
-![six](../../assets/images/social-media/six.png){:style="width:250px;display:inline"}
-![friend](../../assets/images/social-media/friend.png){:style="width:250px;display:inline"}
+![six](../../../assets/images/social-media/six.png){:style="width:250px;display:inline"}
+![friend](../../../assets/images/social-media/friend.png){:style="width:250px;display:inline"}
 
 SixDegrees: Logo in public domain. Image from https://commons.wikimedia.org/wiki/File:SixDegrees.com_logo.png.
 Friendster: Former logo used from 2002-2009. Image from https://1000logos.net/wp-content/uploads/2021/04/Friendster-Logo-2002.png.
@@ -82,7 +82,7 @@ Congress Blog, 26.12.2017, https://blogs.loc.gov/loc/2017/12/update-on-the-twitt
 
 Have a closer look at this Twitter account: <https://twitter.com/POTUS45>
 
-![trump](../../assets/images/social-media/trump.png){:style="max-height:500px"}
+![trump](../../../assets/images/social-media/trump.png){:style="max-height:500px"}
 
 Image credit: Screenshot of "President Trump 45 Archived (@POTUS45)" Twitter page taken on a desktop computer on 14 April 2021 - https://twitter.com/POTUS45
 

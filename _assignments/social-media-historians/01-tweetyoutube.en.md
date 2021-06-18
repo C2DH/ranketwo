@@ -38,7 +38,7 @@ Do you consider any of these messages, posts, photos, or web pages "historical"?
 
 [A Tweet](https://www.bbc.com/news/technology-13257940)
 
-![tweetbinladen](/assets/images/social-media/tweetbinladen.png)
+![tweetbinladen](../../assets/images/social-media/tweetbinladen.png)
 
 {:.mt-5}
 [A Gif](https://media.giphy.com/media/LMeVjYYdUkOoE/giphy.gif)

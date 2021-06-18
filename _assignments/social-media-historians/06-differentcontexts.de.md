@@ -27,7 +27,7 @@ For each example below, write a short text (150 words max.) about how it applies
 ### 6.a Tweet - Ku Klux Klan
 <!-- section-contents -->
 
-![klan](../../assets/images/social-media/klan.png)
+![klan](../../../assets/images/social-media/klan.png)
 
 Image credit: Kambree (@KamVTV) - https://twitter.com/KamVTV/status/970134790098714625
 
@@ -45,7 +45,7 @@ Arguments that are made:
 ### 6.b Tweet elections
   <!-- section-contents -->
 
-![obama](../../assets/images/social-media/obama.png)
+![obama](../../../assets/images/social-media/obama.png)
 
 Image credit: Barack Obama (@BarackObama) - https://twitter.com/BarackObama/status/266031293945503744
 
@@ -64,7 +64,7 @@ Arguments that are made:
  <!-- section-contents -->
 
 
- ![studentprotest](../../assets/images/social-media/studentprotest.png)
+ ![studentprotest](../../../assets/images/social-media/studentprotest.png)
 
 Image credit: Peter Arkle for the 6 June 2018 article "Born Digital: How Social Media and Paperless Offices are Reshaping the University Archives" from the Princeton Alumni Weekly.
 
@@ -82,7 +82,7 @@ Arguments that are made:
 ### 6.d Tweet - Each day of the last month of the Second World War.
  <!-- section-contents -->
 
- ![digitalpast](../../assets/images/social-media/digitalpast.png)
+ ![digitalpast](../../../assets/images/social-media/digitalpast.png)
 
 Image credit: Screenshot of the "digitalpast" project homepage taken on a desktop computer on 14 April 2021 - https://digitalpast.de/
 
