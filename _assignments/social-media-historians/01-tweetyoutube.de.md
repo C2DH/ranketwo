@@ -1,8 +1,8 @@
 ---
 layout: assignment
 unit: social-media-historians
-lang: en
-title: "When does a Tweet or YouTube clip become "historical"?"
+lang: de
+title: 'When does a Tweet or YouTube clip become "historical"?'
 cover:
 documents:
 tags:
@@ -22,8 +22,8 @@ Amongst historians, it is argued that in order to consider an event "mature" eno
 [![interactivity](https://media.giphy.com/media/jQmn1Dkw55R3cjm3eC/giphy.webp "Flamingo Services via Giphy")](https://giphy.com/gifs/instagram-hearts-likes-jQmn1Dkw55R3cjm3eC){:target="_blank"}
 
 Image credits:
-[Linaria Comunicación via Giphy](https://media.giphy.com/media/rB8CbdO6xSJofmOAKL/giphy.gif), 
-[INTO ACTION via Giphy](https://media.giphy.com/media/gIMdqhwG5Xa45Mb2Ex/giphy.gif), 
+[Linaria Comunicación via Giphy](https://media.giphy.com/media/rB8CbdO6xSJofmOAKL/giphy.gif),
+[INTO ACTION via Giphy](https://media.giphy.com/media/gIMdqhwG5Xa45Mb2Ex/giphy.gif),
 [Flamingo Services via Giphy](https://media.giphy.com/media/jQmn1Dkw55R3cjm3eC/giphy.gif)
 
 <!-- more -->
