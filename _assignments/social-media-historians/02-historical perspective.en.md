@@ -18,7 +18,7 @@ When looking at social media from a historian's perspective, it is important to 
 <!-- more -->
 <!-- briefing-student -->
 
-### 2.a When did it all start?| 20 Min
+### 2.a When did it all start? | 20 Min
 <!-- section-contents -->
 ![romans](../../assets/images/social-media/romans.png)
 
