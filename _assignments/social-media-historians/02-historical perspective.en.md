@@ -50,15 +50,16 @@ In the table below, the key characteristics of this YouTube clip are listed. You
 <!-- section-contents -->
 Read [this concise history on the origins of social media](https://online.maryville.edu/blog/evolution-social-media/), offered as part of an online course for bachelor students of marketing at Maryville University in St. Louis, Missouri (USA), and answer the following questions in your answer form:
 
-[card](evolution-social-media)
-
 - What was the first form of social media, according to the definition of social media referred to in this article?
 - According to the author, what have been the two major shifts with regard to users/audiences who engage with social media and the devices through which they communicate?
 
-[card](history-cooperative)
+[card](evolution-social-media)
+
 
 Now [read a different version of the history of social media](https://historycooperative.org/the-history-of-social-media/), this time published on the platform _History Cooperative_ by Matthew Jones on 16 June 2015 and answer the following question in your answer form:
 
 - Which two key elements are different in Jones' interpretation of the phenomenon of social media compared to the one offered by Maryville University?
+
+[card](history-cooperative)
 
 <!-- briefing-teacher -->
