@@ -5,11 +5,13 @@ lang: fr
 title: "Social media in historical perspective"
 cover:
 documents:
+  - evolution-social-media
+  - history-cooperative
 tags:
-- social media
-- pamphlets
-- scrolls
-- print
+  - social media
+  - pamphlets
+  - scrolls
+  - print
 outcomes:
 order: 2
 ---
@@ -44,12 +46,12 @@ In the table below, the key characteristics of this YouTube clip are listed. You
 <!-- section-contents -->
 Read this concise history on the origins of social media,offered as part of an [online course for bachelor students of marketing at Maryville University in St. Louis, Missouri (USA)](https://online.maryville.edu/blog/evolution-social-media/) , and answer the following question in your answer form.
 
-[card] evolution-social-media
+[card](evolution-social-media)
 
 - What was the first form of social media, according to the definition of social media referred to in this article?
 - According to the author, there have been two major shifts with regard to users/audiences who engage with social media and the devices through which they communicate. Identify these two changes.
 
-[card] history-cooperative
+[card](history-cooperative)
 
 Now read a different version of the history of social media, this time published on the platform [History Cooperative by author Matthew Jones](https://historycooperative.org/the-history-of-social-media/) and answer the following question in your answer form.
 
