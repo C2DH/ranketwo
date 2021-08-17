@@ -33,7 +33,7 @@ One of the best ways to understand the impact and function of social media on ou
 | Day&nbsp;3 | | | | |
 
 2. After keeping your own log, open the link below to see the log of three anonymous history students and note what strikes you as similar and different in their habits from your own.
-[History Students Social Media Log Comparison](https://github.com/C2DH/ranketwo/blob/master/assets/pdf/social-media-historians/history-students-social-media-log-comparison.pdf)
+[cit](social-media-log-comparison)
 
 3. Lastly, compare your use of social media with that of your country of residence. Use [slides 78-101 from this 2021 global report on the use of social media](https://wearesocial.com/digital-2021) to look up your respective country. ("We Are Social's Digital 2021" by Simon Kemp from we are social/Hootsuite). What can you say when comparing your social media habits with those of the students above and the global report? Write down some of your thoughts and findings in a short essay (max. 250 words).
 
