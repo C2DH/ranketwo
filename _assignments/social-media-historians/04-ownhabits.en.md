@@ -21,7 +21,7 @@ Image source: [Imgur](https://imgur.com/dqSRAaT)
 <!-- more -->
 <!-- briefing-student -->
 
-### 4.a Document and compare your own use of social media
+### 4.a Document and compare your own use of social media  | 10 Min x 3 Days
 <!-- section-contents -->
 One of the best ways to understand the impact and function of social media on our lives is to closely monitor your own use of it. For this assignment, you are expected to keep a log of your social media use for three consecutive days and then compare your own habits with those of three anonymous history students as well as with statistical data for your country of residence.
 
