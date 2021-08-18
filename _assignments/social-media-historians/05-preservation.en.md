@@ -76,7 +76,7 @@ Congress Blog, 26.12.2017, <https://blogs.loc.gov/loc/2017/12/update-on-the-twit
 
 <!-- section -->
 
-### 5.c Who is still covered by the Library of Congress? | ? Min
+### 5.c Who is still covered by the Library of Congress? | 25 Min
  <!-- section-contents -->
 
 - Read this article by Andrew McGill on how the Library of Congress (LOC) underestimated the problems that it would encounter by archiving every single Tweet ever published: , "Can Twitter Fit Inside the Library of Congress?" by Andrew McGill, *The Atlantic*, 04.08.2016, <http://www.theatlantic.com/technology/archive/2016/08/can-twitter-fit-inside-the-library-of-congress/494339/>.
