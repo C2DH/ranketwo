@@ -40,7 +40,7 @@ Arguments made:
 | 2. |
 | 3. |
 
-How this example applies to way in which social media are used:
+How this example applies to way(s) in which social media are used:
 
 {:.w-100}
 {:style="height:100px"}
@@ -64,7 +64,7 @@ Arguments made:
 | 2. |
 | 3. |
 
-How this example applies to way in which social media are used:
+How this example applies to way(s) in which social media are used:
 
 {:.w-100}
 {:style="height:100px"}
@@ -89,7 +89,7 @@ Arguments made:
 | 2. |
 | 3. |
 
-How this example applies to way in which social media are used:
+How this example applies to way(s) in which social media are used:
 
 {:.w-100}
 {:style="height:100px"}
@@ -113,7 +113,7 @@ Arguments made:
 | 2. |
 | 3. |
 
-How this example applies to way in which social media are used:
+How this example applies to way(s) in which social media are used:
 
 {:.w-100}
 {:style="height:100px"}
