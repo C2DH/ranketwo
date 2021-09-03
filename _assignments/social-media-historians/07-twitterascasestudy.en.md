@@ -79,11 +79,9 @@ Open these three hyperlinks to the Internet Archive and copy the texts on the ho
 - <https://web.archive.org/web/20090413225407/http://twitter.com/>
 - <https://web.archive.org/web/20150319071319/https://twitter.com/>
 
-Text on Twitter's homepage
-|  2006 | 2009 | 2015 |
-|   |   |
-|   |   |
-|   |   |
+|     | 2006 | 2009 | 2015 |
+| --- |----- | ---- | ---- |
+| Text on Twitter's homepage |      |      |
 
 - What do you notice about the changes?
 
