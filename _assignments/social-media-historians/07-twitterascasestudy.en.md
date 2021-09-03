@@ -25,10 +25,10 @@ In this assignment, the various features/dimensions of the social medium Twitter
 
 Image credit: An early sketch of the ideas that would become Twitter. Published on [Jack Dorsey's Flickr account on 24 March 2006](https://flickr.com/photos/jackdorsey/182613360/).
 
-Read this [interview in the Los Angeles Times with Jack Dorsey](https://latimesblogs.latimes.com/technology/2009/02/twitter-creator.html), one of the founders of Twitter, from 18 February 2009.
+Read this [interview in the _Los Angeles Times_ with Jack Dorsey](https://latimesblogs.latimes.com/technology/2009/02/twitter-creator.html), one of the founders of Twitter, from 18 February 2009.
 - What was the inspiration for Dorsey to create Twitter?
 - How did he design a prototype for the application?
-- Which feature of Instant Messaging was emulated for Twitter?
+- Which feature of instant messaging was emulated for Twitter?
 
 {:.w-100}
 {:style="height:100px"}
@@ -43,11 +43,11 @@ Read this [interview in the Los Angeles Times with Jack Dorsey](https://latimesb
 
 Image credit: [The Lighthouse(@the_bercibot)](https://twitter.com/the_bercibot/status/1379647473640161280)
 
-Go to the [Twitter beginner’s guide](https://help.twitter.com/en/new-user-faq) to answer this question:
-- What is a tweet?
-- What is the length (the number of characters) of a tweet at present?
+Go to the [Twitter beginner’s guide](https://help.twitter.com/en/new-user-faq) and answer the following questions:
+- What is a Tweet?
+- What is the length (the number of characters) of a Tweet at present?
 - Has it always been this length?
-- Why is the number of characters of a tweet limited?
+- Why is the number of characters of a Tweet limited?
 - How does the limitation of characters relate to the specificity of Twitter?
 
 {:.w-100}
@@ -65,7 +65,7 @@ Image credit: Current Twitter logo respecting the Brand Guidelines. Taken from t
 
 *Note: in this section, we use the Internet Archive’s Wayback Machine. For a guideline on how to use this resource see: [handout Wayback machine](https://ranke2.uni.lu/assets/pdf/wayback-machine-interface.pdf). Additionally, those who already have a Twitter account will first need to log out of their account in order to be able to complete this assignment.*
 
-Go to the present Twitter homepage: http://www.twitter.com
+Go to the present Twitter homepage: <http://www.twitter.com>
 
 - What does the text say on the homepage?
 
@@ -73,16 +73,17 @@ Go to the present Twitter homepage: http://www.twitter.com
 {:style="height:100px"}
 | |
 
-Open these three hyperlinks to the Internet Archive and copy the texts on the homepage of Twitter into the table of your answer form.
+Open these three hyperlinks to the Internet Archive and copy the texts on the homepage of Twitter into the table of your answer form:
 
 - <https://web.archive.org/web/20060930214639/https://twitter.com/>
 - <https://web.archive.org/web/20090413225407/http://twitter.com/>
 - <https://web.archive.org/web/20150319071319/https://twitter.com/>
 
-|Text Home page Twitter  |  2006 | 2009 | 2015 |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+Text on Twitter's homepage
+|  2006 | 2009 | 2015 |
+|   |   |
+|   |   |
+|   |   |
 
 - What do you notice about the changes?
 
@@ -125,7 +126,7 @@ This is the first Tweet ever published. It was made by the creator of Twitter, J
 - <https://web.archive.org/web/20150321230408/https://twitter.com/jack/status/20>
 
 
-These two snapshots are versions of the Tweet archived by the [Internet Archive Wayback Machine](https://archive.org/web/). In comparison, Jack Dorsey’s tweet, as it is currently displayed on Twitter, is not an archive but rather "live". Try to figure out some of the difficulties that archivistes might encounter when they archive social media by comparing those three versions of the same Tweet.
+These two snapshots are versions of the Tweet archived by the [Internet Archive Wayback Machine](https://archive.org/web/). In comparison, Jack Dorsey’s Tweet (as it is currently displayed on Twitter), is not an archived but a "live" version. Try to figure out some of the difficulties that archivistes might encounter when they archive social media by comparing those three versions of the same Tweet in a short response below.
 
 {:.w-100}
 {:style="height:100px"}
