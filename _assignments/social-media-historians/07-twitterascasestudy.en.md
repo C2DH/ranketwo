@@ -19,7 +19,7 @@ In this assignment, the various features/dimensions of the social medium Twitter
 <!-- briefing-student -->
 
 ### 7.a How Twitter was created | 15 mins
-<!-- section-contents -->
+ <!-- section-contents -->
 
 ![dorsey](../../assets/images/social-media/dorsey.jpg){:style="max-height:500px"}
 
@@ -34,8 +34,10 @@ Read this [interview in the Los Angeles Times with Jack Dorsey](https://latimesb
 {:style="height:100px"}
 | |
 
+<!-- section -->
 
 ### 7.b How Twitter is defined | 10 mins
+ <!-- section-contents -->
 
 ![140](../../assets/images/social-media/140.png)
 
@@ -52,7 +54,10 @@ Go to the [Twitter beginner’s guide](https://help.twitter.com/en/new-user-faq)
 {:style="height:100px"}
 | |
 
+<!-- section -->
+
 ### 7.c How Twitter changed over time | 25 mins
+ <!-- section-contents -->
 
 ![bird](../../assets/images/social-media/bird.png)
 
@@ -85,8 +90,10 @@ Open these three hyperlinks to the Internet Archive and copy the texts on the ho
 {:style="height:100px"}
 | |
 
+<!-- section -->
 
 ### 7.d How you can interact with others on Twitter | 10 mins
+ <!-- section-contents -->
 
 ![obamareply](../../assets/images/social-media/obamareply.png)
 
@@ -101,7 +108,10 @@ Go to this [New York Times article by Mike Isaac](https://www.nytimes.com/2017/0
 {:style="height:100px"}
 | |
 
+<!-- section -->
+
 ### 7.e How a Tweet is archived | 15 mins
+ <!-- section-contents -->
 
 ![jacktweet](../../assets/images/social-media/jacktweet.png)
 
