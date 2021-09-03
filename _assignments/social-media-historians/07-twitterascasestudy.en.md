@@ -83,6 +83,7 @@ Open these three hyperlinks to the Internet Archive and copy the texts on the ho
 | --- |----- | ---- | ---- |
 | Text on Twitter's homepage |      |      |
 
+
 - What do you notice about the changes?
 
 {:.w-100}
