@@ -73,22 +73,16 @@ Go to the present Twitter homepage: <http://www.twitter.com>
 {:style="height:100px"}
 | |
 
-Open these three hyperlinks to the Internet Archive and copy the texts on the homepage of Twitter into the table of your answer form:
+Open these three hyperlinks to the Internet Archive. Then, copy the texts that are displayed on the homepage of Twitter and note some of the the changes between the different years in the table of your answer form.
 
 - <https://web.archive.org/web/20060930214639/https://twitter.com/>
 - <https://web.archive.org/web/20090413225407/http://twitter.com/>
 - <https://web.archive.org/web/20150319071319/https://twitter.com/>
 
-|     | 2006 | 2009 | 2015 |
-| --- |----- | ---- | ---- |
-| Text on Twitter's homepage |      |      |
-
-
-- What do you notice about the changes?
-
-{:.w-100}
-{:style="height:100px"}
-| |
+|     | 2006 | 2009 | 2015 | now |
+| --- |:-----:| ---- | ---- | --- |
+| Text on Twitter's homepage |      |      |   |
+| Differences from previous text |   -   |      |   |
 
 <!-- section -->
 
