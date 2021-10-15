@@ -15,10 +15,10 @@ link: /u/transformation/
 audience: general public, bachelor, master humanities
 components:
  small: animation + quiz
- medium: animation + 6 assignments,   
+ medium: animation + 6 assignments,
 mediatype: images, digitised portraits, paintings, collages
 cover:
-  url: https://i.vimeocdn.com/video/718551052.jpg?mw=960&mh=540&q=70
+  url: https://i.vimeocdn.com/video/718551052-b2dd5a08697758fa9babe113f61862563fc7efd38cd6b326327f62e0b8c56052-d?mw=960&mh=540&q=70
 order: 4
 og:
   description: "Digital technology has stirred our imagination and enabled us to create new realities"

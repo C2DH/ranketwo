@@ -3,7 +3,7 @@
     title: "Social media and historians, why bother?"
     type: vimeo
     aspectratio: aspect-16-9
-    thumbnail: "https://i.vimeocdn.com/video/1134520619.jpg?mw=700&mh=394"
+    thumbnail: "https://i.vimeocdn.com/video/1275218014-40c0ed7478c53ba9f73a6e9d4edc277e26a2bb8d775e9b957?mw=700&mh=394"
     vimeo_id: 564544648
     src: "https://player.vimeo.com/video/564544648"
 -
@@ -11,7 +11,7 @@
     title: "Social media and historians, why bother?"
     type: vimeo
     aspectratio: aspect-16-9
-    thumbnail: "https://i.vimeocdn.com/video/1134520619.jpg?mw=700&mh=394"
+    thumbnail: "https://i.vimeocdn.com/video/1275218014-40c0ed7478c53ba9f73a6e9d4edc277e26a2bb8d775e9b957?mw=700&mh=394"
     vimeo_id: 564543242
     src: "https://player.vimeo.com/video/564543242"
 -
@@ -19,7 +19,7 @@
     title: "Social media and historians, why bother?"
     type: vimeo
     aspectratio: aspect-16-9
-    thumbnail: "https://i.vimeocdn.com/video/1134520619.jpg?mw=700&mh=394"
+    thumbnail: "https://i.vimeocdn.com/video/1275218014-40c0ed7478c53ba9f73a6e9d4edc277e26a2bb8d775e9b957?mw=700&mh=394"
     vimeo_id: 564543939
     src: "https://player.vimeo.com/video/564543939"
 -
@@ -27,7 +27,7 @@
     title: "David Boder's interview collection: from analogue to digital"
     type: vimeo
     aspectratio: aspect-16-9
-    thumbnail: "https://i.vimeocdn.com/video/708218729.jpg?mw=960&mh=540&q=70"
+    thumbnail: "https://i.vimeocdn.com/video/708218729-b2f51c3e00df9b2f75f3618a1f04d264e1d49a863128379cc24c53083e8b5cdc-d?mw=960&mh=540&q=70"
     vimeo_id: 292701349
     src: "https://player.vimeo.com/video/312736421"
 -
@@ -35,7 +35,7 @@
     title: "David Boder's interview collection: from analogue to digital"
     type: vimeo
     aspectratio: aspect-16-9
-    thumbnail: "https://i.vimeocdn.com/video/708218729.jpg?mw=960&mh=540&q=70"
+    thumbnail: "https://i.vimeocdn.com/video/708218729-b2f51c3e00df9b2f75f3618a1f04d264e1d49a863128379cc24c53083e8b5cdc-d?mw=960&mh=540&q=70"
     vimeo_id: 275617187
     src: "https://player.vimeo.com/video/275617187"
 
@@ -43,7 +43,7 @@
     id: david-boder-german
     title: "David Boder's interview collection: from analogue to digital"
     type: vimeo
-    thumbnail: "https://i.vimeocdn.com/video/728677669_640.jpg"
+    thumbnail: "https://i.vimeocdn.com/video/708218729-b2f51c3e00df9b2f75f3618a1f04d264e1d49a863128379cc24c53083e8b5cdc-d?mw=960&mh=540&q=70"
     aspectratio: aspect-16-9
     src: "https://player.vimeo.com/video/312738684"
 
@@ -87,7 +87,7 @@
     id: transformations
     aspectratio: aspect-16-9
     type: vimeo
-    thumbnail: "https://i.vimeocdn.com/video/718551052.jpg?mw=960&mh=540&q=70"
+    thumbnail: "https://i.vimeocdn.com/video/718551052-b2dd5a08697758fa9babe113f61862563fc7efd38cd6b326327f62e0b8c56052-d?mw=960&mh=540&q=70"
     title: Transformations.
     src: "https://player.vimeo.com/video/281220219"
 
@@ -95,7 +95,7 @@
     id: transformations-french
     aspectratio: aspect-16-9
     type: vimeo
-    thumbnail: "https://i.vimeocdn.com/video/718551052.jpg?mw=960&mh=540&q=70"
+    thumbnail: "https://i.vimeocdn.com/video/718551052-b2dd5a08697758fa9babe113f61862563fc7efd38cd6b326327f62e0b8c56052-d?mw=960&mh=540&q=70"
     title: Transformations.
     src: "https://player.vimeo.com/video/303237564"
 
@@ -103,25 +103,25 @@
     id: transformations-german
     aspectratio: aspect-16-9
     type: vimeo
-    thumbnail: "https://i.vimeocdn.com/video/718551052.jpg?mw=960&mh=540&q=70"
+    thumbnail: "https://i.vimeocdn.com/video/718551052-b2dd5a08697758fa9babe113f61862563fc7efd38cd6b326327f62e0b8c56052-d?mw=960&mh=540&q=70"
     title: Transformations.
     src: "https://player.vimeo.com/video/303237677"
 
 -
     id: transformations-playposit
-    thumbnail: https://i.vimeocdn.com/video/718551052.jpg?mw=960&mh=540&q=70
+    thumbnail: "https://i.vimeocdn.com/video/718551052-b2dd5a08697758fa9babe113f61862563fc7efd38cd6b326327f62e0b8c56052-d?mw=960&mh=540&q=70"
     title: Transformations. A quiz.
     src: "https://www.playposit.com/listcode/826731/n717d6/open/anonymous"
 
 -
     id: transformations-playposit-french
-    thumbnail: https://i.vimeocdn.com/video/718551052.jpg?mw=960&mh=540&q=70
+    thumbnail: "https://i.vimeocdn.com/video/718551052-b2dd5a08697758fa9babe113f61862563fc7efd38cd6b326327f62e0b8c56052-d?mw=960&mh=540&q=70"
     title: Transformations. Quiz.
     src: "https://www.playposit.com/listcode/882092/n717d6/open/anonymous"
 
 -
     id: transformations-playposit-german
-    thumbnail: https://i.vimeocdn.com/video/718551052.jpg?mw=960&mh=540&q=70
+    thumbnail: "https://i.vimeocdn.com/video/718551052-b2dd5a08697758fa9babe113f61862563fc7efd38cd6b326327f62e0b8c56052-d?mw=960&mh=540&q=70"
     title: Transformations. Quiz.
     src: "https://www.playposit.com/listcode/882086/n717d6/open/anonymous"
 
@@ -164,7 +164,7 @@
     id: webarchives
     type: vimeo
     aspectratio: aspect-16-9
-    thumbnail: "https://i.vimeocdn.com/video/718778251.jpg?mw=900&mh=506&q=70"
+    thumbnail: "https://i.vimeocdn.com/video/718778251-e956998ac337adff4e56093edf452aed2f5895d0b136df3cd6a8bc4062f6c50c-d?mw=900&mh=506&q=70"
     title: "Lars Wieneke about changes in web technology"
     src: "https://player.vimeo.com/video/279392604"
 
@@ -172,7 +172,7 @@
     id: webarchives-french
     type: vimeo
     aspectratio: aspect-16-9
-    thumbnail: "https://i.vimeocdn.com/video/718778251.jpg?mw=900&mh=506&q=70"
+    thumbnail: "https://i.vimeocdn.com/video/718778251-e956998ac337adff4e56093edf452aed2f5895d0b136df3cd6a8bc4062f6c50c-d?mw=900&mh=506&q=70"
     title: "Lars Wieneke about changes in web technology"
     src: "https://player.vimeo.com/video/312895779"
 
@@ -180,7 +180,7 @@
     id: webarchives-german
     type: vimeo
     aspectratio: aspect-16-9
-    thumbnail: "https://i.vimeocdn.com/video/718778251.jpg?mw=900&mh=506&q=70"
+    thumbnail: "https://i.vimeocdn.com/video/718778251-e956998ac337adff4e56093edf452aed2f5895d0b136df3cd6a8bc4062f6c50c-d?mw=900&mh=506&q=70"
     title: "Lars Wieneke about changes in web technology"
     src: "https://player.vimeo.com/video/312896406"
 

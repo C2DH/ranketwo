@@ -21,7 +21,7 @@ components:
   medium: animation + 6 assignments
 mediatype: social media, personal documents
 cover:
-  url: https://i.vimeocdn.com/video/1134520619.jpg?mw=700&mh=394
+  url: https://i.vimeocdn.com/video/1275218014-40c0ed7478c53ba9f73a6e9d4edc277e26a2bb8d775e9b957?mw=700&mh=394
 order: 1
 answertemplate:
 og:
