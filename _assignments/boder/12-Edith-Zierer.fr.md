@@ -56,6 +56,6 @@ Vous devez vous rendre sur le site web du Musée du Mémorial américain de l'Ho
 ### Suggestions de lectures/vidéos
 <!-- section-contents -->
 
-Recherche de documents de base, Gerben ?
+
 
 <!-- briefing-teacher -->
