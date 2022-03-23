@@ -56,6 +56,6 @@ Besuchen Sie die Website des Holocaust Memorial Museum in Washington. Öffnen Si
 ### Empfehlungen Lektüre/Video
 <!-- section-contents -->
 
-Suche nach grundlegenden Schriften, Gerben?
+
 
 <!-- briefing-teacher -->
