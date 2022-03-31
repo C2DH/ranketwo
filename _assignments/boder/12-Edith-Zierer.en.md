@@ -53,6 +53,6 @@ The purpose of this assignment is to illustrate how the narrative on a similar t
 ### Reading/viewing suggestions
 <!-- section-contents -->
 
-To do Search for basic literature, Gerben?
+
 
 <!-- briefing-teacher -->
