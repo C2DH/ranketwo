@@ -1,20 +1,23 @@
-## Welcome to Ranke.2
+# Welcome to Ranke.2
 
 visit the [website](https://c2dh.github.io/ranketwo/).
 You can use the [editor on GitHub](https://github.com/C2DH/memorycord/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Local development and live preview
+
+`docker-compose up`
+Great documentation on https://svrooij.io/2020/12/31/github-pages-live-reload/
+
 ### Jekyll Cheatsheet
+
 Published by [@rstacruz](https://ricostacruz.com/), a clear insight on how jekyll works.
 https://devhints.io/jekyll
 
-
 ### Jekyll Themes
+
 This website uses the layout and styles from the Jekyll theme selected in the [repository settings](https://github.com/C2DH/ranketwo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-
-
 
 ### Markdown
 
@@ -24,7 +27,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
