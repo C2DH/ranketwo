@@ -2,26 +2,40 @@
   Note: this included template needs a list of paragraphs
   assigned to the variable `paragraphs`
 -->
-<div class='wrapper'>
-  <div class='in-the-background' style='position:absolute; top:0; right:0; left:0; bottom:0; z-index:0'>
-    <div class="slide-background" {% if page.cover.url %} style='background-size:cover;background-image:url({{cover_url}})'{% endif %}></div>
-    <div class='slide' style="display:block; opacity:1">
+<div class="wrapper">
+  <div
+    class="in-the-background"
+    style="position: absolute; top: 0; right: 0; left: 0; bottom: 0; z-index: 0"
+  >
+    <div
+      class="slide-background"
+      {%
+      if
+      page.cover.url
+      %}
+      style="background-size:cover;background-image:url({{cover_url}})"
+      {%
+      endif
+      %}
+    ></div>
+    <div class="slide" style="display: block; opacity: 1">
       <div class="overlay"></div>
       <div class="overlay-dotted"></div>
     </div>
   </div>
-  <div class='container'>
-    <div class='row'>
-      <div class='col'>
-        <div class='page mb-2'>
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div class="page mb-2">
           <h1>
-            <span>{{ page.title | markdownify | replace: '<p>' | replace: '</p>'}}</span>
+            <span
+              >{{ page.title | markdownify | replace: '
+              <p>' | replace: '</p>
+              '}}</span
+            >
           </h1>
-          <div class="excerpt mb-5">
-            {{paragraphs | first | markdownify}}
-          </div>
+          <div class="excerpt mb-5">{{paragraphs | first | markdownify}}</div>
         </div>
-
       </div>
     </div>
   </div>

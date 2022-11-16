@@ -3,23 +3,27 @@ layout: default
 ---
 
 {% assign paragraphs = page.content | split: site.excerpt_separator %} {% include page.top.html %}
-<div class="container">
-  <div class="contents mt-5 mb-5" id="contents">
-    {{page.lang}} {{paragraphs | last | markdownify}} {% assign items =
-    site[page.collection]|where:"lang", page.lang %} {% for item in items %}
-    <div class="row">
-      <div class="col-md-6 col-lg-3">
-        <div class="card" style="width: 100%">
-          <div class="card-body">
-            <h5 class="card-title">
-              <a href="{{ item.permalink }}" target="_blank">{{ item.title }}</a>
-            </h5>
-            <p class="card-types">tags</p>
-            <div class="card-body">{{ item.excerpt}}</div>
+
+<div class="container mt-5 mb-5" id="contents">
+  <div class="row"><div class="col">{{paragraphs | last | markdownify}}</div></div>
+  <div class="row">
+    {% assign items = site[page.collection]|where:"lang", page.lang %} {% for item in items %}
+    <div class="col-md-6 col-lg-4 col-xl-3">
+      <div class="Collection__card card" style="width: 100%">
+        <div class="card-body">
+          <h5 class="card-title">
+            <a href="{{ item.url }}" target="_blank">{{ item.title }}</a>
+          </h5>
+          <p class="card-types">tags</p>
+          <div class="mb-2">
+            {% for tag in item.tags%}<span class="Collection__card__tag">{{tag}}</span>&nbsp;{%
+            endfor %}
           </div>
+          <div>{{item.excerpt | strip_html | strip_newlines | truncate: 156 }}</div>
         </div>
       </div>
     </div>
+
     {% endfor %}
   </div>
 </div>

@@ -8,6 +8,6 @@ services:
     ports:
       - '${PORT:-4000}:4000'
       - '${POLLING_PORT:-35729}:35729'
-    entrypoint: jekyll serve  --incremental --livereload --force_polling
+    entrypoint: jekyll serve --livereload --force_polling
     environment:
       FORCE_POLLING: 'true'

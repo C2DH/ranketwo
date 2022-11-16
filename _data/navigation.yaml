@@ -13,9 +13,13 @@ primary:
   links:
     - title: Go to lessons
       href: /lessons/
-      active_layout: unit
+      active_collection: units
     - title: Tutorials
       href: /tutorials/
+      active_collection: tutorials
+    - title: Assignments
+      href: /assignments/
+      active_collection: assignments
 
 footer:
   links:

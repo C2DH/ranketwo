@@ -5,7 +5,7 @@ title: 'How to search the Waybackmachine'
 permalink: /tutorial/waybackmachine
 ---
 
-Hello
+The Interface of the Internet Archive: meet the Wayback Machine
 
 <!-- more -->
 

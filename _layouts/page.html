@@ -1,12 +1,9 @@
 ---
 layout: default
 ---
-{% assign paragraphs = page.content | split: site.excerpt_separator %}
-{% include page.top.html %}
 
-<div class='container'>
+{% assign paragraphs = page.content | split: site.excerpt_separator %} {% include page.top.html %}
 
-  <div class='contents mt-5 mb-5' id="contents">
-  {{paragraphs | last | markdownify}}
-  </div>
+<div class="container">
+  <div class="contents mt-5 mb-5" id="contents">{{paragraphs | last | markdownify}}</div>
 </div>
