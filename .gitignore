@@ -15,3 +15,6 @@ package-lock.json
 .bundle/
 .project
 .DS_Store
+*.code-workspace
+
+vendor/
