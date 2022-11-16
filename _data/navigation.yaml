@@ -14,8 +14,8 @@ primary:
     - title: Go to lessons
       href: /lessons/
       active_layout: unit
-    - title: Teaching aids
-      href: /teaching-aids/
+    - title: Tutorials
+      href: /tutorials/
 
 footer:
   links:

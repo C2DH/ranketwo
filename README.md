@@ -7,7 +7,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Local development and live preview
 
-`docker-compose up`
+We use the [jekyll/jekyll](https://github.com/envygeeks/jekyll-docker/blob/master/README.md) docker image to serve and to build our jekyll website.
+
+```sh
+docker-compose up
+```
+
+Once done, it should preview live
 Great documentation on https://svrooij.io/2020/12/31/github-pages-live-reload/
 
 ### Jekyll Cheatsheet
@@ -44,3 +50,19 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+## How to create a new page
+
+in pages, create the default md file, in English, e.g. `tutorials.md` then create one md file per language, e.g. 'tutorials.de.md' and 'tutorials.fr.md'. It's Jekyll default way to build up pages.
+Pay attention to each file frontmatter, esp `permalink`, which is responsible for the generation of the corresponding html page. Always prepend the laguage in the permalink for non default language. The presence of permalink avoid to modify the TEMPLATE url of the config (error: The URL template doesn't have lang keys. Check your permalink template! (NoMethodError))
+
+```yaml
+---
+layout: collection
+lang: fr
+permalink: /fr/tutorials/
+link: /tutorials/
+title: Tutorials
+collection: tutorials
+---
+```

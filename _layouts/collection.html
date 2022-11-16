@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+{% assign paragraphs = page.content | split: site.excerpt_separator %} {% include page.top.html %}
+<div class="container">
+  <div class="contents mt-5 mb-5" id="contents">
+    {{page.lang}} {{paragraphs | last | markdownify}} {% assign items =
+    site[page.collection]|where:"lang", page.lang %} {% for item in items %}
+    <div class="row">
+      <div class="col-md-6 col-lg-3">
+        <div class="card" style="width: 100%">
+          <div class="card-body">
+            <h5 class="card-title">
+              <a href="{{ item.permalink }}" target="_blank">{{ item.title }}</a>
+            </h5>
+            <p class="card-types">tags</p>
+            <div class="card-body">{{ item.excerpt}}</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
