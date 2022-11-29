@@ -94,7 +94,6 @@ Try to complete the template for your assignments with details about how the wor
 
 - Clegg, Brian. *The Man Who Stopped Time, The Illuminating Story of Eadweard Muybridge - Pioneeer Photographer, Father of the Motion Picture, Murderer*. Washington, D.C.: Joseph Henry Press, 2007. [Google Books](https://books.google.nl/books?id=GXGS_KNTBOYC&lpg=PR9&ots=UFgkorMooR&lr&pg=PR2#v=onepage&q&f=false){:target="_blank"}
 - Herbert, Stephen. “The Complete Eadweard Muybridge,” https://www.stephenherbert.co.uk/muybCOMPLEAT.htm.
-
 - J. Findlay, Walker. “Plugging into the Past: contemporary digital artists still look back to 19th-century action photographer Eadweard Muybridge for inspiration.” _ART REVIEW LONDON_, (2001): 28–33.
 
 <!-- briefing-teacher -->
