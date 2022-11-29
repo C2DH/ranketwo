@@ -55,6 +55,6 @@ The dates in the template can help you find the right answer.
 ### Reading/viewing suggestions
 <!-- section-contents -->
 
-Alan Rosen, “‘We Know Very Little in America’: David Boder and Un-belated Testimony”, In: After the Holocaust: Challenging the Myth of Silence, ed. David Cesarani and Eric J.Sundquist (New York, 2012)
+- Rosen, Alan. “We Know Very Little in America: David Boder and Un-belated Testimony.” In *After the Holocaust: Challenging the Myth of Silence*,  edited by David Cesarani and Eric J.Sundquist, chap. 6. New York: Routledge, 2012.
 
 <!-- briefing-teacher -->
