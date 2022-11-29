@@ -75,10 +75,11 @@ Answer these questions by going through the literature below, and write a short 
 ### Reading/viewing suggestions 
 <!-- section-contents -->
 
-- Ozana Cucu Oancea, [Personal Documents as Data Sources for Social Sciences. A Review of History of Uses, Ethical, Methodological and Epistemological Considerations](https://www.researchgate.net/publication/271383447_Personal_Documents_as_Data_Sources_for_Social_Sciences_A_Review_of_History_of_Uses_Ethical_Methodological_and_Epistemological_Considerations){:target="_blank"}.
-- Dobson, M. Letters. In M. Dobson & B. Ziemann (Eds.), Reading Primary Sources: The Interpretation of Texts from Nineteenth- and Twentieth-Century History (pp. 57–73)(2009,Routledge).
-- Susan C. Lawrence, Privacy and the Past: Research, Law, Archives, Ethics (Rutgers University Press 2016) (chapter 1. Introduction, chapter 5. Managing Privacy; Historians at Work, and chapter 6. Conclusion: Resistance.
-- History Matters; Interpreting Letters and Diaries: [http://historymatters.gmu.edu/mse/letters/](http://historymatters.gmu.edu/mse/letters/){:target="_blank"}. 
+- Cucu Oancea, Ozana. “Personal Documents as Data Sources for Social Sciences. A Review of History of Uses, Ethical, Methodological and Epistemological Considerations.” *Social Change Review,* no.10(1) (June 2012): 3 - 36.
+[Article](https://www.researchgate.net/publication/271383447_Personal_Documents_as_Data_Sources_for_Social_Sciences_A_Review_of_History_of_Uses_Ethical_Methodological_and_Epistemological_Considerations){:target="_blank"}.
+- Dobson, Miriam. “Letters.” In _Reading Primary Sources: The Interpretation of Texts from Nineteenth- and Twentieth-Century History_, edited by Miriam Dobson and Benjamin Ziemann, 57–73. New York: Routledge, 2009.
+- Lawrence, Susan C. “Chapter 1. Introduction, Chapter 5. Managing Privacy; Historians at Work, and Chapter 6. Conclusion: Resistance.” Essay. In _Privacy and the Past: Research, Law, Archives, Ethics_. New Brunswick, NJ: Rutgers University Press, 2016. 
+- Steven Stowe, “Making sense of letters and diaries”, HISTORY MATTERS - The U.S. Survey Course on the Web, http://historymatters.gmu.edu/mse/letters/.{:target="_blank"}. 
 
 <!-- briefing-teacher -->
 
