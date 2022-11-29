@@ -79,7 +79,7 @@ Answer these questions by going through the literature below, and write a short 
 [Article](https://www.researchgate.net/publication/271383447_Personal_Documents_as_Data_Sources_for_Social_Sciences_A_Review_of_History_of_Uses_Ethical_Methodological_and_Epistemological_Considerations){:target="_blank"}.
 - Dobson, Miriam. “Letters.” In _Reading Primary Sources: The Interpretation of Texts from Nineteenth- and Twentieth-Century History_, edited by Miriam Dobson and Benjamin Ziemann, 57–73. New York: Routledge, 2009.
 - Lawrence, Susan C. “Chapter 1. Introduction, Chapter 5. Managing Privacy; Historians at Work, and Chapter 6. Conclusion: Resistance.” Essay. In _Privacy and the Past: Research, Law, Archives, Ethics_. New Brunswick, NJ: Rutgers University Press, 2016. 
-- Steven Stowe, “Making sense of letters and diaries”, HISTORY MATTERS - The U.S. Survey Course on the Web, http://historymatters.gmu.edu/mse/letters/. {:target="_blank"}. 
+- Steven Stowe, “Making sense of letters and diaries”, HISTORY MATTERS [The U.S. Survey Course on the Web](http://historymatters.gmu.edu/mse/letters/) {:target="_blank"}. 
 
 <!-- briefing-teacher -->
 
