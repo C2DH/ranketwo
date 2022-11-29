@@ -52,7 +52,7 @@ First get some insights into how search engines work:
 ### Reading/viewing suggestions
 <!-- section-contents -->
 
-- [Eli Pariser, The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think, 2011](https://books.google.nl/books/about/The_Filter_Bubble.html?id=wcalrOI1YbQC&redir_esc=y){:target="_blank"}
+- Pariser, Eli. _The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think_. New York: Penguin Books, 2011. [Google Books](https://books.google.nl/books/about/The_Filter_Bubble.html?id=wcalrOI1YbQC&redir_esc=y){:target="_blank"}
 - [Alexander Halavais, Search Engine Society, 2017](https://books.google.nl/books?id=RLpADwAAQBAJ&printsec=frontcover&dq=how+do+search+engines+work&hl=nl&sa=X&ved=0ahUKEwjM_rDRz7DdAhUxMewKHdjBBLUQ6AEIRzAE){:target="_blank"}
 
 <!-- briefing-teacher -->
