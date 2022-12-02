@@ -77,6 +77,6 @@ Wiesbaden, Germany (5)
 
 ### Reading/viewing  suggestions
 <!-- section-contents -->
-Jewish Virtual Library - https://www.jewishvirtuallibrary.org/displaced-persons-camps-across-europe
+“Displaced Persons Camps across Europe,” Jewish Virtual Library, A Project of AICE. [Link](https://www.jewishvirtuallibrary.org/displaced-persons-camps-across-europe.)
 
 <!-- briefing-teacher -->
