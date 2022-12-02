@@ -65,7 +65,8 @@ Note your findings in your template.
 ### Reading/viewing  suggestions
 <!-- section-contents -->
 
-- [Photography and fictionality](https://drive.google.com/open?id=1NT4m-KnYk7yq5ZnubifAnW6TcJScGQkX){:target="_blank"}, by Jens Schröter
-- [Regarding the pain of others, images of horror](https://books.google.nl/books/about/Regarding_the_Pain_of_Others.html?id=XYo3AAAAQBAJ&source=kp_cover&redir_esc=y){:target="_blank"}, Susan Sontag
+- Schröter, Jens. “Photography and fictionality.”_Mediascape,_ December 29, 2012. [Google drive](https://drive.google.com/open?id=1NT4m-KnYk7yq5ZnubifAnW6TcJScGQkX){:target="_blank"}
+- Sontag, Susan. _Regarding the Pain of Others._ London: Penguin UK, 2013. [Google Books](https://books.google.nl/books/about/Regarding_the_Pain_of_Others.html?id=XYo3AAAAQBAJ&source=kp_cover&redir_esc=y)
+{:target="_blank"}
 
 <!-- briefing-teacher -->
