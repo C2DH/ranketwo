@@ -122,7 +122,7 @@ open source and which ones can only be used with permission.
 ### Reading / viewing suggestions
 <!-- section-contents -->
 
-- For an overview of learning goals that can be achieved through creating digital timelines, see the teaching guide of the Vanderbilt University [Vanderbilt University]( https://cft.vanderbilt.edu/guides-sub-pages/digital-timelines/){:target="_blank"}.
+- Picard, D., Bruff, D. “Digital Timelines.” Vanderbilt University. Last modified April 20, 2016. Accessed [date of creation]. https://cft.vanderbilt.edu/guides-sub-pages/digital-timelines/. {:target="_blank"}.
 
 - For assessing the pros and cons of different tools for creating timelines, consult this guide [ref](struggling-timeline){:target="_blank"}.
 
