@@ -48,7 +48,7 @@ One might wonder why students of a humanities discipline should learn about the 
 ### Reading/viewing  suggestions
 <!-- section-contents -->
 
-- A clip on [how a wire recorder was reconstructed](https://www.youtube.com/watch?v=sOyOH_kWAdQ){:target="_blank"} at Akron University in the US.
+- David Boder, “UA: Rebuilt Wire Recorder Brings Post WWII Recording to Life,” Akron University, The USA, uploaded December 2, 2017, [youtube video](https://www.youtube.com/watch?v=sOyOH_kWAdQ),1:40.
 - An [article by historian Trevor Owens](http://www.trevorowens.org/2015/12/digital-sources-digital-archives-the-evidentiary-basis-of-digital-history-draft/){:target="_blank"} on how digitization affects the character of a historical source.
 
 
