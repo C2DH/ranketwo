@@ -67,6 +67,6 @@ The purpose of this assignment is to show how one source, an audio recording, ca
 ### Reading/viewing suggestions
 <!-- section-contents -->
 
-Beate Muller, [Translating Trauma, Boder’s 1946 interviews with Holocaust survivors](https://www.euppublishing.com/doi/abs/10.3366/tal.2014.0155){:target="_blank"}.
+Müller, Beate.  “Translating Trauma: David Boder's 1946” Interviews with Holocaust Survivors. _Translation and Literature_,vo. 23, No. 2 (July 2014): 257-271. [Edinburgh University Press Website](https://www.euppublishing.com/doi/abs/10.3366/tal.2014.0155){:target="_blank"}.
 
 <!-- briefing-teacher -->
