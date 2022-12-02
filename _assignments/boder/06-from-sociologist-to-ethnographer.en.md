@@ -54,7 +54,7 @@ Boder’s approach shifted from that of a traditional social scientist looking f
 ### Reading/viewing  suggestions
 <!-- section-contents -->
 
-- Koenig, Ravenna. “1,000 Songs From Holocaust Survivors Archived.” Music interviews. _Weekend Edition Saturday._ NPR, May 16, 2015. [Link](https://www.npr.org/2015/05/16/406967291/1-000-songs-from-holocaust-survivors-archived?t=1530721766077&t=1539629898605)
+- Koenig, Ravenna. “1,000 Songs From Holocaust Survivors Archived.” Music interviews. _Weekend Edition Saturday._ NPR, May 16, 2015. [NPR Link](https://www.npr.org/2015/05/16/406967291/1-000-songs-from-holocaust-survivors-archived?t=1530721766077&t=1539629898605)
 - Read about the meaning of songs for Holocaust survivors in: S. GILBERT: SOCIAL HISTORY AND MUSICAL TEXTS, IRASM 36 (2005) 1, 117-134 [ref](gilbert-music-songs) 
   
 <!-- briefing-teacher -->
