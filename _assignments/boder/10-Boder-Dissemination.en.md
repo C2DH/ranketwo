@@ -59,6 +59,6 @@ You will be asked to create a map and mark the places with institutes that hold 
 
 ### Reading/viewing suggestions
 <!-- section-contents -->
-
-Read a review of Historypin in the American in the American Archivist: https://reviews.americanarchivist.org/2016/07/02/historypin/ 
+Nye, Abigail. “HISTORYPIN,” Digital Archives and Projects, Resources, May 1, 2014. The American Archivist Reviews Portal. Modified July 2, 2016.
+[Review Link](https://reviews.americanarchivist.org/2016/07/02/historypin/) 
 <!-- briefing-teacher -->
