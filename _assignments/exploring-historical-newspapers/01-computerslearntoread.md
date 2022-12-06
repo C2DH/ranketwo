@@ -112,15 +112,23 @@ Now have a look at the manual transcription of the same passage, and compare thi
 <!-- section-contents -->
 
 
-- For a technical and historical overview and information about some applications of optical character recognition (OCR), take a look at the [Wikipedia article on this topic](https://en.wikipedia.org/wiki/Optical_character_recognition){:target="_blank"}
+- For a technical and historical overview and information about some applications of optical character recognition (OCR), take a look at: 
+- Wikipedia._“Optical character recognition_”. Last modified November 30, 2022. [Wikipedia article](https://en.wikipedia.org/wiki/Optical_character_recognition){:target="_blank"}
 
-- To understand how optical character recognition (OCR) identifies characters and words(known as pattern recognition), watch  the [explanation by Aryaman Sharda](https://www.youtube.com/watch?v=cAkklvGE5io){:target="_blank"}
+- To understand how optical character recognition (OCR) identifies characters and words(known as pattern recognition), watch:
+- Sharda, Aryaman. _“How Does Optical Character Recognition (OCR) Work._” November 21, 2017. Educational video, 1:30. [Youtube Video](https://www.youtube.com/watch?v=cAkklvGE5io){:target="_blank"}
 
-- For a more detailed explanation of each step of the optical character recognition (OCR) process, watch the [interview with Professor Steve Simske by Computerphile](https://www.youtube.com/watch?v=ZNrteLp_SvY){:target="_blank"}
+- For a more detailed explanation of each step of the optical character recognition (OCR) process, watch the interview with Professor Steve Simske:
+- Riley, Sean. _“Optical Character Recognition (OCR)._” July 4, 2017. Computerphile. Educational video, 14:15. [Youtube Video](https://www.youtube.com/watch?v=ZNrteLp_SvY){:target="_blank"}
 
-- [Prof. Steve Simske explains the principle of binarisation](https://youtu.be/ZNrteLp_SvY?t=149){:target="_blank"}
+- Information on the principle of binarisation from 2:29:
+- Riley, Sean. _“Optical Character Recognition (OCR)._” July 4, 2017. Computerphile. Educational video, 14:15. [Youtube Video](https://youtu.be/ZNrteLp_SvY?t=149){:target="_blank"}
 
-- Here is information about [the single connected component (or one letter)](https://youtu.be/ZNrteLp_SvY?t=235){:target="_blank"} followed by information on the recognition of the types of letters used in a given text, or [the classification of the fonts](https://youtu.be/ZNrteLp_SvY?t=446){:target="_blank"}
+- Here is information about the single connected component (or one letter) from 3:55:
+- Riley, Sean. _“Optical Character Recognition (OCR)._” July 4, 2017. Computerphile. Educational video, 14:15.[Youtube Video](https://youtu.be/ZNrteLp_SvY?t=235){:target="_blank"}
+
+- Information on the recognition of the types of letters used in a given text, or the classification of the fonts from 7:27: 
+- Riley, Sean. _“Optical Character Recognition (OCR)._” July 4, 2017. Computerphile. Educational video, 14:15. [Youtube Video](https://youtu.be/ZNrteLp_SvY?t=446){:target="_blank"}
 
 
 <!-- briefing-teacher -->
