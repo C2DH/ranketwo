@@ -130,7 +130,7 @@ These two snapshots are versions of the Tweet archived by the [Internet Archive 
 ### Reading/viewing suggestions
 <!-- section-contents -->
 
-Michael Zimmer, "The Twitter Archive at the Library of Congress: Challenges for information practice and information policy," _First Monday_ 20 (7), 21 June 2015. Available at: <http://firstmonday.org/ojs/index.php/fm/article/view/5619>. Last accessed 3 September 2021. 
+- Zimmer, Michael. “The Twitter Archive at the Library of Congress: Challenges for Information Practice and Information Policy”. _First Monday_, 20 (7) (June 2015). [Journal article](https://doi.org/10.5210/fm.v20i7.5619)
 
 <!-- section -->
 
