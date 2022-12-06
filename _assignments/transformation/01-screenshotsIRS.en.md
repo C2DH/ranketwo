@@ -200,7 +200,8 @@ To give you an idea of how to respond to the questions, an example is given belo
 ### Reading/viewing suggestions
 <!-- section-contents -->
 
-- An explanation on [how to find and remove Exif data on a Mac and on a Windows computer](https://www.howtogeek.com/203592/what-is-exif-data-and-how-to-remove-it/){:target="_blank"}
+How to find and remove Exif data on a Mac and on a Windows computer:
+- Klein, Matt. “What Is EXIF Data, and How Can I Remove It from My Photos”. _How-to Geek_, July 10, 2017. [Magazine article](https://www.howtogeek.com/203592/what-is-exif-data-and-how-to-remove-it/){:target="_blank"}
 - [Anna Neatrour and Greer Martin, Using Metadata to Describe Digital Content, 2015](https://www.youtube.com/watch?v=RqgFLj_yspk){:target="_blank"}
 - [Deepak Jagdish and Daniel Smilkov, The Power of Metadata, 2013](https://www.youtube.com/watch?v=i2a8pDbCabg){:target="_blank"}
 - [Read the original article from the team that produced the Google Books Ngram Viewer for free here](https://dash.harvard.edu/handle/1/8899722){:target="_blank"}
