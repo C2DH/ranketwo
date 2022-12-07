@@ -101,11 +101,12 @@ Based on these three archived snapshots from 1996, 2003 and the last five years,
 ### Reading/viewing suggestions
 <!-- section-contents -->
 
--	[*Using Web Archives in Research: An Introduction* by Janne Nielsen (Aarhus: NetLab, 2016)](http://www.netlab.dk/wp-content/uploads/2016/10/Nielsen_Using_Web_Archives_in_Research.pdf){:target='_blank'}
--	[*The Web as History: Using Web Archives to Understand the Past and the Present* edited by Niels Brügger and Ralph Schroeder (London: UCL Press, 2017)](https://discovery.ucl.ac.uk/id/eprint/1542998/1/The-Web-as-History.pdf){:target='_blank'}
--	[“How Many Websites Are There Around The World?” by Nick Huss from siteefy (2020)](https://siteefy.com/how-many-websites-are-there/){:target='_blank'}
--	Why Archive The Web? by Abby Potter via the IIPC (<https://www.youtube.com/watch?v=pU32rjTaMFE>{:target='_blank'})
--	“Web Archiving” by the Library of Congress (30 Nov. 2009) (<https://www.youtube.com/watch?v=T0943YkhLWU>{:target='_blank'})
+-	Nielsen, Janne. *Using Web Archives in Research: An Introduction*. Aarhus: NetLab, 2016. [E-book](http://www.netlab.dk/wp-content/uploads/2016/10/Nielsen_Using_Web_Archives_in_Research.pdf)
+{:target='_blank'}
+-	Brügger, Niels, and Ralph Schroeder, eds. *The Web as History: Using Web Archives to Understand the Past and the Present.* London: UCL Press, 2017. [E-book](https://discovery.ucl.ac.uk/id/eprint/1542998/1/The-Web-as-History.pdf){:target='_blank'}
+-	Huss, Nick. “How Many Websites Are There Around The World?” Sateefy. Last modified November 27, 2022. [Website](https://siteefy.com/how-many-websites-are-there/){:target='_blank'}
+-	Potter, Abby. "Why Archive The Web." IIPC. October 18. 2012. Video, 2:53. [Youtube Video](https://www.youtube.com/watch?v=pU32rjTaMFE{:target='_blank'})
+-	Library of Congress. “Web Archiving.” November 30, 2009. Video, 3:10. [Youtube Video](https://www.youtube.com/watch?v=T0943YkhLWU>{:target='_blank'})
 -	World Wide Web Size research project measuring the size of the indexed web by Tilburg University (updated on a daily basis) (<https://www.worldwidewebsize.com/>{:target='_blank'})
 
 
