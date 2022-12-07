@@ -87,7 +87,7 @@ Watch part of the ['Transformation' clip](https://ranke2.uni.lu/u/transformation
 More information about the first modern copyright law: Doteasy. “THE STATUTE OF ANNE – 1710.” History of Copywrite. 2005. [Website](http://historyofcopyright.org/pb/wp_ff342f50/wp_ff342f50.html)
 - Cohrs, Lauren. “4 Easiest Ways to Tell if an Image is Copyrighted.” Geminos Creative. Modified January 16, 2014. [Blog](https://www.drumbeatmarketing.net/marketing-blog/4-easiest-ways-tell-image-copyrighted)
 - Sandvick, Clinton M. “How to Find Out if Something Is Copyrighted.” _Copyright Law._ Last modified October 4, 2022.  [Wikihow Article](https://www.wikihow.com/Find-Out-if-Something-Is-Copyrighted)
-- Creative Commons. _“Wanna Work Together_.” July 23, 2010. Video, 3:00. [Vimeo Video](https://vimeo.com/13590841)
+- Creative Commons. “Wanna Work Together.” July 23, 2010. Video, 3:00. [Vimeo Video](https://vimeo.com/13590841)
 - Creative Commons. “About The Licenses.” Last modified November 7, 2017. [Website](https://creativecommons.org/licenses/)
 - Strebeck, Zachary. “How to find out if something is copyrighted – a quick guide.” Strebecklaw. 2021. [Blog](https://strebecklaw.com/find-something-copyrighted-quick-guide/)
 - Stim, Rich. “Starting Your Copyright Research.” Stanford Copyright & Fair Use. [Website](https://fairuse.stanford.edu/overview/copyright-research/getting-started/)
