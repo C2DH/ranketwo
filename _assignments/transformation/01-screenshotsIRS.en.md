@@ -201,8 +201,8 @@ To give you an idea of how to respond to the questions, an example is given belo
 <!-- section-contents -->
 
 - How to find and remove Exif data on a Mac and on a Windows computer: Klein, Matt. “What Is EXIF Data, and How Can I Remove It from My Photos”. _How-to Geek_, July 10, 2017. [Magazine article](https://www.howtogeek.com/203592/what-is-exif-data-and-how-to-remove-it/){:target="_blank"}
-- Neatrour, Anna, and Martin Greer. _“Using Metadata to Describe Digital Content._” September 30, 2015. Digpublib. Video, 35:51. [Youtube Video](https://www.youtube.com/watch?v=RqgFLj_yspk){:target="_blank"}
-- Jagdish, Deepak, and Daniel Smilkov. _“The Power of Metadata._” September 25, 2013 at TEDxCambridge. Video, 9:57. [Youtube Video](https://www.youtube.com/watch?v=i2a8pDbCabg){:target="_blank"}
+- Neatrour, Anna, and Martin Greer. “Using Metadata to Describe Digital Content.” September 30, 2015. Digpublib. Video, 35:51. [Youtube Video](https://www.youtube.com/watch?v=RqgFLj_yspk){:target="_blank"}
+- Jagdish, Deepak, and Daniel Smilkov. “The Power of Metadata.” September 25, 2013 at TEDxCambridge. Video, 9:57. [Youtube Video](https://www.youtube.com/watch?v=i2a8pDbCabg){:target="_blank"}
 - Read the original article from the team that produced the Google Books Ngram Viewer: Michel, Jean-Baptiste, Yuan Kui Shen, Aviva P. Aiden, Adrian Veres, Matthew K. Gray, et al. “Quantitative analysis of cutlure using millions of digitized books.” _Science_ 331, (6014): 176-182. [Harvard Library](https://dash.harvard.edu/handle/1/8899722){:target="_blank"}
 - If you want to go more in-depth about the field of Image Recognition software and Computer Vision: Szeliski, Richard. “Computer Vision: Algorithms and Applications by Richard.” Last modified May 23, 2022. [Website](http://szeliski.org/Book/){:target="_blank"}
 
