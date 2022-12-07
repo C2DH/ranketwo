@@ -196,9 +196,9 @@ Would the Wayback Machine be useful to you if you wanted to know whether the cha
 ### Reading/viewing suggestions
 <!-- section-contents -->
 
--	[*Using Web Archives in Research: An Introduction* by Janne Nielsen (Aarhus: NetLab, 2016)](http://www.netlab.dk/wp-content/uploads/2016/10/Nielsen_Using_Web_Archives_in_Research.pdf)
--	[*The Web as History: Using Web Archives to Understand the Past and the Present* edited by Niels Brügger and Ralph Schroeder (London: UCL Press, 2017)](https://discovery.ucl.ac.uk/id/eprint/1542998/1/The-Web-as-History.pdf)
--	[“How Many Websites Are There Around The World?” by Nick Huss from siteefy (2020)](https://siteefy.com/how-many-websites-are-there/)
--	[*Qu’est-ce qu’une archive du Web?* by Francesca Musiani et al. (Marseille: OpenEdition, 2019)](https://books.openedition.org/oep/8713)
+-	Nielsen, Janne. *Using Web Archives in Research: An Introduction*. Aarhus: NetLab, 2016. [E-book](http://www.netlab.dk/wp-content/uploads/2016/10/Nielsen_Using_Web_Archives_in_Research.pdf)
+-	Brügger, Niels, and Ralph Schroeder, eds. *The Web as History: Using Web Archives to Understand the Past and the Present.* London: UCL Press, 2017. [E-book](https://discovery.ucl.ac.uk/id/eprint/1542998/1/The-Web-as-History.pdf)
+-	Huss, Nick. “How Many Websites Are There Around The World?” Sateefy. Last modified November 27, 2022. [Website](https://siteefy.com/how-many-websites-are-there/)
+-	Musiani, Francesca, Camille Paloque-Bergès, Valérie Schafer, and Benjamin G. Thierry. *Qu’est-ce qu’une archive du Web?* et al. Marseille: OpenEdition, 2019. [E-book](https://books.openedition.org/oep/8713)
 
 <!-- briefing-teacher -->
