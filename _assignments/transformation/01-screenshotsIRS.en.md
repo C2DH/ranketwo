@@ -94,7 +94,7 @@ Using the PDF, you will see all the major fields for metadata information in the
 | Owner
 
 
-[link to (pdf) and images of examples of metadata schemese Windows and MAC should be placed here]
+<!-- I deleted a path to a link here that was a mistake-->
 
 
 

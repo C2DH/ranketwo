@@ -33,7 +33,7 @@ Image credits:
 ### 1.a What can be considered "historically relevant" social media expressions?  | 20 Min
 <!-- section-contents -->
 
-Do you consider any of these messages, posts, photos, or web pages "historical"? Argue why or why not you would consider this content "historical" and support your answers through web research on the background and/or authors of the content. Write down your answers in the answer form.
+Do you consider any of these messages, posts, photos, or web pages "historical"? Argue why or why not you would consider this content "historical" and support your answers through web research on the background and/or authors of the content.
 
 
 [A Tweet](https://www.bbc.com/news/technology-13257940)
@@ -70,17 +70,17 @@ After having argued why or why not something should be considered "historical", 
 
 **Option 1**
 
-Read the following two blogs by professional historians and jot down what arguments are presented by the authors about *what can be considered to be part of the "past"*:
+Read the following two articles written by professional historians. Then jot down what arguments the authors present about *what can be considered to be part of the "past"*:
 
-1. [Suzannah Lipscomb in the British history journal *Historytoday* in her blog post "How recent is History?"](https://www.historytoday.com/how-recent-history) (770 words).
+1. Suzannah Lipscomb, ["How recent is History?"](https://www.historytoday.com/how-recent-history), *Historytoday*, 29 January, 2015 (770 words).  
 Selected quote: "Historians from the page might want to learn from those of the screen".
 
-2. [Historian Ian Milligan in the British/Australian platform for journalism The Conversation](https://theconversation.com/historians-archival-research-looks-quite-different-in-the-digital-age-121096) (1,100 words).
+2. Ian Milligan, ["Historians' archival research looks quite different in the digital age"](https://theconversation.com/historians-archival-research-looks-quite-different-in-the-digital-age-121096), *The Conversation*, 19 August, 2019 (1,100 words).  
 Selected quote: "Today, hundreds of billions of websites preserved at the Internet Archive alone is more archival information than scholars have ever had access to".
 
 **Option 2**
 
-Watch the two clips and read the two blogs below and then list some *positive and problematic aspects of historians engaging with social media.*
+Watch the two clips and read the two articles below. Then list what can be perceived as positive but also as potentially problematic aspects of historians engaging with social media.
 
 Clips:
 
@@ -90,16 +90,15 @@ Selected quote: "All of that stuff, of which we don’t really think about, beca
 2. [Historian Rebecca Huntley on the website of the Born Digital program of the National and State Libraries of Australia](https://www.youtube.com/watch?v=hR9VQPfNHaE&feature=youtu.be) (3.30 min).
 Selected quote: "Reflecting now on my life, and the documents in my life, a lot is not written down".
 
-Blogs:
+Articles and blog posts:
 
-1. [Historian Cathrine Fletcher in the British journal *History Today*](https://www.historytoday.com/archive/head-head/social-media-good-history) (1,480 words).
+1. [Is Social Media Good for History?](https://www.historytoday.com/archive/head-head/social-media-good-history), *History Today* 70, no. 2, 2 February, 2020 (1,480 words).
 Selected quote: "In a Twitter thread last June, curator Sara Huws wrote of her concern that the histories she tweeted from a Welsh museum account got more attention if she implied they’d been suppressed".
 
-2. [Digital historians Caroline Mueller and Frederic Clavert reflect on the prejudices of historians against social media](https://www.historytoday.com/archive/head-head/social-media-good-history) (4,237 words).
-Selected quote: ‘"The social networking service Twitter suffers from a bad reputation in the academic world and, more broadly, among those who do not use it".
+2. Caroline Muller and Frédéric Clavert, ["Scholarly conversation on Twitter"](https://consciences.hypotheses.org/2721), *Acquis de conscience*, 25 March, 2021 (4,237 words).
+In this blog post, the two authors reflect on the prejudices of historians against social media. Selected quote: "The social networking service Twitter suffers from a bad reputation in the academic world and, more broadly, among those who do not use it".
 
-Combining your own thoughts with those you have now seen from professional historians, write a short essay of about 500 words with your opinion on when an event, experience, or artifact becomes "historical" and what this means for the relationship between historians and social media. Use the space in your answer form.
-(Hint: Think of the introduction of previous popular media such as radio, the telephone, film, or television and what kind of sources they yielded)
+Combining your own thoughts with those you have now seen from professional historians, write a short essay of about 500 words with your opinion on when an event, experience, or artifact becomes "historical" and what this means for the relationship between historians and social media. You may want to think of the introduction of previous popular media such as radio, the telephone, film, or television and what kind of sources they yielded. 
 
 <!-- section -->
 
