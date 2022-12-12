@@ -78,7 +78,7 @@ Answer these questions by going through the literature below, and write a short 
 - Cucu Oancea, Ozana. 2012. “Personal Documents as Data Sources for Social Sciences. A Review of History of Uses, Ethical, Methodological and Epistemological Considerations.” *Social Change Review* 10 (1) (June): 3-36. DOI: [https://doi.org/10.2478/scr-2013-0009](https://doi.org/10.2478/scr-2013-0009){:target="_blank"}.
 - Dobson, Miriam. “Letters.” In _Reading Primary Sources: The Interpretation of Texts from Nineteenth- and Twentieth-Century History_, edited by Miriam Dobson and Benjamin Ziemann, 57–73. New York: Routledge, 2009.
 - Lawrence, Susan C. 2016. _Privacy and the Past: Research, Law, Archives, Ethics_. New Brunswick, NJ: Rutgers University Press. 
-- Stowe, Steven. “Making sense of letters and diaries”, *HISTORY MATTERS - The U.S. Survey Course on the Web*. July 2002. [http://historymatters.gmu.edu/mse/letters]http://historymatters.gmu.edu/mse/letters/){:target="_blank"}. 
+- Stowe, Steven. “Making sense of letters and diaries”, *HISTORY MATTERS - The U.S. Survey Course on the Web*. July 2002. [http://historymatters.gmu.edu/mse/letters](http://historymatters.gmu.edu/mse/letters/){:target="_blank"}. 
 
 <!-- briefing-teacher -->
 
