@@ -122,8 +122,9 @@ open source and which ones can only be used with permission.
 ### Reading / viewing suggestions
 <!-- section-contents -->
 
-- Picard, Daniel, Bruff, Derek. “Digital Timelines.” Vanderbilt University. Last modified April 20, 2016. [Website](https://cft.vanderbilt.edu/guides-sub-pages/digital-timelines/){:target="_blank"}.
+- Picard, Daniel, and Derek Bruff. 2016. “Digital Timelines.” *Center for Teaching - Vanderbilt University*. Last modified April 20, 2016. [https://cft.vanderbilt.edu/guides-sub-pages/digital-timelines/](https://cft.vanderbilt.edu/guides-sub-pages/digital-timelines/){:target="_blank"}.
+*This teaching guide provides an overview of learning goals that can be achieved through creating digital timelines*.
 
-- C2DH.Luxembourg Centre For Contemporary and Digital Hostory. “Struggling with timelines: helping you make the best possible choice.” [Guide Link](https://ranke2.uni.lu/assets/pdf/struggling-timeline.pdf){:target="_blank"}.
+- C2DH.Luxembourg Centre For Contemporary and Digital History. “Struggling with timelines: helping you make the best possible choice.” [Guide Link](https://ranke2.uni.lu/assets/pdf/struggling-timeline.pdf){:target="_blank"}.
 
 <!-- briefing-teacher -->
