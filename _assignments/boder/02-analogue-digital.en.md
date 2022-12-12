@@ -48,7 +48,6 @@ One might wonder why students of a humanities discipline should learn about the 
 ### Reading/viewing  suggestions
 <!-- section-contents -->
 
-- Boder, David. “UA: Rebuilt Wire Recorder Brings Post WWII Recording to Life.” Uploaded December 2, 2017, Found at Akron University, The USA, Video, 1:40. [Youtube Video](https://www.youtube.com/watch?v=sOyOH_kWAdQ)
 - The University of Akron. “UA: Rebuilt Wire Recorder Brings Post WWII Recording to Life.” 2 February 2017. YouTube video, 1:40. [https://www.youtube.com/watch?v=sOyOH_kWAdQ](https://www.youtube.com/watch?v=sOyOH_kWAdQ)  
 - Owens, Trevor. 2017. “Digital Sources & Digital Archives: The Evidentiary Basis of Digital History.” SocArXiv. March 31, 2017. [doi:10.31235/osf.io/t5rdy](doi:10.31235/osf.io/t5rdy){:target="_blank"} 
 
