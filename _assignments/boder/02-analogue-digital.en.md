@@ -48,8 +48,8 @@ One might wonder why students of a humanities discipline should learn about the 
 ### Reading/viewing  suggestions
 <!-- section-contents -->
 
-- A clip on [how a wire recorder was reconstructed](https://www.youtube.com/watch?v=sOyOH_kWAdQ){:target="_blank"} at Akron University in the US.
-- An [article by historian Trevor Owens](http://www.trevorowens.org/2015/12/digital-sources-digital-archives-the-evidentiary-basis-of-digital-history-draft/){:target="_blank"} on how digitization affects the character of a historical source.
+- The University of Akron. “UA: Rebuilt Wire Recorder Brings Post WWII Recording to Life.” 2 February 2017. YouTube video, 1:40. [https://www.youtube.com/watch?v=sOyOH_kWAdQ](https://www.youtube.com/watch?v=sOyOH_kWAdQ)  
+- Owens, Trevor. 2017. “Digital Sources & Digital Archives: The Evidentiary Basis of Digital History.” SocArXiv. March 31, 2017. [doi:10.31235/osf.io/t5rdy](doi:10.31235/osf.io/t5rdy){:target="_blank"} 
 
 
 <!-- briefing-teacher -->

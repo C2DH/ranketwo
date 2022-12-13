@@ -75,10 +75,11 @@ Answer these questions by going through the literature below, and write a short 
 ### Reading/viewing suggestions 
 <!-- section-contents -->
 
-- Cucu Oancea, Ozana. 2012. “Personal Documents as Data Sources for Social Sciences. A Review of History of Uses, Ethical, Methodological and Epistemological Considerations.” *Social Change Review* 10 (1) (June): 3-36. DOI: [https://doi.org/10.2478/scr-2013-0009](https://doi.org/10.2478/scr-2013-0009){:target="_blank"}.
+- Cucu Oancea, Ozana. “Personal Documents as Data Sources for Social Sciences. A Review of History of Uses, Ethical, Methodological and Epistemological Considerations.” *Social Change Review,* no.10(1) (June 2012): 3 - 36.
+[Article](https://www.researchgate.net/publication/271383447_Personal_Documents_as_Data_Sources_for_Social_Sciences_A_Review_of_History_of_Uses_Ethical_Methodological_and_Epistemological_Considerations){:target="_blank"}.
 - Dobson, Miriam. “Letters.” In _Reading Primary Sources: The Interpretation of Texts from Nineteenth- and Twentieth-Century History_, edited by Miriam Dobson and Benjamin Ziemann, 57–73. New York: Routledge, 2009.
-- Lawrence, Susan C. 2016. _Privacy and the Past: Research, Law, Archives, Ethics_. New Brunswick, NJ: Rutgers University Press. 
-- Stowe, Steven. “Making sense of letters and diaries”, *HISTORY MATTERS - The U.S. Survey Course on the Web*. July 2002. [http://historymatters.gmu.edu/mse/letters](http://historymatters.gmu.edu/mse/letters/){:target="_blank"}. 
+- Lawrence, Susan C. “Chapter 1. Introduction, Chapter 5. Managing Privacy; Historians at Work, and Chapter 6. Conclusion: Resistance.” Essay. In _Privacy and the Past: Research, Law, Archives, Ethics_. New Brunswick, NJ: Rutgers University Press, 2016. 
+- Stowe, Steven. “Making sense of letters and diaries”, _History Matters: The U.S. Survey Course on the Web_. Published July 2002. [Website](http://historymatters.gmu.edu/mse/letters/){:target="_blank"}. 
 
 <!-- briefing-teacher -->
 

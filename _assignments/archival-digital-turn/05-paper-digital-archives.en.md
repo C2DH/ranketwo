@@ -93,9 +93,9 @@ Keeping in mind the articles you have read (point 2.a), the questions above and 
 ### Reading/viewing suggestions
 <!-- section-contents -->
 
-- Owens, Trevor. 2017. “Digital Sources & Digital Archives: The Evidentiary Basis of Digital History.” SocArXiv. March 31, 2017. [doi:10.31235/osf.io/t5rdy](doi:10.31235/osf.io/t5rdy){:target="_blank"}
-- Armaselu, Florentina, Verónica Martins, and Catherine Emma Jones. 2016. “Materiality of TEI Encoding and Decoding: An Analysis of the Western European Union Archives on Armament Policy.” _Journal of the Text Encoding Initiative_ 9, (September). [https://doi.org/10.4000/jtei.1463](https://doi.org/10.4000/jtei.1463) {:target="_blank"} 
-- Website of the Text Encoding Initiative [TEI - Text Encoding Initiative](https://tei-c.org/){:target="_blank"}
+- Owens, Trevor. “Digital Sources & Digital Archives: The Evidentiary Basis of Digital History.” (March 2017). [Article Link](https://doi.org/10.31235/osf.io/t5rdy) {:target="_blank"}
+- TEI Text Encoding Initiative. “Text Encoding Initiative.” Huma-Num. [Website](https://tei-c.org/) {:target="_blank"}
+- Armaselu, Florentina, Verónica Martins, and Catherine Emma Jones. “Materiality of TEI Encoding and Decoding: An Analysis of the Western European Union Archives on Armament Policy.” _Journal of the Text Encoding Initiative, no. Issue 9_ (September 2016). [Article Link](https://doi.org/10.4000/jtei.1463) {:target="_blank"} 
 
 
 <!-- briefing-teacher -->

@@ -56,9 +56,9 @@ Reduced costs and easy-to-manage protocols mean that lay people not familiar wit
 
 <!-- section -->
 
-### Reading/viewing  suggestions
+### Reading/viewing suggestions
 <!-- section-contents -->
-- Watch this animation about [the history of communication technology](https://youtu.be/u43zr_7Y0ts) created by the company Dow Chemical
-- Consult this [interactive timeline about the history of communication](http://www.thehistoryofcommunication.com) created by the company Special Answering Services 
+You can explore the history of communication via the folowing interactive timeline:
+- Specialty Answering Service. 2015. *Explore the History of Communication*. Last modified 2015. [http://www.thehistoryofcommunication.com/](http://www.thehistoryofcommunication.com/) 
 
 <!-- briefing-teacher -->

@@ -162,7 +162,7 @@ Take into consideration the following:
 
 ### Reading/viewing suggestions
 <!-- section-content -->
--	[“How does the EU work?” by CNBC Explains (2019)](https://www.youtube.com/watch?v=9eufLQ3sew0){:target='_blank'}
--	[The Europa Web Guide](https://wikis.ec.europa.eu/display/WEBGUIDE/01.+Archiving){:target='_blank'} – the official rulebook for the European Commission’s web presence, covering editorial, legal, technical, visual and contractual aspects.
+-	Amaro, Silvia. “How does the EU work.” CNBC International. March 28, 2019. Video, 5:29. [Youtube Video](https://www.youtube.com/watch?v=9eufLQ3sew0){:target='_blank'}
+-	European Comission. "Archiving." Accessed December 7, 2022. [Website](https://wikis.ec.europa.eu/display/WEBGUIDE/01.+Archiving){:target='_blank'}
 
 <!-- briefing-teacher -->

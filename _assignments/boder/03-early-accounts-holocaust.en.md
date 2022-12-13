@@ -79,6 +79,6 @@ Bear in mind that the interview takes a long time to load, and that it is conduc
 ### Reading/viewing  suggestions
 <!-- section-contents -->
 
-See [Collect and record](https://global.oup.com/academic/product/collect-and-record-9780199764556?cc=nl&lang=en&){:target="_blank"}, Laura Jockusch
+Jockusch, Laura. 2012. _Collect and Record!: Jewish Holocaust Documentation in Early Postwar Europe (Oxford Series on History and Archives)._ Oxford: Oxford University Press.
 
 <!-- briefing-teacher -->

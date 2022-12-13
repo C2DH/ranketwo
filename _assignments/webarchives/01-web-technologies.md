@@ -140,12 +140,12 @@ Write a short essay of 500 words in which you incorporate the answers to the fol
 ### Reading/viewing suggestions
 <!-- section-contents -->
 
--	“History of the Internet” by Melih Bilgil (2009) (https://vimeo.com/2696386)
--	“A brief history of the World Wide Web” by CERN (2019) (https://www.youtube.com/watch?v=k0gvAyCubGQ&f)
--	“A short history on web technologies” by and on The Byte Story (2018) (https://thebytestory.com/2018/11/09/a-short-history-on-web-technologies/)
--	A very accessible low-threshold explanation of the web for children of all ages by Tim Berners-Lee: https://www.w3.org/People/Berners-Lee/Kids.html
--	A timeline of some of the first clips that went viral on the web: https://www.pewresearch.org/internet/2014/03/11/world-wide-web-timeline/#2009
+-	Bilgil, Melih. “History of the Internet.” January 2, 2009. Video, 08:09. [Vimeo Video](https://vimeo.com/2696386)
+-	CERN. “A brief history of the World Wide Web.” March 4, 2019. Video, 03:36. [Youtube Video](https://www.youtube.com/watch?v=k0gvAyCubGQ&f)
+-	Byte Story. “A short history on web technologies.” Accessed December 7, 2022. [Website](https://thebytestory.com/2018/11/09/a-short-history-on-web-technologies/)
+-	Berners-Lee, Tim. “Answers for Young People.” Accessed December 7, 2022. [Website](https://www.w3.org/People/Berners-Lee/Kids.html)
+-	Pew Research Center. “World Wide Web Timeline.” Last modified  March 11, 2014. [Website](https://www.pewresearch.org/internet/2014/03/11/world-wide-web-timeline/#2009)
 -	Tim Berners-Lee’s first proposal for the web from March 1989: “Information Management: A Proposal”
--	“A Short History of the Web” at CERN (date unknown): https://home.cern/science/computing/birth-web/short-history-web
--	“What is a web browser?” by Treehouse (May 2019) (https://www.youtube.com/watch?v=QzohDuGk4mM&)
+-	CERN. “A Short History of the Web.” Accessed December 7, 2022. [Website](https://home.cern/science/computing/birth-web/short-history-web)
+-	Treehouse. “What is a web browser?.” May 29, 2019. Video, 8:42. [Youtube Video](https://www.youtube.com/watch?v=QzohDuGk4mM&)
 <!-- briefing-teacher -->
