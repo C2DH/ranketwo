@@ -65,7 +65,7 @@ Note your findings in your template.
 ### Reading/viewing  suggestions
 <!-- section-contents -->
 
-- Schröter, Jens. 2013. “Photography and fictionality.”_Mediascape_ UCLA's journal of cinema and media studies (Winter).
+- Schröter, Jens. 2013. “Photography and fictionality.” _Mediascape_ UCLA's journal of cinema and media studies (Winter).
 - Sontag, Susan. 2013. _Regarding the Pain of Others._ London: Penguin UK.
 
 <!-- briefing-teacher -->
