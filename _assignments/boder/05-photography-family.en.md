@@ -56,9 +56,8 @@ Note your findings in your template.
 ### Reading/viewing  suggestions
 <!-- section-contents -->
 
-- Schröter, Jens. “Photography and fictionality.”_Mediascape,_ December 29, 2012. [Google drive](https://drive.google.com/open?id=1NT4m-KnYk7yq5ZnubifAnW6TcJScGQkX) 
-
-- Sontag, Susan. _Regarding the Pain of Others._ London: Penguin UK, 2013. [Google Books](https://books.google.nl/books/about/Regarding_the_Pain_of_Others.html?id=XYo3AAAAQBAJ&source=kp_cover&redir_esc=y)
+- Schröter, Jens. 2013. “Photography and fictionality.”_Mediascape_ UCLA's journal of cinema and media studies (Winter).
+- Sontag, Susan. 2013. _Regarding the Pain of Others._ London: Penguin UK.
 
 
 <!-- briefing-teacher -->
