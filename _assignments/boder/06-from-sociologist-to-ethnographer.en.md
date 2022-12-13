@@ -54,7 +54,7 @@ Boder’s approach shifted from that of a traditional social scientist looking f
 ### Reading/viewing  suggestions
 <!-- section-contents -->
 
-- Koenig, Ravenna. 2015. “1,000 Songs From Holocaust Survivors Archived.” Music interviews. _Weekend Edition Saturday._ NPR, May 16, 2015. [NPR Link](https://www.npr.org/2015/05/16/406967291/1-000-songs-from-holocaust-survivors-archived?t=1530721766077&t=1539629898605)
+- Koenig, Ravenna. 2015. “1,000 Songs From Holocaust Survivors Archived.” *NPR*. May 16, 2015. [(https://www.npr.org/2015/05/16/406967291/1-000-songs-from-holocaust-survivors-archived?t=1530721766077&t=1539629898605](https://www.npr.org/2015/05/16/406967291/1-000-songs-from-holocaust-survivors-archived?t=1530721766077&t=1539629898605)
 - Gilbert, Shirli. 2005. “Music as Historical Source: Social History and Musical Texts / Glazba Kao Povijesni Izvor: Socijalna Povijest i Glazbeni Tekstovi.” *International Review of the Aesthetics and Sociology of Music* 36, no. 1: 117–34. [http://www.jstor.org/stable/30032162](http://www.jstor.org/stable/30032162). 
   
 <!-- briefing-teacher -->
