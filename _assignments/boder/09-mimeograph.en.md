@@ -59,6 +59,6 @@ Reduced costs and easy-to-manage protocols mean that lay people not familiar wit
 ### Reading/viewing suggestions
 <!-- section-contents -->
 You can explore the history of communication via the folowing interactive timeline:
-- Specialty Answering Service. “Explore the History of Communication.” Last modified 2015. [Website link](http://www.thehistoryofcommunication.com/)
+- Specialty Answering Service. 2015. *Explore the History of Communication*. Last modified 2015. [http://www.thehistoryofcommunication.com/](http://www.thehistoryofcommunication.com/) 
 
 <!-- briefing-teacher -->
