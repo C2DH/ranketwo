@@ -53,9 +53,8 @@ L'approche de David Boder est passée de celle d'un sociologue traditionnel cher
 ### Suggestions de lectures/vidéos 
 <!-- section-contents -->
 
-
-- Écoutez un reportage radio du 16.5.2015 de la National Public Radio aux USA sur les chansons des survivants de l’holocauste.
-- Découvrez la signification des chansons pour les survivants de l’holocauste dans : S. GILBERT: SOCIAL HISTORY AND MUSICAL TEXTS, IRASM 36 (2005) 1, 117-134 [ref](gilbert-music-songs) 
+- Koenig, Ravenna. 2015. “1,000 Songs From Holocaust Survivors Archived.” *NPR*. May 16, 2015. [(https://www.npr.org/2015/05/16/406967291/1-000-songs-from-holocaust-survivors-archived?t=1530721766077&t=1539629898605](https://www.npr.org/2015/05/16/406967291/1-000-songs-from-holocaust-survivors-archived?t=1530721766077&t=1539629898605)
+- Gilbert, Shirli. 2005. “Music as Historical Source: Social History and Musical Texts / Glazba Kao Povijesni Izvor: Socijalna Povijest i Glazbeni Tekstovi.” *International Review of the Aesthetics and Sociology of Music* 36, no. 1: 117–34. [http://www.jstor.org/stable/30032162](http://www.jstor.org/stable/30032162). 
 
 <!-- briefing-teacher -->
 
