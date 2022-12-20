@@ -48,7 +48,7 @@ Warum sich Studierende der Geisteswissenschaften mit der veralteten Technologie 
 ### Empfehlungen Lektüre/Video  
 <!-- section-contents -->
 
-- Einen Clip zum Nachbau eines Drahttonbandgeräts an der Akron University in den USA finden Sie [hier](https://www.youtube.com/watch?v=sOyOH_kWAdQ){:target="_blank"}.
-- Einen Artikel des Historikers Trevor Owens zu der Frage, wie Digitalisierung die Merkmale einer historischen Quelle beeinflusst, finden Sie [hier](http://www.trevorowens.org/2015/12/digital-sources-digital-archives-the-evidentiary-basis-of-digital-history-draft/){:target="_blank"}.
+- The University of Akron. “UA: Rebuilt Wire Recorder Brings Post WWII Recording to Life.” 2 Februar 2017. YouTube Video, 1:40. [https://www.youtube.com/watch?v=sOyOH_kWAdQ](https://www.youtube.com/watch?v=sOyOH_kWAdQ)  
+- Owens, Trevor. 2017. “Digital Sources & Digital Archives: The Evidentiary Basis of Digital History.” SocArXiv. 31 März 2017. [doi:10.31235/osf.io/t5rdy](doi:10.31235/osf.io/t5rdy){:target="_blank"} 
 
 <!-- briefing-teacher -->
