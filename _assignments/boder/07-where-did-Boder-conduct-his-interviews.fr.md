@@ -71,6 +71,6 @@ L'état d'esprit des survivants dans les camps de déplacés était clairement t
 ### Suggestions de lectures/vidéos
 <!-- section-contents -->
 
-Lien vers la description d'un blog historique
+Jewish Virtual Library. “Displaced Persons Camps across Europe.” [Lien vers le site web](https://www.jewishvirtuallibrary.org/displaced-persons-camps-across-europe)
 
 <!-- briefing-teacher -->

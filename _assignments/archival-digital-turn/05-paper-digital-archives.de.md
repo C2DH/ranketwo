@@ -93,9 +93,9 @@ Fassen Sie Ihre Erkenntnisse in einem kurzen Aufsatz (1-3 Seiten) zusammen und b
 ### Reading/viewing suggestions
 <!-- section-contents -->
 
-- [ref](owens-sources-evidentiary-digital-history)
-- Text Encoding Initiative: [http://www.tei-c.org](http://www.tei-c.org){:target="_blank"}
-- Florentina Armaselu, Verónica Martins und Catherine Emma Jones (2016), [Materiality of TEI Encoding and Decoding: An Analysis of the Western European Union Archives on Armament Policy, Journal of the Text Encoding Initiative](https://journals.openedition.org/jtei/1463#tocto2n1){:target="_blank"}. 
+- Owens, Trevor. “Digital Sources & Digital Archives: The Evidentiary Basis of Digital History.” (March 2017). [Article Link](https://doi.org/10.31235/osf.io/t5rdy) {:target="_blank"}
+- TEI Text Encoding Initiative. “Text Encoding Initiative.” Huma-Num. [Website](https://tei-c.org/) {:target="_blank"}
+- Armaselu, Florentina, Verónica Martins, and Catherine Emma Jones. “Materiality of TEI Encoding and Decoding: An Analysis of the Western European Union Archives on Armament Policy.” _Journal of the Text Encoding Initiative, no. Issue 9_ (September 2016). [Article Link](https://doi.org/10.4000/jtei.1463) {:target="_blank"}  
 
 <!-- briefing-teacher -->
 

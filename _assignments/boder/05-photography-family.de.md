@@ -56,8 +56,8 @@ Notieren Sie Ihre Feststellungen auf Ihrer Vorlage.
 ### Empfehlungen Lektüre/Video
 <!-- section-contents -->
 
-- [Photography and fictionality](https://drive.google.com/open?id=1NT4m-KnYk7yq5ZnubifAnW6TcJScGQkX){:target="_blank"}, von Jens Schröter
-- [Regarding the pain of others, images of horror](https://books.google.nl/books/about/Regarding_the_Pain_of_Others.html?id=XYo3AAAAQBAJ&source=kp_cover&redir_esc=y){:target="_blank"}, Susan Sontag
+- Schröter, Jens. 2013. “Photography and fictionality.” _Mediascape_ UCLA's journal of cinema and media studies (Winter).
+- Sontag, Susan. 2013. _Regarding the Pain of Others._ London: Penguin UK.
 
 <!-- briefing-teacher -->
 

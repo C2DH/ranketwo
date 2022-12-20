@@ -64,6 +64,7 @@ Sie müssen in dieser Aufgabe eine Karte erstellen und die Orte der Institute ma
 ### Empfehlungen Lektüre/Video
 <!-- section-contents -->
 
-Lesen Sie diese Rezension Historypin's in the American Archivist: https://reviews.americanarchivist.org/2016/07/02/historypin/ 
+Nye, Abigail. 2014. “HistoryPin”. Rezension. *The American Archivist Reviews Portal*. Juli 2, 2016.
+[https://reviews.americanarchivist.org/2016/07/02/historypin/](https://reviews.americanarchivist.org/2016/07/02/historypin/) historypin/ 
 
 <!-- briefing-teacher -->

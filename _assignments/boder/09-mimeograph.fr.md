@@ -56,7 +56,6 @@ La réduction des coûts et des protocoles faciles à gérer impliquent que des 
 ### Suggestions de lectures/vidéos
 <!-- section-contents -->
 
-- Regarder cette vidéo sur [l'histoire des technologies de la communication](https://youtu.be/u43zr_7Y0ts), créée par la société Dow Chemical
 - Consulter cette [frise chronologique interactive sur l'histoire de la communication](http://www.thehistoryofcommunication.com) de la société Special Answering Services 
 
 <!-- briefing-teacher -->

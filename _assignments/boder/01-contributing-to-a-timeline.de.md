@@ -114,8 +114,9 @@ Where can you find this information if you search on the web?
 ### Empfehlungen Lektüre/Video
 <!-- section-contents -->
 
-- Für eine Übersicht über die Lernziele, die durch die Erstellung digitaler Zeitleisten erreicht werden können, [hier klicken](https://cft.vanderbilt.edu/guides-sub-pages/digital-timelines/){:target="_blank"}.
+- Picard, Daniel, and Derek Bruff. 2016. “Digital Timelines.” *Center for Teaching - Vanderbilt University*. Last modified April 20, 2016. [https://cft.vanderbilt.edu/guides-sub-pages/digital-timelines/](https://cft.vanderbilt.edu/guides-sub-pages/digital-timelines/){:target="_blank"}.
+*Für eine Übersicht über die Lernziele, die durch die Erstellung digitaler Zeitleisten erreicht werden können*.
 
-- Für eine Übersicht über Vor- und Nachteile verschiedener Tools für die Erstellung von Zeitleisten [hier klicken](https://docs.google.com/document/d/1uprzcDAFaCgK_1TB-A4QxkUjWIMrkWZOG6kAXQdhdDg/edit){:target="_blank"}.
+- C2DH.Luxembourg Centre For Contemporary and Digital History. “Struggling with timelines: helping you make the best possible choice.” [Link](https://ranke2.uni.lu/assets/pdf/struggling-timeline.pdf){:target="_blank"}.
 
 <!-- briefing-teacher -->
