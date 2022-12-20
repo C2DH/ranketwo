@@ -74,6 +74,6 @@ Le but de cet exercice est de montrer comment une source, en l'occurrence un enr
 ### Suggestions de lectures/vidéos
 <!-- section-contents -->
 
-Müller, Beate. 2014.  “Translating Trauma: David Boder's 1946 Interviews with Holocaust Survivors.” _Translation and Literature_ 23, no. 2 (July): 257-271
+Müller, Beate. 2014.  “Translating Trauma: David Boder's 1946 Interviews with Holocaust Survivors.” _Translation and Literature_ 23, no. 2 (juillet): 257-271
 
 <!-- briefing-teacher -->
