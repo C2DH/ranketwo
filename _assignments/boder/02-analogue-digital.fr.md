@@ -48,8 +48,7 @@ Certains se demandent peut-être pourquoi les étudiants en sciences humaines de
 ### Suggestions de lectures/vidéos
 <!-- section-contents -->
 
-- Pour visualiser une vidéo expliquant comment un enregistreur à fil a été reconstruit à l'université d'Akron aux États-Unis, veuillez [cliquer ici](https://www.youtube.com/watch?v=sOyOH_kWAdQ){:target="_blank"}.
-- Pour visualiser une vidéo expliquant comment un enregistreur numerique fonctionne, veuillez [cliquer ici](https://youtu.be/SfEXnX__X9Y){:target="_blank"}.
-- Pour lire un article de l'historien Trevor Owens sur la manière dont la numérisation affecte la nature d'une source historique, veuillez [cliquer ici](http://www.trevorowens.org/2015/12/digital-sources-digital-archives-the-evidentiary-basis-of-digital-history-draft/){:target="_blank"}.
+- The University of Akron. “UA: Rebuilt Wire Recorder Brings Post WWII Recording to Life.” 2 février 2017. Vidéo YouTube, 1:40. [https://www.youtube.com/watch?v=sOyOH_kWAdQ](https://www.youtube.com/watch?v=sOyOH_kWAdQ)  
+- Owens, Trevor. 2017. “Digital Sources & Digital Archives: The Evidentiary Basis of Digital History.” SocArXiv. 31 mars 2017. [doi:10.31235/osf.io/t5rdy](doi:10.31235/osf.io/t5rdy){:target="_blank"} 
 
 <!-- briefing-teacher -->
