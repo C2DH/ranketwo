@@ -64,6 +64,6 @@ Vous devrez créer une carte et y indiquer les instituts qui détiennent une par
 ### Suggestions de lectures/vidéos
 <!-- section-contents -->
 
-Veuillez lire cette recension de Historypin dans la revue the American in the American Archivist: https://reviews.americanarchivist.org/2016/07/02/historypin/ 
-
+Nye, Abigail. 2014. “HistoryPin”. Recension. *The American Archivist Reviews Portal*. Modifié le 2 juillet 2016.
+[https://reviews.americanarchivist.org/2016/07/02/historypin/](https://reviews.americanarchivist.org/2016/07/02/historypin/) 
 <!-- briefing-teacher -->
