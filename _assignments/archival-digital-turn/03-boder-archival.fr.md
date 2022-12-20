@@ -53,6 +53,6 @@ Regardez cette courte animation de [6 minutes 30 secondes au sujet de David Bode
 ### Suggestions de lectures/vidéos
 <!-- section-contents -->
 
-Alan Rosen, « “We Know Very Little in America”: David Boder and Un-belated Testimony », In: After the Holocaust: Challenging the Myth of Silence, ed. David Cesarani and Eric J.Sundquist, (New York, 2012)
+- Rosen, Alan. 2012. “'We Know Very Little in America': David Boder and Un-belated Testimony.” In *After the Holocaust: Challenging the Myth of Silence*, edited by David Cesarani and Eric J.Sundquist. New York: Routledge.
 
 <!-- briefing-teacher -->
