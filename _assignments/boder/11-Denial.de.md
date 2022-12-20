@@ -66,7 +66,6 @@ Diese Aufgabe soll Studierenden bei der Identifizierung der Quellen helfen, auf 
 ### Empfehlungen Lektüre/Video
 <!-- section-contents -->
 
-Have a look at a Rand report published in 2019 about how news coverage has changed over time:
 - Kavanagh, Jennifer *et al.* 2019. *News in a Digital Age: Comparing the Presentation of News Information over Time and Across Media Platforms*. Santa Monica, CA: RAND Corporation. [https://www.rand.org/pubs/research_reports/RR2960.html](https://www.rand.org/pubs/research_reports/RR2960.html) 
 
 <!-- briefing-teacher -->
