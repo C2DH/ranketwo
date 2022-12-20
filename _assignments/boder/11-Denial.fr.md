@@ -66,6 +66,7 @@ Cet exercice aidera les étudiants à identifier les sources de l'information re
 ### Suggestions de lectures/vidéos
 <!-- section-contents -->
 
-Have a look at a Rand report published in 2019 about how news coverage has changed over time: https://www.rand.org/pubs/research_reports/RR2960.html 
+Merci de consulter ce rapport de la RAND Corporation (en anglais) publié en 2019 au sujet de l'évolution de la couverture de l'actualité par les médias au fil du temps:
+- Kavanagh, Jennifer *et al.* 2019. *News in a Digital Age: Comparing the Presentation of News Information over Time and Across Media Platforms*. Santa Monica, CA: RAND Corporation. [https://www.rand.org/pubs/research_reports/RR2960.html](https://www.rand.org/pubs/research_reports/RR2960.html) 
 
 <!-- briefing-teacher -->
