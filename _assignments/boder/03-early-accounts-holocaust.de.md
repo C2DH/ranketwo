@@ -79,6 +79,6 @@ Bei einem Reflexionsprozess über Wert und Bedeutung einer im Web veröffentlich
 ### Empfehlungen Lektüre/Video
 <!-- section-contents -->
 
-[Laura Jockusch; Collect and record](https://global.oup.com/academic/product/collect-and-record-9780199764556?cc=nl&lang=en&){:target="_blank"}
+Jockusch, Laura. 2012. _Collect and Record!: Jewish Holocaust Documentation in Early Postwar Europe (Oxford Series on History and Archives)._ Oxford: Oxford University Press.
 
 <!-- briefing-teacher -->
