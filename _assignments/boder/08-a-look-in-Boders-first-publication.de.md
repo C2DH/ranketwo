@@ -74,6 +74,6 @@ In dieser Aufgabe soll aufgezeigt werden, wie sich eine Quelle, d. h. eine Audio
 ### Empfehlungen Lektüre/Video
 <!-- section-contents -->
 
-Müller, Beate. 2014.  “Translating Trauma: David Boder's 1946 Interviews with Holocaust Survivors.” _Translation and Literature_ 23, no. 2 (July): 257-271
+Müller, Beate. 2014.  “Translating Trauma: David Boder's 1946 Interviews with Holocaust Survivors.” _Translation and Literature_ 23, no. 2 (Juli): 257-271
 
 <!-- briefing-teacher -->
