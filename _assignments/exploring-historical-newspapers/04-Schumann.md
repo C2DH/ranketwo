@@ -77,8 +77,7 @@ There was a doctor in Bettembourg in the 1930s with the same name. How can you f
 
 ### Reading/viewing suggestions
 <!-- section-contents -->
-Read this blog by technologist and industry expert Chris Riley to understand how progress in digital technology has led to the improvement of the OCR technique:
-- Riley, Chris. “Modern OCR has game.” _Aiim+._ Published May 10, 2010. [Blog](https://community.aiim.org/blogs/chris-riley%20ecmp%20ioap/2010/10/05/modern-ocr-has-game)  
+ 
 
 <!-- briefing-teacher --> 
 
