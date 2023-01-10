@@ -14,7 +14,7 @@ outcomes:
 order: 1
 ---
 
-Amongst historians, it is argued that in order to consider an event "mature" enough for historical inquiry, there should be distance in time and access to classified documents. This idea of a necessary "waiting period" has long  determined the "historicity" of a given event or topic. The advent of the web and social media—with direct access to an abundance of data, especially in the realm of private life—seems to have challenged the idea of what can be considered as "historical". In this assignment, you are going to be confronted with different opinions on the role of social media in history and whether they can be considered "historical sources".
+Amongst historians, it is argued that in order to consider an event "mature" enough for historical inquiry, there should be distance in time and access to classified documents. This idea of a necessary "waiting period" has long determined the historicity of a given event or topic. The advent of the web and social media with direct access to an abundance of data, especially in the realm of private life, seems to have challenged the idea of what can be considered as historical. In this assignment, you are going to be confronted with different opinions on the role of social media in history and whether they can be considered historical sources.
 
 {:.mosaic}
 [![social media](https://media.giphy.com/media/rB8CbdO6xSJofmOAKL/giphy.webp "Linaria Comunicación via Giphy")](https://giphy.com/gifs/comunicacion-linaria-linariacomunicacion-rB8CbdO6xSJofmOAKL){:target="_blank"}
@@ -30,10 +30,10 @@ Image credits:
 
 <!-- briefing-student -->
 
-### 1.a What can be considered "historically relevant" social media expressions?  | 20 Min
+### 1.a What can be considered historically relevant social media expressions?  | 20 Min
 <!-- section-contents -->
 
-Do you consider any of these messages, posts, photos, or web pages "historical"? Argue why or why not you would consider this content "historical" and support your answers through web research on the background and/or authors of the content.
+Do you consider any of these messages, posts, photos, or web pages historical, i.e. connected to a historical phenomenon? Argue why or why not you would consider this content historical and support your answers through web research on the background and/or authors of the content.
 
 
 [A Tweet](https://www.bbc.com/news/technology-13257940)
@@ -66,14 +66,14 @@ Do you consider any of these messages, posts, photos, or web pages "historical"?
 
 ### 1.b Arguments put forward by historians | 30 Min
 <!-- section-contents -->
-After having argued why or why not something should be considered "historical", let's examine what professional historians have to say on the subject.
+After having argued why or why not something should be considered historical, let's examine what professional historians have to say on the subject.
 
 **Option 1**
 
-Read the following two articles written by professional historians. Then jot down what arguments the authors present about *what can be considered to be part of the "past"*:
+Read the following two articles written by professional historians who both focus on the importance of primary sources. Then jot down what arguments the authors present about *what can be considered to be part of the "past"*:
 
 1. Suzannah Lipscomb, ["How recent is History?"](https://www.historytoday.com/how-recent-history), *Historytoday*, 29 January, 2015 (770 words).  
-Selected quote: "Historians from the page might want to learn from those of the screen".
+Selected quote: "Historians of the page might want to learn from those of the screen".
 
 2. Ian Milligan, ["Historians' archival research looks quite different in the digital age"](https://theconversation.com/historians-archival-research-looks-quite-different-in-the-digital-age-121096), *The Conversation*, 19 August, 2019 (1,100 words).  
 Selected quote: "Today, hundreds of billions of websites preserved at the Internet Archive alone is more archival information than scholars have ever had access to".
@@ -98,7 +98,7 @@ Selected quote: "In a Twitter thread last June, curator Sara Huws wrote of her c
 2. Caroline Muller and Frédéric Clavert, ["Scholarly conversation on Twitter"](https://consciences.hypotheses.org/2721), *Acquis de conscience*, 25 March, 2021 (4,237 words).
 In this blog post, the two authors reflect on the prejudices of historians against social media. Selected quote: "The social networking service Twitter suffers from a bad reputation in the academic world and, more broadly, among those who do not use it".
 
-Combining your own thoughts with those you have now seen from professional historians, write a short essay of about 500 words with your opinion on when an event, experience, or artifact becomes "historical" and what this means for the relationship between historians and social media. You may want to think of the introduction of previous popular media such as radio, the telephone, film, or television and what kind of sources they yielded. 
+Combining your own thoughts with those you have now seen from professional historians, write a short essay of about 500 words with your opinion on when an event, experience, or artifact becomes historical and what this means for the relationship between historians and social media. You may want to think of the introduction of previous popular media such as radio, the telephone, film, or television and what kind of sources they yielded. 
 
 <!-- section -->
 
