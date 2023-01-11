@@ -1,6 +1,6 @@
 theme: minima
 default_lang: en
-languages: ["en", "fr", "de"]
+languages: ['en', 'fr', 'de']
 excerpt_separator: '<!-- more -->'
 briefing_separator: '<!-- briefing-teacher -->'
 section_separator: '<!-- section -->'
@@ -20,10 +20,12 @@ collections:
   workshops:
     output: true
     permalink: /w/:slug/
+  tutorials:
+    output: true
+    permalink: /tutorial/:path/
 defaults:
-  -
-    scope:
-      path: ""
+  - scope:
+      path: ''
     values:
       layout: default
 markdown: kramdown
@@ -32,8 +34,7 @@ recaptcha: 6LfZKnYUAAAAAJGg9r--abfv5A08TDORCmv4mGOx
 google_analytics: UA-97728144-3
 forms:
   contact-us:
-    url: "https://ranke2.uni.lu/ecf/"
+    url: 'https://ranke2.uni.lu/ecf/'
     params:
-      -
-        name: use
+      - name: use
         value: ranke2
