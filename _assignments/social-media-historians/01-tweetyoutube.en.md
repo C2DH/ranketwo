@@ -36,7 +36,7 @@ Image credits:
 Do you consider any of these messages, posts, photos, or web pages historical, i.e. connected to a historical phenomenon? Argue why or why not you would consider this content historical and support your answers through web research on the background and/or authors of the content.
 
 
-[A Tweet](https://www.bbc.com/news/technology-13257940)
+[A Tweet](https://www.bbc.com/news/technology-13257940) (live URL [here](https://twitter.com/reallyvirtual/status/64780730286358528))
 
 ![tweetbinladen](../../assets/images/social-media/tweetbinladen.png)
 
