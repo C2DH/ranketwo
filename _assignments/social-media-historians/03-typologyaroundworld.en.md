@@ -16,42 +16,41 @@ order: 3
 ![typology](../../assets/images/social-media/typology.png)
 "2021 World Map of Social Networks". Image created by Vincenzo Cosenza and used here without adaptation from the original on [Vinco’s Blog](https://vincos.it/world-map-of-social-networks/) under Creative Commons License [CC-BY-NC](https://creativecommons.org/licenses/by-nc/2.0/). [smaller font and downsize image]
 
-In this assignment, you are expected to conduct web research to complete the profiles of different social media platforms. There are many approaches to specifying the characteristics of a social medium; for instance, one can consider the technology and the type of communication it facilitates, the user experience, or focus on the policy and strategy of the company that runs the social medium, that is, the business model. These different approaches help to better understand what these different social media actually are. In classifying their typology, historians can more accurately analyse their content as digital sources.
+In this assignment, you are expected to conduct web research to complete <!--understand--> the profiles of different social media platforms. There are many approaches to specifying the characteristics of a social medium; for instance, one can consider the technology and the type of communication it facilitates, the user experience, or focus on the policy and strategy of the company that runs the social medium, that is, the business model. These different approaches help to better understand what these different social media actually are. In classifying their typology, historians can more accurately analyse their content as digital sources.
 
 
 <!-- more -->
 <!-- briefing-student -->
 
-### 3.a Social Media around the world | 20 Min
+### 3.a Social media around the world | 20 Min
 
 <!-- section-contents -->
 
-In the two tables below, a number of social media platforms are listed.Some are popular worldwide while others are known primarily in specific regions of the world. Fill out the table below in your answer form with the help of web research and/or literature. Remember, you can always make use of translation tools for languages that you don’t completely understand.
-
-**Table 1**
-
-|     | Facebook | Cloob | VK |
-| --- |:--------:|:-----:|:----:|
-| *Social element of the platform*: Is it primarily used for blogging, discussing, sharing, connecting, crowdsourcing, etc.?	|  |  |  |
-| *Content*: What kind of content - news, opinions, photos, personal stories, messages, games, films, clips, hobbies, etc. - is produced on this platform? |  |  |  |
-| *Closest similar set of practices in the analogue era*: e.g., pub, letter, telegraph, cinema, photo album, etc. |  |  |  |
-| *Target audience*: Who is the primary target of this platform? Business, leisure, other? |  |  |  |
-| *Device*: What kind of device - computer, tablet, smartphone, etc. - do you need to access the social medium?  |  |  |  |
-| *Control*: Is what is posted monitored? If so, by whom and for what reason? If not, why not? |  |  |  |
-| *Privacy*: What does the company that runs the platform know about their users? What happens to this data? | | | |
+We list below a number of social media platforms and we propose you conduct web research to gather information about some of their caracteristics. The aim of the assignment is to make you familiar with the various ways these platforms function. Some of them are popular worldwide, while others are known primarily in specific regions of the world - you might even catch several that are no longer active but this is also interesting to consider! The list we propose is not exhaustive and it is of course possible to include more platforms, following your interests; or you can even select a limited number from the list, we suggest however that you focus your work on no less than three platforms. You can also adjust the selected caracteristics to your own research interests. Do not be intimidated if during your research you need to make use of translation tools for languages that you don’t completely understand.
 
 
-**Table 2**
+| Service |
+|:--------:|
+| Facebook	|
+| VKontakte |
+| Cloob |
+| JamiiForums | 
+| Ravelry | 
+| Instagram |
+| TikTok |
 
-|     | JamiiForums | Ravelry | Instagram |
-| --- |:-----------:|:-------:|:---------:|
-| *Social element of the platform*: Is it primarily used for blogging, discussing, sharing, connecting, crowdsourcing, etc.?	|  |  |  |
-| *Content*: What kind of content - news, opinions, photos, personal stories, messages, games, films, clips, hobbies, etc. - is produced on this platform? |  |  |  |
-| *Closest similar set of practices in the analogue era*: e.g., pub, letter, telegraph, cinema, photo album, etc. |  |  |  |
-| *Target audience*: Who is the primary target of this platform? Business, leisure, other? |  |  |  |
-| *Device*: What kind of device - computer, tablet, smartphone, etc. - do you need to access the social medium?  |  |  |  |
-| *Control*: Is what is posted monitored? If so, by whom and for what reason? If not, why not? |  |  |  |
-| *Privacy*: What does the company that runs the platform know about their users? What happens to this data? | | | |
+Try now to establish the profile of the services you selected according to the caracteristics we propose below. Please note that several options are possible for each caracteristic - for example, once you consider the device, most services are accessible from various types.  
+
+- *Social element of the platform*: Is it primarily used for blogging, discussing, sharing, connecting, crowdsourcing, etc.?
+- *Content type*: What kind of content - news, opinions, photos, personal stories, messages, games, films, clips, hobbies, etc. - is produced on this platform?
+- *Closest similar set of practices in the analogue era*: e.g., pub, letter, telegraph, cinema, photo album, etc.
+- *Target audience*: Who is the primary target of this platform? Business, leisure, other?
+- *Device*: What kind of device - computer, tablet, smartphone, etc. - do you need to access the social medium?
+- *Control*: Is what is posted monitored? If so, by whom and for what reason? If not, why not?
+- *Data privacy*: What is the policy of the company that runs the platform about the users data? What happens to this data?
+- *Geographic basis*: In what country is based the enterprise that runs the service?   
+- *Areas served*: Is the service available worldwide?   
+- *Predominant geographic/cultural zones*: Are there specific geographic and/or linguistic zones where the use of service is more popular?  
 
 
 <!-- section -->
