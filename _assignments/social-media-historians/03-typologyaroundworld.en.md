@@ -41,12 +41,12 @@ We list below a number of social media platforms and we propose you conduct web 
 
 Try now to establish the profile of the services you selected according to the caracteristics we propose below. Please note that several options are possible for each caracteristic - for example, once you consider the device, most services are accessible from various types.  
 
-- *Social element of the platform*: Is it primarily used for blogging, discussing, sharing, connecting, crowdsourcing, etc.?
+- *Type of platform*: Is it primarily used for blogging, discussing, sharing, connecting, crowdsourcing, etc.?
 - *Content type*: What kind of content - news, opinions, photos, personal stories, messages, games, films, clips, hobbies, etc. - is produced on this platform?
 - *Closest similar set of practices in the analogue era*: e.g., pub, letter, telegraph, cinema, photo album, etc.
 - *Target audience*: Who is the primary target of this platform? Business, leisure, other?
 - *Device*: What kind of device - computer, tablet, smartphone, etc. - do you need to access the social medium?
-- *Control*: Is what is posted monitored? If so, by whom and for what reason? If not, why not?
+- *Content moderation*: Is what is posted by users monitored? If so, by whom and for what reason? If not, why not?
 - *Data privacy*: What is the policy of the company that runs the platform about the users data? What happens to this data?
 - *Geographic basis*: In what country is based the enterprise that runs the service?   
 - *Areas served*: Is the service available worldwide?   
@@ -58,16 +58,20 @@ Try now to establish the profile of the services you selected according to the c
 ### 3.b The companies behind social media | 25 Min
 <!-- section-contents -->
 
-Now you are going to focus on the companies behind a number of well-known social media platforms and the  strategies and policies of these companies regarding their platforms.  Fill out the table below in your answer form with the help of web research and/or literature.
+Now you are going to focus on the companies behind a number of well-known social media platforms and the  strategies and policies of these companies regarding their platforms. We propose a list of three companies below but you can continue working on the ones you already selected in the previous sub-assignment - in the latter case, you might already have obtained information on some of the points we propose you examine below. 
 
-|     | LinkedIn | WhatsApp | YouTube |
-| --- |:--------:|:--------:|:-------:|
-| *Type of platform*: Blogging / discussing / sharing / connecting / crowdsourcing, etc. 	|  |  |  |
-| *Creators*: Name of company, CEO, founding date, location of headquarters, and other pertinant info.  |  |  |  |
-| *Business model*: How do they generate income? |  |  |  |
-| *Selling point*: What makes them unique? |  |  |  |
-| *Control*: Do they exert control on what is posted by users? Why or why not?  |  |  |  |
-| *Data Collection*: What is their policy regarding user's data?  |  |  |  |
+| Service |  
+|:--------:|
+| LinkedIn |
+| WhatsApp |
+| YouTube |
+
+- *Type of platform*: Blogging / discussing / sharing / connecting / crowdsourcing, etc.?
+- *Creators*: Founder, founding date, name of company, Chief Executive Officer, location of headquarters.
+- *Business model*: How do they generate income?
+- *Selling point*: What makes them unique and attractive to use?
+- *Content moderation*: Is what is posted by users monitored? If so, by whom and for what reason? If not, why not?
+- *Data privacy*: What is the policy of the company that runs the platform about the users data? What happens to this data?
 
 <!-- section -->
 
