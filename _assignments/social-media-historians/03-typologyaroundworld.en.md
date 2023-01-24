@@ -82,8 +82,4 @@ After having compared the different companies behind some of the world's most we
 - What is the connection between personal data and income generation for social media platforms?
 - What do you think about the ethics behind this connection?
 
-{:.w-100}
-{:style="height:100px"}
-| |
-
 <!-- briefing-teacher -->
