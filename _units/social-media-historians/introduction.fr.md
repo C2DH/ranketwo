@@ -12,7 +12,7 @@ A more in-depth analysis is offered of Twitter, a microblogging service widely u
 ### What is the objective of this lesson?
 <!-- section-contents -->
 
-The objective is to teach historians how to make critical use of social media.
+The objective is to teach historians how to make critical use of social media for their research.
 
 <!-- section -->
 
