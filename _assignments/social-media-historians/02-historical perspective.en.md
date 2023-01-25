@@ -22,7 +22,11 @@ When looking at social media from a historian's perspective, it is important to 
 
 ### 2.a When did it all start? | 20 Min
 <!-- section-contents -->
-![Portraits of Romans from a fresco from Pompei](../../assets/images/social-media/romans.png "Portrait of Terentius Neo, ca. 20-30 CE, Naples National Archaeological Museum, Public Domain image")
+![romans](../../assets/images/social-media/romans.png)
+
+
+Image credit: Portrait of Terentius Neo, ca. 20-30 CE, Naples National Archaeological Museum. m-and-sections-of-the-exhibition/frescoes/) and freely available in the public domain. Public domain image. 
+
 
 [Watch this TEDx Talk by journalist and computer scientist Tom Standage](https://youtu.be/ixsridS3qVs) (16 min), author of ["Writing on the Wall"](https://worldcat.org/fr/title/827256877), a short history of information sharing. Standage defines social media as media exchanged between people along social connections and creating a distributed discussion or community. In his talk, he argues that a number of historical periods and events have the same type of communication structure as present-day social media. He goes so far as to regard the era of traditional analogue media - radio, television, and film - as an exception to the practice of passing on information at a low cost that can be modified from one peer to another. In his view, the twenty-first century is a "return" to the communication structures that were common before the technological innovations of the nineteenth and twentieth centuries.
 
