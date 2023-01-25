@@ -16,7 +16,7 @@ order: 3
 ![typology](../../assets/images/social-media/typology.png)
 "2021 World Map of Social Networks". Image created by Vincenzo Cosenza and used here without adaptation from the original on [Vinco’s Blog](https://vincos.it/world-map-of-social-networks/) under Creative Commons License [CC-BY-NC](https://creativecommons.org/licenses/by-nc/2.0/). [smaller font and downsize image]
 
-In this assignment, you are expected to conduct web research to complete <!--understand--> the profiles of different social media platforms. There are many approaches to specifying the characteristics of a social medium; for instance, one can consider the technology and the type of communication it facilitates, the user experience, or focus on the policy and strategy of the company that runs the social medium, that is, the business model. These different approaches help to better understand what these different social media actually are. In classifying their typology, historians can more accurately analyse their content as digital sources.
+In this assignment, you are expected to conduct web research to establish the profiles of different social media platforms. There are many approaches to specifying the characteristics of a social medium; for instance, one can consider the technology and the type of communication it facilitates, the user experience, or focus on the policy and strategy of the company that runs the social medium, that is, the business model. These different approaches help to better understand what these different social media actually are. In classifying their typology, historians can more accurately analyse their content as digital sources.
 
 
 <!-- more -->
