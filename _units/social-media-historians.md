@@ -29,6 +29,6 @@ og:
 ---
 Curated by Stefania Scagliola, Jordan Ricker and Emmanuel Decker
 
-Lesson on how to deal with the abudance of digital born data, with regard to research, reaching out to audiences, teaching, and preservation strategies, using social media as a case study.
+Lesson on how to deal with the abundance of digital born data, with regard to research, reaching out to audiences, teaching, and preservation strategies, using social media as a case study.
 
 <!-- more -->
