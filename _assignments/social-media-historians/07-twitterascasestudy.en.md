@@ -94,16 +94,12 @@ Image credit: [Jack Dorsey (@jack)](https://twitter.com/jack/status/20)
 
 - Go to <https://twitter.com/jack/status/20> and check the tweet you just accessed. 
 
-This is the first tweet ever published. It was tweeted by the creator of Twitter, Jack Dorsey. Unlike other old tweets, it is still online and readable on Twitter. Compare the tweet as it is on Twitter today to two earlier snapshots of the same Tweet:
+This is the first tweet ever published. It was posted by the creator of Twitter, Jack Dorsey. Unlike other old tweets, it is still online and readable on Twitter. Compare the tweet as it is on Twitter today to two earlier snapshots of the same tweet:
 - <https://web.archive.org/web/20081103142857/https://twitter.com/jack/status/20>
 - <https://web.archive.org/web/20150321230408/https://twitter.com/jack/status/20>
 
 
-These two snapshots are versions of the Tweet archived by the [Internet Archive Wayback Machine](https://archive.org/web/). In comparison, Jack Dorsey’s Tweet (as it is currently displayed on Twitter), is not an archived but a "live" version. Try to figure out some of the difficulties that archivistes might encounter when they archive social media by comparing those three versions of the same Tweet in a short response below.
-
-{:.w-100}
-{:style="height:100px"}
-| |
+These two snapshots are versions of the tweet archived by the [Internet Archive Wayback Machine](https://archive.org/web/). The first one is the earliest capture of it. In comparison, Jack Dorsey’s tweet, as it is currently displayed on Twitter, is not an archived but a live version - this means that Twitter users can still interact with it even today. Try to figure out some of the difficulties that archivists might encounter when they archive social media by comparing those three versions of the same Tweet in a short response below.
 
 <!-- section -->
 
