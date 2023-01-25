@@ -17,8 +17,8 @@ link: /u/social-media-historians/
 permalink: /u/social-media-historians/
 audience: general public, bachelor, master humanities
 components:
-  small: animation + quiz
-  medium: animation + 6 assignments
+  small: animation
+  medium: animation + 7 assignments
 mediatype: social media, personal documents
 cover:
   url: https://i.vimeocdn.com/video/1275218014-40c0ed7478c53ba9f73a6e9d4edc277e26a2bb8d775e9b957?mw=700&mh=394
