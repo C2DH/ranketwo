@@ -33,18 +33,10 @@ Image credit: [Kambree (@KamVTV) on Twitter](https://twitter.com/KamVTV/status/9
 
 Article: "How social media spread a historical lie" by Jennifer Mendelsohn and Peter A. Shulman, 15 March 2018, _The Washington Post_. Available at: <https://www.washingtonpost.com/news/made-by-history/wp/2018/03/15/how-social-media-spread-a-historical-lie>. Last accessed 27 August 2021.
 
-Arguments made:
+Please summarize the main arguments put forward in the article (no more than three). 
 
-{:.w-100}
-| 1. |
-| 2. |
-| 3. |
+Then try to explain how this example applies to one ore more ways in which social media are used as outlined in the introduction. You can do this by writing a short text (150 words max.) or by recording yourself or by exchanging with your classmates/colleagues. 
 
-How this example applies to way(s) in which social media are used:
-
-{:.w-100}
-{:style="height:100px"}
-| |
 
 <!-- section -->
 
@@ -57,18 +49,9 @@ Image credit: [Barack Obama (@BarackObama) on Twitter](https://twitter.com/Barac
 
 Article: "Historical Understanding in the Quantum Age" by Joshua Sternfeld, published 20 January 2014 and revised August 2014, _Journal of Digital Humanities_. Available at: <http://journalofdigitalhumanities.org/3-2/historical-understanding-in-the-quantum-age>. Last accessed 27 August 2021.
 
-Arguments made:
+Please summarize the main arguments put forward in the article (no more than three). 
 
-{:.w-100}
-| 1. |
-| 2. |
-| 3. |
-
-How this example applies to way(s) in which social media are used:
-
-{:.w-100}
-{:style="height:100px"}
-| |
+Then try to explain how this example applies to one ore more ways in which social media are used as outlined in the introduction. You can do this by writing a short text (150 words max.) or by recording yourself or by exchanging with your classmates/colleagues. 
 
 <!-- section -->
 
@@ -82,18 +65,9 @@ Image credit: Peter Arkle for the cover image of the 6 June 2018 article "Born D
 
 Article: "Born Digital: How Social Media and Paperless Offices are Reshaping the University Archives" by Brett Tomlinson, 6 June 2018, _Princeton Alumni Weekly_. Available at: <https://paw.princeton.edu/article/born-digital-how-social-media-and-paperless-offices-are-reshaping-university-archives>. Last accessed 27 August 2021.
 
-Arguments made:
+Please summarize the main arguments put forward in the article (no more than three). 
 
-{:.w-100}
-| 1. |
-| 2. |
-| 3. |
-
-How this example applies to way(s) in which social media are used:
-
-{:.w-100}
-{:style="height:100px"}
-| |
+Then try to explain how this example applies to one ore more ways in which social media are used as outlined in the introduction. You can do this by writing a short text (150 words max.) or by recording yourself or by exchanging with your classmates/colleagues. 
 
 <!-- section -->
 
@@ -106,17 +80,8 @@ Image credit: Screenshot of the ["digitalpast" project homepage](https://digital
 
 Web page: About page of the "digitalpast" project. Available at: <https://digitalpast.de/als-der-krieg-nach-hause-kam/digitalpast-english>. Last accessed 27 August 2021.
 
-Arguments made:
+Please summarize the main arguments put forward in the article (no more than three). 
 
-{:.w-100}
-| 1. |
-| 2. |
-| 3. |
-
-How this example applies to way(s) in which social media are used:
-
-{:.w-100}
-{:style="height:100px"}
-| |
+Then try to explain how this example applies to one ore more ways in which social media are used as outlined in the introduction. You can do this by writing a short text (150 words max.) or by recording yourself or by exchanging with your classmates/colleagues. 
 
 <!-- briefing-teacher -->
