@@ -33,7 +33,7 @@ Friendster: Former logo used from 2002-2009. Image from [1000 Logos](https://100
 
 In the history of social media, [Six Degrees](http://sixdegrees.com) and [Friendster](http://www.friendster.com), launched in 1997 and 2002 respectively, are two early initiatives, both of them now defunct. If these were telephone companies or daily newspapers from the early 1900s, you would probably start your research in company or government archives or in a librery. But who is responsible for preserving the content of web platforms that once were accessible worldwide and no longer exist? Hopefully there exists a nonprofit organization, the [Internet Archive](https://archive.org/), dedicated to instructing robots to make daily snapshots of web content, store this material in a database and make it retrievable through a search interface.
 You are now going to conduct a historical inquiry into these two social media platforms by consulting the Internet Archive thanks to the [Wayback Machine](https://web.archive.org/), its powerful search engine.
-[For a more in-depth explanation, see our handout on how to search the Internet Archive](https://ranke2.uni.lu/assets/pdf/wayback-machine-interface.pdf).
+For a more in-depth explanation, see our [handout on how to search the Internet Archive](https://ranke2.uni.lu/assets/pdf/wayback-machine-interface.pdf).
 
 - Put the url `http://sixdegrees.com` in the search box of the IA and search for snapshots made on 29 April 1999, such as [this one](https://web.archive.org/web/19990428073521/http://www.sixdegrees.com/). Please note that the url in question is still accessible in the web, however the website is no longer functional. 
 
@@ -81,7 +81,7 @@ Screenshot of ["President Trump 45 Archived (@POTUS45)" Twitter page](https://tw
 
 - Now try to answer the following questions in a short response of approximately 250 words. 
 1. Has the Library of Congress indeed applied the criteria that they describe in their change of policy in December 2017?
-2. Does this mean that these archived Tweets are accessible for research? Elaborate your answer with arguments.
+2. Does this mean that these archived tweets are accessible for research? Elaborate your answer with arguments.
 
 <!-- section -->
 

@@ -2,7 +2,7 @@
 layout: assignment
 unit: social-media-historians
 lang: de
-title: 'When does a Tweet or YouTube clip become "historical"?'
+title: 'When does a tweet or YouTube clip become "historical"?'
 cover:
 documents:
 tags:
@@ -14,7 +14,7 @@ outcomes:
 order: 1
 ---
 
-Amongst historians, it is argued that in order to consider an event "mature" enough for historical inquiry, there should be distance in time and access to classified documents. This idea of a necessary "waiting period" has long  determined the "historicity" of a given event or topic. The advent of the web and social media—with direct access to an abundance of data, especially in the realm of private life—seems to have challenged the idea of what can be considered as "historical". In this assignment, you are going to be confronted with different opinions on the role of social media in history and whether they can be considered "historical sources".
+Amongst historians, it is argued that in order to consider an event "mature" enough for historical inquiry, there should be distance in time and access to classified documents. This idea of a necessary waiting period has long  determined the historicity of a given event or topic. The advent of the web and social media—with direct access to an abundance of data, especially in the realm of private life—seems to have challenged the idea of what can be considered as "historical". In this assignment, you are going to be confronted with different opinions on the role of social media in history and whether they can be considered historical sources.
 
 {:.mosaic}
 [![social media](https://media.giphy.com/media/rB8CbdO6xSJofmOAKL/giphy.webp "Linaria Comunicación via Giphy")](https://giphy.com/gifs/comunicacion-linaria-linariacomunicacion-rB8CbdO6xSJofmOAKL){:target="_blank"}
