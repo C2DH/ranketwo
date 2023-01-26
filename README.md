@@ -15,7 +15,6 @@ This website uses the layout and styles from the Jekyll theme selected in the [r
 
 
 
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
