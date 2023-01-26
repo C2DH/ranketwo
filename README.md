@@ -5,6 +5,22 @@ You can use the [editor on GitHub](https://github.com/C2DH/memorycord/edit/maste
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### How to create a new page
+
+in pages, create the default md file, in English, e.g. `tutorials.md` then create one md file per language, e.g. 'tutorials.de.md' and 'tutorials.fr.md'. It's Jekyll default way to build up pages.
+Pay attention to each file frontmatter, esp `permalink`, which is responsible for the generation of the corresponding html page. Always prepend the laguage in the permalink for non default language. The presence of permalink avoid to modify the TEMPLATE url of the config (error: The URL template doesn't have lang keys. Check your permalink template! (NoMethodError))
+
+```yaml
+---
+layout: collection
+lang: fr
+permalink: /fr/tutorials/
+link: /tutorials/
+title: Tutorials
+collection: tutorials
+---
+```
+
 ### Jekyll Cheatsheet
 Published by [@rstacruz](https://ricostacruz.com/), a clear insight on how jekyll works.
 https://devhints.io/jekyll
@@ -12,6 +28,8 @@ https://devhints.io/jekyll
 
 ### Jekyll Themes
 This website uses the layout and styles from the Jekyll theme selected in the [repository settings](https://github.com/C2DH/ranketwo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+
 
 
 
