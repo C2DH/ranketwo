@@ -203,45 +203,6 @@
     src: "https://www.playposit.com/listcode/978363/n717d6/open/anonymous"
 
 -
-    id: manuscript
-    type: vimeo
-    aspectratio: aspect-16-9
-    title: "Do mediaeval manuscripts need to be photogenic? The lives of the Chronicle of Dalimil"
-    src: "https://player.vimeo.com/video/312892694"
-
--
-    id: manuscript-playposit
-    aspectratio: aspect-16-9
-    thumbnail:
-    src: "https://www.playposit.com/listcode/978332/n717d6/open/anonymous"
-
--
-    id: manuscript-playposit-french
-    aspectratio: aspect-16-9
-    thumbnail:
-    src: "https://api.playposit.com/go/share/10921/258439/0/0/FrenchDalimil-"
-
--
-    id: manuscript-playposit-german
-    aspectratio: aspect-16-9
-    thumbnail:
-    src: "https://www.playposit.com/listcode/978332/n717d6/open/anonymous"
-
--
-    id: manuscript-french
-    type: vimeo
-    aspectratio: aspect-16-9
-    title: "Les vies de la Chronique de Dalimil: les manuscripts médiévaux doivent-ils être photogéniques"
-    src: "https://player.vimeo.com/video/312893412"
-
--
-    id: manuscript-german
-    type: vimeo
-    aspectratio: aspect-16-9
-    title: "Die Leben der Dalimil Chronik: Müssen die mittelalterlichen Manuskripte fotogen sein?"
-    src: "https://player.vimeo.com/video/312894085"
-
--
     id: leopold-von-ranke
     type: vimeo
     aspectratio: aspect-16-9
