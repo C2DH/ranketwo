@@ -47,23 +47,6 @@
     aspectratio: aspect-16-9
     src: "https://player.vimeo.com/video/312738684"
 
--
-    id: david-boder-playposit
-    thumbnail: assets/images/david-boder-interactive.png
-    title: "David Boder's interview collection: from analogue to digital. Quiz"
-    src: "https://www.playposit.com/listcode/797374/n717d6/open/anonymous"
-
--
-    id: david-boder-playposit-french
-    thumbnail: assets/images/david-boder-interactive.png
-    title: "La collection d'interviews de David Boder : de l'analogue au numérique. Quiz"
-    src: "https://www.playposit.com/listcode/870433/n717d6/open/anonymous"
-
--
-    id: david-boder-playposit-german
-    thumbnail: assets/images/david-boder-interactive.png
-    title: "David Boders Interviewsammlung: Vom Analogen zum Digitalen. Quiz"
-    src: "https://www.playposit.com/listcode/870428/n717d6/open/anonymous"
 
 -
     id: david-boder-interactive
@@ -107,23 +90,6 @@
     title: Transformations.
     src: "https://player.vimeo.com/video/303237677"
 
--
-    id: transformations-playposit
-    thumbnail: "https://i.vimeocdn.com/video/718551052-b2dd5a08697758fa9babe113f61862563fc7efd38cd6b326327f62e0b8c56052-d?mw=960&mh=540&q=70"
-    title: Transformations. A quiz.
-    src: "https://www.playposit.com/listcode/826731/n717d6/open/anonymous"
-
--
-    id: transformations-playposit-french
-    thumbnail: "https://i.vimeocdn.com/video/718551052-b2dd5a08697758fa9babe113f61862563fc7efd38cd6b326327f62e0b8c56052-d?mw=960&mh=540&q=70"
-    title: Transformations. Quiz.
-    src: "https://www.playposit.com/listcode/882092/n717d6/open/anonymous"
-
--
-    id: transformations-playposit-german
-    thumbnail: "https://i.vimeocdn.com/video/718551052-b2dd5a08697758fa9babe113f61862563fc7efd38cd6b326327f62e0b8c56052-d?mw=960&mh=540&q=70"
-    title: Transformations. Quiz.
-    src: "https://www.playposit.com/listcode/882086/n717d6/open/anonymous"
 
 -
     id: archival-to-digital-turn
@@ -147,18 +113,6 @@
     thumbnail: assets/images/attachments/archival-digital-turn.png
     src: "https://player.vimeo.com/video/312728531"
 
--
-
-    id: archival-to-digital-turn-playposit
-    aspectratio: aspect-16-9
-    thumbnail: assets/images/attachments/archival-digital-turn.png
-    src: "https://www.playposit.com/listcode/823197/n717d6/open/anonymous"
-
--
-    id: archival-to-digital-turn-playposit-german
-    aspectratio: aspect-16-9
-    thumbnail: assets/images/attachments/archival-digital-turn.png
-    src: "https://www.playposit.com/listcode/881764/n717d6/open/anonymous"
 
 -
     id: webarchives
@@ -184,23 +138,6 @@
     title: "Lars Wieneke about changes in web technology"
     src: "https://player.vimeo.com/video/312896406"
 
--
-    id: webarchives-playposit
-    aspectratio: aspect-16-9
-    thumbnail:
-    src: "https://www.playposit.com/listcode/978363/n717d6/open/anonymous"
-
--
-    id: webarchives-playposit-french
-    aspectratio: aspect-16-9
-    thumbnail:
-    src: "https://www.playposit.com/listcode/978363/n717d6/open/anonymous"
-
--
-    id: webarchives-playposit-german
-    aspectratio: aspect-16-9
-    thumbnail:
-    src: "https://www.playposit.com/listcode/978363/n717d6/open/anonymous"
 
 -
     id: leopold-von-ranke
@@ -216,10 +153,3 @@
     aspectratio: aspect-16-9
     thumbnail: "https://i.vimeocdn.com/video/857946968.jpg?mw=1920&mh=1080&q=70"
     src: "https://player.vimeo.com/video/392733729"
-
--
-    id: exploring-historical-newspapers-quiz
-    type: vimeo
-    aspectratio: aspect-16-9
-    thumbnail:
-    src: "https://api.playposit.com/go/listcode/528112/258439/0/3/From-the-shelf-to-the-web-exploring-historical-newspapers-in-the-digital-age"
