@@ -17,7 +17,7 @@ link: /u/archival-digital-turn/
 permalink: /u/archival-digital-turn/
 audience: general public, bachelor, master humanities
 components:
-  small: animation + quiz
+  small: animation
   medium: animation + 6 assignments
 mediatype: photos, letters, emails
 cover:

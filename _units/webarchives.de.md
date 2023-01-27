@@ -15,7 +15,7 @@ link: /u/webarchives/
 permalink: /de/u/webarchives/
 audience: general public, bachelor, master humanities
 components:
-  small: animated video lecture  + quiz
+  small: animated video lecture
   medium: 5 assignments
 order: 3
 cover:

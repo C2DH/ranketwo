@@ -13,7 +13,7 @@ link: /u/boder/
 permalink: /u/boder/
 audience: general public, bachelor, master humanities
 components:
-  small: animation + quiz
+  small: animation
   medium: interactive animation + 12 assignments, video animated lecture + 5 assignments
   large: tutorial for hands on workshop
 mediatype: audiovisual, interviews

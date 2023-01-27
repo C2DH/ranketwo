@@ -13,7 +13,7 @@ link: /u/boder/
 permalink: /de/u/boder/
 audience: general public, bachelor, master humanities
 components:
-  small: Animation + Quiz
+  small: Animation
   medium: interaktive Animation + 12 Aufgaben, Kurs mit Videoanimation + 5 Aufgaben
   large: Lernprogramm für praktischen Workshop
 mediatype: audiovisual, interviews
