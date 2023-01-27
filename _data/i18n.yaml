@@ -16,7 +16,7 @@ About the platform:
 Go to lessons:
   en: Lessons
   fr: Accéder aux leçons
-  de: Gehe sie zu den Lektionen
+  de: Gehen sie zu den Lektionen
 go to assignments:
   fr: Accès aux exercices
   de: Zu den Aufgaben
@@ -27,8 +27,6 @@ briefing teacher:
   en: briefing lecturer
 clip:
   en: watch this animation
-quiz:
-  en: answer this quiz
 interactive:
   en: watch this interactive animation
 introduction:
