@@ -24,7 +24,7 @@ In dieser Lektion sollen Studierende lernen, wie sich der „digital Turn“ auf
 
 Im Rahmen jeder Lektion stehen mehrere Module zur Wahl, deren Komplexität und Zeitaufwand schrittweise zunehmen
 
-Das ***KLEINE*** Modul besteht aus einer kurzen, ca. 6-7 Minuten langen Animation, die sich richtet an eine breite Zielgruppe mit allgemeinem Interesse, darunter auch individuelle Lernende, die in keinen Ausbildungsrahmen eingebunden sind. Es beschreibt wie die Arbeit des Historikers sich verändert hat, und was wir lernen müssen um Quellenkritik auf digitale Quellen anwenden zu können. Im Anschluss folgt ein rund zehnminütiges Quiz, in dem das Verständnis des Lernenden der in der Animation dargelegten Konzepte geprüft wird. 
+Das ***KLEINE*** Modul besteht aus einer kurzen, ca. 6-7 Minuten langen Animation, die sich richtet an eine breite Zielgruppe mit allgemeinem Interesse, darunter auch individuelle Lernende, die in keinen Ausbildungsrahmen eingebunden sind. Es beschreibt wie die Arbeit des Historikers sich verändert hat, und was wir lernen müssen um Quellenkritik auf digitale Quellen anwenden zu können.
 
 Das ***MITTLERE*** Modul besteht aus einer Reihe von sieben Aufgaben, in denen die in der Animation eingeführten verschiedenen Themen fundierter betrachtet werden. Zielgruppe sind Bachelor-Studierende und ihre Dozenten. Die Aufgaben eignen sich für die Arbeit in Gruppen mit zwei oder drei Studierenden. Der Zeitaufwand liegt zwischen 30 und 90 Minuten. 
 

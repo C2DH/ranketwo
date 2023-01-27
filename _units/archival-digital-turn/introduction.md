@@ -12,7 +12,7 @@ This lesson aims to teach students of humanities disciplines how the digital tur
 ### What is the topic of the lesson and how is it organized?
 <!-- section-contents -->
 
-The lesson is about the impact of digital technology on the historian's craft and the method of source criticism. The ***SMALL*** module offers an animation of 6.30 min and a quiz of 10 min in which the Digital Turn is compared to the Archival Turn at the end of the 19th century. It also discusses the pivotal role of the German historian Leopold von Ranke. 
+The lesson is about the impact of digital technology on the historian's craft and the method of source criticism. The ***SMALL*** module offers an animation of 6.30 min in which the Digital Turn is compared to the Archival Turn at the end of the 19th century. It also discusses the pivotal role of the German historian Leopold von Ranke. 
 In the ***MEDIUM*** module this theme can be further elaborated by completing one or more of the seven assignments that deal with the transformation process from analogue to digital of different datatypes: photo's, filmclips, interviews, emails, letters, diplomatic documents, newspapers and glass plates.   
 The ***LARGE*** module offers the description and documents and guidelines that can be downloaded of a two days hands on doctoral skill training on Digital Source Criticism that was held on 30/31 of October 2017 at the Digital History Lab of the C2DH. The training offered the opportunity for hands on experiences with various digitisation techniques (text, images, object, and audiovisual) 
 

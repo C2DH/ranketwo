@@ -8,8 +8,6 @@ link: /u/archival-digital-turn/
 
 Leçon sur l’influence exercée par l’avènement du numérique sur la méthode de critique des sources et les implications pratiques de cette évolution pour les étudiants en lettres et les étudiants qui réalisent des recherches.
 
-Un package Moodle sera bientôt disponible en téléchargement.
-
 <!-- more -->
 
 ### Quel est l’objectif de cette leçon ?
@@ -24,7 +22,7 @@ L’objectif de cette leçon est d’enseigner aux étudiants les implications d
 
 La leçon compte trois modules dont la complexité et la durée vont croissantes.
 
-Le **PETIT** module est composé d’une brève animation de 6 minutes 30 secondes et est destiné à un large public, que ce soit dans un contexte d’enseignement ou en dehors. Il explique en quoi le métier d’historien a changé et ce que nous devons apprendre pour être capables d’adopter une approche critique vis-à-vis des sources numériques. Cette animation est suivie d’un quiz d’une durée approximative de 10 minutes.
+Le **PETIT** module est composé d’une brève animation de 6 minutes 30 secondes et est destiné à un large public, que ce soit dans un contexte d’enseignement ou en dehors. Il explique en quoi le métier d’historien a changé et ce que nous devons apprendre pour être capables d’adopter une approche critique vis-à-vis des sources numériques.
 
 Le module **INTERMÉDIAIRE** se compose d’une série de huit tâches en lien avec les sujets brièvement abordés dans l’animation. Le groupe cible comprend les étudiants de bachelor en lettres et leurs professeurs. Les tâches donnent l’opportunité aux étudiants d’approfondir les différents thèmes, d’en discuter en classe, de lire la littérature qui y est consacrée et de mettre la théorie en pratique. Les tâches peuvent être réalisées par groupes de deux ou trois étudiants. Leur durée varie de 30 à 90 minutes.
 
