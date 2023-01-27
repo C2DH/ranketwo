@@ -28,7 +28,7 @@ In diesem Modul sollen Studierende lernen, Quellenkritik auf Audiointerviews anz
 
 Die Lektion umfasst drei Module, deren Komplexität und Zeitaufwand schrittweise zunehmen.
 
-Das ***KLEINE*** Modul besteht aus einer kurzen Animation mit einer Dauer von 6 Minuten und 30 Sekunden und richtet sich an eine breite Zielgruppe mit oder ohne Unterrichtskontext. Gegenstand sind die verschiedenen Transformationen, die die Bodersche Interviewsammlung im Laufe der Zeit durchlief. Im Anschluss folgt ein rund zehnminütiges Quiz.
+Das ***KLEINE*** Modul besteht aus einer kurzen Animation mit einer Dauer von 6 Minuten und 30 Sekunden und richtet sich an eine breite Zielgruppe mit oder ohne Unterrichtskontext. Gegenstand sind die verschiedenen Transformationen, die die Bodersche Interviewsammlung im Laufe der Zeit durchlief.
 
 Das ***MITTLERE*** Modul ist mit einer interaktiven Version der ersten Animation verknüpft. Zielgruppe sind Bachelor-Studierende der Geisteswissenschaften und ihre Dozenten. Die in der kurzen Animation kurz behandelten Themen werden in zwölf Fenstern in der interaktiven Version vertieft. Jedes dieser Fenster ist Ausgangspunkt für die folgenden zwölf Aufgaben. Diese eignen sich für die Arbeit in Gruppen mit zwei oder drei Studierenden. Der Zeitaufwand liegt zwischen 30 und 90 Minuten. Darüber hinaus ist ein Kurs mit Videoanimation zu Web-Technologie mit vier Aufgaben enthalten.
 
