@@ -25,7 +25,7 @@ Les leçons ont été structurées de façon à répondre aux besoins des étudi
 
 <div class='component--size big float-left mr-3 ml-2 mt-2 mb-2'>S</div>
 
-**15 minutes** &mdash; Le **PETIT** module fait office d’introduction sommaire à un sujet lié à la critique des sources. Il est constitué d’une brève animation d’environ 6 à 7 minutes dans laquelle un certain nombre de termes et questions de base sont abordés. Il est suivi d’un quiz d’environ 10 minutes visant à évaluer la bonne compréhension des apprenants des concepts présentés dans l’animation. Le PETIT module s’adresse à un large public, qui fait preuve d’un intérêt général. Il convient ainsi aux apprenants autonomes hors contexte d’enseignement.
+**15 minutes** &mdash; Le **PETIT** module fait office d’introduction sommaire à un sujet lié à la critique des sources. Il est constitué d’une brève animation d’environ 6 à 7 minutes dans laquelle un certain nombre de termes et questions de base sont abordés. Le PETIT module s’adresse à un large public, qui fait preuve d’un intérêt général. Il convient ainsi aux apprenants autonomes hors contexte d’enseignement.
 
 {: .clear.extra-spacing }
 ## INTERMÉDIAIRE
