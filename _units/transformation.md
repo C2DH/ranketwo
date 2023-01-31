@@ -14,7 +14,7 @@ unit_id: transformation
 link: /u/transformation/
 audience: general public, bachelor, master humanities
 components:
- small: animation + quiz
+ small: animation
  medium: animation + 6 assignments,
 mediatype: images, digitised portraits, paintings, collages
 cover:

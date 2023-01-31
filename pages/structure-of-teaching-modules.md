@@ -23,7 +23,7 @@ It is worth bearing in mind that the topics addressed in the lessons are not lim
 
 <div class='component--size big float-left mr-3 ml-2 mt-2 mb-2'>S</div>
 
-**15 minutes** &mdash; The **SMALL** module serves as a short introduction to a topic related to source criticism. It consists of a short animation of around 6 to 7 minutes in which a number of basic terms and questions are presented. This is followed by a quiz of around 10 minutes to test learners’ understanding of the ideas conveyed in the animation. The SMALL module is geared towards a broad audience with a general interest, including individual learners who are not part of a teaching context.
+**15 minutes** &mdash; The **SMALL** module serves as a short introduction to a topic related to source criticism. It consists of a short animation of around 6 to 7 minutes in which a number of basic terms and questions are presented. The SMALL module is geared towards a broad audience with a general interest, including individual learners who are not part of a teaching context.
 
 {: .clear.extra-spacing }
 ## MEDIUM / complete one or more assignments

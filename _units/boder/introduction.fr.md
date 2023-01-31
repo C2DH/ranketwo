@@ -28,7 +28,7 @@ L’objectif de cette leçon est d’apprendre aux étudiants à appliquer l’a
 
 La leçon compte trois modules dont la complexité et la durée vont croissantes.
 
-Le ***PETIT*** module est composé d’une brève animation de 6 minutes 30 secondes et est destiné à un large public, que ce soit dans un contexte d’enseignement ou en dehors. Cette animation raconte les diverses transformations subies par la collection d’interviews de David Boder. Elle est suivie d’un quiz d’une durée approximative de 10 minutes.
+Le ***PETIT*** module est composé d’une brève animation de 6 minutes 30 secondes et est destiné à un large public, que ce soit dans un contexte d’enseignement ou en dehors. Cette animation raconte les diverses transformations subies par la collection d’interviews de David Boder.
 
 Le module ***INTERMÉDIAIRE*** concerne une version interactive de la première animation. Le groupe cible comprend les étudiants de bachelor en lettres et leurs professeurs. Les thèmes abordés sommairement dans la brève animation sont présentés plus en détail au gré des douze fenêtres de la version interactive. Chacune de ces fenêtres sert de base pour les douze tâches proposées ensuite. Ces tâches peuvent être réalisées par groupes de deux ou trois étudiants. Leur durée varie de 30 à 90 minutes. En outre, ce module comprend une lecture vidéo animée sur la technologie du web accompagnée de quatre tâches.
 

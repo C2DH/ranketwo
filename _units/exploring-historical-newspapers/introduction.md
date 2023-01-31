@@ -22,7 +22,7 @@ Newspapers are imperfect recorders of history, yet they are a key asset for hist
 
 The lesson consists of two modules with increasing levels of complexity and time required.
 
-The ***SMALL*** offers an animation lasting 7 minutes and 58 seconds, and is intended to be accessible to a broad audience. This is followed by a quiz that takes around 12 minutes.
+The ***SMALL*** offers an animation lasting 7 minutes and 58 seconds, and is intended to be accessible to a broad audience.
 
 The ***MEDIUM*** offers a series of four assignments that are suitable for collaborative work for two or three students. The time required varies from 30 to 60 minutes.
 

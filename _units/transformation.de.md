@@ -15,7 +15,7 @@ link: /u/transformation/
 permalink: /de/u/transformation/
 audience: general public, bachelor, master humanities
 components:
- small: Animation + Quiz
+ small: Animation
  medium: Animation + 6 Aufgaben
 mediatype: images, digitized portraits, paintings, collages
 cover:

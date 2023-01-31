@@ -28,7 +28,7 @@ This lesson is meant to teach students to apply source criticism to audio interv
 
 The lesson consists of three modules with increasing levels of complexity and time required.
 
-The ***SMALL*** offers of a short animation lasting 6 minutes 30 seconds, intended to be accessible to a broad audience, whether within a teaching context or not. It tells the story of the various transformations of Boder’s collection of interviews. This is followed by a quiz that takes around 10 minutes.
+The ***SMALL*** offers of a short animation lasting 6 minutes 30 seconds, intended to be accessible to a broad audience, whether within a teaching context or not. It tells the story of the various transformations of Boder’s collection of interviews.
 
 The ***MEDIUM*** module is related to an interactive version of the first animation. The target group is Bachelor students in a humanities discipline and their lecturers. Topics that are briefly touched on in the short animation are discussed in more depth in twelve windows in the interactive version. Each of these windows serves as a basis for the following twelve assignments. These are suitable for collaborative work for two or three students. The time required varies from 30 to 90 minutes.
 

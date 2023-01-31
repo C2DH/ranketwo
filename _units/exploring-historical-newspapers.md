@@ -14,7 +14,7 @@ link: /u/exploring-historical-newspapers/
 permalink: /u/exploring-historical-newspapers/
 audience: general public, bachelor, master humanities
 components:
-  small: animation + quiz
+  small: animation
   medium: animation + 6 assignments
 mediatype: newspapers
 cover:
