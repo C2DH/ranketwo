@@ -3,7 +3,6 @@ layout: default
 ---
 {% assign components = site.units| where: "parent", page.unit_id | where: "lang", page.lang | sort: 'type'  %}
 {% assign clips = components | where: "type", "clip" %}
-{% assign quizzes = components | where: "type", "quiz" %}
 {% assign interactives = components | where: "type", "interactive" %}
 {% assign videolectures = components | where: "type", "videolecture" %}
 {% assign workshop = components | where: "type", "workshop" %}
@@ -52,10 +51,6 @@ layout: default
 {% endfor %}
 
 {% for component in clips %}
-  {% include component.html %}
-{% endfor %}
-
-{% for component in quizzes %}
   {% include component.html %}
 {% endfor %}
 
@@ -192,7 +187,7 @@ layout: default
 {% include scripts/enrich.html %}
 
 
-{% assign toc = introductions | concat: clips | concat: quizzes | concat: interactives | concat: videolectures %}
+{% assign toc = introductions | concat: clips | concat: interactives | concat: videolectures %}
 <!-- table of contents contaier -->
 {% if page.toc %}
 <div id='table-of-contents-wrapper'>
