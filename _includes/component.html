@@ -5,9 +5,6 @@
 {% if component.type == 'interactive' %}
   {% assign is_iframe = true %}
 {% endif %}
-{% if component.type == 'quiz' %}
-  {% assign is_iframe = true %}
-{% endif %}
 <a class='anchor' id='c-{{component.slug}}'></a>
 <div class='component-wrapper {{component.type}} scrollspy {%if component.type == "interactive" %}full-height{% endif %}'>
   <div class='lines'>
