@@ -8,8 +8,6 @@ link: /u/archival-digital-turn/
 
 Eine Lektion über die Frage, wie sich der „digital Turn“ (digitale Wende) auf das Verfahren der Quellenkritik ausgewirkt hat und was dies für Studierende der Geisteswissenschaften mit Forschungstätigkeit bedeutet.
 
-Ein Moodle package wird in naher Zukunft zum Download bereit stehen.
-
 <!-- more -->
 
 ### Was ist das Lernziel dieser Lektion?

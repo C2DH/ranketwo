@@ -1,5 +1,5 @@
 ---
-title: "Du virage archivistique au virage numérique"
+title: "Du tournant archivistique au tournant numérique"
 layout: unit
 toc: on
 tags:
@@ -27,7 +27,7 @@ answertemplate:
 url: /assets/doc/version_2_answer-template-archival-digital-turn
 ---
 
-Leçon sur l’influence exercée par l’avènement du numérique sur la méthode de critique des sources et les implications pratiques de cette évolution pour les étudiants en lettres et les étudiants qui réalisent des recherches.
+Leçon sur l’impact du tournant numérique sur la méthode de critique des sources et les implications de cette évolution pour les pratiques de recherche des étudiants et étudiantes en sciences humaines et sociales.
 
 
 <!-- more -->
