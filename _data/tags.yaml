@@ -1,17 +1,4 @@
-- type: api
-  displayname:
-     en: "APIs"
-  description:
-     en: APIs
-- type: 
-  displayname: 
-      en: "" 
-      fr: ""
-      de: "" 
-  description:
-      en: "" 
-      fr: ""
-      de: ""  
+ # This file contains the types of sources historians use to be used as tags for the lessons of Ranke.2
 
 - type: archive-document
   displayname: 
