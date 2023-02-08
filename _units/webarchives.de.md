@@ -1,6 +1,7 @@
 ---
 title: "The Web as a historical source; what historians need to know"
 layout: unit
+toc: on
 tags:
   - web technology
   - the archived web
