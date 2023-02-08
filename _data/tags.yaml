@@ -1,210 +1,129 @@
- # This file contains the types of sources historians use to be used as tags for the lessons of Ranke.2
+ # This file contains the main types of sources historians use in the aim to use them as tags for the lessons of Ranke.2
 
 - type: archive-document
   displayname: 
       en: "archive documents" 
       fr: "documents d'archives"
-      de: "Archivdokumente" 
-  description:
-      en: "" 
-      fr: ""
-      de: "" 
+      de: "Archivdokumente"
 
 - type: manuscript
   displayname:  
       en: "manuscripts" 
       fr: "manuscrits"
-      de: "Manuskripte" 
-  description:
-      en: "" 
-      fr: ""
-      de: ""
+      de: "Manuskripte"
 
 - type: correspondence 
   displayname: 
       en: "correspondences" 
       fr: "correspondances"
       de: "Korrespondenz" 
-  description:
-      en: "" 
-      fr: ""
-      de: ""
 
 - type: press 
   displayname: 
       en: "press" 
       fr: "presse"
-      de: "presse" 
-  description:
-      en: "" 
-      fr: ""
-      de:   
+      de: "Presse" 
 
 - type: book
   displayname: 
       en: "books" 
       fr: "livres"
       de: "Bücher" 
-  description:
-      en: "" 
-      fr: ""
-      de: ""
-
+ 
 - type: book-printed
   displayname: 
-      en: "Printed books" 
-      fr: "Livres imprimés"
-      de: "Gedruckte Bücher" 
-  description:
-      en: "" 
-      fr: ""
-      de: ""
-
+      en: "printed books" 
+      fr: "livres imprimés"
+      de: "gedruckte Bücher" 
+ 
 - type: book-digital
   displayname: 
-      en: "ebooks" 
+      en: "digital books" 
       fr: "livres numériques"
-      de: "Digital Bücher" 
-  description:
-      en: "" 
-      fr: ""
-      de: ""
+      de: "digital Bücher" 
 
 - type: photo 
   displayname: 
       en: "photographies" 
       fr: "photographies"
       de: "Fotografien" 
-  description:
-      en: "" 
-      fr: ""
-      de: ""  
 
 - type: print
   displayname: 
       en: "prints" 
       fr: "estampes"
       de: "Drucke" 
-  description:
-      en: "" 
-      fr: ""
-      de: ""
 
-- type: design 
+- type: drawing 
   displayname: 
-      en: "Designs" 
-      fr: "Dessins"
+      en: "drawings" 
+      fr: "dessins"
       de: "Entwürfe" 
-  description:
-      en: "" 
-      fr: ""
-      de: "" 
-
 
 - type: map
   displayname: 
       en: "maps and plans" 
       fr: "cartes et plans"
       de: "Karten und Pläne" 
-  description:
-      en: "" 
-      fr: ""
-      de: "" 
 
 - type: music-score
   displayname: 
       en: "music scores" 
       fr: "partitions"
       de: "Partituren" 
-  description:
-      en: "" 
-      fr: ""
-      de: "" 
 
 - type: object
   displayname: 
       en: "objects" 
       fr: "objets"
       de: "Objekte" 
-  description:
-      en: "" 
-      fr: ""
-      de: "" 
 
 - type: art-work
   displayname: 
-      en: "Art works" 
-      fr: "Œuvres d’art"
+      en: "art works" 
+      fr: "œuvres d’art"
       de: "Kunstwerke" 
-  description:
-      en: "" 
-      fr: ""
-      de: "" 
 
 - type: artifact-archaeo
   displayname: 
       en: "archaeological artifacts" 
       fr: "artefacts archéologiques"
       de: "archäologische Artefakte" 
-  description:
-      en: "" 
-      fr: ""
-      de: "" 
 
 - type: monument
   displayname: 
       en: "monuments" 
       fr: "monuments"
       de: "Denkmäler" 
-  description:
-      en: "" 
-      fr: ""
-      de: "" 
 
 - type: oral-interview
   displayname: 
       en: "interviews" 
       fr: "entretiens"
-      de: "" 
-  description:
-      en: "" 
-      fr: ""
-      de: "" 
+      de: "Interviews" 
 
 - type: oral-history
   displayname: 
       en: "oral histories" 
       fr: "histoires orales"
-      de: "" 
-  description:
-      en: "" 
-      fr: ""
-      de: "" 
+      de: "Oral History" 
 
 - type: survey
   displayname: 
-      en: "Surveys" 
-      fr: "Enquêtes"
+      en: "surveys" 
+      fr: "enquêtes"
       de: "Umfragen" 
-  description:
-      en: "" 
-      fr: ""
-      de: "" 
 
 - type: statistics
   displayname: 
-      en: "Statistics" 
-      fr: "Statistiques"
+      en: "statistics" 
+      fr: "statistiques"
       de: "Statistiken" 
-  description:
-      en: "" 
-      fr: ""
-      de: "" 
 
 - type: web-site
   displayname: 
-      en: "Websites" 
-      fr: "Sites web"
+      en: "websites" 
+      fr: "sites web"
       de: "Websites" 
   description:
       en: "" 
@@ -213,100 +132,60 @@
 
 - type:  web-blog
   displayname: 
-      en: "Blogs" 
-      fr: "Blogs"
+      en: "blogs" 
+      fr: "blogs"
       de: "Blogs" 
-  description:
-      en: "" 
-      fr: ""
-      de: "" 
 
 - type: web-social-media
   displayname: 
       en: "social media" 
       fr: "réseaux sociaux"
-      de: "soziale Medien" 
-  description:
-      en: "" 
-      fr: ""
-      de: "" 
+      de: "soziale Medien"
 
 - type: web-page
   displayname: 
       en: "web pages" 
       fr: "pages web"
       de: "Webseiten" 
-  description:
-      en: "" 
-      fr: ""
-      de: "" 
 
 - type: web-object
   displayname: 
       en: "web objects" 
       fr: "objets web"
       de: "Webobjekte" 
-  description:
-      en: "" 
-      fr: ""
-      de: "" 
 
 - type: audiovisual-film
   displayname: 
       en: "film" 
       fr: "film"
-      de: "Film" 
-  description:
-      en: "" 
-      fr: ""
-      de: "" 
+      de: "Film"
 
 - type: audiovisual-documentary
   displayname: 
       en: "documentary" 
       fr: "documentaire"
-      de: "Dokumentarfilm" 
-  description:
-      en: "" 
-      fr: ""
-      de: "" 
+      de: "Dokumentarfilm"
 
 - type: audiovisual-online-video
   displayname: 
       en: "online video" 
       fr: "vidéo en ligne"
       de: "Online-Video" 
-  description:
-      en: "" 
-      fr: ""
-      de: "" 
 
 - type: audiovisual-podcast
   displayname: 
       en: "podcast" 
       fr: "podcast"
       de: "Podcast" 
-  description:
-      en: "" 
-      fr: ""
-      de: "" 
 
 - type: database
   displayname: 
       en: "database" 
       fr: "base de données"
-      de: "" 
-  description:
-      en: "" 
-      fr: ""
-      de: "" 
+      de: "Datenbank" 
 
 - type: code
   displayname: 
       en: "code and script" 
       fr: "code et script"
-      de: "" 
-  description:
-      en: "" 
-      fr: ""
-      de: "" 
+      de: "Code und Skript" 
