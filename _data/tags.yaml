@@ -124,12 +124,8 @@
   displayname: 
       en: "websites" 
       fr: "sites web"
-      de: "Websites" 
-  description:
-      en: "" 
-      fr: ""
-      de: "" 
-
+      de: "Websites"
+      
 - type:  web-blog
   displayname: 
       en: "blogs" 
