@@ -1,5 +1,6 @@
 ---
 layout: page
+toc: on
 lang: en
 permalink: /legal-notice/
 link: /legal-notice/
