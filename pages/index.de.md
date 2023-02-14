@@ -35,5 +35,7 @@ sentences:
   - Ranke.2 erklärt die Umwandlung eines analogen Objekts in die digitale Form
   - Jedes Lernmodul befasst sich mit einem anderen Datentyp
 ---
-bonjour!
+
+Ranke.2 ist eine Lehrplattform für Dozenten und Studierende der Geschichte, um die Anwendung von Quellenkritik auf digitalisierte und digital entstandene historische Quellen zu vermitteln. 
+
 <!-- more -->
