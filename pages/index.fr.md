@@ -36,5 +36,5 @@ sentences:
   - Chaque lesson  aborde un type de données différent
 ---
 
-bonjour!
+Ranke.2 est une plateforme d'enseignement destinée aux enseignants et aux étudiants en histoire pour leur apprendre à appliquer la critique des sources aux sources historiques numérisées et nées numériques. 
 <!-- more -->
