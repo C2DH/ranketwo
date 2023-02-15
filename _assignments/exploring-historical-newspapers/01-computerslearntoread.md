@@ -59,7 +59,7 @@ The core principle of classification; What is needed for a word to be matched wi
 <!-- section-contents -->
 
 Some fonts are more difficult to process than others. A recurring difficulty that arises with historical texts is the recognition of texts in Gothic font.
-Open [this link](http://www.eluxemburgensia.lu/BnlViewer/view/index.html?lang=fr#panel:pa|issue:1160880|article:DTL31){:target="_blank"} and compare the facsimile with the OCR text:
+Go to [the article "Vereine und Sport", *Luxemburger Wort*, Thursday, 16 July 1925, p. 4](https://viewer.eluxemburgensia.lu/ark:70795/bnfbxq/pages/4/articles/DTL105){:target="_blank"} and compare the facsimile with the OCR text:
 
 - What can you say about the variation in OCR output of the word “chorale” between the Latin and Gothic font in the same text?
 - Find two other words in the text that start with a capital “C” in Gothic: what letter have they been turned into?
