@@ -3,7 +3,7 @@ layout: page
 lang: fr
 permalink: /fr/thanks/
 link: /thanks/
-title: Contact us
+title: Contactez-nous
 ---
 
 
