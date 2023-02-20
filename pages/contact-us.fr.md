@@ -6,6 +6,6 @@ link: /contact-us/
 title: Contactez-nous
 ---
 
-N'hésitez pas à nous contacter pour nous faire une retour, formuler des suggestions ou pour quelque raison que ce soit
+N'hésitez pas à nous contacter pour nous faire un retour, formuler des suggestions ou pour quelque raison que ce soit
 
 <!-- more -->
