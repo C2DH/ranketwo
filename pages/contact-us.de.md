@@ -3,9 +3,9 @@ layout: contact-us
 lang: de
 permalink: /de/contact-us/
 link: /contact-us/
-title: Contact us
+title: Kontaktieren Sie uns
 ---
 
-Feedbacks, suggestions or whatever: ranke 2 @ uni.lu
+Kontaktieren Sie uns für Feedback, Vorschläge oder für irgendeine Frage
 
 <!-- more -->

@@ -3,15 +3,13 @@ layout: page
 lang: de
 permalink: /de/thanks/
 link: /thanks/
-title: Contact us
+title: Kontaktieren Sie uns
 ---
 
-Feedbacks, suggestions or whatever
+
 
 <!-- more -->
 
-Your feedback has been successfully submitted.
-You should receive a confirmation email within a few minutes.
+Ihre Nachricht wurde erfolgreich an uns übermittelt. Sie werden eine automatische Eingangsbestätigung erhalten per E-Mail.
 
-
-Thank you!
+Vielen Dank für Ihr Feedback!

@@ -6,7 +6,7 @@ link: /thanks/
 title: Contact us
 ---
 
-Feedbacks, suggestions or whatever
+<!--Feedbacks, suggestions or whatever-->
 
 <!-- more -->
 

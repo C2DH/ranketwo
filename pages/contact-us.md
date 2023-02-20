@@ -6,6 +6,6 @@ link: /contact-us/
 title: Contact us
 ---
 
-Feedbacks, suggestions or whatever: ranke 2 @ uni.lu
+Please write us to provide feedback, make suggestions or for whatever reason
 
 <!-- more -->
