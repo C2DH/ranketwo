@@ -6,12 +6,10 @@ link: /thanks/
 title: Contact us
 ---
 
-Feedbacks, suggestions or whatever
+
 
 <!-- more -->
 
-Your feedback has been successfully submitted.
-You should receive a confirmation email within a few minutes.
+Votre demande nous est parvenue, vous recevrez bientôt un message de confirmation. 
 
-
-Thank you!
+Merci pour votre retour&#x202F;!
