@@ -10,6 +10,6 @@ title: Kontaktieren Sie uns
 
 <!-- more -->
 
-Ihre Nachricht wurde erfolgreich an uns übermittelt. Sie werden eine automatische Eingangsbestätigung erhalten per E-Mail.
+Ihre Nachricht wurde erfolgreich an uns übermittelt. Sie werden in Kürze per E-Mail eine automatische Eingangsbestätigung erhalten.
 
 Vielen Dank für Ihr Feedback!
