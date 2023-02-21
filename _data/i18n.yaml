@@ -3,7 +3,7 @@ Home:
   fr: Accueil
   de: Startseite
 Digital source criticism:
-  fr: Critiques des sources numériques
+  fr: Critique des sources numériques
   de: Kritik der digitalen Quellen
 About the lessons:
   en: How are the lessons structured?
@@ -108,5 +108,62 @@ site.title:
   de: Ranke.2
 site.headline:
    en: Source criticism in the digital age
-   fr: Critique de la source dans l'ère digitale
+   fr: Critique des sources à l'ère digitale
    de: Quellenkritik im digitaler Zeitalter
+
+# site footer
+who-we-are: 
+  en:
+    title: Who we are
+    link: /who-we-are/  
+  fr:
+    title: Qui sommes-nous
+    link: /fr/who-we-are/ 
+  de:
+    title: 
+    link: /de/who-we-are/
+contact-us: 
+  en: 
+    title: Contact us
+    link: /contact-us
+  fr: 
+    title: Contactez-nous
+    link: /fr/contact-us
+  de: 
+    title: Kontaktieren Sie uns
+    link: /de/contact-us
+legal-notice: 
+  en: 
+    title: Legal notice
+    link: /legal-notice
+  fr: 
+    title: Mentions légales
+    link: /fr/legal-notice
+  de: 
+    title: Impressum
+    link: /de/legal-notice
+  # Ci-dessous, en commentaire, je propose une page séparée pour la protection des données pour alléger celle de Legal notice car trop longue
+  # data-protection:
+  # en: Data protection
+  # fr: Protection des données
+  # de: Datenschutz
+issn: 
+  en: 2799-2764
+  fr: 
+  de: 
+
+# contact form labels
+full-name: 
+  en: full name 
+  fr: nom et prénom
+  de: 
+# ci-dessous pour email: attention, il y a plus haut dans le fichier e-mail 
+email: 
+  en: email
+  fr: courriel
+  de: E-Mail  
+email-protection: # j'ai improvisé pour le titre
+  en: We'll never share your email with anyone else.
+  fr: Nous ne partageons pas votre adresse électronique avec des tiers
+  de: 
+
