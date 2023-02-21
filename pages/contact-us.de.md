@@ -6,6 +6,6 @@ link: /contact-us/
 title: Kontaktieren Sie uns
 ---
 
-Kontaktieren Sie uns für Feedback, Vorschläge oder für irgendeine Frage
+Kontaktieren Sie uns für Feedback, Vorschläge oder andere Fragen.
 
 <!-- more -->
