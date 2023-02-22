@@ -1,32 +1,90 @@
-Home:
-  en: Home
-  fr: Accueil
-  de: Startseite
-Digital source criticism:
-  fr: Critique des sources numériques
-  de: Kritik der digitalen Quellen
-About the lessons:
-  en: How are the lessons structured?
-  fr: À propos des leçons
-  de: Über die Lektionen
-About the platform:
-  en: What are our learning objectives?
-  fr: À propos de la plateforme
-  de: Über die Plattform
-Go to lessons:
-  en: Lessons
-  fr: Accéder aux leçons
-  de: Gehen sie zu den Lektionen
-go to assignments:
-  fr: Accès aux exercices
+# site navbar
+
+site.title:
+  en: Ranke.2
+  fr: Ranke.2
+  de: Ranke.2
+site.headline:
+   en: Source criticism in the digital age
+   fr: Critique des sources à l'ère digitale
+   de: Quellenkritik im digitaler Zeitalter
+
+menu-home: #replaces Home
+  en: 
+    title: Home
+    link: /
+  fr: 
+    title: Accueil
+    link: /fr
+  de: 
+    title: Startseite
+    link: /de
+menu-define-digital-source-criticism: # Replaces Digital source criticism. This is a subcategory of menu about like the two that follow about the lessons and about the platform
+  en: 
+    title: Digital source criticism
+    link: /define-dsc/
+  fr: 
+    title: Critique des sources numériques
+    link: /fr/define-dsc/
+  de: 
+    title: Kritik der digitalen Quellen
+    link: /de/define-dsc/
+menu-about-lessons: # replaces About the lessons
+  en: 
+    title: How are the lessons structured?
+    link: /about-lessons/
+  fr: 
+    title: À propos des leçons
+    link: /fr/about-lessons/
+  de: 
+    title: Über die Lektionen
+    link: /de/about-lessons/
+menu-about-platform: # replaces About the platform
+  en: 
+    title: What are our learning objectives?
+    link: /about-platform/
+  fr: 
+    title: À propos de la plateforme
+    link: /fr/about-platform/
+  de: 
+    title: Über die Plattform
+    link: /de/about-platform/
+
+menu-lessons: # replaces: Go to lessons:
+# Wonder if for FR and DE titles we can only keep Leçons and Lectionen - I wonder if the entry initially covered both the menu and the button "go to lesson"
+  en: 
+    title: Lessons
+    link: /lessons
+  fr: 
+    title: Accéder aux leçons
+    link: /fr/lessons
+  de: 
+    title: Gehen sie zu den Lektionen
+    link: /de/lessons
+
+# lesson navigation
+# This lists the buttons that lead to lessons from the home page and the lessons page; and to assignments from the page of each lesson 
+to-lesson:
+  en: 
+    title: go to lesson
+    fr: accéder à la leçon
+    de: zur Lektion  
+to-assignment:
+  en: go to assignments
+  fr: accèder aux exercices
   de: Zu den Aufgaben
-by:
+
+# lesson elements - There are probably things we should keep and things we should let go. Did not touch at all 
+by: # Is this for authorship? 
   en: by
   fr: de
-briefing teacher:
+  # de: von
+briefing teacher: #What is this for? I only ran into it in the files of the assignments and it is always inactive. Parhaps an unaccomplished feature we could remove? 
   en: briefing lecturer
 clip:
   en: watch this animation
+  fr: 
+  de: 
 interactive:
   en: watch this interactive animation
 introduction:
@@ -63,13 +121,17 @@ list of tags:
 list of lessons:
   en: "list of lessons"
   fr: "Liste des leçons"
+  de: 
 in lessons:
   en: "in lessons:"
   fr: "dans les leçons :"
+  de: 
 in collaboration with:
   en: "In collaboration with:"
   fr: "en coopération avec :"
   de: "in Zusammenarbeit mit:"
+
+# keywords - I created this category because they seem to be keywords to me but are the following necessary here? 
 communication technology:
   fr: technologies de la communication
 digitization:
@@ -102,14 +164,6 @@ manuscripts:
 transformation:
   fr: transformation
 
-site.title:
-  en: Ranke.2
-  fr: Ranke.2
-  de: Ranke.2
-site.headline:
-   en: Source criticism in the digital age
-   fr: Critique des sources à l'ère digitale
-   de: Quellenkritik im digitaler Zeitalter
 
 # site footer
 who-we-are: 
