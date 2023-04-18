@@ -1,24 +1,28 @@
--
-  slug: max-kemman
+- slug: max-kemman
+  id: max-kemman
   name: Max Kemman
   url: https://www.c2dh.uni.lu/people/max-kemman
--
-  slug: estelle-bunout
+- slug: estelle-bunout
+  id: estelle-bunout
   name: Estelle Bunout
   url: https://www.c2dh.uni.lu/people/estelle-bunout
--
-  slug: marten-during
+- slug: marten-during
+  id: marten-during
   name: Marten Düring
   url: https://www.c2dh.uni.lu/people/marten-during
--
-  slug: juliane-tatarinov
-  name: Juliane Tatarinov 
+- slug: juliane-tatarinov
+  id: juliane-tatarinov
+  name: Juliane Tatarinov
   url: https://www.c2dh.uni.lu/people/juliane-tatarinov
--
-  slug: florentina-armaselu
+- slug: florentina-armaselu
+  id: florentina-armaselu
   name: Florentina Armaselu
   url: https://www.c2dh.uni.lu/people/florentina-armaselu
--
-  slug: frederic-clavert
-  name: Frédéric Clavert 
+- slug: frederic-clavert
+  id: frederic-clavert
+  name: Frédéric Clavert
   url: https://www.c2dh.uni.lu/people/frederic-clavert
+- slug: hannah-smyth
+  id: hannah-smyth
+  name: Hannah Smyth
+  url: https://www.c2dh.uni.lu/people/hannah-smyth
