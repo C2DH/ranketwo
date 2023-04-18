@@ -1,0 +1,104 @@
+# activities from tadira
+- id: conversion
+  type: activity
+  category: capture
+  displayname:
+    en: 'Conversion refers to changing the file format of an object (e.g. converting a .wmv video to a .mov file as well as converting VHS into a digital format) without fundamentally changing the content or nature of the object. When conversion concerns metadata, it involves mapping one metadata schema to another. More fundamental “conversions”, such as converting a scanned page image to an editable text document, are better referred to using “DataRecognition”.'
+    fr: 'Conversion'
+    de: ''
+
+- id: DataRecognition
+  type: activity
+  category: capture
+  displayname:
+    en: 'Data Recognition, for example OCR, refers to the process of treating the immediate products of digital data capture (recording or imaging), such as digital facsimiles of texts or of sheet music, in a way to extract discrete, machine-readable units from them, such as plain text words, musical notes, or still or moving image elements (including, for example, face recognition).'
+    fr: 'Data Recognition'
+    de: ''
+
+- id: Discovering
+  type: activity
+  category: capture
+  displayname:
+    en: 'Discovering is the activity of seeking out objects of research, research results, or other information which is useful in a given search perspective. Discovery includes very directed techniques such as advanced querying of databases, less directed techniques such as simple searching, and more serendipitous ones as browsing, which would include faceted browsing. (It is different from Information Retrieval, which is a structured way of extracting some piece of information or some specific subset of objects from a resource).'
+    fr: 'Discovering'
+    de: ''
+
+- id: Gathering
+  type: activity
+  category: capture
+  displayname:
+    en: 'Gathering refers to aggregating discovered resources, usually in some structured way (e.g. bringing together all papers that address a certain topic, as part of a literature review, or pulling all works by a particular author out of a digital collection for further analysis). Related techniques include web crawling and scraping.'
+    fr: 'Gathering'
+    de: ''
+
+- id: 'Imaging'
+  type: activity
+  category: capture
+  displayname:
+    en: 'Imaging'
+    fr: 'Imagerie'
+    de: 'Bilderfassung'
+
+- id: recording
+  type: activity
+  category: capture
+  displayname:
+    en: 'Recording'
+    fr: 'Enregistrement'
+    de: 'Aufzeichen'
+
+- id: transcription
+  type: activity
+  category: capture
+  displayname:
+    en: 'Transcription'
+    fr: 'Transcription'
+    de: 'Transkription'
+
+- id: Designing
+  type: activity
+  category: creation
+  displayname:
+    en: 'designing'
+    fr: 'designer'
+    de: 'Design'
+
+- id: Programming
+  type: activity
+  category: creation
+  displayname:
+    en: 'programming'
+    fr: 'programmer'
+    de: 'Programmieren'
+
+- id: Translation
+  type: activity
+  category: creation
+  displayname:
+    en: 'translation'
+    fr: 'traduction'
+    de: 'Übersetzen'
+
+- id: annotating
+  type: activity
+  category: enrichment
+  displayname:
+    en: 'annotating'
+    fr: 'annoter'
+    de: 'Annotieren'
+
+- id: cleanup
+  type: activity
+  category: enrichment
+  displayname:
+    en: 'cleanup'
+    fr: 'nettoyage'
+    de: 'Bereinigen'
+
+- id: Editing
+  type: activity
+  category: enrichment
+  displayname:
+    en: 'editing'
+    fr: 'éditer'
+    de: 'Bearbeiten'
