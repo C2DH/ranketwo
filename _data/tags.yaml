@@ -1,187 +1,253 @@
- # This file contains the main types of sources historians use in the aim to use them as tags for the lessons of Ranke.2
+# This file contains the main ids of sources historians (namely `mediatype`) use in the aim to use them as tags for the lessons of Ranke.2
 
-- type: archive-document
-  displayname: 
-      en: "archive documents" 
-      fr: "documents d'archives"
-      de: "Archivdokumente"
+- id: archive-document
+  type: mediatype
+  displayname:
+    en: 'archive documents'
+    fr: "documents d'archives"
+    de: 'Archivdokumente'
 
-- type: manuscript
-  displayname:  
-      en: "manuscripts" 
-      fr: "manuscrits"
-      de: "Manuskripte"
+- id: manuscript
+  type: mediatype
+  displayname:
+    en: 'manuscripts'
+    fr: 'manuscrits'
+    de: 'Manuskripte'
 
-- type: correspondence 
-  displayname: 
-      en: "correspondences" 
-      fr: "correspondances"
-      de: "Korrespondenz" 
+- id: correspondence
+  type: mediatype
+  displayname:
+    en: 'correspondences'
+    fr: 'correspondances'
+    de: 'Korrespondenz'
 
-- type: press 
-  displayname: 
-      en: "press" 
-      fr: "presse"
-      de: "Presse" 
+- id: press
+  type: mediatype
+  displayname:
+    en: 'press'
+    fr: 'presse'
+    de: 'Presse'
 
-- type: book
-  displayname: 
-      en: "books" 
-      fr: "livres"
-      de: "Bücher" 
- 
-- type: book-printed
-  displayname: 
-      en: "printed books" 
-      fr: "livres imprimés"
-      de: "gedruckte Bücher" 
- 
-- type: book-digital
-  displayname: 
-      en: "digital books" 
-      fr: "livres numériques"
-      de: "digital Bücher" 
+- id: book
+  type: mediatype
+  displayname:
+    en: 'books'
+    fr: 'livres'
+    de: 'Bücher'
 
-- type: photo 
-  displayname: 
-      en: "photographies" 
-      fr: "photographies"
-      de: "Fotografien" 
+- id: book-printed
+  type: mediatype
+  displayname:
+    en: 'printed books'
+    fr: 'livres imprimés'
+    de: 'gedruckte Bücher'
 
-- type: print
-  displayname: 
-      en: "prints" 
-      fr: "estampes"
-      de: "Drucke" 
+- id: book-digital
+  type: mediatype
+  displayname:
+    en: 'digital books'
+    fr: 'livres numériques'
+    de: 'digital Bücher'
 
-- type: drawing 
-  displayname: 
-      en: "drawings" 
-      fr: "dessins"
-      de: "Entwürfe" 
+- id: photo
+  type: mediatype
+  displayname:
+    en: 'photographies'
+    fr: 'photographies'
+    de: 'Fotografien'
 
-- type: map
-  displayname: 
-      en: "maps and plans" 
-      fr: "cartes et plans"
-      de: "Karten und Pläne" 
+- id: print
+  type: mediatype
+  displayname:
+    en: 'prints'
+    fr: 'estampes'
+    de: 'Drucke'
 
-- type: music-score
-  displayname: 
-      en: "music scores" 
-      fr: "partitions"
-      de: "Partituren" 
+- id: drawing
+  type: mediatype
+  displayname:
+    en: 'drawings'
+    fr: 'dessins'
+    de: 'Entwürfe'
 
-- type: object
-  displayname: 
-      en: "objects" 
-      fr: "objets"
-      de: "Objekte" 
+- id: map
+  type: mediatype
+  displayname:
+    en: 'maps and plans'
+    fr: 'cartes et plans'
+    de: 'Karten und Pläne'
 
-- type: art-work
-  displayname: 
-      en: "art works" 
-      fr: "œuvres d’art"
-      de: "Kunstwerke" 
+- id: music-score
+  type: mediatype
+  displayname:
+    en: 'music scores'
+    fr: 'partitions'
+    de: 'Partituren'
 
-- type: artifact-archaeo
-  displayname: 
-      en: "archaeological artifacts" 
-      fr: "artefacts archéologiques"
-      de: "archäologische Artefakte" 
+- id: object
+  type: mediatype
+  displayname:
+    en: 'objects'
+    fr: 'objets'
+    de: 'Objekte'
 
-- type: monument
-  displayname: 
-      en: "monuments" 
-      fr: "monuments"
-      de: "Denkmäler" 
+- id: art-work
+  type: mediatype
+  displayname:
+    en: 'art works'
+    fr: 'œuvres d’art'
+    de: 'Kunstwerke'
 
-- type: oral-interview
-  displayname: 
-      en: "interviews" 
-      fr: "entretiens"
-      de: "Interviews" 
+- id: artifact-archaeo
+  type: mediatype
+  displayname:
+    en: 'archaeological artifacts'
+    fr: 'artefacts archéologiques'
+    de: 'archäologische Artefakte'
 
-- type: oral-history
-  displayname: 
-      en: "oral histories" 
-      fr: "histoires orales"
-      de: "Oral History" 
+- id: monument
+  type: mediatype
+  displayname:
+    en: 'monuments'
+    fr: 'monuments'
+    de: 'Denkmäler'
 
-- type: survey
-  displayname: 
-      en: "surveys" 
-      fr: "enquêtes"
-      de: "Umfragen" 
+- id: oral-interview
+  type: mediatype
+  displayname:
+    en: 'interviews'
+    fr: 'entretiens'
+    de: 'Interviews'
 
-- type: statistics
-  displayname: 
-      en: "statistics" 
-      fr: "statistiques"
-      de: "Statistiken" 
+- id: oral-history
+  type: mediatype
+  displayname:
+    en: 'oral histories'
+    fr: 'histoires orales'
+    de: 'Oral History'
 
-- type: web-site
-  displayname: 
-      en: "websites" 
-      fr: "sites web"
-      de: "Websites"
-      
-- type:  web-blog
-  displayname: 
-      en: "blogs" 
-      fr: "blogs"
-      de: "Blogs" 
+- id: survey
+  type: mediatype
+  displayname:
+    en: 'surveys'
+    fr: 'enquêtes'
+    de: 'Umfragen'
 
-- type: web-social-media
-  displayname: 
-      en: "social media" 
-      fr: "réseaux sociaux"
-      de: "soziale Medien"
+- id: statistics
+  type: mediatype
+  displayname:
+    en: 'statistics'
+    fr: 'statistiques'
+    de: 'Statistiken'
 
-- type: web-page
-  displayname: 
-      en: "web pages" 
-      fr: "pages web"
-      de: "Webseiten" 
+- id: web-site
+  type: mediatype
+  displayname:
+    en: 'websites'
+    fr: 'sites web'
+    de: 'Websites'
 
-- type: web-object
-  displayname: 
-      en: "web objects" 
-      fr: "objets web"
-      de: "Webobjekte" 
+- id: web-blog
+  type: mediatype
+  displayname:
+    en: 'blogs'
+    fr: 'blogs'
+    de: 'Blogs'
 
-- type: audiovisual-film
-  displayname: 
-      en: "film" 
-      fr: "film"
-      de: "Film"
+- id: web-social-media
+  type: mediatype
+  displayname:
+    en: 'social media'
+    fr: 'réseaux sociaux'
+    de: 'soziale Medien'
 
-- type: audiovisual-documentary
-  displayname: 
-      en: "documentary" 
-      fr: "documentaire"
-      de: "Dokumentarfilm"
+- id: web-page
+  type: mediatype
+  displayname:
+    en: 'web pages'
+    fr: 'pages web'
+    de: 'Webseiten'
 
-- type: audiovisual-online-video
-  displayname: 
-      en: "online video" 
-      fr: "vidéo en ligne"
-      de: "Online-Video" 
+- id: web-object
+  type: mediatype
+  displayname:
+    en: 'web objects'
+    fr: 'objets web'
+    de: 'Webobjekte'
 
-- type: audiovisual-podcast
-  displayname: 
-      en: "podcast" 
-      fr: "podcast"
-      de: "Podcast" 
+- id: audiovisual-film
+  type: mediatype
+  displayname:
+    en: 'film'
+    fr: 'film'
+    de: 'Film'
 
-- type: database
-  displayname: 
-      en: "database" 
-      fr: "base de données"
-      de: "Datenbank" 
+- id: audiovisual-documentary
+  type: mediatype
+  displayname:
+    en: 'documentary'
+    fr: 'documentaire'
+    de: 'Dokumentarfilm'
 
-- type: code
-  displayname: 
-      en: "code and script" 
-      fr: "code et script"
-      de: "Code und Skript" 
+- id: audiovisual-online-video
+  type: mediatype
+  displayname:
+    en: 'online video'
+    fr: 'vidéo en ligne'
+    de: 'Online-Video'
+
+- id: audiovisual-podcast
+  type: mediatype
+  displayname:
+    en: 'podcast'
+    fr: 'podcast'
+    de: 'Podcast'
+
+- id: database
+  type: mediatype
+  displayname:
+    en: 'database'
+    fr: 'base de données'
+    de: 'Datenbank'
+
+- id: code
+  type: mediatype
+  displayname:
+    en: 'code and script'
+    fr: 'code et script'
+    de: 'Code und Skript'
+
+- id: heuristics
+  type: 'research-phase'
+  displayname:
+    en: 'heuristics'
+    fr: 'heuristiques'
+    de: 'Heuristiken'
+
+- id: analysis
+  type: 'research-phase'
+  displayname:
+    en: 'analysis'
+    fr: 'analyse'
+    de: 'Analyse'
+
+- id: hermeneutics
+  type: 'research-phase'
+  displayname:
+    en: 'hermeneutics'
+    fr: 'hérméneutique'
+    de: 'Hermeneutik'
+
+- id: dissemination
+  type: 'research-phase'
+  displayname:
+    en: 'dissemination'
+    fr: 'diffusion'
+    de: 'Verbreitung'
+
+- id: preservation
+  type: 'research-phase'
+  displayname:
+    en: 'preservation'
+    fr: 'préservation'
+    de: 'Erhaltung'
