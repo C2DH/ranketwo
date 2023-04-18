@@ -7,7 +7,7 @@
     fr: 'Conversion'
     de: ''
 
-- id: DataRecognition
+- id: data-recognition
   type: activity
   category: capture
   displayname:
@@ -15,7 +15,7 @@
     fr: 'Data Recognition'
     de: ''
 
-- id: Discovering
+- id: discovering
   type: activity
   category: capture
   displayname:
@@ -23,7 +23,7 @@
     fr: 'Discovering'
     de: ''
 
-- id: Gathering
+- id: gathering
   type: activity
   category: capture
   displayname:
@@ -31,7 +31,7 @@
     fr: 'Gathering'
     de: ''
 
-- id: 'Imaging'
+- id: imaging
   type: activity
   category: capture
   displayname:
@@ -55,7 +55,7 @@
     fr: 'Transcription'
     de: 'Transkription'
 
-- id: Designing
+- id: designing
   type: activity
   category: creation
   displayname:
@@ -63,7 +63,7 @@
     fr: 'designer'
     de: 'Design'
 
-- id: Programming
+- id: programming
   type: activity
   category: creation
   displayname:
@@ -71,7 +71,7 @@
     fr: 'programmer'
     de: 'Programmieren'
 
-- id: Translation
+- id: translation
   type: activity
   category: creation
   displayname:
@@ -95,7 +95,7 @@
     fr: 'nettoyage'
     de: 'Bereinigen'
 
-- id: Editing
+- id: editing
   type: activity
   category: enrichment
   displayname:
