@@ -16,3 +16,4 @@ package-lock.json
 .project
 .DS_Store
 vendor/
+.env
