@@ -4,7 +4,7 @@ unit: boder
 type: assignment
 title: Vergleich zwischen einer mit einem Mimeografen erstellten und einer digitalen Kopie
 cover: /assets/images/attachments/12boxes/12boxes_09.png
-order: 9
+order: 8
 lang: de
 requirements:  schnelles WLAN, Zugang zu Ranke.2, Computer oder Laptop, Anwendung auf Computer oder Laptop zum Abspielen von Videos
 outcomes: Den Unterschied verstehen zwischen dem Konzept des „Originals“ bei der Analogtechnik und den Veränderungen im Zuge des Aufkommens digitaler Technologie.

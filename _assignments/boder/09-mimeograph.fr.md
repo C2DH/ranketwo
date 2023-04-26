@@ -4,7 +4,7 @@ unit: boder
 type: assignment
 title: Comparaison entre une copie miméographiée et une copie numérique
 cover: /assets/images/attachments/12boxes/12boxes_09.png
-order: 9
+order: 8
 lang: fr
 requirements:  bonne connexion Wi-Fi, accès à Ranke.2, PC ou ordinateur portable, application installée sur le PC ou le portable permettant de visualiser des vidéos
 outcomes: Comprendre la différence entre le concept d'« original » à l'ère analogique et son évolution avec l'avènement de la technologie numérique.

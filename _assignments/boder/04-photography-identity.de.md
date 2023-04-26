@@ -4,7 +4,7 @@ unit: boder
 lang: de
 type: assignment
 title: Wer sind diese Menschen? Fotografie und Identität
-order: 4
+order: 3
 cover: /assets/images/attachments/12boxes/12boxes_04.png
 tags:
   - Wiederverwendung von Fotografien

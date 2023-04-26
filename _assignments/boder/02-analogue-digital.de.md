@@ -5,7 +5,7 @@ lang: de
 type: assignment
 title: Das analoge Drahttonbandgerät im Vergleich zu digitalen Audioaufnahmen
 cover: /assets/images/attachments/12boxes/12boxes_02.png
-order: 2
+order: 1
 tags: 
  - geschichte der Kommunikationstechnologie
  - veraltete Aufnahmegeräte

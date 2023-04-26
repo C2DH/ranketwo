@@ -4,7 +4,7 @@ unit: boder
 type: assignment
 title: "Ein Blick auf Boders Buch: Umwandlung von gesprochener Sprache in abgetippten Text"
 cover: /assets/images/attachments/12boxes/12boxes_08.png
-order: 8
+order: 7
 lang: de
 tags:
   - Forschungsmethoden

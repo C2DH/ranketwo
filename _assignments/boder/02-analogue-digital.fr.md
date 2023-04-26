@@ -5,7 +5,7 @@ lang: fr
 type: assignment
 title: Comparaison entre l'enregistreur analogique à fil et l'enregistrement audionumérique
 cover: /assets/images/attachments/12boxes/12boxes_02.png
-order: 2
+order: 1
 tags: 
  - histoire des technologies de la communication
  - enregistreurs obsolètes

@@ -5,7 +5,7 @@ lang: fr
 type: assignment
 title: "L'approche de David Boder : des statistiques à l'expression"
 cover: /assets/images/attachments/12boxes/12boxes_06.png
-order: 6
+order: 5
 documents:
 - gilbert-music-songs 
 tags: 

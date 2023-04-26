@@ -4,7 +4,7 @@ unit: boder
 type: assignment
 title: Quelles sont les sources de l'information selon laquelle Mahmoud Ahmadinejad a nié l'existence de l'Holocauste ?  
 cover: /assets/images/attachments/12boxes/12boxes_11.png
-order: 11
+order: 10
 lang: fr
 tags: 
   - négationnisme

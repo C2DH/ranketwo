@@ -4,7 +4,7 @@ unit: boder
 type: assignment
 title: Textauszug aus dem Bericht Edith Zierers 1946
 cover: /assets/images/attachments/12boxes/12boxes_12.png
-order: 12
+order: 11
 lang: de
 requirements:  schnelles WLAN, Zugang zu Ranke.2, Computer oder Laptop, Anwendung auf Computer oder Laptop zum Abspielen von Videos
 outcomes:

@@ -4,7 +4,7 @@ unit: boder
 type: assignment
 title: Un extrait du témoignage d'Edith Zierer en 1946
 cover: /assets/images/attachments/12boxes/12boxes_12.png
-order: 12
+order: 11
 lang: fr
 requirements:  bonne connexion Wi-Fi, accès à Ranke.2, PC ou ordinateur portable, application installée sur le PC ou le portable permettant de visualiser des vidéos
 outcomes:

@@ -4,7 +4,7 @@ unit: boder
 type: assignment
 title: "A mimeographed copy compared to a digital copy"
 cover: /assets/images/attachments/12boxes/12boxes_09.png
-order: 9
+order: 8
 lang: en
 requirements:  strong WIFI, access to Ranke.2, computer or laptop,application on laptop or computer to view video,
 outcomes: Understanding the difference between the concept of the ‘original’ in the analogue area, and how this has changed with the advent of digital technology. 

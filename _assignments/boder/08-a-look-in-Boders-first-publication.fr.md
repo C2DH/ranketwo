@@ -4,7 +4,7 @@ unit: boder
 type: assignment
 title: "Aperçu du livre de David Boder : transformation du témoignage oral en texte dactylographié"
 cover: /assets/images/attachments/12boxes/12boxes_08.png
-order: 8
+order: 7
 lang: fr
 tags:
   - méthodes de recherche

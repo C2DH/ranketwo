@@ -4,7 +4,7 @@ unit: boder
 type: assignment
 title: Where did Boder conduct his interviews?
 cover: /assets/images/attachments/12boxes/12boxes_07.png
-order: 7
+order: 6
 lang: en
 requirements: strong WiFi, access to Ranke.2, computer or labtop,  application on labtop or computer to view video
 outcomes:

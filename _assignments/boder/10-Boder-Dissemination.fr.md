@@ -4,7 +4,7 @@ unit: boder
 type: assignment
 title: Où et comment consulter les travaux de David Boder ?
 cover: /assets/images/attachments/12boxes/12boxes_11.png
-order: 10
+order: 9
 lang: fr
 tags: 
   - conscience spatiale et géographique

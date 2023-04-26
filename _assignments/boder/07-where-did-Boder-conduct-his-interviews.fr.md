@@ -4,7 +4,7 @@ unit: boder
 type: assignment
 title: Où David Boder a-t-il réalisé ses interviews ?
 cover: /assets/images/attachments/12boxes/12boxes_07.png
-order: 7
+order: 6
 lang: fr
 requirements: bonne connexion Wi-Fi, accès à Ranke.2, PC ou ordinateur portable, application installée sur le PC ou le portable permettant de visualiser des vidéos
 resultat d'apprendissage:

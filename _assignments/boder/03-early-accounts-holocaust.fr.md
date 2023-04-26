@@ -5,7 +5,7 @@ lang: fr
 type: assignment
 title: Les différentes façons de documenter les témoignages sur l'Holocauste
 cover: /assets/images/attachments/12boxes/12boxes_03.png
-order: 3
+order: 2
 tags:
   - méthodes de recherche
   - collecte de données

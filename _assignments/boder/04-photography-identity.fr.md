@@ -4,7 +4,7 @@ unit: boder
 lang: fr
 type: assignment
 title: Qui sont ces personnes ? Photographie et identité
-order: 4
+order: 3
 cover: /assets/images/attachments/12boxes/12boxes_04.png
 tags:
   - réutilisation des photographies

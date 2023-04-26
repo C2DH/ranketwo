@@ -5,7 +5,7 @@ lang: en
 type: assignment
 title: The analogue wire recorder compared to digital audio recording
 cover: /assets/images/attachments/12boxes/12boxes_02.png
-order: 2
+order: 1
 tags:
  - history of communication technology
  - obsolete recording devices

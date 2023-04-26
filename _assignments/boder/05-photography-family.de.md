@@ -4,7 +4,7 @@ unit: boder
 lang: de
 type: assignment
 title: "Wer sind diese Familien?"
-order: 5
+order: 4
 cover: /assets/images/attachments/12boxes/12boxes_04.png
 tags: 
   - metadata

@@ -5,7 +5,7 @@ lang: de
 type: assignment
 title: "Boders Ansatz: von der Statistik zur menschlichen Expression"
 cover: /assets/images/attachments/12boxes/12boxes_06.png
-order: 6
+order: 5
 tags: 
   - Multimodalität
   - Erfassung von Bild und Ton
