@@ -38,12 +38,12 @@ Le but de cet exercice est de montrer comment une source, en l'occurrence un enr
 
 - Lisez l'interview de Jörn Gastfreund (alias Jurgen Bassfreund) avec la courte introduction de David Boder. Cette interview fait 27 pages&#x202F;; il s'agit d'une image numérique du livre de D. Boder.
 - Cliquez ensuite sur ce lien&#x202F;: <https://iit.aviaryplatform.com/r/1r6n00zz2w>{:target="_blank"}.
-- Commencez par lire le « Commentaire » puis cliquez sur « Traduction anglaise ».
+- Commencez par lire la section intitulée Commentary de la fiche descriptive de la source qui fournit des informations contextuelles - attention, cette fiche est en anglais. Ensuite, rendez-vous à la partie de la fiche qui fournit la transcription de l'entretien (en allemand) et sa traduction anglaise.
 - Lisez le texte jusqu'à la phrase&#x202F;:
 
 «&#x202F;I worked at that time on the railroad and the Hitler guard packed us into a truck and we were all driven to a distribution camp&#x202F;» _(À cette époque, je travaillais sur la voie ferrée. Les SS nous ont tous embarqués dans un camion pour nous conduire à un camp de répartition)_
 
-- La première partie de l'exercice consiste à compléter le tableau dans votre modèle en notant les différences entre les versions de l'interview.
+- La première partie de l'exercice consiste à compléter le tableau dans votre formulaire en notant les différences entre les versions de l'interview.
 - Commencez par comparer la transcription dans le livre avec la version numérique de la transcription en ligne jusqu'à la phrase mentionnée ci-dessus.
 - Notez les différences dans les deux premières colonnes du tableau.
 
@@ -61,7 +61,7 @@ Le but de cet exercice est de montrer comment une source, en l'occurrence un enr
 <!-- section-contents -->
 
 - Découvrez comment David Boder a abordé le problème du langage dans l'article rédigé par Beate Müller au sujet de ses traductions.
-- Écrivez une courte rédaction de 750 mots environ décrivant les différences que vous avez notées entre la lecture de la version numérisée d'un livre publié en 1948, la lecture d'une transcription au format numérique publiée en ligne et l'écoute de la version audio. Utilisez le modèle pour noter vos conclusions sur vos différentes expériences.
+- Rédigez un court texte de 750 mots environ décrivant les différences que vous avez notées en consultant la version numérisée d'un livre publié en 1948 puis la transcription au format numérique publiée en ligne et, enfin, en écoutant la version audio.
 
 <!-- section -->
 
