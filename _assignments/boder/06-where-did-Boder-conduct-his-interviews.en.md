@@ -27,7 +27,7 @@ This assignment is designed to help you reflect on displacement camps as the fir
 
 <!-- section -->
 
-### 7.a  Envisioning a future life | 15 min
+### 6.a  Envisioning a future life | 15 min
 <!-- section-contents -->
 
 The mindsets of the survivors housed in displacement camps were clearly geared towards the future. There are however also references to commemoration projects. One of them is a poster commissioned by the "Central Historical Commission at the Central Committee of Liberated Jews in the American Zone of Occupation in Germany"
@@ -43,7 +43,7 @@ In the left corner, you will see the icon of a second poster.
 
 <!-- section -->
 
-### 7.b  Displacement camps in 1945 and 1946 | 20 min
+### 6.b  Displacement camps in 1945 and 1946 | 20 min
 <!-- section-contents -->
 - Boder interviewed survivors at the following locations:
 Bellevue, France; OPEJ children's home (6)

@@ -33,7 +33,7 @@ Da es in dieser Lektion um Quellenkritik geht, haben wir versucht, den Kontext, 
 
 <!-- section -->
 
-### 4.a  Online-Inhalte  wer steckt dahinter? | 20 min
+### 3.a  Online-Inhalte  wer steckt dahinter? | 20 min
 <!-- section-contents -->
 
 - Versuchen Sie, durch zusätzliche Webrecherchen weitere Hintergrundinformationen über diese Fotografien zusammenzutragen.  
@@ -46,7 +46,7 @@ Notieren Sie Ihre Feststellungen auf Ihrer Vorlage.
 
 <!-- section -->
 
-### 4.b  Online-Nutzung von Fotos im richtigen historischen Kontext | 20 min
+### 3.b  Online-Nutzung von Fotos im richtigen historischen Kontext | 20 min
 <!-- section-contents -->
 
 - Vergleichen Sie das Foto der befreiten Häftlinge in diesem interaktiven Kontext mit der Nutzung in:

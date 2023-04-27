@@ -30,7 +30,7 @@ Nachdem Boder zunächst als traditioneller Sozialwissenschaftler Beweise sammelt
 
 <!-- section -->
 
-### 6.a  Rekonstruktion der Abfolge der Transformationen: Filmmaterial | 20 min
+### 5.a  Rekonstruktion der Abfolge der Transformationen: Filmmaterial | 20 min
 <!-- section-contents -->
 
 - Versuchen Sie, die einzelnen Schritte bei Entstehung und Verbreitung des Filmmaterials und dessen Online-Präsenz zu rekonstruieren.
@@ -38,7 +38,7 @@ Nachdem Boder zunächst als traditioneller Sozialwissenschaftler Beweise sammelt
 
 <!-- section -->
 
-### 6.b  Rekonstruktion der Abfolge der Transformationen: ein Lied | 20 min
+### 5.b  Rekonstruktion der Abfolge der Transformationen: ein Lied | 20 min
 <!-- section-contents -->
 
 - Hören Sie sich diese drei clips über [diesen Link](https://centerhistorypsychology.wordpress.com/2016/09/02/dr-boder-and-the-missing-songs/){:target="_blank"} an.

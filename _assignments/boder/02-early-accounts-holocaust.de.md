@@ -33,7 +33,7 @@ Bei einem Reflexionsprozess über Wert und Bedeutung einer im Web veröffentlich
 
 <!-- section -->
 
-### 3.a  Quellenkritik | 10 min
+### 2.a  Quellenkritik | 10 min
 <!-- section-contents -->
 
 - Gehen Sie zur _Registerkarte On DEGOB_ und klicken Sie dann auf _The Protocols_. Lesen Sie den Text zur verwendeten Methodologie.
@@ -42,7 +42,7 @@ Bei einem Reflexionsprozess über Wert und Bedeutung einer im Web veröffentlich
 
 <!-- section -->
 
-### 3.b  Erste Auswertung der Archive: wie Verben verwendet werden | 15 min
+### 2.b  Erste Auswertung der Archive: wie Verben verwendet werden | 15 min
 <!-- section-contents -->
 
 - Gehen Sie zur Website der Protokolle, die von der [Nationalen ungarischen Kommission für Deportierte](http://degob.org/){:target="_blank"} gesammelt wurden.
@@ -54,7 +54,7 @@ Bei einem Reflexionsprozess über Wert und Bedeutung einer im Web veröffentlich
 
 <!-- section -->
 
-### 3.c  Zweite Auswertung der Archive: wie wichtige Personen dargestellt werden | 15 min
+### 2.c  Zweite Auswertung der Archive: wie wichtige Personen dargestellt werden | 15 min
 <!-- section-contents -->
 
 - Vergleichen Sie, wie ein Befragter den Auswahlprozess für die Gaskammern und die Rolle des SS-Arztes Mengele im [Protokoll](http://degob.org/index.php?showjk=131){:target="_blank"} beschreibt, mit der Beschreibung in [Boders Interview mit Jola Gross](https://iit.aviaryplatform.com/r/2804x54p2z){:target="_blank"}.
@@ -63,7 +63,7 @@ Bei einem Reflexionsprozess über Wert und Bedeutung einer im Web veröffentlich
 
 <!-- section -->
 
-### 3.d  Dritte Auswertung der Archive: Identität des Sprechers | 15 min
+### 2.d  Dritte Auswertung der Archive: Identität des Sprechers | 15 min
 <!-- section-contents -->
 
 - Vergleichen Sie das Protokoll eines 15-jährigen Mädchens unter [http://degob.org/](http://degob.org/){:target="_blank"} (wählen Sie Female und Geburtsjahr 1931 in der Suchumgebung) mit [Boders Interview der 15-jährigen Edith Zierer](https://iit.aviaryplatform.com/r/0g3gx44z67){:target="_blank"}<sup>*</sup>.

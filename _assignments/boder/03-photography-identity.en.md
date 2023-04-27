@@ -33,7 +33,7 @@ Because this lesson is about source criticism, we have tried to trace the contex
 
 <!-- section -->
 
-### 4.a  Online content, who is behind it? | 20 min
+### 3.a  Online content, who is behind it? | 20 min
 <!-- section-contents -->
 
 - Try to find more background information about these photographs through additional web research.
@@ -47,7 +47,7 @@ Note your findings in your template.
 
 <!-- section -->
 
-### 4.b  Photos online used in the right historical context | 20 min
+### 3.b  Photos online used in the right historical context | 20 min
 <!-- section-contents -->
 
 - Compare the photo of the liberated prisoners in this interactive context with how it is used in:

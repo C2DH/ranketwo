@@ -31,7 +31,7 @@ Dans l'animation sur David Boder, des photographies de victimes et de familles o
 
 <!-- section -->
 
-### 5.a  Qui se cache derrière le contenu en ligne ? | 20 min
+### 4.a  Qui se cache derrière le contenu en ligne ? | 20 min
 <!-- section-contents -->
 
 - Essayez de trouver plus d'informations contextuelles sur ces photographies en effectuant d'autres recherches sur internet. 
@@ -44,7 +44,7 @@ Notez vos observations dans votre modèle.
 
 <!-- section -->
 
-### 5.b  Photos publiées en ligne | 20 min
+### 4.b  Photos publiées en ligne | 20 min
 <!-- section-contents -->
 
 Essayez de trouvez une personne portant le même nom que les personnes représentées sur ces photographies en effectuant d'autres recherches sur internet. Quel type de photos pouvez-vous trouver à leur sujet sur le Web?

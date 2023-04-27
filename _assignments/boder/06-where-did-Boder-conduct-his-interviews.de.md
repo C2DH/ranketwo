@@ -27,7 +27,7 @@ Diese Aufgabe soll Ihnen helfen, über Vertriebenenlager als wichtigste Stätte 
 
 <!-- section -->
 
-### 7.a  Ein neues Leben planen
+### 6.a  Ein neues Leben planen
 <!-- section-contents -->
 
 Die Gedanken der in Vertriebenenlagern untergebrachten Überlebenden waren eindeutig auf die Zukunft gerichtet. Gleichwohl gibt es auch einen Verweis auf Gedenkprojekte.
@@ -44,7 +44,7 @@ Die Gedanken der in Vertriebenenlagern untergebrachten Überlebenden waren einde
 
 <!-- section -->
 
-### 7.b  Dokumentation der jüngsten Vergangenheit | 20 min
+### 6.b  Dokumentation der jüngsten Vergangenheit | 20 min
 <!-- section-contents -->
 
 - Klicken Sie auf [diesen Link](https://www.kedem-auctions.com/content/two-posters-issued-central-historical-commission-central-committee-liberated-jews-american){:target="_blank"}.
@@ -54,7 +54,7 @@ Die Gedanken der in Vertriebenenlagern untergebrachten Überlebenden waren einde
 
 <!-- section -->
 
-### 7.c  Vertriebenenlager 1945 und 1946 | 30 min
+### 6.c  Vertriebenenlager 1945 und 1946 | 30 min
 <!-- section-contents -->
 
 - Boder besuchte ebenfalls Vertriebenenlager. Die Website Voices of the Holocaust umfasst eine Karte aller von ihm besuchten Standorte.

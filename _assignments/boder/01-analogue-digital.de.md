@@ -28,7 +28,7 @@ Warum sich Studierende der Geisteswissenschaften mit der veralteten Technologie 
 
 <!-- section -->
 
-### 2.a  Aufnahmen und Physik | 10 min
+### 1.a  Aufnahmen und Physik | 10 min
 <!-- section-contents -->
 
 - Welche drei physikalischen Gesetze spielen eine Rolle bei der Übertragung von Informationen auf Stahldraht?
@@ -36,7 +36,7 @@ Warum sich Studierende der Geisteswissenschaften mit der veralteten Technologie 
 
 <!-- section -->
 
-### 2.b  Digitale und analoge Aufnahmen | 15 min
+### 1.b  Digitale und analoge Aufnahmen | 15 min
 <!-- section-contents -->
 
 - Sehen Sie sich diesen Videoclip zur [Funktionsweise eines digitalen Aufzeichnungsgeräts](https://www.youtube.com/watch?v=SfEXnX__X9Y&feature=youtu.be){:target="_blank"} vom YouTube Kanal MrAudioSoundImage an.

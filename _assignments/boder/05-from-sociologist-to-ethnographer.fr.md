@@ -32,7 +32,7 @@ L'approche de David Boder est passée de celle d'un sociologue traditionnel cher
 
 <!-- section -->
 
-### 6.a  Reconstitution de la séquence de transformations : images | 20 min
+### 5.a  Reconstitution de la séquence de transformations : images | 20 min
 <!-- section-contents -->
 
 - Essayer de reconstituer les étapes de la création, de la diffusion et de la présence en ligne des images.
@@ -40,7 +40,7 @@ L'approche de David Boder est passée de celle d'un sociologue traditionnel cher
 
 <!-- section -->
 
-### 6.b  Reconstitution de la séquence de transformations : chanson | 20 min
+### 5.b  Reconstitution de la séquence de transformations : chanson | 20 min
 <!-- section-contents -->
 
 - Écoutez les chansons mises en ligne en cliquant sur [ce lien](https://centerhistorypsychology.wordpress.com/2016/09/02/dr-boder-and-the-missing-songs/){:target="_blank"}.

@@ -32,7 +32,7 @@ Boder’s approach shifted from that of a traditional social scientist looking f
 
 <!-- section -->
 
-### 6.a  Reconstructing the sequence of transformations: film footage | 20 min
+### 5.a  Reconstructing the sequence of transformations: film footage | 20 min
 <!-- section-contents -->
 
 - Try to reconstruct what kind of technologies were applied to create this film at the time and how this type of source had to be processed to make it suitable to publish online and include it in this web-documentary. Make use of the teaching aid  ‘Handout for Digital Source Criticism’ that you can find on Ranke2. You will also have to conduct additional research. 
@@ -41,7 +41,7 @@ Boder’s approach shifted from that of a traditional social scientist looking f
 
 <!-- section -->
 
-### 6.b  Reconstructing the sequence of transformations: a song | 20 min
+### 5.b  Reconstructing the sequence of transformations: a song | 20 min
 <!-- section-contents -->
 
 - Listen to the three clips of Jewish songs through [this link](https://centerhistorypsychology.wordpress.com/2016/09/02/dr-boder-and-the-missing-songs/){:target="_blank"}. 

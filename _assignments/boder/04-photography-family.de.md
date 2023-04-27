@@ -31,7 +31,7 @@ Da es in dieser Lektion um Quellenkritik geht, haben wir versucht, den Kontext, 
 
 <!-- section -->
 
-### 5.a  Online-Inhalte; wer steckt dahinter? | 20 min
+### 4.a  Online-Inhalte; wer steckt dahinter? | 20 min
 <!-- section-contents -->
 
 - Versuchen Sie, durch zusätzliche Webrecherchen weitere Hintergrundinformationen über diese Fotografien zusammenzutragen.  
@@ -44,7 +44,7 @@ Da es in dieser Lektion um Quellenkritik geht, haben wir versucht, den Kontext, 
 
 <!-- section -->
 
-### 5.b  Online-Nutzung von Fotos | 20 min
+### 4.b  Online-Nutzung von Fotos | 20 min
 <!-- section-contents -->
 - Versuchen Sie, durch Webrecherchen weitere Hintergrundinformationen über diese Personen zu finden. Was für Fotos kan man finden im Internet?
 - Können Sie Unterschiede in Stil und Technologie erkennen?

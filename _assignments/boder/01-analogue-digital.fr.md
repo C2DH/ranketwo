@@ -28,7 +28,7 @@ Certains se demandent peut-être pourquoi les étudiants en sciences humaines de
 
 <!-- section -->
 
-### 2.a  Enregistrement et principes physiques | 10 min
+### 1.a  Enregistrement et principes physiques | 10 min
 <!-- section-contents -->
 
 - Quels sont les trois principes physiques jouant un rôle dans le transfert d'informations sur un fil d'acier &#x202F;?
@@ -36,7 +36,7 @@ Certains se demandent peut-être pourquoi les étudiants en sciences humaines de
 
 <!-- section -->
 
-### 2.b  Enregistrement numérique/analogique | 15 min
+### 1.b  Enregistrement numérique/analogique | 15 min
 <!-- section-contents -->
 
 - Regardez la vidéo sur le [fonctionnement d'un enregistreur numérique](https://www.youtube.com/watch?v=SfEXnX__X9Y&feature=youtu.be){:target="_blank"} de la chaine YouTube MrAudioSoundImages.

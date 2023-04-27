@@ -35,7 +35,7 @@ Lorsqu'on réfléchit à la valeur et à la signification d'une source publiée 
 
 <!-- section -->
 
-### 3.a  Critique des sources | 10 min
+### 2.a  Critique des sources | 10 min
 <!-- section-contents -->
 
 - Allez sur le site web du DEGOB et consultez la partie à propos [des protocoles](http://degob.org/index.php?showarticle=201) pour vous renseigner sur la méthodologie appliquée.
@@ -44,7 +44,7 @@ Lorsqu'on réfléchit à la valeur et à la signification d'une source publiée 
 
 <!-- section -->
 
-### 3.b  Première exploration des archives : comment les verbes sont utilisés | 15 min
+### 2.b  Première exploration des archives : comment les verbes sont utilisés | 15 min
 <!-- section-contents -->
 
 - Allez à nouveau sur le site web du DEGOB présentant la collection de protocoles recueillis par le [Comité national hongrois d'assistance aux déportés](http://degob.org/){:target="_blank"}.
@@ -56,7 +56,7 @@ Lorsqu'on réfléchit à la valeur et à la signification d'une source publiée 
 
 <!-- section -->
 
-### 3.c  Deuxième exploration des archives : comment les principaux personnages sont représentés | 15 min
+### 2.c  Deuxième exploration des archives : comment les principaux personnages sont représentés | 15 min
 <!-- section-contents -->
 
 - Comparez la description du processus de sélection pour les chambres à gaz et du rôle du médecin SS Mengele faite par une personne interrogée dans le [protocole](http://degob.org/index.php?showjk=131){:target="_blank"} avec celle faite par [Jola Gross lors de son entretien avec D. Boder](https://iit.aviaryplatform.com/r/2804x54p2z){:target="_blank"}.
@@ -65,7 +65,7 @@ Lorsqu'on réfléchit à la valeur et à la signification d'une source publiée 
 
 <!-- section -->
 
-### 3.d  Troisième exploration des archives : l'identité du locuteur | 15 min
+### 2.d  Troisième exploration des archives : l'identité du locuteur | 15 min
 <!-- section-contents -->
 
 - Comparez le protocole d'une jeune fille de 15 ans publié sur le site [http://degob.org/](http://degob.org/){:target="_blank"} (afin de l'obtenir, utilisez la fonctionnalité de recherche avancée pour sélectionner les femmes ayant 1931 comme date de naissance) avec l'enregistrement audio de l'[entretien réalisé par David Boder avec Edith Zierer, âgée de 15 ans](https://iit.aviaryplatform.com/r/0g3gx44z67){:target="_blank"}<sup>*</sup>.

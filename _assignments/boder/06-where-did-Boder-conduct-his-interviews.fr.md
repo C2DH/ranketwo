@@ -28,7 +28,7 @@ Cet exercice vise à vous montrer que les camps de déplacés étaient les premi
 
 <!-- section -->
 
-### 7.a  Envisager un avenir | 15 min
+### 6.a  Envisager un avenir | 15 min
 <!-- section-contents -->
 
 L'état d'esprit des survivants dans les camps de déplacés était clairement tourné vers l'avenir. Mais la vidéo contient une référence à des projets de commémoration.
@@ -45,7 +45,7 @@ L'état d'esprit des survivants dans les camps de déplacés était clairement t
 
 <!-- section -->
 
-### 7.b  Documenter le passé récent | 20 min
+### 6.b  Documenter le passé récent | 20 min
 <!-- section-contents -->
 
 - Cliquez sur [ce lien](https://www.kedem-auctions.com/content/two-posters-issued-central-historical-commission-central-committee-liberated-jews-american){:target="_blank"}.
@@ -55,7 +55,7 @@ L'état d'esprit des survivants dans les camps de déplacés était clairement t
 
 <!-- section -->
 
-### 7.c  Les camps de déplacés en 1945 et 1946 | 30 min
+### 6.c  Les camps de déplacés en 1945 et 1946 | 30 min
 <!-- section-contents -->
 
 - David Boder s'est également rendu dans des camps de déplacés. Le site web Voix de l'Holocauste contient une carte indiquant tous les endroits où il s'est rendu.

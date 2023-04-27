@@ -36,7 +36,7 @@ When reflecting on the value and meaning of a source that has been published on 
 
 <!-- section -->
 
-### 3.a  Source criticism | 10 min
+### 2.a  Source criticism | 10 min
 <!-- section-contents -->
 
 - Go to the DEGOB website and consult, in the tab On DEGOB, The Protocols. Read the text on the methodology that was applied.
@@ -45,7 +45,7 @@ When reflecting on the value and meaning of a source that has been published on 
 
 <!-- section -->
 
-### 3.b  A first exploration of the archives: how verbs are used | 15 min
+### 2.b  A first exploration of the archives: how verbs are used | 15 min
 <!-- section-contents -->
 
 - Go to the website with the collection of protocols collected by the [Hungarian National Commission for Deportees](http://degob.org/){:target="_blank"}. 
@@ -58,7 +58,7 @@ When reflecting on the value and meaning of a source that has been published on 
 
 <!-- section -->
 
-### 3.c  A second exploration of the archives: how key characters are represented | 15 min
+### 2.c  A second exploration of the archives: how key characters are represented | 15 min
 <!-- section-contents -->
 
 - Compare how a respondent describes the selection process for the gas chambers and the role of SS physician Mengele in [protocol](http://degob.org/index.php?showjk=131){:target="_blank"} with how this is done in [Boder’s interview with Jola Gross](https://iit.aviaryplatform.com/r/2804x54p2z){:target="_blank"}.
@@ -67,7 +67,7 @@ When reflecting on the value and meaning of a source that has been published on 
 
 <!-- section -->
 
-### 3.d  A third exploration of the archives: the identity of the speaker | 15 min
+### 2.d  A third exploration of the archives: the identity of the speaker | 15 min
 <!-- section-contents -->
 
 - Compare the protocol of a 15-year-old girl in [http://degob.org/](http://degob.org/){:target="_blank"} (select Female and date of birth 1931 in the advanced search environment) with listening to [Boder’s interview with 15-year-old Edith Zierer](https://iit.aviaryplatform.com/r/0g3gx44z67){:target="_blank"}<sup>*</sup>.

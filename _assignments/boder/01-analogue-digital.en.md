@@ -28,7 +28,7 @@ One might wonder why students of a humanities discipline should learn about the 
 
 <!-- section -->
 
-### 2.a  Recordings and physics | 10 min
+### 1.a  Recordings and physics | 10 min
 <!-- section-contents -->
 
 - What are the three principles of physics that play a role in the transfer of information on a steel wire?
@@ -36,7 +36,7 @@ One might wonder why students of a humanities discipline should learn about the 
 
 <!-- section -->
 
-### 2.b  Digital and analogue recording | 15 min
+### 1.b  Digital and analogue recording | 15 min
 <!-- section-contents -->
 
 - Watch this clip about [how a digital recorder works](https://youtu.be/SfEXnX__X9Y){:target="_blank"} from YouTube channel MrAudioSoundImages.
