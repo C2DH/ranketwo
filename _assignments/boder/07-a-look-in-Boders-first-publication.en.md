@@ -16,7 +16,7 @@ tags:
   - qualitative data
 requirements:  strong WiFi, access to Ranke.2, computer or laptop, application on laptop or computer to view video, account for timeline,
 outcomes:
-  - Understanding the interplay between the conventions of a method for collecting data, the convention of the medium through which this data is shared,and the appearance of its representation.
+  - Understanding the interplay between the conventions of a method for collecting data, the convention of the medium through which this data is shared, and the appearance of its representation.
 ---
 
 Boder reworked his basic sources, the transcripts of his interviews, to be published in his first book. In the interactive version you can see a PDF of part of his book. When consulting a book consisting of a textual representation of a spoken interview that has been translated from German to English, one should be conscious of the alterations that occur.
@@ -33,7 +33,7 @@ The purpose of this assignment is to show how one source, an audio recording, ca
 
 <!-- section -->
 
-### 8.a  Comparing a printed anonymous transcript to its digital version online | 30 min
+### 7.a  Comparing a printed anonymous transcript to its digital version online | 30 min
 <!-- section-contents -->
 
 - Read the interview with Jorn Gastfreund (alias Jurgen Bassfreund) with the short introduction by David Boder. It is 27 pages long. This is a digital scan of his printed book.
@@ -48,7 +48,7 @@ The purpose of this assignment is to show how one source, an audio recording, ca
 
 <!-- section -->
 
-### 8.b  Comparing reading to listening | 30 min
+### 7.b  Comparing reading to listening | 30 min
 <!-- section-contents -->
 
 - Now listen to the first 5.46 minutes of the interview in German that corresponds to the text.
@@ -56,7 +56,7 @@ The purpose of this assignment is to show how one source, an audio recording, ca
 
 <!-- section -->
 
-### 8.c  Reflecting on your experiences | 60 min
+### 7.c  Reflecting on your experiences | 60 min
 <!-- section-contents -->
 
 - Read about how Boder’s handled the issue of language in Beate Muller’s article on Boder’s translations.
