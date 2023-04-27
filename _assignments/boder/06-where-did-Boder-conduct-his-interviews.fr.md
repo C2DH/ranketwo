@@ -33,15 +33,15 @@ Cet exercice vise à vous montrer que les camps de déplacés étaient les premi
 
 L'état d'esprit des survivants dans les camps de déplacés était clairement tourné vers l'avenir. Mais la vidéo contient une référence à des projets de commémoration.
 - Cliquez sur « Pause » lorsque l'affiche apparaît et faites une capture d'écran.
-- Le texte étant en hébreu, vous devez utiliser la technologie de reconnaissance d'images de Google pour trouver davantage d'informations sur cette affiche. 
-- Allez dans Google Images. Cliquez sur l'icône représentant un appareil photo dans la barre de recherche puis sur « Importer une image » pour charger la capture d'écran de l'affiche.
+- Le texte étant en hébreu, vous pouvez utiliser la technologie de reconnaissance d'images d'un moteur de recherche du web pour trouver davantage d'informations sur cette affiche. 
+- Vous pouvez à titre d'exemple aller dans Google Images. Cliquez sur l'icône représentant un appareil photo dans la barre de recherche puis sur « Importer une image » pour charger la capture d'écran de l'affiche.
 - Vous trouverez des références à une collection d'affiches juives. 
 - Écrivez un résumé de 150 mots au maximum concernant cette collection en appliquant la méthode d'examen critique au site web correspondant :
-  - Qui a créé l'organisation ?
-  - Qui a créé le site web ?
-  - Quand ?
-  - Quelles ressources financières ont été utilisées ?
-  - Quel était l'objectif ?
+  - Qui a créé l'organisation&#x202F;?
+  - Qui a créé le site web&#x202F;?
+  - Quand&#x202F;?
+  - Quelles ressources financières ont été utilisées&#x202F;?
+  - Quel était l'objectif&#x202F;?
 
 <!-- section -->
 
@@ -60,7 +60,7 @@ L'état d'esprit des survivants dans les camps de déplacés était clairement t
 
 - David Boder s'est également rendu dans des camps de déplacés. Le site web Voix de l'Holocauste contient une carte indiquant tous les endroits où il s'est rendu.
 - Essayer de découvrir si des initiatives ont été prises dans ces camps pour documenter les expériences des résidents. 
-- Pour vos recherches, vous pouvez consulter les ressources suivantes :                              
+- Pour vos recherches, vous pouvez consulter les ressources suivantes&#x202F;:                              
   - [https://www.ehri-project.eu/call-papers-life-aftermath-–-displaced-persons-displaced-children-and-child-survivors-move](https://www.ehri-project.eu/call-papers-life-aftermath-–-displaced-persons-displaced-children-and-child-survivors-move){:target="_blank"}
   - [https://collections.ushmm.org/search/](https://collections.ushmm.org/search/){:target="_blank"}
   - [http://vhaonline.usc.edu/login](http://vhaonline.usc.edu/login){:target="_blank"} (vous devez créer un compte)

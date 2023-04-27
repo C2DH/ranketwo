@@ -32,8 +32,8 @@ This assignment is designed to help you reflect on displacement camps as the fir
 
 The mindsets of the survivors housed in displacement camps were clearly geared towards the future. There are however also references to commemoration projects. One of them is a poster commissioned by the "Central Historical Commission at the Central Committee of Liberated Jews in the American Zone of Occupation in Germany"
 - Stop the clip when the poster is shown and take a print screen.
-- As the text is in Hebrew, if you don't master the language, you can use Google’s image recognition technology to find more information about the poster.
-- Go to Google Images, click on the icon of the camera in the search bar, choose “upload” and upload the print screen of the poster.
+- As the text is in Hebrew, if you don't master the language, you can use a web search engine's image recognition technology to find more information about the poster.
+- You can go for example to Google Images, click on the icon of the camera in the search bar, choose “upload” and upload the print screen of the poster.
 - If the link is still working you can find [information about the poster here.](https://il.bidspirit.com/ui/lotPage/source/catalog/auction/6955/lot/126311/Two-Posters-Issued-by-the-Central?lang=zh){:target="_blank"}
 In the left corner, you will see the icon of a second poster.
 - If the link is broken, open this screencast of the [webresource](../../assets/videos/screencast-boder-assignment-7-posters.mp4){:target="_blank"}
