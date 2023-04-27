@@ -20,7 +20,9 @@ outcomes:
   - Understanding the limitations and benefits of online access to databases with personal narratives.
 ---
 
-When reflecting on the value and meaning of a source that has been published on the web, it is important to take the context of its creation into consideration. Turning everything into searchable digital data raises the risk of disregarding the different methods and approaches used by researchers when they created the data. This assignment is designed to highlight the differences between the accounts of Holocaust survivors that were summarised in written reports and those recorded on a device by Boder. They are both accessible online, but what is the difference? What can you do with this material that was not possible when it was kept in an archive?
+When reflecting on the value and meaning of a source that has been published on the web, it is important to take the context of its creation into consideration. Turning everything into searchable digital data raises the risk of disregarding the different methods and approaches used by researchers when they created the data. This assignment is designed to highlight the differences between the accounts of Holocaust survivors that were summarised in written reports and those recorded on a device by Boder. They are both accessible online, but what is the difference? What can you do with this material that was not possible when it was kept in an archive? For this assignment, we invite you to work with the following websites: 
+- DEGOB - National Committee for Attending Deportees. Recollections of the Holocaust - The world's most extensive testimonial site [http://degob.org/index.php](http://degob.org/index.php). This is a collection of testimonies collected by the Hungarian National Commission for Deportees.
+- Voices of the Holocaust [https://voices.library.iit.edu/](https://voices.library.iit.edu/)  
 
 <!-- more -->
 
@@ -30,15 +32,15 @@ When reflecting on the value and meaning of a source that has been published on 
 <!-- section-contents -->
 
 
-- Open the box ["Early accounts on the Holocaust"](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"} and read the various sections.
+- Go to the interactive animation above, open the box ["Early accounts on the Holocaust"](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"} and read the various sections.
 
 <!-- section -->
 
 ### 3.a  Source criticism | 10 min
 <!-- section-contents -->
 
-- Go to the tab On DEGOB and click on The Protocols. Read the text on the methodology that was applied.
-- Go to the Voices of the Holocaust website, and open the tab About the Project, then read the first three sub-tabs: David Boder, Voices Project, Project Notes.
+- Go to the DEGOB website and consult, in the tab On DEGOB, The Protocols. Read the text on the methodology that was applied.
+- Go to the Voices of the Holocaust website, and open the tab About the Project, then read the following three sub-tabs: David Boder, Voices Project, Project Notes.
 - Apply source criticism to both the Hungarian testimonies and Boder’s interviews by completing the table in your template
 
 <!-- section -->
@@ -46,7 +48,7 @@ When reflecting on the value and meaning of a source that has been published on 
 ### 3.b  A first exploration of the archives: how verbs are used | 15 min
 <!-- section-contents -->
 
-- Go to the website with the collection of protocols collected by the [Hungarian National Commission for Deportees](http://degob.org/){:target="_blank"}.
+- Go to the website with the collection of protocols collected by the [Hungarian National Commission for Deportees](http://degob.org/){:target="_blank"}. 
 - Search with the keyword “**help**” to get an idea of how to search in interview summaries.
 - If you go through the first five hits by using Ctrl + F, you can trace how the term “help” has different positive and negative meanings in the reports.
 - Try to do the same with [Voices of the Holocaust](https://voices.library.iit.edu/){:target="_blank"}.
@@ -68,7 +70,7 @@ When reflecting on the value and meaning of a source that has been published on 
 ### 3.d  A third exploration of the archives: the identity of the speaker | 15 min
 <!-- section-contents -->
 
-- Compare the protocol of a 15-year-old girl in [http://degob.org/](http://degob.org/){:target="_blank"} (select Female and date of birth 1931 in the search environment) with listening to [Boder’s interview with 15-year-old Edith Zierer](https://iit.aviaryplatform.com/r/0g3gx44z67){:target="_blank"}<sup>*</sup>.
+- Compare the protocol of a 15-year-old girl in [http://degob.org/](http://degob.org/){:target="_blank"} (select Female and date of birth 1931 in the advanced search environment) with listening to [Boder’s interview with 15-year-old Edith Zierer](https://iit.aviaryplatform.com/r/0g3gx44z67){:target="_blank"}<sup>*</sup>.
 - What strikes you as different when comparing the two sources?
 - Note your findings in your template.
 
