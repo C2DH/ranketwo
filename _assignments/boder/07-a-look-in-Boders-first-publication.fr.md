@@ -33,7 +33,7 @@ Le but de cet exercice est de montrer comment une source, en l'occurrence un enr
 
 <!-- section -->
 
-### 8.a  Comparer une transcription anonyme avec sa version numérique en ligne | 30 min
+### 7.a  Comparer une transcription anonyme avec sa version numérique en ligne | 30 min
 <!-- section-contents -->
 
 - Lisez l'interview de Jörn Gastfreund (alias Jurgen Bassfreund) avec la courte introduction de David Boder. Cette interview fait 27 pages ; il s'agit d'une image numérique du livre de D. Boder.
@@ -55,7 +55,7 @@ Le but de cet exercice est de montrer comment une source, en l'occurrence un enr
 
 <!-- section -->
 
-### 8.b  Comparaison entre la lecture et l'écoute | 30 min
+### 7.b  Comparaison entre la lecture et l'écoute | 30 min
 <!-- section-contents -->
 
 - Écoutez maintenant les 5,46 premières minutes de l'interview en allemand correspondant au texte.
@@ -63,7 +63,7 @@ Le but de cet exercice est de montrer comment une source, en l'occurrence un enr
 
 <!-- section -->
 
-### 8.c  Réflexion sur vos expériences | 60 min
+### 7.c  Réflexion sur vos expériences | 60 min
 <!-- section-contents -->
 
 - Découvrez comment David Boder a abordé le problème du langage dans l'article rédigé par Beate Müller au sujet de ses traductions.

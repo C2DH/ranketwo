@@ -33,7 +33,7 @@ In dieser Aufgabe soll aufgezeigt werden, wie sich eine Quelle, d. h. eine Audio
 
 <!-- section -->
 
-### 8.a  Vergleich eines anonymen gedruckten Transkripts mit dessen digitaler Online-Fassung | 30 min
+### 7.a  Vergleich eines anonymen gedruckten Transkripts mit dessen digitaler Online-Fassung | 30 min
 <!-- section-contents -->
 
 - Lesen Sie das Interview mit Jorn Gastfreund (alias Jürgen Bassfreund) mit der kurzen Einführung von David Boder. Es umfasst 27 Seiten. Dies ist ein digitaler Scan seines gedruckten Buchs.
@@ -55,7 +55,7 @@ In dieser Aufgabe soll aufgezeigt werden, wie sich eine Quelle, d. h. eine Audio
 
 <!-- section -->
 
-### 8.b  Vergleich zwischen dem geschriebenen und dem gesprochenen Wort | 30 min
+### 7.b  Vergleich zwischen dem geschriebenen und dem gesprochenen Wort | 30 min
 <!-- section-contents -->
 
 - Hören Sie sich die ersten 5:46 Minuten des dem Text entsprechenden Interviews in deutscher Sprache an.
@@ -63,7 +63,7 @@ In dieser Aufgabe soll aufgezeigt werden, wie sich eine Quelle, d. h. eine Audio
 
 <!-- section -->
 
-### 8.c  Reflexion über Ihre Erfahrungen | 60 min
+### 7.c  Reflexion über Ihre Erfahrungen | 60 min
 <!-- section-contents -->
 
 - Lesen Sie in Beate Müllers Artikel zu Boders Übersetzungen, wie Boder mit dem Sprachproblem umging.
