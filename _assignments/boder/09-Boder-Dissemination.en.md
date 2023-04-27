@@ -29,7 +29,7 @@ You will be asked to create a map and mark the places with institutes that hold 
 
 <!-- section -->
 
-### 10.a  Mapping Boder’s legacy 1. : where can his original work be found? | 30 min
+### 9.a  Mapping Boder’s legacy (1) - where can his original work be found? | 30 min
 <!-- section-contents -->
 
 - Create a project on the [HistoryPin](https://www.historypin.org/en/){:target="_blank"} website. 
@@ -40,7 +40,7 @@ You will be asked to create a map and mark the places with institutes that hold 
 
 <!-- section --> 
 
-### 10.b  Mapping Boder’s legacy 2. : who has published copies of his work online? | 30 min
+### 9.b  Mapping Boder’s legacy (2) - who has published copies of his work online? | 30 min
 <!-- section-contents -->
 
 - Conduct a Google search with the name David Boder.
@@ -49,7 +49,7 @@ You will be asked to create a map and mark the places with institutes that hold 
 
 <!-- section -->
 
-### 10.c  Mapping hyperlinks to Boder’s legacy | 30 min
+### 9.c  Mapping hyperlinks to Boder’s legacy | 30 min
 <!-- section-contents -->
 
 - List websites that have included a link to one of the institutes where Boder’s work is archived. 

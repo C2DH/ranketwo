@@ -27,12 +27,12 @@ Vous devrez créer une carte et y indiquer les instituts qui détiennent une par
 ### Instructions
 <!-- section-contents -->
 
-- Allez dans le menu « Crédits » de l'[animation interactive](https://ranke2.uni.lu/klynt/fr/#Intro){:target="_blank"}. 
-- Dressez la liste des instituts qui ont fourni des supports pour cette animation interactive.  
+- Allez dans l'onglet des crédits (Credits) du menu de l'[animation interactive](https://ranke2.uni.lu/klynt/fr/#Intro){:target="_blank"}. 
+- Dressez la liste des instituts qui ont fourni leur soutien pour réaliser cette animation interactive.  
 
 <!-- section -->
 
-### 10.a  Cartographier l'héritage de David Boder  1) où trouver ses travaux originaux ? | 30 min
+### 9.a  Cartographier l'héritage de David Boder (1) - où trouver ses travaux originaux ? | 30 min
 <!-- section-contents -->
 
 - Créez un projet sur le site internet [HistoryPin](https://www.historypin.org/en/){:target="_blank"}. 
@@ -40,20 +40,20 @@ Vous devrez créer une carte et y indiquer les instituts qui détiennent une par
 - Cherchez les coordonnées des endroits que vous avez répertoriés.
 - Ajoutez tous ces endroits à votre carte.
 - Rédigez une brève description sur la partie de l'héritage de D. Boder se trouvant dans chaque institut. Gardez à l'esprit qu'il a travaillé sur d'autres projets en dehors de ses interviews sur l'Holocauste !
-- Utilisez le modèle.
+- Renseignez votre formulaire.
 
 <!-- section -->
 
-### 10.b  Cartographier l'héritage de David Boder  2) qui a publié des copies de ses travaux sur internet ? | 30 min
+### 9.b  Cartographier l'héritage de David Boder (2) - qui a publié des copies de ses travaux sur internet ? | 30 min
 <!-- section-contents -->
 
-- Lancez une recherche sur Google avec le nom David Boder.
+- Lancez une recherche sur un moteur de recherche du web avec comme mot-clé le nom David Boder.
 - Répertoriez les autres instituts qui offrent un accès à ses travaux mais qui n'ont pas les originaux dans leurs archives.
 - Ajoutez-les à votre carte.
 
 <!-- section -->
 
-### 10.c  Cartographier les liens hypertextes vers l'héritage de David Boder | 30 min
+### 9.c  Cartographier les liens hypertextes vers l'héritage de David Boder | 30 min
 <!-- section-contents -->
 
 - Répertoriez les sites internet ayant inclus un lien vers l'un des instituts où sont archivés les travaux de D. Boder. 
