@@ -36,18 +36,12 @@ Le but de cet exercice est de montrer comment une source, en l'occurrence un enr
 ### 7.a  Comparer une transcription anonyme avec sa version numérique en ligne | 30 min
 <!-- section-contents -->
 
-- Lisez l'interview de Jörn Gastfreund (alias Jurgen Bassfreund) avec la courte introduction de David Boder. Cette interview fait 27 pages ; il s'agit d'une image numérique du livre de D. Boder.
-- Allez sur le site [Voix de l'Holocauste](http://voices.iit.edu/){:target="_blank"} (utilisez le navigateur Chrome  vous pourrez ainsi autoriser l'exécution de Flash Player pour pouvoir écouter le son).
-- L'URL se présente de la manière suivante :
-
-![chrome-address-bar.png](../../../assets/images/chrome-address-bar.png)
-
-- Cliquez sur la petite icône « i » pour configurer les paramètres de votre navigateur. Autorisez l'exécution de Flash Player et des fenêtres contextuelles en cochant les cases correspondantes.
-- Cliquez ensuite sur ce lien : <https://iit.aviaryplatform.com/r/1r6n00zz2w>{:target="_blank"}.
+- Lisez l'interview de Jörn Gastfreund (alias Jurgen Bassfreund) avec la courte introduction de David Boder. Cette interview fait 27 pages&#x202F;; il s'agit d'une image numérique du livre de D. Boder.
+- Cliquez ensuite sur ce lien&#x202F;: <https://iit.aviaryplatform.com/r/1r6n00zz2w>{:target="_blank"}.
 - Commencez par lire le « Commentaire » puis cliquez sur « Traduction anglaise ».
-- Lisez le texte jusqu'à la phrase :
+- Lisez le texte jusqu'à la phrase&#x202F;:
 
-« I worked at that time on the railroad and the Hitler guard packed us into a truck and we were all driven to a distribution camp » (À cette époque, je travaillais sur la voie ferrée. Les SS nous ont tous embarqués dans un camion pour nous conduire à un camp de répartition)
+«&#x202F;I worked at that time on the railroad and the Hitler guard packed us into a truck and we were all driven to a distribution camp&#x202F;» _(À cette époque, je travaillais sur la voie ferrée. Les SS nous ont tous embarqués dans un camion pour nous conduire à un camp de répartition)_
 
 - La première partie de l'exercice consiste à compléter le tableau dans votre modèle en notant les différences entre les versions de l'interview.
 - Commencez par comparer la transcription dans le livre avec la version numérique de la transcription en ligne jusqu'à la phrase mentionnée ci-dessus.
@@ -58,7 +52,7 @@ Le but de cet exercice est de montrer comment une source, en l'occurrence un enr
 ### 7.b  Comparaison entre la lecture et l'écoute | 30 min
 <!-- section-contents -->
 
-- Écoutez maintenant les 5,46 premières minutes de l'interview en allemand correspondant au texte.
+- Écoutez maintenant les premières 5 minutes 46 secondes de l'interview en allemand correspondant au texte.
 - Notez les différences entre ce que vous entendez et ce que vous avez lu dans la troisième colonne de votre tableau.
 
 <!-- section -->

@@ -37,12 +37,6 @@ In dieser Aufgabe soll aufgezeigt werden, wie sich eine Quelle, d. h. eine Audio
 <!-- section-contents -->
 
 - Lesen Sie das Interview mit Jorn Gastfreund (alias Jürgen Bassfreund) mit der kurzen Einführung von David Boder. Es umfasst 27 Seiten. Dies ist ein digitaler Scan seines gedruckten Buchs.
-- Gehen Sie nun zur Website [Voices of the Holocaust](http://voices.iit.edu/){:target="_blank"} (verwenden Sie Chrome als Browser, Sie können so mit dem Flash Player den Ton hören).
-- Die URL sieht so aus:
-
-![chrome-address-bar.png](../../../assets/images/chrome-address-bar.png)
-
-- Klicken Sie auf die kleine Schaltfläche „i” und konfigurieren Sie Ihren Browser. Erlauben Sie die Flash Player und Pop-ups, indem Sie die entsprechenden Häkchen setzen.
 - Klicken Sie dann auf diesen Link: <https://iit.aviaryplatform.com/r/1r6n00zz2w>{:target="_blank"}.
 - Lesen Sie zunächst die Rubrik „Commentary“. Klicken Sie dann auf „English translation“.
 - Lesen Sie den Text bis zu dem Satz:
