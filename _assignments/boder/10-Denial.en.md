@@ -26,7 +26,7 @@ The statements of Iranian President Ahmadinejad reported in the press in 2005 we
 
 <!-- section -->
 
-### 11.a  Perspectives on Holocaust denials | 60 min
+### 10.a  Perspectives on Holocaust denials | 60 min
 <!-- section-contents -->
 
 - Read the text about [Holocaust deniers](https://www.ushmm.org/wlc/en/article.php?ModuleId=10007272){:target="_blank"} on the website of the US Holocaust Memorial.
@@ -38,7 +38,7 @@ The statements of Iranian President Ahmadinejad reported in the press in 2005 we
 
 <!-- section -->
 
-### 11.b  Placing the statement in a broader context | 60 min
+### 10.b  Placing the statement in a broader context | 60 min
 <!-- section-contents -->
 
 - Consider the two cases of denial before his statements in December 2005, and the impact in international politics of the event that was held in Iran in 2006. 
