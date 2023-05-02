@@ -32,7 +32,7 @@ Sie müssen in dieser Aufgabe eine Karte erstellen und die Orte der Institute ma
 
 <!-- section -->
 
-### 10.a  Kartographie des Erbes von Boder – wo seine ursprüngliche Arbeiten zu finden sind | 30 min
+### 9.a  Kartographie des Erbes von Boder – wo seine ursprüngliche Arbeiten zu finden sind | 30 min
 <!-- section-contents -->
 
 - Legen Sie auf der [HistoryPin](https://www.historypin.org/en/){:target="_blank"}-Website ein Projekt an. 
@@ -44,7 +44,7 @@ Sie müssen in dieser Aufgabe eine Karte erstellen und die Orte der Institute ma
 
 <!-- section -->
 
-### 10.b  Kartographie des Erbes von Boder – wer Kopien seiner Arbeiten online gestellt hat | 30 min
+### 9.b  Kartographie des Erbes von Boder – wer Kopien seiner Arbeiten online gestellt hat | 30 min
 <!-- section-contents -->
 
 - Führen Sie eine Google-Suche mit dem Namen David Boder durch.
@@ -53,7 +53,7 @@ Sie müssen in dieser Aufgabe eine Karte erstellen und die Orte der Institute ma
 
 <!-- section -->
 
-### 10.c  Kartographie von Hyperlinks zu Boders Erbe | 30 min
+### 9.c  Kartographie von Hyperlinks zu Boders Erbe | 30 min
 <!-- section-contents -->
 
 - Listen Sie Websites auf, die einen Link zu einem der Institute enthalten, in denen Boders Arbeit archiviert ist. 
