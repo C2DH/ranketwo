@@ -26,7 +26,7 @@ In dieser Aufgabe soll aufgezeigt werden, wie sich Schilderungen eines ähnliche
 
 <!-- section -->
 
-### 12.a  Ein 15-jähriges Kind im Vergleich zu einer 70-jährigen Frau | 60 min
+### 11.a  Ein 15-jähriges Kind im Vergleich zu einer 70-jährigen Frau | 60 min
 <!-- section-contents -->
 
 - Welches sind die auffälligsten Unterschiede zwischen den Interviews von 1946 und 2003?
@@ -39,17 +39,11 @@ In dieser Aufgabe soll aufgezeigt werden, wie sich Schilderungen eines ähnliche
 
 <!-- section -->
 
-### 12.b  Unterschiedliche Technologien | 30 min
+### 11.b  Unterschiedliche Technologien | 30 min
 <!-- section-contents -->
 
-- Welche Technologie wurde zur Aufzeichnung der Originalinterviews mit Edith Zierer<sup>*</sup> 1946 und 2003 verwendet?
+- Welche Technologie wurde zur Aufzeichnung der Originalinterviews mit Edith Zierer 1946 und 2003 verwendet?
 - Inwieweit steht dies mit dem Dokument in Zusammenhang, das Sie online einsehen?
-
-\* Für die Schilderungen von [Edith Zierer](https://iit.aviaryplatform.com/r/0g3gx44z67){:target="_blank"} müssen Sie den Chrome-Browser öffnen. Klicken Sie auf die kleine Schaltfläche „i“ und erlauben Sie Flash Player und Pop-ups. Beachten Sie, dass das Herunterladen des Interviews eine gewisse Zeit dauert, und führen Sie in der Zwischenzeit gegebenenfalls eine andere Aufgabe aus.
-
-![chrome-address-bar.png](../../../assets/images/chrome-address-bar.png)
-
-Besuchen Sie die Website des Holocaust Memorial Museum in Washington. Öffnen Sie hierzu am besten zwei Fenster, indem [Sie sich das Interview in einem Fenster ansehen](https://collections.ushmm.org/search/catalog/irn514929){:target="_blank"} und [die englische Übersetzung in einem PDF im anderen Fenster](https://collections.ushmm.org/oh_findingaids/RG-50.562.0003_trl_en.pdf){:target="_blank"} öffnen.
 
 <!-- section -->
 
