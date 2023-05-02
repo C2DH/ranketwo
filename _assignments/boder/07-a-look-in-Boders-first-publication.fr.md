@@ -29,7 +29,7 @@ Le but de cet exercice est de montrer comment une source, en l'occurrence un enr
 ### Instructions
 <!-- section-contents -->
 
-- Ouvrez la boîte [Aperçu de la première publication de David Boder](https://ranke2.uni.lu/klynt/fr/#Intro){:target="_blank"}.
+- Allez à l'animation interactive et, à partir de l'index, ouvrez la boîte intitulée [Un regard sur la première publication de Boder](https://ranke2.uni.lu/klynt/fr/#Intro){:target="_blank"}.
 
 <!-- section -->
 
