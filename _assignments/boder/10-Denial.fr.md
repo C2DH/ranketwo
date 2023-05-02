@@ -30,35 +30,35 @@ Cet exercice aidera les étudiants à identifier les sources de l'information re
 
 <!-- section -->
 
-### 11.a  Points de vue sur le négationnisme | 60 min
+### 10.a  Points de vue sur le négationnisme | 60 min
 <!-- section-contents -->
 
 - Lisez le texte consacré aux [négationnistes](https://www.ushmm.org/wlc/fr/article.php?ModuleId=10007272){:target="_blank"} sur le site web du Musée du Mémorial américain de l'Holocauste.
 - Passez en revue la [chronologie des propos négationnistes](https://www.ushmm.org/wlc/fr/article.php?ModuleId=10008003){:target="_blank"} sur ce même site.     
-- De quel type de négation relèvent les déclarations d'Ahmadinejad sur l'Holocauste ? Quelle partie du récit sur l'Holocauste est réfutée ?
-- Quelles sources ont été utilisées par la presse internationale pour relayer ces propos ?
+- De quel type de négation relèvent les déclarations d'Ahmadinejad sur l'Holocauste&#x202F;? Quelle partie du récit sur l'Holocauste est réfutée&#x202F;?
+- Quelles sources ont été utilisées par la presse internationale pour relayer ces propos&#x202F;?
 - Ajoutez-les à votre modèle.
 
 <!-- section -->
 
-### 11.b  Placer la déclaration dans un contexte plus large | 60 min
+### 10.b  Placer la déclaration dans un contexte plus large | 60 min
 <!-- section-contents -->
 
 - Considérez les deux cas de négationnisme avant les déclarations de Mahmoud Ahmadinejad en décembre 2005 et l'impact de l'événement organisé en Iran en 2006 sur la politique internationale. 
 - Rendez-vous ensuite sur la page [Wikipédia suivante](https://fr.wikipedia.org/wiki/Concours_international_de_caricatures_sur_l%27Holocauste){:target="_blank"}.
-- Cette information change-t-elle votre point de vue sur la manière dont les déclarations d'Ahmadinejad devraient être interprétées ? 
+- Cette information change-t-elle votre point de vue sur la manière dont les déclarations d'Ahmadinejad devraient être interprétées&#x202F;? 
 - Rédigez un petit résumé sur la manière dont les propos de Mahmoud Ahmadinejad devraient être interprétés selon vous.
-- Ajoutez-le à votre modèle.
+- Ajoutez-le à votre formulaire.
 
 <!-- section -->
 
-### 11.c  L'événement organisé en Iran en 2006 vu par la presse internationale | 60 min
+### 10.c  L'événement organisé en Iran en 2006 vu par la presse internationale | 60 min
 <!-- section-contents -->
 
-- Qui a créé la chronologie et rédigé le texte sur le négationnisme ? 
-- Qui a créé l'article sur Wikipédia ? 
-- Pouvez-vous faire confiance à ces sources ? D'après quels critères jugez-vous si une information est fiable ? 
-- Essayez de découvrir comment cet événement a été couvert par les journaux/agences répertoriés dans l'exercice 10a.
+- Qui a créé la chronologie et rédigé le texte sur le négationnisme&#x202F;? 
+- Qui a créé l'article sur Wikipédia&#x202F;? 
+- Pouvez-vous faire confiance à ces sources ? D'après quels critères jugez-vous si une information est fiable&#x202F;? 
+- Essayez de découvrir comment cet événement a été couvert par les journaux/agences répertoriés dans l'exercice 10.a.
 - Ajoutez cette information à votre modèle. 
 
 <!-- section -->
