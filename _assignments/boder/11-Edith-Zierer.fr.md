@@ -26,12 +26,12 @@ L'objectif de cet exercice est de montrer comment le récit sur un même sujet, 
 
 <!-- section -->
 
-### 12.a  Comparaison entre une enfant de 15 ans et une femme de 70 ans | 60 min
+### 11.a  Comparaison entre une enfant de 15 ans et une femme de 70 ans | 60 min
 <!-- section-contents -->
 
-- Quelles sont les différences les plus marquantes entre l'interview de 1946 et celle de 2003 ?
+- Quelles sont les différences les plus marquantes entre l'interview de 1946 et celle de 2003&#x202F;?
 - Écoutez la version audio de l'[interview d'Edith Zierer en allemand réalisée en 1946](https://iit.aviaryplatform.com/r/0g3gx44z67){:target="_blank"} et prenez des notes.
-  - Dans le modèle, vous trouverez des instructions sur les aspects auxquels vous devez prêter attention.
+  - Dans le formulaire, vous trouverez des instructions sur les aspects auxquels vous devez prêter attention.
   - Si vous ne maîtrisez pas l'allemand, ouvrez la traduction anglaise dans une autre fenêtre.
 - Regardez la vidéo de l'interview en hébreu réalisée en 2003.
   - Dans le modèle, vous trouverez des instructions sur les aspects auxquels vous devez prêter attention.
@@ -39,17 +39,11 @@ L'objectif de cet exercice est de montrer comment le récit sur un même sujet, 
 
 <!-- section -->
 
-### 12.b  Des technologies différentes | 30 min
+### 11.b  Des technologies différentes | 30 min
 <!-- section-contents -->
 
-- Quel type de technologie a été utilisé pour créer les interviews originales avec Edith Zierer<sup>*</sup> en 1946 et 2003 ?
+- Quel type de technologie a été utilisé pour créer les interviews originales avec Edith Zierer en 1946 et 2003&#x202F;?
 - Quel est le rapport avec le document que vous êtes en train de consulter en ligne&nbsp;?
-
-\* Pour écouter l'interview d'[Edith Zierer](https://iit.aviaryplatform.com/r/0g3gx44z67){:target="_blank"}, vous devez ouvrir le navigateur Chrome. Cliquez sur la petite icône « i » et autorisez Flash Player et les fenêtres contextuelles à s'exécuter. Veuillez noter que le chargement de l'interview est relativement long. Vous pouvez donc faire un autre exercice pendant ce temps.
-
-![chrome-address-bar.png](../../../assets/images/chrome-address-bar.png)
-
-Vous devez vous rendre sur le site web du Musée du Mémorial américain de l'Holocauste situé à Washington. La meilleure façon de travailler avec cette source est d'ouvrir deux fenêtres pour [regarder la vidéo dans une fenêtre](https://collections.ushmm.org/search/catalog/irn514929){:target="_blank"} et afficher la [traduction anglaise au format PDF dans l'autre fenêtre](https://collections.ushmm.org/oh_findingaids/RG-50.562.0003_trl_en.pdf){:target="_blank"}.
 
 <!-- section -->
 
