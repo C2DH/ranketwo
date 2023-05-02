@@ -25,7 +25,7 @@ La réduction des coûts et des protocoles faciles à gérer impliquent que des 
 
 <!-- section -->
 
-### 9.a  Comparer les technologies de reproduction | 30 min
+### 8.a  Comparer les technologies de reproduction | 30 min
 <!-- section-contents -->
 
 - Découvrez comment fonctionne une microcarte en cliquant sur [ce lien](https://psap.library.illinois.edu/collection-id-guide/microform#microcard){:target="_blank"}.
@@ -38,14 +38,14 @@ La réduction des coûts et des protocoles faciles à gérer impliquent que des 
 
 <!-- section -->
 
-### 9.b  Qu'est-ce qu'une source authentique ? | 15 min
+### 8.b  Qu'est-ce qu'une source authentique ? | 15 min
 <!-- section-contents -->
 
 - Évaluer si le résultat obtenu en appliquant ces technologies de reproduction peut être considéré comme une source historique authentique.
 
 <!-- section -->
 
-### 9.c  Miméographe et microcarte | 15 min
+### 8.c  Miméographe et microcarte | 15 min
 <!-- section-contents -->
 
 - Quelle est la différence entre les copies effectuées à l'aide d'un miméographe et celles qui sont effectuées à l'aide d'une microcarte&#x202F;? 
