@@ -26,7 +26,7 @@ The purpose of this assignment is to illustrate how the narrative on a similar t
 
 <!-- section -->
 
-### 12.a  A child of 15 compared to a women of 70 | 60 min
+### 11.a  A child of 15 compared to a women of 70 | 60 min
 <!-- section-contents -->
 
 - What are the most striking differences between the interview in 1946 and the one in 2003?
@@ -40,10 +40,10 @@ The purpose of this assignment is to illustrate how the narrative on a similar t
 
 <!-- section -->
 
-### 12.b  Different technologies for recording | 30 min
+### 11.b  Different technologies for recording | 30 min
 <!-- section-contents -->
 
-- What kind of technology was used to create the original interview with Edith Zierer<sup>*</sup> in 1946 and the original interview in 2003?
+- What kind of technology was used to create the original interview with Edith Zierer in 1946 and the original interview in 2003?
 - How does this relate to the document that you are consulting online?
  Document your findings in your template.
 
