@@ -29,7 +29,7 @@ The purpose of this assignment is to show how one source, an audio recording, ca
 ### Instructions
 <!-- section-contents -->
 
-- Open the box [‘A look into Boder’s first publication’](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"}.
+- Go th the interactive animation and open the box [‘A look into Boder’s first publication’](https://ranke2.uni.lu/klynt/en/#Intro){:target="_blank"}.
 
 <!-- section -->
 
