@@ -48,8 +48,8 @@ La réduction des coûts et des protocoles faciles à gérer impliquent que des 
 ### 9.c  Miméographe et microcarte | 15 min
 <!-- section-contents -->
 
-- Quelle est la différence entre les copies effectuées à l'aide d'un miméographe et celles qui sont effectuées à l'aide d'une microcarte ? 
-- Quel est le rapport avec les avantages de la technologie numérique ? 
+- Quelle est la différence entre les copies effectuées à l'aide d'un miméographe et celles qui sont effectuées à l'aide d'une microcarte&#x202F;? 
+- Quel est le rapport avec les avantages de la technologie numérique&#x202F;? 
 
 <!-- section -->
 
