@@ -30,7 +30,7 @@ Diese Aufgabe soll Studierenden bei der Identifizierung der Quellen helfen, auf 
 
 <!-- section -->
 
-### 11.a  Ansichten zu Holocaust-Leugnungen | 60 min
+### 10.a  Ansichten zu Holocaust-Leugnungen | 60 min
 <!-- section-contents -->
 
 - Lesen Sie den Text zu [Holocaust-Leugnern](https://www.ushmm.org/wlc/en/article.php?ModuleId=10007272){:target="_blank"} auf der Website des US Holocaust Memorial.
@@ -41,7 +41,7 @@ Diese Aufgabe soll Studierenden bei der Identifizierung der Quellen helfen, auf 
 
 <!-- section -->
 
-### 11.b  Einordnung der Aussage in einen breiteren Kontext | 60 min
+### 10.b  Einordnung der Aussage in einen breiteren Kontext | 60 min
 <!-- section-contents -->
 
 - Betrachten Sie die beiden Leugnungen vor den Erklärungen Ahmadinejads im Dezember 2005 und die Auswirkungen des Ereignisses von 2006 im Iran auf die internationale Politik.
@@ -52,7 +52,7 @@ Diese Aufgabe soll Studierenden bei der Identifizierung der Quellen helfen, auf 
 
 <!-- section -->
 
-### 11.c  Das 2006 im Iran stattgefundene Ereignis in der internationalen Presse | 60 min
+### 10.c  Das 2006 im Iran stattgefundene Ereignis in der internationalen Presse | 60 min
 <!-- section-contents -->
 
 - Wer hat die Zeitleiste und den Text über die Holocaust-Leugnung verfasst? 
