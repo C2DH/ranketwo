@@ -47,7 +47,7 @@ Vous devrez créer une carte et y indiquer les instituts qui détiennent une par
 ### 9.b  Cartographier l'héritage de David Boder (2) - qui a publié des copies de ses travaux sur internet ? | 30 min
 <!-- section-contents -->
 
-- Lancez une recherche sur un moteur de recherche du web avec comme mot-clé le nom David Boder.
+- Lancez une recherche sur un moteur de recherche du web avec comme mot-clé le nom de David Boder.
 - Répertoriez les autres instituts qui offrent un accès à ses travaux mais qui n'ont pas les originaux dans leurs archives.
 - Ajoutez-les à votre carte.
 
