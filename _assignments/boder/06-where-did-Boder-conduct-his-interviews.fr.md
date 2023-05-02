@@ -32,11 +32,11 @@ Cet exercice vise à vous montrer que les camps de déplacés étaient les premi
 <!-- section-contents -->
 
 L'état d'esprit des survivants dans les camps de déplacés était clairement tourné vers l'avenir. Mais la vidéo contient une référence à des projets de commémoration.
-- Cliquez sur « Pause » lorsque l'affiche apparaît et faites une capture d'écran.
+- Cliquez sur «&#x202F;Pause&#x202F;» lorsque l'affiche apparaît et faites une capture d'écran.
 - Le texte étant en hébreu, vous pouvez utiliser la technologie de reconnaissance d'images d'un moteur de recherche du web pour trouver davantage d'informations sur cette affiche. 
-- Vous pouvez à titre d'exemple aller dans Google Images. Cliquez sur l'icône représentant un appareil photo dans la barre de recherche puis sur « Importer une image » pour charger la capture d'écran de l'affiche.
+- Vous pouvez à titre d'exemple aller dans Google Images. Cliquez sur l'icône représentant un appareil photo dans la barre de recherche puis sur «&#x202F;Importer une image&#x202F;» pour charger la capture d'écran de l'affiche.
 - Vous trouverez des références à une collection d'affiches juives. 
-- Écrivez un résumé de 150 mots au maximum concernant cette collection en appliquant la méthode d'examen critique au site web correspondant :
+- Écrivez un résumé de 150 mots au maximum concernant cette collection en appliquant la méthode d'examen critique au site web correspondant&#x202F;:
   - Qui a créé l'organisation&#x202F;?
   - Qui a créé le site web&#x202F;?
   - Quand&#x202F;?
@@ -51,15 +51,15 @@ L'état d'esprit des survivants dans les camps de déplacés était clairement t
 - Cliquez sur [ce lien](https://www.kedem-auctions.com/content/two-posters-issued-central-historical-commission-central-committee-liberated-jews-american){:target="_blank"}.
 - Téléchargez l'image, agrandissez-la et lisez ce qui est écrit dans le coin inférieur gauche.
 - Essayez de trouver l'endroit où cette affiche a été créée en effectuant des recherches sur internet.
-- Qui a conçu cette affiche ? Où a-t-elle été créée ? Avec quelles ressources ? Who published it on the web? 
+- Qui a conçu cette affiche&#x202F;? Où a-t-elle été créée&#x202F;? Avec quelles ressources&#x202F;? Par qui a-t-elle été mise en ligne&#x202F;? 
 
 <!-- section -->
 
 ### 6.c  Les camps de déplacés en 1945 et 1946 | 30 min
 <!-- section-contents -->
 
-- David Boder s'est également rendu dans des camps de déplacés. Le site web Voix de l'Holocauste contient une carte indiquant tous les endroits où il s'est rendu.
-- Essayer de découvrir si des initiatives ont été prises dans ces camps pour documenter les expériences des résidents. 
+- David Boder s'est également rendu dans des camps de déplacés. Le site web Voices of the Holocaust (soit Voix de l'Holocauste) contient une carte indiquant tous les endroits où il s'est rendu.
+- Essayez de découvrir si des initiatives ont été prises dans ces camps pour documenter les expériences des résidents. 
 - Pour vos recherches, vous pouvez consulter les ressources suivantes&#x202F;:                              
   - [https://www.ehri-project.eu/call-papers-life-aftermath-–-displaced-persons-displaced-children-and-child-survivors-move](https://www.ehri-project.eu/call-papers-life-aftermath-–-displaced-persons-displaced-children-and-child-survivors-move){:target="_blank"}
   - [https://collections.ushmm.org/search/](https://collections.ushmm.org/search/){:target="_blank"}
@@ -71,6 +71,6 @@ L'état d'esprit des survivants dans les camps de déplacés était clairement t
 ### Suggestions de lectures/vidéos
 <!-- section-contents -->
 
-Jewish Virtual Library. “Displaced Persons Camps across Europe.” [Lien vers le site web](https://www.jewishvirtuallibrary.org/displaced-persons-camps-across-europe)
+Jewish Virtual Library. &laquo;&#x202F;Displaced Persons Camps across Europe&#x202F;&raquo;. [Lien vers le site web](https://www.jewishvirtuallibrary.org/displaced-persons-camps-across-europe)
 
 <!-- briefing-teacher -->
