@@ -25,7 +25,7 @@ Reduced costs and easy-to-manage protocols mean that lay people not familiar wit
 
 <!-- section -->
 
-### 9.a  Comparing reproduction technologies | 30 min
+### 8.a  Comparing reproduction technologies | 30 min
 <!-- section-contents -->
 
 - Find out how a microcard works by going to the [online archive of the University of Illinois library](https://psap.library.illinois.edu/collection-id-guide/microform#microcard){:target="_blank"}.
@@ -39,7 +39,7 @@ Reduced costs and easy-to-manage protocols mean that lay people not familiar wit
 
 <!-- section -->
 
-### 9.b  What is an authentic source | 15 min
+### 8.b  What is an authentic source | 15 min
 <!-- section-contents -->
 
 - Assess whether the result of applying these reproduction technologies can be considered as an authentic historical source?
@@ -47,7 +47,7 @@ Reduced costs and easy-to-manage protocols mean that lay people not familiar wit
 
 <!-- section -->
 
-### 9.c  Mimeograph and Microcard | 15 min
+### 8.c  Mimeograph and Microcard | 15 min
 <!-- section-contents -->
 
 - What is the difference between copies made with a mimeograph and those made with a microcard? 

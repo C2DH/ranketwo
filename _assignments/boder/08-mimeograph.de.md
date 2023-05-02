@@ -25,7 +25,7 @@ Reduzierte Kosten und leicht zu verwaltende Protokolle implizieren, dass Laien, 
 
 <!-- section -->
 
-### 9.a  Vergleich zwischen Wiedergabetechnologien | 30 min
+### 8.a  Vergleich zwischen Wiedergabetechnologien | 30 min
 <!-- section-contents -->
 
 - Finden Sie über [diesen Link](https://psap.library.illinois.edu/collection-id-guide/microform#microcard){:target="_blank"} heraus, wie eine Mikrokarte funktioniert.
@@ -38,14 +38,14 @@ Reduzierte Kosten und leicht zu verwaltende Protokolle implizieren, dass Laien, 
 
 <!-- section -->
 
-### 9.b  Was ist eine authentische Quelle? | 15 min
+### 8.b  Was ist eine authentische Quelle? | 15 min
 <!-- section-contents -->
 
 - Bewerten Sie, ob das Ergebnis bei Anwendung dieser Wiedergabetechnologien als authentische historische Quelle betrachtet werden kann.
 
 <!-- section -->
 
-### 9.c  Mimeograf und Mikrokarte | 15 min
+### 8.c  Mimeograf und Mikrokarte | 15 min
 <!-- section-contents -->
 
 - Welches ist der Unterschied zwischen Kopien, die mit einem Mimeografen und einer Mikrokarte angefertigt werden? 
