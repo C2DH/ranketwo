@@ -16,7 +16,6 @@ audience: general public, bachelor, master humanities
 components:
   small: animation
   medium: animation interactive + 11 tâches, lecture vidéo animée + 5 tâches
-  large: support pour l’atelier pratique
 mediatype: audiovisual, interviews
 order: 2
 cover:
