@@ -16,7 +16,6 @@ audience: general public, bachelor, master humanities
 components:
   small: Animation
   medium: interaktive Animation + 11 Aufgaben, Kurs mit Videoanimation + 5 Aufgaben
-  large: Lernprogramm für praktischen Workshop
 mediatype: audiovisual, interviews
 order: 2
 cover:
