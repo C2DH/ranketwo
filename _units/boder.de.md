@@ -8,6 +8,7 @@ tags:
   - Medienstudien
   - Oral History
 lang: de
+date: 2017-11-23
 unit_id: boder
 link: /u/boder/
 permalink: /de/u/boder/
