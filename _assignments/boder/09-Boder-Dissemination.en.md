@@ -43,7 +43,7 @@ You will be asked to create a map and mark the places with institutes that hold 
 ### 9.b  Mapping Boder’s legacy (2) - who has published copies of his work online? | 30 min
 <!-- section-contents -->
 
-- Conduct a Google search with the name David Boder.
+- Conduct a web search with the name David Boder.
 - List additional institutes that offer access to his work, but do not have the original work in their archive.
 - Add them to your online map and template.
 

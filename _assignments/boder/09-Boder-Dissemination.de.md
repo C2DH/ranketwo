@@ -47,7 +47,7 @@ Sie müssen in dieser Aufgabe eine Karte erstellen und die Orte der Institute ma
 ### 9.b  Kartographie des Erbes von Boder – wer Kopien seiner Arbeiten online gestellt hat | 30 min
 <!-- section-contents -->
 
-- Führen Sie eine Google-Suche mit dem Namen David Boder durch.
+- Führen Sie eine Suche mit dem Namen David Boder durch.
 - Listen Sie zusätzliche Institute auf, die Zugang zu seiner Arbeit bieten, jedoch nicht die Originale in ihren Archiven verwahren.
 - Fügen Sie sie zu Ihrer Karte hinzu.
 
