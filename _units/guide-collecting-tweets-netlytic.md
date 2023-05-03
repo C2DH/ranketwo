@@ -16,7 +16,7 @@ date: 2022-11-17
 toc: on
 mediatype: web-social-media
 research-phase: heuristics
-activity: tbd
+activity: gathering
 ---
 
 Learn how to easily collect social media data with Netlytic software.
