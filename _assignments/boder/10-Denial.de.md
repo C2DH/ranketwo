@@ -6,8 +6,7 @@ title: Welches sind die Quellen, auf denen die Nachricht der Holocaust-Leugnung 
 cover: /assets/images/attachments/12boxes/12boxes_11.png
 order: 10
 lang: de
-tags: 
-  - Holocaust-Leugnung
+tags:
   - Quellenkritik
   - Nachrichtenberichterstattung
 requirements:  schnelles WLAN, Zugang zu Ranke.2, Computer oder Laptop, Anwendung auf Computer oder Laptop zum Abspielen von Videos

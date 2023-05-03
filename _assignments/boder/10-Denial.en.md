@@ -8,8 +8,7 @@ order: 10
 lang: en
 requirements:  strong WIFI, access to Ranke.2, computer or laptop,application on laptop or computer to view video,
 outcomes: 
-  - understanding the making and spread of news in the analogue and digital era
-  - understanding the concept of Holocaust denial 
+  - Understanding the making and spread of news in the analogue and digital era
 ---
 
 The statements of Iranian President Ahmadinejad reported in the press in 2005 were said to have played a decisive part in mobilising resources to publish all of Boder’s work online. Understandably, statements that question whether the Holocaust actually occurred trigger heated and emotional debates. Nevertheless, each statement that appears in the press, regardless of the medium, should be subjected to careful source criticism. This applies to historians as well as journalists. This assignment will help students identify the sources upon which the news about Ahmadinejad’s Holocaust denial was based, explore how this news spread and examine how it was represented by the international press.        

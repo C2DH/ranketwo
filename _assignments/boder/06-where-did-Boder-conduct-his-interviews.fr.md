@@ -8,7 +8,6 @@ order: 6
 lang: fr
 requirements: bonne connexion Wi-Fi, accès à Ranke.2, PC ou ordinateur portable, application installée sur le PC ou le portable permettant de visualiser des vidéos
 resultat d'apprendissage:
-  - En apprendre plus sur les circonstances dans les camps de personnes déplacées.
   - Apprendre à effectuer des recherches avec la reconnaissance d’image.
   - Apprendre à faire des recherches sur le web
 

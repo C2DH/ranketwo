@@ -8,9 +8,8 @@ order: 6
 lang: en
 requirements: strong WiFi, access to Ranke.2, computer or labtop,  application on labtop or computer to view video
 outcomes:
-  - learning about circumstances in the displacement camps
-  - learning to search with image recognition
-  - learning to conduct web research
+  - Learning to search with image recognition
+  - Learning to conduct web research
 ---
 
 As described in the clip, Boder conducted his interviews in difficult circumstances. It was hard for him to find a quiet place where he could be alone with his interviewees. This affected the quality of his recordings, and probably also the length of the interviews. To give you an idea of these circumstances you can watch a video created by Yad Vashem on the situation in displacement camps.

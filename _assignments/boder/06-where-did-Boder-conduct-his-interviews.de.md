@@ -8,7 +8,6 @@ order: 6
 lang: de
 requirements: schnelles WLAN, Zugang zu Ranke.2, Computer oder Laptop, Anwendung auf Computer oder Laptop zum Abspielen von Videos
 outcomes:
-  - Etwas über die Umstände in den Vertriebenenlagern erfahren
   - Das Recherchieren mit Bilderkennung erlernen
   - Die Durchführung von Web-Recherche erlernen   
 ---

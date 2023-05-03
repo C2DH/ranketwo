@@ -12,8 +12,7 @@ tags:
   - couverture médiatique
 requirements:  bonne connexion Wi-Fi, accès à Ranke.2, PC ou ordinateur portable, application installée sur le PC ou le portable permettant de visualiser des vidéos
 outcomes: 
-  - Comprendre les mécanismes de production et de diffusion de l'information à l'ère analogique et à l'ère numérique.
-  - Comprendre le concept de négationnisme. 
+  - Comprendre les mécanismes de production et de diffusion de l'information à l'ère analogique et à l'ère numérique. 
 ---
 
 Les déclarations du président iranien Mahmoud Ahmadinejad relayées par la presse en 2005 auraient joué un rôle décisif dans la mobilisation des ressources pour la publication en ligne de l'intégralité des travaux de David Boder. Naturellement, les propos qui mettent en doute la réalité de l'Holocauste déclenchent des débats houleux et empreints d'émotion. Néanmoins, chaque déclaration qui paraît dans la presse, quel que soit son support, doit faire l'objet d'une critique attentive des sources. Ce principe vaut aussi bien pour les historiens que pour les journalistes.  
