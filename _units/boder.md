@@ -8,14 +8,14 @@ tags:
   - media studies
   - oral history
 lang: en
+date: 2017-11-23
 unit_id: boder
 link: /u/boder/
 permalink: /u/boder/
 audience: general public, bachelor, master humanities
 components:
   small: animation
-  medium: interactive animation + 12 assignments, video animated lecture + 5 assignments
-  large: tutorial for hands on workshop
+  medium: interactive animation + 11 assignments, video animated lecture + 5 assignments
 mediatype: audiovisual, interviews
 order: 2
 cover:
