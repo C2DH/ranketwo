@@ -10,8 +10,6 @@ tags:
 lang: en
 ---
 
-A lesson about how the collection of interviews with concentration camp survivors created by psychologist David Boder in 1946 was turned into an interactive website in 2000 and 2009.
-
 This lesson is meant to teach students to apply source criticism to audio interviews that were recorded with now obsolete technology in 1946, before being digitised and published on the web in 2000 and 2009. The central point is whether the meaning and value of an interview changes when it is transferred from its original context of creation to a context of preservation and eventually digitisation.
 
 A short animation lasting 6 minutes 30 seconds tells the story of the various transformations of Boder’s collection of interviews. The topics that are briefly touched on in the short animation are discussed in more depth in a series of assignments. These are suitable either for working individually or for collaborative work for two or three students. The time required for each varies from 30 to 90 minutes.
