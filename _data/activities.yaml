@@ -1,4 +1,4 @@
-# activities from tadira
+# Digital research activities according to the TaDiRAH Taxonomy
 - id: conversion
   type: activity
   category: capture
@@ -102,3 +102,15 @@
     en: 'editing'
     fr: 'éditer'
     de: 'Bearbeiten'
+
+  - id: ocr
+  type: activity
+  category: capturing
+  subcategory: data-recognition
+  displayname: 
+    en: 'OCR'
+    fr: 'OCR'
+    de: 'OCR'
+  definition: 'Optical character recognition refers to computer recognition of visual text'
+
+
