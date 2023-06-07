@@ -220,34 +220,34 @@
 - id: heuristics
   type: 'research-phase'
   displayname:
-    en: 'heuristics'
-    fr: 'heuristiques'
-    de: 'Heuristiken'
+    en: 'search'
+    fr: 'rechercher'
+    de: ''
 
 - id: analysis
   type: 'research-phase'
   displayname:
-    en: 'analysis'
-    fr: 'analyse'
-    de: 'Analyse'
+    en: 'analyze'
+    fr: 'analyser'
+    de: ''
 
 - id: hermeneutics
   type: 'research-phase'
   displayname:
-    en: 'hermeneutics'
-    fr: 'hérméneutique'
-    de: 'Hermeneutik'
+    en: 'interpret'
+    fr: 'interpréter'
+    de: ''
 
 - id: dissemination
   type: 'research-phase'
   displayname:
-    en: 'dissemination'
-    fr: 'diffusion'
-    de: 'Verbreitung'
+    en: 'disseminate'
+    fr: 'disséminer'
+    de: ''
 
 - id: preservation
   type: 'research-phase'
   displayname:
-    en: 'preservation'
-    fr: 'préservation'
-    de: 'Erhaltung'
+    en: 'preserve'
+    fr: 'préserver'
+    de: ''
