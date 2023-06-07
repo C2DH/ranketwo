@@ -26,7 +26,7 @@ L’objectif de cette leçon est d’offrir une introduction à l'application de
 
 <!-- section-contents -->
 
-Une brève animation d'environ six minutes raconte d'abord les diverses transformations subies par la collection d’interviews de David Boder. Ensuite, les thèmes abordés sommairement dans la brève animation sont présentés plus en détail au gré d'une série d'exercices qui peuvent être réalisées soit individuellement soit par groupes de deux ou trois étudiants et dont la durée varie de 30 à 90 minutes. 
+Une brève animation d'environ six minutes raconte d'abord les diverses transformations subies par la collection d’interviews de David Boder. Ensuite, les thèmes abordés sommairement dans la brève animation sont présentés plus en détail au gré d'une série d'exercices qui peuvent être réalisées soit individuellement soit par groupes de deux ou trois étudiants et dont la durée varie de 30 à 60 minutes. 
 
 Si le besoin se ressent de prévoir quelques lectures préparatoires sur David Boder, nous recommandons les publications suivantes&#x202F;:
 
