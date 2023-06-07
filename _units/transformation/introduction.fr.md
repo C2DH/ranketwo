@@ -11,11 +11,6 @@ lang: fr
 
 ---
 
-This lesson is inspired by the concept of **transformation**. It deals with how technology has changed the way we communicate and transfer knowledge and how the 'digital' has created new encounters that seem real, but sometimes are able to deceive and seduce our senses.
+This lesson is inspired by the concept of transformation. It deals with how technology has changed the way we communicate and transfer knowledge and how the 'digital' has created new encounters that seem real, but sometimes are able to deceive and seduce our senses.
 
-<!-- more -->
-
-### What is the objective of this lesson?
-
-<!-- section-contents -->
-The objective of this lesson is to reflect on the concept of 'transformation'. Whether in the world of art or of technology, imagining a ‘transformation’ lies at the very heart of a creative process that can lead to a new invention. The introduction of digital technology offers us the possibility of transforming any entity into a malleable, transportable, and easy to decipher series of zero’s and one’s. But the appeal of such afforances should be considered carefully. Especially in a scholarly environment such as academic history, where source criticism is a basic requirement for building sound arguments, we need to know how credible and truthful sources are that are published online.
+A short animation presents how digital technology facilitates the processes of transformation. The idea that a person, animal, or object can change its appearance has inspired artists, scholars, and inventors for centuries. With the advent of digital technology the ease with which one can create, manipulate, and share content online has ‘democratized’ the ability to transform reality. The plethora of web applications that are at our disposal allows us to ‘transform’ or ‘enhance’ reality into a virtual experience in a split second. At the same time, this freedom on the web and accessibility of tools can have detrimental effects on the credibility of information, creating the risk of manipulating audiences by the spread of ‘fake news’. The following assignments deal with the advantages and disadvantages of digital cultures and highlight the timeless idea of transformation, from Greek mythology to computer algorithms. 
