@@ -12,19 +12,7 @@ lang: de
 
 Eine Lektion zu der Frage, wie die 1946 vom Psychologen David Boder zusammengestellte Sammlung von Interviews mit KZ-Überlebenden 2009 in eine interaktive Website verwandelt wurde.
 
-<!-- more -->
-
-### Was ist das Lernziel dieser Lektion?
-
-<!-- section-contents -->
-
 In diesem Modul sollen Studierende lernen, Quellenkritik auf Audiointerviews anzuwenden, die 1946 mit inzwischen veralteter Technologie aufgenommen wurden, bevor sie digitalisiert und 2000 und 2009 im Web veröffentlicht wurden. Quellenkritik beinhaltet Fragen zu Herkunft, Echtheit und dem informativen und artefaktischen Gehalt einer Quelle. Sofern dies auf digitale, online veröffentlichte Inhalte angewendet wird, sind die Änderungen zu analysieren, die die Inhalte im Rahmen der verschiedenen Transformationsprozesse erfahren haben. In dieser Lektion wird erörtert, ob sich Relevanz und Wert eines Interviews ändern, wenn es von seinem ursprünglichen Entstehungskontext in einen Kontext der Erhaltung und letztlichen Digitalisierung überführt wird.
-
-<!-- section -->
-
-### Wie ist der Inhalt aufgebaut?
-
-<!-- section-contents -->
 
 Einer kurze Animation mit einer Dauer von 6 Minuten und 30 Sekunden zeigt die verschiedenen Transformationen, die die Bodersche Interviewsammlung im Laufe der Zeit durchlief. 
 
