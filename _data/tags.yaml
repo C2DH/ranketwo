@@ -1,4 +1,4 @@
-# This file contains the main ids of sources historians (namely `mediatype`) use in the aim to use them as tags for the lessons of Ranke.2
+# This file contains the ids and display names in three languages: en, fr and de, of the main sources historians use in their research. The type of these metadata is specified as `mediatype`. The metadata field to use in the yaml heading is thus `mediatype`. These metadata are to be used as tags for the lessons of Ranke.2.
 
 - id: archive-document
   type: mediatype
@@ -217,37 +217,3 @@
     fr: 'code et script'
     de: 'Code und Skript'
 
-- id: heuristics
-  type: 'research-phase'
-  displayname:
-    en: 'search'
-    fr: 'rechercher'
-    de: ''
-
-- id: analysis
-  type: 'research-phase'
-  displayname:
-    en: 'analyze'
-    fr: 'analyser'
-    de: ''
-
-- id: hermeneutics
-  type: 'research-phase'
-  displayname:
-    en: 'interpret'
-    fr: 'interpréter'
-    de: ''
-
-- id: dissemination
-  type: 'research-phase'
-  displayname:
-    en: 'disseminate'
-    fr: 'disséminer'
-    de: ''
-
-- id: preservation
-  type: 'research-phase'
-  displayname:
-    en: 'preserve'
-    fr: 'préserver'
-    de: ''
