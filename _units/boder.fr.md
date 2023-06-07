@@ -8,14 +8,14 @@ tags:
   - études des médias
   - histoire orale
 lang: fr
+date: 2017-11-23
 unit_id: boder
 link: /u/boder/
 permalink: /fr/u/boder/
 audience: general public, bachelor, master humanities
 components:
   small: animation
-  medium: animation interactive + 12 tâches, lecture vidéo animée + 5 tâches
-  large: support pour l’atelier pratique
+  medium: animation interactive + 11 tâches, lecture vidéo animée + 5 tâches
 mediatype: audiovisual, interviews
 order: 2
 cover:
