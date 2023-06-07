@@ -5,32 +5,32 @@
   displayname:
     en: 'search'
     fr: 'rechercher'
-    de: ''
+    de: 'suchen'
 
 - id: analysis
   type: 'research-phase'
   displayname:
     en: 'analyze'
     fr: 'analyser'
-    de: ''
+    de: 'analysieren'
 
 - id: hermeneutics
   type: 'research-phase'
   displayname:
     en: 'interpret'
     fr: 'interpréter'
-    de: ''
+    de: 'interpretieren'
 
 - id: dissemination
   type: 'research-phase'
   displayname:
     en: 'disseminate'
     fr: 'disséminer'
-    de: ''
+    de: 'veröffentlichen'
 
 - id: preservation
   type: 'research-phase'
   displayname:
     en: 'preserve'
     fr: 'préserver'
-    de: ''
+    de: 'bewahren'
