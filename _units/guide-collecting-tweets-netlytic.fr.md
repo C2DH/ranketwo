@@ -4,8 +4,8 @@ layout-type: tutorial
 lang: en
 unit_id: guide-collecting-tweets-netlytic
 link: /u/guide-collecting-tweets-netlytic/
-permalink: /u/guide-collecting-tweets-netlytic/ 
-title: A guide to collecting tweets with Netlytic
+permalink: /fr/u/guide-collecting-tweets-netlytic/ 
+title: Collecter des tweets avec Netlytic
 requirements: [free text] 
 learning outcomes: [list of sentences]
 tags: 
@@ -19,6 +19,6 @@ research-phase: heuristics
 activity: web-scraping
 ---
 
-Learn how to easily collect social media data with Netlytic software.
+Apprenez à collecter facilement des données en provenance des réseaux sociaux numériques à l'aide de l'outil Netlytic.
 
 <!-- more -->
