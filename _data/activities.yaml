@@ -23,7 +23,7 @@
     fr: "L'analyse de réseaux est une méthode permettant d'étudier les relations d'acteurs (réels ou fictifs) ou d'autres entités au sein d'un réseau donné, qui peut prendre la forme d'un réseau en ligne, que ce soit un réseau social ou universitaire, d'un ensemble de correspondances ou d'un ouvrage littéraire. Le réseau qui en résulte est habituellement composé de sommets (les entités) et d'arêtes (les relations). [URL](https://github.com/dhtaxonomy/TaDiRAH/blob/master/fre/activites.md#analyse-de-r%C3%A9seaux)" 
     de: 'Netzwerkanalyse ist eine Methode zur Untersuchung von (realen oder fiktionalen) Beziehungen zwischen Akteuren oder anderen Entitäten eines gegebenen Netzwerks, das die Form eines sozialen, akademischen oder online-Netzwerks, einer Korrespondenz oder eines literarisches Werkes haben kann. Das resultierende Netzwerk besteht für gewöhnlich aus Knoten (Entitäten) und Kanten (Beziehungen). [URL](https://github.com/dhtaxonomy/TaDiRAH/blob/master/deu/aktivitaeten.md#netzwerkanalyse)'
 
-  - id: spatial-analysis
+- id: spatial-analysis
   type: activity
   category: analyzing
   displayname:
@@ -35,7 +35,7 @@
     fr: "L'analyse spatiale est la découverte dans les données de tendances ou de formes relatives à leurs aspects spatiaux ou géographiques. Elle peut conduire à une visualisation ou à une modélisation sous la forme de cartes. [URL](https://github.com/dhtaxonomy/TaDiRAH/blob/master/fre/activites.md#analyse-spatiale)"
     de: "Die Räumliche Analyse hat das Entdecken von Trends und Mustern in Daten zum Ziel, die räumliche oder geographische Aspekte betreffen. Sie kann Visualisierung oder Modellierung in Form von Kartierung zur Folge haben.[URL(https://github.com/dhtaxonomy/TaDiRAH/blob/master/deu/aktivitaeten.md#r%C3%A4umliche-analyse)]"
 
-  - id: machine-learning
+- id: machine-learning
   type: activity
   category: analyzing
   displayname: 
@@ -47,7 +47,7 @@
     fr:
     de:
 
-  - id: structural-analysis
+- id: structural-analysis
   type: activity
   category: analyzing
   displayname: 
@@ -60,161 +60,129 @@
     de: "Strukturanalyse betrifft die Analyse von Objekten auf der Ebene der Relationen struktureller Elemente eines kulturellen Artefakts (z.B. die Morphologie oder Syntax in der Linguistik). [URL](https://github.com/dhtaxonomy/TaDiRAH/blob/master/deu/aktivitaeten.md#strukturanalyse)" 
 
 
-  - id: data-visualization
+- id: data-visualization
   type: activity
   category: analyzing
   definition: 
     en: 'Creation and study of the visual representation of data [URI](https://vocabs.dariah.eu/tadirah/dataVisualization).'
     fr: 'Création et étude de la représentation visuelle de données.'
-    de: 'Erstellung und Untersuchung der visuellen Darstellung von Daten'
+    de: 'Erstellung und Untersuchung der visuellen Darstellung von Daten.'
   displayname: 
     en: 'data visualization'
     fr: 'visualisation de données'
     de: 'Datenvisualiserung'
 
-  - id: 
+- id: transcoding
   type: activity
   category: capturing
   displayname: 
-    en: ''
-    fr: ''
-    de: ''
+    en: 'transcoding'
+    fr: 'transcodage'
+    de: 'Transkodierung'
   definition: 
-  uri:    
+    en: "Direct digital-to-digital conversion of one encoding to another [URI](https://vocabs.dariah.eu/tadirah/transcoding)"
+    fr: "Le transcodage consiste à changer le format de codage d'un média. [URL](https://fr.wikipedia.org/wiki/Transcodage)"
+    de: "Umwandeln einer Audio- oder Video-Datei in ein anderes Audioformat oder Videoformat." 
 
-
-
-
-
-
-
-
-
-
-
-
-
-- id: conversion
+- id: ocr
   type: activity
-  category: capture
-  displayname:
-    en: 'Conversion refers to changing the file format of an object (e.g. converting a .wmv video to a .mov file as well as converting VHS into a digital format) without fundamentally changing the content or nature of the object. When conversion concerns metadata, it involves mapping one metadata schema to another. More fundamental “conversions”, such as converting a scanned page image to an editable text document, are better referred to using “DataRecognition”.'
-    fr: 'Conversion'
-    de: ''
+  category: capturing
+  displayname: 
+    en: 'optical character recognition (OCR)'
+    fr: 'reconnaissance optique de caractères (OCR)'
+    de: 'Texterkennung (OCR)'
+  definition: 
+    en: 'Optical character recognition refers to computer recognition of visual text [URI](https://vocabs.dariah.eu/tadirah/opticalCharacterRecognition)'
+    fr: "Procédés informatiques pour la traduction d'images de textes imprimés ou dactylographiés en fichiers de texte"
+    de: "Automatisierte Texterkennung bzw. automatische Schrifterkennung innerhalb von Bildern. [URL](https://de.wikipedia.org/wiki/Texterkennung)"
 
-- id: data-recognition
-  type: activity
-  category: capture
-  displayname:
-    en: 'Data Recognition, for example OCR, refers to the process of treating the immediate products of digital data capture (recording or imaging), such as digital facsimiles of texts or of sheet music, in a way to extract discrete, machine-readable units from them, such as plain text words, musical notes, or still or moving image elements (including, for example, face recognition).'
-    fr: 'Data Recognition'
-    de: ''
 
-- id: discovering
+- id: searching
   type: activity
-  category: capture
-  displayname:
-    en: 'Discovering is the activity of seeking out objects of research, research results, or other information which is useful in a given search perspective. Discovery includes very directed techniques such as advanced querying of databases, less directed techniques such as simple searching, and more serendipitous ones as browsing, which would include faceted browsing. (It is different from Information Retrieval, which is a structured way of extracting some piece of information or some specific subset of objects from a resource).'
-    fr: 'Discovering'
-    de: ''
+  category: capturing
+  displayname: 
+    en: 'search'
+    fr: 'rechercher'
+    de: 'suchen'
+  definition: 
+    en: "Search for target data from a set of data [URI](https://vocabs.dariah.eu/tadirah/searching)"
+    fr: ""
+    de: ""
 
-- id: gathering
+- id: scanning
   type: activity
-  category: capture
-  displayname:
-    en: 'Gathering refers to aggregating discovered resources, usually in some structured way (e.g. bringing together all papers that address a certain topic, as part of a literature review, or pulling all works by a particular author out of a digital collection for further analysis). Related techniques include web crawling and scraping.'
-    fr: 'Gathering'
-    de: ''
+  category: capturing
+  displayname:  
+    en: 'scanning'
+    fr: 'numérisation par scanner'
+    de: 'scannen'
+  definition: 
+    en: "Process of creating digital images with a scanner. [URI](https://vocabs.dariah.eu/tadirah/scanning)"
+    fr: "Procédé de création d'images numériques à l'aide d'un scanner"
+    de: "Erstellen von digitalen Bildern mit einem Scanner" 
 
-- id: imaging
+- id: web-scraping 
   type: activity
-  category: capture
-  displayname:
-    en: 'Imaging'
-    fr: 'Imagerie'
-    de: 'Bilderfassung'
+  category: capturing
+  displayname: 
+    en: 'web scraping'
+    fr: 'moissonnage du web (web scraping)'
+    de: 'Screen Scraping'
+  definition: 
+    en: "Activity of extracting data from websites. [URI](https://vocabs.dariah.eu/tadirah/webScraping)"
+    fr: "Extraction automatique du contenu d'un site web"
+    de: "Sammelbegriff für alle Verfahren zum Auslesen von Texten aus Computerbildschirmen"
 
-- id: recording
-  type: activity
-  category: capture
-  displayname:
-    en: 'Recording'
-    fr: 'Enregistrement'
-    de: 'Aufzeichen'
+- id: versioning
+  type: capturing
+  displayname: 
+    en: 'versioning'
+    fr: 'versionnage'
+    de: 'Versionierung'
+  definition:
+    en: "Versioning comprises the management of different but improved and optimized models, releases or parts of a product or work (e.g. document, websites or software) by archiving, referencing and documenting of the changes in these different versions. [URI](https://vocabs.dariah.eu/tadirah/versioning)"
+    fr: "Mécanisme qui consiste à conserver la version d'une entité logicielle quelconque, de façon à pouvoir la retrouver facilement, même après l'apparition et la mise en place de versions plus récentes. [URL](https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8361520/versionnage)"
+    de: ""
+#fr: “La gestion de versions consiste à gérer l’ensemble des versions d’un ou plusieurs fichiers (généralement en texte). [URL](https://fr.wikipedia.org/wiki/Gestion_de_versions)”
+# en: “version control is a class of systems responsible for managing changes to computer programs, documents, large web sites, or other collections of information. [URL](https://en.wikipedia.org/wiki/Version_control)”
+# de: “Eine Versionsverwaltung ist ein System, das zur Erfassung von Änderungen an Dokumenten oder Dateien verwendet wird. [URL](https://de.wikipedia.org/wiki/Versionsverwaltung)”
 
 - id: transcription
   type: activity
-  category: capture
+  category: capturing
   displayname:
     en: 'Transcription'
     fr: 'Transcription'
     de: 'Transkription'
 
-- id: designing
-  type: activity
-  category: creation
-  displayname:
-    en: 'designing'
-    fr: 'designer'
-    de: 'Design'
-
 - id: programming
   type: activity
-  category: creation
+  category: creating
   displayname:
     en: 'programming'
-    fr: 'programmer'
+    fr: 'programmation'
     de: 'Programmieren'
-
-- id: translation
-  type: activity
-  category: creation
-  displayname:
-    en: 'translation'
-    fr: 'traduction'
-    de: 'Übersetzen'
+  definition:
+    en: "Programming describes the process of creating executable code for a computer including scripts or application software. [URI](https://vocabs.dariah.eu/tadirah/programming)"
+    fr: "La programmation consiste à créer du code qu'un ordinateur peut exécuter, c'est-à-dire de scripts ou de logiciels. [URL](https://github.com/dhtaxonomy/TaDiRAH/blob/master/fre/activites.md#programmation)"
+    de: "Das Erstellen von Quellcode (in Form von kleineren Skripten bis hin zu umfangreichen Programmen), der von einem Computer ausgeführt werden kann. [URL](https://github.com/dhtaxonomy/TaDiRAH/blob/master/deu/aktivitaeten.md#programmieren)"
 
 - id: annotating
   type: activity
-  category: enrichment
+  category: enriching
   displayname:
     en: 'annotating'
     fr: 'annoter'
     de: 'Annotieren'
 
-- id: cleanup
+- id: modeling 
   type: activity
-  category: enrichment
-  displayname:
-    en: 'cleanup'
-    fr: 'nettoyage'
-    de: 'Bereinigen'
-
-- id: editing
-  type: activity
-  category: enrichment
-  displayname:
-    en: 'editing'
-    fr: 'éditer'
-    de: 'Bearbeiten'
-
-- id: ocr
-  type: activity
-  category: capturing
-    displayname: 
-    en: 'OCR'
-    fr: 'OCR'
-    de: 'OCR'
-  definition: 'Optical character recognition refers to computer recognition of visual text'
-  uri: 'https://vocabs.dariah.eu/tadirah/opticalCharacterRecognition'
-
-
-- id: 
-  type: activity
-  category: 
-    displayname: 
-    en: ''
-    fr: ''
-    de: ''
+  category: interpreting 
+  displayname: 
+    en: 'modeling'
+    fr: 'modélisation'
+    de: 'Modellieren'
   definition: 
- 
+    en: "Modeling refers to creating an abstract representation of a complex phenomenon, usually in a machine-readable way, possibly in an interactive way (i.e. it includes “simulation”). Models become machine-readable when modeling produces a schema that describes the elements and the structure of an object of inquiry in an explicit way. Further it refers to the activity of transforming or manipulating a digital object in such a way as to make it compatible with a previously constructed model or schema. [URI](https://vocabs.dariah.eu/tadirah/modeling)"
+    fr: "La modélisation est l'activité qui consiste à créer une représentation abstraite d'un phénomène complexe, ordinairement sous une forme lisible par les machines et éventuellement sous une forme interactive (elle comprend donc la simulation). Des modèles deviennent lisibles par les machines lorsque la modélisation produit un schéma qui décrit les éléments et la structure d'un objet d'enquête d'une façon explicite. Le terme peut aussi désigner l'activité qui consiste à transformer ou à manipuler un objet numérique de sorte à le rendre compatible avec un modèle ou un schéma construit antérieurement. [URL](https://github.com/dhtaxonomy/TaDiRAH/blob/master/fre/activites.md#mod%C3%A9lisation)"
+    de: "Modellieren ist die Aktivität des Schaffens einer abstrakten Repräsentation eines komplexen Phänomens, meist maschinen-lesbar, ggfs. aber auch auf interaktive Art (es umfasst z.B. die Simulation). Modelle werden maschinenlesbar, wenn die Modellierung ein Schema produziert, welches die Elemente und Struktur des Forschungsobjekts explizit beschreibt. Modellierung kann sich auch auf die Aktivität einer Transformation oder Veränderung eines digitalen Objekts beziehen, sofern es dazu dient, Kompatibilität zu einem zuvor geschaffenen Modell oder Schema zu erreichen. [URL](https://github.com/dhtaxonomy/TaDiRAH/blob/master/deu/aktivitaeten.md)"
