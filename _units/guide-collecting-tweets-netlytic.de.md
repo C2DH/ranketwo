@@ -4,7 +4,7 @@ layout-type: tutorial
 lang: en
 unit_id: guide-collecting-tweets-netlytic
 link: /u/guide-collecting-tweets-netlytic/
-permalink: /u/guide-collecting-tweets-netlytic/ 
+permalink: /de/u/guide-collecting-tweets-netlytic/ 
 title: A guide to collecting tweets with Netlytic
 requirements: [free text] 
 learning outcomes: [list of sentences]
