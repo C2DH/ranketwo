@@ -1,4 +1,99 @@
 # Digital research activities according to the TaDiRAH Taxonomy
+- id: content-analysis
+  type: activity
+  category: analyzing 
+  displayname: 
+    en: 'content analysis'
+    fr: 'analyse de contenu'
+    de: 'Inhaltsanalyse'
+  definition: 
+    en: 'Content analysis includes researching/studying aspects of objects relating to their meaning, such as identifying concepts or meaningful units. [URI](https://vocabs.dariah.eu/tadirah/analyzing)'
+    fr: "L'analyse de contenu est une méthode qui vise à analyser des aspects des objets numériques en rapport avec leur signification, par exemple en identifiant des concepts ou des unités signifiantes. [URL](https://github.com/dhtaxonomy/TaDiRAH/blob/master/fre/activites.md#analyse-de-contenu)"
+    de: 'Bei der Inhaltsanalyse handelt es sich um eine Methode, die das Ziel verfolgt, Aspekte Objekte im Hinblick auf ihre Bedeutung, z.B. das Identifizieren von Konzepten oder bedeutungstragender Einheiten, zu analysieren. [URI](https://github.com/dhtaxonomy/TaDiRAH/blob/master/deu/aktivitaeten.md#inhaltsanalyse)'
+
+- id: network-analysis
+  type: activity
+  category: analyzing
+  displayname:  
+    en: 'network analysis'
+    fr: 'analyse de réseaux'
+    de: 'Netzwerkanalyse'
+  definition: 
+    en: 'A method to study the relations of (real or fictional) actors or other entities in a mediated network, which can take the form of a social or academic online network, a set of correspondence, or a work of literature. The resulting network is made up of nodes (entities) and edges (relations). [URI](https://vocabs.dariah.eu/tadirah/networkAnalysis)'
+    fr: "L'analyse de réseaux est une méthode permettant d'étudier les relations d'acteurs (réels ou fictifs) ou d'autres entités au sein d'un réseau donné, qui peut prendre la forme d'un réseau en ligne, que ce soit un réseau social ou universitaire, d'un ensemble de correspondances ou d'un ouvrage littéraire. Le réseau qui en résulte est habituellement composé de sommets (les entités) et d'arêtes (les relations). [URL](https://github.com/dhtaxonomy/TaDiRAH/blob/master/fre/activites.md#analyse-de-r%C3%A9seaux)" 
+    de: 'Netzwerkanalyse ist eine Methode zur Untersuchung von (realen oder fiktionalen) Beziehungen zwischen Akteuren oder anderen Entitäten eines gegebenen Netzwerks, das die Form eines sozialen, akademischen oder online-Netzwerks, einer Korrespondenz oder eines literarisches Werkes haben kann. Das resultierende Netzwerk besteht für gewöhnlich aus Knoten (Entitäten) und Kanten (Beziehungen). [URL](https://github.com/dhtaxonomy/TaDiRAH/blob/master/deu/aktivitaeten.md#netzwerkanalyse)'
+
+  - id: spatial-analysis
+  type: activity
+  category: analyzing
+  displayname:
+    en: 'spatial analysis'
+    fr: 'analyse spatiale'
+    de: 'Räumliche Analyse'
+  definition: 
+    en: 'Spatial analysis refers to the discovery of trends or patterns in data pertaining to spatial or geographical aspects of the data. Spatial analysis may lead to visualization or modeling in the form of maps. [URI](https://vocabs.dariah.eu/tadirah/spatialAnalysis)'
+    fr: "L'analyse spatiale est la découverte dans les données de tendances ou de formes relatives à leurs aspects spatiaux ou géographiques. Elle peut conduire à une visualisation ou à une modélisation sous la forme de cartes. [URL](https://github.com/dhtaxonomy/TaDiRAH/blob/master/fre/activites.md#analyse-spatiale)"
+    de: "Die Räumliche Analyse hat das Entdecken von Trends und Mustern in Daten zum Ziel, die räumliche oder geographische Aspekte betreffen. Sie kann Visualisierung oder Modellierung in Form von Kartierung zur Folge haben.[URL(https://github.com/dhtaxonomy/TaDiRAH/blob/master/deu/aktivitaeten.md#r%C3%A4umliche-analyse)]"
+
+  - id: machine-learning
+  type: activity
+  category: analyzing
+  displayname: 
+    en: 'machine learning'
+    fr: 'apprentissage automatique'
+    de: 'Maschinelles Lernen'
+  definition: 
+    en: 'Branch of statistics and computer science, which studies algorithms and architectures that learn from observed facts [URI](https://vocabs.dariah.eu/tadirah/machineLearning)'
+    fr:
+    de:
+
+  - id: structural-analysis
+  type: activity
+  category: analyzing
+  displayname: 
+    en: 'structural analysis'
+    fr: 'analyse structurelle'
+    de: 'Strukturanalyse'
+  definition:
+    en: "Structural analysis involves analysis of dimensions of the language system on the level of the relations between these structural elements such as morphology or syntax. [URI](https://vocabs.dariah.eu/tadirah/structuralAnalysis)"
+    fr: "L'analyse structurelle consiste en l'analyse d'objets sur le plan des relations entre les éléments structurels d'un artéfact culturel (en linguistique, niveau de la morphologie ou de la syntaxe). [URL(https://github.com/dhtaxonomy/TaDiRAH/blob/master/fre/activites.md#analyse-structurelle)]"
+    de: "Strukturanalyse betrifft die Analyse von Objekten auf der Ebene der Relationen struktureller Elemente eines kulturellen Artefakts (z.B. die Morphologie oder Syntax in der Linguistik). [URL](https://github.com/dhtaxonomy/TaDiRAH/blob/master/deu/aktivitaeten.md#strukturanalyse)" 
+
+
+  - id: data-visualization
+  type: activity
+  category: analyzing
+  definition: 
+    en: 'Creation and study of the visual representation of data [URI](https://vocabs.dariah.eu/tadirah/dataVisualization).'
+    fr: 'Création et étude de la représentation visuelle de données.'
+    de: 'Erstellung und Untersuchung der visuellen Darstellung von Daten'
+  displayname: 
+    en: 'data visualization'
+    fr: 'visualisation de données'
+    de: 'Datenvisualiserung'
+
+  - id: 
+  type: activity
+  category: capturing
+  displayname: 
+    en: ''
+    fr: ''
+    de: ''
+  definition: 
+  uri:    
+
+
+
+
+
+
+
+
+
+
+
+
+
 - id: conversion
   type: activity
   category: capture
@@ -103,14 +198,23 @@
     fr: 'éditer'
     de: 'Bearbeiten'
 
-  - id: ocr
+- id: ocr
   type: activity
   category: capturing
-  subcategory: data-recognition
-  displayname: 
+    displayname: 
     en: 'OCR'
     fr: 'OCR'
     de: 'OCR'
   definition: 'Optical character recognition refers to computer recognition of visual text'
+  uri: 'https://vocabs.dariah.eu/tadirah/opticalCharacterRecognition'
 
 
+- id: 
+  type: activity
+  category: 
+    displayname: 
+    en: ''
+    fr: ''
+    de: ''
+  definition: 
+ 
