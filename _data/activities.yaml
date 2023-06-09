@@ -140,20 +140,24 @@
     fr: 'versionnage'
     de: 'Versionierung'
   definition:
-    en: "Versioning comprises the management of different but improved and optimized models, releases or parts of a product or work (e.g. document, websites or software) by archiving, referencing and documenting of the changes in these different versions. [URI](https://vocabs.dariah.eu/tadirah/versioning)"
-    fr: "Mécanisme qui consiste à conserver la version d'une entité logicielle quelconque, de façon à pouvoir la retrouver facilement, même après l'apparition et la mise en place de versions plus récentes. [URL](https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8361520/versionnage)"
-    de: ""
-#fr: “La gestion de versions consiste à gérer l’ensemble des versions d’un ou plusieurs fichiers (généralement en texte). [URL](https://fr.wikipedia.org/wiki/Gestion_de_versions)”
-# en: “version control is a class of systems responsible for managing changes to computer programs, documents, large web sites, or other collections of information. [URL](https://en.wikipedia.org/wiki/Version_control)”
-# de: “Eine Versionsverwaltung ist ein System, das zur Erfassung von Änderungen an Dokumenten oder Dateien verwendet wird. [URL](https://de.wikipedia.org/wiki/Versionsverwaltung)”
+    # en: "Versioning comprises the management of different but improved and optimized models, releases or parts of a product or work (e.g. document, websites or software) by archiving, referencing and documenting of the changes in these different versions. [URI](https://vocabs.dariah.eu/tadirah/versioning)"
+    en: "A class of systems responsible for managing changes to computer programs, documents, large web sites, or other collections of information. [URL](https://en.wikipedia.org/wiki/Version_control)"
+    #fr: "Mécanisme qui consiste à conserver la version d'une entité logicielle quelconque, de façon à pouvoir la retrouver facilement, même après l'apparition et la mise en place de versions plus récentes. [URL](https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8361520/versionnage)"
+    fr: "La gestion de versions consiste à gérer l’ensemble des versions d’un ou plusieurs fichiers (généralement en texte). [URL](https://fr.wikipedia.org/wiki/Gestion_de_versions)"
+    de: "Eine Versionsverwaltung ist ein System, das zur Erfassung von Änderungen an Dokumenten oder Dateien verwendet wird. [URL](https://de.wikipedia.org/wiki/Versionsverwaltung)"
 
-- id: transcription
+
+- id: transcribing
   type: activity
   category: capturing
   displayname:
     en: 'Transcription'
     fr: 'Transcription'
     de: 'Transkription'
+  definition: 
+    en: "Activity of creating a representation of a manuscript or of audio or video recordings. The representation is generally textual for the verbal aspects of recordings and structured for example by speech turns. It can also contain multimodal information like gestures or events and multimedia information like time synchronization and relation to media files. [URI](https://vocabs.dariah.eu/tadirah/transcribing)"
+    fr: "activité qui consiste à créer une représentation d'un manuscrit ou d'enregistrements audio ou vidéo. La représentation est en général textuelle pour saisir les aspects verbaux des enregistrements et structurée par exemple en tours de parole, mais elle peut également contenir des informations multimodales comme des gestes ou des événements et des informations multimédias comme la synchronisation ou les relations avec des fichiers d'autres médias. [URL](https://github.com/dhtaxonomy/TaDiRAH/blob/master/fre/activites.md#transcription)"
+    de: "Transkription bedeutet die vollständige schriftliche Erfassung eines Manuskripts oder einer Audio- bzw. Videoaufnahme. Die Repräsentation erfolgt in der Regel bei verbalen Aspekten von Aufnahmen textuell und strukturiert, z.B. in Form von Sprechakten. Sie kann jedoch auch multimodale Informationen wie Gesten oder Ereignisse und multimediale Informationen wie zeitliche Ebenen oder Relationen zu Mediadaten enthalten. [URL](https://github.com/dhtaxonomy/TaDiRAH/blob/master/deu/aktivitaeten.md#transkription)"
 
 - id: programming
   type: activity
