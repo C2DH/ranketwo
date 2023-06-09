@@ -14,7 +14,7 @@ author:
 - Hannah Smyth 
 date: 2022-11-17
 toc: on
-mediatype: web-social-media
+tag: web-social-media
 research-phase: heuristics
 activity: web-scraping
 ---
