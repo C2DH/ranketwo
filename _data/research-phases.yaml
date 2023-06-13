@@ -1,0 +1,36 @@
+# This file contains the ids and display names in three languages: en, fr and de, of the main research phases historians face in their research. The type of these metadata is specified as `research-phase`. The metadata field to use in the yaml heading is thus `research-phase`. These metadata are to be used to help classify the lessons of Ranke.2 and enhance search functions.
+
+- id: heuristics
+  type: 'research-phase'
+  displayname:
+    en: 'search'
+    fr: 'rechercher'
+    de: 'suchen'
+
+- id: analysis
+  type: 'research-phase'
+  displayname:
+    en: 'analyze'
+    fr: 'analyser'
+    de: 'analysieren'
+
+- id: hermeneutics
+  type: 'research-phase'
+  displayname:
+    en: 'interpret'
+    fr: 'interpréter'
+    de: 'interpretieren'
+
+- id: dissemination
+  type: 'research-phase'
+  displayname:
+    en: 'disseminate'
+    fr: 'disséminer'
+    de: 'veröffentlichen'
+
+- id: preservation
+  type: 'research-phase'
+  displayname:
+    en: 'preserve'
+    fr: 'préserver'
+    de: 'bewahren'
