@@ -1,6 +1,7 @@
 ---
 title: "Von der Archivierung zum „digital Turn“"
 layout: unit
+date: 2018-07-09
 toc: on
 tags:
   - digitization
