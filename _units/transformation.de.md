@@ -1,6 +1,7 @@
 ---
 title: "Transformation: Wie digitale Technologien neue Realitäten schaffen können"
 layout: unit
+date: 2017-12-12
 toc: on
 tags:
   - digitale Technologie
