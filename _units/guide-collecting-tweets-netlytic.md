@@ -18,7 +18,7 @@ mediatype: web-social-media
 research-phase: heuristics
 activity: web-scraping
 cover: 
-	url: /assets/images/guide-collecting-tweets-netlytic/guide-netlytic-avatar.jpg
+ url: /assets/images/guide-collecting-tweets-netlytic/guide-netlytic-avatar.jpg
 ---
 
 Learn how to easily collect social media data with Netlytic software.
