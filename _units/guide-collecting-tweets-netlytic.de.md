@@ -1,7 +1,7 @@
 ---
 layout: unit
 layout-type: tutorial
-lang: en
+lang: de
 unit_id: guide-collecting-tweets-netlytic
 link: /u/guide-collecting-tweets-netlytic/
 permalink: /de/u/guide-collecting-tweets-netlytic/ 
@@ -12,7 +12,7 @@ tags:
 author: 
 - Frédéric Clavert
 - Hannah Smyth 
-date: 2022-11-17
+date: 2023-06-13
 toc: on
 tag: web-social-media
 research-phase: heuristics
