@@ -1,6 +1,7 @@
 ---
 title: "Social Media and Historians"
 layout: unit
+date: 2021-04-27
 toc: on
 tags:
   - social media
