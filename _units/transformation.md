@@ -1,6 +1,7 @@
 ---
 title: Transformation; how the digital creates new realities
 layout: unit
+date: 2017-12-12
 toc: on
 tags:
   - digital technology

@@ -1,6 +1,7 @@
 ---
 title: "The Web as a historical source; what historians need to know"
 layout: unit
+date: 2021-01-25
 toc: on
 tags:
   - web technology

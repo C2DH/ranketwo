@@ -16,7 +16,7 @@ collections:
     permalink: /u/:path/
   assignments:
     output: true
-    permalink: /u/:path/
+    permalink: /a/:path/
   workshops:
     output: true
     permalink: /w/:slug/
@@ -38,3 +38,6 @@ forms:
     params:
       - name: use
         value: ranke2
+plugins:
+  - jekyll-datapage-generator
+  - jekyll-github-metadata

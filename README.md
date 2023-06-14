@@ -5,6 +5,22 @@ You can use the [editor on GitHub](https://github.com/C2DH/memorycord/edit/maste
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Installation
+
+Ranke.2 uses the docker image of [Jekyll 4.2](https://github.com/envygeeks/jekyll-docker/blob/master/README.md)
+
+Install and update gems:
+
+```bash
+  docker-compose run --rm bundle-install
+```
+
+then run the website locally
+
+```bash
+  docker-compose up
+```
+
 ### How to create a new page
 
 in pages, create the default md file, in English, e.g. `tutorials.md` then create one md file per language, e.g. 'tutorials.de.md' and 'tutorials.fr.md'. It's Jekyll default way to build up pages.
@@ -22,16 +38,13 @@ collection: tutorials
 ```
 
 ### Jekyll Cheatsheet
+
 Published by [@rstacruz](https://ricostacruz.com/), a clear insight on how jekyll works.
 https://devhints.io/jekyll
 
-
 ### Jekyll Themes
+
 This website uses the layout and styles from the Jekyll theme selected in the [repository settings](https://github.com/C2DH/ranketwo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-
-
-
 
 ### Markdown
 
@@ -41,7 +54,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
