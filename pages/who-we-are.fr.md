@@ -7,101 +7,76 @@ title: Qui sommes nous
 ---
 
 <!-- more -->
-## Leopold von Ranke revisited: Ranke.2
-
-The Ranke.2 teaching resource is the result of a project initiated by the Director of the C<sup>2</sup>DH , Andreas Fickers, with the generous support of the Rectorate at the University of Luxembourg. The aim of the project is to develop an open-source online teaching platform for [digital source criticism](http://ojs.viewjournal.eu/index.php/view/article/view/jethc004/4). Ranke.2 is particularly designed to reach out to [lecturers and students](https://www.science.lu/fr/youtube-en-tant-que-source/les-chances-les-risques-dune-historiographie-numerique) by offering teaching content that can be easily integrated into academic curricula, but it is also suitable for independent learners.
-
-### Meet our visiting scholar
-
-[card](ranke-clip)
 
 
+Ranke.2 est un projet du C<sup>2</sup>DH.
 
+## Équipe
+[Andreas Fickers](https://www.c2dh.uni.lu/people/andreas-fickers) - directeur du C²DH <br>  
+[Stefan Krebs](https://www.c2dh.uni.lu/people/stefan-krebs) - gestion et administration du projet <br> 
+[Sofia Papastamkou](https://www.c2dh.uni.lu/people/sofia-papastamkou) - coordination éditoriale et générale du projet <br>
+[Daniele Guido](https://www.c2dh.uni.lu/people/daniele-guido) - concept visuel et design, développement web <br>
+[Frédéric Reiss](https://www.c2dh.uni.lu/people/frederic-reiss) - assistance développement web -> <br> 
 
+### Équipe passée
 
-{: .extra-spacing}
-### Director
-Andreas Fickers - C<sup>2</sup>DH
+[Sean Takats](https://www.c2dh.uni.lu/people/sean-takats) - gestion et administration du projet (2020)
+[Gerben Zaagsma](https://www.c2dh.uni.lu/people/gerben-zaagsma) - gestion et administration du projet (2016-2020) <br> 
+[Stefania Scagliola](https://www.c2dh.uni.lu/people/stefania-scagliola) - coordination éditoriale et générale du projet (2016-2021) <br> 
+Jordan Ricker - coordination générale par intérim (2021) <br>   
+ 
+## Étudiant(e)s assistant(e)s
 
-### Management and administration
-Gerben Zaagsma - C<sup>2</sup>DH
+Alina Chaiko (2022) <br> 
+Jordan Ricker (2020-2021) <br> 
+Emmanuel Decker (2020-2021) <br> 
+Ilaria Comes (2020) <br> 
+Ioana Turdean (2019) <br> 
+Sidney Wiltgen (2018-2019) <br> 
+Katia Rocha (2018) <br>
+David Mechtel (2018) <br> 
+Thomas Woloszyn (2018) <br> 
+Davina Kronz (2018) <br> 
+Marvin Schieben (2018) <br> 
 
-### Concept and project coordination
-Stefania Scagliola - C<sup>2</sup>DH
+## Collaborateurs, collaboratrices 
 
-### Visual conceptual and web design
-Daniele Guido -  C<sup>2</sup>DH
+### Films animés
 
-### Web development
-Daniele Guido - C<sup>2</sup>DH  <br>
-Frederic Reis - C<sup>2</sup>DH
+#### All Things Moving 
+Cristina Garcia Martin - design et développement (2018-2021) <br> 
+Ioana Turla - design et développement (2021) <br> 
+En collaboration avec Stefania Scagliola - storyboards (2018-2021)
 
-### Moodle integration
-Shahed Parnian - University of Luxembourg
+#### Machteld van der Gaag voice radio 
+Machtel van der Gaag- narration (2021) <br>  
 
-### Animations
-Cristina Garcia Martin -  All Things Moving <br>
-Alexandre Germain - Media Centre University of Luxembourg <br>
-Emmanuelle Hingray -  Media Centre University of Luxembourg <br>
-Daniele Guido - C<sup>2</sup>DH
+#### Media Centre, University of Luxembourg
+Nicolas Donnerup - narration (2019) <br> 
+Alexandre Germain - son et enregistrement (2018-2019)<br>
 
-### Video lectures
-Eloise Adde -  Faculté des Lettres, des Sciences Humaines, des Arts et des Sciences de l’Education - University of Luxembourg<br>
-Lars Wieneke -  C<sup>2</sup>DH
+Arjan van Hessen - correction texte (2018)
 
-### Storyboards
-Stefania Scagliola - C<sup>2</sup>DH
+### Traductions
 
-### Voice overs
-Stefania Scagliola - C<sup>2</sup>DH  <br>
-Andreas Fickers - C<sup>2</sup>DH
+Les traductions des leçons vers les langues française et allemande ont été effectuées par Lexitech sauf indication contraire dans les métadonnées des leçons. <br>   
+Maria Cristina Piticco - (2018)<br> 
 
-### Text editing
-Gerben Zaagsma - C<sup>2</sup>DH  <br>
-Cristina Garcia Martin - All Things Moving <br>
-Andreas Fickers - C<sup>2</sup>DH  <br>
-Stefan Krebs - C<sup>2</sup>DH  <br>
-Lars Wieneke - C<sup>2</sup>DH  <br>
-Arjan van Hessen - University of Utrecht
+### Traductions des films animés
+Brigitte Melchior-Dolen (2018) <br> 
+Karin Priem (2018)
 
-### English proofreading and translation into French and German
-Sarah Cooper  - University of Luxembourg <br>
-Maria Cristina Piticco - University of Luxembourg <br>
-Andy O’Dwyer  - C<sup>2</sup>DH <br>
-Andreas Fickers - C<sup>2</sup>DH  <br>
-Brigitte Melchior-Dolenc - C<sup>2</sup>DH  <br>
-Karin Priem -C<sup>2</sup>DH
+### Corrections orthotypographiques 
+Sarah Cooper University of Luxembourg (2018) <br>
+Andy O'Dwyer (2018)
 
-### Recording and editing of music, sound and video
-Alexandre Germain - Media Centre University of Luxembourg
+## Remerciements 
 
-### Research
-Stefania Scagliola -  C<sup>2</sup>DH  <br>
-Sidney Wiltgen - student assistant
+C<sup>2</sup>DH people (2018-2021) <br> <br> 
+Cristoph Brüll, Sandra Camarda, Cécile Duval, Daniele Guido, Shohreh Haddadan, Tim van der Heijden, Stefan Krebs, Anita Lucchesi, Benoît Majerus, Ira Plein, Karin Priem, Martin Richard, Valérie Schafer, Kaarel Sikk, Fabio Spirinelli, Benjamin Zenner <br>
 
-### Copyright clearance
-Cecile Duval - C<sup>2</sup>DH
+FHSE people, 2018-2021 <br> <br> 
+Eloise Adde, Andrea Binsfeld, Sonja Kmec, Michel Margue <br>
 
-### Contributors to lessons
-Estelle Bunout - C<sup>2</sup>DH  <br>
-Marten Düring - C<sup>2</sup>DH  <br>
-Florentina Armaselu - C<sup>2</sup>DH   <br>
-Juliane Tatarinov - C<sup>2</sup>DH  <br>
-Max Kemman - C<sup>2</sup>DH
-
-### Review of teaching content
-Gerben Zaagsma - C<sup>2</sup>DH  <br>
-Guido Lessing - C<sup>2</sup>DH  <br>
-Marvin Schieben - student <br>
-Davina Kronz - student <br>
-Thomas Woloszyn - student <br>
-David Mechtel - student <br>
-Katia Rocha - student <br>
-Sidney Wiltgen - student assistant
-
-### Acknowledgments
-Sandra Camarda, Ira Plein, Martin Richard, Tim van der Heijden, Shohreh Haddadan, Anita Lucchesi, Valérie Schafer, Kaarel Sikk, Fabio Spirinelli, Benjamin Zenner, Karin Priem, Benoît Majerus, Cristophe Brull - C<sup>2</sup>DH  <br>
-Andrea Binsfeld, Sonja Kmec, Michel Margue, Eloise Adde - Faculté des Lettres, des Sciences Humaines, des Arts et des Sciences de l’Education<br>
-Ralph Pugh -  University Archivist & Adjunct Professor of History Illinois Institute of Technology  <br>
-Adam Strohm - Director University Archives and Special Collections <br>
-Paul V. Galvin Library - Illinois Institute of Technology  
+Illinois Institute of Technology/Paul V. Galvin Library people<br> <br>
+Ralph Pugh (University Archivist & Adjunct Professor of History) and Adam Strohm (Director University Archives and Special Collections) for having provided visual material and information for the lesson on the collection of interviews created by David Boder. 
