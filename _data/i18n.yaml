@@ -72,7 +72,7 @@ to-lesson:
 to-assignment:
   en: go to assignments
   fr: accèder aux exercices
-  de: Zu den Aufgaben
+  de: zu den Aufgaben
 
 # lesson elements - There are probably things we should keep and things we should let go. Did not touch at all 
 by: # Is this for authorship? 
@@ -95,7 +95,7 @@ workshop-content:
   en: about the workshop
 download answer template:
   en: download answer template
-  fr: download answer template
+  fr: télécharger le gabarit de réponses 
   de: download answer template
 assignment:
   en: complete these assignments
@@ -121,7 +121,7 @@ list of tags:
 list of lessons:
   en: "list of lessons"
   fr: "Liste des leçons"
-  de: 
+  de: "Liste der Lektionen"
 in lessons:
   en: "in lessons:"
   fr: "dans les leçons :"
@@ -174,7 +174,7 @@ who-we-are:
     title: Qui sommes-nous
     link: /fr/who-we-are/ 
   de:
-    title: 
+    title: Wer wir sind 
     link: /de/who-we-are/
 contact-us: 
   en: 
@@ -203,8 +203,8 @@ legal-notice:
   # de: Datenschutz
 issn: 
   en: 2799-2764
-  fr: 
-  de: 
+  fr: 2989-7084
+  de: 2989-7076
 
 # contact form labels
 full-name: 
