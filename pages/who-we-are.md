@@ -6,7 +6,7 @@ link: /who-we-are/
 title: Who we are
 ---
 
-<!-- NAME THIS PAGE: PEOPLE - shorter than who we are and follows the C²DH current website organisation???)
+<!-- NAME THIS PAGE: PEOPLE - shorter than who we are and follows the C²DH current website organisation???)-->
 
 
 # Who We Are 
