@@ -72,11 +72,11 @@ Andy O'Dwyer (2018)
 
 ## Remerciements 
 
-C<sup>2</sup>DH people (2018-2021) <br> <br> 
+C<sup>2</sup>DH (2018-2021) <br> <br> 
 Cristoph Brüll, Sandra Camarda, Cécile Duval, Daniele Guido, Shohreh Haddadan, Tim van der Heijden, Stefan Krebs, Anita Lucchesi, Benoît Majerus, Ira Plein, Karin Priem, Martin Richard, Valérie Schafer, Kaarel Sikk, Fabio Spirinelli, Benjamin Zenner <br>
 
-FHSE people, 2018-2021 <br> <br> 
+FHSE (2018-2021) <br> <br> 
 Eloise Adde, Andrea Binsfeld, Sonja Kmec, Michel Margue <br>
 
-Illinois Institute of Technology/Paul V. Galvin Library people<br> <br>
-Ralph Pugh (University Archivist & Adjunct Professor of History) and Adam Strohm (Director University Archives and Special Collections) for having provided visual material and information for the lesson on the collection of interviews created by David Boder. 
+Illinois Institute of Technology/Paul V. Galvin Library<br> <br>
+Ralph Pugh (University Archivist & Adjunct Professor of History) et Adam Strohm (Director University Archives and Special Collections) qui ont fourni des ressources visuelles et des informations mobilisées dans la leçon sur la collection des entretiens effectués par David Boder. 
