@@ -16,7 +16,7 @@ Ranke.2 is a project of the C<sup>2</sup>DH.
 [Sofia Papastamkou](https://www.c2dh.uni.lu/people/sofia-papastamkou) - project and editorial coordination <br>[Daniele Guido](https://www.c2dh.uni.lu/people/daniele-guido) - visual concept and design, web developement <br>
 [Frédéric Reiss](https://www.c2dh.uni.lu/people/frederic-reiss) - assistance web development 2018 -> <br> 
 
-### Core Team Alumni
+### Past Core Team
 
 [Sean Takats](https://www.c2dh.uni.lu/people/sean-takats) - project management and administration (2020)
 [Gerben Zaagsma](https://www.c2dh.uni.lu/people/gerben-zaagsma) - project management and administration (2016-2020) <br> 
