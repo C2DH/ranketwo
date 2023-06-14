@@ -74,7 +74,7 @@ Andy O'Dwyer (2018)
 C<sup>2</sup>DH people (2018-2021) <br> <br> 
 Cristoph Brüll, Sandra Camarda, Cécile Duval, Daniele Guido, Shohreh Haddadan, Tim van der Heijden, Stefan Krebs, Anita Lucchesi, Benoît Majerus, Ira Plein, Karin Priem, Martin Richard, Valérie Schafer, Kaarel Sikk, Fabio Spirinelli, Benjamin Zenner <br>
 
-FHSE people, 2018-2021 <br> <br> 
+FHSE people (2018-2021) <br> <br> 
 Eloise Adde, Andrea Binsfeld, Sonja Kmec, Michel Margue <br>
 
 Illinois Institute of Technology/Paul V. Galvin Library people<br> <br>
