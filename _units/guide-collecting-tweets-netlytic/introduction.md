@@ -21,12 +21,6 @@ Tweets can be considered today and, more importantly, in the future as primary s
 There are various ways to collect tweet-related data; we propose here to use [Netlytic](https://netlytic.org/), an online tool that does not require specific skills in programming. For this tutorial, you need to have both a [Twitter](https://www.twitter.com) and a Netlytic account.   
 
 
-<!-- 
-(optional) Highest level: CSV-related analyses.
-nodegoat
-VoyantTools 
--->
-
 ## Overview of Netlytic <a id="section1"></a>
 Netlytic is a cloud-based tool for collecting, visualising, and analyzing social media data from several platforms such as Twitter, YouTube, and Reddit. It has specifically been conceived for researchers who need not be familiar with a programming language or with the Twitter API. Netlytic offers three types of accounts (called "Tiers"), two of which are free of charge and offer the basic functionalities a user needs to create small projects. For larger projects, a third option is offered via subscription that allows users to create more and larger datasets. A free account is largely sufficient to follow this tutorial. 
 
