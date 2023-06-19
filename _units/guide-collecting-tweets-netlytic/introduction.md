@@ -11,7 +11,7 @@ The main learning goal of this tutorial is to enable historians and social scien
 
 <!-- section contents --> 
 
-## Overview <a id="section0"></a> 
+### Overview <a id="section0"></a> 
 The main learning goal of this tutorial is to enable historians and social scientists to gather Twitter data they can use as primary sources for research purposes or as teaching materials. We will first introduce the reader to the [Twitter application programming interface (API)](https://help.twitter.com/en/rules-and-policies/twitter-api) with particular attention to the limitations of the search API. We will then guide them through a first hashtag-based harvesting of tweets, for which we will use selected hashtags and provide examples of several that are relevant to historical memory. Finally, we will provide a basic analysis of the corpus of the collected tweets, by operating basic text mining operations and social network analysis.
 
 Text mining can be defined as the process to derive information from large corpora of texts through computational operations of diverse nature. As such, it offers a range of methods and techniques to analyze content as data. On the other hand, it may also be interesting to analyze the structure of a Twitter dataset through the prism of social network analysis. Social network analysis (SNA) is ["the process of investigating social structures through the use of networks and graph theory"](https://en.wikipedia.org/wiki/Social_network_analysis). It sees social structures in terms of nodes (actors) and edges (relationships and interactions) that connect nodes. Frequently used in digital humanities or digital history, text mining and SNA are two kinds of analysis that can be applied to tweet datasets in social sciences and humanities (SSH). For instance, though tweets contain (short) texts, analysing a dataset of thousands, hundreds of thousands, or millions of tweets will require the use of text mining as it is not possible to read the whole dataset closely. Furthermore, tweets and their numerous metadata contain many kinds of interactions that can serve as the basis for social network analyses.
@@ -21,12 +21,12 @@ Tweets can be considered today and, more importantly, in the future as primary s
 There are various ways to collect tweet-related data; we propose here to use [Netlytic](https://netlytic.org/), an online tool that does not require specific skills in programming. For this tutorial, you need to have both a [Twitter](https://www.twitter.com) and a Netlytic account.   
 
 
-## Overview of Netlytic <a id="section1"></a>
+### Overview of Netlytic <a id="section1"></a>
 Netlytic is a cloud-based tool for collecting, visualising, and analyzing social media data from several platforms such as Twitter, YouTube, and Reddit. It has specifically been conceived for researchers who need not be familiar with a programming language or with the Twitter API. Netlytic offers three types of accounts (called "Tiers"), two of which are free of charge and offer the basic functionalities a user needs to create small projects. For larger projects, a third option is offered via subscription that allows users to create more and larger datasets. A free account is largely sufficient to follow this tutorial. 
 
 Once you have an account, you can select the data to collect either using [hashtags](https://en.wikipedia.org/wiki/Hashtag) (#keyword) or simple keywords (not preceded by hashtags), or even replies/mentions (@username), and other custom-built filters. To collect the data, the current version of Netlytic uses the Twitter REST API v1.1. Once collected, the datasets are stored online by default, so users should consider whether this complies with their university's ethical guidelines for social media research. The number of tweets and datasets a user can store at any one time is limited. However, datasets can be downloaded as [CSV files](https://en.wikipedia.org/wiki/Comma-separated_values) for working offline with other programs and freeing up space for more data collection. After collecting the data, users can also carry out network analysis and basic text analysis. Furthermore, existing datasets can also be uploaded for analysis.
 
-## Setting the scene: what is the Twitter API and how does it work? <a id="section2"></a>
+### Setting the scene: what is the Twitter API and how does it work? <a id="section2"></a>
 
 An Application Programming Interface (API) is ["a way for two or more computer programs to communicate with each other](https://en.wikipedia.org/wiki/API). More precisely, it is an interface that allows one piece of software to offer a service to other pieces of software. An API is usually documented, so that developpers can implement it in their programs. The services accessible through an API can be of different natures. In the case of social media, like buttons from Facebook that you can see on many websites are using the Facebook’s API. In this lesson, we are more interested in another kind of service that can be accessible through an API: data and metadata.
 
@@ -42,7 +42,7 @@ In the "tweets and replies" group, there are several ways to search and collect 
 There are many limitations to the use of the standard search API. We have already mentioned the 7-day limit on searching historical tweets and the rate limits. We should also add that there is no guarantee of acquiring all matching tweets through the standard (free) API. Any tweets sent by private Twitter accounts will also not be included.
 
 
-## Your first harvest of tweets <a id="section3"></a>
+### Your first harvest of tweets <a id="section3"></a>
 
 After creating an account on Netlytic, once you are connected, please go to the "My account" bar in the main menu and link your Netlytic account to your Twitter account. Then click on the "Sign in with Twitter" button and follow the instructions. 
 This is a mandatory step. If you do not authorize your Netlytic account to access your Twitter account, you will not be able to collect any Twitter data.
@@ -70,7 +70,7 @@ Caution: the filters may not be perfect. For example, when you set the language 
 We will not use those filters, but depending on your research, they might be of great use. For instance, if you are studying the interactions between a museum and its audience, you might want to limit your query to tweets published by the museum’s accounts or the replies to those tweets (using one of the @mention filters). 
 
 
-### Choose your hashtag and build your dataset <a id="section3-1"></a>
+#### Choose your hashtag and build your dataset <a id="section3-1"></a>
 
 To build your dataset, you may want to study what is called a trending topic. Trending topics are theoretically a way to understand what people are discussing on Twitter, but the way they are defined has evolved and became more complex over the years, depending on the context: for instance, if you are consulting Twitter in the UK, you might see trending topics that are closely linked to this country. To find the most discussed issues, you can explore dedicated websites, such as [Trends Twitter](https://trendstwitter.com/), or the trending hashtags directly via Twitter’s interface. For example, you can go to Twitter, use the Explore tab of the menu to search for hashtags. Tweets that appear in the search results might contain other hashtags beyond your initial search: you can then follow the chain of hashtag links to collect the most relevant ones for your query. This is known as the ["snowballing" technique](https://en.wikipedia.org/wiki/Snowball_sampling). Of course, you may already have a defined object of interest and look for specific keywords independently of the trending topics. 
 
@@ -89,7 +89,7 @@ Some important points to understand to help you maximise your query:
 
 Congratulations! You now have your first Twitter dataset ready and can analyze it in various ways. To do this, click on "Next Step".
 
-### Text analysis <a id="section3-2"></a>
+#### Text analysis <a id="section3-2"></a>
 
 Text analysis is one of the basic operations of analysis you can apply to a corpus of tweets. Below we present how you can use the functionalities for text analysis offered by Netlytic. However, it is possible to export your data and analyze them with any method and tool that you prefer - we mention some at the end of this section.  
 
@@ -110,7 +110,7 @@ You may also visualize the dictionaries of your corpus as a "tree graph" - which
 
 You have learnt a lot of things, now let's take some time to reflect. Netlytic has allowed you to generate and explore a word cloud based on your corpus, but in what ways precisely did this help you to understand and analyze your data? How useful, or not, has this been for your research? To help you think through these questions, you can read this article that discusses the limits of [word clouds](https://towardsdatascience.com/word-clouds-are-lame-263d9cbc49b7). You can even try to use other tools and compare the visualizations that you get: [Voyant Tools](https://voyant-tools.org/) is one option, but you can browse the [Text Analysis Portal for Research (TAPOR)](http://tapor.ca/home) to pick your preferred tool. Note that using different tools may require you to do some data cleaning  - for instance, you might observe that Twitter handles are appearing in the word cloud and this is not of great interest - or special formating. [A quite comprehensive article on data cleaning can be found on Wikipedia](https://en.wikipedia.org/wiki/Data_cleansing). You can also discuss your experience with your colleagues or classmates or even a community of users. 
 
-### Network analysis <a id="section3-3"></a>
+#### Network analysis <a id="section3-3"></a>
 Network analysis involves a second kind of analytical operation that one can apply to a social media data corpus. If you are not familiar with this domain, [Marten Duering's lesson on data extraction and network visualization of historical sources](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources) offers a nice introduction for beginners. [Once you have your dataset](#section3-1), click on the "Network Analysis" tab and you will see several options for different types of what, in Netlytic, is called "ties". The ties represent interactions between Twitter accounts, which can be of different types: retweeting (quoting another account’s tweet with no modification), quoting (quoting another account’s tweet with a comment), mentioning (publishing a tweet with another account’s handle in it), replying (using the "reply" functionality: your tweet will then appear below the original tweet and start or continue a conversation). The Twitter accounts are the nodes of the network you wish to inspect and the ties of different types are the relationships that connect these nodes between them.  
 
 ![Network analysis tab in Netlytic](../../assets/images/guide-collecting-tweets-netlytic/guide-netlytic-9.png "Fig. 9 Network analysis with Netlytic"){:style="max-height:500px"}
@@ -130,7 +130,7 @@ How can network visualizations be useful for historians? There is a vast bibliog
 As in the previous type of analysis, you can download your network's data as well and do further analyses with [Gephi](https://gephi.org/) software or your preferred tool of social network analysis. To learn how to use Gephi, you can follow [Martin Grandjean's tutorial](http://www.martingrandjean.ch/gephi-introduction/). 
 
 
-## Reading suggestions <a id="section4"></a>
+### Reading suggestions <a id="section4"></a>
 
 For more case studies and tutorials using Netlytic see: https://netlytic.org/home/?page_id=11204 
 
