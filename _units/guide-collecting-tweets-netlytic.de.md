@@ -13,7 +13,7 @@ author:
 - Frédéric Clavert
 - Hannah Smyth 
 date: 2023-06-13
-toc: on
+toc: off
 tag: web-social-media
 research-phase: heuristics
 activity: web-scraping
