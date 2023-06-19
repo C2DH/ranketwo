@@ -1,133 +1,150 @@
 ---
 layout: default
 ---
-{% assign components = site.units| where: "parent", page.unit_id | where: "lang", page.lang | sort: 'type'  %}
-{% assign clips = components | where: "type", "clip" %}
-{% assign interactives = components | where: "type", "interactive" %}
-{% assign videolectures = components | where: "type", "videolecture" %}
-{% assign workshop = components | where: "type", "workshop" %}
-{% assign workshopContent = site.workshops | where: "unit", page.unit_id | where: "lang", page.lang | sort: 'order' %}
 
-{% assign introductions = components | where: "type", "introduction" %}
-
-{% assign assignments = site.assignments| where: "unit", page.unit_id | where: "layout", "assignment" | where: "lang", page.lang | sort: 'order'  %}
-
-{% unless documents %}
-  {% assign documents = site.empty_array %}
-{% endunless %}
-
-{% assign cover = page.cover.url %}
-{% include captures/cover_url %}
+{% assign components = site.units| where: "parent", page.unit_id | where:
+"lang", page.lang | sort: 'type' %} {% assign clips = components | where:
+"type", "clip" %} {% assign interactives = components | where: "type",
+"interactive" %} {% assign videolectures = components | where: "type",
+"videolecture" %} {% assign workshop = components | where: "type", "workshop" %}
+{% assign workshopContent = site.workshops | where: "unit", page.unit_id |
+where: "lang", page.lang | sort: 'order' %} {% assign introductions = components
+| where: "type", "introduction" %} {% assign assignments = site.assignments|
+where: "unit", page.unit_id | where: "layout", "assignment" | where: "lang",
+page.lang | sort: 'order' %} {% unless documents %} {% assign documents =
+site.empty_array %} {% endunless %} {% assign cover = page.cover.url %} {%
+include captures/cover_url %}
 <!--  unit id: {{page.unit_id}} -->
 
 <!-- main container -->
-<div class='wrapper' style='min-height: 46%';>
-  <div class='in-the-background' style='position:absolute; top:0; right:0; left:0; bottom:0; z-index:0'>
-    <div class="slide-background" {% if page.cover.url %} style='background-size:cover;background-image:url({{cover_url}})'{% endif %}></div>
-    <div class='slide' style="display:block; opacity:1">
+<div class="wrapper" style="min-height: 46%" ;>
+  <div
+    class="in-the-background"
+    style="position: absolute; top: 0; right: 0; left: 0; bottom: 0; z-index: 0"
+  >
+    <div
+      class="slide-background"
+      {%
+      if
+      page.cover.url
+      %}
+      style="background-size:cover;background-image:url({{cover_url}})"
+      {%
+      endif
+      %}
+    ></div>
+    <div class="slide" style="display: block; opacity: 1">
       <div class="overlay"></div>
       <div class="overlay-dotted"></div>
     </div>
   </div>
-  <div class='container'>
-    <div class='row'>
-      <div class='{% if page.toc %} col-sm-8 {% else %} col {% endif %}'>
-        <div class='page unit'>
+  <div class="container">
+    <div class="row">
+      <div class="{% if page.toc %} col-sm-8 {% else %} col {% endif %}">
+        <div class="page unit">
           <h1>{{page.title}}</h1>
           {% assign paragraphs = page.content | split: site.excerpt_separator %}
-          <div class='excerpt'>{{paragraphs[0] | markdownify}}
-
-          </div>
-          <a href="{{page.url}}/#c-assignments" class="btn btn-primary">
-           {% assign key='go to assignments' %}{% include t.html %}</a>
+          <div class="excerpt">{{paragraphs[0] | markdownify}}</div>
+          {% unless assignments.size == 0 %}
+          <a href="{{page.url}}/#c-assignments" class="btn btn-primary"></a>
+            {% assign key='go to assignments' %}{% include t.html %}</a
+          >
+          {% endunless %}
         </div>
       </div>
     </div>
   </div>
 </div>
-<div class='bt-glitch-2'></div>
-{% for component in introductions %}
-  {% include component.html %}
-{% endfor %}
-
-{% for component in clips %}
-  {% include component.html %}
-{% endfor %}
-
-{% for component in interactives %}
-  {% include component.html %}
-{% endfor %}
-
-{% for component in videolectures %}
-  {% include component.html %}
-{% endfor %}
-
-{% if assignments.size %}
-<a class='anchor' id='c-assignments'></a>
-<div class='component-wrapper assignments scrollspy  pb-5'>
-  <div class='lines'>
+<div class="bt-glitch-2"></div>
+{% for component in introductions %} {% include component.html %} {% endfor %}
+{% for component in clips %} {% include component.html %} {% endfor %} {% for
+component in interactives %} {% include component.html %} {% endfor %} {% for
+component in videolectures %} {% include component.html %} {% endfor %} {% if
+assignments.size %}
+<a class="anchor" id="c-assignments"></a>
+{% unless assignments.size == 0 %}
+<div class="component-wrapper assignments scrollspy pb-5">
+  <div class="lines">
     <div class="line left"></div>
     <div class="line right"></div>
-    <div class='type'>{% assign key = "assignment" %}{% include t.html %}<a class='component--size size-medium' href='{{ "about-lessons" | relative_url}}#medium--complete-one-or-more-assignments'>M</a></div>
-
+    <div class="type">
+      {% assign key = "assignment" %}{% include t.html %}<a
+        class="component--size size-medium"
+        href='{{ "about-lessons" | relative_url}}#medium--complete-one-or-more-assignments'
+        >M</a
+      >
+    </div>
   </div>
-  <div class='container'>
-    <div class='row'>
-      <div class='col-sm-4 ml-auto'>
-
-        <h3 class='assignments-title'><a class="component--size" href='{{ "about-lessons" | relative_url}}#medium--complete-one-or-more-assignments'>M</a>
-          {% assign key="assignments" %}{% include t.html %} ({{assignments.size}})</h3>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-4 ml-auto">
+        <h3 class="assignments-title">
+          <a
+            class="component--size"
+            href='{{ "about-lessons" | relative_url}}#medium--complete-one-or-more-assignments'
+            >M</a
+          >
+          {% assign key="assignments" %}{% include t.html %}
+          ({{assignments.size}})
+        </h3>
 
         {% if page.answertemplate %}
-          <a class='btn btn-primary' target='_blank' download href="{{page.answertemplate.url | relative_url}}">
-            {% assign key='download answer template' %} {% include t.html %}&darr;</a>
+        <a
+          class="btn btn-primary"
+          target="_blank"
+          download
+          href="{{page.answertemplate.url | relative_url}}"
+        >
+          {% assign key='download answer template' %} {% include t.html
+          %}&darr;</a
+        >
 
         {% endif %}
-        <hr>
+        <hr />
       </div>
     </div>
     <!-- one row per introduction; then one row per assignment section -->
-    {% for assignment in assignments %}
-      {% if assignment.documents %}
-        {% assign documents = documents | concat: assignment.documents %}
-      {% endif %}
-      {% assign idx = forloop.index | plus: 1 %}
-      {% assign briefings = assignment.content | split: site.excerpt_separator | last | split: site.briefing_separator %}
-      {% assign briefing_student = briefings | first %}
-      {% assign briefing_teacher = briefings | last %}
-      {% assign briefing_sections = briefing_student | split: site.section_separator %}
-
+    {% for assignment in assignments %} {% if assignment.documents %} {% assign
+    documents = documents | concat: assignment.documents %} {% endif %} {%
+    assign idx = forloop.index | plus: 1 %} {% assign briefings =
+    assignment.content | split: site.excerpt_separator | last | split:
+    site.briefing_separator %} {% assign briefing_student = briefings | first %}
+    {% assign briefing_teacher = briefings | last %} {% assign briefing_sections
+    = briefing_student | split: site.section_separator %}
 
     <!--  list of assignments. -->
 
-    <div class='row pt-4 mt-4'>
-
-      <div class='col-sm-8'>
+    <div class="row pt-4 mt-4">
+      <div class="col-sm-8">
         <a name="assignment-{{assignment.slug}}"></a>
 
         <!-- simple intro -->
         <div class="component assignments">
-
           <section>
-
-          <h3 class='mb-3'>
-            <strong>{{assignment.order}} {% assign key="out of" %} {% include t.html %} {{assignments.size}} </strong>
-            &mdash;
-            {{assignment.title}}
-            <a class="anchor" href="{{ this.permalink }}#assignment-{{assignment.slug}}">¶</a>
-          </h3>
-          {% if assignment.authors %}
-            {% assign authors_size = assignment.authors | size %}
-          <div class='authors mb-2'>
-            <em>{% assign key="in collaboration with" %} {% include t.html %}</em>
-            {% for author_slug in assignment.authors %}
-              {% include author.html %}
-            {% endfor %}
-
-          </div>
-          {% endif %}
-          <blockquote>{{ assignment.excerpt | markdownify}}</blockquote>
-
+            <h3 class="mb-3">
+              <strong
+                >{{assignment.order}} {% assign key="out of" %} {% include
+                t.html %} {{assignments.size}}
+              </strong>
+              &mdash; {{assignment.title}}
+              <a
+                class="anchor"
+                href="{{ this.permalink }}#assignment-{{assignment.slug}}"
+                >¶</a
+              >
+            </h3>
+            {% if assignment.authors %} {% assign authors_size =
+            assignment.authors | size %}
+            <div class="authors mb-2">
+              <em
+                >{% assign key="in collaboration with" %} {% include t.html
+                %}</em
+              >
+              {% for author_slug in assignment.authors %} {% include author.html
+              %} {% endfor %}
+            </div>
+            {% endif %}
+            <blockquote>{{ assignment.excerpt | markdownify}}</blockquote>
 
             <!-- <aside><b>assignment #{{assignment.order}}/{{assignments.size}}</b><br>{{assignment.duration}}
               {% if assignment.cover %}
@@ -136,65 +153,53 @@ layout: default
 
               {% endif %}
             </aside> -->
-
           </section>
-          <div class='section--line'></div>
-          {% for section in briefing_sections %}
-            {% include section.html %}
-          {% endfor %}
-
+          <div class="section--line"></div>
+          {% for section in briefing_sections %} {% include section.html %} {%
+          endfor %}
         </div>
       </div>
-      <div class='col-sm-4'>
-
+      <div class="col-sm-4">
         <!-- <h3>{% assign key="requirements"%}{% include t.html %}</h3>
         {{ assignment.requirements | markdownify }} -->
         {% if assignment.outcomes %}
         <div class="pl-4 pt-2 pb-2 briefing">
           <h3>{% assign key="learning outcomes"%}{% include t.html %}</h3>
           <ul>
-          {% for outcome in assignment.outcomes %}
-            <li>{{ outcome | markdownify | replace: '<p>' | replace: '</p>' }}</li>
-          {% endfor %}
+            {% for outcome in assignment.outcomes %}
+            <li>
+              {{ outcome | markdownify | replace: '
+              <p>' | replace: '</p>
+              ' }}
+            </li>
+            {% endfor %}
           </ul>
         </div>
-        {% endif %}
-        {% if briefing_teacher %}
-        <div class='pl-4 pt-2 briefing'>
+        {% endif %} {% if briefing_teacher %}
+        <div class="pl-4 pt-2 briefing">
           {{ briefing_teacher | markdownify}}
         </div>
         {% endif %}
       </div>
     </div>
 
-
     <!-- end of row -->
     {% endfor %}
   </div>
 </div>
-
-{% endif %}
-
-{% for component in workshop %}
-  {% include component.html %}
-{% endfor %}
-
-{% for component in workshopContent %}
-  {% include component.html %}
-{% endfor %}
-
-{% assign namespace = 'unit' %}
-{% include scripts/enrich.html %}
-
-
-{% assign toc = introductions | concat: clips | concat: interactives | concat: videolectures %}
+{% endunless %}
+{% endif %} {% for component in workshop %} {% include component.html %} {%
+endfor %} {% for component in workshopContent %} {% include component.html %} {%
+endfor %} {% assign namespace = 'unit' %} {% include scripts/enrich.html %} {%
+assign toc = introductions | concat: clips | concat: interactives | concat:
+videolectures %}
 <!-- table of contents contaier -->
 {% if page.toc %}
-<div id='table-of-contents-wrapper'>
-  <div class='container' >
-    <div class='row'>
-      <div class='col-sm-4 ml-auto'>
-        <div class='section collapsible p-2'>
+<div id="table-of-contents-wrapper">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-4 ml-auto">
+        <div class="section collapsible p-2">
           <div class="section--toggler collapsible-toggler active">
             <div class="section--title p-2">
               <h4>{% assign key="table of contents"%} {% include t.html %}</h4>
@@ -205,42 +210,48 @@ layout: default
           </div>
           <div class="section--contents collapsible-content active manual">
             <!-- ToC -->
-            <ul class='px-2'>
-            {% for component in toc %}
+            <ul class="px-2">
+              {% for component in toc %}
               <li>
-                <div class='lines'>
+                <div class="lines">
                   <div class="group">
-                  <div class="line left"></div>
-                  <div class="line right"></div>
+                    <div class="line left"></div>
+                    <div class="line right"></div>
                   </div>
                 </div>
-                <a href='#c-{{component.slug}}'>{% if component.type == "assignment"%}
-                  {% assign key="assignment n." %}<h5>&mdash; {% include t.html %}#{{component.order}}</h5>
-                  {% endif %}<span>{{component.title}}</span></a>
+                <a href="#c-{{component.slug}}"
+                  >{% if component.type == "assignment"%} {% assign
+                  key="assignment n." %}
+                  <h5>&mdash; {% include t.html %}#{{component.order}}</h5>
+                  {% endif %}<span>{{component.title}}</span></a
+                >
               </li>
-            {% endfor %}
-            {% if assignments.size %}
+              {% endfor %} {% if assignments.size %}
               <li>
-                <div class='lines'>
+                <div class="lines">
                   <div class="group">
-                  <div class="line left"></div>
-                  <div class="line right"></div>
+                    <div class="line left"></div>
+                    <div class="line right"></div>
                   </div>
                 </div>
-                <a href='#c-assignments'>{% assign key="assignments" %}{% include t.html %} ({{assignments.size}}) / M</a>
+                <a href="#c-assignments"
+                  >{% assign key="assignments" %}{% include t.html %}
+                  ({{assignments.size}}) / M</a
+                >
               </li>
-            {% endif %}
-            {% for component in workshop %}
+              {% endif %} {% for component in workshop %}
               <li>
-                <div class='lines'>
+                <div class="lines">
                   <div class="group">
-                  <div class="line left"></div>
-                  <div class="line right"></div>
+                    <div class="line left"></div>
+                    <div class="line right"></div>
                   </div>
                 </div>
-                <a href='#c-{{component.slug}}'><span>{{component.title}} / {{ component.size }}</span></a>
+                <a href="#c-{{component.slug}}"
+                  ><span>{{component.title}} / {{ component.size }}</span></a
+                >
               </li>
-            {% endfor %}
+              {% endfor %}
             </ul>
           </div>
         </div>
@@ -251,62 +262,44 @@ layout: default
 {% endif %}
 
 <script>
-window.addEventListener('DOMContentLoaded', function() {
-  // all collapsible
-  var d = [];
-  var collapsibles = d3.selectAll('.collapsible-toggler').each(function(el) {
-    var t = d3.select(this);
-    if(t.classed('active')) {
-      var content = d3.select(this.nextElementSibling);
+  window.addEventListener('DOMContentLoaded', function () {
+    // all collapsible
+    var d = []
+    var collapsibles = d3
+      .selectAll('.collapsible-toggler')
+      .each(function (el) {
+        var t = d3.select(this)
+        if (t.classed('active')) {
+          var content = d3.select(this.nextElementSibling)
 
-      if(window.innerWidth < 768){
-        t.classed('active', false);
-        content
-          .classed('active', false)
-          .style('height', '0px');
-      } else {
-        var h = content.node().scrollHeight;
-        content
-          .style('height', h + 'px');
-      }
-    }
-  }).on('click', function() {
-    var content = d3.select(this.nextElementSibling);
-    var t = d3.select(this);
+          if (window.innerWidth < 768) {
+            t.classed('active', false)
+            content.classed('active', false).style('height', '0px')
+          } else {
+            var h = content.node().scrollHeight
+            content.style('height', h + 'px')
+          }
+        }
+      })
+      .on('click', function () {
+        var content = d3.select(this.nextElementSibling)
+        var t = d3.select(this)
 
-    t.classed("active", !t.classed("active"));
+        t.classed('active', !t.classed('active'))
 
+        if (content.classed('active')) {
+          content.interrupt().style('height', 0).classed('active', false)
 
-    if(content.classed('active')) {
+          content.transition().delay(2000).style('display', 'none')
+        } else {
+          content.interrupt().style('height', 0).style('display', 'block')
 
-      content
-        .interrupt()
-        .style('height', 0)
-        .classed('active', false);
+          var h = content.node().scrollHeight
 
-      content
-        .transition()
-        .delay(2000)
-        .style('display', 'none');
+          console.log('.collapsible-toggler@click, content height:', h)
 
-    } else {
-      content
-        .interrupt()
-        .style('height', 0)
-        .style('display', 'block');
-
-      var h = content.node().scrollHeight;
-
-      console.log('.collapsible-toggler@click, content height:', h);
-
-      content
-        .classed('active', true)
-        .style('height', h+'px');
-    }
-  });
-
-
-
-
-});
+          content.classed('active', true).style('height', h + 'px')
+        }
+      })
+  })
 </script>
