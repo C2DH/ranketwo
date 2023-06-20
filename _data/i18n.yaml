@@ -171,25 +171,14 @@ Who we are:
   de: Wer wir sind 
     
 Contact us: 
-  en: 
-    title: Contact us
-    link: /contact-us
-  fr: 
-    title: Contactez-nous
-    link: /fr/contact-us
-  de: 
-    title: Kontaktieren Sie uns
-    link: /de/contact-us
-legal-notice: 
-  en: 
-    title: Legal notice
-    link: /legal-notice
-  fr: 
-    title: Mentions légales
-    link: /fr/legal-notice
-  de: 
-    title: Impressum
-    link: /de/legal-notice
+  en: Contact us
+  fr: Contactez-nous
+  de: Kontaktieren Sie uns
+  
+Legal notice: 
+  en: Legal notice
+  fr: Mentions légales
+  de: Impressum
   # Ci-dessous, en commentaire, je propose une page séparée pour la protection des données pour alléger celle de Legal notice car trop longue
   # data-protection:
   # en: Data protection
