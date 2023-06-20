@@ -64,12 +64,11 @@ menu-lessons: # replaces: Go to lessons:
 
 # lesson navigation
 # This lists the buttons that lead to lessons from the home page and the lessons page; and to assignments from the page of each lesson 
-to-lesson:
-  en: 
-    title: go to lesson
-    fr: accéder à la leçon
-    de: zur Lektion  
-to-assignment:
+go-to-lesson:
+  en: go to lesson
+  fr: accéder à la leçon
+  de: zur Lektion  
+go-to-assignment:
   en: go to assignments
   fr: accèder aux exercices
   de: zu den Aufgaben

@@ -9,12 +9,12 @@ layout: default
 
     <form action='{{site.forms.contact-us.url}}' method='POST'>
       <div class="form-group">
-        <label for="form-fullname">{% assign key="full name" %}{% include t.html %}</label>
+        <label for="form-fullname">{% assign key="full-name" %}{% include t.html %}</label>
         <input type="text" class="form-control" id="form-fullname" name='fullname' aria-describedby="fullnameHelp" placeholder="">
         
       </div>
       <div class="form-group">
-        <label for="form-email">{% assign key="email address" %}{% include t.html %}</label>
+        <label for="form-email">{% assign key="email-address" %}{% include t.html %}</label>
         <input type="email" class="form-control" id="form-email" name='email' aria-describedby="emailHelp" placeholder="Enter email">
         <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
       </div>
