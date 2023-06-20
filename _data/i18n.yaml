@@ -166,17 +166,12 @@ transformation:
 
 
 # site footer
-who-we-are: 
-  en:
-    title: Who we are
-    link: /who-we-are/  
-  fr:
-    title: Qui sommes-nous
-    link: /fr/who-we-are/ 
-  de:
-    title: Wer wir sind 
-    link: /de/who-we-are/
-contact-us: 
+Who we are: 
+  en: Who we are
+  fr: Qui sommes-nous
+  de: Wer wir sind 
+    
+Contact us: 
   en: 
     title: Contact us
     link: /contact-us
