@@ -9,58 +9,31 @@ site.headline:
    fr: Critique des sources à l'ère digitale
    de: Quellenkritik im digitaler Zeitalter
 
-menu-home: #replaces Home
-  en: 
-    title: Home
-    link: /
-  fr: 
-    title: Accueil
-    link: /fr
-  de: 
-    title: Startseite
-    link: /de
-menu-define-digital-source-criticism: # Replaces Digital source criticism. This is a subcategory of menu about like the two that follow about the lessons and about the platform
-  en: 
-    title: Digital source criticism
-    link: /define-dsc/
-  fr: 
-    title: Critique des sources numériques
-    link: /fr/define-dsc/
-  de: 
-    title: Kritik der digitalen Quellen
-    link: /de/define-dsc/
-menu-about-lessons: # replaces About the lessons
-  en: 
-    title: How are the lessons structured?
-    link: /about-lessons/
-  fr: 
-    title: À propos des leçons
-    link: /fr/about-lessons/
-  de: 
-    title: Über die Lektionen
-    link: /de/about-lessons/
-menu-about-platform: # replaces About the platform
-  en: 
-    title: What are our learning objectives?
-    link: /about-platform/
-  fr: 
-    title: À propos de la plateforme
-    link: /fr/about-platform/
-  de: 
-    title: Über die Plattform
-    link: /de/about-platform/
+Home:
+  en: Home
+  fr: Accueil
+  de: Startseite
 
-menu-lessons: # replaces: Go to lessons:
+Digital source criticism: #This is a subcategory of the about menu like the two that follow about the lessons and about the platform
+  en: Digital source criticism
+  fr: Critique des sources numériques
+  de: Kritik der digitalen Quellen
+    
+About the lessons:
+  en: How are the lessons structured?
+  fr: À propos des leçons
+  de: Über die Lektionen
+
+About the platform:
+  en: What are our learning objectives?
+  fr: À propos de la plateforme
+  de: Über die Plattform
+
+Go to lessons:
 # Wonder if for FR and DE titles we can only keep Leçons and Lectionen - I wonder if the entry initially covered both the menu and the button "go to lesson"
-  en: 
-    title: Lessons
-    link: /lessons
-  fr: 
-    title: Accéder aux leçons
-    link: /fr/lessons
-  de: 
-    title: Gehen sie zu den Lektionen
-    link: /de/lessons
+  en: Go to lessons
+  fr: Accéder aux leçons
+  de: Gehen sie zu den Lektionen
 
 # lesson navigation
 # This lists the buttons that lead to lessons from the home page and the lessons page; and to assignments from the page of each lesson 
@@ -174,13 +147,13 @@ Contact us:
   en: Contact us
   fr: Contactez-nous
   de: Kontaktieren Sie uns
-  
+
 Legal notice: 
   en: Legal notice
   fr: Mentions légales
   de: Impressum
   # Ci-dessous, en commentaire, je propose une page séparée pour la protection des données pour alléger celle de Legal notice car trop longue
-  # data-protection:
+  # Data protection:
   # en: Data protection
   # fr: Protection des données
   # de: Datenschutz
