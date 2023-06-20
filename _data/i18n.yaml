@@ -207,7 +207,7 @@ full-name:
   fr: nom et prénom
   de: vollständiger Name
 # ci-dessous pour email: attention, il y a plus haut dans le fichier e-mail 
-email: 
+email-address: 
   en: email
   fr: courriel
   de: E-Mail  
