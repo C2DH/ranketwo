@@ -42,15 +42,15 @@ Marvin Schieben (2018) <br>
 
 ### Films animés
 
-**All Things Moving** 
+**All Things Moving** <br> 
 Cristina Garcia Martin - design and development (2018-2021) <br> 
 Ioana Turla - design and development (2021) <br> 
 In collaboration with Stefania Scagliola - storyboards (2018-2021)
 
-**Machteld van der Gaag voice radio** 
+**Machteld van der Gaag voice radio** <br> 
 Machteld van der Gaag- voice over (2021) <br>  
 
-**Media Centre, University of Luxembourg**
+**Media Centre, University of Luxembourg** <br>
 Nicolas Donnerup - voice over (2019) <br> 
 Alexandre Germain - sound, video recording (2018-2019)<br>
 
