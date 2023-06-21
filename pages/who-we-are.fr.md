@@ -20,7 +20,7 @@ Ranke.2 est un projet du C<sup>2</sup>DH.
 
 ### Équipe passée
 
-[Sean Takats](https://www.c2dh.uni.lu/people/sean-takats) - gestion et administration du projet (2020)
+[Sean Takats](https://www.c2dh.uni.lu/people/sean-takats) - gestion et administration du projet (2020) <br>
 [Gerben Zaagsma](https://www.c2dh.uni.lu/people/gerben-zaagsma) - gestion et administration du projet (2016-2020) <br> 
 [Stefania Scagliola](https://www.c2dh.uni.lu/people/stefania-scagliola) - coordination éditoriale et générale du projet (2016-2021) <br> 
 Jordan Ricker - coordination générale par intérim (2021) <br>   
