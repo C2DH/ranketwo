@@ -9,12 +9,15 @@ title: A guide to collecting tweets with Netlytic
 requirements: [free text]
 learning outcomes: [list of sentences]
 tags:
-author:
+authors:
   - frederic-clavert
   - hannah-smyth
-date: 2023-06-13
+editors:
+  - sofia-papastamkou
+publication_date: 2023-06-13
 toc: off
-mediatype: web-social-media
+mediatypes:
+  - web-social-media
 research-phase: heuristics
 activity: web-scraping
 cover:
