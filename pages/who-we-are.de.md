@@ -10,18 +10,21 @@ title: Wer wir sind
 Ranke.2 is a project of the C<sup>2</sup>DH.
 
 ## Core Team
+
 [Andreas Fickers](https://www.c2dh.uni.lu/people/andreas-fickers) - director of the C²DH <br>  
 [Stefan Krebs](https://www.c2dh.uni.lu/people/stefan-krebs) - project management and administration <br> 
 [Sofia Papastamkou](https://www.c2dh.uni.lu/people/sofia-papastamkou) - project and editorial coordination <br>
 [Daniele Guido](https://www.c2dh.uni.lu/people/daniele-guido) - visual concept and design, web developement <br>
 [Frédéric Reiss](https://www.c2dh.uni.lu/people/frederic-reiss) - assistance web development -> <br> 
 
+
 ### Past Core Team
 
 [Sean Takats](https://www.c2dh.uni.lu/people/sean-takats) - project management and administration (2020) <br>
 [Gerben Zaagsma](https://www.c2dh.uni.lu/people/gerben-zaagsma) - project management and administration (2016-2020) <br> 
-[Stefania Scagliola](https://www.c2dh.uni.lu/people/stefania-scagliola) - project and editorial coordination (2016-2021) <br> 
-Jordan Ricker - interim project coordination (2021) <br>   
+[Stefania Scagliola](https://www.c2dh.uni.lu/people/stefania-scagliola) - project concept, project and editorial coordination (2016-2021) <br> 
+Jordan Ricker - interim project coordination (2021) <br> 
+
  
 ## Student Assistants
 
@@ -37,11 +40,10 @@ Thomas Woloszyn (2018) <br>
 Davina Kronz (2018) <br> 
 Marvin Schieben (2018) <br> 
 
-## Collaborators 
 
 ### Video Animations
 
-**All Things Moving** <br>
+**All Things Moving** <br> 
 Cristina Garcia Martin - design and development (2018-2021) <br> 
 Ioana Turla - design and development (2021) <br> 
 In collaboration with Stefania Scagliola - storyboards (2018-2021)
@@ -53,20 +55,22 @@ Machteld van der Gaag- voice over (2021) <br>
 Nicolas Donnerup - voice over (2019) <br> 
 Alexandre Germain - sound, video recording (2018-2019)<br>
 
-Arjan van Hessen - text editing for animations (2018)
+Arjan van Hessen - text editing for animations (2018)<br>
+
 
 ### Translations
 
-All translations of lessons from English to French and to German are from Lexitech unless otherwise stated in the lessons metadata. <br>   
-Maria Cristina Piticco - (2018)<br> 
+The translations of the lessons from English to French and to German are from Lexitech unless otherwise stated. <br>   
+Maria Cristina Piticco - translations to German and French of the following lessons: "David Boder: from wire recorder to website", "From the archival to the digital turn", "Transformation, how the digital creates new realities" (2018)<br>
+<br>
+Brigitte Melchior-Dolen, Karin Priem - translation for animations (2018) <br>
+Stefan Krebs, Sofia Papastamkou - translations of the website infrastructure and lessons metadata (2023) <br>
 
-### Animations Translations
-Brigitte Melchior-Dolen (2018) <br> 
-Karin Priem (2018)
 
 ### Proofreading 
 Sarah Cooper University of Luxembourg (2018) <br>
-Andy O'Dwyer (2018)
+Andy O'Dwyer (2018) <br>
+
 
 ## Acknowledgments 
 

@@ -58,19 +58,19 @@ Alexandre Germain - sound, video recording (2018-2019)<br>
 
 Arjan van Hessen - text editing for animations (2018)<br>
 
-Brigitte Melchior-Dolen - translation for animations (2018) <br> 
-Karin Priem (2018) - translation for animations <br>
 
+### Translations
 
-### Lesson translations
-
-All translations from English to French and to German are from Lexitech unless otherwise stated in the lessons metadata. <br>   
-Maria Cristina Piticco - (2018)<br> 
+The translations of the lessons from English to French and to German are from Lexitech unless otherwise stated. <br>   
+Maria Cristina Piticco - translations to German and French of the following lessons: "David Boder: from wire recorder to website", "From the archival to the digital turn", "Transformation, how the digital creates new realities" (2018)<br>
+<br>
+Brigitte Melchior-Dolen, Karin Priem - translation for animations (2018) <br>
+Stefan Krebs, Sofia Papastamkou - translations of the website infrastructure and lessons metadata (2023) <br>
 
 
 ### Proofreading 
 Sarah Cooper University of Luxembourg (2018) <br>
-Andy O'Dwyer (2018)
+Andy O'Dwyer (2018) <br>
 
 
 ## Acknowledgments 

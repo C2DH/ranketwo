@@ -12,18 +12,21 @@ title: Qui sommes nous
 Ranke.2 est un projet du C<sup>2</sup>DH.
 
 ## Équipe
+
 [Andreas Fickers](https://www.c2dh.uni.lu/people/andreas-fickers) - directeur du C²DH <br>  
 [Stefan Krebs](https://www.c2dh.uni.lu/people/stefan-krebs) - gestion et administration du projet <br> 
 [Sofia Papastamkou](https://www.c2dh.uni.lu/people/sofia-papastamkou) - coordination éditoriale et générale du projet <br>
-[Daniele Guido](https://www.c2dh.uni.lu/people/daniele-guido) - concept visuel et design, développement web <br>
-[Frédéric Reiss](https://www.c2dh.uni.lu/people/frederic-reiss) - assistance développement web -> <br> 
+[Daniele Guido](https://www.c2dh.uni.lu/people/daniele-guido) - conception visuelle et design, développement web <br>
+[Frédéric Reiss](https://www.c2dh.uni.lu/people/frederic-reiss) - assistance développement web -> <br>
 
-### Équipe passée
+
+### Ont fait partie de l'équipe
 
 [Sean Takats](https://www.c2dh.uni.lu/people/sean-takats) - gestion et administration du projet (2020) <br>
 [Gerben Zaagsma](https://www.c2dh.uni.lu/people/gerben-zaagsma) - gestion et administration du projet (2016-2020) <br> 
-[Stefania Scagliola](https://www.c2dh.uni.lu/people/stefania-scagliola) - coordination éditoriale et générale du projet (2016-2021) <br> 
-Jordan Ricker - coordination générale par intérim (2021) <br>   
+[Stefania Scagliola](https://www.c2dh.uni.lu/people/stefania-scagliola) - conception initiale, coordination éditoriale et générale du projet (2016-2021) <br> 
+Jordan Ricker - coordination générale par intérim (2021) <br> 
+
  
 ## Étudiant(e)s assistant(e)s
 
@@ -39,36 +42,37 @@ Thomas Woloszyn (2018) <br>
 Davina Kronz (2018) <br> 
 Marvin Schieben (2018) <br> 
 
-## Collaborateurs, collaboratrices 
 
 ### Films animés
 
 **All Things Moving** <br> 
-Cristina Garcia Martin - design and development (2018-2021) <br> 
-Ioana Turla - design and development (2021) <br> 
-In collaboration with Stefania Scagliola - storyboards (2018-2021)
+Cristina Garcia Martin - design et création (2018-2021) <br> 
+Ioana Turla - design et création (2021) <br> 
+En collaboration avec Stefania Scagliola - storyboards (2018-2021)
 
 **Machteld van der Gaag voice radio** <br> 
 Machteld van der Gaag- voice over (2021) <br>  
 
 **Media Centre, University of Luxembourg** <br>
 Nicolas Donnerup - voice over (2019) <br> 
-Alexandre Germain - sound, video recording (2018-2019)<br>
+Alexandre Germain - son, video recording (2018-2019)<br>
 
-Arjan van Hessen - text editing for animations (2018)
+Arjan van Hessen - text editing for animations (2018) <br>
+
 
 ### Traductions
 
-Les traductions des leçons vers les langues française et allemande ont été effectuées par Lexitech sauf indication contraire dans les métadonnées des leçons. <br>   
-Maria Cristina Piticco - (2018)<br> 
+Les traductions des leçons vers les langues française et allemande ont été effectuées par Lexitech sauf si indiqué autrement. <br>   
+Maria Cristina Piticco - (2018)<br>
+Brigitte Melchior-Dolen, Karin Priem (2018) - traductions des films animés <br>
+Stefan Krebs, Sofia Papastamkou (2023) - traduction des éléments de l'infrastructure du site web et des métadonnées des leçons en allemand et en français  
+<br>
 
-### Traductions des films animés
-Brigitte Melchior-Dolen (2018) <br> 
-Karin Priem (2018)
 
 ### Corrections orthotypographiques 
-Sarah Cooper University of Luxembourg (2018) <br>
-Andy O'Dwyer (2018)
+Sarah Cooper, Université du Luxembourg (2018) <br>
+Andy O'Dwyer (2018) <br>
+
 
 ## Remerciements 
 
