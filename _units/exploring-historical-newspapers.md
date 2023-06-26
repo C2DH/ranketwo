@@ -9,6 +9,11 @@ tags:
   - optical character recognition
   - search engines
   - interface
+authors: 
+  - marten-during
+  - estelle-bunout
+editors: 
+  - stefania-scagliola
 lang: en
 unit_id: exploring-historical-newspapers
 link: /u/exploring-historical-newspapers/
