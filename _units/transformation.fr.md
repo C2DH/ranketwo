@@ -7,6 +7,7 @@ tags:
   - remix
 authors: 
   - stefania-scagliola
+  - jordan-ricker
 lang: fr
 unit_id: transformation
 link: /u/transformation/
