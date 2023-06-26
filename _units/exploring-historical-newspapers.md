@@ -17,7 +17,8 @@ audience: general public, bachelor, master humanities
 components:
   small: animation
   medium: animation + 6 assignments
-mediatype: newspapers
+mediatypes: 
+  - press
 cover:
   url: https://impresso.github.io/assets/images/project-schema.jpg
 order: 10
