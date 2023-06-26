@@ -17,3 +17,5 @@ package-lock.json
 .DS_Store
 vendor/
 .env
+# Local Netlify folder
+.netlify
