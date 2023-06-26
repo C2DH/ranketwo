@@ -5,6 +5,13 @@ publication_date: 2018-07-09
 toc: on
 tags:
   - digitization
+authors: 
+  - stefania-scagliola
+  - max-kemman
+  - florentina-armaselu
+  - marten-during
+  - estelle-bunout
+  - juliane-tatarinov
 lang: fr
 unit_id: archival-digital-turn
 link: /u/archival-digital-turn/
