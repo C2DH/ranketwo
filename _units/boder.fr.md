@@ -8,7 +8,7 @@ tags:
   - études des médias
   - histoire orale
 lang: fr
-date: 2017-11-23
+publication_date: 2017-11-23
 unit_id: boder
 link: /u/boder/
 permalink: /fr/u/boder/

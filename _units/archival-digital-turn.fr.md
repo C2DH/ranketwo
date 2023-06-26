@@ -1,7 +1,7 @@
 ---
 title: "Du tournant archivistique au tournant numérique"
 layout: unit
-date: 2018-07-09
+publication_date: 2018-07-09
 toc: on
 tags:
   - digitization

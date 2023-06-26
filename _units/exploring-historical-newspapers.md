@@ -1,7 +1,7 @@
 ---
 title: "From the shelf to the web, exploring historical newspapers in the digital age."
 layout: unit
-date: 2020-02-20
+publication_date: 2020-02-20
 toc: on
 tags:
   - digitisation of newspapers

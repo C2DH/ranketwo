@@ -8,7 +8,7 @@ tags:
   - media studies
   - oral history
 lang: en
-date: 2017-11-23
+publication_date: 2017-11-23
 unit_id: boder
 link: /u/boder/
 permalink: /u/boder/

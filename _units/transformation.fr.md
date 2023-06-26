@@ -1,7 +1,7 @@
 ---
 title: "Transformation : technologies numériques et création de nouvelles réalités"
 layout: unit
-date: 2017-12-12
+publication_date: 2017-12-12
 toc: on
 tags:
   - digital technology
