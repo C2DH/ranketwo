@@ -4,14 +4,11 @@ layout: unit
 publication_date: 2021-01-25
 toc: on
 tags:
-  - web technology
-  - the archived web
-  - holocaust studies
-  - source criticism
-  - digital archives
-  - preservation
+  - technologies web
+  - archives du web
 lang: fr
-mediatype: web history / web technology / the archived web
+mediatypes: 
+  - web-site
 unit_id: webarchives
 link: /u/webarchives/
 permalink: /fr/u/webarchives/
