@@ -7,7 +7,9 @@ title: Wer wir sind
 ---
 
 <!-- more -->
-Ranke.2 is a project of the C<sup>2</sup>DH.
+
+
+Ranke.2 is a project of the C<sup>2</sup>DH. 
 
 ## Core Team
 
