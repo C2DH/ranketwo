@@ -5,13 +5,6 @@ publication_date: 2018-07-09
 toc: on
 tags:
   - digitization
-  - digital source criticism
-  - digitized photos
-  - digitized letters
-  - e-mails
-  - digitized audio-interviews
-  - Leopold von Ranke
-  - internal and external source criticism
 lang: de
 unit_id: archival-digital-turn
 link: /u/archival-digital-turn/
@@ -20,7 +13,13 @@ audience: general public, bachelor, master humanities
 components:
   small: animation
   medium: animation + 6 assignments
-mediatype: photos, letters, e-mails
+mediatypes: 
+  - photo
+  - correspondence
+  - oral-interview
+  - archive-document
+  - press
+  - object
 cover:
   url: assets/images/attachments/WikiXDC_National_Archives_Tour_Hall_-_Stierch.jpg
 order: 1
