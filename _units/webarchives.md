@@ -6,6 +6,10 @@ toc: on
 tags:
   - web technology
   - web archives
+authors: 
+  - stefania-scagliola
+  - jordan-ricker
+  - valerie-schafer
 lang: en
 mediatypes: 
   - web-site
@@ -22,7 +26,6 @@ cover:
 og:
   description: "Lesson about the fundamentals of the web and web archiving for historians."
 ---
-Curated by Stefania Scagliola, Jordan Ricker and Valérie Schafer
 
 Lesson about the fundamentals of the web and web archiving for historians.
 

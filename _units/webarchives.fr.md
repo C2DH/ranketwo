@@ -6,6 +6,10 @@ toc: on
 tags:
   - technologies web
   - archives du web
+authors: 
+  - stefania-scagliola
+  - jordan-ricker
+  - valerie-schafer
 lang: fr
 mediatypes: 
   - web-site
