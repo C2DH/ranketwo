@@ -35,7 +35,6 @@ answertemplate:
 og:
   description: what going digital means for the practice of students and researchers of humanities disciplines
 ---
-Curated by Stefania Scagliola
 
 Lesson on how the method of source criticism has been affected by the digital turn and what this means for the practice of students who study humanities disciplines and conduct research.
 
