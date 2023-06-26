@@ -3,10 +3,6 @@ title: "David Boder: Von der Drahttonaufnahme zur Website"
 layout: unit
 toc: on
 tags:
-  - Holocaust-Studien
-  - Geschichte der Kommunikationstechnologie
-  - Medienstudien
-  - Oral History
 lang: de
 publication_date: 2017-11-23
 unit_id: boder
@@ -18,6 +14,7 @@ components:
   medium: interaktive Animation + 11 Aufgaben, Kurs mit Videoanimation + 5 Aufgaben
 mediatypes: 
   - oral-interview
+  - oral-history
 order: 2
 cover:
   url: https://i.vimeocdn.com/video/708218729-b2f51c3e00df9b2f75f3618a1f04d264e1d49a863128379cc24c53083e8b5cdc-d?mw=960&mh=540&q=70
