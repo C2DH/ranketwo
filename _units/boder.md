@@ -16,7 +16,8 @@ audience: general public, bachelor, master humanities
 components:
   small: animation
   medium: interactive animation + 11 assignments, video animated lecture + 5 assignments
-mediatype: audiovisual, interviews
+mediatypes: 
+  - oral-interview
 order: 2
 cover:
   url: https://i.vimeocdn.com/video/708218729-b2f51c3e00df9b2f75f3618a1f04d264e1d49a863128379cc24c53083e8b5cdc-d?mw=960&mh=540&q=70
