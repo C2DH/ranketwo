@@ -2,7 +2,8 @@
 title: "David Boder: Von der Drahttonaufnahme zur Website"
 layout: unit
 toc: on
-tags:
+authors: 
+  - stefania-scagliola
 lang: de
 publication_date: 2017-11-23
 unit_id: boder

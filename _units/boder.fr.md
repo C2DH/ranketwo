@@ -2,7 +2,8 @@
 title: "David Boder : des enregistrements à fils au site internet"
 layout: unit
 toc: on
-tags:
+authors:
+  - stefania-scagliola
 lang: fr
 publication_date: 2017-11-23
 unit_id: boder
