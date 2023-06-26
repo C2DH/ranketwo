@@ -4,6 +4,11 @@ layout: unit
 publication_date: 2021-04-27
 toc: on
 tags:
+authors: 
+  - stefania-scagliola
+  - jordan-ricker
+  - emmanuel-decker
+  - frederic-clavert
 lang: en
 unit_id: social-media-historians
 link: /u/social-media-historians/
