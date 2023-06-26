@@ -5,6 +5,8 @@ publication_date: 2017-12-12
 toc: on
 tags:
   - Remix
+authors: 
+  - stefania-scagliola
 lang: de
 unit_id: transformation
 link: /u/transformation/

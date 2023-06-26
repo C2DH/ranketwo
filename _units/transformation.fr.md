@@ -5,6 +5,8 @@ publication_date: 2017-12-12
 toc: on
 tags:
   - remix
+authors: 
+  - stefania-scagliola
 lang: fr
 unit_id: transformation
 link: /u/transformation/
