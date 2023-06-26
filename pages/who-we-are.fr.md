@@ -17,7 +17,7 @@ Ranke.2 est un projet du C<sup>2</sup>DH.
 [Stefan Krebs](https://www.c2dh.uni.lu/people/stefan-krebs) - gestion et administration du projet <br> 
 [Sofia Papastamkou](https://www.c2dh.uni.lu/people/sofia-papastamkou) - coordination éditoriale et générale du projet <br>
 [Daniele Guido](https://www.c2dh.uni.lu/people/daniele-guido) - conception visuelle et design, développement web <br>
-[Frédéric Reiss](https://www.c2dh.uni.lu/people/frederic-reiss) - assistance développement web -> <br>
+[Frédéric Reiss](https://www.c2dh.uni.lu/people/frederic-reiss) - assistance développement web <br>
 
 
 ### Ont fait partie de l'équipe
