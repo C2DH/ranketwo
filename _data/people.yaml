@@ -26,3 +26,21 @@
   id: hannah-smyth
   name: Hannah Smyth
   url: https://www.c2dh.uni.lu/people/hannah-smyth
+- slug: sofia-papastamkou
+  id: sofia-papastamkou
+  name: Sofia Papastamkou
+  url: https://www.c2dh.uni.lu/people/sofia-papastamkou
+- slug: stefania-scagliola
+  id: stefania-scagliola
+  name: Stefania Scagliola
+  url: https://www.c2dh.uni.lu/people/stefania-scagliola
+- slug: valerie-schafer
+  id: valerie-schafer
+  name: Valérie Schafer
+  url: https://www.c2dh.uni.lu/people/valerie-schafer
+- slug: jordan-ricker
+  id: jordan-ricker
+  name: Jordan Ricker
+- slug: emmanuel-decker
+  id: emmanuel-decker
+  name: Emmanuel Decker
