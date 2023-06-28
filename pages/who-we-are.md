@@ -12,7 +12,7 @@ Ranke.2 is a project of the C<sup>2</sup>DH.
 
 ## Core Team
 
-[Andreas Fickers](https://www.c2dh.uni.lu/people/andreas-fickers) - director of the C²DH <br>  
+[Andreas Fickers](https://www.c2dh.uni.lu/people/andreas-fickers) - director of the C²DH, initiator of Ranke.2 <br>  
 [Stefan Krebs](https://www.c2dh.uni.lu/people/stefan-krebs) - project management and administration <br> 
 [Sofia Papastamkou](https://www.c2dh.uni.lu/people/sofia-papastamkou) - project and editorial coordination <br>
 [Daniele Guido](https://www.c2dh.uni.lu/people/daniele-guido) - visual concept and design, web developement <br>
@@ -42,7 +42,7 @@ Davina Kronz (2018) <br>
 Marvin Schieben (2018) <br> 
 
 
-### Video Animations
+## Video Animations
 
 **All Things Moving** <br> 
 Cristina Garcia Martin - design and development (2018-2021) <br> 
@@ -59,16 +59,16 @@ Alexandre Germain - sound, video recording (2018-2019)<br>
 Arjan van Hessen - text editing for animations (2018)<br>
 
 
-### Translations
+## Translations
 
-The translations of the lessons from English to French and to German are from Lexitech unless otherwise stated. <br>   
-Maria Cristina Piticco - translations to German and French of the following lessons: "David Boder: from wire recorder to website", "From the archival to the digital turn", "Transformation, how the digital creates new realities" (2018)<br>
+[Lexitech](https://lexitech.eu/) - translations of lessons from English to French and to German (since 2023) <br>   
+Maria Cristina Piticco - translations to French and to German of the following lessons: "David Boder: from wire recorder to website", "From the archival to the digital turn", "Transformation, how the digital creates new realities" (2018)<br>
 <br>
-Brigitte Melchior-Dolen, Karin Priem - translation for animations (2018) <br>
-Stefan Krebs, Sofia Papastamkou - translations of the website infrastructure and lessons metadata (2023) <br>
+Brigitte Melchior-Dolenc, Karin Priem - translation for animations (2018) <br>
+Stefan Krebs, Sofia Papastamkou - translations of the website infrastructure and lessons metadata <br>
 
 
-### Proofreading 
+## Proofreading 
 Sarah Cooper University of Luxembourg (2018) <br>
 Andy O'Dwyer (2018) <br>
 
