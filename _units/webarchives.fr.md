@@ -1,17 +1,18 @@
 ---
 title: "The Web as a historical source; what historians need to know"
 layout: unit
-date: 2021-01-25
+publication_date: 2021-01-25
 toc: on
 tags:
-  - web technology
-  - the archived web
-  - holocaust studies
-  - source criticism
-  - digital archives
-  - preservation
+  - technologies web
+  - archives du web
+authors: 
+  - stefania-scagliola
+  - jordan-ricker
+  - valerie-schafer
 lang: fr
-mediatype: web history / web technology / the archived web
+mediatypes: 
+  - web-site
 unit_id: webarchives
 link: /u/webarchives/
 permalink: /fr/u/webarchives/

@@ -9,12 +9,15 @@ title: Collecter des tweets avec Netlytic
 requirements: [free text] 
 learning outcomes: [list of sentences]
 tags: 
-author: 
-- Frédéric Clavert
-- Hannah Smyth 
-date: 2023-06-13
+authors:
+  - frederic-clavert
+  - hannah-smyth
+editors:
+  - sofia-papastamkou
+publication_date: 2023-06-13
 toc: off
-mediatype: web-social-media
+mediatypes: 
+  - web-social-media
 research-phase: heuristics
 activity: web-scraping
 cover: 

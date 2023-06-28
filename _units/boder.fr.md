@@ -2,13 +2,10 @@
 title: "David Boder : des enregistrements à fils au site internet"
 layout: unit
 toc: on
-tags:
-  - études sur l’Holocauste
-  - histoire des technologies de la communication
-  - études des médias
-  - histoire orale
+authors:
+  - stefania-scagliola
 lang: fr
-date: 2017-11-23
+publication_date: 2017-11-23
 unit_id: boder
 link: /u/boder/
 permalink: /fr/u/boder/
@@ -16,7 +13,9 @@ audience: general public, bachelor, master humanities
 components:
   small: animation
   medium: animation interactive + 11 tâches, lecture vidéo animée + 5 tâches
-mediatype: audiovisual, interviews
+mediatypes: 
+  - oral-interview
+  - oral-history
 order: 2
 cover:
   url: https://i.vimeocdn.com/video/708218729-b2f51c3e00df9b2f75f3618a1f04d264e1d49a863128379cc24c53083e8b5cdc-d?mw=960&mh=540&q=70

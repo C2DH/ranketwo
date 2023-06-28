@@ -1,0 +1,9 @@
+
+{% assign _mediatypes = site.data.tags | where: "id", key %}
+{% if _mediatypes.size == 0 %}
+  {% include t.html %}
+{% else %}
+  {% assign _mediatype = _mediatypes[0] %}
+  {% assign _displayname = _mediatype.displayname[page.lang] %}
+  <span>{{_displayname}}</span>
+{% endif %}
