@@ -3,7 +3,7 @@ layout: page
 lang: fr
 permalink: /fr/who-we-are/
 link: /who-we-are/
-title: Qui sommes nous
+title: Qui sommes-nous
 ---
 
 <!-- more -->
