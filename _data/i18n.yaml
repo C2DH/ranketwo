@@ -1,54 +1,100 @@
+# site navbar
+
+site.title:
+  en: Ranke.2
+  fr: Ranke.2
+  de: Ranke.2
+site.headline:
+   en: Source criticism in the digital age
+   fr: Critique des sources à l'ère digitale
+   de: Quellenkritik im digitaler Zeitalter
+
 Home:
   en: Home
   fr: Accueil
   de: Startseite
-Digital source criticism:
-  fr: Critiques des sources numériques
+
+Digital source criticism: #This is a subcategory of the about menu like the two that follow about the lessons and about the platform
+  en: Digital source criticism
+  fr: Critique des sources numériques
   de: Kritik der digitalen Quellen
+    
 About the lessons:
   en: How are the lessons structured?
   fr: À propos des leçons
   de: Über die Lektionen
+
 About the platform:
   en: What are our learning objectives?
   fr: À propos de la plateforme
   de: Über die Plattform
+
 Go to lessons:
-  en: Lessons
+# Wonder if for FR and DE titles we can only keep Leçons and Lectionen - I wonder if the entry initially covered both the menu and the button "go to lesson"
+  en: Go to lessons
   fr: Accéder aux leçons
   de: Gehen sie zu den Lektionen
-go to assignments:
-  fr: Accès aux exercices
+
+# lesson navigation
+# This lists the buttons that lead to lessons from the home page and the lessons page; and to assignments from the page of each lesson 
+go-to-lesson:
+  en: go to lesson
+  fr: accéder à la leçon
+  de: Zur Lektion  
+go-to-assignment:
+  en: go to assignments
+  fr: accèder aux exercices
   de: Zu den Aufgaben
+more-lessons: 
+  en: more lessons
+  fr: davantage de leçons
+  de: Mehr Lektionen
+
+# lesson elements - There are probably things we should keep and things we should let go. 
 by:
   en: by
   fr: de
-briefing teacher:
+  de: von
+briefing teacher: #What is this for? I only ran into it in the files of the assignments and it is always inactive. Parhaps an unaccomplished feature we could remove? 
   en: briefing lecturer
 clip:
   en: watch this animation
+  fr: regarder l'animation
+  de: Animation ansehen
 interactive:
   en: watch this interactive animation
+  fr: regarder l'animation interactive
+  de: Interaktive Animation ansehen
 introduction:
   en: about the lesson
+  fr: à propos de la leçon
+  de: Über diese Lektion
 workshop:
   en: workshop
+  fr: atelier
+  de: Workshop
 workshop-content:
   en: about the workshop
+  fr: à propos de l'atelier
+  de: Über den Workshop
 download answer template:
   en: download answer template
-  fr: download answer template
-  de: download answer template
+  fr: télécharger le gabarit de réponses 
+  de: Antwortbogen herunterladen
 assignment:
   en: complete these assignments
+  fr: compléter les exercices
+  de: Diese Aufgaben erledigen
 assignments:
   en: Assignments
   fr: Exercices
   de: Aufgaben
 out of:
+  en: out of
   fr: sur
   de: von
 learning outcomes:
+  en: learning outcomes
   fr: Résultats d'apprentissage
   de: Lernergebnisse
 rationale of this assignment:
@@ -73,13 +119,17 @@ list of tags:
 list of lessons:
   en: "list of lessons"
   fr: "Liste des leçons"
+  de: "Liste der Lektionen"
 in lessons:
   en: "in lessons:"
   fr: "dans les leçons :"
+  de: 
 in collaboration with:
   en: "In collaboration with:"
   fr: "en coopération avec :"
   de: "in Zusammenarbeit mit:"
+
+# keywords - I created this category because they seem to be keywords to me but are the following necessary here? 
 communication technology:
   fr: technologies de la communication
 digitization:
@@ -103,20 +153,53 @@ e-mails:
   de: E-Mails
 digitized audio-interviews:
   fr: interviews audio numérisées
-  de: digitalisierte Audiointerviews
+  de: Digitalisierte Audiointerviews
 internal and external source criticism:
   fr: critique des sources interne et externe
-  de: interne und externe Quellenkritik
+  de: Interne und externe Quellenkritik
 manuscripts:
   fr: manuscrits
 transformation:
   fr: transformation
 
-site.title:
-  en: Ranke.2
-  fr: Ranke.2
-  de: Ranke.2
-site.headline:
-   en: Source criticism in the digital age
-   fr: Critique de la source dans l'ère digitale
-   de: Quellenkritik im digitaler Zeitalter
+
+# site footer
+Who we are: 
+  en: Who we are
+  fr: Qui sommes-nous
+  de: Wer wir sind 
+    
+Contact us: 
+  en: Contact us
+  fr: Contactez-nous
+  de: Kontaktieren Sie uns
+
+Legal notice: 
+  en: Legal notice
+  fr: Mentions légales
+  de: Impressum
+  # Ci-dessous, en commentaire, je propose une page séparée pour la protection des données pour alléger celle de Legal notice car trop longue
+  # Data protection:
+  # en: Data protection
+  # fr: Protection des données
+  # de: Datenschutz
+issn: 
+  en: 2799-2764
+  fr: 2989-7084
+  de: 2989-7076
+
+# contact form labels
+full-name: 
+  en: full name 
+  fr: nom et prénom
+  de: Vllständiger Name
+# ci-dessous pour email: attention, il y a plus haut dans le fichier e-mail 
+email-address: 
+  en: email
+  fr: courriel
+  de: E-Mail  
+email-protection: # j'ai improvisé pour le titre
+  en: We'll never share your e-mail with anyone else.
+  fr: Nous ne partageons pas votre adresse électronique avec des tiers
+  de: Ihre E-Mail-Adresse geben wir nicht an Dritte weiter
+

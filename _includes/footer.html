@@ -4,11 +4,11 @@
     <div class="row">
       <div class="col-6 col-sm-6">
         <p>
-          <a {% if page.lang == site.default_lang %} href='{{"/who-we-are/" | relative_url}}' {% else %} href="{{page.lang | relative_url}}/who-we-are/"{% endif %}>Who we are</a>
+          <a {% if page.lang == site.default_lang %} href='{{"/who-we-are/" | relative_url}}' {% else %} href="{{page.lang | relative_url}}/who-we-are/"{% endif %}>{% assign key="Who we are"%}{% include t.html %}</a>
           <br>
-          <a {% if page.lang == site.default_lang %} href='{{"/contact-us/" | relative_url}}' {% else %} href="{{page.lang | relative_url}}/contact-us/"{% endif %}>Contact us</a>
+          <a {% if page.lang == site.default_lang %} href='{{"/contact-us/" | relative_url}}' {% else %} href="{{page.lang | relative_url}}/contact-us/"{% endif %}>{% assign key="Contact us"%}{% include t.html %}</a>
           <br>
-          <a {% if page.lang == site.default_lang %} href='{{"/legal-notice/" | relative_url}}' {% else %} href="{{page.lang | relative_url}}/legal-notice/"{% endif %}>Legal Notice</a>
+          <a {% if page.lang == site.default_lang %} href='{{"/legal-notice/" | relative_url}}' {% else %} href="{{page.lang | relative_url}}/legal-notice/"{% endif %}>{% assign key="Legal notice"%}{% include t.html %}</a>
         </p>
       </div>
       <div class="col-6 col-sm-6">
