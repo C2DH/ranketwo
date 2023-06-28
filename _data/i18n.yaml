@@ -40,45 +40,57 @@ Go to lessons:
 go-to-lesson:
   en: go to lesson
   fr: accéder à la leçon
-  de: zur Lektion  
+  de: Zur Lektion  
 go-to-assignment:
   en: go to assignments
   fr: accèder aux exercices
-  de: zu den Aufgaben
+  de: Zu den Aufgaben
 
-# lesson elements - There are probably things we should keep and things we should let go. Did not touch at all 
-by: # Is this for authorship? 
+# lesson elements - There are probably things we should keep and things we should let go. 
+by:
   en: by
   fr: de
-  # de: von
+  de: von
 briefing teacher: #What is this for? I only ran into it in the files of the assignments and it is always inactive. Parhaps an unaccomplished feature we could remove? 
   en: briefing lecturer
 clip:
   en: watch this animation
-  fr: 
-  de: 
+  fr: regarder l'animation
+  de: Animation ansehen
 interactive:
   en: watch this interactive animation
+  fr: regarder l'animation interactive
+  de: Interaktive Animation ansehen
 introduction:
   en: about the lesson
+  fr: à propos de la leçon
+  de: Über diese Lektion
 workshop:
   en: workshop
+  fr: atelier
+  de: Workshop
 workshop-content:
   en: about the workshop
+  fr: à propos de l'atelier
+  de: Über den Workshop
 download answer template:
   en: download answer template
   fr: télécharger le gabarit de réponses 
-  de: download answer template
+  de: Antwortbogen herunterladen
 assignment:
   en: complete these assignments
+  fr: compléter les exercices
+  de: Diese Aufgaben erledigen
 assignments:
   en: Assignments
   fr: Exercices
   de: Aufgaben
 out of:
+  en: out of
   fr: sur
   de: von
 learning outcomes:
+  en: learning outcomes
   fr: Résultats d'apprentissage
   de: Lernergebnisse
 rationale of this assignment:
@@ -137,10 +149,10 @@ e-mails:
   de: E-Mails
 digitized audio-interviews:
   fr: interviews audio numérisées
-  de: digitalisierte Audiointerviews
+  de: Digitalisierte Audiointerviews
 internal and external source criticism:
   fr: critique des sources interne et externe
-  de: interne und externe Quellenkritik
+  de: Interne und externe Quellenkritik
 manuscripts:
   fr: manuscrits
 transformation:
@@ -176,14 +188,14 @@ issn:
 full-name: 
   en: full name 
   fr: nom et prénom
-  de: vollständiger Name
+  de: Vllständiger Name
 # ci-dessous pour email: attention, il y a plus haut dans le fichier e-mail 
 email-address: 
   en: email
   fr: courriel
   de: E-Mail  
 email-protection: # j'ai improvisé pour le titre
-  en: We'll never share your email with anyone else.
+  en: We'll never share your e-mail with anyone else.
   fr: Nous ne partageons pas votre adresse électronique avec des tiers
   de: 
 
