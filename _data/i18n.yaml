@@ -192,10 +192,10 @@ issn:
 full-name: 
   en: full name 
   fr: nom et prénom
-  de: Vollständiger Name
+  de: Vllständiger Name
 # ci-dessous pour email: attention, il y a plus haut dans le fichier e-mail 
 email-address: 
-  en: e-mail
+  en: email
   fr: courriel
   de: E-Mail  
 email-protection: # j'ai improvisé pour le titre
