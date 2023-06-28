@@ -64,6 +64,7 @@ Arjan van Hessen - text editing for animations (2018) <br>
 
 [Lexitech](https://lexitech.eu/fr) - traductions de leçons en allemand et en français (à partir de 2023) <br>   
 Maria Cristina Piticco - traductions en français et en allemand des leçons suivantes: &laquo;&#x202F;David Boder: from wire recorder to website&#x202F;&raquo;, &laquo;&#x202F;From the archival to the digital turn&#x202F;&raquo;, &laquo;&#x202F;Transformation, how the digital creates new realities&#x202F;&raquo; (2018) <br>
+<br>
 Brigitte Melchior-Dolenc, Karin Priem (2018) - traductions des films animés <br>
 Stefan Krebs, Sofia Papastamkou - traduction des éléments de l'infrastructure du site web et des métadonnées des leçons en allemand et en français  <br>
 
