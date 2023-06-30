@@ -1,6 +1,6 @@
 {% if card.cover.url %}
-  {% assign cover = card.cover.url %} {% include
-captures/cover_url %}
+  {% assign cover = card.cover.url %}
+  {% include captures/cover_url %}
 {% else %}
   {% assign cover_url = false %}
 {% endif %}
@@ -72,6 +72,6 @@ captures/cover_url %}
     {% unless forloop.last%}, {% endunless %}
     {% endfor %}
     </p> -->
-    <a href="{{ card.url | relative_url }}" class="btn btn-block btn-primary">{% assign key = 'go-to-lesson' %}{% include t.html %}</a>
+    <a href="{{ card.url | relative_url }}" class="btn btn-block btn-primary">{% assign key = "go-to-lesson" %}{% include t.html %}</a>
   </div>
 </div>
