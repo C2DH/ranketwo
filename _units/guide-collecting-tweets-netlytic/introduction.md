@@ -30,7 +30,6 @@ Due to changes to the Twitter API access rules progressively applied in the firs
   <li>it draws attention to the problem of unequal access to research data in the digital age</li>
   <li>it showcases how we write history in the digital age</li>
 </ul>
-<br>
 Finally, it reminds us that historians are today dependent on commercial platforms and their policies to keep track of historical events. In this sense, since the API access policies are subject to constant change, the tools that we use to interact with those APIs are also subject to change.
 </div>
 </html>
