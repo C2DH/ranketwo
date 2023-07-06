@@ -22,7 +22,14 @@ There are various ways to collect tweet-related data; we propose here to use [Ne
 
 <div class="alert alert-info">
 Authors' Note, July 2023. 
-Due to changes to the Twitter API access rules progressively applied in the first semester of 2023, <a href="https://developer.twitter.com/en/products/twitter-api"> it is no longer possible to collect tweets for free using the standard API</a>. The Twitter data collection module on Netlytic has been decommissioned for this reason. Netlytic also recently announced that it will be integrated with <a href="https://communalytic.org/">Communalytic</a> in 2024. However, the lesson is still of interest for several reasons: if you already have a dataset collected through Netlytic, then parts of the lesson are still valid; it demonstrates the different ways that one can analyse social media data; it draws attention to the problem of unequal access to research data in the digital age and more specifically for history, it reminds us that we are today dependant on commercial platforms and their policies to keep track of historical events; it draws attention to how we write history in the digital age; it reminds us that API access policies are constantly changing, and the tools that we use to interact with those APIs are also always changing.
+Due to changes to the Twitter API access rules progressively applied in the first semester of 2023, <a href="https://developer.twitter.com/en/products/twitter-api"> it is no longer possible to collect tweets for free using the standard API</a>. The Twitter data collection module on Netlytic has been decommissioned for this reason. Netlytic also recently announced that it will be integrated with <a href="https://communalytic.org/">Communalytic</a> in 2024. However, the lesson is still of interest for several reasons: 
+<ul>
+  <li>if you already have a dataset collected through Netlytic, then parts of the lesson are still valid</li>
+  <li>the lesson demonstrates different ways to analyse social media data</li>
+  <li>it draws attention to the problem of unequal access to research data in the digital age</li>
+  <li>it showcases how we write history in the digital age
+</ul>
+Finally, it reminds us that historians are today dependent on commercial platforms and their policies to keep track of historical events. In this sense, since the API access policies are subject to constant change, the tools that we use to interact with those APIs are also subject to change.
 </div>
 
 
