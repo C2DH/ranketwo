@@ -22,7 +22,7 @@ There are various ways to collect tweet-related data; we propose here to use [Ne
 
 <html>
 <div class="alert alert-info">
-Authors' Note, July 2023. 
+<b>Authors' Note, July 2023.</b><br> 
 Due to changes to the Twitter API access rules progressively applied in the first semester of 2023, <a href="https://developer.twitter.com/en/products/twitter-api"> it is no longer possible to collect tweets for free using the standard API</a>. The Twitter data collection module on Netlytic has been decommissioned for this reason. Netlytic also recently announced that it will be integrated with <a href="https://communalytic.org/">Communalytic</a> in 2024. However, the lesson is still of interest for several reasons: 
 <ul>
   <li>if you already have a dataset collected through Netlytic, then parts of the lesson are still valid</li>
