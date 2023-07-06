@@ -33,7 +33,7 @@ Due to changes to the Twitter API access rules progressively applied in the firs
 <br>
 Finally, it reminds us that historians are today dependent on commercial platforms and their policies to keep track of historical events. In this sense, since the API access policies are subject to constant change, the tools that we use to interact with those APIs are also subject to change.
 </div>
-
+</html>
 
 ### Overview of Netlytic <a id="section1"></a>
 Netlytic is a cloud-based tool for collecting, visualising, and analyzing social media data from several platforms such as Twitter, YouTube, and Reddit. It has specifically been conceived for researchers who need not be familiar with a programming language or with the Twitter API. Netlytic offers three types of accounts (called "Tiers"), two of which are free of charge and offer the basic functionalities a user needs to create small projects. For larger projects, a third option is offered via subscription that allows users to create more and larger datasets. A free account is largely sufficient to follow this tutorial. 
