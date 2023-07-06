@@ -18,7 +18,12 @@ Text mining can be defined as the process to derive information from large corpo
 
 Tweets can be considered today and, more importantly, in the future as primary sources for historians. The two authors of this lesson, for instance, have used datasets of tweets  to study the [echoes of the Centenary of the First World War online within a memory studies framework](https://www.vr-elibrary.de/doi/10.13109/gege.2021.47.1.175) and the [Irish Decade of Commemorations](https://journalofdigitalhistory.org/en/article/SLCj9T3MsrEk) from a feminist perspective.
 
-There are various ways to collect tweet-related data; we propose here to use [Netlytic](https://netlytic.org/), an online tool that does not require specific skills in programming. For this tutorial, you need to have both a [Twitter](https://www.twitter.com) and a Netlytic account.   
+There are various ways to collect tweet-related data; we propose here to use [Netlytic](https://netlytic.org/), an online tool that does not require specific skills in programming. For this tutorial, you need to have both a [Twitter](https://www.twitter.com) and a Netlytic account. 
+
+<div class="alert alert-info">
+Authors' Note, July 2023. 
+Due to changes to the Twitter API access rules progressively applied in the first semester of 2023, [it is no longer possible to collect tweets for free using the standard API](https://developer.twitter.com/en/products/twitter-api). The Twitter data collection module on Netlytic has been decommissioned for this reason. Netlytic also recently announced that it will be integrated with Communalytic (https://communalytic.org/) in 2024. However, the lesson is still of interest for several reasons: if you already have a dataset collected through Netlytic, then parts of the lesson are still valid; it demonstrates the different ways that one can analyse social media data; it draws attention to the problem of unequal access to research data in the digital age and more specifically for history, it reminds us that we are today dependant on commercial platforms and their policies to keep track of historical events; it draws attention to how we write history in the digital age; it reminds us that API access policies are constantly changing, and the tools that we use to interact with those APIs are also always changing.
+</div>
 
 
 ### Overview of Netlytic <a id="section1"></a>
@@ -140,9 +145,11 @@ Ahmed, Wasim, Peter A. Bath, and Gianluca Demartini. 2017. “Using Twitter as a
 
 Boyd, Danah, and Kate Crawford. 2012. “Critical Questions for Big Data: Provocations for a Cultural, Technological, and Scholarly Phenomenon.” *Information Communication and Society* 15, no. 5: 662–79. https://doi.org/10.1080/1369118X.2012.678878.
 
+Bruns, Axel. 2019. After the “APIcalypse’: social media platforms and their fight against critical scholarly research.” _Information Communication and Society_ 22(11), 1544–1566. DOI: https://doi.org/10.1080/1369118X.2019.1637447
+
 Clavert, Frederic. 2018. “Commémorations, Scandale et Circulation de l’information : Le Centenaire de La Bataille de Verdun Sur Twitter.” *French Journal for Media Research* 10, (special issue: Le Web 2.0 : lieux de perception des transformations des sociétés). http://orbilu.uni.lu/handle/10993/36120.
 
-Gruzd, Anatoliy, and Mai, Philip. 2020. “Going viral: How a single tweet spawned a COVID-19 conspiracy theory on Twitter.” In *Big Data & Society* 7, no. 2. https://doi.org/10.1177/2053951720938405.
+Gruzd, Anatoliy, and Philip Mai. 2020. “Going viral: How a single tweet spawned a COVID-19 conspiracy theory on Twitter.” In *Big Data & Society* 7, no. 2. https://doi.org/10.1177/2053951720938405.
 
 Janetzko, Dietmar. 2016. “The Role of APIs in Data Sampling from Social Media.” In *The SAGE Handbook of Social Media Research Methods*, edited by Luke Sloan and Anabel Quan-Haase, 146–60. London: SAGE Publications Ltd. https://doi.org/10.4135/9781473983847.
 
