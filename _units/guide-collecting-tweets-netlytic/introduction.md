@@ -20,6 +20,7 @@ Tweets can be considered today and, more importantly, in the future as primary s
 
 There are various ways to collect tweet-related data; we propose here to use [Netlytic](https://netlytic.org/), an online tool that does not require specific skills in programming. For this tutorial, you need to have both a [Twitter](https://www.twitter.com) and a Netlytic account. 
 
+<html>
 <div class="alert alert-info">
 Authors' Note, July 2023. 
 Due to changes to the Twitter API access rules progressively applied in the first semester of 2023, <a href="https://developer.twitter.com/en/products/twitter-api"> it is no longer possible to collect tweets for free using the standard API</a>. The Twitter data collection module on Netlytic has been decommissioned for this reason. Netlytic also recently announced that it will be integrated with <a href="https://communalytic.org/">Communalytic</a> in 2024. However, the lesson is still of interest for several reasons: 
@@ -27,8 +28,8 @@ Due to changes to the Twitter API access rules progressively applied in the firs
   <li>if you already have a dataset collected through Netlytic, then parts of the lesson are still valid</li>
   <li>the lesson demonstrates different ways to analyse social media data</li>
   <li>it draws attention to the problem of unequal access to research data in the digital age</li>
-  <li>it showcases how we write history in the digital age
-</ul> 
+  <li>it showcases how we write history in the digital age</li>
+</ul>
 <br>
 Finally, it reminds us that historians are today dependent on commercial platforms and their policies to keep track of historical events. In this sense, since the API access policies are subject to constant change, the tools that we use to interact with those APIs are also subject to change.
 </div>
