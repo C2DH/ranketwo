@@ -33,7 +33,7 @@
   definition: 
     en: 'Spatial analysis refers to the discovery of trends or patterns in data pertaining to spatial or geographical aspects of the data. Spatial analysis may lead to visualization or modeling in the form of maps. [URI](https://vocabs.dariah.eu/tadirah/spatialAnalysis)'
     fr: "L'analyse spatiale est la découverte dans les données de tendances ou de formes relatives à leurs aspects spatiaux ou géographiques. Elle peut conduire à une visualisation ou à une modélisation sous la forme de cartes. [URL](https://github.com/dhtaxonomy/TaDiRAH/blob/master/fre/activites.md#analyse-spatiale)"
-    de: "Die Räumliche Analyse hat das Entdecken von Trends und Mustern in Daten zum Ziel, die räumliche oder geographische Aspekte betreffen. Sie kann Visualisierung oder Modellierung in Form von Kartierung zur Folge haben.[URL(https://github.com/dhtaxonomy/TaDiRAH/blob/master/deu/aktivitaeten.md#r%C3%A4umliche-analyse)]"
+    de: "Die Räumliche Analyse hat das Entdecken von Trends und Mustern in Daten zum Ziel, die räumliche oder geographische Aspekte betreffen. Sie kann Visualisierung oder Modellierung in Form von Kartierung zur Folge haben.[URL](https://github.com/dhtaxonomy/TaDiRAH/blob/master/deu/aktivitaeten.md#r%C3%A4umliche-analyse)"
 
 - id: machine-learning
   type: activity
