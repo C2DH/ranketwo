@@ -8,9 +8,8 @@ iframe: exploring-historical-newspapers-french
 ---
 
 {: .headsup}                            
-**Un film d'animation sur la presse écrite numérique en tant que source historique**
+**Un film d'animation sur l’impact des technologies numériques sur la presse écrite en tant que source historique**
 
-De l'encre de Chine aux objets numérisés, un nouvel avenir se dessine pour les &laquo;&#x202F;vieilles nouvelles&#x202F;&raquo; grâce aux évolutions technologiques.
-Ce film d'animation aborde la spécificité des journaux en tant que sources historiques, la transformation de leur matérialité à la suite de leur numérisation et, enfin, comment les méthodes d'enrichissement des archives numérisées permettent de renouveller la manière dont il est possible de découvrir leurs contenus.
+De l’encre de Chine aux objets numérisés, les évolutions technologiques créent un nouvel avenir pour les nouvelles d’hier. Ce film d'animation illustre les particularités des journaux en tant que sources historiques, comment ces sources papier ont été transformées en archives numériques et les manières dont les méthodes d’enrichissement de la presse numérisée ont ouvert de nouvelles voies pour découvrir leur contenu
 
 <!-- more -->
