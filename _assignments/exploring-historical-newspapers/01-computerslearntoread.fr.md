@@ -1,8 +1,8 @@
 ---
 layout: assignment
 unit: exploring-historical-newspapers
-lang: en
-title: "Digitisation and how computers learn to read?"
+lang: fr
+title: "La numérisation et comment les ordinateurs apprennent-ils à lire ?"
 cover:
 tags:
   - media history
@@ -10,7 +10,7 @@ tags:
   - conversion from analogue to digital
 requirements: Fast WIFI connection, computer or laptop, application on laptop or computer to view video,
 learning outcomes:
-  - Understand the process of digitisation and optical character recognition
+  - Comprendre le processus de numérisation et la reconnaissance optique de caractères
 order: 1
 ---
 
