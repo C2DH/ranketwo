@@ -1,7 +1,7 @@
 ---
-title: "Animation: From the shelf to the web"
+title: "Animation: Aus dem Regal ins Netz"
 type: clip
-lang: en
+lang: de
 parent: exploring-historical-newspapers
 iframe: exploring-historical-newspapers
 
