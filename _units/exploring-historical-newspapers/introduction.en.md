@@ -14,15 +14,10 @@ The lesson consists of two modules with increasing levels of complexity and time
 
 Suggestions for background information:
 
-For a technical and historical overview and information about some applications of optical character recognition (OCR), take a look at the Wikipedia article:
-https://en.wikipedia.org/wiki/Optical_character_recognition 
-
-To understand how optical character recognition (OCR) identifies characters and words as a single entity (known as pattern recognition), look at the explanation by Aryaman Sharda:
-https://www.youtube.com/watch?v=cAkklvGE5io 
-
-For a more detailed explanation of each step of the optical character recognition (OCR) process, look at the interview with Professor Steve Simske by Computerphile: https://www.youtube.com/watch?v=ZNrteLp_SvY
-
-For an explanation of the process of binarisation watch Prof. Simske's lecture : https://youtu.be/ZNrteLp_SvY?t=149 
+- For a technical and historical overview and information about some applications of optical character recognition (OCR), take a look at the [relevant Wikipedia article](https://en.wikipedia.org/wiki/Optical_character_recognition)
+- To understand how optical character recognition (OCR) identifies characters and words as a single entity (known as pattern recognition), look at the [explanation by Aryaman Sharda](https://www.youtube.com/watch?v=cAkklvGE5io) 
+- For a more detailed explanation of each step of the optical character recognition (OCR) process, look at the [interview with Professor Steve Simske by Computerphile](https://www.youtube.com/watch?v=ZNrteLp_SvY)
+- For an explanation of the process of binarisation watch Prof. Simske's [lecture](https://youtu.be/ZNrteLp_SvY?t=149) 
 
 
 
