@@ -1,28 +1,23 @@
 ---
-title: Introduction
+title: Einleitung
 type: introduction
 parent: exploring-historical-newspapers
-lang: en
+lang: de
 link: /u/exploring-historical-newspapers/
 ---
 
-The lesson deals with how digitised newspapers that are available online change the way historians use newspapers as historical sources, and ask new skills for applying source criticism. 
+In dieser Lektion gehen wir darauf ein, wie sich online verfügbare, digitalisierte Zeitungen auf den Umgang mit Zeitungen als historischen Quellen auswirken und welche neuen Fähigkeiten bei der Quellenkritik notwendig sind.
 
-Newspapers are imperfect recorders of history, yet they are a key asset for historical research. The digitisation of newspapers and their availability online has broadened the scope of historians exponentially. Yet at the same time historians have to be conscious of what lies behind the search results that appear on their screen. The impression of 'completeness' can be misleading, as a digitisation project is always determined by particular choices. Digitisation also introduces some hurdles. Searching for articles on a given topic can be hindered by mistakes that have been made when applying optical character recognition (OCR). This lesson is meant to teach how various digital technologies have impacted the way we can access newspapers as historical sources, and which new questions we need to ask. 
+Obwohl es sich bei Zeitungen um unvollkommene Aufzeichnungen der Vergangenheit handelt, sind sie wichtige Quellen für die historische Forschung. Dank der Digitalisierung und Online-Verfügbarkeit von Zeitungen hat sich der Spielraum der Historiker exponentiell erhöht. Gleichzeitig müssen sich Historiker bewusst sein, was hinter den Suchergebnissen auf dem Bildschirm steht. Der Eindruck der „Vollständigkeit“ kann irreführend sein, da Digitalisierungsprojekte immer auch durch Entscheidungen beeinflusst werden. Außerdem schafft die Digitalisierung auch einige Hürden. Fehler bei der optischen Zeichenerkennung (englisch optical character recognition, OCR) können die Suche nach Artikeln zu einem bestimmten Thema erschweren. In dieser Lektion erfahren Sie, wie digitale Technologien den Zugang zu Zeitungen als historischen Quellen verändert haben und welche neuen Fragen wir uns stellen müssen.
 
-The lesson consists of two modules with increasing levels of complexity and time required. The first offers an animation lasting 7 minutes and 58 seconds, and is intended to be accessible to a broad audience. The second offers a series of four assignments that are suitable for either individual or collaborative work for two or three students. The time required varies from 30 to 60 minutes.
+Die Lektion besteht aus zwei Modulen, deren Komplexität und Zeitaufwand schrittweise zunehmen. Der erste besteht aus einer Animation mit einer Dauer von 7 Minuten und 58 Sekunden. Er ist für ein breites Publikum gedacht. Der zweite besteht aus vier Aufgaben, die für die Bearbeitung zu zweit oder zu dritt geeignet sind. Die benötigte Zeit beträgt 30 bis 60 Minuten.
 
-Suggestions for background information:
+Empfehlungen für Hintergrundinformationen:
+- Einen technischen und historischen Überblick sowie Informationen über einige Anwendungsgebiete der optischen Zeichenerkennung finden Sie im [diesen Wikipedia-Artikel](https://de.wikipedia.org/wiki/Texterkennung)
+- Wie die optische Zeichenerkennung Zeichen und Wörter als Einheiten identifiziert (bekannt als Mustererkennung), erfahren Sie in [dieser Erläuterung von Aryaman Sharda](https://www.youtube.com/watch?v=cAkklvGE5io)
+- Eine ausführlichere Erklärung der einzelnen Schritte der optischen Zeichenerkennung erhalten Sie in [diesem Computerphile-Interview mit Professor Steve Simske](https://www.youtube.com/watch?v=ZNrteLp_SvY)
+- Der Prozess der Binarisierung wird in [diesem Vortrag von Prof. Simske erklärt](https://youtu.be/ZNrteLp_SvY?t=149)
 
-For a technical and historical overview and information about some applications of optical character recognition (OCR), take a look at the Wikipedia article:
-https://en.wikipedia.org/wiki/Optical_character_recognition 
-
-To understand how optical character recognition (OCR) identifies characters and words as a single entity (known as pattern recognition), look at the explanation by Aryaman Sharda:
-https://www.youtube.com/watch?v=cAkklvGE5io 
-
-For a more detailed explanation of each step of the optical character recognition (OCR) process, look at the interview with Professor Steve Simske by Computerphile: https://www.youtube.com/watch?v=ZNrteLp_SvY
-
-For an explanation of the process of binarisation watch Prof. Simske's lecture : https://youtu.be/ZNrteLp_SvY?t=149 
 
 
 
