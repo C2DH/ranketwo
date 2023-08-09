@@ -3,12 +3,13 @@ title: "From the shelf to the web, exploring historical newspapers in the digita
 layout: unit
 publication_date: 2020-02-20
 toc: on
+research-phase: heuristics
+activities: 
+  - ocr 
+  - scanning 
+  - searching
 tags:
   - digitisation of newspapers
-  - digital source criticism
-  - optical character recognition
-  - search engines
-  - interface
 authors: 
   - marten-during
   - estelle-bunout
@@ -21,7 +22,7 @@ permalink: /u/exploring-historical-newspapers/
 audience: general public, bachelor, master humanities
 components:
   small: animation
-  medium: animation + 6 assignments
+  medium: animation + 4 assignments
 mediatypes: 
   - press
 cover:
