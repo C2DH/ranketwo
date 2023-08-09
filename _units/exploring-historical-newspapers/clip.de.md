@@ -8,9 +8,8 @@ iframe: exploring-historical-newspapers
 ---
 
 {: .headsup}                            
-**An animation on the impact of digital technology on the newspaper as historical source**
+**Eine Animation über die Auswirkungen digitaler Technologie auf Zeitungen als historische Quellen**
 
-From Chinese ink to digitised objects, changes in technology are creating a new future for yesterday’s news.
-This animation illustrates the peculiarities of newspapers as historical sources, how these paper sources have been turned into digital archives and how methods for enriching newspapers have opened up new ways of discovering content.
+Von der chinesischen Tinte bis zu digitalisierten Objekten – der technologische Fortschritt eröffnet den Nachrichten von gestern neue Zukunftsperspektiven. In dieser Animation wird auf die Besonderheiten von Zeitungen als historische Quellen eingegangen sowie darauf, wie aus diesen Papierquellen digitale Archive wurden und wie Methoden zur Aufbereitung von Zeitungen ganz neue Möglichkeiten für die Entdeckung von Inhalten eröffnet haben.
 
 <!-- more -->
