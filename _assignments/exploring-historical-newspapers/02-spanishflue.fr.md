@@ -10,7 +10,7 @@ tags:
   - conversion from analogue to digital
 requirements: Fast WIFI connection, computer or laptop, application on laptop or computer to view video,
 learning outcomes:
-  - Understand the process of digitisation and optical character recognition 
+  - Comprendre le processus de numérisation et la reconnaissance optique de caractères (OCR) 
 order: 2
 ---
 Pour permettre les recherches dans les journaux numérisés, un processus supplémentaire s’avère nécessaire&#x202F;: la segmentation du texte en articles. Les journaux ont tendance à publier sur la même page des textes dont les sujets ne sont pas liés. De plus, les articles uniques sont souvent divisés en parties imprimées sur différentes pages. Pour récupérer une version exploitable d’un article, il est nécessaire de comprendre quels caractères et mots appartiennent au même article. C’est ce que permet la technique de segmentation du texte en blocs qui correspondent aux articles. Alors que l’OCR nous indique les lettres et mots qui apparaissent sur une page du journal, la segmentation du texte qui consiste à réduire une page en unités plus petites nous indique les lettres et mots d’une page qui appartiennent à la même unité.
