@@ -2,7 +2,7 @@
 layout: assignment
 unit: exploring-historical-newspapers
 lang: en
-title: "Catching the flu with article segmentation"
+title: "Mit Artikelsegmentierung die Grippe einfangen"
 cover:
 tags:
   - media history
@@ -13,53 +13,54 @@ learning outcomes:
   - Understand the process of digitisation and optical character recognition 
 order: 2
 ---
-To make digitised newspapers searchable a further process is also needed: article segmentation. Newspapers tend to publish texts on topics that are not related to each other on the same page. Single articles are also often divided up into parts that are printed on different pages. To retrieve a meaningful version of an article, it is necessary to understand which characters and words belong to the same article. This “understanding” is made possible through the technique of article segmentation. While OCR gives us information on which letters and words appear on which page of the newspaper, article segmentation, the technique of scaling a page down into smaller units, gives us information on which letters and words on a page belong to the same unit. 
+Damit digitalisierte Zeitungen durchsucht werden können, ist ein weiteres Verfahren erforderlich: die Artikelsegmentierung. In Zeitungen werden häufig Texte zu nicht miteinander zusammenhängenden Themen auf derselben Seite veröffentlicht. Zudem sind Artikel häufig in Teilen auf verschiedenen Seiten abgedruckt.  Will man eine brauchbare Version eines Artikels finden, muss man verstehen, welche Zeichen und Wörter zu diesem Artikel gehören. Möglich wird dies durch die Technik der Artikelsegmentierung. OCR liefert Informationen darüber, welche Buchstaben und Wörter auf welcher Zeitungsseite vorkommen. Die Artikelsegmentierung, eine Technik, bei der eine Seite in kleinere Einheiten aufgeschlüsselt wird, liefert Informationen darüber, welche Buchstaben und Wörter auf einer Seite zur gleichen Einheit gehören.
 
-After applying OCR and article segmentation, the final step is to make the digitised newspapers available to the public. The extracted texts and the images of the newspapers are published on the web and can be viewed and searched using a carefully designed interface. Applying article segmentation is however not always included in the digitisation process, and a user only notices after having conducted a search. You will notice the difference between searching digital newspaper archives where this prinicple has been applied and where it is missing.  
+Nach OCR und Artikelsegmentierung werden die digitalisierten Zeitungen schließlich der Öffentlichkeit zur Verfügung gestellt. Die extrahierten Texte und Bilder der Zeitungen werden im Internet veröffentlicht und können über eine speziell entwickelte Schnittstelle eingesehen und durchsucht werden. Die Artikelsegmentierung ist jedoch nicht immer Teil des Digitalisierungsprozesses. Als Nutzer bemerkt man dies erst, nachdem man eine Suche durchgeführt hat.  Sie werden den Unterschied bemerken, wenn Sie in digitalen Zeitungsarchiven suchen, in denen dieses Prinzip angewandt wurde, und in solchen, in denen es nicht angewandt wurde.
+  
 
 <!-- more -->
 
 <!-- briefing-student -->
 
-### Instructions
+### Aufgaben
 <!-- section-contents -->
-To understand the principle of article segmentation you are going to search for the same term, but in different ways. The 1918 Influenza outbreak, often called the Spanish Flu was the deadliest pandemic in recent history and of course also widely covered by newspapers. This makes it an interesting example to illustrate how ‘article segmentation’ helps to identify  which words belong to which article.
+Um das Prinzip der Artikelsegmentierung zu verstehen, werden Sie nun auf unterschiedliche Arten nach einem Begriff suchen. Der Grippeausbruch von 1918, oft als Spanische Grippe bezeichnet, führte zur tödlichsten Pandemie der jüngeren Geschichte. Natürlich wurde auch in den Zeitungen ausführlich darüber berichtet. Das Thema ist daher ein interessantes Beispiel, anhand dessen sich zeigen lässt, wie die Artikelsegmentierung dabei hilft, zu einem Artikel gehörende Wörter zu erkennen.
 <!-- section -->
 
-### 2.a How to find an article that deals with the Spanish flu | 20 min
+### 2.a Einen Artikel zur Spanischen Grippe finden | 20 Min
 <!-- section-contents -->
 
-1.Go to [Les Temps (Swiss Newspapers)](https://www.letempsarchives.ch/){:target="_blank"}
+1.Rufen Sie [Les Temps (Swiss Newspapers)](https://www.letempsarchives.ch/){:target="_blank"} auf.
 
-- First search for the combination “grippe espagnole” (French for “Spanish flu”, as the newspaper is in French) and document your findings.
-- Then search for the single nouns  “grippe” and “espagnole” and document your findings. 
-- How can you explain the difference in hits between the two queries?
+- Suchen Sie zunächst nach der Kombination „grippe espagnole“ (französisch für „Spanische Grippe“, da die Zeitung auf Französisch ist) und dokumentieren Sie die Ergebnisse.
+- Suchen Sie dann nach den einzelnen Substantiven „grippe“ und „espagnole“ und dokumentieren Sie die Ergebnisse.
+- Wie erklären Sie sich den Unterschied bei den Treffern zu den Suchanfragen?
 
-2. Go to [E-NEWSPAPER ARCHIVES.CH](https://www.e-newspaperarchives.ch){:target="_blank"}
-- Search for “grippe” and “espagnole”: what difference do you notice compared with the previous interface?
-- Document what you have learned from this comparison 
+
+2. Rufen Sie [E-NEWSPAPER ARCHIVES.CH](https://www.e-newspaperarchives.ch){:target="_blank"} auf.
+- Suchen Sie nach „grippe“ und „espagnole“. Welchen Unterschied stellen Sie im Vergleich zur vorherigen Suche fest?
+- Dokumentieren Sie, was Sie bei diesem Vergleich herausgefunden haben. 
 
 
 <!-- section -->
 
-### 2.b Queries on the Spanish flu: different countries, different reactions? 
+### 2.b Suchanfragen zur Spanischen Grippe: andere Länder, andere Reaktionen? 
 <!-- section-contents -->
 
-Choose two languages that you master and two search environments to search with the query “Spanish flu” or “grippe espagnole” or “Spanische Grippe”: 
-- EN: https://trove.nla.gov.au/newspaper/?q= 
-- FR/DE: http://www.eluxemburgensia.lu 
-- EN/DE/FR: https://www.europeana.eu/portal/en/collections/newspapers?q= 
-- FR/DE: https://www.e-newspaperarchives.ch  
-- DE: http://anno.onb.ac.at/anno-suche#searchMode=simple&from=1
+Wählen Sie zwei Sprachen aus, die Sie beherrschen, und nutzen Sie zwei Suchumgebungen, um die Suchanfragen „Spanische Grippe“ oder „grippe espagnole“ oder „Spanische Grippe“ zu stellen:
+- EN: [https://trove.nla.gov.au/newspaper/?q=](https://trove.nla.gov.au/newspaper/?q=) 
+- FR/DE: [http://www.eluxemburgensia.lu](http://www.eluxemburgensia.lu) 
+- EN/DE/FR: [https://www.europeana.eu/portal/en/collections/newspapers?q=](https://www.europeana.eu/portal/en/collections/newspapers?q=) 
+- FR/DE: [https://www.e-newspaperarchives.ch](https://www.e-newspaperarchives.ch)  
+- DE: [http://anno.onb.ac.at/anno-suche#searchMode=simple&from=1](http://anno.onb.ac.at/anno-suche#searchMode=simple&from=1)
+Vergleichen Sie die Ergebnisse unter Berücksichtigung der folgenden Punkte:
 
-Compare the results by considering the following features:
-
-| | resource 1 | resource 2 |
-| Type of article (event, opinion, human interest)| | |
-| Does the collection cover the years in which the Spanish flu spread in Europe? |  |  |
-| Are there peaks in news coverage? |  |  | 
-| Is there a dominant frame?|  |  |
-| Are there specific features in the interface that limit your search output?| |  |
+| | Ressource 1 | Ressource 2 |
+| Art des Artikels (Ereignis, Meinung, Geschichte aus dem Leben)| | |
+| Deckt die Sammlung die Jahre ab, in denen sich die Spanische Grippe in Europa ausbreitete? |  |  |
+| Gibt es Zeiten mit besonders intensiver Berichterstattung? |  |  | 
+| Gibt es einen vorherrschenden Rahmen?|  |  |
+| Gibt es bestimmte Eigenschaften der Benutzeroberfläche, durch die Ihre Suchergebnisse eingeschränkt werden?| |  |
 
 <!-- section -->
 
