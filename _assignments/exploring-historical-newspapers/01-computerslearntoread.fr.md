@@ -55,7 +55,7 @@ Le principe fondamental de la classification à considérer est le suivant&#x202
 ### 1.b OCR et police gothique
 <!-- section-contents -->
 
-Certaines polices sont plus difficiles à traiter que d’autres. La reconnaissance des textes en police gothique représente une difficulté récurrente en ce qui concerne les textes historiques. Merci de consulter l’article «&#x202F;Vereine und Sport&#x202F;» dans le journal *Luxemburger Wort* du jeudi 16 juillet 1925, p. 4, et ensuite comparer le fac-similé au texte océrisé&#x202F;:
+Certaines polices sont plus difficiles à traiter que d’autres. La reconnaissance des textes en police gothique représente une difficulté récurrente en ce qui concerne les textes historiques. Merci de consulter [l’article «&#x202F;Vereine und Sport&#x202F;» dans le journal *Luxemburger Wort* du jeudi 16 juillet 1925, p. 4]()(https://viewer.eluxemburgensia.lu/ark:70795/bnfbxq/pages/4/articles/DTL105){:target="_blank"} et ensuite comparer le fac-similé au texte océrisé&#x202F;:
 - que pouvez-vous dire de la variation du résultat de l’OCR pour le mot «&#x202F;chorale&#x202F;» entre la police latine et gothique dans le même texte&#x202F;?
 - trouvez deux autres mots dans le texte qui commencent par un «&#x202F;C&#x202F;» majuscule en police gothique&#x202F;: en quelles lettres a-t-il été transformé&#x202F;?
 
