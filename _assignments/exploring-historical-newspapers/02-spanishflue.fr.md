@@ -1,8 +1,8 @@
 ---
 layout: assignment
 unit: exploring-historical-newspapers
-lang: en
-title: "Catching the flu with article segmentation"
+lang: fr
+title: "Attraper la grippe grâce à la segmentation de texte "
 cover:
 tags:
   - media history
@@ -13,9 +13,10 @@ learning outcomes:
   - Understand the process of digitisation and optical character recognition 
 order: 2
 ---
-To make digitised newspapers searchable a further process is also needed: article segmentation. Newspapers tend to publish texts on topics that are not related to each other on the same page. Single articles are also often divided up into parts that are printed on different pages. To retrieve a meaningful version of an article, it is necessary to understand which characters and words belong to the same article. This “understanding” is made possible through the technique of article segmentation. While OCR gives us information on which letters and words appear on which page of the newspaper, article segmentation, the technique of scaling a page down into smaller units, gives us information on which letters and words on a page belong to the same unit. 
+Pour permettre les recherches dans les journaux numérisés, un processus supplémentaire s’avère nécessaire&#x202F;: la segmentation du texte en articles. Les journaux ont tendance à publier sur la même page des textes dont les sujets ne sont pas liés. De plus, les articles uniques sont souvent divisés en parties imprimées sur différentes pages. Pour récupérer une version exploitable d’un article, il est nécessaire de comprendre quels caractères et mots appartiennent au même article. C’est ce que permet la technique de segmentation du texte en blocs qui correspondent aux articles. Alors que l’OCR nous indique les lettres et mots qui apparaissent sur une page du journal, la segmentation du texte qui consiste à réduire une page en unités plus petites nous indique les lettres et mots d’une page qui appartiennent à la même unité.
 
-After applying OCR and article segmentation, the final step is to make the digitised newspapers available to the public. The extracted texts and the images of the newspapers are published on the web and can be viewed and searched using a carefully designed interface. Applying article segmentation is however not always included in the digitisation process, and a user only notices after having conducted a search. You will notice the difference between searching digital newspaper archives where this prinicple has been applied and where it is missing.  
+Après avoir appliqué l’OCR et la segmentation du texte en articles, la dernière étape consiste à mettre les journaux numérisés à la disposition du public. Les textes extraits et les images des journaux sont publiés sur la Toile et peuvent être consultés et faire l’objet d’une recherche à l’aide d’une interface soigneusement conçue. L’application de la segmentation de texte n’est cependant pas toujours comprise dans le processus de numérisation et un utilisateur ne le remarque qu’après avoir effectué une recherche. Lors de vos recherches dans les archives de journaux numériques, vous remarquerez la différence quand ce principe a été appliqué ou non.
+
 
 <!-- more -->
 
@@ -23,51 +24,54 @@ After applying OCR and article segmentation, the final step is to make the digit
 
 ### Instructions
 <!-- section-contents -->
-To understand the principle of article segmentation you are going to search for the same term, but in different ways. The 1918 Influenza outbreak, often called the Spanish Flu was the deadliest pandemic in recent history and of course also widely covered by newspapers. This makes it an interesting example to illustrate how ‘article segmentation’ helps to identify  which words belong to which article.
+Pour comprendre le principe de segmentation du texte en articles, vous allez rechercher le même terme, mais de différentes manières. L’épidémie de grippe de 1918, souvent appelée grippe espagnole, a été la pandémie la plus mortelle de l’histoire récente. Elle a, évidemment, été largement couverte par la presse. Cela en fait un exemple intéressant pour illustrer comment la «&#x202F;segmentation de texte&#x202F;» permet d’identifier quels mots appartiennent à quel article.
 <!-- section -->
 
-### 2.a How to find an article that deals with the Spanish flu | 20 min
+### 2.a Comment trouver un article qui traite de la grippe espagnole | 20 min
 <!-- section-contents -->
 
-1.Go to [Les Temps (Swiss Newspapers)](https://www.letempsarchives.ch/){:target="_blank"}
+1.Accéder à la collection de journaux suisses numérisés [Le Temps](https://www.letempsarchives.ch/){:target="_blank"}
 
-- First search for the combination “grippe espagnole” (French for “Spanish flu”, as the newspaper is in French) and document your findings.
-- Then search for the single nouns  “grippe” and “espagnole” and document your findings. 
-- How can you explain the difference in hits between the two queries?
+- recherchez d’abord la combinaison «&#x202F;grippe espagnole&#x202F;» et documentez vos résultats
+- recherchez ensuite les noms simples «&#x202F;grippe&#x202F;» et «&#x202F;espagnole&#x202F;» et documentez vos résultats
+Comment pouvez-vous expliquer la différence de résultats entre les deux requêtes&#x202F;?
 
-2. Go to [E-NEWSPAPER ARCHIVES.CH](https://www.e-newspaperarchives.ch){:target="_blank"}
-- Search for “grippe” and “espagnole”: what difference do you notice compared with the previous interface?
-- Document what you have learned from this comparison 
 
+2. Accéder à l'archive des journaux suisses numérisés [E-NEWSPAPER ARCHIVES.CH](https://www.e-newspaperarchives.ch){:target="_blank"}
+- Recherchez «&#x202F;grippe&#x202F;» et «&#x202F;espagnole&#x202F;»&#x202F;: quelle différence remarquez-vous par rapport à l’interface précédente&#x202F;?
+Documentez ce que vous avez appris de cette comparaison.
 
 <!-- section -->
 
-### 2.b Queries on the Spanish flu: different countries, different reactions? 
+### 2.b Requêtes sur la grippe espagnole : différents pays, différentes réactions ?
 <!-- section-contents -->
 
-Choose two languages that you master and two search environments to search with the query “Spanish flu” or “grippe espagnole” or “Spanische Grippe”: 
-- EN: https://trove.nla.gov.au/newspaper/?q= 
-- FR/DE: http://www.eluxemburgensia.lu 
-- EN/DE/FR: https://www.europeana.eu/portal/en/collections/newspapers?q= 
-- FR/DE: https://www.e-newspaperarchives.ch  
-- DE: http://anno.onb.ac.at/anno-suche#searchMode=simple&from=1
+Choisissez deux langues que vous maîtrisez et deux environnements de recherche parmi ceux qui sont listés ci-dessous pour effectuer la requête avec le mot-clé «&#x202F;grippe espagnole&#x202F;» ou «&#x202F;Spanish flu&#x202F;» ou «&#x202F;Spanische Grippe&#x202F;»&#x202F;:
+- EN&#x202F;: [https://trove.nla.gov.au/newspaper/?q=](https://trove.nla.gov.au/newspaper/?q=) 
+- FR/DE&#x202F;: [http://www.eluxemburgensia.lu](http://www.eluxemburgensia.lu) 
+- EN/DE/FR&#x202F;: [https://www.europeana.eu/portal/en/collections/newspapers?q=](https://www.europeana.eu/portal/en/collections/newspapers?q=) 
+- FR/DE&#x202F;: [https://www.e-newspaperarchives.ch](https://www.e-newspaperarchives.ch)  
+- DE&#x202F;: [http://anno.onb.ac.at/anno-suche#searchMode=simple&from=1](http://anno.onb.ac.at/anno-suche#searchMode=simple&from=1)
 
-Compare the results by considering the following features:
+Comparez les résultats en tenant compte des caractéristiques suivantes&#x202F;:
 
-| | resource 1 | resource 2 |
-| Type of article (event, opinion, human interest)| | |
-| Does the collection cover the years in which the Spanish flu spread in Europe? |  |  |
-| Are there peaks in news coverage? |  |  | 
-| Is there a dominant frame?|  |  |
-| Are there specific features in the interface that limit your search output?| |  |
+| | ressource 1 | ressource 2 |
+| Type d’article (événementiel, d'opinion, d’intérêt général)| | |
+| La collection couvre-t-elle les années au cours desquelles la grippe espagnole s’est propagée en Europe ? |  |  |
+| Y a-t-il des pics de couverture médiatique ? |  |  | 
+| Y a-t-il un cadre dominant ?|  |  |
+| Y a-t-il des fonctionnalités spécifiques dans l’interface qui limitent vos résultats de recherche ?| |  |
 
 <!-- section -->
 
 
-### Reading/viewing suggestions
+### Suggestions de lectures/vidéos
 <!-- section-contents -->
 
 <!-- briefing-teacher --> 
+
+
+
 
 
 
