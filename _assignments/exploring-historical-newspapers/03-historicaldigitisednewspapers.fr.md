@@ -1,7 +1,7 @@
 ---
 layout: assignment
 unit: exploring-historical-newspapers
-lang: en
+lang: fr
 title: "Using digitised newspaper collections in practice"
 cover:
 tags:

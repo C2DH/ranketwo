@@ -1,7 +1,7 @@
 ---
 layout: assignment
 unit: exploring-historical-newspapers
-lang: en
+lang: de
 title: "Verwendung digitalisierter Zeitungssammlungen in der Praxis"
 cover:
 tags:

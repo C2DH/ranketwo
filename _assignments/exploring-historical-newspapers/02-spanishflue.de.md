@@ -1,7 +1,7 @@
 ---
 layout: assignment
 unit: exploring-historical-newspapers
-lang: en
+lang: de
 title: "Mit Artikelsegmentierung die Grippe einfangen"
 cover:
 tags:

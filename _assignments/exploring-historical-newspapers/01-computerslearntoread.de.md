@@ -1,7 +1,7 @@
 ---
 layout: assignment
 unit: exploring-historical-newspapers
-lang: en
+lang: de
 title: "Digitalisierung und wie Computer lesen lernen"
 cover:
 tags:
