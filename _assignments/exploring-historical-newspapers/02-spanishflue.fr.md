@@ -30,15 +30,15 @@ Pour comprendre le principe de segmentation du texte en articles, vous allez rec
 ### 2.a Comment trouver un article qui traite de la grippe espagnole | 20 min
 <!-- section-contents -->
 
-1.Accéder à la collection de journaux suisses numérisés [Le Temps](https://www.letempsarchives.ch/){:target="_blank"}
+Accéder à la collection de journaux suisses numérisés [Le Temps](https://www.letempsarchives.ch/){:target="_blank"}:
 
 - recherchez d’abord la combinaison «&#x202F;grippe espagnole&#x202F;» et documentez vos résultats
 - recherchez ensuite les noms simples «&#x202F;grippe&#x202F;» et «&#x202F;espagnole&#x202F;» et documentez vos résultats
 Comment pouvez-vous expliquer la différence de résultats entre les deux requêtes&#x202F;?
 
 
-2. Accéder à l'archive des journaux suisses numérisés [E-NEWSPAPER ARCHIVES.CH](https://www.e-newspaperarchives.ch){:target="_blank"}
-- Recherchez «&#x202F;grippe&#x202F;» et «&#x202F;espagnole&#x202F;»&#x202F;: quelle différence remarquez-vous par rapport à l’interface précédente&#x202F;?
+Accéder à l'archive des journaux suisses numérisés [E-NEWSPAPER ARCHIVES.CH](https://www.e-newspaperarchives.ch){:target="_blank"}:
+- recherchez «&#x202F;grippe&#x202F;» et «&#x202F;espagnole&#x202F;»&#x202F;: quelle différence remarquez-vous par rapport à l’interface précédente&#x202F;?
 Documentez ce que vous avez appris de cette comparaison.
 
 <!-- section -->
