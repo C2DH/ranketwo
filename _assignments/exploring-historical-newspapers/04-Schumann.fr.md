@@ -27,7 +27,7 @@ Nous allons utiliser l’exemple de Robert Schuman(n) pour comprendre comment co
 
 <!-- section -->
 
-### 4.a Comment identifier les articles sur « Robert Schuman » ? | 20 min
+### 4.a Identifier les articles sur « Robert Schuman » | 20 min
 <!-- section-contents -->
 
 D'abord, lisez les informations clés qui peuvent s’avérer utiles pour distinguer les deux Robert Schuman(n)&#x202F;:
