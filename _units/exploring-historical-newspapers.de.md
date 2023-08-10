@@ -2,6 +2,7 @@
 title: "Aus dem Regal ins Netz: Historische Zeitungen im digitalen Zeitalter"
 layout: unit
 publication_date: 2020-02-20
+translation_date: 2023-08-10
 toc: on
 research-phase: heuristics
 activities: 
