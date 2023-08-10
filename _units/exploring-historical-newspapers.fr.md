@@ -2,6 +2,7 @@
 title: "De l’étagère à la Toile : l’étude de la presse écrite à l’ère numérique"
 layout: unit
 publication_date: 2020-02-20
+translation_date: 2023-08-10
 toc: on
 research-phase: heuristics
 activities: 
