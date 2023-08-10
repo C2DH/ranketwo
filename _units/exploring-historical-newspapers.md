@@ -1,5 +1,5 @@
 ---
-title: "From the shelf to the web, exploring historical newspapers in the digital age."
+title: "From the shelf to the web, exploring historical newspapers in the digital age"
 layout: unit
 publication_date: 2020-02-20
 toc: on
