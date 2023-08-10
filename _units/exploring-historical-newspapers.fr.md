@@ -18,7 +18,7 @@ editors:
 lang: fr
 unit_id: exploring-historical-newspapers
 link: /u/exploring-historical-newspapers/
-permalink: /u/exploring-historical-newspapers/
+permalink: /fr/u/exploring-historical-newspapers/
 audience: general public, bachelor, master humanities
 components:
   small: animation
