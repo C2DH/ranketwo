@@ -1,8 +1,8 @@
 ---
 layout: assignment
 unit: exploring-historical-newspapers
-lang: en
-title: "Looking for Robert Schuman(n)"
+lang: fr
+title: "À la recherche de Robert Schuman(n)"
 cover:
 tags:
   - media history
@@ -11,11 +11,11 @@ tags:
   - interfase
 requirements: Fast WIFI connection, computer or laptop, application on laptop or computer to view video,
 learning outcomes:
-  - Understand how search environments work  
+  - Comprendre comment les environnements de recherche fonctionnent  
 order: 4
 ---
 
-Names of people and locations are more prone to OCR mistakes, as they cannot be found in the dictionaries that are used to recognise printed words. This means that if the software used for digitisation has not integrated a dictionary of names, an accurate match for a query of a name relies completely on the correct identification of each single letter of the name. 
+Les noms de personnes et de lieux sont davantage sujets aux erreurs d’OCR, car ils ne peuvent pas être trouvés dans les dictionnaires utilisés pour reconnaître les mots imprimés. Cela signifie que si le logiciel utilisé pour la numérisation n’a pas intégré de dictionnaire de noms, une correspondance précise pour la requête d’un nom repose entièrement sur l’identification correcte de chaque lettre du nom. 
 
 <!-- more -->
 
@@ -23,55 +23,48 @@ Names of people and locations are more prone to OCR mistakes, as they cannot be 
 
 ### Instructions
 <!-- section-contents -->
-We will now use this example of Robert Schuman(n) to understand how best to control our query parameters. 
+Nous allons utiliser l’exemple de Robert Schuman(n) pour comprendre comment contrôler au mieux nos paramètres de requête. 
 
 <!-- section -->
 
-### 4.a How can we identify articles about “Robert Schuman”? | 20 min
+### 4.a Comment identifier les articles sur « Robert Schuman » ? | 20 min
 <!-- section-contents -->
 
-- Read key information that can be useful to distinguish the two Robert Schuman(n)s:
+D'abord, lisez les informations clés qui peuvent s’avérer utiles pour distinguer les deux Robert Schuman(n)&#x202F;:
 
-Robert Schuman, the politician, is most famous for 
-[the eponymous declaration](https://www.cvce.eu/obj/the_declaration_by_robert_schuman_paris_9_may_1950-en-d27938ef-7d39-4d32-b340-07fe7268e3c3.html)
-  
-Robert Schumann, [the composer](https://820e1645-e1f5-453e-859e-1a81895231f2_2368fdc80b.widget.getarchive.net/media/robert-schumann-portrait-b290ac) 
+- Robert Schuman, l’homme politique, surtout connu pour la [déclaration éponyme](https://www.cvce.eu/obj/la_declaration_de_robert_schuman_paris_9_mai_1950-fr-d27938ef-7d39-4d32-b340-07fe7268e3c3.html) qui tient une place spéciale dans l'histoire de la construction européenne. 
+- Robert Schumann, [le compositeur](https://archive.org/details/5706859928_84d6b32e47_o)
 
-- What kind of search filters could be used to distinguish the two personalities? 
-- Which period is relevant for each of them?
-- What kind of keywords could be helpful?
-- What other names would they potentially be associated with?
+Ensuite, essayez de répondre aux questions suivantes&#x202F;:
+
+- quel type de filtres de recherche pourriez-vous utiliser pour distinguer ces deux personnages&#x202F;?
+- quelle est la période pertinente pour chacun d’eux&#x202F;?
+- quel genre de mots-clés pourrait être utile&#x202F;?
+- à quels autres noms pourraient-ils être associés&#x202F;?
 
 
 <!-- section -->
 
-### 4.b Collecting articles on Robert Schuman(n) 
+### 4.b Collecte d’articles sur Robert Schuman(n) 
 <!-- section-contents -->
 
-Go to the website of the Australian National Library and select the section dedicated to [digitised newspapers](https://trove.nla.gov.au)
-- Search for articles containing Robert Schuman(n) in the year 1950.
-- Collect one article on Robert Schuman the politician, and one on Robert Schumann the composer (including 
-  advertisements for concerts)
+Surfez sur le site de la Bibliothèque nationale australienne et sélectionnez la section dédiée aux [journaux numérisés](https://trove.nla.gov.au). Recherchez des articles contenant «&#x202F;Robert Schuman(n)&#x202F;» datés de 1950 puis, à partir des résultats, collectez un article sur Robert Schuman, l’homme politique, et un sur Robert Schumann, le compositeur (y compris des publicités pour des concerts). 
 
-Go to the website of the Luxembourg National Library on [digitised newspapers](http://www.eluxemburgensia.lu) 
-- Conduct the same query, one article on Robert Schuman the politician and one on Robert Schumann the composer (including 
-  advertisements for concerts)
 
-- What difference do you notice in the results for the same queries in the two interfaces?
-- How can you make sure you find relevant results for each case? 
-- What options can you use to improve your control over the list of results?
+Ensuite, allez sur le site de la Bibliothèque nationale du Luxembourg dans la section [journaux numérisés](http://www.eluxemburgensia.lu). Effectuez la même requête afin de repérer un article sur Robert Schuman, l’homme politique, et un sur Robert Schumann, le compositeur (à nouveau y compris des publicités pour des concerts).
 
+Par la suite, répondez aux questions suivantes:  
+- quelle différence remarquez-vous dans les résultats pour les mêmes requêtes dans les deux interfaces&#x202F;?
+- comment pouvez-vous vous assurer de trouver des résultats pertinents pour chaque cas&#x202F;?
+- quelles options pouvez-vous utiliser pour améliorer votre contrôle sur la liste des résultats&#x202F;?
+ 
 <!-- section -->
 
 
-### 4c. Looking for Robert Schuman in Luxembourg
+### 4c. À la recherche de Robert Schuman au Luxembourg
 <!-- section-contents -->
 
-As you will know by now, Robert Schuman is a politician from Luxembourg, where he is not the only person with this name.
-There was a doctor in Bettembourg in the 1930s with the same name. How can you find an article about this person from the Luxembourg National Library’s collection of [digitised newspapers](http://www.eluxemburgensia.lu)?
-
-- Before starting the search, reflect on what could be problematic in finding information on this person in the newspaper. 
-- After conducting the search, describe what search strategies you used to help you find an article about Robert Schuman the doctor. 
+Comme vous le savez maintenant, Robert Schuman est un homme politique luxembourgeois, où il n’est pas le seul à porter ce nom. À Bettembourg, dans les années 1930, il y avait un médecin du même nom. Comment donc trouver un article sur cette personne dans la collection de [journaux numérisés](http://www.eluxemburgensia.lu) de la Bibliothèque nationale du Luxembourg&#x202F;? D'abord, avant de commencer la recherche, réfléchissez aux éléments qui pourraient poser problème pour trouver des informations sur cette personne dans le journal. Ensuite, après avoir effectué la recherche, décrivez les stratégies de recherche que vous avez utilisées pour vous aider à trouver un article sur Robert Schuman, le médecin.
 
 <!-- section -->
 
