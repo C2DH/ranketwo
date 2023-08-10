@@ -8,7 +8,7 @@ tags:
   - media history
   - web research
   - conversion from analogue to digital
-  - interfase
+  - interface
 requirements: Fast WIFI connection, computer or laptop, application on laptop or computer to view video,
 learning outcomes:
   - Understand how search environments work  
