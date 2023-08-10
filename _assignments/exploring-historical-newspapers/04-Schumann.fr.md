@@ -68,7 +68,7 @@ Comme vous le savez maintenant, Robert Schuman est un homme politique luxembourg
 
 <!-- section -->
 
-### Reading/viewing suggestions
+### Suggestions de lecture/vidéos
 <!-- section-contents -->
  
 
