@@ -11,18 +11,18 @@ tags:
   - interface
 requirements: Fast WIFI connection, computer or laptop, application on laptop or computer to view video,
 learning outcomes:
-  - Understand how different search interfaceses work  
+  - Comprendre comment de différentes interfaces de recherche fonctionnent   
 order: 3
 ---
 
-After taking measures to guarantee good quality OCR, another concern is the quality of the text retrieval by the search engine and the interaction with the audience through the interface. To find and read specific articles, a system has to be built and an interface has to be designed to enable you to query the database and access the place where the digitised newspapers are stored. The database therefore needs rich information on each of the digitised objects it contains. This information is called metadata, literally “information about data”. In general the most basic elements for books and articles are the author, the title of the publication, the date of publication and the language of the document. For newspapers, the available information is usually limited to the title of the newspaper and the date of publication of the issue. 
+Après la prise de mesures pour garantir une bonne qualité de l’OCR, la qualité de la récupération de texte par le moteur de recherche et l’interaction avec le public par l’intermédiaire de l’interface représentent une autre préoccupation. Pour trouver et lire des articles spécifiques, un système et une interface doivent être conçus pour vous permettre d’interroger la base de données et d’accéder à l’endroit où sont stockés les journaux numérisés. La base de données doit donc disposer d’informations riches sur chacun des objets numérisés qu’elle contient. Ces informations sont appelées métadonnées, littéralement «&#x202F;informations sur les données&#x202F;». En général, les éléments les plus fondamentaux pour les livres et les articles sont l’auteur ou l'autrice, le titre de la publication, la date de publication et la langue du document. En ce qui concerne les journaux, les informations disponibles se limitent généralement au titre du journal et à la date de publication du numéro.
 
-To turn all the digitised material into an online search environment, we need the following:
-- a database where the output of the digitisation is stored (the image of each newspaper page, the OCR and the metadata), 
-- an interface where you can type your query and browse the results 
-- a search engine that will receive your query from the interface and look into the database to find relevant results. 
+Pour transformer tout le matériel numérisé en un environnement de recherche en ligne, nous avons besoin des éléments suivants&#x202F;:
+- une base de données où sont stockés les résultats de la numérisation (l’image de chaque page de journal, l’OCR et les métadonnées)
+- une interface où vous pouvez introduire votre requête et parcourir les résultats
+- un moteur de recherche qui recevra votre requête depuis l’interface et interrogera la base de données pour trouver des résultats pertinents.
 
-The list of results that appears on your screen is the product of the interaction between these three elements. Any errors or missing elements may be the result of a problem arising in any one of these elements. As we have seen, digitisation itself can also yield errors. Furthermore, it is important to bear in mind that because we are dealing with historical texts, spellings might have changed over time or misspellings may have occurred in the historical source itself.  
+La liste des résultats qui apparaît sur votre écran est le produit de l’interaction entre ces trois éléments. Les erreurs ou éléments manquants peuvent résulter d’un problème lié à l’un de ces éléments. Comme nous l’avons vu, la numérisation elle-même peut également générer des erreurs. En outre, il est important de garder à l’esprit que, puisqu’il s’agit de textes historiques, l’orthographe peut avoir changé au fil du temps ou des fautes d’orthographe peuvent s’être glissées dans la source historique elle-même.
 
 <!-- more -->
 
@@ -30,21 +30,15 @@ The list of results that appears on your screen is the product of the interactio
 
 ### Instructions
 <!-- section-contents -->
-This assignment requires you to download a folder with different kinds of data so that you can see what the files look like as they are stored in the database.
+Cette tâche nécessite le téléchargement d’un dossier contenant différents types de données vous permettant de voir à quoi ressemblent les fichiers tels qu’ils sont stockés dans la base de données.
 
 <!-- section -->
 
-### 3.a What is in the database or where is the flu hiding? | 20 Min
+### 3.a  Que contient la base de données ou où se cache la grippe ? | 20 min
 <!-- section-contents -->
 
-- Go to [Historical Newspapers of Luxembourg](https://data.bnl.lu/data/historical-newspapers/)  
-- Browse to the bottom of the page
-- Download the “starter pack”
-This is a package for people who are starting to work with digitised newspapers, it contains the news of 5 days, from 5 different newspapers, in total 22 pages.  
-- Open and extract the zip file
-- Open one of the folders 
+- Accédez à l'archive des journaux numérisés de la Bibliothèque nationale du Luxembourg&#x202F;: [Historical Newspapers of Luxembourg](https://data.bnl.lu/data/historical-newspapers/) et téléchargez le pack de démarrage soit *starter pack*. Il s’agit d’un jeu de données destiné aux personnes qui commencent à travailler avec des journaux numérisés, composé des nouvelles de cinq jours, provenant de cinq journaux différents, pour un total de vingt-deux pages. Après l'avoir téléchargé, ouvrez et extrayez le fichier `.zip`. Ouvrez l’un des dossiers&#x202F;: vous verrez quatre types de fichiers nécessaires pour afficher les journaux historiques, quels sont ces types de fichiers&#x202F;?
 
-- You will see 4 file types that are necessary to display historical newspapers, what are these filetypes?
 
 |type 1|  |
 
@@ -57,10 +51,9 @@ This is a package for people who are starting to work with digitised newspapers,
 
 <!-- section -->
 
-### Reading/viewing suggestions
+### Suggestions de lectures/vidéos
 <!-- section-contents -->
 
 
 <!-- briefing-teacher --> 
-
 
