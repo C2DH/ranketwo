@@ -30,14 +30,13 @@ Um das Prinzip der Artikelsegmentierung zu verstehen, werden Sie nun auf untersc
 ### 2.a Einen Artikel zur Spanischen Grippe finden | 20 Min
 <!-- section-contents -->
 
-1.Rufen Sie [Les Temps (Swiss Newspapers)](https://www.letempsarchives.ch/){:target="_blank"} auf.
+Rufen Sie [Les Temps (Swiss Newspapers)](https://www.letempsarchives.ch/){:target="_blank"} auf.
 
 - Suchen Sie zunächst nach der Kombination „grippe espagnole“ (französisch für „Spanische Grippe“, da die Zeitung auf Französisch ist) und dokumentieren Sie die Ergebnisse.
 - Suchen Sie dann nach den einzelnen Substantiven „grippe“ und „espagnole“ und dokumentieren Sie die Ergebnisse.
 - Wie erklären Sie sich den Unterschied bei den Treffern zu den Suchanfragen?
 
-
-2. Rufen Sie [E-NEWSPAPER ARCHIVES.CH](https://www.e-newspaperarchives.ch){:target="_blank"} auf.
+Dann rufen Sie [E-NEWSPAPER ARCHIVES.CH](https://www.e-newspaperarchives.ch){:target="_blank"} auf.
 - Suchen Sie nach „grippe“ und „espagnole“. Welchen Unterschied stellen Sie im Vergleich zur vorherigen Suche fest?
 - Dokumentieren Sie, was Sie bei diesem Vergleich herausgefunden haben. 
 
