@@ -1,5 +1,5 @@
 ---
-title: "From the shelf to the web, exploring historical newspapers in the digital age."
+title: "De l’étagère à la Toile : l’étude de la presse écrite à l’ère numérique"
 layout: unit
 publication_date: 2020-02-20
 toc: on
@@ -15,7 +15,7 @@ authors:
   - estelle-bunout
 editors: 
   - stefania-scagliola
-lang: en
+lang: fr
 unit_id: exploring-historical-newspapers
 link: /u/exploring-historical-newspapers/
 permalink: /u/exploring-historical-newspapers/
@@ -31,6 +31,6 @@ order: 10
 og:
   description: "Digitised newspapers are changing the way historians use them as historical sources, and ask new skills for applying source criticism."
 ---
-Lesson about the digitisation and exploration of digital newspapers 
+Leçon sur la numérisation des journaux et l’étude de leurs représentations digitales
 
 <!-- more -->
