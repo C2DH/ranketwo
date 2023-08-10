@@ -29,13 +29,13 @@ To understand the principle of article segmentation you are going to search for 
 ### 2.a How to find an article that deals with the Spanish flu | 20 min
 <!-- section-contents -->
 
-1. Go to [Les Temps (Swiss Newspapers)](https://www.letempsarchives.ch/){:target="_blank"}
+Go to [Les Temps (Swiss Newspapers)](https://www.letempsarchives.ch/){:target="_blank"}
 
 - First search for the combination “grippe espagnole” (French for “Spanish flu”, as the newspaper is in French) and document your findings.
 - Then search for the single nouns  “grippe” and “espagnole” and document your findings. 
 - How can you explain the difference in hits between the two queries?
 
-2. Go to [E-NEWSPAPER ARCHIVES.CH](https://www.e-newspaperarchives.ch){:target="_blank"}
+Go to [E-NEWSPAPER ARCHIVES.CH](https://www.e-newspaperarchives.ch){:target="_blank"}
 - Search for “grippe” and “espagnole”: what difference do you notice compared with the previous interface?
 - Document what you have learned from this comparison 
 
