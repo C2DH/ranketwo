@@ -18,15 +18,10 @@ Der Prozess der Digitalisierung beginnt mit dem Scannen einer physischen Zeitung
 
 Dazu sind zwei Einzelschritte erforderlich:
 
-The process of digitisation begins by scanning a physical newspaper in order to produce an image of each page. Since images as such are not searchable, the letters in the text have to be made recognisable. This is done through a technique known as optical character recognition (OCR), with software that is able to understand the image of a character and turn it into a digital entity that represents a single character.
-
-For this to happen, two sub-steps have to be taken:
-
 1. Binarisierung der Farben des Bildes, d. h. die Umwandlung des Bildes einer Seite in nur zwei Farben: Schwarz und Weiß. Dadurch wird das Bild der Seite vereinfacht und der Kontrast zwischen dunklen und hellen Bereichen erhöht, sodass sich die einzelnen Zeichen vom Hintergrund der Seite abheben.
 2. Klassifizierung der Buchstaben. Nachdem die einzelnen Buchstaben voneinander abgegrenzt wurden, müssen sie zu Wörtern zusammengesetzt werden. Dazu vergleicht die Software die erfassten Buchstaben zunächst mit bekannten Schriftarten und wählt die am besten passende Schriftart aus.
 
 Folgende Merkmale können berücksichtigt werden:
-These are features that can be considered:
 - Handelt es sich um Buchstaben aus einem lateinischen oder arabischen Alphabet?
 - Sind die Buchstaben _kursiv_ oder __fett__?
 - Ist die Schriftart _Times New Roman_ oder _Comic Sans MS_?
@@ -40,9 +35,6 @@ Mithilfe eines ähnlichen Erkennungsmechanismus wird anschließend die Sprache i
 
 ### Aufgaben
 <!-- section-contents -->
-
-Computerphile, a channel dedicated to explaining computer science topics to a lay audience, published an interview with Professor Steve Simske, an expert on OCR, in 2017, in which he explains the underlying principles of OCR software. In the following excerpt he explains how the classification of fonts works:
-Watch [this passage from 10’10’’ to 12’47'](https://youtu.be/ZNrteLp_SvY?t=610){:target="_blank"}
 
 Der Kanal Computerphile, auf dem Informatikinhalte für ein nicht fachkundiges Publikum vermittelt werden, hat 2017 ein Interview mit dem OCR-Experten Professor Steve Simske veröffentlicht, in dem er die Grundprinzipien von OCR-Software erläutert. Im folgenden Abschnitt erklärt Professor Simske, wie die Klassifizierung von Schriftarten funktioniert: Sehen Sie sich [diese Passage ab 10:10 bis 12:47 an](https://youtu.be/ZNrteLp_SvY?t=610){:target="_blank"}
 
@@ -75,8 +67,6 @@ Einige Schriftarten sind schwieriger zu verarbeiten als andere. Eine immer wiede
 Hier sehen Sie das gescannte Bild der Titelseite der Neuen Zürcher Zeitung (NZZ), die am 26.10.1793 in Zürich, Schweiz, erschien. Darin wird über den Prozess und die Hinrichtung von Marie Antoinette, der Witwe von Ludwig XVI., im Oktober 1793 berichtet.
 
 <img src="../../assets/images/zurich.png" width="600">
-
-The archives of the NZZ were entirely digitised for the first time in 2005, using the microfilms of newspapers to produce scans that were then OCRed. The result of this process proved to be imperfect, especially for earlier texts that were published in Gothic font.
 
 Das Archiv der NZZ wurde 2005 zum ersten Mal vollständig digitalisiert. Dabei wurden die Mikrofilme der Zeitungen eingescannt und anschließend mit OCR bearbeitet. Das Ergebnis dieses Prozesses war nicht perfekt, insbesondere bei früheren Texten, die noch in gotischer Schrift veröffentlicht wurden.
 
