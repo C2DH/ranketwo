@@ -65,7 +65,7 @@ Vergleichen Sie die Ergebnisse unter Berücksichtigung der folgenden Punkte:
 <!-- section -->
 
 
-### Reading/viewing suggestions
+### Empfehlungen Lektüre/Videos
 <!-- section-contents -->
 
 <!-- briefing-teacher --> 
