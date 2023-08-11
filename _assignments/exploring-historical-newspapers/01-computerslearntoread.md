@@ -125,7 +125,7 @@ Information on the principle of binarisation from 2:29:
 - Riley, Sean. “Optical Character Recognition (OCR).” July 4, 2017. Computerphile. Educational video, 14:15. [Youtube Video](https://youtu.be/ZNrteLp_SvY?t=149){:target="_blank"}
 
 Here is information about the single connected component (or one letter) from 3:55:
-- Riley, Sean. “Optical Character Recognition (OCR).” July 4, 2017. Computerphile. Educational video, 14:15.[Youtube Video](https://youtu.be/ZNrteLp_SvY?t=235){:target="_blank"}
+- Riley, Sean. “Optical Character Recognition (OCR).” July 4, 2017. Computerphile. Educational video, 14:15. [Youtube Video](https://youtu.be/ZNrteLp_SvY?t=235){:target="_blank"}
 
 Information on the recognition of the types of letters used in a given text, or the classification of the fonts from 7:27: 
 - Riley, Sean. “Optical Character Recognition (OCR).” July 4, 2017. Computerphile. Educational video, 14:15. [Youtube Video](https://youtu.be/ZNrteLp_SvY?t=446){:target="_blank"}

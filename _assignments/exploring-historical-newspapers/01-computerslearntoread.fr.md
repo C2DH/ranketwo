@@ -100,7 +100,7 @@ Auriez-vous pu trouver cet article-ci sur la base du premier résultat OCR, si v
 <!-- section-contents -->
 
 *Pour un aperçu technique et historique, ainsi que des informations à propos de certaines applications de la reconnaissance optique de caractères (OCR) consulter&#x202F;:*
-- Wikipédia. «&#x202F;Reconnaissance optique de caractères&#x202F;». Dernière modification le 30 novembre 2022. [Wikipedia article](https://fr.wikipedia.org/wiki/Reconnaissance_optique_de_caract%C3%A8res){:target="_blank"}
+- Wikipédia. «&#x202F;Reconnaissance optique de caractères&#x202F;». Dernière modification le 30 novembre 2022. [Notice Wikipédia](https://fr.wikipedia.org/wiki/Reconnaissance_optique_de_caract%C3%A8res){:target="_blank"}
 
 *Pour comprendre comment la reconnaissance optique de caractères (OCR) identifie les caractères et les mots (la reconnaissance de formes), regarder&#x202F;:*
 - Sharda, Aryaman. «&#x202F;How Does Optical Character Recognition (OCR) Work&#x202F;». 21 novembre 2017. Vidéo éducative, 00:01:30. [Vidéo YouTube](https://www.youtube.com/watch?v=cAkklvGE5io){:target="_blank"}
@@ -112,7 +112,7 @@ Auriez-vous pu trouver cet article-ci sur la base du premier résultat OCR, si v
 - Riley, Sean. «&#x202F;Optical Character Recognition (OCR)&#x202F;». 4 juillet 2017. *Computerphile*. Vidéo éducative, 00:14:15. [Vidéo YouTube](https://youtu.be/ZNrteLp_SvY?t=149){:target="_blank"}
 
 *Informations sur le composant connecté unique (ou lettre unique) à partir de 00:03:55&#x202F;:*
-- Riley, Sean.  «&#x202F;Optical Character Recognition (OCR)&#x202F;». 4 juillet 2017. *Computerphile*. Vidéo éducative, 00:14:15.[Vidéo YouTube](https://youtu.be/ZNrteLp_SvY?t=235){:target="_blank"}
+- Riley, Sean.  «&#x202F;Optical Character Recognition (OCR)&#x202F;». 4 juillet 2017. *Computerphile*. Vidéo éducative, 00:14:15. [Vidéo YouTube](https://youtu.be/ZNrteLp_SvY?t=235){:target="_blank"}
 
 *Informations sur la reconnaissance des types de lettres utilisés dans un texte donné ou la classification des polices à partir de 00:07:27&#x202F;:* 
 - Riley, Sean. «&#x202F;Optical Character Recognition (OCR)&#x202F;». 4 juillet 2017. *Computerphile*. Vidéo éducative, 00:14:15. [Vidéo YouTube](https://youtu.be/ZNrteLp_SvY?t=446){:target="_blank"}

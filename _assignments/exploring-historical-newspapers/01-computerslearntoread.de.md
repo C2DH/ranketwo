@@ -114,7 +114,7 @@ Schauen Sie sich nun die manuelle Transkription desselben Textes an und vergleic
 - Riley, Sean. “Optical Character Recognition (OCR).” July 4, 2017. Computerphile. Educational video, 14:15. [Youtube-Video](https://youtu.be/ZNrteLp_SvY?t=149){:target="_blank"}
 
 *Hier finden Sie ab 3:55 Informationen über die einzelne verbundene Komponente (oder einen Buchstaben) ab 3:55:*
-- Riley, Sean. “Optical Character Recognition (OCR).” 4. Juli 2017. Computerphile. Lehrvideo, 14:15.[Youtube-Video](https://youtu.be/ZNrteLp_SvY?t=235){:target="_blank"}
+- Riley, Sean. “Optical Character Recognition (OCR).” 4. Juli 2017. Computerphile. Lehrvideo, 14:15. [Youtube-Video](https://youtu.be/ZNrteLp_SvY?t=235){:target="_blank"}
 
 *Informationen zur Erkennung der in einem Text verwendeten Arten von Buchstaben bzw. zur Klassifizierung der Schriftarten ab 7:27:* 
 - Riley, Sean. “Optical Character Recognition (OCR).” 4. Juli 2017. Computerphile. Lehrvideo, 14:15. [Youtube-Video](https://youtu.be/ZNrteLp_SvY?t=446){:target="_blank"}
