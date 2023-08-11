@@ -66,7 +66,7 @@ Certaines polices sont plus difficiles à traiter que d’autres. La reconnaissa
 
 Voici l’image numérisée de la première page de la *Neue Zürcher Zeitung* (NZZ) publiée le 26 octobre 1793 à Zurich, Suisse. Elle rend compte du procès et de l’exécution de Marie-Antoinette, la veuve de Louis XVI, en octobre 1793.
 
-<img src="../../assets/images/zurich.png" width="600">
+![Zurich](../../../assets/images/zurich.png)
 
 Dans le cadre du projet Impresso, évoqué dans le film d'animation de cette leçon, Phillip Ströbel et Simon Clematide de l’Université de Zurich ont expérimenté un logiciel conçu pour reconnaître le texte manuscrit, afin d’améliorer la qualité de l’OCR sur les polices gothiques.
 
@@ -75,7 +75,7 @@ Les deux résultats de l’OCR sont présentés ci-dessous. Comparez-les et rép
 
 |**A. Premières lignes de l’article en première page du numéro du 26 octobre 1793 de la NZZ**|
 
-<img src="../../assets/images/fragment-zurich.png" width="600">
+![Zurich](../../../assets/images/fragment-zurich.png)
 
 | **B. Résultat de l’OCR en 2005** |
 | Prozeß der Marie Antoinette. Nachdem dieselbe am i g. Weinm. alten StvlS, oder am rz. des ersten Monat« im 2,en Jahre der Republik neuen KaleuderstplS, in den Audienzsaal eingesührt wurde, und sie sich auf den Sessel niedergelassen hatte- fragte sie der Präsident: Wie sie heisse? „ Ich nenne mich, antwortete sie, Marie Antoinette von Lotharingen. Oestreich re. — Wer seyd ihr ?. Ich bin dir Wittwr Ludwig Capet«, ehemaligen Königs der Frauzo« seu.— Wie alt? Z8 Jahre. — Nun wurde von demGe-richtsschreiber die Auklagsakte vorgelesen. Darin» heißt e«,daß aus den dem Tribunale rnhandengestellten Schriften erhellet 'Daß gleich den Messalinen Brunehaut, Fredegoude»nd Medizi«, die man einstKöniainnea von Frankreich genannt habe, und deren verhaßte Namennie au« de» Jahrbüchern der Geschichte werden vertilgt werde» , Marie Antoinette , Ludwig Capets Wittwr, feit ihrem Aufenthalte inFrankreich die Plage und Blotfaugeriun der Franzosen gewesen; daß sie" noch vor der glücklichen Revoluzion |
