@@ -68,14 +68,6 @@ Voici l’image numérisée de la première page de la *Neue Zürcher Zeitung* (
 
 <img src="../../assets/images/zurich.png" width="600">
 
-The archives of the NZZ were entirely digitised for the first time in 2005, using the microfilms of newspapers to produce scans that were then OCRed. The result of this process proved to be imperfect, especially for earlier texts that were published in Gothic font.
-
-As part of the impresso project, referred to in the clip of this lesson, Phillip Ströbel and Simon Clematide from the University of Zurich have experimented with software developed to recognise handwritten text to improve the quality of the OCR on Gothic fonts.
-
-The two outputs of the OCR are shown below. Compare them and answer the questions.
-
-Les archives de la NZZ ont été entièrement numérisées pour la première fois en 2005&#x202F;: d'abord, les microfilms des journaux ont été numérisés, puis traités par OCR. Le résultat de ce processus s’est avéré imparfait, en particulier pour les textes plus anciens publiés en police gothique.
-
 Dans le cadre du projet Impresso, évoqué dans le film d'animation de cette leçon, Phillip Ströbel et Simon Clematide de l’Université de Zurich ont expérimenté un logiciel conçu pour reconnaître le texte manuscrit, afin d’améliorer la qualité de l’OCR sur les polices gothiques.
 
 Les deux résultats de l’OCR sont présentés ci-dessous. Comparez-les et répondez aux questions posées à la fin de chaque section.
