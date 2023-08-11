@@ -91,7 +91,7 @@ Schauen Sie sich nun die manuelle Transkription desselben Textes an und vergleic
 | **A. Manuelle Transkription** |
 | Prozeß der Marie Antoinette. Nachdem dieselbe am 15. Weinm. alten Styls, oder am 23. des ersten Monats im 2tem Jahre der Republik neuen Kalenderstyls, in den Audienzsaal eingeführt wurde, und sie sich auf dem Sessel niederlassen hatte, fragte sie der Präsident: Wie sie heisse? “Ich nenne mich, antwortete Sie, Marie Antoinette von Lotharingen-Oestreich - Wer seyd ihr? Ich bin die Wittwe Ludwig Capets, ehemaligen König der Franzosen. - Wie alt? 38 Jahre. - Nun wurde von dem Gerichtsschreiber die Anklagsakte vorgelesen. Darinn heißt es daß aus den dem Tribunale zuhandengestellten Schriften erhelle: Daß gleich den Messalinen Brunehaus, Fredegonde und Medizis, die man einst Königin von Frankreich genannt habe, und deren verhaßte Namen nie aus den Jahrbüchern der Geschichte werden vertilgt werden, Marie Antoinette, Ludwig Capets Wittwe, seit ihrem Aufenthalte in Frankreich die Plage und Blutsaugerinn der Franzosen gewesen: daß sie noch der glücklichen Revoluzion, |
 
-- • Hätten Sie diesen Artikel anhand der ersten OCR finden können, wenn Sie mit den folgenden Stichworten gesucht hätten:  „Marie Antoinette“, „Revolution“? Begründen Sie Ihre Antworten für beide Fälle.
+- Hätten Sie diesen Artikel anhand der ersten OCR finden können, wenn Sie mit den folgenden Stichworten gesucht hätten:  „Marie Antoinette“, „Revolution“? Begründen Sie Ihre Antworten für beide Fälle.
 
 <!-- section -->
 
