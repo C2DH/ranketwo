@@ -3,7 +3,7 @@ title: "Animation: De l’étagère à la Toile "
 type: clip
 lang: fr
 parent: exploring-historical-newspapers
-iframe: exploring-historical-newspapers-french
+iframe: exploring-historical-newspapers
 
 ---
 
