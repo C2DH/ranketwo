@@ -5,8 +5,11 @@ parent: exploring-historical-newspapers
 lang: de
 link: /u/exploring-historical-newspapers/
 ---
+<!-- more -->
 
 In dieser Lektion gehen wir darauf ein, wie sich online verfügbare, digitalisierte Zeitungen auf den Umgang mit Zeitungen als historischen Quellen auswirken und welche neuen Fähigkeiten bei der Quellenkritik notwendig sind.
+
+<!-- section-contents -->
 
 Obwohl es sich bei Zeitungen um unvollkommene Aufzeichnungen der Vergangenheit handelt, sind sie wichtige Quellen für die historische Forschung. Dank der Digitalisierung und Online-Verfügbarkeit von Zeitungen hat sich der Spielraum der Historiker exponentiell erhöht. Gleichzeitig müssen sich Historiker bewusst sein, was hinter den Suchergebnissen auf dem Bildschirm steht. Der Eindruck der „Vollständigkeit“ kann irreführend sein, da Digitalisierungsprojekte immer auch durch Entscheidungen beeinflusst werden. Außerdem schafft die Digitalisierung auch einige Hürden. Fehler bei der optischen Zeichenerkennung (englisch optical character recognition, OCR) können die Suche nach Artikeln zu einem bestimmten Thema erschweren. In dieser Lektion erfahren Sie, wie digitale Technologien den Zugang zu Zeitungen als historischen Quellen verändert haben und welche neuen Fragen wir uns stellen müssen.
 
