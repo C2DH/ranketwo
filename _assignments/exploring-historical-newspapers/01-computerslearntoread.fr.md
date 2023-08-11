@@ -25,7 +25,7 @@ Pour ce faire, deux sous-étapes doivent être réalisées&#x202F;:
 Voici des caractéristiques qu’il convient de prendre en compte&#x202F;:
 - Ces lettres viennent-elles d’un alphabet latin ou arabe&#x202F;?
 - Ces lettres sont-elles en _italique_ ou en __gras__&#x202F;?
-- La police est-elle _Times New _Roman_ ou _Comic Sans MS_&#x202F;?
+- La police est-elle _Times New Roman_{:.font-times} ou _Comic Sans MS_{:.font-comic}&#x202F;?
 
 Un mécanisme de détection similaire identifie ensuite la langue et compare les mots trouvés à un dictionnaire correspondant. Le résultat du traitement OCR est un texte transcrit lisible par une machine. Ainsi, le journal est désormais numérisé&#x202F;: nous disposons à la fois de l’image de la page et son texte.
 

@@ -24,7 +24,7 @@ Dazu sind zwei Einzelschritte erforderlich:
 Folgende Merkmale können berücksichtigt werden:
 - Handelt es sich um Buchstaben aus einem lateinischen oder arabischen Alphabet?
 - Sind die Buchstaben _kursiv_ oder __fett__?
-- Ist die Schriftart _Times New Roman_ oder _Comic Sans MS_?
+- Ist die Schriftart _Times New Roman_{:.font-times} oder _Comic Sans MS_{:.font-comic}?
 
 Mithilfe eines ähnlichen Erkennungsmechanismus wird anschließend die Sprache identifiziert und die gefundenen Wörter werden mit einem entsprechenden Wörterbuch verglichen. Das Ergebnis der OCR-Verarbeitung ist ein transkribierter, maschinenlesbarer Text. Wir haben nun eine digitalisierte Zeitung: das Bild der Seite und ihren Text.
 
