@@ -66,7 +66,7 @@ Einige Schriftarten sind schwieriger zu verarbeiten als andere. Eine immer wiede
 
 Hier sehen Sie das gescannte Bild der Titelseite der Neuen Zürcher Zeitung (NZZ), die am 26.10.1793 in Zürich, Schweiz, erschien. Darin wird über den Prozess und die Hinrichtung von Marie Antoinette, der Witwe von Ludwig XVI., im Oktober 1793 berichtet.
 
-<img src="../../assets/images/zurich.png" width="600">
+<img src="../../../assets/images/zurich.png" width="600">
 
 Das Archiv der NZZ wurde 2005 zum ersten Mal vollständig digitalisiert. Dabei wurden die Mikrofilme der Zeitungen eingescannt und anschließend mit OCR bearbeitet. Das Ergebnis dieses Prozesses war nicht perfekt, insbesondere bei früheren Texten, die noch in gotischer Schrift veröffentlicht wurden.
 
@@ -77,7 +77,7 @@ Die beiden Ergebnisse der OCR sehen Sie unten. Vergleichen Sie sie und beantwort
 
 |**A. Erste Zeilen des Artikels auf der Titelseite der NZZ vom 26.10.1793**|
 
-<img src="../../assets/images/fragment-zurich.png" width="600">
+<img src="../../../assets/images/fragment-zurich.png" width="600">
 
 | **B. OCR-Ausgabe von 2005** |
 | Prozeß der Marie Antoinette. Nachdem dieselbe am i g. Weinm. alten StvlS, oder am rz. des ersten Monat« im 2,en Jahre der Republik neuen KaleuderstplS, in den Audienzsaal eingesührt wurde, und sie sich auf den Sessel niedergelassen hatte- fragte sie der Präsident: Wie sie heisse? „ Ich nenne mich, antwortete sie, Marie Antoinette von Lotharingen. Oestreich re. — Wer seyd ihr ?. Ich bin dir Wittwr Ludwig Capet«, ehemaligen Königs der Frauzo« seu.— Wie alt? Z8 Jahre. — Nun wurde von demGe-richtsschreiber die Auklagsakte vorgelesen. Darin» heißt e«,daß aus den dem Tribunale rnhandengestellten Schriften erhellet 'Daß gleich den Messalinen Brunehaut, Fredegoude»nd Medizi«, die man einstKöniainnea von Frankreich genannt habe, und deren verhaßte Namennie au« de» Jahrbüchern der Geschichte werden vertilgt werde» , Marie Antoinette , Ludwig Capets Wittwr, feit ihrem Aufenthalte inFrankreich die Plage und Blotfaugeriun der Franzosen gewesen; daß sie" noch vor der glücklichen Revoluzion |
