@@ -33,10 +33,10 @@ Wir werden nun von Robert Schuman(n) als Beispiel herausfinden, wie wir unsere S
 - Lesen Sie sich die wichtigsten Informationen durch, die Ihnen bei der Unterscheidung der beiden Robert Schuman(n)s behilflich sein können:
 Robert Schuman, der Politiker, ist für [die gleichnamige Erklärung](https://www.cvce.eu/obj/die_erklarung_robert_schumans_9_mai_1950-de-d27938ef-7d39-4d32-b340-07fe7268e3c3.html) bekannt.
 Robert Schumann, [der Komponist](https://archive.org/details/5706859928_84d6b32e47_o).
-• Welche Suchfilter können genutzt werden, um zwischen beiden Persönlichkeiten zu unterscheiden?
-• Welcher Zeitraum ist für sie jeweils relevant?
-• Welche Schlüsselwörter könnten hilfreich sein?
-• Mit welchen anderen Namen könnten sie möglicherweise in Verbindung gebracht werden?
+- Welche Suchfilter können genutzt werden, um zwischen beiden Persönlichkeiten zu unterscheiden?
+- Welcher Zeitraum ist für sie jeweils relevant?
+- Welche Schlüsselwörter könnten hilfreich sein?
+- Mit welchen anderen Namen könnten sie möglicherweise in Verbindung gebracht werden?
 
 
 <!-- section -->
