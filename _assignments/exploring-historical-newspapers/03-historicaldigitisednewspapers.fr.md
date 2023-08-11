@@ -37,7 +37,7 @@ Cette tâche nécessite le téléchargement d’un dossier contenant différents
 ### 3.a  Que contient la base de données ou où se cache la grippe ? | 20 min
 <!-- section-contents -->
 
-- Accédez à l'archive des journaux numérisés de la Bibliothèque nationale du Luxembourg&#x202F;: [Historical Newspapers of Luxembourg](https://data.bnl.lu/data/historical-newspapers/) et téléchargez le pack de démarrage soit *starter pack*. Il s’agit d’un jeu de données destiné aux personnes qui commencent à travailler avec des journaux numérisés, composé des nouvelles de cinq jours, provenant de cinq journaux différents, pour un total de vingt-deux pages. Après l'avoir téléchargé, ouvrez et extrayez le fichier `.zip`. Ouvrez l’un des dossiers&#x202F;: vous verrez quatre types de fichiers nécessaires pour afficher les journaux historiques, quels sont ces types de fichiers&#x202F;?
+Accédez à l'archive des journaux numérisés de la Bibliothèque nationale du Luxembourg&#x202F;: [Historical Newspapers of Luxembourg](https://data.bnl.lu/data/historical-newspapers/) et téléchargez le pack de démarrage soit *starter pack*. Il s’agit d’un jeu de données destiné aux personnes qui commencent à travailler avec des journaux numérisés, composé des nouvelles de cinq jours, provenant de cinq journaux différents, pour un total de vingt-deux pages. Après l'avoir téléchargé, ouvrez et extrayez le fichier `.zip`. Ouvrez l’un des dossiers&#x202F;: vous verrez quatre types de fichiers nécessaires pour afficher les journaux historiques, quels sont ces types de fichiers&#x202F;?
 
 
 |type 1|  |
