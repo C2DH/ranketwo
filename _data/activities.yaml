@@ -106,7 +106,7 @@
     de: 'suchen'
   definition: 
     en: "Search for target data from a set of data [URI](https://vocabs.dariah.eu/tadirah/searching)"
-    fr: ""
+    fr: "Rechercher des données à partir d'un jeu de données"
     de: ""
 
 - id: scanning
