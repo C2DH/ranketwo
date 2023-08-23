@@ -2,6 +2,10 @@
 title: "David Boder: Von der Drahttonaufnahme zur Website"
 layout: unit
 toc: on
+research-phase: analysis
+activities: 
+  - searching 
+  - content analysis
 authors: 
   - stefania-scagliola
 lang: de

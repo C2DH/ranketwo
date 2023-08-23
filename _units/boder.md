@@ -2,6 +2,10 @@
 title: "David Boder: from wire recordings to website"
 layout: unit
 toc: on
+research-phase: analysis
+activities: 
+  - searching 
+  - content analysis 
 authors: 
   - stefania-scagliola
 lang: en

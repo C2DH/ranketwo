@@ -2,6 +2,10 @@
 title: "David Boder : des enregistrements à fils au site internet"
 layout: unit
 toc: on
+research-phase: analysis
+activities: 
+  - searching 
+  - content analysis
 authors:
   - stefania-scagliola
 lang: fr
