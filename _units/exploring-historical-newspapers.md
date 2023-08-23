@@ -25,6 +25,11 @@ components:
   medium: animation + 4 assignments
 mediatypes: 
   - press
+research-phase: heuristics
+activities: 
+  - web-scraping
+  - network-analysis
+  - content-analysis
 cover:
   url: https://impresso.github.io/assets/images/project-schema.jpg
 order: 10
