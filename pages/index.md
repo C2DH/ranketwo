@@ -7,7 +7,7 @@ title: A series of lessons on Digital Source Criticism
 videos:
   -
     id: 'fashion'
-    caption: "*First show of fashionable shoes* Kurhaus, The Hague(NL), 4-2-1949, Polygoon-Profilti, Netherlands Institute of Sound and Vision<br>Publication online unknown, source [www.europeana.eu](https://www.europeana.eu/portal/en/record/2051906/data_euscreenXL_http___openbeelden_nl_media_71231.html?q=fashion+AND+RIGHTS%3A%2Acreative%2A+AND+NOT+RIGHTS%3A%2And%2A)"
+    caption: "*First show of fashionable shoes* Kurhaus, The Hague(NL), 4-2-1949, Polygoon-Profilti, Netherlands Institute of Sound and Vision<br>Publication online unknown, source [www.europeana.eu](https://www.europeana.eu/portal/en/record/2051906/data_euscreenXL_http___openbeelden_nl_media_71231)"
   -
     id: 'writing'
     caption: "*Writing better social letters* by Coronet Instruction Films 1950<br>Publication online 20-9-2013, source [archive.org](https://archive.org/details/0167_Writing_Better_Social_Letters_E01751_08_40_54_00)"
