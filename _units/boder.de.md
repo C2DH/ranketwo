@@ -2,6 +2,10 @@
 title: "David Boder: Von der Drahttonaufnahme zur Website"
 layout: unit
 toc: on
+research-phase: analysis
+activities: 
+  - searching 
+  - content-analysis
 authors: 
   - stefania-scagliola
 lang: de
@@ -12,7 +16,7 @@ permalink: /de/u/boder/
 audience: general public, bachelor, master humanities
 components:
   small: Animation
-  medium: interaktive Animation + 11 Aufgaben, Kurs mit Videoanimation + 5 Aufgaben
+  medium: Videoanimation, interaktive Animation + 11 Aufgaben
 mediatypes: 
   - oral-interview
   - oral-history

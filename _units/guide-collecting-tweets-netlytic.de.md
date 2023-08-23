@@ -16,10 +16,17 @@ editors:
   - sofia-papastamkou
 publication_date: 2023-06-13
 toc: off
+research-phase: heuristics
+activities: 
+  - searching
+  - web-scraping
 mediatypes: 
   - web-social-media
 research-phase: heuristics
-activity: web-scraping
+activities: 
+  - web-scraping
+  - network-analysis
+  - content-analysis
 cover: 
  url: /assets/images/guide-collecting-tweets-netlytic/guide-netlytic-avatar.jpg
 ---

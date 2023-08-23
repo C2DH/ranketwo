@@ -2,6 +2,10 @@
 title: "David Boder : des enregistrements à fils au site internet"
 layout: unit
 toc: on
+research-phase: analysis
+activities: 
+  - searching 
+  - content-analysis
 authors:
   - stefania-scagliola
 lang: fr
@@ -12,7 +16,7 @@ permalink: /fr/u/boder/
 audience: general public, bachelor, master humanities
 components:
   small: animation
-  medium: animation interactive + 11 tâches, lecture vidéo animée + 5 tâches
+  medium: film animé, animation interactive + 11 tâches
 mediatypes: 
   - oral-interview
   - oral-history

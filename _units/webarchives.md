@@ -13,6 +13,10 @@ authors:
 lang: en
 mediatypes: 
   - web-site
+research-phase: analysis
+activities: 
+  - searching
+  - content-analysis
 unit_id: webarchives
 link: /u/webarchives/
 permalink: /u/webarchives/

@@ -2,6 +2,10 @@
 title: "David Boder: from wire recordings to website"
 layout: unit
 toc: on
+research-phase: analysis
+activities: 
+  - searching 
+  - content-analysis 
 authors: 
   - stefania-scagliola
 lang: en
@@ -12,7 +16,7 @@ permalink: /u/boder/
 audience: general public, bachelor, master humanities
 components:
   small: animation
-  medium: interactive animation + 11 assignments, video animated lecture + 5 assignments
+  medium: video animated lecture, interactive animation + 11 assignments
 mediatypes: 
   - oral-interview
   - oral-history
