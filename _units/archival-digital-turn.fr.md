@@ -6,7 +6,7 @@ toc: on
 research-phase: analysis 
 activities:
   - searching
-  - content analysis
+  - content-analysis
   - annotating
 tags:
   - digitization

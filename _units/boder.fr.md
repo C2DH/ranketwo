@@ -5,7 +5,7 @@ toc: on
 research-phase: analysis
 activities: 
   - searching 
-  - content analysis
+  - content-analysis
 authors:
   - stefania-scagliola
 lang: fr
