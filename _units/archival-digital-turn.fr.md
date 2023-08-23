@@ -3,6 +3,11 @@ title: "Du tournant archivistique au tournant numérique"
 layout: unit
 publication_date: 2018-07-09
 toc: on
+research-phase: analysis 
+activities:
+  - searching
+  - content analysis
+  - annotating
 tags:
   - digitization
 authors: 
@@ -19,7 +24,7 @@ permalink: /fr/u/archival-digital-turn/
 audience: general public, bachelor, master humanities
 components:
   small: animation
-  medium: animation + 6 assignments
+  medium: animation + 7 assignments
 mediatypes: 
   - photo
   - correspondence
