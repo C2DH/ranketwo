@@ -16,7 +16,7 @@ permalink: /fr/u/boder/
 audience: general public, bachelor, master humanities
 components:
   small: animation
-  medium: animation interactive + 11 tâches, lecture vidéo animée + 5 tâches
+  medium: film animé, animation interactive + 11 tâches
 mediatypes: 
   - oral-interview
   - oral-history
