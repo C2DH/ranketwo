@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<!-- main container -->
+<div class="wrapper" style="min-height: 46%" ;>
+  <!-- background cover image-->
+  <div
+    class="in-the-background"
+    style="position: absolute; top: 0; right: 0; left: 0; bottom: 0; z-index: 0"
+  >
+    {% if page.cover.url %}
+    <div class="slide-background" style="background-size:cover;background-image:url({{cover_url}})"></div>
+    {% else %}
+    <div class="slide-background" />
+    {% endif %}
+    <div class="slide" style="display: block; opacity: 1">
+      <div class="overlay"></div>
+      <div class="overlay-dotted"></div>
+    </div>
+  </div>
+
+  <!-- title -->
+
+  <!-- authors -->
+</div>
