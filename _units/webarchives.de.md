@@ -13,6 +13,9 @@ authors:
 lang: de
 mediatypes: 
   - web-site
+activities: 
+  - searching
+  - content-analysis
 unit_id: webarchives
 link: /u/webarchives/
 permalink: /de/u/webarchives/
