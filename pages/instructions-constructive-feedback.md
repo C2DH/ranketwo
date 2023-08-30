@@ -9,6 +9,9 @@ output:
   toc: off
  
 ---
+If you wish to review a lesson for Ranke.2, please check our guiding principles for providing constructive feedback 
+
+<!-- more -->
 
 If we solicited your feedback for one of our lessons under preparation, it is because we value your expertise and we expect you to help as assure the quality of our resources. If you and the author(s) wish so, the evaluation process can take place through direct exchanges between all interested parties (author, reviewer, Ranke.2 editor). But it is also possible to use blind evaluation, if you and the author(s) prefer. In any case, this is something we decide with all the parties involved.      
 
