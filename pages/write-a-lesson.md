@@ -6,12 +6,13 @@ link: /instructions-authors
 title: Write a lesson for Ranke.2
 output: 
  html_document:
-  toc: off
+  toc: on
  
 ---
 
-If you are about to author a lesson for Ranke.2, please check the following section where we provide guidance that hopefully will be useful to you, if you wish to contribute a lesson to Ranke.2. The [first part](#Overall-scope) offers a general view on the identity and form of the lessons we publish.  
-
+If you wish to author a lesson for Ranke.2, please check our guiding principles 
+ 
+<!-- more -->
 
 ## Overall scope
 ### Purpose
