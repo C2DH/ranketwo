@@ -8,7 +8,7 @@ title: Who we are
 <!-- more -->
 
 
-Ranke.2 is a project of the C<sup>2</sup>DH. 
+Ranke.2 is a project of the C<sup>2</sup>DH. It was initiated by Andreas Fickers and [originally conceived by Stefania Scagliola](#past-core-team). The project is currently coordinated and animated by the [core team](#core-team).   
 
 ## Core Team
 
