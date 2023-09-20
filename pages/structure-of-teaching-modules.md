@@ -29,7 +29,7 @@ The lessons have been structured in such a manner that they can serve the needs 
 
 <div class='component--size big size-medium float-left mr-3 ml-2 mt-2 mb-2'>M</div>
 
-**max 90-120 minutes** &mdash; The **MEDIUM** module is meant to be used in a teaching or self-training context. It consists of a series of assignments that address the various topics introduced in the animation in more depth. The assignments are suitable for collaborative work for two or three students and the time required varies from 30 to 90 minutes. Each assignment provides specific information about learning outcomes.
+**max 90-120 minutes** &mdash; The **MEDIUM** module is meant to be used in a teaching or self-training context. It consists of a series of assignments that address the various topics introduced in the animation in more depth. The assignments are suitable for either individual or collaborative work for two or three students and the time required varies from 30 to 90 minutes. Each assignment provides specific information about learning outcomes.
 
 {: .clear.extra-spacing }
 
