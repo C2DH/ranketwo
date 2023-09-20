@@ -15,8 +15,6 @@
         <p>
           <a {% if page.lang == site.default_lang %} href='{{"/lessons/" | relative_url}}' {% else %} href="{{page.lang | relative_url}}/lessons/"{% endif %}>{% assign key="Go to lessons"%}{% include t.html %}</a>
           <br>
-          <a {% if page.lang == site.default_lang %} href='{{"/teaching-aids/" | relative_url}}' {% else %} href="{{page.lang | relative_url}}/teaching-aids/"{% endif %}>{% assign key="Teaching aids"%}{% include t.html %}</a>
-          <br>
         </p>
       </div>
     </div>
