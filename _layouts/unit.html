@@ -46,9 +46,8 @@ include captures/cover_url %}
           {% assign paragraphs = page.content | split: site.excerpt_separator %}
           <div class="excerpt">{{paragraphs[0] | markdownify}}</div>
           {% unless assignments.size == 0 %}
-          <a href="{{page.url}}/#c-assignments" class="btn btn-primary"></a>
-            {% assign key='go to assignments' %}{% include t.html %}</a
-          >
+          <a href="{{page.url}}/#c-assignments" class="btn btn-primary">
+            {% assign key='go-to-assignments' %}{% include t.html %}</a>
           {% endunless %}
         </div>
       </div>
