@@ -29,20 +29,22 @@ Please think of the lesson in terms of clarity and efficiency.
 * Are the assignments of the lesson organized in a way that makes sense in relation with the learning objectives?
 * Are the different parts of the lesson articulated in a logical way between them (for example, the different parts of a given assignment)? 
 
-### Effectiveness 
+### Effectiveness
+Please think of the lesson in terms of it achieving the learning objectives it fixes.  
 * Are the learning objectives clear and realistic?
 * Are the instructions clear? 
 * Does the learning outcome correspond to the learning objectives the lesson fixes? 
 
 ### Resources 
-Please think in terms of relevance, pertinence, accessibility for the pedagogical and bibliographical resources the lesson uses (reading and viewing suggestions, hyperlinks, images). 
+Please evaluate the relevance, pertinence, and accessibility of the pedagogical and bibliographical resources the lesson uses (reading and viewing suggestions, hyperlinks, images). 
 * Are the resources openly accessible? 
 * Are the resources relevant for the topic and the type of sources the lesson treats? 
 * Can the resources be realistically used for self-training or in the classroom in terms of length and clarity? 
 
 ### Multilingualism
-* Is the scope of the lesson relevant for different cultural environments? Can it be fit for different national contexts of learning and teaching history?  
-* Are the resources (pedagogical and bibliographical) reusable in different languages? Do they need adaptation or replacement? 
+Please check if the approach and the object of the lesson, as well as the resources it uses, allow for it being reusable in more than one languages.    
+* Is the scope of the lesson relevant for different cultural environments? Can it fit different national contexts of learning and teaching history?  
+* Are the resources (pedagogical and bibliographical) reusable in different languages? Are they too language-specific to be replaced by alternative resources in other languages (if available)? Do they need to be adapted or replaced? 
 * Is the lesson fit for translation? 
 
 Thank you for your contribution!  
