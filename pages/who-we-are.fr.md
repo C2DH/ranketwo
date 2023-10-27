@@ -9,7 +9,7 @@ title: Qui sommes-nous
 <!-- more -->
 
 
-Ranke.2 est un projet du C<sup>2</sup>DH.
+Ranke.2 est un projet du C<sup>2</sup>DH. Initié par Andreas Fickers et à l'origine conçu par Stefania Scagliola, le projet évolue sous la coordination de son [équipe actuelle](#équipe).
 
 ## Équipe
 
