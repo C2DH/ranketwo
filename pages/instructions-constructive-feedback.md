@@ -45,4 +45,4 @@ Please think in terms of relevance, pertinence, accessibility for the pedagogica
 * Are the resources (pedagogical and bibliographical) reusable in different languages? Do they need adaptation or replacement? 
 * Is the lesson fit for translation? 
 
-Thank you for your help!  
+Thank you for your contribution!  
