@@ -47,4 +47,9 @@ Please check if the approach and the object of the lesson, as well as the resour
 * Are the resources (pedagogical and bibliographical) reusable in different languages? Are they too language-specific to be replaced by alternative resources in other languages (if available)? Do they need to be adapted or replaced? 
 * Is the lesson fit for translation? 
 
+### Sustainability 
+Please evaluate the capacity of the lesson to remain relevant and useful in the longer term. 
+* Are the resources (bibliographical, data, tools) openly accessible, preferably with persistent identifiers, or located in open infrastructures? If software tools are involved, are they open source? 
+* Does the lesson embrace a broad, if possible historical, perspective as opposed to being locked in short term considerations or presentism? For example, a lesson on audiovisual sources that would heavily rely on examples of one specific proprietary platform, popularly used at the time the lesson is written, would be problematic; on the contrary, a lesson using a variety of examples, putting in perspective different platforms, the impact of their economical models, geographic location, governance on the dissemination of the resources, etc. could prove more sustainable in the long term.    
+
 Thank you for your contribution!  
