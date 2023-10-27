@@ -6,17 +6,17 @@ link: /instructions-authors
 title: Write a lesson for Ranke.2
 output: 
  html_document:
-  toc: on
+  toc: off
  
 ---
 
-If you wish to author a lesson for Ranke.2, please check our guiding principles 
+Guiding principles for authoring a lesson for Ranke.2  
  
 <!-- more -->
 
 ## Overall scope
 ### Purpose
-The lessons of Ranke.2 target an audience of beginners to introduce to the critical approach of historical sources in the digital age (digital source criticism). Each lesson can focus on a given type of historical source and its digital representation(s) - for example, diplomatic correspondence in electronic form. The lessons aspire to either be used for self-training or in the classroom (as they are or adapted in their scope and data). 
+The lessons of Ranke.2 introduce to the critical approach of historical sources in the digital age (digital source criticism). Each lesson focusses on a given type of historical sources and its digital representation(s) - for example, diplomatic correspondence in electronic form, digitized oral histories... The lessons aspire to either be used for self-training or in the classroom. In both cases, they target an audience of beginners. Their objective is also to inspire teachers and be integrated in curricula, which is why they should be large and inclusive in their scope and data.  
 
 Working with sources in form of digital data frequently involves building specific skills and acquaintance with various methods and techniques, i.e. how to conduct network analysis with your data or how to work with geographical information systems. Developing such specific skills **is not** the principal vocation of Ranke.2 - we focus mainly to **why** and **in what purpose** one might have to develop such skills. If, however, parts of your lesson involve considerable technical aspects, you have the possibility to provide separately a specific how-to tutorial that we can publish distinctively from your lesson and link to it. We have such tutorials about, for instance, how to collect social media data or how to work with the Internet Archive's Wayback Machine. Note, however, that in most cases this is not necessary and you can simply recommend skills building lectures in your bibliography, if necessary. <!-- not forh=get to encourage to use resources of PH, Dariah Campus...)-->.  
 
