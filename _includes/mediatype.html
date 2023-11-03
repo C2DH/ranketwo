@@ -5,5 +5,5 @@
 {% else %}
   {% assign _mediatype = _mediatypes[0] %}
   {% assign _displayname = _mediatype.displayname[page.lang] %}
-  <span>{{_displayname}}</span>
+  <span data-pagefind-filter="mediatype">{{_displayname}}</span>
 {% endif %}

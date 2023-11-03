@@ -13,7 +13,8 @@
       <meta property="og:type" content="article" />
       <meta property="article:publisher" content="Center for Contemporary and Digital History - University of Luxembourg" />
       {% for tag in page.tags %}
-        <meta property="article:tags" content="{{tag}}" />
+        <meta data-pagefind-filter="tag[content]"
+        property="article:tags" content="{{tag}}" />
       {% endfor %}
     {% else %}
       <meta property="og:type" content="website" />

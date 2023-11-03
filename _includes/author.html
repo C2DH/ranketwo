@@ -1,2 +1,2 @@
 {% assign author = site.data.people | where: "slug", author_slug | first %}
-<a href="{{ author.url }}" target="_blank">{{ author.name }}</a>{% unless forloop.last %}, {% endunless %}
+<a data-pagefind-filter="author" href="{{ author.url }}" target="_blank">{{ author.name }}</a>{% unless forloop.last %}, {% endunless %}

@@ -1,0 +1,134 @@
+---
+layout: default
+---
+{% include page.top.html %}
+<link href="../assets/css/search_style.css" rel="stylesheet">
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<div id="search_ui">
+<div id="search"><input type="search" id="search_query" onchange="push_query_to_url()"></div>
+<div id="results"></div>
+<div id="filters"></div>
+</div>
+<script>
+    var searchParams = new URLSearchParams();
+    const url = new URL(location);
+    document.getElementById("search_query").addEventListener("change", perform_search);
+    var search_res;
+
+    window.addEventListener('DOMContentLoaded', async (event) => {
+        const pagefind = await import("/pagefind/pagefind.js");
+        pagefind.init();
+        search_res = await pagefind.search(
+            null
+        );
+        display_results();
+        display_filters();
+    });
+
+    // Display results
+    async function display_results() {
+        var results = document.getElementById('results');
+        results.innerHTML = "";
+        if (search_res) {
+            for (const res of search_res.results) {
+                var article_data = await res.data();
+                results.innerHTML += "<a href='" + article_data.url + "'>" + "<p>" + article_data.meta.title + "</p>" + "</a>";
+            }
+        }
+    }
+
+    // Display filters
+    async function display_filters() {
+        const pagefind = await import("/pagefind/pagefind.js");
+        pagefind.init();
+        var filters_data = await pagefind.filters();
+        var div_filters = document.getElementById('filters');
+        var new_filter = "";
+        for (var filter_type in filters_data) {
+            new_filter += "<details class='filter'>";
+            new_filter += "<summary>" + filter_type + "</summary>";
+            for (var filter in filters_data[filter_type]) {
+                new_filter += "<div>";
+                new_filter += "<input type='checkbox' onclick='push_filters_to_url(this)' id='" + filter + "'>";
+                new_filter += "<label for='" + filter + "'>" + filter + "</label>";
+                new_filter += "</div>";
+            }
+            new_filter += "</details>";
+        }
+        div_filters.innerHTML += new_filter;
+    }
+
+    // Perform search
+    async function perform_search() {
+        const pagefind = await import("/pagefind/pagefind.js");
+        pagefind.init();
+        var search_query = searchParams.get("q");
+        var search_filters = searchParams.getAll("filter");
+
+        var filters = make_json_filters_from_url();
+
+        console.log(filters);
+        if (search_query == "") {
+            search_res = await pagefind.search(
+                null,
+                filters
+            );
+        } else {
+            search_res = await pagefind.search(
+                searchParams.get("q"),
+                filters
+            );
+        }
+        display_results();
+    }
+
+    // Query to url
+    function push_query_to_url() {
+        var search_q = document.getElementById("search_query");
+        if (search_q.value) {
+            searchParams.set("q", search_q.value);
+        } else {
+            searchParams.delete("q");
+        }
+        history.pushState(null, "", "?"+searchParams);
+    }
+
+    // filters from url
+    function make_json_filters_from_url() {
+        var filters = {filters: {}};
+        const groupParamsByKey = (params) => [...params.entries()].reduce((acc, tuple) => {
+            // getting the key and value from each tuple
+            const [key, val] = tuple;
+            if(acc.hasOwnProperty(key)) {
+                // if the current key is already an array, we'll add the value to it
+                if(Array.isArray(acc[key])) {
+                    acc[key] = [...acc[key], val]
+                } else {
+                    // if it's not an array, but contains a value, we'll convert it into an array
+                    // and add the current value to it
+                    acc[key] = [acc[key], val];
+                }
+            } else {
+                // plain assignment if no special case is present
+                acc[key] = val;
+            }
+            delete acc["q"];
+            return acc;
+        }, {});
+        return {filters: groupParamsByKey(searchParams) };
+    }
+
+    // Filters to url
+    function push_filters_to_url(checkbox) {
+        var current_filter = checkbox.attributes.id.value;
+        var filter_type = checkbox.parentElement.parentElement.firstChild.textContent;
+        if (checkbox.checked) {
+            searchParams.append(filter_type, current_filter);
+        } else {
+            searchParams.delete(filter_type, current_filter);
+        }
+        history.pushState(null, "", "?"+searchParams);
+        perform_search();
+    }
+</script>

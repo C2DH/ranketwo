@@ -1,0 +1,16 @@
+#search_ui {
+    display: flex;
+	justify-content: space-between;
+}
+
+#results {
+	height: 55.7vh;
+	overflow: hidden;
+	overflow-y: scroll;
+}
+
+#filters {
+	height: 55.7vh;
+	overflow: hidden;
+	overflow-y: scroll;
+}
