@@ -35,7 +35,7 @@ If you provide images, data, viewing and reading suggestions or if you propose u
 Conceive and organize a lesson can be challenging. This is why we gathered below some instructions that we hope will prove useful to you. The aim is to achieve an easy-to-follow, pedagogically effective tutorial that hopefully will last - as much as possible - in time.  
 
 ### Select the topic and fix the learning objectives
-Please spot the type of historical source your lesson deals with and define carefully the topic you wish to highlight. You can also identify the specific part in the process of a historical research your lesson principally focusses on (we mainly distinguish: search, analyze, interpet, disseminate, or preserve). Defining precisely these elements allows you to fix concrete learning objectives and build the assignments correspondingly. We suggest that you avoid going beyond three principal learning objectives for the sake of clarity and coherence. 
+Please spot the type of historical source your lesson deals with and define carefully the topic you wish to highlight. You can also identify the specific phase of a historical research your lesson principally focusses on (search of sources, analysis, interpetation, dissemination, or preservation). Defining precisely these elements allows you to fix concrete learning objectives and build the assignments correspondingly. We suggest that you avoid setting more than three principal learning objectives for the sake of clarity and coherence. 
 
 For example, the lesson [From the shelf to the web, exploring historical newspapers in the digital age](https://ranke2.uni.lu/u/exploring-historical-newspapers/) focusses on the historical source: press. It deals with the topic of how the digitization of large press corpora affects the ways historians search their sources and compile their own corpora. Thus, the lesson identifies specific challenges a historian may have to face during the phase of searching their sources. Its main learning objectives are to help historians understand the process of digitization, the way search environments work and, finally, how to cope with different search interfaces.    
 
@@ -44,52 +44,45 @@ The structure of the lesson should anticipate a length of 4 000 - 8 000 words ma
 
 Each section ought to propose one or more assignments and we recommend you do not go beyond three or so. 
 
-If necessary, and we recommend you do so, please provide reading and viewing suggestions that help to fulfill the assignments or to gain more profound knowledge. You can find in the following useful advice about [how to write your lesson](#write-you-lesson) and how to choose the complementary resources if any. You can also use a template we prepared for you in order to clearly distinguish the structure of a lesson. 
+If necessary, and we recommend you do so, please provide reading and viewing suggestions that help to fulfill the assignments or to gain more profound knowledge. The following section provides useful advice about [how to write your lesson](#write-you-lesson) and how to choose the complementary resources if any. You can also use a template we prepared for you in order to clearly outline the structure of a lesson. 
 
 ### Anticipate translatability
-Ranke.2 is available in three languages. It is a challenge to make lessons succesfully work in different cultural environments that can be subject to distinct scientific traditions. Thus, anticipate this during the phase educational resources are conceived can be key to effectively adapt them to other languages and contexts.  Here follows what can be useful advice.
- 1. The examples of historical research and approach you highlight in a lesson ought to be fit for an international scope or outreach. This makes it easier to find contact zones between different languages and available resources. Connected histories, international or transnational history, and interdisciplinary domains can provide such case studies, although there are of course many more.
+Ranke.2 is available in three languages. It is a challenge to make lessons succesfully work in different cultural environments that can be subject to distinct scientific traditions. Thus, anticipate this as soon as a lesson conceived can be key to effectively adapt it to other languages and contexts. Below follow some useful  what can be useful advice.
+ 1. The examples of historical research and approach you highlight in a lesson ought to be fit for an international scope or outreach. This makes it easier to find contact zones between different languages and available resources. Connected histories, international or transnational history, and interdisciplinary domains can provide such case studies, although there can of course be many more.
  2. The pedagogical resources of the lesson (data, tools, reading suggestions; images etc.) ought to be flexible to either fit larger cultural frameworks or to be interchangeable with pedagogical materials available in different languages.
  3. The technical environments the lesson may use ought to be functional in various language environments (for exemple, the digitized historical newspapers lesson mobilizes a database of newspapers in French, German and Luxembourgish; the lessons on web archives and David Boder use both international and localized examples).
- 4. Do not be shy to indicate us alternative resources for the translations of your lesson. 
+ 4. Do not be shy to indicate us alternative resources (datasets, reading and viewing suggestions, etc.) for the translations of your lesson, if you can. 
 
- We acknowledge that not everything is translatable and we are not likely to exclude a lesson of great pedagogical value solely on this ground. However, we thank you in advance for every effort you can spare beforehand to anticipate the translation of your lesson. 
+ We acknowledge that not everything is translatable and we are not likely to exclude a lesson of great pedagogical value solely on this ground. However, we thank you in advance for every effort you can spare beforehand to enlarge the scope of your lesson and its usability. 
 
 ## Write your lesson 
 
-Below we provide advice on how to develop the contents of a successful lesson.  
+Below we provide detailed advice on how to develop the contents of your lesson.  
 
 ### Introduction
 Please provide an introduction where you present the type of sources you deal with, the topic and the main learning objectives that [you have carefully defined while conceiving your lesson](#select-the-topic-and-fix-the-learning-objectives). 
-Do not forget to mention the way the topic relates with traditional source criticism and how it is relevant in the digital age. Does your case highlight continuities in applying the historical method or transformations due to the sources transforming to digital historical data? If so, in what ways? If not, what does this reveal about the historical practice in the digital age?
+Do not forget to mention the way the topic relates with traditional source criticism and how it is relevant in the digital age. Does your case highlight continuities in applying the historical method or transformations due to the sources transforming to digital historical data? If so, in what ways? If not, are there specific questions raised? For example, what does this reveal about the historical practice in the digital age?
 
-You should also outline the learning objectives and what one will have gained in knowledge and skills after accomplishing your lesson. Our lessons are fit for a beginners level and you should not assume that the readers have in depth knowledge of your subject. If for any reason prior acquaintance with tools and methods is required, please mention this.  
+You should also outline the learning objectives and what one will have gained in knowledge and skills after accomplishing your lesson. Our lessons are fit for a beginners level and please avoid to assume that the readers have an in depth knowledge of your subject. If for any reason prior acquaintance with tools and methods is required, please mention this.  
 
-Take care to briefly announce the structure of the main lesson with the assignments, so that the audience knows what to expect. If your lesson builds on one or more of our existing resources (lessons, video animations, how-to tutorials), feel free to mention the association. 
+In the end of the introduction, you can briefly announce the structure of the main lesson with the assignments, so that the audience knows what to expect. If your lesson builds on one or more of our existing resources (lessons, video animations, how-to tutorials), feel free to mention the association and provide links. 
 
 Ideally, the introduction should consist of three tight and not too long paragraphs. 
 
 ### Assignments
-The assignments of your lesson illustrate how you propose to apply the historical method on digital sources from a practical point of view. Consider them as the core of your lesson. Ideally, they should provide insights on historical context, theory, method and tools, and invite to reflect on the evolution of technology and its impact on how one works with historical data.  
+The assignments are the core of your lesson, as they illustrate how you concretely propose to apply the historical method on digital sources from a practical point of view. They should consist of a mix of questions relating to historical context, method, technology, theory and reflection. 
 
-#### Organize your assignments
-Depending the subject, the scope and the learning objectives of your lesson, it is up to you to decide how many assignments you wish to propose. Keep in mind that the lessons should be no longer than 4 000 -6 000 words. Also, ideally, they should be executable in no more than two hours, albeit it is difficult to estimate the effective duration of a lesson as many parameters can be at play (continuous or intermittent availability of a user, context of use, number of users, individual level of knowledge, prior knowledge and skills requirements...).  Thus, we encourage you to organize your lesson around no more than 3 to 5 assignments.  
+The assignments constitute the sections of your lesson. It is up to you to decide how many assignments you wish to propose, we encourage however you organize your lesson around no more than 3 to 5 assignments. It is also up to you to decide if the assignments, and consequently the sections, of your lesson should be linked in an evolutive way (for example, the first assignment should be accomplished prior to the second etc.) or federated (in case you approach your topic via diverse and rather autonomous angles). Keep in mind that the lessons should ideally be executable in no more than two hours, albeit it is difficult to estimate the effective duration of a lesson as many parameters can be at play (continuous or intermittent availability of a user, context of use, number of users, individual level of knowledge, prior knowledge and skills requirements...).To enhance effective use of your lesson, a good tactics is to think your assignments as possible to execute in 20- 30 minutes each, with clear pedagogical objectives. This way, they can fit easily in a class or workshop context or find a place in busy individual schedules. 
 
-It is up to you to decide if the assignments of your lesson should be linked in an evolutive way (for example, the first assignment should be accomplished prior to the second etc.) or federated (in case you approach your topic via diverse angles). To enhance effective use of your lesson, a good tactics is to think your assignments as possible to execute in 20- 30 minutes each, with clear pedagogical objectives. This way, they can fit easily in a class or workshop context or find a place in busy individual schedules.  
+An assignment may be composed by short sub-assignments. In this case, you should distinguish these as "a." "b."... 
+The first element is a brief introduction. Remember that you initiate your readers to your topic and you need to provide necessary context and clear instructions. Sections a, b and c (or more if necessary) of the assignment then follow. It is preferable to make a clear distinction between parts a, b and c, with the first being the most flexible and doable assignment that can be completed anywhere, individually. The rest of the assignment can consist of more complex options, requiring for example collaboration or more lenghty readings. Think of part a as a basic element that needs to be taught and the rest as options to go further. You have the possibility ot provide specific reading and viewing suggestions for each assignment. 
 
-<!--In case an assignment is composed by sub-assignments, you should distinguish these as "a." "b."...The assignments should consist of a mix of questions relating to historical context,
-method, technology, theory and reflection.
-Each assignment should refer to one or more questions from context 1, 2 or 3 (see
-illustration above).
-The first element is a brief introduction. This can also include a link to an existing
-clip that helps provide a general idea of the topic. Sections a, b and c of the assignment then follow. It is preferable to make a clear distinction between parts a, b and
-c, with the first being the most flexible and doable assignment that can be completed anywhere, individually. The rest of the assignment can consist of more complex
-options, requiring collaboration between students. Lecturers have the option of
-assigning just the “a” sections to students, avoiding issues of logistics and time
-constraints-->  
 
 #### Keep the lesson focussed, provide clear instructions
-Please avoid to only provide a list of links and tasks to do and try to keep your audience focussed on the learning goals of your lesson. Do not forget to use simple language and explain clearly the steps your audience has to follow to complete the assignments. Remember that you initiate your readers to your topic and they need to be provided with necessary context and clear instructions. If, for instance, you suggest source criticism should be applied to a given dataset, please specify where the dataset is available, how a reader can access it, what the dataset is about and what is the historical context that makes it an object of study. If necessary, provide examples and be precise about what a reader should expect to acccomplish. 
+Please avoid to only provide a list of links and tasks to do and try to keep your audience focussed on the learning goals of your lesson. Do not forget to use simple language and explain clearly the steps one has to follow to complete the assignments. 
+
+
+
 
 #### Tools criticism
 If you propose use of digital methods or tools, take some time to present them briefly, explain why and how they are useful for historians and assess them critically. 
@@ -99,9 +92,7 @@ While explaining the digital methods or tools, you might find it useful to recom
 
 #### Open access reading/viewing suggestions 
 You may need to provide the bibliographical/web references and any resources you think are necessary for the audience to follow your lesson (datasets, images, graphics...). Preferably, the bibliographical and web references should be in open access and have persistent identifiers (such as DOI and permalinks) in order to provide a lesson that will remain sustainable and accessible to all. If you provide datasets, these should be openly available data. Finally, make sure that any images you provide are under no restrictive rights. If, in spite of your efforts, it is necessary to obtain rights of use for any resource you wish to use, please get in touch with us beforehand to discuss your project.   
-
-### Style of bibliographical references and notes
-Please provide the bibliographical references you use/recommend in a separate section at the end of the lesson. We use the Chicago Manual of Style 17th edition and, if you are not sure how to format your notes and bibliography, a [quick guide](https://www.chicagomanualofstyle.org/tools_citationguide.html) is available online. But in any case, what matters is to provide the references and we will be happy to format them for you if necessary.   
+  
 
 ## After you write your lesson
 
@@ -112,11 +103,4 @@ Think of a short title that describes your lesson with clarity and precision. Th
 How would you narrate your topic and the essence of your lesson in five minutes to a non-specialized audience? The lessons may propose a short video animation (or a simple visual or voice recording) of some five minutes to offer a very general introduction to the topic of the lesson. Thus, we propose that once you have finished writing your lesson, you work on a one-page narration that we can use to prepare the audiovisual resource of your lesson. This will be a great help for us and will guarantee that the video animation follows the spirit of your approach. But the exercice will provide you also with a useful and reusable output in various contexts (classroom, workshop, presentation...). If you are unable or unwilling to do this, we will work on such a narration ourselves but beware that we may ask you to review it. In any case, we are happy to provide guidance for the steps to take during this process.
 
 ### Send us the lesson files
-You can send us the text of your lesson in a file formated in Markdown syntax, if you are familiar with it. If not, feel free to write your lesson in a text format you are confortable with and we will convert it for you upon reception. Please provide separate folders for the text of the lesson, images and data. Specifically for the images, please use explicit names to name the files and provide a list of them including the legends you wish to use for each in your text. For any query and additional information, please take <a href="mailto: ranke2@uni.lu">contact with us</a>. 
-
-
-
-
-
-Why publish on Ranke.2
-Ranke.2 is neither an electronic journal nor an open repository - consequently, you may have questions about the status of your publication. Publishing with us is akin to making publicly available, and sustainable, educational resources on a shared domain of pedagogical interest with editorial help and a flexible system of quality control. From a legal point of view, we ask you to sign a contract that recognizes your moral rights and guarantees that no one will exploit commercially your work. From a quality point of view, we ensure: a) editorial control and formating (Ranke.2 team), b) constructive review pre publication (it can be either open or blind but this is something we can discuss together), c) professional copyediting and translation services. 
+You can send us the text of your lesson in a file formated in Markdown syntax, if you are familiar with it. If not, feel free to write your lesson in a text format you are confortable with and we will convert it for you upon reception. Please provide separate folders for the text of the lesson, images and data. Specifically for the images, remember to use explicit names to name the files and provide separately a list of the captions you wish to use for each in your text. For any query and additional information, please take <a href="mailto: ranke2@uni.lu">contact with us</a>. 
