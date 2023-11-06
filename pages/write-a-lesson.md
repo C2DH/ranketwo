@@ -14,7 +14,7 @@ Guiding principles for authoring a lesson for Ranke.2
  
 <!-- more -->
 
-Below you will find the guiding principles we developed for authors that we hope will help you write a clear and efficient lesson. The first part present the general educational purpose of the lessons of Ranke.2: what they are and what they are not, their specific multilingual vocation, their commitment to openness and their structure. This information defines the general framework of Ranke.2 and defines our expectations from the authors as for the general scope of their lessons. The second part provides more specific instructions as to how to conceive and build a lesson from the scratch.  
+Below you will find the guiding principles we developed for authors that we hope will help you write a clear and efficient lesson. The first section presents the general educational purpose of the lessons of Ranke.2, their specific multilingual vocation, and their structure. We hope this helps authors to understand the general scope of the lessons and our expectations. The second section provides more specific instructions as to how to conceive the general layout of a lesson and anticipate a multilingual output. The following section provides specific instructions on how to develop the content of a lesson. Finally, we explain the final steps to take after writing a lesson.      
 
 ## General scope of the lessons
     
