@@ -8,7 +8,12 @@ layout: default
 <div id="search_ui">
 <div id="search"><input type="search" id="search_query" onchange="push_query_to_url()"></div>
 <div id="results"></div>
-<div id="filters"></div>
+<div id="filters">
+    <div id="layouts_filter"></div>
+    <div id="mediatypes_filter"></div>
+    <div id="tags_filter"></div>
+    <div id="authors_filter"></div>
+</div>
 </div>
 <script>
     var searchParams = new URLSearchParams();
@@ -28,13 +33,19 @@ layout: default
 
     // Display results
     async function display_results() {
-        var results = document.getElementById('results');
-        results.innerHTML = "";
+        var results_elem = document.getElementById("results");
+        var results = "";
         if (search_res) {
             for (const res of search_res.results) {
                 var article_data = await res.data();
-                results.innerHTML += "<a href='" + article_data.url + "'>" + "<p>" + article_data.meta.title + "</p>" + "</a>";
+                results += "<div class='result'>";
+                results += "<a href='" + article_data.url + "'>";
+                results += "<p>" + article_data.meta.title + "</p>"
+                results += "</a>";
+                results += "<p>" + article_data.excerpt + "</p>"
+                results += "</div>";
             }
+            results_elem.innerHTML = results;
         }
     }
 
@@ -46,7 +57,7 @@ layout: default
         var div_filters = document.getElementById('filters');
         var new_filter = "";
         for (var filter_type in filters_data) {
-            new_filter += "<details class='filter'>";
+            new_filter = "<details class='filter'>";
             new_filter += "<summary>" + filter_type + "</summary>";
             for (var filter in filters_data[filter_type]) {
                 new_filter += "<div>";
@@ -55,8 +66,27 @@ layout: default
                 new_filter += "</div>";
             }
             new_filter += "</details>";
+            switch (filter_type) {
+                case "layout":
+                    div_filters.children["layouts_filter"].innerHTML += new_filter;
+                    break;
+            
+                case "mediatype":
+                    div_filters.children["mediatypes_filter"].innerHTML += new_filter;
+                    break;
+            
+                case "tag":
+                    div_filters.children["tags_filter"].innerHTML += new_filter;
+                    break;
+            
+                case "author":
+                    div_filters.children["authors_filter"].innerHTML += new_filter;
+                    break;
+            
+                default:
+                    break;
+            }
         }
-        div_filters.innerHTML += new_filter;
     }
 
     // Perform search
