@@ -19,11 +19,11 @@ primary:
 
 guidelines:
   links:
-    - title: hey
-      href: /lessons/
+    - title: Instructions for authors
+      href: /instructions-authors/
       active_layout: unit
-    - title: hello
-      href: /teaching-aids/
+    - title: Instructions for constructive feedback 
+      href: /instructions-constructive-feedback
 
 footer:
   links:
