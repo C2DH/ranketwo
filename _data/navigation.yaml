@@ -19,10 +19,10 @@ primary:
 
 guidelines:
   links:
-    - title: Instructions for authors
+    - title: Write a lesson
       href: /instructions-authors/
       active_layout: unit
-    - title: Instructions for constructive feedback 
+    - title: Review a lesson 
       href: /instructions-constructive-feedback
 
 footer:

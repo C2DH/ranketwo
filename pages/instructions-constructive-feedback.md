@@ -3,7 +3,7 @@ layout: page
 lang: en
 permalink: /instructions-constructive-feedback
 link: /instructions-constructive-feedback 
-title: Review a lesson for Ranke.2
+title: Review a lesson
 output: 
  html_document:
   toc: off

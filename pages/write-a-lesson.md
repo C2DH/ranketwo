@@ -3,7 +3,7 @@ layout: page
 lang: en
 permalink: /instructions-authors
 link: /instructions-authors 
-title: Instructions for authors
+title: Write a lesson
 output: 
  html_document:
   toc: on
