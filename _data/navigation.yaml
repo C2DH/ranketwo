@@ -2,6 +2,8 @@ home:
   links:
     - title: Home
       href: /
+    - title: What is digital source criticism?
+      href: /define-dsc/
     - title: What are our learning objectives?
       href: /about-platform/
     - title: About the lessons
@@ -13,6 +15,14 @@ primary:
       href: /lessons/
       active_layout: unit
     - title: Teaching aids
+      href: /teaching-aids/
+
+guidelines:
+  links:
+    - title: hey
+      href: /lessons/
+      active_layout: unit
+    - title: hello
       href: /teaching-aids/
 
 footer:
