@@ -1,81 +1,98 @@
 <!DOCTYPE html>
-<html lang='{{ page.lang }}'>
-<head>
-    <meta charset='utf-8'>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta http-equiv="Content-Language" content="{{ page.lang }}">
+<html lang="{{ page.lang }}">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="Content-Language" content="{{ page.lang }}" />
     <title>{% if page.title %}{{page.title}} · {% endif %}{{site.title}}</title>
     <meta name="twitter:card" content="summary_large_image" />
-    <meta property="og:title" content="{% if page.title %}{{page.title}} · {% endif %}{{site.title}}" />
+    <meta
+      property="og:title"
+      content="{% if page.title %}{{page.title}} · {% endif %}{{site.title}}"
+    />
     <meta property="og:url" content="{{ site.ranke2_baseurl }}{{ page.url }}" />
     {% if page.tags %}
-      <meta property="og:type" content="article" />
-      <meta property="article:publisher" content="Center for Contemporary and Digital History - University of Luxembourg" />
-      {% for tag in page.tags %}
-        <meta property="article:tags" content="{{tag}}" />
-      {% endfor %}
-    {% else %}
-      <meta property="og:type" content="website" />
-    {% endif %}
-    {% assign og_image = page.cover.url %}
-    {% if og_image %}
-      {% capture og_image_url %}{% if og_image contains '://' %}{{ og_image }}{% else %}{{ site.ranke2_baseurl }}{{ og_image | relative_url}}{% endif %}{% endcapture %}
-    {% endif %}
+    <meta property="og:type" content="article" />
+    <meta
+      property="article:publisher"
+      content="Center for Contemporary and Digital History - University of Luxembourg"
+    />
+    {% for tag in page.tags %}
+    <meta property="article:tags" content="{{tag}}" />
+    {% endfor %} {% else %}
+    <meta property="og:type" content="website" />
+    {% endif %} {% assign og_image = page.cover.url %} {% if og_image %} {%
+    capture og_image_url %}{% if og_image contains '://' %}{{ og_image }}{% else
+    %}{{ site.ranke2_baseurl }}{{ og_image | relative_url}}{% endif %}{%
+    endcapture %} {% endif %}
     <meta property="og:image" content="{{og_image_url}}" />
     {% if page.og.description %}
     <meta property="og:description" content="{{ page.og.description }}" />
     {% endif %}
-    <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,700" rel="stylesheet">
-    <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css?v=' | relative_url }}" >
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src='https://www.google.com/recaptcha/api.js' async defer></script>
-</head>
-<body class='{{page.layout}}'>
-  {% include nav.html %}
-  {% include nav.mobile.html %}
+    <link
+      href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,700"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/bootstrap.min.css?v=' | relative_url }}"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"
+    />
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+    <script src="/pagefind/pagefind-ui.js"></script>
+  </head>
+  <body class="{{page.layout}}" lang="{{page.lang}}">
+    {% include nav.html %} {% include nav.mobile.html %} {{content}} {% assign
+    documents = page.documents %} {% assign namespace = 'page' %} {% include
+    scripts/enrich.html %} {% include footer.html %} {% include analytics.html
+    %}
+    <script src="https://player.vimeo.com/api/player.js"></script>
+    <script src="{{ '/assets/js/d3.custom.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/ranketwo.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/ranketwo.commons.js' | relative_url }}"></script>
 
-  {{content}}
+    <script src="{{ '/assets/js/runtime.js' | relative_url }}"></script>
 
-  {% assign documents = page.documents %}
-  {% assign namespace = 'page' %}
-  {% include scripts/enrich.html %}
+    <script>
+      window.addEventListener('DOMContentLoaded', function () {
+        console.log('@DOMContentLoaded - transform links in ranketwo')
+        window.ranketwo.setRelativePath('{{ "" | relative_url }}')
+        window.ranketwo.transformLinks()
 
-  {% include footer.html %}
+        var langDropdown = d3.select('#navbarDropdown')
+        var langDropdownToggle = langDropdown.select('a.dropdown-toggle')
+        var langDropdownMenu = langDropdown.select('div.dropdown-menu')
 
-  {% include analytics.html %}
-  <script src="https://player.vimeo.com/api/player.js"></script>
-  <script src="{{ '/assets/js/d3.custom.min.js' | relative_url }}"></script>
-  <script src="{{ '/assets/js/ranketwo.js' | relative_url }}"></script>
-  <script src="{{ '/assets/js/ranketwo.commons.js' | relative_url }}"></script>
+        langDropdownToggle.on('click', function () {
+          var toggle = langDropdownMenu.classed('show')
+          langDropdownMenu.classed('show', !toggle)
+        })
 
+        var homeDropdown = d3.select('#navbarDropdown-home')
+        var homeDropdownToggle = homeDropdown.select('a.dropdown-toggle')
+        var homeDropdownMenu = homeDropdown.select('div.dropdown-menu')
 
-  <script src="{{ '/assets/js/runtime.js' | relative_url }}"></script>
+        homeDropdownToggle.on('click', function () {
+          var toggle = homeDropdownMenu.classed('show')
+          homeDropdownMenu.classed('show', !toggle)
+        })
 
-  <script>
-    window.addEventListener('DOMContentLoaded', function() {
-      console.log('@DOMContentLoaded - transform links in ranketwo');
-      window.ranketwo.setRelativePath('{{ "" | relative_url }}');
-      window.ranketwo.transformLinks();
+        var guidelinesDropdown = d3.select('#navbarDropdown-guidelines')
+        var guidelinesDropdownToggle =
+          guidelinesDropdown.select('a.dropdown-toggle')
+        var guidelinesDropdownMenu =
+          guidelinesDropdown.select('div.dropdown-menu')
 
-      var langDropdown = d3.select('#navbarDropdown');
-      var langDropdownToggle = langDropdown.select('a.dropdown-toggle');
-      var langDropdownMenu = langDropdown.select('div.dropdown-menu');
-
-      langDropdownToggle.on('click', function () {
-        var toggle = langDropdownMenu.classed('show');
-        langDropdownMenu.classed('show', !toggle);
+        guidelinesDropdownToggle.on('click', function () {
+          var toggle = guidelinesDropdownMenu.classed('show')
+          guidelinesDropdownMenu.classed('show', !toggle)
+        })
       })
-
-      var homeDropdown = d3.select('#navbarDropdown-home');
-      var homeDropdownToggle = homeDropdown.select('a.dropdown-toggle');
-      var homeDropdownMenu = homeDropdown.select('div.dropdown-menu');
-
-      homeDropdownToggle.on('click', function () {
-        var toggle = homeDropdownMenu.classed('show');
-        homeDropdownMenu.classed('show', !toggle);
-      })
-    });
-  </script>
-</body>
+    </script>
+  </body>
 </html>
