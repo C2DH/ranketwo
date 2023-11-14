@@ -3,13 +3,13 @@ layout: page
 lang: fr
 permalink: /fr/instructions-constructive-feedback
 link: /instructions-constructive-feedback 
-title: Review a lesson
+title: Relire une leçon
 output: 
  html_document:
   toc: off
  
 ---
-Guiding principles for providing constructive feedback if you review a lesson for Ranke.2  
+Instructions aux relecteurs et relectrices des leçons de Ranke.2 pour un retour constructif  
 
 <!-- more -->
 
