@@ -3,14 +3,14 @@ layout: page
 lang: fr
 permalink: /fr/instructions-authors
 link: /instructions-authors 
-title: Write a lesson
+title: Écrire une leçon
 output: 
  html_document:
   toc: on
  
 ---
 
-Guiding principles for authoring a lesson for Ranke.2  
+Instructions pour écrire une leçon pour Ranke.2  
  
 <!-- more -->
 
