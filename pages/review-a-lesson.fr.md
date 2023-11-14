@@ -1,7 +1,7 @@
 ---
 layout: page
-lang: en
-permalink: /instructions-constructive-feedback
+lang: fr
+permalink: /fr/instructions-constructive-feedback
 link: /instructions-constructive-feedback 
 title: Review a lesson
 output: 
