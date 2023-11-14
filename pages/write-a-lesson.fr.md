@@ -1,6 +1,6 @@
 ---
 layout: page
-lang: en
+lang: fr
 permalink: /fr/instructions-authors
 link: /instructions-authors 
 title: Write a lesson
