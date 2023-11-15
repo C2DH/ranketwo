@@ -1,8 +1,8 @@
 ---
 layout: page
 lang: en
-permalink: /instructions-authors
-link: /instructions-authors 
+permalink: /instructions-authors/
+link: /instructions-authors/ 
 title: Write a lesson
 output: 
  html_document:
