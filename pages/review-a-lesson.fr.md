@@ -1,8 +1,8 @@
 ---
 layout: page
 lang: fr
-permalink: /fr/instructions-constructive-feedback
-link: /instructions-constructive-feedback 
+permalink: /fr/instructions-constructive-feedback/
+link: /instructions-constructive-feedback/ 
 title: Relire une leçon
 output: 
  html_document:

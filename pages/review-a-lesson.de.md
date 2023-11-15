@@ -1,8 +1,8 @@
 ---
 layout: page
 lang: de
-permalink: /de/instructions-constructive-feedback
-link: /instructions-constructive-feedback 
+permalink: /de/instructions-constructive-feedback/
+link: /instructions-constructive-feedback/ 
 title: Review a lesson
 output: 
  html_document:
