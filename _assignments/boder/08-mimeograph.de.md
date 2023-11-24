@@ -3,7 +3,8 @@ layout: assignment
 unit: boder
 type: assignment
 title: Vergleich zwischen einer mit einem Mimeografen erstellten und einer digitalen Kopie
-cover: /assets/images/attachments/12boxes/12boxes_09.png
+cover:
+  url: /assets/images/attachments/12boxes/12boxes_09.png
 order: 8
 lang: de
 requirements:  schnelles WLAN, Zugang zu Ranke.2, Computer oder Laptop, Anwendung auf Computer oder Laptop zum Abspielen von Videos

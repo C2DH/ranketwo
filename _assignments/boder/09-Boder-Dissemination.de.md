@@ -3,7 +3,8 @@ layout: assignment
 unit: boder
 type: assignment
 title: Wo und wie können Sie Boders Arbeit einsehen?
-cover: /assets/images/attachments/12boxes/12boxes_11.png
+cover:
+  url: /assets/images/attachments/12boxes/12boxes_11.png
 order: 9
 lang: de
 tags: 

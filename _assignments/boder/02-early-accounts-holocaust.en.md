@@ -4,7 +4,8 @@ unit: boder
 lang: en
 type: assignment
 title: Different ways of documenting people’s accounts of the Holocaust
-cover: /assets/images/attachments/12boxes/12boxes_03.png
+cover:
+  url: /assets/images/attachments/12boxes/12boxes_03.png
 order: 2
 tags:
   - methods of research

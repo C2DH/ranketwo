@@ -3,7 +3,8 @@ layout: assignment
 unit: boder
 type: assignment
 title: A snippet of text from Edith Zierer’s story in 1946
-cover: /assets/images/attachments/12boxes/12boxes_12.png
+cover:
+  url: /assets/images/attachments/12boxes/12boxes_12.png
 order: 11
 lang: en
 requirements:  strong WIFI, access to Ranke.2, computer or laptop,application on laptop or computer to view video,
