@@ -1,19 +1,60 @@
 ---
 layout: default
 ---
-{% include page.top.html %}
+
 <link href="../assets/css/search_style.css" rel="stylesheet">
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/pagefind/pagefind-ui.js"></script>
-<div id="search_ui">
-<div id="search"><input type="search" id="search_query" onchange="push_query_to_url()"></div>
-<div id="results"></div>
-<div id="filters">
-    <div id="layouts_filter"></div>
-    <div id="mediatypes_filter"></div>
-    <div id="tags_filter"></div>
-    <div id="authors_filter"></div>
+<div class="wrapper" style="min-height: 10%">
+    <div class="in-the-background" style="position: absolute; top: 0; right: 0; left: 0; bottom: 0; z-index: 0">
+        <div data-pagefind-meta="image[style]" class="slide-background" {% if page.cover.url %}
+            style="background-size:cover;background-image:url({{cover_url}})" {% endif %}></div>
+        <div class="slide" style="display: block; opacity: 1">
+            <div class="overlay"></div>
+            <div class="overlay-dotted"></div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="{% if page.toc %} col-sm-8 {% else %} col {% endif %}">
+                <div class="page unit">
+                    <h1>{{page.title}}</h1>
+                    {% assign paragraphs = page.content | split: site.excerpt_separator %}
+                    <div class="excerpt">{{paragraphs[0] | markdownify}}</div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div id="search">
+                <input type="search" id="search_query" onchange="push_query_to_url()">
+            </div>
+        </div>
+        <div class="col-8" id="results"><div class="row"></div></div>
+        <div id="filters" class="col-4">
+            <div class="row">
+                <div class="col-6">
+                    <div id="layouts_filter"></div>
+                    <!-- TODO: mediatypes filter does not work for now
+                        fetching mediatypes from lessons page not from the page itself
+                        in mediatype.html that included to card.html
+                    -->
+                    <div id="mediatypes_filter"></div>
+                </div>
+                <div class="col-6">
+                    <!-- TODO: authors filter does not work for now
+                        fetching authors from lessons page not from the page itself
+                        in author.html that included to card.html
+                    -->
+                    <div id="authors_filter"></div>
+                    <div id="tags_filter"></div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 <script>
     var searchParams = new URLSearchParams();
@@ -33,17 +74,28 @@ layout: default
 
     // Display results
     async function display_results() {
-        var results_elem = document.getElementById("results");
+        var results_elem = document.getElementById("results").firstChild;
         var results = "";
         if (search_res) {
             for (const res of search_res.results) {
                 var article_data = await res.data();
-                results += "<div class='result'>";
-                results += "<a href='" + article_data.url + "'>";
-                results += "<p>" + article_data.meta.title + "</p>"
-                results += "</a>";
-                results += "<p>" + article_data.excerpt + "</p>"
-                results += "</div>";
+                results += "<div class='col-md-6 col-lg-4'>";
+                results += '<div class="card" style="width: 100%">  <div class="card-image-wrapper"> <div class="card-image" style="opacity: .5;';
+                if (article_data.meta.image) {
+                    results += article_data.meta.image;
+                }
+                results += '"' + 'alt="cover for ' + article_data.meta.title + '"></div> </div>';
+                results += '<div class="card-body"> <h5 class="card-title"> <a href="' + article_data.url + '">' + article_data.meta.title;
+                results += '</a> </h5> <div class="card-text">' + article_data.excerpt + '</div>';
+                results += '<a href="' + article_data.url + '" class="btn btn-block btn-primary"><span>go to lesson</span></a>';
+                results += "</div></div></div>";
+
+                // results += "<div class='result'>";
+                // results += "<a href='" + article_data.url + "'>";
+                // results += "<p>" + article_data.meta.title + "</p>"
+                // results += "</a>";
+                // results += "<p>" + article_data.excerpt + "</p>"
+                // results += "</div>";
             }
             results_elem.innerHTML = results;
         }
@@ -54,35 +106,37 @@ layout: default
         const pagefind = await import("/pagefind/pagefind.js");
         pagefind.init();
         var filters_data = await pagefind.filters();
-        var div_filters = document.getElementById('filters');
         var new_filter = "";
         for (var filter_type in filters_data) {
-            new_filter = "<details class='filter'>";
+            new_filter = "<details open class='filter'>";
             new_filter += "<summary>" + filter_type + "</summary>";
             for (var filter in filters_data[filter_type]) {
                 new_filter += "<div>";
-                new_filter += "<input type='checkbox' onclick='push_filters_to_url(this)' id='" + filter + "'>";
-                new_filter += "<label for='" + filter + "'>" + filter + "</label>";
+                new_filter += "<label for='" + filter + "_filter" + "'>";
+                new_filter += "<input type='checkbox' onclick='push_filters_to_url(this)' id='" + filter + "_filter" + "'>";
+                new_filter += filter + "</label>";
                 new_filter += "</div>";
             }
             new_filter += "</details>";
             switch (filter_type) {
                 case "layout":
-                    div_filters.children["layouts_filter"].innerHTML += new_filter;
+                    document.getElementById("layouts_filter").innerHTML += new_filter;
                     break;
-            
+
                 case "mediatype":
-                    div_filters.children["mediatypes_filter"].innerHTML += new_filter;
+                    document.getElementById("mediatypes_filter").innerHTML += new_filter;
                     break;
-            
+
                 case "tag":
-                    div_filters.children["tags_filter"].innerHTML += new_filter;
+                    new_filter = new_filter.replace("details open", "details");
+                    console.log(new_filter);
+                    document.getElementById("tags_filter").innerHTML += new_filter;
                     break;
-            
+
                 case "author":
-                    div_filters.children["authors_filter"].innerHTML += new_filter;
+                    document.getElementById("authors_filter").innerHTML += new_filter;
                     break;
-            
+
                 default:
                     break;
             }
@@ -121,18 +175,18 @@ layout: default
         } else {
             searchParams.delete("q");
         }
-        history.pushState(null, "", "?"+searchParams);
+        history.pushState(null, "", "?" + searchParams);
     }
 
     // filters from url
     function make_json_filters_from_url() {
-        var filters = {filters: {}};
+        var filters = { filters: {} };
         const groupParamsByKey = (params) => [...params.entries()].reduce((acc, tuple) => {
             // getting the key and value from each tuple
             const [key, val] = tuple;
-            if(acc.hasOwnProperty(key)) {
+            if (acc.hasOwnProperty(key)) {
                 // if the current key is already an array, we'll add the value to it
-                if(Array.isArray(acc[key])) {
+                if (Array.isArray(acc[key])) {
                     acc[key] = [...acc[key], val]
                 } else {
                     // if it's not an array, but contains a value, we'll convert it into an array
@@ -146,19 +200,19 @@ layout: default
             delete acc["q"];
             return acc;
         }, {});
-        return {filters: groupParamsByKey(searchParams) };
+        return { filters: groupParamsByKey(searchParams) };
     }
 
     // Filters to url
     function push_filters_to_url(checkbox) {
-        var current_filter = checkbox.attributes.id.value;
-        var filter_type = checkbox.parentElement.parentElement.firstChild.textContent;
+        var current_filter = checkbox.attributes.id.value.slice(0, -7);
+        var filter_type = checkbox.parentElement.parentElement.parentElement.firstChild.textContent;
         if (checkbox.checked) {
             searchParams.append(filter_type, current_filter);
         } else {
             searchParams.delete(filter_type, current_filter);
         }
-        history.pushState(null, "", "?"+searchParams);
+        history.pushState(null, "", "?" + searchParams);
         perform_search();
     }
 </script>

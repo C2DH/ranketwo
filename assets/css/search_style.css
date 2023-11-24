@@ -1,54 +1,19 @@
-#search_ui {
-    display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-	justify-content: space-between;
-}
-
-#search_ui>div:first-child {
-	flex: 0 1 100%;
-	text-align: center;
-}
-
-#search_ui>div:nth-child(2) {
-	flex: 1 0 80%;
-}
-
-#search {
-	width: 80%;
-}
-
 #results {
-	height: 55.7vh;
+	height: 70vh;
 	overflow: hidden;
 	overflow-y: scroll;
-}
-
-#results>div {
-	margin: 1em;
 }
 
 #filters {
-	height: 55.7vh;
-	width: 20%;
+	height: 70vh;
 	overflow: hidden;
 	overflow-y: scroll;
-	margin-left: auto;
-    display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-}
-
-#authors_filter {
-    align-self: flex-start;
-}
-#tags_filter {
-    align-self: flex-end;
 }
 
 input[type="search"] {
-        width: 80%;
+        width: 100%;
         padding: 12px 24px;
+        margin: 1em;
 
         background-color: transparent;
         transition: transform 250ms ease-in-out;
