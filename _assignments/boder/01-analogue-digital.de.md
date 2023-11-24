@@ -24,7 +24,7 @@ Warum sich Studierende der Geisteswissenschaften mit der veralteten Technologie 
 ### Anweisung
 <!-- section-contents -->
 
-- Bitte benutzen Sie den Index, um die obige animierte Grafik zu aktivieren, öffnen Sie die zweite Box "How does the wire recorder work?" und sehen Sie sich [die Animation](https://ranke2.uni.lu/klynt/de/){:target="_blank"}.
+- Gehen Sie zur interaktiven Animation oben und dann mit Hilfe des Registers zum zweiten Kasten: "Wie funktioniert das Drahttonbandgerät?" und folgen Sie [dem Ausschnitt](https://ranke2.uni.lu/klynt/de/){:target="_blank"}.
 
 <!-- section -->
 
@@ -40,7 +40,7 @@ Warum sich Studierende der Geisteswissenschaften mit der veralteten Technologie 
 <!-- section-contents -->
 
 - Sehen Sie sich diesen Videoclip zur [Funktionsweise eines digitalen Aufzeichnungsgeräts](https://www.youtube.com/watch?v=SfEXnX__X9Y&feature=youtu.be){:target="_blank"} vom YouTube Kanal MrAudioSoundImage an.
-- Welches ist der wesentliche Unterschied zwischen analogen und digitalen Aufnahmen?
+- Worin besteht der wesentliche Unterschied zwischen analogen und digitalen Aufnahmen?
 - Notieren Sie die Antwort auf Ihrer Vorlage.
 
 <!-- section -->
