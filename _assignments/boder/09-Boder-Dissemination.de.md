@@ -2,7 +2,7 @@
 layout: assignment
 unit: boder
 type: assignment
-title: Wo und wie können Sie Boders Arbeit einsehen?
+title: Wo und wie können Sie Boders Arbeiten einsehen?
 cover: /assets/images/attachments/12boxes/12boxes_11.png
 order: 9
 lang: de
@@ -16,8 +16,9 @@ outcomes:
   - Verstehen, wie digitale Technologie zur Verbreitung von Wissen genutzt werden kann. 
 ---
 
-Wissenszentren betrachtete, die von seiner Arbeit profitieren könnten. Boders Erbe ist derzeit auf eine überschaubare Anzahl Institute konzentriert, die sich in erster Linie in den Vereinigten Staaten von Amerika befinden.  
-In dieser Aufgabe sollen die Bemühungen Boders zur Verbreitung seiner Arbeit der gegenwärtigen geografischen Streuung der Institute gegenübergestellt werden, die einen Teil seines Erbes verwahren.  
+Die Liste der Universitäten und Forschungsinstitute, die eine Kopie von David Boders Transkripten erhalten haben, zeigt die Orte, die er als wichtige Wissenszentren betrachtete, die von seiner Arbeit profitieren könnten. Heute ist das Erbe, das er uns hinterlassen hat, auf einer begrenzte Anzahl von Instituten begrenzt, die sich hauptsächlich in den USA
+befinden. 
+Diese Aufgabe soll Boders Bemühungen, sein Werk zu verbreiten, mit der aktuellen geografischen Verteilung von Instituten, die einen Teil seines Erbes bewahren, in Beziehung setzen.  
 Sie müssen in dieser Aufgabe eine Karte erstellen und die Orte der Institute markieren, die einen Teil seines Erbes verwahren. Zudem klären Sie anhand von Recherchen, wie digitale Kommunikationstechnologien verwendet werden, um einen Online-Zugang zu Boders Arbeit herzustellen.
 
 <!-- more -->
@@ -32,7 +33,7 @@ Sie müssen in dieser Aufgabe eine Karte erstellen und die Orte der Institute ma
 
 <!-- section -->
 
-### 9.a  Kartographie des Erbes von Boder – wo seine ursprüngliche Arbeiten zu finden sind | 30 min
+### 9.a  Kartographie des Erbes von Boder – wo findet man seine Originalarbeiten? | 30 min
 <!-- section-contents -->
 
 - Legen Sie auf der [HistoryPin](https://www.historypin.org/en/){:target="_blank"}-Website ein Projekt an. 

@@ -32,7 +32,7 @@ Diese Aufgabe soll Ihnen helfen, über Vertriebenenlager als wichtigste Stätte 
 Die Gedanken der in Vertriebenenlagern untergebrachten Überlebenden waren eindeutig auf die Zukunft gerichtet. Gleichwohl gibt es auch einen Verweis auf Gedenkprojekte.
 - Halten Sie den Clip an, wenn das Poster gezeigt wird, und fertigen Sie einen Screenshot an.
 - Da der Text in hebräischer Sprache geschrieben ist, erhalten Sie mithilfe der Bilderkennungstechnologie von Google weitere Informationen über das Poster. 
-- Gehen Sie zu Google Images und klicken Sie auf das Kamerasymbol in der Suchleiste. Klicken Sie anschließend auf „Bild hochladen“ und laden Sie den Screenshot des Posters herauf.
+- Gehen Sie zu Google Images und klicken Sie auf das Kamerasymbol in der Suchleiste. Klicken Sie anschließend auf „Bild hochladen“ und laden Sie den Screenshot des Posters hoch.
 - Im Anschluss erhalten Sie Verweise auf eine Sammlung jüdischer Poster. 
 - Fassen Sie diese Sammlung kurz zusammen (höchstens 150 Wörter) und unterziehen Sie die Website einer Quellenkritik:
   - Wer hat diese Organisation gegründet?
@@ -48,12 +48,12 @@ Die Gedanken der in Vertriebenenlagern untergebrachten Überlebenden waren einde
 
 - Klicken Sie auf [diesen Link](https://www.kedem-auctions.com/content/two-posters-issued-central-historical-commission-central-committee-liberated-jews-american){:target="_blank"}.
 - Laden Sie das Bild herunter, vergrößern Sie es und lesen Sie, was in der unteren linken Ecke geschrieben steht.
-- Versuchen Sie über Webrecherchen den ursprünglichen Ort herauszufinden, an dem dieses Poster geschaffen wurde.
-- Wer hat das Poster entworfen? Wo wurde es entworfen? Mit welchen Mitteln? Wer hat es publiziert online? 
+- Versuchen Sie über Webrecherchen den ursprünglichen Ort herauszufinden, an dem dieses Poster erstellt wurde.
+- Wer hat das Poster entworfen? Wo wurde es entworfen? Mit welchen Mitteln? Wer hat es ins Internet gestellt? 
 
 <!-- section -->
 
-### 6.c  Vertriebenenlager 1945 und 1946 | 30 min
+### 6.c  Lager für Vertriebene in den Jahren 1945 und 1946 | 30 min
 <!-- section-contents -->
 
 - Boder besuchte ebenfalls Vertriebenenlager. Die Website Voices of the Holocaust umfasst eine Karte aller von ihm besuchten Standorte.
