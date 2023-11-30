@@ -1,11 +1,11 @@
 ---
-title: Transformations.
+title: Transformations
 lang: fr
 type: clip
 parent: transformation
 duration: 5
 iframe: transformations-french
 ---
-A brief video.
+Une brève vidéo animée montrant comment les technologies numériques a accru nos possibilités de créer de nouvelles réalités.
 
 <!-- more -->
