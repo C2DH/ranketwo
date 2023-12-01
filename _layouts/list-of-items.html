@@ -54,7 +54,7 @@ layout: default
               </p>
               {% endif %}
               {% if item.mimetype == "pdf" %}
-              <a href='{{ item_download_url }}' class="btn btn-block btn-primary">{% assign key='download' %}{% include t.html %} ↓ </a>
+              <a href='{{ item_download_url }}' target="_blank" class="btn btn-block btn-primary">{% assign key='download' %}{% include t.html %} ↓ </a>
               {% endif %}
             </div>
           </div>
