@@ -19,6 +19,23 @@
     {% else %}
       <meta property="og:type" content="website" />
     {% endif %}
+    {% if page.authors %}
+      {% for author_slug in page.authors %}
+        {% assign author_name = site.data.people | where: "slug", author_slug | first %}
+        <meta data-pagefind-filter="author:{{author_name.name}}"
+        property="article:authors" content="{{author}}" />{% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+    {% else %}
+      <meta property="og:type" content="website" />
+    {% endif %}
+    {% if page.mediatypes %}
+      {% for mediatype in page.mediatypes %}
+        <meta data-pagefind-filter="mediatype[content]"
+        property="article:mediatypes" content="{{mediatype}}" />
+      {% endfor %}
+    {% else %}
+      <meta property="og:type" content="website" />
+    {% endif %}
     {% assign og_image = page.cover.url %}
     {% if og_image %}
       {% capture og_image_url %}{% if og_image contains '://' %}{{ og_image }}{% else %}{{ site.ranke2_baseurl }}{{ og_image | relative_url}}{% endif %}{% endcapture %}

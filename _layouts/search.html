@@ -19,8 +19,9 @@ layout: default
             <div class="{% if page.toc %} col-sm-8 {% else %} col {% endif %}">
                 <div class="page unit">
                     <h1>{{page.title}}</h1>
+                    <p id="search_summary" class="text-white"></p>
                     {% assign paragraphs = page.content | split: site.excerpt_separator %}
-                    <div class="excerpt">{{paragraphs[0] | markdownify}}</div>
+                    <!-- <div class="excerpt">{{paragraphs[0] | markdownify}}</div> -->
                 </div>
             </div>
         </div>
@@ -33,22 +34,14 @@ layout: default
                 <input type="search" id="search_query" onchange="push_query_to_url()">
             </div>
         </div>
-        <div class="col-8" id="results"><div class="row"></div></div>
+        <div class="col-8" id="results"></div>
         <div id="filters" class="col-4">
             <div class="row">
                 <div class="col-6">
                     <div id="layouts_filter"></div>
-                    <!-- TODO: mediatypes filter does not work for now
-                        fetching mediatypes from lessons page not from the page itself
-                        in mediatype.html that included to card.html
-                    -->
                     <div id="mediatypes_filter"></div>
                 </div>
                 <div class="col-6">
-                    <!-- TODO: authors filter does not work for now
-                        fetching authors from lessons page not from the page itself
-                        in author.html that included to card.html
-                    -->
                     <div id="authors_filter"></div>
                     <div id="tags_filter"></div>
                 </div>
@@ -56,46 +49,77 @@ layout: default
         </div>
     </div>
 </div>
+
 <script>
-    var searchParams = new URLSearchParams();
-    const url = new URL(location);
+    var pagefind;
+    var searchParams = new URL(location).searchParams;
     document.getElementById("search_query").addEventListener("change", perform_search);
     var search_res;
+    var people = {{ site.data.people | jsonify }};
+    var filters_data;
 
     window.addEventListener('DOMContentLoaded', async (event) => {
-        const pagefind = await import("/pagefind/pagefind.js");
+        pagefind = await import("/pagefind/pagefind.js");
         pagefind.init();
-        search_res = await pagefind.search(
-            null
-        );
+        var search_query = searchParams.get("q");
+        var filters = make_json_filters_from_url();
+        filters_data = await pagefind.filters();
+
+        if (search_query == "") {
+            search_res = await pagefind.search(
+                null,
+                filters
+            );
+        } else {
+            search_res = await pagefind.search(
+                search_query,
+                filters
+            );
+        }
         display_results();
         display_filters();
+        update_summary();
     });
 
     // Display results
     async function display_results() {
-        var results_elem = document.getElementById("results").firstChild;
+        var results_elem = document.getElementById("results");
         var results = "";
         if (search_res) {
             for (const res of search_res.results) {
                 var article_data = await res.data();
-                results += "<div class='col-md-6 col-lg-4'>";
                 results += '<div class="card" style="width: 100%">  <div class="card-image-wrapper"> <div class="card-image" style="opacity: .5;';
                 if (article_data.meta.image) {
                     results += article_data.meta.image;
                 }
                 results += '"' + 'alt="cover for ' + article_data.meta.title + '"></div> </div>';
-                results += '<div class="card-body"> <h5 class="card-title"> <a href="' + article_data.url + '">' + article_data.meta.title;
-                results += '</a> </h5> <div class="card-text">' + article_data.excerpt + '</div>';
-                results += '<a href="' + article_data.url + '" class="btn btn-block btn-primary"><span>go to lesson</span></a>';
-                results += "</div></div></div>";
-
-                // results += "<div class='result'>";
-                // results += "<a href='" + article_data.url + "'>";
-                // results += "<p>" + article_data.meta.title + "</p>"
-                // results += "</a>";
-                // results += "<p>" + article_data.excerpt + "</p>"
-                // results += "</div>";
+                results += '<div class="card-body"> <h5 class="card-title"> <a href="' + article_data.url + '">' + article_data.meta.title + '</a> </h5>';
+                try {
+                    if (article_data["filters"].layout == "unit") {
+                        results += '<p class="card-authors"> <span>Unit</span>';
+                    } else if (article_data["filters"].layout == "assignment") {
+                        results += '<p class="card-authors"> <span>Assignment</span>';
+                    } else {
+                        results += '<p class="card-authors">';
+                    }
+                    for(var author of article_data["filters"].author) {
+                        results += " • ";
+                        results += "<input style='background: transparent; border: 0; color: fuchsia; cursor:pointer;' type='button' value='" + author + "' onclick='check_filter(this)'>";
+                    }
+                    results += '</p>';
+                } catch (err) {
+                }
+                results += '<div class="card-text">' + article_data.excerpt + '</div>';
+                try {
+                    results += '<p class="card-authors">';
+                    for(var mediatype of article_data["filters"].mediatype) {
+                        results += " • ";
+                        results += "<input style='background: transparent; border: 0; color: fuchsia; cursor:pointer;' type='button' value='" + mediatype + "' onclick='check_filter(this)'>";
+                    }
+                    results += '</p>';
+                } catch (error) {
+                }
+                results += "</div></div>";
             }
             results_elem.innerHTML = results;
         }
@@ -103,33 +127,52 @@ layout: default
 
     // Display filters
     async function display_filters() {
-        const pagefind = await import("/pagefind/pagefind.js");
-        pagefind.init();
-        var filters_data = await pagefind.filters();
+        var filters_data_map = new Map(Object.entries(filters_data));
         var new_filter = "";
-        for (var filter_type in filters_data) {
+        document.getElementById("layouts_filter").innerHTML = "";
+        document.getElementById("mediatypes_filter").innerHTML = "";
+        document.getElementById("authors_filter").innerHTML = "";
+        document.getElementById("tags_filter").innerHTML = "";
+        filters_data_map.forEach((filter_values, filter_type) => {
             new_filter = "<details open class='filter'>";
             new_filter += "<summary>" + filter_type + "</summary>";
-            for (var filter in filters_data[filter_type]) {
+            for (var filter in filter_values) {
+                if (!filter) {
+                    continue;
+                }
                 new_filter += "<div>";
                 new_filter += "<label for='" + filter + "_filter" + "'>";
                 new_filter += "<input type='checkbox' onclick='push_filters_to_url(this)' id='" + filter + "_filter" + "'>";
-                new_filter += filter + "</label>";
+                new_filter += " " + filter + " (" + search_res["filters"][filter_type][filter] + ")" + "</label>";
                 new_filter += "</div>";
             }
             new_filter += "</details>";
             switch (filter_type) {
                 case "layout":
+                    new_filter = "<div class='filter'>";
+                    new_filter += "<summary>layout</summary>";
+                    new_filter += "<div>";
+                    new_filter += "<label for='assignment_filter'>";
+                    new_filter += "<input type='checkbox' onclick='push_filters_to_url(this)' id='assignment_filter'>";
+                    new_filter += " assignment (" + search_res["filters"]["layout"]["assignment"] + ")</label>";
+                    new_filter += "</div>";
+                    new_filter += "<div>";
+                    new_filter += "<label for='unit_filter'>";
+                    new_filter += "<input type='checkbox' onclick='push_filters_to_url(this)' id='unit_filter'>";
+                    new_filter += " unit (" + search_res["filters"]["layout"]["unit"] + ")</label>";
+                    new_filter += "</div>";
+                    new_filter += "</div>";
                     document.getElementById("layouts_filter").innerHTML += new_filter;
                     break;
 
                 case "mediatype":
+                    new_filter = new_filter.replace("details open", "div");
+                    new_filter = new_filter.replace("/details", "/div");
                     document.getElementById("mediatypes_filter").innerHTML += new_filter;
                     break;
 
                 case "tag":
                     new_filter = new_filter.replace("details open", "details");
-                    console.log(new_filter);
                     document.getElementById("tags_filter").innerHTML += new_filter;
                     break;
 
@@ -140,19 +183,15 @@ layout: default
                 default:
                     break;
             }
-        }
+        });
+        check_boxes_based_on_url();
     }
 
     // Perform search
     async function perform_search() {
-        const pagefind = await import("/pagefind/pagefind.js");
-        pagefind.init();
         var search_query = searchParams.get("q");
-        var search_filters = searchParams.getAll("filter");
-
         var filters = make_json_filters_from_url();
 
-        console.log(filters);
         if (search_query == "") {
             search_res = await pagefind.search(
                 null,
@@ -160,11 +199,12 @@ layout: default
             );
         } else {
             search_res = await pagefind.search(
-                searchParams.get("q"),
+                search_query,
                 filters
             );
         }
         display_results();
+        display_filters();
     }
 
     // Query to url
@@ -207,12 +247,61 @@ layout: default
     function push_filters_to_url(checkbox) {
         var current_filter = checkbox.attributes.id.value.slice(0, -7);
         var filter_type = checkbox.parentElement.parentElement.parentElement.firstChild.textContent;
-        if (checkbox.checked) {
+        if (searchParams.has(filter_type, current_filter) && checkbox.checked) {
+            return;
+        } else if (checkbox.checked) {
             searchParams.append(filter_type, current_filter);
-        } else {
+        }
+        else {
             searchParams.delete(filter_type, current_filter);
         }
         history.pushState(null, "", "?" + searchParams);
+        perform_search();
+        update_summary();
+    }
+
+    async function check_boxes_based_on_url() {
+        searchParams.forEach((value, key) => {
+            document.getElementById(value+"_filter").checked = true;
+        });
+    }
+
+    function check_filter(element) {
+        var ch_box_filter = document.getElementById(element.value+"_filter");
+        ch_box_filter.checked = true;
+        ch_box_filter.onclick();
+    }
+
+    function uncheck_filter(value) {
+        var ch_box_filter = document.getElementById(value+"_filter");
+        ch_box_filter.checked = false;
+    }
+
+    function update_summary() {
+        var summary_elem = document.getElementById("search_summary");
+        summary_elem.innerHTML = "";
+        searchParams.forEach((value, key) => {
+            if (key == "author") {
+                var author_obj = people.find(obj => {return obj.name === value});
+                var new_filter = "<input onclick='remove_filter_from_url(this)' type='button' class='summary_filter' value='";
+                new_filter += key + ": " + value + " X'/>" ;
+                if (author_obj.url) {
+                    new_filter += ' <a href="' + author_obj.url + '">(bio)</a>';
+                }
+                summary_elem.innerHTML += new_filter;
+            } else {
+                summary_elem.innerHTML += "<input onclick='remove_filter_from_url(this)' type='button' class='summary_filter' value='" + key + ": " + value + " X'/>";
+            }
+        });
+    }
+
+    function remove_filter_from_url(filter) {
+        var filter_values = filter.value.split(': ');
+        var key = filter_values[0];
+        var value = filter_values[1].replace(' X', '');
+        searchParams.delete(key, value);
+        uncheck_filter(value);
+        update_summary();
         perform_search();
     }
 </script>
