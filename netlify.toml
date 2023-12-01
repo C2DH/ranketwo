@@ -1,3 +1,3 @@
 [build]
-  command = "bundle exec jekyll build"
+  command = "bundle exec jekyll build && npx -y pagefind --site _site"
   publish = "_site"
