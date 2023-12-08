@@ -14,6 +14,8 @@ order: 1
 ---
 Toutes les images de la vidéo «&#x202F;Transformation&#x202F;» que vous venez de voir proviennent d’ailleurs. Elles ont été copiées et collées dans un nouveau contexte grâce à des technologies qui permettent de récupérer et de «&#x202F;transformer&#x202F;» des images. Cet exercice est consacré aux logiciels de reconnaissance d’images, qui créent la «&#x202F;vision par ordinateur&#x202F;». Vous commencerez par apprendre à créer une capture d’écran d’une image et à examiner ses métadonnées. Vous apprendrez ensuite à utiliser des logiciels pour trouver l’origine précise d’une image présente sur le Web. Pour terminer, vous analyserez l’image à l’aide d’outils vous permettant d'appliquer la critique des sources numériques. Vous pourrez ainsi retracer le parcours de cette image, de son origine jusqu’à sa publication sous forme de représentation numérique dans un environnement en ligne, en documentant les transformations qu’elle a subies pour atteindre sa forme la plus récente.
 
+Si vous souhaitez en savoir plus sur les métadonnées, merci de consulter [ce cours introductif](https://doranum.fr/metadonnees-standards-formats/cours-introductif-sur-les-metadonnees_10_13143_vwce-g965/). 
+
 <!-- more -->
 
 <!-- briefing-student -->
