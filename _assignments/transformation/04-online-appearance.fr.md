@@ -6,7 +6,8 @@ title: "« Transformer » son apparence en ligne "
 cover:
 tags:
 learning outcomes:
--  Understand the principle of re-use, creativity and copyright
+- Apprendre comment la technologie numérique et les réseaux sociaux augmentent les possibilités de se « façonner soi-même » et d’essayer de changer son apparence
+- Apprendre comment les innovations des technologies numériques génèrent des applications pouvant servir à s’amuser
 order: 4
 ---
 <!-- more -->
