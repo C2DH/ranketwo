@@ -142,58 +142,56 @@ Nous allons maintenant appliquer le principe « CRAP » à plusieurs ressources 
 {:.table.border.table-sm.with-pairs}
 | Principes CRAP - Site Web 1 |   |
 |-----------------------------|---|
-| Actualité:                  |   |
-| Fiabilité:                  |   |
-| Autorité:                   |   |
+| Actualité                   |   |
+| Fiabilité                   |   |
+| Autorité                    |   |
 | Point de vue                |   |
 
 {:.table.border.table-sm.with-pairs}
 | Principes CRAP - Site Web 2 |   |
 |-----------------------------|---|
-| Actualité:                  |   |
-| Fiabilité:                  |   |
-| Autorité:                   |   |
+| Actualité                   |   |
+| Fiabilité                   |   |
+| Autorité                    |   |
 | Point de vue                |   |
 
-Français
-- [http://apprendre-la-philosophie.blogspot.com/2010/02/la-source-premiere-de-toute.html](http://apprendre-la-philosophie.blogspot.com/2010/02/la-source-premiere-de-toute.html) 
-- [https://www.france24.com/fr/asie-pacifique/20200525-covid-19-la-chine-sur-la-sellette](https://www.france24.com/fr/asie-pacifique/20200525-covid-19-la-chine-sur-la-sellette) 
-- [https://nordpresse.be](https://nordpresse.be)
-- [https://www.espacefrancais.com/specialites-cuisine-francaise-1/](https://www.espacefrancais.com/specialites-cuisine-francaise-1/)
+En français
+- Covid-19&#x202F;: la Chine sur la sellette, *France 24*, 25 mai 2020 [https://www.france24.com/fr/asie-pacifique/20200525-covid-19-la-chine-sur-la-sellette](https://www.france24.com/fr/asie-pacifique/20200525-covid-19-la-chine-sur-la-sellette) 
+- [*Nord Presse*](https://nordpresse.be)
+- Les spécialités de la cuisine française, *Espace français* [https://www.espacefrancais.com/specialites-cuisine-francaise-1/](https://www.espacefrancais.com/specialites-cuisine-francaise-1/)
 
-Anglais
-- [https://web.archive.org/web/20010215000000*/http://nomorefakenews.com/](https://web.archive.org/web/20010215000000*/http://nomorefakenews.com)
-- [http://realnewsrightnow.com](http://realnewsrightnow.com)
-- [https://www.onenation.org.au](https://www.onenation.org.au)
-- [https://www.globalresearch.ca](https://www.globalresearch.ca)
-- [https://www.darkmoon.me](https://www.darkmoon.me)
-- [http://livingpresence.com](http://livingpresence.com)
+En anglais
+- [Archived version of No More Fake News/](https://web.archive.org/web/20010215000000*/http://nomorefakenews.com)
+- [*Real News Right Now*](http://realnewsrightnow.com)
+- [*One Nation*](https://www.onenation.org.au)
+- [*Global Research*](https://www.globalresearch.ca)
+- [*Living Presence*](http://livingpresence.com)
 
-Allemand
-- https://www.der-postillon.com 
-- https://jungefreiheit.de/kultur/ 
-- https://www.selbstheilung-online.com 
-- https://www.spick.ch  
+En allemand
+- [*Der Postillon*](https://www.der-postillon.com) 
+- [*Junge Freiheit*](https://jungefreiheit.de/kultur/) 
+- [*Selbstheilung Online*](https://www.selbstheilung-online.com) 
+- [*Spick*](https://www.spick.ch)  
 
-Italien
+En italien
 - https://www.studenti.it/classificazione-fonti-storiche.html 
 - https://www.lercio.it
 - https://www.open.online/2020/01/30/audio-di-un-italiano-bloccato-in-cina-teorie-di-complotto-e-cattiva-informazione/  
 - https://web.archive.org/web/20160306122819/http://www.lafucina.it/ 
 
-Néerlandais
+En néerlandais
 - https://neoavantgarde.de/digitale-kunst/
 - https://www.atlantis-erfgoed.nl/crowdsourcing/?gclid=CjwKCAjw_LL2BRAkEiwAv2Y3Sa0vCniHi-- n88LpOKXWpsE6z4kjsqPrnS4xRD6vnSpKvHG6LMGc67RoCaVYQAvD_BwE  
 - https://www.dumpert.nl 
 - https://www.fvd.nl/standpunten
 
-Espagnol
+En espagnol
 - https://www.vozpopuli.com/espana/anuncio-navidad-campofrio-2019-fake-me_0_1310269475.html 
 - https://expatpsi.com/psicologa-para-expatriados/?gclid=Cj0KCQjwoaz3BRDnARIsAF1RfLf2WLqci_I1_WKO75cKDca2u3Zg5yzXvmsBerxg4Zjrjt-Oc5Xbi6IaAh5CEALw_wcB 
 - https://www.mosteirodesaobentorio.org.br/vida-monastica/o-que-e-vida-monastica 
 - http://ri.uaemex.mx/handle/20.500.11799/104743 
 
-Danois
+En danois
 - https://denmark.dk 
 - https://www.thelocal.dk 
 - https://museetalhambra.dk/en/ 
