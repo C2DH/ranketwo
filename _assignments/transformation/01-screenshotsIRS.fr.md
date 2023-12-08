@@ -6,7 +6,10 @@ title: "Captures d’écran et logiciels de reconnaissance d’images "
 cover:
 tags:
 learning outcomes:
--  Comprendre la relation entre imagination, créativité et innovation technologique
+-  Apprendre comment la technologie numérique est appliquée pour copier des images et comment cette pratique génère automatiquement des métadonnées (informations sur la copie créée).
+- Apprendre les principes de base de la reconnaissance d’images et comment cette technique contribue au passage des formes de communication textuelles aux formes multimodales.
+- Apprendre comment appliquer l’examen critique de la source à une représentation numérique d’un objet publié en ligne.
+
 order: 1
 ---
 Toutes les images de la vidéo «&#x202F;Transformation&#x202F;» que vous venez de voir proviennent d’ailleurs. Elles ont été copiées et collées dans un nouveau contexte grâce à des technologies qui permettent de récupérer et de «&#x202F;transformer&#x202F;» des images. Cet exercice est consacré aux logiciels de reconnaissance d’images, qui créent la «&#x202F;vision par ordinateur&#x202F;». Vous commencerez par apprendre à créer une capture d’écran d’une image et à examiner ses métadonnées. Vous apprendrez ensuite à utiliser des logiciels pour trouver l’origine précise d’une image présente sur le Web. Pour terminer, vous analyserez l’image à l’aide d’outils vous permettant d'appliquer la critique des sources numériques. Vous pourrez ainsi retracer le parcours de cette image, de son origine jusqu’à sa publication sous forme de représentation numérique dans un environnement en ligne, en documentant les transformations qu’elle a subies pour atteindre sa forme la plus récente.
