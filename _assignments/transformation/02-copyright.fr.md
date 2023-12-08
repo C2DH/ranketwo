@@ -5,7 +5,7 @@ lang: fr
 title: "Le droit de copier : le rôle des droits d’auteur dans la transformation "  
 cover:
 tags:
-learning outcomes: En apprendre plus sur l’origine du concept de droits d’auteur et découvrir les dispositions prises sur le Web pour protéger les droits des auteurs tout en permettant la diffusion des contenus à partager librement
+learning outcomes: En apprendre plus sur l’origine du concept de droits d’auteur et sur le partage de contenus sur le Web 
 -  
 order: 2
 ---
