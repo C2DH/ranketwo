@@ -42,6 +42,10 @@
       {% if card.translation_date %}
         <span class="label">{% assign key="translated" %}{% include t.html %} {{ card.translation_date }}</span>
       {% endif %}
+    </br>
+      {% if card.edition_date %}
+        <span class="label">{% assign key="edited" %}{% include t.html %} {{ card.edition_date }}</span>
+      {% endif %}
       <!-- {{ card.date | date: "%B %-d, %Y" }} -->
       {{ card.excerpt }}
     </div>
