@@ -5,7 +5,7 @@ lang: fr
 title: "Le droit de copier : le rôle des droits d’auteur dans la transformation "  
 cover:
 tags:
-learning outcomes: En apprendre plus sur l’origine du concept de droits d’auteur et sur le partage de contenus sur le Web 
+outcomes: En apprendre plus sur l’origine du concept de droits d’auteur et sur le partage de contenus sur le Web 
 -  
 order: 2
 ---
@@ -65,4 +65,6 @@ Pour en savoir plus sur la première loi moderne en matière de droits d’auteu
 - Creative Commons. “About The Licenses.” Dernière modification le 7 novembre 2022. Site Web
 - Strebeck, Zachary. “How to find out if something is copyrighted – a quick guide.” Strebecklaw. 2021. Blog
 - Stim, Rich. “Starting Your Copyright Research.” Stanford Copyright & Fair Use. Site Web
+
+<!-- briefing-teacher -->
 
