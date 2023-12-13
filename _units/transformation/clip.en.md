@@ -1,5 +1,5 @@
 ---
-title: Transformations.
+title: Transformations
 lang: en
 type: clip
 parent: transformation
