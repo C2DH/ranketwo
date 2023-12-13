@@ -18,7 +18,7 @@ Dans la vidéo «&#x202F;Transformation&#x202F;», on soutient que la technologi
 
 
 
-### 3.a. Interprétations et origines de deux termes clés : « métamorphose » et « transformation » 
+### 3.a. Interprétations et origines de deux termes clés : «métamorphose» et «transformation» 
 <!-- section-contents -->
 
 Les termes «&#x202F;métamorphose&#x202F;» et «&#x202F;transformation&#x202F;» sont apparentés mais pas synonymes. La «&#x202F;métamorphose&#x202F;» est associée aux animaux capables de changer de forme (bien qu’il ne s’agisse pas du sens originel du terme), alors que la «&#x202F;transformation&#x202F;» est une référence plus générale au «&#x202F;changement&#x202F;» qui est fréquemment associée à l’adjectif «&#x202F;numérique&#x202F;». Avant l’avènement d’Internet, quiconque voulait retrouver le sens originel – ou étymologie – d’un mot devait utiliser un dictionnaire imprimé, dont la crédibilité et l’autorat étaient garantis par le statut d’une organisation ou d’une personne (en général, soit une maison d’édition, soit un éditeur). La technologie numérique peut nous aider à retrouver simultanément diverses interprétations des sens originels de ces mots. Elle peut aussi nous aider à découvrir comment ces sens ont changé avec le temps. Sachons cependant qu’il est important d’appliquer aux ressources d’informations présentes sur le Web le même examen critique de la source que l’on applique aux contenus imprimés.
@@ -47,7 +47,7 @@ Pour évaluer la qualité de cette ressource, appliquez la stratégie CRAP (voir
 
 
 <!-- section -->
-### 3.b. Changements dans la façon d’utiliser les termes « transformation » et « métamorphose » dans la langue
+### 3.b. Changements dans la façon d’utiliser les termes «transformation» et «métamorphose» dans la langue
 <!-- section-contents -->
 Les contextes dans lesquels on utilise certains termes sont affectés par les changements technologiques, culturels et économiques intervenant dans la société. La façon dont l’utilisation des mots évolue au fil du temps peut être retracée à l’aide d’un outil appelé [Google Books Ngram Viewer](https://books.google.com/ngrams){:target="_blank"}. Ce moteur de recherche créé par Google retrace la fréquence d’utilisation d’un terme dans 18 millions de livres en langue anglaise qui sont disponibles dans le domaine public et ont été publiés entre 1500 et 2008. Ces calculs se font par analyse statistique des comptages annuels des mots. Même si ces résultats ne sont pas complètement représentatifs, ils peuvent donner une idée valable de la façon dont la signification d’un terme peut changer avec le temps.
 
