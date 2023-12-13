@@ -82,7 +82,7 @@ Le tableau ci-dessous contient une liste de réflexes psychosociologiques releva
 | Effet Lac Wobegon            |          |
 | Rasoir d’Ockham              |          |
 | Effet Ikea                   |          |
-| EffetPeltzman                |          |
+| Effet Peltzman                |          |
 | Effet Google                 |          |
 | Phénomène Bader Meinhof      |          |
 | Loi de Weber-Fechner         |          |
@@ -144,7 +144,7 @@ Nous allons maintenant appliquer le principe CRAP à plusieurs ressources Web. R
 |-----------------------------|---|
 | Actualité                   |   |
 | Fiabilité                   |   |
-| Autorité                    |   |
+| Autorat                    |   |
 | Point de vue                |   |
 
 {:.table.border.table-sm.with-pairs}
@@ -152,7 +152,7 @@ Nous allons maintenant appliquer le principe CRAP à plusieurs ressources Web. R
 |-----------------------------|---|
 | Actualité                   |   |
 | Fiabilité                   |   |
-| Autorité                    |   |
+| Autorat                    |   |
 | Point de vue                |   |
 
 En français
