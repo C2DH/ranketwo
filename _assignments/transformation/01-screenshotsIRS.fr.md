@@ -119,5 +119,9 @@ Pour cet exercice, prenez la seconde des deux captures d’écran faites dans l�
 
 
 #### Suggestions de lectures/vidéos
-Trevor Owens’ article, “Digital Sources & Digital Archives: The Evidentiary Basis of Digital History”.
+Trevor Owens, “Digital Sources & Digital Archives: The Evidentiary Basis of Digital History” in David Staley (dir.), *Companion to Digital History*. Wiley-Blackwell, 2017 https://osf.io/preprints/socarxiv/t5rdy 
 Text Encoding Initiative.
+
+<!-- briefing-teacher -->
+
+
