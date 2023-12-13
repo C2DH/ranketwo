@@ -5,7 +5,7 @@ lang: fr
 title: "Captures d’écran et logiciels de reconnaissance d’images "  
 cover:
 tags:
-learning outcomes:
+outcomes:
 -  Apprendre comment la technologie numérique est appliquée pour copier des images et comment cette pratique génère automatiquement des métadonnées (informations sur la copie créée).
 - Apprendre les principes de base de la reconnaissance d’images et comment cette technique contribue au passage des formes de communication textuelles aux formes multimodales.
 - Apprendre comment appliquer l’examen critique de la source à une représentation numérique d’un objet publié en ligne.
