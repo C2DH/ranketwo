@@ -7,7 +7,7 @@ cover:
 tags:
   -  
   -  
-learning outcomes:
+outcomes:
 - Comprendre les diverses interprétations du concept de « transformation »
 order: 3
 ---
@@ -146,3 +146,7 @@ Comme nous l’avons vu, les «&#x202F;Métamorphoses&#x202F;» d’Ovide ont la
 
 
 #### Suggestions de lectures/vidéos
+
+
+<!-- briefing-teacher -->
+
