@@ -2,10 +2,10 @@
 layout: assignment
 unit: transformation
 lang: fr
-title: "« Transformer » son apparence en ligne "  
+title: "« Transformer » son apparence en ligne"  
 cover:
 tags:
-learning outcomes:
+outcomes:
 - Apprendre comment la technologie numérique et les réseaux sociaux augmentent les possibilités de se « façonner soi-même » et d’essayer de changer son apparence
 - Apprendre comment les innovations des technologies numériques génèrent des applications pouvant servir à s’amuser
 order: 4
@@ -53,4 +53,8 @@ Même si les réseaux sociaux en ligne ont évidemment des aspects négatifs à 
 - Avez-vous déjà utilisé l’une des cinq applications citées&#x202F;»? Quelle en est votre expérience personnelle&#x202F;»?
 
 <!-- section -->
+
+<!-- briefing-teacher -->
+
+
 
