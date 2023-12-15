@@ -19,8 +19,8 @@ outcomes:
   - Lernen, wie sich die Herkunft eines Fotos durch Webrecherchen klären lässt.
 ---
 
-In der Animation über Boder wurden Aufnahmen von Opfern und Familien verwendet, ohne deren Identität klarzustellen. Dies soll eine Assoziation bewirken. Das Foto steht für eine Gruppe bzw. einen soziokulturellen Kontext. Mit den Wochenschauen über die befreiten Konzentrationslager wird  wie von Boder beobachtet  in gewisser Weise derselbe Effekt erzeugt: Menschen werden als anonyme Gruppe unter Missachtung ihrer Individualität dargestellt.  
-Da es in dieser Lektion um Quellenkritik geht, haben wir versucht, den Kontext, in dem diese Aufnahmen entstanden, und die Namen der dargestellten Menschen herauszufinden. Studierende sollen in der Aufgabe nach dem Kontext forschen, in dem diese Aufnahmen entstanden, und herausfinden, wie diese Fotos in diese Animation gelangten.
+In der Animation über Boder wurden Aufnahmen von Opfern und Familien verwendet, ohne deren Identität klarzustellen. Dies soll eine Assoziation bewirken. Das Foto steht für eine Gruppe bzw. einen soziokulturellen Kontext. In gewissem Sinne wird derselbe Effekt mit Nachrichtenfilmen über befreite Konzentrationslager erzeugt, wie David Boder beobachtet hat: Die Menschen werden anonym dargestellt, ohne ihre Individualität zu berücksichtigen. Da es in dieser Lektion um Quellenkritik geht, haben wir versucht, den Kontext, in dem diese Aufnahmen entstanden, und die Namen der dargestellten Menschen herauszufinden. Die Übung fordert die Schülerinnen und Schüler dazu auf, den Kontext zu ermitteln, in dem diese
+Fotos aufgenommen wurden, und zudem herauszufinden, wie die Fotos in diese Animation gelangt sind.
 
 <!-- more -->
 
@@ -34,15 +34,15 @@ Da es in dieser Lektion um Quellenkritik geht, haben wir versucht, den Kontext, 
 
 <!-- section -->
 
-### 3.a  Online-Inhalte  wer steckt dahinter? | 20 min
+### 3.a  Wer steckt hinter den Online-Inhalten? | 20 min
 <!-- section-contents -->
 
-- Versuchen Sie, durch zusätzliche Webrecherchen weitere Hintergrundinformationen über diese Fotografien zusammenzutragen.  
+- Versuchen Sie, durch weitere Internetrecherchen weitere Hintergrundinformationen über diese Fotografien zusammenzutragen.  
 - Wer hat diese Aufnahmen gemacht?
-- Wo, wann und in welchem Kontext?
+- Wo, wann und in welchem Kontext sind diese entstanden?
 - Wer hat sie zusammengetragen, dokumentiert und online veröffentlicht?
 - Wie können Sie die Genehmigung zur Wiederverwendung erlangen?
-- Wie können Sie sicher sein, dass potenzielle von Ihnen zu diesen Fotos gefundene Informationen vertrauenswürdig sind?
+- Wie können Sie sicherstellen, dass die auf den Fotos gefundenen Informationen vertrauenswürdig sind? Halten Sie Ihre?
 Notieren Sie Ihre Feststellungen auf Ihrer Vorlage.
 
 <!-- section -->

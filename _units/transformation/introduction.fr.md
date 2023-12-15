@@ -3,14 +3,13 @@ title: Introduction
 type: introduction
 parent: transformation
 tags:
-  - digitization
-  - transformation
 authors:
   - stefania-scagliola
 lang: fr
 
 ---
 
-This lesson is inspired by the concept of transformation. It deals with how technology has changed the way we communicate and transfer knowledge and how the 'digital' has created new encounters that seem real, but sometimes are able to deceive and seduce our senses.
+Cette leçon s’inspire du concept de transformation. Elle nous rappelle comment la technologie agit sur notre façon de communiquer et de transférer des connaissances, et comment le «&#x202F;numérique&#x202F;» a créé de nouvelles interactions qui paraissent réelles, mais peuvent parfois séduire et tromper nos sens.
 
-A short animation presents how digital technology facilitates the processes of transformation. The idea that a person, animal, or object can change its appearance has inspired artists, scholars, and inventors for centuries. With the advent of digital technology the ease with which one can create, manipulate, and share content online has ‘democratized’ the ability to transform reality. The plethora of web applications that are at our disposal allows us to ‘transform’ or ‘enhance’ reality into a virtual experience in a split second. At the same time, this freedom on the web and accessibility of tools can have detrimental effects on the credibility of information, creating the risk of manipulating audiences by the spread of ‘fake news’. The following assignments deal with the advantages and disadvantages of digital cultures and highlight the timeless idea of transformation, from Greek mythology to computer algorithms. 
+Un brève vidéo animée illustre comment la technologie numérique facilite le processus de transformation. Depuis des siècles, l’idée selon laquelle une personne, un animal ou un objet peuvent changer d’apparence a inspiré artistes, savants et inventeurs. Depuis l’avènement de la technologie numérique, la facilité avec laquelle on peut créer, manipuler et partager des contenus en ligne a «&#x202F;démocratisé&#x202F;» la capacité à transformer la réalité. La pléthore d’applications Web mises à notre disposition nous permettent, en une fraction de seconde, de «&#x202F;transformer&#x202F;» ou encore d’«&#x202F;embellir&#x202F;» la réalité en une expérience virtuelle. Néanmoins, cette liberté sur le Web et l’accessibilité des outils peuvent avoir des effets néfastes sur la crédibilité des informations, car elles induisent un risque de manipulation du public par la diffusion de fausses informations (fake news). L’exercice suivant traite des avantages et inconvénients de la culture numérique et souligne l’idée intemporelle de transformation, présente depuis la mythologie grecque jusque dans les algorithmes informatiques.
+

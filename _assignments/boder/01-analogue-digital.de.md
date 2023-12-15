@@ -16,7 +16,7 @@ outcomes:
  - Verstehen, inwieweit wir zur Verbreitung von Wissen von Technologie abhängen
 ---
 
-Warum sich Studierende der Geisteswissenschaften mit der veralteten Technologie des Drahttonbandgeräts beschäftigen sollten, mag Fragen aufwerfen. Sinnvoll ist dies deswegen, weil so der Unterschied zur Physik der analogen Tonaufzeichnung erfasst und verstanden wird, inwieweit dies mit der Physik digitaler Technologie in Zusammenhang steht. Die Kritik an digitalen Quellen beschränkt sich nicht auf den Reflexionsprozess über den Informationswert einer historischen Quelle. Ebenso bezieht diese Kritik den Übermittler der Informationen und dessen materielle Merkmale ein. Da digitale Informationstechnologie aus unserem Alltag inzwischen nicht mehr wegzudenken ist, ist es wichtig, die zugrunde liegenden physikalischen Phänomene zu verstehen und eine Reflexion zu der Frage durchführen zu können, wie die Umstellung von der analogen auf digitale Technik unsere Nutzung von Technologie beeinflusst hat.
+Warum sich Studierende der Geisteswissenschaften mit der veralteten Technologie des Drahttonbandgeräts beschäftigen sollten, mag Fragen aufwerfen. Das Ziel besteht darin zu verstehen, wie sich die physikalischen Prinzipien der Tonaufzeichnung im analogen Zeitalter von denen der digitalen Technologie unterscheiden und miteinander in Beziehung stehen. Die Kritik an digitalen Quellen beschränkt sich nicht auf den Reflexionsprozess über den Informationswert einer historischen Quelle. Ebenso bezieht diese Kritik den Übermittler der Informationen und dessen materiellen Merkmale ein. Da digitale Informationstechnologie aus unserem Alltag inzwischen nicht mehr wegzudenken ist, ist es wichtig, die zugrunde liegenden physikalischen Phänomene zu verstehen und eine Reflexion zu der Frage durchführen zu können, wie die Umstellung von der analogen auf digitale Technik unsere Nutzung von Technologie beeinflusst hat.
 
 <!-- more -->
 
@@ -25,7 +25,7 @@ Warum sich Studierende der Geisteswissenschaften mit der veralteten Technologie 
 ### Anweisung
 <!-- section-contents -->
 
-- Bitte benutzen Sie den Index, um die obige animierte Grafik zu aktivieren, öffnen Sie die zweite Box "How does the wire recorder work?" und sehen Sie sich [die Animation](https://ranke2.uni.lu/klynt/de/){:target="_blank"}.
+- Gehen Sie zur interaktiven Animation oben und dann mit Hilfe des Registers zum zweiten Kasten: "Wie funktioniert das Drahttonbandgerät?" und folgen Sie [dem Ausschnitt](https://ranke2.uni.lu/klynt/de/){:target="_blank"}.
 
 <!-- section -->
 
@@ -41,7 +41,7 @@ Warum sich Studierende der Geisteswissenschaften mit der veralteten Technologie 
 <!-- section-contents -->
 
 - Sehen Sie sich diesen Videoclip zur [Funktionsweise eines digitalen Aufzeichnungsgeräts](https://www.youtube.com/watch?v=SfEXnX__X9Y&feature=youtu.be){:target="_blank"} vom YouTube Kanal MrAudioSoundImage an.
-- Welches ist der wesentliche Unterschied zwischen analogen und digitalen Aufnahmen?
+- Worin besteht der wesentliche Unterschied zwischen analogen und digitalen Aufnahmen?
 - Notieren Sie die Antwort auf Ihrer Vorlage.
 
 <!-- section -->

@@ -27,6 +27,6 @@ order: 4
 
 ---
 
-Leçon sur la manière dont la technologie numérique a stimulé notre imagination et nous a permis de créer de nouvelles réalités, tout en demandant un certain degré de connaissance des mécanismes qui sous-tendent le contenu numérique. En effet, cette connaissance est indispensable pour comprendre la technologie qui a été appliquée et évaluer l’origine et la nature des sources qui ont été réutilisées.
+Cette leçon traite de la manière dont les technologies numériques ont stimulé notre imagination et nous ont permis de créer de nouvelles réalités, tout en appelant à faire preuve de vigilance face aux mérites d’un mode de vie entièrement fondé sur la technologie numérique.
 
 <!-- more -->

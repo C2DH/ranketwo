@@ -45,11 +45,11 @@ Da es in dieser Lektion um Quellenkritik geht, haben wir versucht, den Kontext, 
 
 <!-- section -->
 
-### 4.b  Online-Nutzung von Fotos | 20 min
+### 4.b  Online veröffentlichte Fotos | 20 min
 <!-- section-contents -->
-- Versuchen Sie, durch Webrecherchen weitere Hintergrundinformationen über diese Personen zu finden. Was für Fotos kan man finden im Internet?
+- Versuchen Sie, durch zusätzliche Recherchen im Internet eine Person mit demselben Namen wie die auf den Fotos abgebildeten Personen zu finden. Welche Art von Fotos können Sie im Internet über die Person finden?
 - Können Sie Unterschiede in Stil und Technologie erkennen?
-- Gibt es einen Unterschied in der Darstellung der Fotos auf der Website der Holocaust Memorial Museum-Website und in dieser interaktiven Animation?
+- Worin besteht der Unterschied der Fotos auf der Website der Holocaust Memorial Museum-Website und in dieser interaktiven Animation?
 Notieren Sie Ihre Feststellungen auf Ihrer Vorlage.  
 
 <!-- section -->

@@ -19,6 +19,14 @@ primary:
     - title: Search
       href: /search/
 
+guidelines:
+  links:
+    - title: Write a lesson
+      href: /instructions-authors/
+      active_layout: unit
+    - title: Review a lesson 
+      href: /instructions-constructive-feedback
+
 footer:
   links:
     - title: Who we are

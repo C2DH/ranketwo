@@ -2,7 +2,7 @@
 layout: assignment
 unit: boder
 type: assignment
-title: "Ein Blick auf Boders Buch: Umwandlung von gesprochener Sprache in abgetippten Text"
+title: "Ein Blick auf Boders Buch: Umwandlung von gesprochener Sprache in maschinengeschriebenen Text"
 cover:
   url: /assets/images/attachments/12boxes/12boxes_08.png
 order: 7
@@ -34,7 +34,7 @@ In dieser Aufgabe soll aufgezeigt werden, wie sich eine Quelle, d. h. eine Audio
 
 <!-- section -->
 
-### 7.a  Vergleich eines anonymen gedruckten Transkripts mit dessen digitaler Online-Fassung | 30 min
+### 7.a  Vergleich eines anonym gedruckten Transkripts mit dessen digitaler Online-Fassung | 30 min
 <!-- section-contents -->
 
 - Lesen Sie das Interview mit Jorn Gastfreund (alias Jürgen Bassfreund) mit der kurzen Einführung von David Boder. Es umfasst 27 Seiten. Dies ist ein digitaler Scan seines gedruckten Buchs.
@@ -50,10 +50,10 @@ In dieser Aufgabe soll aufgezeigt werden, wie sich eine Quelle, d. h. eine Audio
 
 <!-- section -->
 
-### 7.b  Vergleich zwischen dem geschriebenen und dem gesprochenen Wort | 30 min
+### 7.b  Vergleich zwischen Lesen und Hören | 30 min
 <!-- section-contents -->
 
-- Hören Sie sich die ersten 5:46 Minuten des dem Text entsprechenden Interviews in deutscher Sprache an.
+- Hören Sie sich nun die ersten 5 Minuten und 46 Sekunden des Interviews auf Deutsch an, das dem Text entspricht.
 - Notieren Sie die Unterschiede zwischen dem, was Sie hören, und dem, was in der dritten Spalte Ihrer Tabelle geschrieben steht.
 
 <!-- section -->
@@ -61,7 +61,7 @@ In dieser Aufgabe soll aufgezeigt werden, wie sich eine Quelle, d. h. eine Audio
 ### 7.c  Reflexion über Ihre Erfahrungen | 60 min
 <!-- section-contents -->
 
-- Lesen Sie in Beate Müllers Artikel zu Boders Übersetzungen, wie Boder mit dem Sprachproblem umging.
+- Lesen Sie in dem von Beate Müller verfassten Artikel über ihre Übersetzungen, wie David Boder das Problem der Sprache angegangen ist.
 - Verfassen Sie einen kurzen Aufsatz mit rund 750 Wörtern zu den Unterschieden, die Sie zwischen der eingescannten Fassung eines 1948 veröffentlichten Buchs, der Lektüre eines im digitalen Format veröffentlichten Online-Transkripts und der Audiofassung festgestellt haben. Notieren Sie Ihre Feststellungen zu den verschiedenen Erkenntnissen in Ihrer Vorlage.
 
 <!-- section -->

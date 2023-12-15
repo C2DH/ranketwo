@@ -60,6 +60,18 @@ by:
   en: by
   fr: de
   de: von
+published:
+  en: published
+  fr: publiée
+  de: veröffentlicht
+translated:
+  en: translated
+  fr: traduite
+  de: übersetzt
+edited:
+  en: edited
+  fr: modifiée
+  de: bearbeitet
 briefing teacher: #What is this for? I only ran into it in the files of the assignments and it is always inactive. Parhaps an unaccomplished feature we could remove? 
   en: briefing lecturer
 clip:

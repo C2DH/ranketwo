@@ -30,10 +30,10 @@ Diese Aufgabe soll Studierenden bei der Identifizierung der Quellen helfen, auf 
 
 <!-- section -->
 
-### 10.a  Ansichten zu Holocaust-Leugnungen | 60 min
+### 10.a  Standpunkte zur Holocaustleugnung | 60 min
 <!-- section-contents -->
 
-- Lesen Sie den Text zu [Holocaust-Leugnern](https://www.ushmm.org/wlc/en/article.php?ModuleId=10007272){:target="_blank"} auf der Website des US Holocaust Memorial.
+- Lesen Sie den Text über [Holocaust-Leugner](https://www.ushmm.org/wlc/en/article.php?ModuleId=10007272){:target="_blank"} auf der Website des American Holocaust Memorial Museum.
 - Gehen Sie die [Zeitleiste von Holocaust-Leugnern](https://www.ushmm.org/wlc/en/article.php?ModuleId=10008003){:target="_blank"} auf derselben Website durch.     
 - Um welche Art der Leugnung handelt es sich bei Ahmadinejads Aussage über den Holocaust? Welcher Teil der Berichte über den Holocaust wird bestritten?
 - Welche Quellen wurden von der internationalen Presse genutzt, um diese Aussage zu verbreiten?
@@ -41,18 +41,20 @@ Diese Aufgabe soll Studierenden bei der Identifizierung der Quellen helfen, auf 
 
 <!-- section -->
 
-### 10.b  Einordnung der Aussage in einen breiteren Kontext | 60 min
+### 10.b  Stellen Sie die Erklärung in einen breiteren Zusammenhang | 60 min
 <!-- section-contents -->
 
-- Betrachten Sie die beiden Leugnungen vor den Erklärungen Ahmadinejads im Dezember 2005 und die Auswirkungen des Ereignisses von 2006 im Iran auf die internationale Politik.
+- Betrachten Sie die beiden Fälle von Holocaustleugnung vor den Äußerungen Mahmoud Ahmadinejads im Dezember 2005
+und die Auswirkungen der Veranstaltung im Iran im Jahr 2006 auf die internationale Politik.
 - Lesen Sie sich im Anschluss diesen [Wikipedia-Artikel](https://de.wikipedia.org/wiki/Internationaler_Holocaust-Karikaturen-Wettbewerb){:target="_blank"} durch.
-- Ändern diese Informationen Ihre Auffassung zur Auslegung der Aussagen Ahmadinejads? 
-- Verfassen Sie einen kurzen Blog dazu, wie die Aussagen Ahmadinejads Ihrer Einschätzung nach auszulegen sind.
+- Ändert diese Information Ihre Meinung darüber, wie Ahmadinedschads Äußerungen interpretiert werden sollten? 
+- Verfassen Sie eine kurze Zusammenfassung dazu, wie die Äußerungen Mahmoud Ahmadinejads Ihrer Ansicht nach zu
+interpretieren sind.
 - Fügen Sie sie Ihrer Vorlage hinzu.
 
 <!-- section -->
 
-### 10.c  Das 2006 im Iran stattgefundene Ereignis in der internationalen Presse | 60 min
+### 10.c  Das 2006 stattgefundene Ereignis aus Sicht der internationalen Presse | 60 min
 <!-- section-contents -->
 
 - Wer hat die Zeitleiste und den Text über die Holocaust-Leugnung verfasst? 

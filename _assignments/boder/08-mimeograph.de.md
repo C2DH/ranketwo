@@ -2,7 +2,7 @@
 layout: assignment
 unit: boder
 type: assignment
-title: Vergleich zwischen einer mit einem Mimeografen erstellten und einer digitalen Kopie
+title: Vergleich zwischen einer mimeografischen und einer digitalen Kopie
 cover:
   url: /assets/images/attachments/12boxes/12boxes_09.png
 order: 8
@@ -11,7 +11,7 @@ requirements:  schnelles WLAN, Zugang zu Ranke.2, Computer oder Laptop, Anwendun
 outcomes: Den Unterschied verstehen zwischen dem Konzept des „Originals“ bei der Analogtechnik und den Veränderungen im Zuge des Aufkommens digitaler Technologie.
 ---
 
-Die Möglichkeiten zur Reproduktion von Texten und Bildern stiegen zu Lebzeiten Boders beträchtlich an. Neben dem Mimeografen nutzte Boder auch Mikrokarten, um seine Transkripte an verschiedene Universitäten und Forschungsinstitute weiterzuleiten.
+Im Verlauf seines Lebens hat David Boder erkannt, wie sich die Möglichkeiten zur Reproduktion von Texten und Bildern immer weiter steigerten. Neben dem Mimeografen nutzte Boder auch Mikrokarten, um seine Transkripte an verschiedene Universitäten und Forschungsinstitute weiterzuleiten.
 Mit dieser Aufgabe soll ein Verständnis dafür entwickelt werden, wie die Einführung von Kommunikationstechnologien die Möglichkeiten des Menschen zur Verbreitung von Nachrichten erweiterten.
 Reduzierte Kosten und leicht zu verwaltende Protokolle implizieren, dass Laien, die sich nicht mit Drucktechnologie auskennen, ihre Arbeiten nunmehr verbreiten können.
 
@@ -26,7 +26,7 @@ Reduzierte Kosten und leicht zu verwaltende Protokolle implizieren, dass Laien, 
 
 <!-- section -->
 
-### 8.a  Vergleich zwischen Wiedergabetechnologien | 30 min
+### 8.a  Vergleichen Sie die Reproduktionstechnologien | 30 min
 <!-- section-contents -->
 
 - Finden Sie über [diesen Link](https://psap.library.illinois.edu/collection-id-guide/microform#microcard){:target="_blank"} heraus, wie eine Mikrokarte funktioniert.

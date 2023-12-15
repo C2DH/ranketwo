@@ -17,7 +17,7 @@ outcomes:
   - Lernen, die unterschiedliche Verwendung von Liedern als historische Quelle und Filmmaterial zu verstehen.
 ---
 
-Nachdem Boder zunächst als traditioneller Sozialwissenschaftler Beweise sammelte, dokumentierte er später als Ethnograf menschliche Ausdrucksformen. Das unter dieser Rubrik gezeigte Filmmaterial wurde in Henonville aufgenommen, zeigt aber nur bewegte Bilder von Menschen ohne Ton. Der Ton ist auf einem separaten Medium gespeichert. In dieser Aufgabe sollen die Studierenden die multimodale Dimension einer Quelle erfassen und lernen, wie das Web den Zugang zu diesen verschiedenen Modi erleichtert. Sie sollen dabei über den Kontext der Entstehung, Erhaltung und Digitalisierung des Materials reflektieren.
+David Boders Ansatz hat sich von dem eines traditionellen Soziologen, der versucht, Beweise zu sammeln, zu dem eines Ethnografen entwickelt , der die Ausdrucksformen der Menschen dokumentiert. Das unter dieser Rubrik gezeigte Filmmaterial wurde in Henonville aufgenommen, zeigt aber nur bewegte Bilder von Menschen ohne Ton. Der Ton ist auf einem separaten Medium gespeichert. In dieser Aufgabe sollen die Studierenden die multimodale Dimension einer Quelle erfassen und lernen, wie das Web den Zugang zu diesen verschiedenen Modi erleichtert. Sie sollen dabei über den Kontext der Entstehung, Erhaltung und Digitalisierung des Materials reflektieren.
 
 <!-- more -->
 
@@ -34,18 +34,18 @@ Nachdem Boder zunächst als traditioneller Sozialwissenschaftler Beweise sammelt
 ### 5.a  Rekonstruktion der Abfolge der Transformationen: Filmmaterial | 20 min
 <!-- section-contents -->
 
-- Versuchen Sie, die einzelnen Schritte bei Entstehung und Verbreitung des Filmmaterials und dessen Online-Präsenz zu rekonstruieren.
+- Versuchen Sie, die Schritte der Entstehung, der Verbreitung und Online-Präsenz der Bilder zu rekonstruieren.
 - Notieren Sie Ihre Feststellungen auf Ihrer Vorlage.
 
 <!-- section -->
 
-### 5.b  Rekonstruktion der Abfolge der Transformationen: ein Lied | 20 min
+### 5.b  Rekonstruktion der Transformationssequenz: Lied. | 20 min
 <!-- section-contents -->
 
-- Hören Sie sich diese drei clips über [diesen Link](https://centerhistorypsychology.wordpress.com/2016/09/02/dr-boder-and-the-missing-songs/){:target="_blank"} an.
-- Versuchen Sie Informationen über das zweite Lied zu finden über [diesen link](){:target="_blank"}.
-Tragen Sie über [diesen Link](https://www.youtube.com/watch?v=LCvwnJl7_uE&list=PLA4EC2A2CA8B51BC9&index=1) Informationen dazu zusammen, wie den zweiten Lied komponiert wurde.{:target="_blank"} 
-- Versuchen Sie, die einzelnen Schritte bei der Entstehung des Lieds sowie dessen Verbreitung und Online-Präsenz zu rekonstruieren.
+- Hören Sie sich die Lieder an, indem Sie auf [diesen Link](https://centerhistorypsychology.wordpress.com/2016/09/02/dr-boder-and-the-missing-songs/){:target="_blank"} klicken.
+- Finden Sie Informationen über die Entstehung des zweiten Liedes über [diesen link](){:target="_blank"}.
+Tragen Sie über [diesen Link](https://www.youtube.com/watch?v=LCvwnJl7_uE&list=PLA4EC2A2CA8B51BC9&index=1) Informationen dazu zusammen, wie das zweite Lied komponiert wurde.{:target="_blank"} 
+- Versuchen Sie die einzelnen Schritte der Entstehung des Liedes, der Verbreitung sowie seiner Online-Präsenz zu rekonstruieren.
 - Notieren Sie Ihre Feststellungen auf Ihrer Vorlage.   
 
 <!-- section -->
