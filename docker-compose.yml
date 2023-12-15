@@ -1,4 +1,4 @@
-version: '3.7'
+version: "3.7"
 services:
   jekyll:
     image: jekyll/jekyll:4.2.0
@@ -6,11 +6,16 @@ services:
       - ./:/srv/jekyll
       - ./vendor/bundle:/usr/local/bundle:Z
     ports:
-      - '${PORT:-4000}:4000'
-      - '${POLLING_PORT:-35729}:35729'
+      - "${PORT:-4000}:4000"
+      - "${POLLING_PORT:-35729}:35729"
     entrypoint: jekyll serve --livereload --force_polling --incremental
     environment:
-      FORCE_POLLING: 'true'
+      FORCE_POLLING: "true"
+    healthcheck:
+      test: ["CMD-SHELL", "sleep 30 || exit 1"]
+      retries: 1
+      timeout: 70s
+
   bundle-install:
     image: jekyll/jekyll:4.2.0
     volumes:
@@ -19,3 +24,13 @@ services:
     entrypoint: bundle install
     profiles:
       - cli
+
+  pagefind:
+    image: seriousbug/pagefind:v1.0.3
+    volumes:
+      - ./:/srv/jekyll
+    entrypoint: pagefind --site /srv/jekyll/_site
+    depends_on:
+      jekyll:
+        condition: service_healthy
+        restart: true

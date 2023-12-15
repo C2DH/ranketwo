@@ -35,6 +35,11 @@ Go to lessons:
   fr: Accéder aux leçons
   de: Gehen sie zu den Lektionen
 
+Search:
+  en: Search
+  fr: Rechercher
+  de: Suche
+
 # lesson navigation
 # This lists the buttons that lead to lessons from the home page and the lessons page; and to assignments from the page of each lesson 
 go-to-lesson:

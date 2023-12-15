@@ -16,6 +16,8 @@ primary:
       active_layout: unit
     - title: Teaching aids
       href: /teaching-aids/
+    - title: Search
+      href: /search/
 
 footer:
   links:

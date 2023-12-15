@@ -41,3 +41,5 @@ forms:
 plugins:
   - jekyll-datapage-generator
   - jekyll-github-metadata
+keep_files:
+  - "pagefind"

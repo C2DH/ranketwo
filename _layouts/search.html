@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<link href="../assets/css/search_style.css" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/assets/css/search_style.css?v=' | relative_url }}" >
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/pagefind/pagefind-ui.js"></script>
 <div class="wrapper" style="min-height: 10%">
@@ -35,6 +35,7 @@ layout: default
             </div>
         </div>
         <div class="col-8" id="results"></div>
+        <!-- add new filter type here -->
         <div id="filters" class="col-4">
             <div class="row">
                 <div class="col-6">
@@ -99,6 +100,7 @@ layout: default
                         results += '<p class="card-authors"> <span>Unit</span>';
                     } else if (article_data["filters"].layout == "assignment") {
                         results += '<p class="card-authors"> <span>Assignment</span>';
+                        results += '<p>From unit: <a href=' + article_data["meta"].unit_url + '>' + article_data["meta"].unit_title + '</a></p>';
                     } else {
                         results += '<p class="card-authors">';
                     }
@@ -129,6 +131,7 @@ layout: default
     async function display_filters() {
         var filters_data_map = new Map(Object.entries(filters_data));
         var new_filter = "";
+        // Add new filter types here
         document.getElementById("layouts_filter").innerHTML = "";
         document.getElementById("mediatypes_filter").innerHTML = "";
         document.getElementById("authors_filter").innerHTML = "";
@@ -147,6 +150,7 @@ layout: default
                 new_filter += "</div>";
             }
             new_filter += "</details>";
+            // and switch case new filter type here
             switch (filter_type) {
                 case "layout":
                     new_filter = "<div class='filter'>";
@@ -205,6 +209,7 @@ layout: default
         }
         display_results();
         display_filters();
+        update_summary();
     }
 
     // Query to url
@@ -215,6 +220,15 @@ layout: default
         } else {
             searchParams.delete("q");
         }
+        history.pushState(null, "", "?" + searchParams);
+    }
+
+    function remove_query_from_url() {
+        // empty search bar
+        document.getElementById("search_query").value = "";
+        // delete query from searchParams
+        searchParams.delete("q");
+        // push current state to search
         history.pushState(null, "", "?" + searchParams);
     }
 
@@ -262,7 +276,9 @@ layout: default
 
     async function check_boxes_based_on_url() {
         searchParams.forEach((value, key) => {
-            document.getElementById(value+"_filter").checked = true;
+            if (key != 'q') {
+                document.getElementById(value+"_filter").checked = true;
+            }
         });
     }
 
@@ -280,6 +296,7 @@ layout: default
     function update_summary() {
         var summary_elem = document.getElementById("search_summary");
         summary_elem.innerHTML = "";
+        summary_elem.innerHTML += "Results: " + search_res.results.length + " ";
         searchParams.forEach((value, key) => {
             if (key == "author") {
                 var author_obj = people.find(obj => {return obj.name === value});
@@ -300,7 +317,11 @@ layout: default
         var key = filter_values[0];
         var value = filter_values[1].replace(' X', '');
         searchParams.delete(key, value);
-        uncheck_filter(value);
+        if (key != 'q') {
+            uncheck_filter(value);
+        } else {
+            remove_query_from_url();
+        }
         update_summary();
         perform_search();
     }

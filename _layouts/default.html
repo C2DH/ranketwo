@@ -23,7 +23,7 @@
       {% for author_slug in page.authors %}
         {% assign author_name = site.data.people | where: "slug", author_slug | first %}
         <meta data-pagefind-filter="author:{{author_name.name}}"
-        property="article:authors" content="{{author}}" />{% unless forloop.last %}, {% endunless %}
+        property="article:authors" content="{{author}}" />{% unless forloop.last %} {% endunless %}
       {% endfor %}
     {% else %}
       <meta property="og:type" content="website" />
@@ -42,7 +42,12 @@
     {% endif %}
     <meta property="og:image" content="{{og_image_url}}" />
     {% if page.og.description %}
-    <meta property="og:description" content="{{ page.og.description }}" />
+      <meta property="og:description" content="{{ page.og.description }}" />
+    {% endif %}
+    {% if page.layout == "assignment" %}
+      {% assign unit = site.units|where:"layout","unit"|where:"lang",page.lang|where:"unit_id",page.unit | first %}
+      <meta data-pagefind-meta="unit_title[content]" property="og:assignment_unit_title" content="{{unit.title}}" />
+      <meta data-pagefind-meta="unit_url[content]" property="og:assignment_unit_url" content="{{unit.link}}" />
     {% endif %}
     <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,700" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css?v=' | relative_url }}" >
