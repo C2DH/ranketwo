@@ -20,7 +20,10 @@ outcomes:
   - Verstehen, welche Grenzen und Vorteile ein Online-Zugang zu Datenbanken mit Erfahrungsberichten besitzt.
 ---
 
-Bei einem Reflexionsprozess über Wert und Bedeutung einer im Web veröffentlichten Quelle muss auch der Kontext ihrer Entstehung Berücksichtigung finden. Die vollständige Umwandlung in durchsuchbare digitale Daten birgt die Gefahr, die verschiedenen Methoden und Verfahren außer Acht zu lassen, die Forscher bei Erstellung der Daten verwendet haben. In dieser Aufgabe sollen die Unterschiede zwischen schriftlich zusammengefassten Berichten von Holocaust-Überlebenden und den von Boder maschinell aufgezeichneten Berichten hervorgehoben werden. Beide sind online zugänglich, doch worin unterscheiden sie sich? Inwieweit kann dieses Material nun anders genutzt werden als bei der Verwahrung in einem Archiv?
+Wenn man über den Wert und die Bedeutung einer im Internet veröffentlichten Quelle nachdenkt, ist es wichtig, den Kontext ihrer Entstehung zu berücksichtigen. Die vollständige Umwandlung in durchsuchbare digitale Daten birgt die Gefahr, die verschiedenen Methoden und Verfahren außer Acht zu lassen, die Forscher bei Erstellung der Daten verwendet haben. Bei dieser Aufgabe sollen die Unterschiede zwischen schriftlich zusammengefassten Berichten von Holocaust-Überlebenden und denen von David Boder auf einem Drahttongerät aufgezeichneten Berichten, herausgearbeitet
+werden. Beide sind online zugänglich, doch worin unterscheiden sie sich? Dabei können Sie feststellen, dass das
+digitale Format es ermöglicht, die Zeugnisse auf eine Art und Weise zu erforschen, die nicht möglich war, als sie noch in Archiven aufbewahrt wurden. Für die folgenden Übungen schlagen wir Ihnen vor, mit zwei Webseiten zu arbeiten (auf
+Englisch).
 
 <!-- more -->
 
@@ -42,13 +45,13 @@ Bei einem Reflexionsprozess über Wert und Bedeutung einer im Web veröffentlich
 
 <!-- section -->
 
-### 2.b  Erste Auswertung der Archive: wie Verben verwendet werden | 15 min
+### 2.b  Erste Erkundung der Archive: Wie werden Verben verwendet? | 15 min
 <!-- section-contents -->
 
-- Gehen Sie zur Website der Protokolle, die von der [Nationalen ungarischen Kommission für Deportierte](http://degob.org/){:target="_blank"} gesammelt wurden.
+- Gehen Sie erneut auf die DEGOB-Website, die Sammlung von Protokollen präsentiert, die vom [ungarischen Nationalkomitee zur Unterstützung der Deportierten](http://degob.org/){:target="_blank"} gesammelt wurden.  
 - Verschaffen Sie sich anhand einer Suche mit dem Stichwort „**help**“ einen Eindruck davon, wie Sie Zusammenfassungen von Interviews durchsuchen können.
-- Wenn Sie die ersten fünf Treffer mithilfe der Tastaturkombination Ctrl + F durchgehen, können Sie sehen, inwieweit der Begriff „help“ in den Berichten mit positiven und negativen Bedeutungen unterlegt ist.
-- Gehen Sie genauso vor mit [Voices of the Holocaust](http://voices.iit.edu/voices_project){:target="_blank"}.
+- Wenn Sie die ersten fünf Ergebnisse mit der Tastenkombination Strg + F durchgehen, werden Sie feststellen, dass dieser Begriff in den Erzählungen sowohl positive als auch negative Konnotationen hat.
+- Versuchen Sie das Gleiche auf der Website [Voices of the Holocaust](http://voices.iit.edu/voices_project){:target="_blank"}.
 - Was fällt Ihnen auf, wenn Sie die Suchergebnisse auswerten?
 - Notieren Sie die Antworten auf Ihrer Vorlage.
 
@@ -63,14 +66,14 @@ Bei einem Reflexionsprozess über Wert und Bedeutung einer im Web veröffentlich
 
 <!-- section -->
 
-### 2.d  Dritte Auswertung der Archive: Identität des Sprechers | 15 min
+### 2.d  Dritte Auswertung der Archive: Die Identität des Sprechers | 15 min
 <!-- section-contents -->
 
-- Vergleichen Sie das Protokoll eines 15-jährigen Mädchens unter [http://degob.org/](http://degob.org/){:target="_blank"} (wählen Sie Female und Geburtsjahr 1931 in der Suchumgebung) mit [Boders Interview der 15-jährigen Edith Zierer](https://iit.aviaryplatform.com/r/0g3gx44z67){:target="_blank"}<sup>*</sup>.
+- Vergleichen Sie das Protokoll eines 15-jährigen Mädchens, das auf [http://degob.org/](http://degob.org/){:target="_blank"} veröffentlicht wurde (verwenden Sie die erweiterte Suchfunktion, um Frauen mit dem Geburtsdatum 1931 auszuwählen), mit [der Audioaufnahme des Interviews, das David Boder mit der 15-jährigen Edith Zierer](https://iit.aviaryplatform.com/r/0g3gx44z67){:target="_blank"} geführt hat.
 - Inwieweit unterscheiden sich die beiden Quellen?
 - Notieren Sie Ihre Feststellungen auf Ihrer Vorlage.
 
-\* Für die Schilderungen von [Edith Zierer](http://voices.iit.edu/audio?doc=ziererE){:target="_blank"} müssen Sie den Chrome-Browser öffnen. Klicken Sie auf die kleine Schaltfläche „i“ und erlauben Sie Flash Player und Pop-ups. Beachten Sie, dass das Herunterladen des Interviews eine gewisse Zeit dauert, und führen Sie in der Zwischenzeit gegebenenfalls eine andere Aufgabe aus.
+\* Um sich das Interview mit [Edith Zierer](http://voices.iit.edu/audio?doc=ziererE){:target="_blank"} anzuhören, müssen Sie den Chrome-Browser öffnen. Klicken Sie auf die kleine Schaltfläche „i“ und erlauben Sie Flash Player und Pop-ups. Beachten Sie, dass das Herunterladen des Interviews eine gewisse Zeit dauert, und führen Sie in der Zwischenzeit gegebenenfalls eine andere Aufgabe aus.
 
 ![chrome-address-bar.png](../../../assets/images/chrome-address-bar.png)
 

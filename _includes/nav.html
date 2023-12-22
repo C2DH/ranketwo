@@ -60,6 +60,29 @@
         {% for link in site.data.navigation.primary.links %}
           {% include link.html %}
         {% endfor %}
+        <li class="nav-item dropdown" id="navbarDropdown-guidelines">
+          <a class="nav-link dropdown-toggle" href='#' role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            {% assign key="Guidelines" %}{% include t.html%}
+          </a>
+          <div class="dropdown-menu dropdown-menu-left" aria-labelledby="navbarDropdown">
+            {% for link in site.data.navigation.guidelines.links %}
+              {% assign is_active = false %}
+              {% if page.link == link.href %}
+
+
+
+                {% assign is_active = true %}
+              {% endif %}
+              <a class='dropdown-item {% if is_active %} active {% endif %}'
+                  {% if page.lang == site.default_lang %}
+                    href='{{link.href | absolute_url}}'
+                  {% else %}
+                    href='{{page.lang | absolute_url}}{{link.href}}'
+                  {% endif %}>{% assign key=link.title %}{% include t.html%}</a>
+
+            {% endfor %}
+          </div>
+        </li>
       </ul>
       <ul class="navbar-nav">
       <li class="nav-item dropdown" id="navbarDropdown">
