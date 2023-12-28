@@ -72,7 +72,7 @@ Stefan Krebs, Sofia Papastamkou - traduction des éléments de l'infrastructure 
 
 
 ## Corrections orthotypographiques 
-Sarah Cooper, Université du Luxembourg (2018) <br>
+Sarah Cooper, Université du Luxembourg (2018-actuellement) <br>
 Andy O'Dwyer (2018) <br>
 
 
