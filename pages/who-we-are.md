@@ -29,6 +29,8 @@ Jordan Ricker - interim project coordination (2021) <br>
  
 ## Student Assistants
 
+Artur Amirian - assistance web development (2023) <br> 
+Lena Linden - proofreading and translations in German (2023) <br> 
 Alina Chaiko (2022) <br> 
 Jordan Ricker (2020-2021) <br> 
 Emmanuel Decker (2020-2021) <br> 
@@ -69,7 +71,7 @@ Stefan Krebs, Sofia Papastamkou - translations of the website infrastructure and
 
 
 ## Proofreading 
-Sarah Cooper University of Luxembourg (2018) <br>
+Sarah Cooper, University of Luxembourg (2018 - ) <br>
 Andy O'Dwyer (2018) <br>
 
 
