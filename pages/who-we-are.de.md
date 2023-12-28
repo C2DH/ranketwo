@@ -72,7 +72,7 @@ Stefan Krebs, Sofia Papastamkou - Übersetzungen der Metadaten der WebsiteInfras
 
 
 ## Lektorat 
-Sarah Cooper, Universität Luxemburg (2018 - ) <br>
+Sarah Cooper, Universität Luxemburg (2018- ) <br>
 Andy O'Dwyer (2018) <br>
 
 

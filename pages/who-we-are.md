@@ -71,7 +71,7 @@ Stefan Krebs, Sofia Papastamkou - translations of the website infrastructure and
 
 
 ## Proofreading 
-Sarah Cooper, University of Luxembourg (2018 - ) <br>
+Sarah Cooper, University of Luxembourg (2018- ) <br>
 Andy O'Dwyer (2018) <br>
 
 
