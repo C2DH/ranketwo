@@ -31,7 +31,7 @@ Jordan Ricker - vorübergehende Projektkoordination (2021) <br>
 ## Studentische Hilfskräfte
 
 Artur Amirian - Unterstützung bei der Webentwicklung (2023) <br> 
-Lena Linden - (2023) <br>  
+Lena Linden - Lektorat und Übersetzungen ins Deutsche (2023) <br>  
 Alina Chaiko (2022) <br> 
 Jordan Ricker (2020-2021) <br> 
 Emmanuel Decker (2020-2021) <br> 
