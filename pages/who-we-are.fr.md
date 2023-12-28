@@ -30,6 +30,8 @@ Jordan Ricker - coordination générale par intérim (2021) <br>
  
 ## Étudiant(e)s assistant(e)s
 
+Artur Amirian - assistance développement web (2023) <br> 
+Lena Linden - corrections et traductions en allemand (2023) <br>  
 Alina Chaiko (2022) <br> 
 Jordan Ricker (2020-2021) <br> 
 Emmanuel Decker (2020-2021) <br> 
