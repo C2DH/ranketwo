@@ -1,20 +1,19 @@
 ---
 layout: assignment
 unit: webarchives
-lang: en
-title: "Web archives and the national dimension: The example of the Luxembourg Web Archive and luxembourg.lu"
+lang: de
+title: "Web-Archive und die nationale Dimension: Das Beispiel des Luxembourg Web Archive und luxembourg.lu"
 cover:
 tags:
-  -  web archives
-  -  preservation of web content
 outcomes:
-  - Understand preservation policies with regard to websites of various institutions
+  - Verstehen der Bewahrungspolitik in Bezug auf die Websites verschiedener Institutionen
 documents:
   - webarchives-luxembourg
 order: 3
 ---
-Fortunately, the Internet Archive is not the only institution that is trying to archive the web. Several other institutions are active on a smaller scale, usually for websites considered important or relevant to specific countries. Several European countries, such as Finland, France, Ireland, Spain and Sweden, have even included web archives in the [legal deposit](https://en.wikipedia.org/wiki/Legal_deposit){:target='_blank'} of their country, which means that they have attributed a similar status to websites as that given to archive material such as books and newspapers for centuries. See for example the UK (<https://www.webarchive.org.uk>{:target='_blank'}), Denmark (<http://netarkivet.dk/in-english/>{:target='_blank'}) and France (<https://www.bnf.fr/fr/archives-de-linternet>{:target='_blank'}).
-Yet the task of archiving the entire web is not an easy one. The explosive growth of online content, especially since the 2000s, has made it impossible for archives and organisations to archive every single website and its various versions over time. Even as the technological expertise at these institutions has increased, a decrease in activities at the national level can be observed, which leads to a stronger dependency on the IA. This is luckily not the case in Luxembourg, where the National Library (Bibliothèque nationale du Luxembourg or BnL) has been tasked with archiving the Luxembourgish web since 2016.
+Zum Glück ist das Internet Archive nicht die einzige Institution, die sich um die Archivierung des Internets bemüht. Verschiedene andere Institutionen sind in kleinerem Umfang tätig, in der Regel für Websites, die für bestimmte Länder als wichtig oder relevant angesehen werden. Mehrere europäische Länder, darunter Finnland, Frankreich, Irland, Spanien und Schweden, haben Web-Archive sogar in ihre [Pflichtexemplare](https://de.wikipedia.org/wiki/Pflichtexemplar) aufgenommen, was bedeutet, dass sie Websites einen ähnlichen Status zuerkannt haben, wie er Archivmaterialien wie Büchern und Zeitungen seit Jahrhunderten zugesprochen wird. Siehe zum Beispiel [Großbritannien](https://www.webarchive.org.uk){:target='_blank'}, [Dänemark](http://netarkivet.dk/){:target='_blank'} und [Frankreich](https://www.bnf.fr/fr/archives-de-linternet){:target='_blank'}. 
+
+Doch die Aufgabe, das gesamte Web zu archivieren, ist keine einfache. Aufgrund der explosionsartigen Zunahme von Online-Inhalten, insbesondere seit den 2000er-Jahren, ist es für Archive und Organisationen unmöglich geworden, jede einzelne Website und ihre verschiedenen Versionen im Laufe der Zeit zu archivieren. Obschon das technologische Fachwissen in diesen Institutionen zugenommen hat, ist ein Rückgang der Aktivitäten auf nationaler Ebene zu beobachten, was zu einer stärkeren Abhängigkeit vom IA führt. Zum Glück ist das in Luxemburg nicht der Fall, wo die Nationalbibliothek (Bibliothèque nationale du Luxembourg, kurz BnL) seit 2016 mit der Archivierung des luxemburgischen Webs beauftragt ist.
 
 [card](webarchives-luxembourg)
 
@@ -22,7 +21,7 @@ Yet the task of archiving the entire web is not an easy one. The explosive growt
 
 <!-- briefing-student -->
 
-### 3.a Challenges and limits of preservation: The example of the Luxembourg Web Archive
+### 3.a Herausforderungen und Grenzen der Bewahrung: Das Beispiel des Luxembourg Web Archive
 <!-- section-contents -->
 In this sub-assignment, the Luxembourg Web Archive (LWA) (<https://www.webarchive.lu/>{:target='_blank'}) managed by the BnL will be explored to identify the benefits, limitations and challenges of web archiving.
 Web archivists have the task of defining the parameters and criteria for their digital collection of web pages. They have to decide which types of sites they should archive (i.e. government sites, news agency sites, museum sites, personal blogs, etc.), how many times a year snapshots should be taken, and how this content can be made accessible to their audience.
@@ -98,10 +97,10 @@ Based on these three archived snapshots from 1996, 2003 and the last five years,
 
 <!-- section -->
 
-### Reading/viewing suggestions
+### Empfehlungen Lektüre/Video
 <!-- section-contents -->
 
--	Nielsen, Janne. *Using Web Archives in Research: An Introduction*. Aarhus: NetLab, 2016. [E-book](http://www.netlab.dk/wp-content/uploads/2016/10/Nielsen_Using_Web_Archives_in_Research.pdf)
+-	Nielsen, Janne. *Using Web Archives in Research: An Introduction*. Aarhus: NetLab, 2016. [E-book](https://dighumlab.org/wp-content/uploads/2017/06/Nielsen_Using_Web_Archives_in_Research.pdf)
 {:target='_blank'}
 -	Brügger, Niels, and Ralph Schroeder, eds. *The Web as History: Using Web Archives to Understand the Past and the Present.* London: UCL Press, 2017. [E-book](https://discovery.ucl.ac.uk/id/eprint/1542998/1/The-Web-as-History.pdf){:target='_blank'}
 -	Huss, Nick. “How Many Websites Are There Around The World?” Sateefy. Last modified November 27, 2022. [Website](https://siteefy.com/how-many-websites-are-there/){:target='_blank'}
