@@ -1,8 +1,8 @@
 ---
 layout: assignment
 unit: webarchives
-lang: en
-title: "The web and its technologies"
+lang: de
+title: "Das Web und seine Technologien"
 cover:
 documents:
   - web-past-future
@@ -16,136 +16,130 @@ documents:
   - web-not-net
   - submarine-map
 tags:
-  -  web technology
-  -  the history of the web
 outcomes:
-  - Understand the basics of web technology
-  - Understanding how to deal with web archives
+  - Verstehen der Grundlagen der Web-Technologie
+  - Verstehen des Umgangs mit Web-Archiven
 order: 1
 ---
-In the clip above, engineer Lars Wieneke explains how over time web technologies increasingly broadened the range and scale of data that could be shared and shown through the web. To illustrate these changes he elaborates on the two websites about the interview collection of the psychologist David Boder, the topic of another lesson on Ranke2, that were developed in 2000 and 2009.
-Understanding the changes brought about by software such as Flash Player and languages such as XML (Extensible Markup Language) and PHP (Hypertext Preprocessor) is crucial in being able to apply source criticism to a website. However, as historians we should first place the topic into its historical context: how did websites evolve in the first place and what technologies were needed to make them work?
-These assignments will briefly explore the history of the web and the technological developments that make it work. They will then dive into the differences between the web and the internet, before discussing the physical infrastructure that allows the world to be globally connected.
+Im obigen Clip erklärt der Ingenieur Lars Wieneke, wie Web-Technologien das Spektrum und den Umfang der Daten, die über das Web ausgetauscht und dargestellt werden können, im Laufe der Zeit immer weiter ausgedehnt haben. Um diese Veränderungen zu veranschaulichen, geht er auf die beiden Websites über die Interviewsammlung des Psychologen David Boder ein, die in den Jahren 2000 und 2009 entstanden sind und Thema einer anderen Lektion auf Ranke2 sind. Das Verständnis der Veränderungen, die Software wie Flash Player und Sprachen wie XML (Extensible Markup Language) und PHP (Hypertext Preprocessor) mit sich bringen, ist entscheidend für die Anwendung von Quellenkritik auf eine Website. Als Historiker sollten wir das Thema jedoch zunächst in den historischen Kontext einordnen: Wie haben sich Websites überhaupt entwickelt und welche Technologien waren nötig, damit sie funktionieren? Die folgenden Aufgaben werden sich kurz mit der Geschichte des Webs und den technologischen Entwicklungen befassen, die es überhaupt erst möglich machen. Anschließend werden die Unterschiede zwischen Web und Internet beleuchtet und danach die materielle Infrastruktur erörtert, die eine globale Vernetzung der Welt ermöglicht.
 
 
 [card](web-past-future)
 
 
-Watch this 35 min documentary created by the Web Foundation about how Tim Berners Lee created the world wide web.
+Sehen Sie sich diese 35-minütige Dokumentation der Web Foundation an und erfahren Sie, wie Tim Berners-Lee das World Wide Web erschuf.
 
 <!-- more -->
 
 <!-- briefing-student -->
 
-### 1.a The history of the web and the technology behind it | ? Min
+### 1.a Die Geschichte des Webs und die Technologie dahinter
 <!-- section-contents -->
 
--	This short article, also published by the Web Foundation, provides insight into the role of Tim Berners Lee in a nutshell: “History of the Web”
+-	Dieser kurze, ebenfalls von der Web Foundation veröffentlichte Artikel liefert einen kurzen Einblick in die Rolle von Tim Berners-Lee: „History of the Web“
 
 [card](history-web)
 
--	For a brief overview of how the web functions and which technologies are involved, read Sections 1, 2, 3 and 6 of “How the World Wide Web (WWW) works” by Chris Woodford (2006/2020)
+-	Einen kurzen Überblick über die Funktionsweise des Webs und die beteiligten Technologien erhalten Sie in den Abschnitten 1, 2, 3 und 6 von „How the World Wide Web (WWW) works“ von Chris Woodford (2006/2020)
 
 [card](explain-stuff)
 
--	For an insight into the differences between Web 1.0, Web 2.0 and Web 3.0, read this concise history of web technologies:
+-	Einen Einblick in die Unterschiede zwischen Web 1.0, Web 2.0 und Web 3.0 liefert Ihnen diese kurze Geschichte der Web-Technologien:
 
 [card](byte-story)
 
-Now that you have some more information about the development of the web and about Tim Berners-Lee, answer the following questions:
--	Why was Tim Berners-Lee’s innovation fundamental for the development of the web?
--	What is the difference between HTTP and HTML?
--	What is a URI/URL?
--	What is the difference between a web server and a web browser?
--	What is the main difference between Web 1.0, Web 2.0 and Web 3.0 technologies?
+Nachdem Sie mehr über die Entwicklung des Webs und über Tim Berners-Lee wissen, beantworten Sie bitte die folgenden Fragen:
+-	Warum war die Innovation von Tim Berners-Lee für die Entwicklung des Webs so wichtig?
+- Was ist der Unterschied zwischen HTTP und HTML?
+- Was ist der Unterschied zwischen einem Web-Server und einem Web-Browser?
+- Was ist der Hauptunterschied zwischen den Technologien Web 1.0, Web 2.0 und Web 3.0?
 
-| enter your answers in the answer form |
 
 
 <!-- section -->
 
-### 1.b The difference between the web and the internet
+### 1.b Der Unterschied zwischen Web und Internet
 <!-- section-contents -->
 
-Most people use the terms “web” and “internet” interchangeably as they are very closely linked to each other, even though they are, in fact, two different things. In order to help you understand the crucial differences between the two, watch these two informative and humorous videos:
+Die meisten Menschen verwenden die Begriffe „Web“ und „Internet“ synonym, da sie sehr eng miteinander verbunden sind, obwohl es sich eigentlich um zwei verschiedene Dinge handelt. Um sich ein Bild von den entscheidenden Unterschieden zwischen beidem zu machen, sehen Sie sich bitte diese beiden informativen und unterhaltsamen Videos an:
 
 [card](what-web)
 
 [card](web-not-net)
 
-After watching these video note the most important differences between the internet and the web.
-
-
-| enter your answers in the answer form |
+Nachdem Sie sich diese Videos angesehen haben, notieren Sie bitte die wichtigsten Unterschiede zwischen Internet und Web.
 
 
 
-To connect the differences between the web and the internet to your own use of both, here is a list of common things that people do with their smartphones or computers for which they need the internet and/or the web. Put a cross in the right column(s).
+Um die Unterschiede zwischen Web und Internet mit Ihrer eigenen Nutzung von beidem in Verbindung zu bringen, sehen Sie hier eine Liste der Dinge, die Menschen üblicherweise mit ihren Smartphones oder Computern tun und für die sie das Internet und/oder das Web benötigen. Setzen Sie ein Kreuz in die jeweilige(n) Spalte(n) rechts.
 
 
-| | Common things done on a computer/smartphone | Uses the internet but not the web | Uses both the internet and the web |
-| Searching for a picture on Google	|  |  |  |
-| Using Skype for a video call |  |  |  |
-| Checking email with an application |  |  |  |
-| Looking at your Facebook or Instagram feed on a web browser|  |  |  |
-| Sharing a file with someone via a peer-to-peer file network |  |  |  |
-| Downloading a file from a website |  |  |  |
-| Making a call via FaceTime |  |  |  |
+| | Übliche Tätigkeiten an Computer/Smartphone | Nutzt das Internet, nicht das Web | Nutzt sowohl das Internet als auch das Web |
+| Auf Google nach einem Bild suchen	|  |  |  |
+| Skype für einen Videoanruf nutzen |  |  |  |
+| E-Mails über eine App abrufen  |  |  |  |
+| Den eigenen Facebook- oder Instagram-Feed über einen Web-Browser einsehen|  |  |  |
+| Eine Datei über ein Peer-to-Peer-Filesharing-Netzwerk teilen |  |  |  |
+| Eine Datei von einer Website herunterladen |  |  |  |
+| Einen Anruf über FaceTime tätigen |  |  |  |
+
+
+
+| [Tragen Sie Ihre Antworten in das Antwortformular ein](assets/doc/answer-form-webarchives-1b.docx) |
+
 
 <!-- section -->
 
-### 1.c The materiality of the internet
+### 1.c Die Materialität des Internets
 <!-- section-contents -->
 
-Even if we understand the principles, history and evolution of the internet and the web, it can still be hard to fully grasp the materiality of our information systems. Where do we find tangible traces of the internet in our environment and what do they look like?
-Despite frequent references to “the cloud” and “cyberspace” and the widespread use of WiFi (all of which contribute to the belief that the web and the internet are intangible and transparent), the internet in fact consists of highly tangible elements. For an introduction to how the internet works, watch this TED lecture by Andrew Blum: “What is the Internet, really?” (2012) (https://youtu.be/XE_FPEFpHt4) (12 mins).
+Selbst wenn wir die Grundsätze, die Geschichte und die Entwicklung des Internets und des Webs verstehen, lässt sich die Materialität unserer Informationssysteme mitunter nur schwer vollständig erfassen. Wo finden wir greifbare Spuren des Internets in unserer Umgebung und wie sehen diese aus? 
+Trotz der häufigen Verweise auf „die Cloud“ und „den Cyberspace“ und der weit verbreiteten Nutzung von WLAN (die allesamt zu der Annahme beitragen, dass Web und Internet nicht greifbar und transparent sind), besteht das Internet in Wirklichkeit aus durchaus recht greifbaren Elementen. Um eine Einführung in die Funktionsweise des Internets zu erhalten, sehen Sie sich bitte diese TED-Lektion von Andrew Blum an: [„What is the Internet, really?“ (2012)](https://youtu.be/XE_FPEFpHt4) (12 min).
+
 
 [card](what-internet-really)
 
--	Is this information new to you? How does it compare to what you imagined the internet to be?
--	What is meant by the line “wired people should know something about wires”? (min. 11.34)
+- Sind diese Informationen neu für Sie? Entsprechen sie Ihren Vorstellungen vom Internet?
+- Was ist mit der Aussage gemeint, dass „vernetzte Menschen etwas von Drähten verstehen sollten“? (Min. 11:34)
 
-Now take a look at this “Submarine Cable Map 2015” by Telegeography.
-The map looks old but it was created in 2015.
+Werfen Sie nun einen Blick auf diese „Submarine Cable Map 2015“ von Telegeography. Die Karte sieht alt aus, wurde aber erst 2015 erstellt.
+
 
 [card](submarine-map)
 
--	Where do you notice the highest and lowest concentration of cables? What does this suggest with regard to power and control in world politics?
--	Conduct some additional web research and find out how many undersea cables have been built since and now exist in total (don’t forget to cite your source).
+- Wo sehen Sie die höchste und wo die niedrigste Konzentration an Kabeln? Was bedeutet das in Hinblick auf Macht und Kontrolle in der Weltpolitik?
+- Recherchieren Sie zusätzlich im Internet und finden Sie heraus, wie viele Unterseekabel seither hergestellt wurden und wie viele es insgesamt heute gibt (vergessen Sie nicht, Ihre Quelle anzugeben).
 
-| enter your answers in the answer form |
 <!-- section -->
 
-### 1.d Information systems and power
+### 1.d Informationssysteme und Macht
 <!-- section-contents -->
 
-The placement of underwater cables is not random; it is heavily influenced by history. New communication systems are generally rooted in the infrastructures of previous systems. These developments do not only reflect progress in technology, they are also an expression of power relations. It matters a lot who is connected to whom as well as who pays for and controls information systems. Watch these two videos and then answer the essay question below:
+Die Verlegung von Unterseekabeln geschieht nicht zufällig, sondern wird stark von der Geschichte beeinflusst. In aller Regel bauen neue Kommunikationssysteme auf den Infrastrukturen früherer Systeme auf. Diese Entwicklungen spiegeln nicht nur den technischen Fortschritt wider, sie sind auch Ausdruck von Machtverhältnissen. Es spielt eine große Rolle, wer mit wem in Verbindung steht und wer die Informationssysteme bezahlt und kontrolliert. Schauen Sie sich diese beiden Videos an und beantworten Sie dann die unten stehenden Fragen für den Essay:
 
 [card](underwater-cables)
 
 [card](closed-doors)
 
-Write a short essay of 500 words in which you incorporate the answers to the following questions:
--	What were the predecessors of the internet cables at the bottom of the ocean?
--	Why were they laid, for what reason and by whom?
--	What do you think is the connection with regard to the division of power worldwide between those who had the resources to invest in the system of underwater telegraph cables in the past, and those who at present have taken up this role for fibreglass cables?
--	Who was the owner of these systems in the 19th century, and who owns the cables that are laid out to connect us with the internet worldwide? What are the implications of this ownership for freedom of information?
-
-
-| use the answer form|
+Schreiben Sie einen kurzen Essay (500 Wörter), in den Sie die Antworten auf folgende Fragen einbinden:
+- Was waren die Vorläufer der Internetkabel auf dem Meeresgrund?
+- Warum wurden sie verlegt, aus welchem Grund und von wem?
+- Worin besteht Ihrer Meinung nach der Zusammenhang hinsichtlich der weltweiten Machtverteilung zwischen denjenigen, die in der Vergangenheit die Mittel hatten, in das System der Unterseetelegrafiekabel zu investieren, und denjenigen, die heute diese Rolle für Glasfaserkabel übernommen haben?
+- Wem gehörten diese Systeme im 19. Jahrhundert, und wem gehören die Kabel, die verlegt wurden, um uns weltweit mit dem Internet zu verbinden? Welche Auswirkungen haben diese Besitzverhältnisse auf die Informationsfreiheit?
 
 
 <!-- section -->
 
-### Reading/viewing suggestions
+### Empfehlungen Lektüre/Video
 <!-- section-contents -->
 
--	Bilgil, Melih. “History of the Internet.” January 2, 2009. Video, 08:09. [Vimeo Video](https://vimeo.com/2696386)
--	CERN. “A brief history of the World Wide Web.” March 4, 2019. Video, 03:36. [Youtube Video](https://www.youtube.com/watch?v=k0gvAyCubGQ&f)
--	Byte Story. “A short history on web technologies.” Accessed December 7, 2022. [Website](https://thebytestory.com/2018/11/09/a-short-history-on-web-technologies/)
--	Berners-Lee, Tim. “Answers for Young People.” Accessed December 7, 2022. [Website](https://www.w3.org/People/Berners-Lee/Kids.html)
--	Pew Research Center. “World Wide Web Timeline.” Last modified  March 11, 2014. [Website](https://www.pewresearch.org/internet/2014/03/11/world-wide-web-timeline/#2009)
--	Tim Berners-Lee’s first proposal for the web from March 1989: “Information Management: A Proposal”
--	CERN. “A Short History of the Web.” Accessed December 7, 2022. [Website](https://home.cern/science/computing/birth-web/short-history-web)
--	Treehouse. “What is a web browser?.” May 29, 2019. Video, 8:42. [Youtube Video](https://www.youtube.com/watch?v=QzohDuGk4mM&)
+-	Bilgil, Melih. „History of the Internet“. 2. Januar 2009. Video, 8:09. [Vimeo-Video](https://vimeo.com/2696386)
+-	CERN. „A brief history of the World Wide Web“. 4. März 2019. Video, 03:36. [Youtube-Video](https://www.youtube.com/watch?v=k0gvAyCubGQ&f)
+-	Byte Story. „A short history on web technologies“. Letzter Zugriff: 7. Dezember 2022. [Website](https://thebytestory.com/2018/11/09/a-short-history-on-web-technologies/)
+-	Berners-Lee, Tim. „Answers for Young People“. Letzter Zugriff: 7. Dezember 2022.  [Website](https://www.w3.org/People/Berners-Lee/Kids.html)
+-	Pew Research Center. „World Wide Web Timeline“. Zuletzt geändert am 11. März 2014. [Website](https://www.pewresearch.org/internet/2014/03/11/world-wide-web-timeline/#2009)
+-	Der erste Vorschlag von Tim Berners-Lee für das Web vom März 1989: „Information Management: A Proposal“
+-	CERN. „A Short History of the Web“. Letzter Zugriff: 7. Dezember 2022. [Website](https://home.cern/science/computing/birth-web/short-history-web)
+-	Treehouse. „What is a web browser?“ 29. Mai 2019. Video, 08:42. [Youtube-Video](https://www.youtube.com/watch?v=QzohDuGk4mM&)
 <!-- briefing-teacher -->
+
