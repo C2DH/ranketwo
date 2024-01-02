@@ -1,20 +1,19 @@
 ---
 layout: assignment
 unit: webarchives
-lang: en
-title: "Micro-archiving: Family and personal archives in the digital age"
+lang: de
+title: "Mikro-Archivierung: Familien- und Privatarchive im digitalen Zeitalter"
 cover:
 tags:
-  -  family archives
-  -  local history
 documents:
   -  digital-lifestyles
 outcomes:
-  - Understand how to trace the history of a website
-  - Understanding the historical value of personal digital data
+  - Verstehen der Nachverfolgung der Geschichte einer Website
+  - Verstehen des historischen Werts persönlicher digitaler Daten
+
 order: 5
 ---
-As creating websites has become increasingly easy for people without a technological background, there has been a steady increase in historical websites created by individuals that make use of open source applications. Wordpress, Google and Weebly are examples of such resources. The people who set up websites like this are often volunteers who want to share their passion for a subject or relatives of an older generation who want to preserve a record of a certain historical practice that they regard as important. The focus is often on local topics: the landscape, the village, the city or the neighbourhood. Yet the most documented experiences are of migration and war. The practice of passing family photo albums from one generation to the next does not exist when it comes to digital family heritage. How should websites or pages (with potential historical relevance) that are not embedded in an institutional setting or are posted on social media platforms be preserved for the future? On the basis of a case study below, you are going to explore the best strategies for micro-archiving.
+Da die Erstellung von Websites für Menschen ohne technischen Hintergrund immer einfacher geworden ist, ist eine stetige Zunahme historischer Websites zu verzeichnen, die von Einzelpersonen erstellt werden und Open-Source-Anwendungen nutzen. Wordpress, Google und Weebly sind Beispiele für solche Ressourcen. Bei denjenigen, die solche Websites einrichten, handelt es sich häufig um Freiwillige, die ihre Leidenschaft für ein bestimmtes Thema weitergeben wollen, oder um Angehörige einer älteren Generation, die einen bestimmten historischen Brauch, den sie für wichtig halten, bewahren wollen. Im Mittelpunkt stehen oft lokale Themen: die Landschaft, das Dorf, die Stadt oder die Nachbarschaft. Die am häufigsten dokumentierten Erfahrungen beziehen sich jedoch auf Migration und Krieg. Den Brauch, Familienfotoalben von einer Generation zur nächsten weiterzugeben, gibt es nicht, wenn es um das digitale Familienerbe geht. Wie sollten Websites (mit potenzieller historischer Relevanz), die nicht in ein institutionelles Umfeld eingebettet sind oder auf Social-Media-Plattformen veröffentlicht werden, für die Zukunft bewahrt werden? Anhand einer Fallstudie sollen Sie nun die besten Strategien für die Mikro-Archivierung untersuchen.
 
 {:.text-center}
 ![Waving Family Portrait GIF By Archives Of Ontario](https://i.giphy.com/media/9XWiUASpHCdeTQZDWV/giphy.webp "Waving Family Portrait GIF By Archives Of Ontario")
@@ -23,65 +22,64 @@ As creating websites has become increasingly easy for people without a technolog
 
 <!-- briefing-student -->
 
-### 5.a A website about a grandfather’s life | ? Min
+### 5.a Eine Website über das Leben eines Großvaters
 <!-- section-contents -->
 
-One of the southern regions in the Netherlands, Limburg, used to be known for its coal mines. These were all closed down at the end of the 1960s,when much cheaper gas resources were found in the north of the Netherlands. The whole culture around coal miners was an important marker for the regional history of Limburg. This is the context in which Roy Simons – aged just 10 – started to document all the objects and stories that his grandfather had preserved about his life working in the mines. By 2012, at the age of 16, Roy had put together the website Mijn Museum – De Beukel (Mine Museum – The Beukel), which looked like this: <https://web.archive.org/web/20061213192809/http://www.webklik.nl/index.php>{:target="_blank"} (this is a link to Roy’s website, which was created using a template provided by Webklik).
+Limburg, eine Region im Süden der Niederlande, war früher für ihre Kohleminen bekannt. Diese wurden Ende der 1960er-Jahre geschlossen, als im Norden der Niederlande deutlich billigere Gasvorkommen entdeckt wurden. Die gesamte Kultur rund um die Bergleute war ein wichtiger Marker für die regionale Geschichte Limburgs. In diesem Kontext begann Roy Simons im Alter von 10 Jahren, sämtliche Gegenstände und Geschichten zu dokumentieren, die sein Großvater über seine Arbeit in den Minen aufbewahrt hatte. Im Jahr 2012, im Alter von 16 Jahren, hatte Roy die Website Mijn Museum – De Beukel (Bergbaumuseum – De Beukel) zusammengestellt, die [wie folgt aussah](https://web.archive.org/web/20061213192809/http://www.webklik.nl/index.php){:target='_blank'} (dies ist ein Link zu Roys Website, die mithilfe einer Vorlage von Webklik erstellt wurde).
 
 ![Roy's website](/../../assets/images/BeukelB.png "Roy's website")
 
 
-Roy ended up winning the history online award for historical websites, initiated by the online history magazine Historiek.
+Roy gewann schließlich den History Online Award für historische Websites, der vom Online-Geschichtsmagazin Historiek initiiert wurde.
 
 {:style="text-align:center"}
 ![online history magazine Historiek](/../../assets/images/Historiek.png "online history magazine Historiek")
 
-While it was an excellent website, Roy’s website is an example of how these types of sites run the risk of disappearing over time. He succeeded in creating his website by making use of one of the first free website services in the Netherlands, Webklik.
+Obwohl es sich um eine ausgezeichnete Website handelte, ist Roys Website ein Beispiel dafür, wie diese Art von Websites mit der Zeit zu verschwinden droht. Es gelang ihm, seine Website zu erstellen, indem er einen der ersten kostenlosen Website-Dienste in den Niederlanden, Webklik, nutzte.
 
 {:style="text-align:center"}
 ![webklik](/../../assets/images/webklik.png "webklik")
 
 
-But this service did not last and all the content was moved to a service called Weebly.
+Dieser Dienst war jedoch nicht von Dauer und der gesamte Inhalt wurde an einen Dienst namens Weebly übertragen.
 
-The last snapshot made by the Wayback Machine with webklik is on 10 September 2014.
+Der letzte Schnappschuss, den die Wayback Machine mit Webklik gemacht hat, stammt vom 10. September 2014.
 
-The first mention with the URL weebly is on 6 January 2015 <https://web.archive.org/web/20151206030556/http://mijnbouw.weebly.com/>{:target="_blank"}
+Erstmals wurde die Weebly-URL am 6. Januar 2015 erwähnt: [https://web.archive.org/web/20151206030556/http://mijnbouw.weebly.com/](https://web.archive.org/web/20151206030556/http://mijnbouw.weebly.com/){:target="_blank"}
 
 ![Roy's website](/../../assets/images/BeukelA.png "Roy's website")
 
-This is still the URL where the website can be found at present (http://mijnbouw.weebly.com), but the *appearance* of the site has completely changed. The home page does not have a personal welcome message and the multiple photos of a coal miner with a helmet and a drill are omitted. All references to Roy Simons and his grandfather are taken out. The “De Beukel collection” is now the entity that is central to the presentation, and no mention is made of a person or relative.
+Dies ist dieselbe URL, unter der die Website auch heute zu finden ist [http://mijnbouw.weebly.com](http://mijnbouw.weebly.com){:target="_blank"}, aber das Erscheinungsbild der Website hat sich völlig verändert. Die Homepage enthält keine persönliche Begrüßung, und die zahlreichen Fotos eines Bergmanns mit Helm und Bohrhammer fehlen. Alle Verweise auf Roy Simons und seinen Großvater wurden entfernt. Die „De Beukel Collection“ steht nun im Mittelpunkt der Präsentation, ohne dass eine Person oder ein Verwandter erwähnt werden.
 
-We know about these changes because of the previous snapshots taken by the Wayback Machine at the old URL.
+Wir wissen von diesen Veränderungen durch die früheren Schnappschüsse, die von der Wayback Machine unter der alten URL gemacht wurden.
 
-While this is a very specific example (not all grandparents are honoured with a website about their lives!), the web is full of family histories about grandfathers and grandmothers. Trace some of these stories online in one of the languages you speak. You will find material by googling this combination of keywords:
--	Stories from my grandparents / grandfather/ grandmother
--	Geschichte meine Grosseltern / Grossmutter/ Grossvater
--	Histoire de mes grands-parents / ma grand-mère / mon grand-père
+Dies ist zwar ein sehr spezielles Beispiel (denn nur wenige Großeltern werden mit einer Website über ihr Leben geehrt!), aber das Web ist voll von Familiengeschichten über Großväter und Großmütter. Verfolgen Sie einige dieser Geschichten online in einer von Ihnen gesprochenen Sprache. Entsprechendes Material finden Sie leicht, wenn Sie diese Kombination von Schlüsselwörtern googeln:
+- Stories from my grandparents / grandfather/ grandmother
+- Geschichte meiner Großeltern / meiner Großmutter / meines Großvaters
+- Histoire de mes grands-parents / ma grand-mère / mon grand-père
 
-Now note the URL(s) of at least one of the websites that you have found and write a short sketch about the kinds of online environments in which these stories can be found and what this means for their long-term preservation.
--	Are these websites “safe” when published online, in the sense that their preservation is being taken care of? Check whether the Wayback Machine has covered the content of the website sufficiently.
--	Is the information about the grandparent created on the spot, like a blog post, or is it something that already existed in digital form and has been uploaded to the web environment?
--	If there are two files, one on your device or computer – e.g. the interview you conducted with your grandfather – and one online that you uploaded to a website where memories of a region are collected, do you need to preserve both?
-Think about the interactive nature of a website and the need to convert big files to be able to publish them on the web. How would you go about doing so?
+Notieren Sie nun die URL(s) von mindestens einer der gefundenen Websites und schreiben Sie einen kurzen Abriss über die jeweiligen Online-Umgebungen, in denen diese Geschichten zu finden sind, und was dies für ihre langfristige Bewahrung bedeutet.
+- Sind diese Websites „sicher“, wenn sie online veröffentlicht werden, sprich, ist für ihre Bewahrung gesorgt? Prüfen Sie, ob die Wayback Machine den Inhalt der Website hinreichend erfasst hat.
+- Wurden die Informationen über das Großelternteil an Ort und Stelle erstellt, z. B. in Form eines Blogbeitrags, oder handelt es sich um Inhalte, die bereits in digitaler Form existierten und in die Web-Umgebung hochgeladen wurden?
+- Wenn es zwei Dateien gibt, eine auf Ihrem Gerät oder Computer – z. B. das Interview, das Sie mit Ihrem Großvater geführt haben – und eine online, die Sie auf einer Website hochgeladen haben, auf der Erinnerungen an eine Region gesammelt werden, müssen Sie dann beide bewahren? Denken Sie an den interaktiven Charakter einer Website und an die Notwendigkeit, große Dateien zu konvertieren, um sie im Internet veröffentlichen zu können. Wie würden Sie dabei vorgehen?
 
 <!-- section -->
 
-### 5.b Archiving your own future historical sources
+### 5.b Archivierung Ihrer eigenen zukünftigen historischen Quellen
 <!-- section-contents -->
 
-Listen to this brief talk by Dr Rebecca Huntley from the National and State Libraries of Australia on family-level micro-archiving. She makes the connection between looking back at her family history and imagining what will be needed in the future to reconstruct her own history: “Born Digital 2016: Digital lifestyles with Dr Rebecca Huntley (2016, National and State Libraries Australia, ASLA)”
+Hören Sie sich diesen kurzen Vortrag von Dr. Rebecca Huntley von den National and State Libraries of Australia über Mikro-Archivierung auf Familienebene an. Darin stellt sie eine Verbindung zwischen dem Rückblick auf ihre Familiengeschichte und der Vorstellung her, was in Zukunft nötig sein wird, um ihre eigene Geschichte zu rekonstruieren: „Born Digital 2016: Digital lifestyles with Dr Rebecca Huntley“ (2016, National and State Libraries Australia, ASLA).
 
 [card](digital-lifestyles)
 
-Now think of your own presence online and answer the following questions:
--	What kind of content have you uploaded or posted on the web?
--	Are you represented with your name, photo and profile on a social media platform? If so, which one(s)?
--	Can you trace this back with the Wayback Machine?
--	Does a text, video, image or audio file created by you feature on a specific website/page (maybe years ago when you were at primary or secondary school)?
--	Is part of your personal life and history also documented in analogue form through photo albums, handwritten letters, postcards or diaries?
+Denken Sie nun an Ihre eigene Online-Präsenz und beantworten Sie die folgenden Fragen:
+- Welche Art von Inhalten haben Sie bereits im Web hochgeladen oder gepostet?
+- Sind Sie mit Ihrem Namen, Foto und Profil auf einer Social-Media-Plattform vertreten? Wenn ja, auf welcher/welchen?
+- Können Sie dies mit der Wayback Machine nachverfolgen?
+- Ist ein Text, ein Video, ein Bild oder eine Audiodatei von Ihnen auf einer bestimmten Website/-seite zu finden (vielleicht noch aus Ihrer Zeit in der Grund- oder Oberschule)?
+- Ist ein Teil Ihres Privatlebens und Ihrer Geschichte auch in analoger Form durch Fotoalben, handgeschriebene Briefe, Postkarten oder Tagebücher dokumentiert?
 
 
-Lastly, on the website of NetLab (http://www.netlab.dk/), a research project within the Danish Digital Humanities Lab, you will find many resources that you can learn to apply to web archiving. Go to the tab “Tools and Tutorials” http://www.netlab.dk/services/tools-and-tutorials/, where you will find a series of tools to preserve different kinds of content that are published online. Choose one of the tools, try it out on one of the online pages in which you have posted/published stories, photos, video or audio that relates to your personal life, and describe the process in the table below:
+Auf der [Website von Centre for Digital Methods and Media](https://cc.au.dk/en/cdmm){:target="_blank"} der dänischen Universität Aarhus, finden Sie zahlreiche Ressourcen, die Sie für die Web-Archivierung nutzen können. Auf der Registerkarte [„Tools and Tutorials“](https://cc.au.dk/en/cdmm/tools-and-tutorials){:target="_blank"} steht Ihnen eine Reihe von Tools zur Bewahrung verschiedener Arten online veröffentlichter Inhalte zur Verfügung. Wählen Sie eines dieser Tools aus, testen Sie es auf einer der Online-Seiten, auf denen Sie Geschichten, Fotos, Videos oder Audiodateien aus Ihrem Privatleben gepostet/veröffentlicht haben, und beschreiben Sie den Prozess.
 
 <!-- briefing-teacher -->
