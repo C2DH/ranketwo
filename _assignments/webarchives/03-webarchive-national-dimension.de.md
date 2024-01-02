@@ -23,77 +23,81 @@ Doch die Aufgabe, das gesamte Web zu archivieren, ist keine einfache. Aufgrund d
 
 ### 3.a Herausforderungen und Grenzen der Bewahrung: Das Beispiel des Luxembourg Web Archive
 <!-- section-contents -->
-In this sub-assignment, the Luxembourg Web Archive (LWA) (<https://www.webarchive.lu/>{:target='_blank'}) managed by the BnL will be explored to identify the benefits, limitations and challenges of web archiving.
-Web archivists have the task of defining the parameters and criteria for their digital collection of web pages. They have to decide which types of sites they should archive (i.e. government sites, news agency sites, museum sites, personal blogs, etc.), how many times a year snapshots should be taken, and how this content can be made accessible to their audience.
+In dieser Unteraufgabe werden wir uns näher mit dem von der BnL verwalteten [Luxembourg Web Archive (LWA)](https://www.webarchive.lu/){:target='_blank'} befassen, um die Vorteile, Grenzen und Herausforderungen der Web-Archivierung zu ermitteln. Die Aufgabe von Web-Archivaren ist es, die Parameter und Kriterien für ihre digitale Sammlung von Webseiten zu definieren. Sie müssen entscheiden, welche Arten von Websites sie archivieren sollten (z. B. Websites der Regierung, von Nachrichtenagenturen oder von Museen, persönliche Blogs usw.), wie oft im Jahr Schnappschüsse gemacht werden sollten und wie diese Inhalte für die jeweilige Zielgruppe zugänglich gemacht werden können.
 
 {:style='text-align: center'}
 ![lux-web](/../../assets/images/lux-web.png "lux-web")
 
-Imagine that you work at the National Library of Luxembourg and your job is to help select and collect all the relevant information on the web that pertains to the Grand Duchy of Luxembourg. Now imagine that a secondary school student wants to understand how the LWA works and has asked you to help explain it to her.
-Using the information found on the main page of the Luxembourg Web Archive (<https://www.webarchive.lu/>{:target='_blank'}), its FAQ section (<https://www.webarchive.lu/faq/>{:target='_blank'}) and the “How it Works” page (<https://www.webarchive.lu/how-it-works/>{:target='_blank'}), answer the following questions that are posed by this imaginary secondary school student:
+Stellen Sie sich vor, Sie arbeiten in der luxemburgischen Nationalbibliothek und haben die Aufgabe, bei der Auswahl und Sammlung aller relevanten Informationen im Web über das Großherzogtum Luxemburg zu helfen. Stellen Sie sich vor, eine Oberschülerin möchte wissen, wie das LWA funktioniert, und bittet Sie, es ihr zu erklären. Beantworten Sie mithilfe der Informationen auf der [Homepage des Luxembourg Web Archive](https://www.webarchive.lu/){:target='_blank'}, im dortigen Abschnitt [„FAQ“](https://www.webarchive.lu/faq/){:target='_blank'} und auf der Seite [„How it Works“](https://www.webarchive.lu/how-it-works/){:target='_blank'} die folgenden Fragen unserer imaginären Oberschülerin:
 
 {:style='margin: 1rem auto; max-width: 400px'}
 [![How it Works](https://image.thum.io/get/https://www.webarchive.lu/how-it-works/ "How it Works")](https://www.webarchive.lu/how-it-works/){:target='_blank'}
+ 
+- Wer oder was sind, was die Sammlungspolitik des LWA betrifft, luxemburgische Verleger?
+- Wie oft pro Jahr archivieren sie (die BnL) das luxemburgische Web?
+- Welche Arten von Websites archivieren sie (z. B. Websites der Regierung, von Nachrichtenagenturen, persönliche Blogs usw.)?
+- Wie kann man auf die Informationen im LWA zugreifen?
+- Wie genau sammeln sie Informationen für das LWA? (Tipp: Es ist ein dreistufiger Prozess.)
+- Welche drei Arten von Crawls werden vom LWA verwendet und worin unterscheiden sie sich?
+- Welche Gründe könnten dagegensprechen, eine Website in die Sammlung aufzunehmen?
 
--	Regarding the collection policy of the LWA, who or what are Luxembourgish publishers?
--	How many times a year do you (the BnL) archive the Luxembourgish web?
--	Which types of websites do you archive (e.g. government sites, news agency sites, personal blogs, etc.)?
--	How can someone access the information in the LWA?
--	What is your process for collecting information for the LWA? (Hint: it’s a three-step process)
--	What are the three different types of crawls used by the LWA and what are the differences between them?
--	What are some of the reasons that you might decide not to collect a website?
 
-| use the answer form to write down the answers |
+| Tragen Sie Ihre Antworten in das Antwortformular ein |
 
 <!-- section -->
 
 
-### 3.b Exploring Luxembourg web content
+### 3.b Luxemburgische Web-Inhalte erkunden
 <!-- section-contents -->
 
-The example of the LWA in assignment 3.a shows the contradiction between the principle of openness and the limits of institutions in sustaining an open system when they also have to take into account the rights of copyright holders. Because of the latter, we do not have online access to the information within the LWA, as it can only be used within certain library premises. However, we are lucky that some of the content in the LWA is also available online through the Internet Archive’s Wayback Machine (WM). As such, this lesson makes use of the Wayback Machine, rather than the LWA, for the next sub-assignment on archived Luxembourgish web content. The BnL has a contract with IA to crawl the Luxembourgish web, meaning that they offer the same content, but the BnL offers some complementary tools to explore the collections.
+Das Beispiel des LWA in Aufgabe 3.a verdeutlicht den Widerspruch zwischen dem Grundsatz der Offenheit und den Grenzen der Institutionen bei der Aufrechterhaltung eines offenen Systems, wenn auch die Rechte der Urheberrechtsinhaber berücksichtigt werden müssen. Aus diesem Grund haben wir keinen Online-Zugriff auf die Informationen im LWA, da es nur in bestimmten Bibliotheksräumlichkeiten genutzt werden kann. Glücklicherweise ist ein Teil der Inhalte des LWA aber auch online über die Wayback Machine (WM) des Internet Archive verfügbar. Daher werden wir in dieser Lektion für die nächste Unteraufgabe über archivierte luxemburgische Web-Inhalte nicht das LWA, sondern die Wayback Machine verwenden. Die BnL hat mit dem Internet Archive einen Vertrag über das Crawlen des luxemburgischen Webs geschlossen, d. h. beide bieten dieselben Inhalte, die BnL jedoch noch einige ergänzende Tools zum Durchsuchen der Sammlungen an.
 
-Download the teaching aid for working with the interface of the Wayback Machine from; url
+[Laden Sie sich die Unterrichtshilfe für die Arbeit mit der Benutzeroberfläche der Wayback Machine](https://ranke2.uni.lu/assets/pdf/wayback-machine-interface.pdf){:target='_blank'}.
 
-Go to the Internet Archive’s Wayback Machine (<https://web.archive.org/>{:target='_blank'}), copy and paste the URL www.luxembourg.lu and press the “Enter” key. You should arrive on the page <https://web.archive.org/web/*/www.luxembourg.lu>{:target='_blank'}.
-Referring to the WM interface user guide, answer the following questions:
+Gehen Sie zur [Wayback Machine](https://web.archive.org/){:target='_blank'} des Internet Archive, kopieren und fügen Sie die URL `www.luxembourg.lu` ein und drücken Sie die „Enter“-Taste. Sie sollten auf der Seite (https://web.archive.org/web/*/www.luxembourg.lu){:target='_blank'} landen. Beantworten Sie unter Bezugnahme auf das Handbuch zur WM-Benutzeroberfläche die folgenden Fragen:
+- Wählen Sie zwei Elemente auf dieser Seite aus, die Informationen darüber liefern, wie das Internet Archive die Webseite zu dieser spezifischen URL archiviert hat.
+- Wählen Sie ein Element aus, das Informationen über die archivierte Webseite selbst liefert.
+- Was sagt uns die Notiz unterhalb des Kalenders? Wie viele Aufnahmen wurden von der Website [www.luxembourg.lu](www.luxembourg.lu){:target='_blank'} gemacht und über welchen Zeitraum? Ist die Verteilung der Aufnahmen gleichmäßig über die Zeit verteilt?
 
--	Select two elements on this page that provide information about how the Internet Archive has archived the web page that corresponds to this specific URL.
--	Select one element that provides information about the archived web page itself.
--	What does the note under the calendar tell us? How many captures of the site www.luxembourg.lu have been made and over what period? Is the distribution of captures evenly spread over time?
+| Tragen Sie Ihre Antworten in das Antwortformular ein |
 
-| use the answer form to write down the answers |
+Klicken Sie unter der URL-Suchleiste auf die Schaltfläche „Summary“, um Statistiken und Einzelheiten zu den archivierten Schnappschüssen der Webseite [www.luxembourg.lu](www.luxembourg.lu){:target='_blank'} zu erhalten.
+- Wie viele Aufnahmen wurden 1996 von der Website gemacht? Wie viele 2005?
+- Was lässt sich daraus schließen? Warum könnte die Anzahl der Aufnahmen im Laufe der Zeit Ihrer Meinung nach ungleichmäßig sein?
+- Was bedeutet das für die Nutzung der Wayback Machine als Ressource für die Archivierung von Webseiten?
 
-Under the URL search bar, click on the “Summary” button for statistics and details about the archived snapshots of the www.luxembourg.lu web page.
--	How many captures of the site were made in 1996? How many in 2005?
--	What can be inferred from this? Why do you think the number of captures might be uneven over time?
--	What does this mean for using the Wayback Machine as a resource for archiving web pages?
+| Tragen Sie Ihre Antworten in das Antwortformular ein |
 
-| use the answer form to write down the answers |
+Kehren Sie nun zur Ansicht „Calendar“ zurück. Bewegen Sie den Mauszeiger über die Zeitleiste zwischen der Zeile, die anzeigt, wie oft die Webseite gespeichert wurde, und dem Kalender darunter und klicken Sie auf das Jahr 1996 (ggf. müssen Sie dafür nach links scrollen). Klicken Sie dann auf den Schnappschuss vom 9. November 1996 um 20:07:38 Uhr. Dies sollte Sie zur folgenden archivierten Seite bringen [https://web.archive.org/web/19961109200738/http://www.luxembourg.lu/](https://web.archive.org/web/19961109200738/http://www.luxembourg.lu/){:target='_blank'} 
 
-Now return to the “Calendar” view. Between the line indicating the number of times that the web page has been saved and the calendar below, hover over the timeline and click on the year 1996 (you might need to scroll to the left). Next, select the snapshot taken on 9 November 1996 at 20:07:38. This should bring you to the archived page: [https://web.archive.org/web/19961109200738/http://www.luxembourg.lu/](https://web.archive.org/web/19961109200738/http://www.luxembourg.lu/){:target='_blank'}
--	What does this page show?
--	Is there any information on the date of creation or the author? What about any temporal information?
+- Was zeigt diese Seite?
+- Gibt es Informationen über das Erstellungsdatum oder den Autor? Wie sieht es mit zeitlichen Angaben aus?
 
-| use the answer form to write down the answers |
+| Tragen Sie Ihre Antworten in das Antwortformular ein |
 
-Following the same steps above, now go to the archived snapshot from 22 March 2003 taken at 18:49:25: [https://web.archive.org/web/20030322184925/http://www.luxembourg.lu/](https://web.archive.org/web/20030322184925/http://www.luxembourg.lu/){:target='_blank'}
--	What does this page show?
--	Is there any more information about the source (date, author, etc.)? What elements seem to be relevant or missing?
--	What does the “About this capture” button in the upper right-hand corner tell us?
--	In your opinion, what is the most noticeable change between the archive of 9 November 1996 and that of 22 March 2003?
+Befolgen Sie dieselben Schritte wie oben und gehen Sie nun zum archivierten Schnappschuss vom 22. März 2003, der um 18:49:25 Uhr aufgenommen wurde: [https://web.archive.org/web/20030322184925/http://www.luxembourg.lu/](https://web.archive.org/web/20030322184925/http://www.luxembourg.lu/){:target='_blank'}
 
-| use the answer form to write down the answers |
+- Was zeigt diese Seite?
+- Gibt es Informationen über die Quelle (Datum, Autor usw.)? Welche Elemente scheinen relevant zu sein oder zu fehlen?
+- Was sagt uns die Schaltfläche „About this capture“ in der oberen rechten Ecke?
+- Was ist Ihrer Meinung nach die auffälligste Veränderung zwischen dem Archiv vom 9. November 1996 und dem vom 22. März 2003?
 
-Lastly, go back to the “Calendar” view and choose a snapshot taken within the last five years. What are some of the first things you notice about it?
+| Tragen Sie Ihre Antworten in das Antwortformular ein |
 
-| use the answer form to write down the answers |
+Gehen Sie schließlich zurück zur Ansicht „Calendar“ und wählen Sie einen Schnappschuss aus den letzten fünf Jahren. Welche Dinge fallen Ihnen als Erstes auf?
 
-Based on these three archived snapshots from 1996, 2003 and the last five years, write a paragraph summarising how the luxembourg.lu website has changed over a 20-year period.
--	First start with some basic questions: Who created this website and why? What kind of functions did a website offer at the time? How were these functions catered for before the evolution of the web? Did the function of the website change over time?
--	Then identity changes in the appearance and content of the website: consider the URLs, colours/fonts, structure, tabs, etc. on the basis of the information that is available on the Wayback Machine. Make sure you also discuss the possible uses of this archived site for historians. (Hint: think about this from different perspectives, such as historians of Luxembourg or historians of the digital world.)
+| Tragen Sie Ihre Antworten in das Antwortformular ein |
 
-| enter your text in the answer form |
+Schreiben Sie anhand dieser drei archivierten Schnappschüsse aus den Jahren 1996, 2003 und den letzten fünf Jahren eine kurze Zusammenfassung, wie sich die Website luxembourg.lu über einen Zeitraum von 20 Jahren verändert hat.
+
+- Beginnen Sie zunächst mit einigen grundlegenden Fragen: 
+  - Wer hat diese Website erstellt und warum? 
+  - Welche Funktionen bot eine Website damals? 
+  - Hat sich die Funktion der Website im Laufe der Zeit geändert?
+- Identifizieren Sie dann Veränderungen im Erscheinungsbild und Inhalt der Website: Überprüfen Sie die URLs, Farben/Schriftarten, Aufbau, Registerkarten usw. anhand der Informationen aus der Wayback Machine. 
+
+Erörtern Sie auch die Nutzungsmöglichkeiten dieser archivierten Website für Historiker. Beleuchten Sie dieses Thema aus verschiedenen Blickwinkeln, z. B. aus der Sicht eines Historikers aus Luxemburg oder eines Historikers der digitalen Welt.
+
 
 <!-- section -->
 
@@ -106,7 +110,7 @@ Based on these three archived snapshots from 1996, 2003 and the last five years,
 -	Huss, Nick. “How Many Websites Are There Around The World?” Sateefy. Last modified November 27, 2022. [Website](https://siteefy.com/how-many-websites-are-there/){:target='_blank'}
 -	Potter, Abby. "Why Archive The Web." IIPC. October 18. 2012. Video, 2:53. [Youtube Video](https://www.youtube.com/watch?v=pU32rjTaMFE{:target='_blank'})
 -	Library of Congress. “Web Archiving.” November 30, 2009. Video, 3:10. [Youtube Video](https://www.youtube.com/watch?v=T0943YkhLWU>{:target='_blank'})
--	World Wide Web Size research project measuring the size of the indexed web by Tilburg University (updated on a daily basis) (<https://www.worldwidewebsize.com/>{:target='_blank'})
+-	World Wide Web Size research project measuring the size of the indexed web by Tilburg University (updated on a daily basis) [URL](https://www.worldwidewebsize.com/){:target='_blank'}
 
 
 <!-- briefing-teacher -->
