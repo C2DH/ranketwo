@@ -26,7 +26,7 @@ As creating websites has become increasingly easy for people without a technolog
 ### 5.a A website about a grandfather’s life | ? Min
 <!-- section-contents -->
 
-One of the southern regions in the Netherlands, Limburg, used to be known for its coal mines. These were all closed down at the end of the 1960s,when much cheaper gas resources were found in the north of the Netherlands. The whole culture around coal miners was an important marker for the regional history of Limburg. This is the context in which Roy Simons – aged just 10 – started to document all the objects and stories that his grandfather had preserved about his life working in the mines. By 2012, at the age of 16, Roy had put together the website Mijn Museum – De Beukel (Mine Museum – The Beukel), which looked like this: <https://web.archive.org/web/20061213192809/http://www.webklik.nl/index.php>{:target="_blank"} (this is a link to Roy’s website, which was created using a template provided by Webklik).
+One of the southern regions in the Netherlands, Limburg, used to be known for its coal mines. These were all closed down at the end of the 1960s,when much cheaper gas resources were found in the north of the Netherlands. The whole culture around coal miners was an important marker for the regional history of Limburg. This is the context in which Roy Simons – aged just 10 – started to document all the objects and stories that his grandfather had preserved about his life working in the mines. By 2012, at the age of 16, Roy had put together the website Mijn Museum – De Beukel (Mine Museum – The Beukel), which looked like [this](https://web.archive.org/web/20061213192809/http://www.webklik.nl/index.php){:target="_blank"} (this is a link to Roy’s website, which was created using a template provided by Webklik).
 
 ![Roy's website](/../../assets/images/BeukelB.png "Roy's website")
 
@@ -46,11 +46,11 @@ But this service did not last and all the content was moved to a service called 
 
 The last snapshot made by the Wayback Machine with webklik is on 10 September 2014.
 
-The first mention with the URL weebly is on 6 January 2015 <https://web.archive.org/web/20151206030556/http://mijnbouw.weebly.com/>{:target="_blank"}
+The first mention with the URL weebly is on 6 January 2015 [https://web.archive.org/web/20151206030556/http://mijnbouw.weebly.com/](https://web.archive.org/web/20151206030556/http://mijnbouw.weebly.com/){:target="_blank"}
 
 ![Roy's website](/../../assets/images/BeukelA.png "Roy's website")
 
-This is still the URL where the website can be found at present (http://mijnbouw.weebly.com), but the *appearance* of the site has completely changed. The home page does not have a personal welcome message and the multiple photos of a coal miner with a helmet and a drill are omitted. All references to Roy Simons and his grandfather are taken out. The “De Beukel collection” is now the entity that is central to the presentation, and no mention is made of a person or relative.
+This is still [the URL where the website can be found at present](http://mijnbouw.weebly.com){:target="_blank"}, but the *appearance* of the site has completely changed. The home page does not have a personal welcome message and the multiple photos of a coal miner with a helmet and a drill are omitted. All references to Roy Simons and his grandfather are taken out. The “De Beukel collection” is now the entity that is central to the presentation, and no mention is made of a person or relative.
 
 We know about these changes because of the previous snapshots taken by the Wayback Machine at the old URL.
 
@@ -82,6 +82,6 @@ Now think of your own presence online and answer the following questions:
 -	Is part of your personal life and history also documented in analogue form through photo albums, handwritten letters, postcards or diaries?
 
 
-Lastly, on the website of NetLab (http://www.netlab.dk/), a research project within the Danish Digital Humanities Lab, you will find many resources that you can learn to apply to web archiving. Go to the tab “Tools and Tutorials” http://www.netlab.dk/services/tools-and-tutorials/, where you will find a series of tools to preserve different kinds of content that are published online. Choose one of the tools, try it out on one of the online pages in which you have posted/published stories, photos, video or audio that relates to your personal life, and describe the process in the table below:
+Lastly, on the website of the [Centre for Digital Methods and Media](https://cc.au.dk/en/cdmm){:target="_blank"} of the University of Aarhus, Denmark, you will find many resources that you can learn to apply to web archiving. Go to the tab [“Tools and Tutorials”](https://cc.au.dk/en/cdmm/tools-and-tutorials/data-collection){:target="_blank"}, where you will find a series of tools to preserve different kinds of content that are published online. Choose one of the tools and try it out on one of the online pages in which you have posted/published stories, photos, video or audio that relates to your personal life.
 
 <!-- briefing-teacher -->
