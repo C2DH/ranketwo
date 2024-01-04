@@ -6,7 +6,6 @@ title: "Le droit de copier : le rôle des droits d’auteur dans la transformati
 cover:
 tags:
 outcomes: En apprendre plus sur l’origine du concept de droits d’auteur et sur le partage de contenus sur le Web 
--  
 order: 2
 ---
 <!-- more -->
