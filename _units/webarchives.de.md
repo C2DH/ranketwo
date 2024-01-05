@@ -1,5 +1,5 @@
 ---
-title: "The Web as a historical source; what historians need to know"
+title: "Das Web als historische Quelle – was Historiker wissen sollten"
 layout: unit
 publication_date: 2021-01-25
 translation_date: 2023-12-20
