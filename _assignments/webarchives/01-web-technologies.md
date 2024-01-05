@@ -37,7 +37,7 @@ Watch this 35 min documentary created by the Web Foundation about how Tim Berner
 
 <!-- briefing-student -->
 
-### 1.a The history of the web and the technology behind it | ? Min
+### 1.a The history of the web and the technology behind it
 <!-- section-contents -->
 
 -	This short article, also published by the Web Foundation, provides insight into the role of Tim Berners Lee in a nutshell: “History of the Web”
@@ -98,7 +98,7 @@ To connect the differences between the web and the internet to your own use of b
 <!-- section-contents -->
 
 Even if we understand the principles, history and evolution of the internet and the web, it can still be hard to fully grasp the materiality of our information systems. Where do we find tangible traces of the internet in our environment and what do they look like?
-Despite frequent references to “the cloud” and “cyberspace” and the widespread use of WiFi (all of which contribute to the belief that the web and the internet are intangible and transparent), the internet in fact consists of highly tangible elements. For an introduction to how the internet works, watch this TED lecture by Andrew Blum: “What is the Internet, really?” (2012) (https://youtu.be/XE_FPEFpHt4) (12 mins).
+Despite frequent references to “the cloud” and “cyberspace” and the widespread use of WiFi (all of which contribute to the belief that the web and the internet are intangible and transparent), the internet in fact consists of highly tangible elements. For an introduction to how the internet works, watch this [TED lecture by Andrew Blum: “What is the Internet, really?” (2012)](https://youtu.be/XE_FPEFpHt4) (12 mins).
 
 [card](what-internet-really)
 
