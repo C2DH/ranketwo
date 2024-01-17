@@ -116,10 +116,67 @@ Pour cet exercice, prenez la seconde des deux captures d’écran faites dans l�
 ### 1c. Appliquer l’évaluation critique de la source numérique aux captures d’écran
 <!-- section-contents -->
 
+La  critique des sources est la pratique qui consiste à considérer une source d’un œil critique. Les historiens et historiennes, par exemple, ont toujours remis en question l’origine, la signification et la crédibilité de leurs sources historiques. Cependant, lorsque une source est numérisée, publiée en ligne et reproduite par de nombreuses personnes, retracer l’origine de la source peut s’avérer plus difficile. Dans le cadre de cet exercice, vous allez documenter les caractéristiques d’une image, de la création originale à sa représentation numérique en ligne, tout en observant les changements qui s’opèrent chaque fois que l’image est transformée en quelque chose d’autre. Il est important de se rappeler que si l’image modifiée transmet, dans la plupart des cas, le même message que l’original, sa valeur artéfactuelle, elle, change profondément.
+- Ouvrez [ce support visuel](https://ranke2.uni.lu/assets/pdf/C3.1-visual-aid-3.pdf){:target="_blank"} provenant du site Ranke.2. Le support traite des questions à se poser à propos d’un manuscrit numérisé publié sur Internet. Trois contextes sont spécifiés dans lesquels l’identité, l’apparence et la valeur d’une source changent. Chacun de ces contextes implique de se poser des questions différentes. Dans cet exercice, vous allez poser des questions similaires pour deux images au choix parmi celles proposées ci-dessous.
+L’objectif est ici de comprendre la différence entre «&#x202F;l’image&#x202F;» et «&#x202F;une image&#x202F;». «&#x202F;L’image&#x202F;» est l’original, c’est-à-dire la toute première en son genre qui ait jamais été faite. «&#x202F;Une image&#x202F;» est une reproduction de l’image originale. Parfois, la reproduction a le même format que l’original et parfois, son format est totalement différent. Il s’agit donc ici de retracer ce processus de transformation de l’image originale (contexte de création) à sa reproduction numérique (contexte de numérisation).
 
+Il se peut que vous deviez faire des recherches supplémentaires sur Internet pour répondre à toutes les questions. L’Encyclopedia Britannica, Google Scholar et la Khan Academy constituent de bonnes ressources. Gardez à l’esprit que certains sites Web ne partagent pas les informations relatives au processus de numérisation. Il se peut donc que vous ne parveniez pas à trouver toutes les informations demandées.
+
+- Regardez les images ci-dessous, choisissez-en deux et faites-en des captures d’écran.
+
+{:.mosaic}
+[![Charles Darwin, portrait de John Collier](/../../assets/images/transformation/1c/thumbs/charles-darwin-portrait-by-john-collier.jpg "Charles Darwin portrait by John Collier")](/../../assets/images/transformation/1c/charles-darwin-portrait-by-john-collier.jpg){:target="_blank"}
+[![Morel](/../../assets/images/transformation/1c/thumbs/morel-v-afp-1.jpg "Morel")](/../../assets/images/transformation/1c/morel-v-afp-1.jpg){:target="_blank"}
+[![Sandro Botticelli - La nascita di Venere](/../../assets/images/transformation/1c/thumbs/sandro-botticelli-la-nascita-di-venere.jpg "Sandro Botticelli - La nascita di Venere")](/../../assets/images/transformation/1c/sandro-botticelli-la-nascita-di-venere.jpg){:target="_blank"}
+[![Barack Obama hope poster](/../../assets/images/transformation/1c/thumbs/barack-obama-hope-poster.jpg "Barack Obama hope poster")](/../../assets/images/transformation/1c/barack-obama-hope-poster.jpg){:target="_blank"}
+[![Boy children Christmas](/../../assets/images/transformation/1c/thumbs/boy-children-christmas.jpg "Boy children Christmas")](/../../assets/images/transformation/1c/boy-children-christmas.jpg){:target="_blank"}
+[![Man mask](/../../assets/images/transformation/1c/thumbs/man-mask.jpg "Man mask")](/../../assets/images/transformation/1c/man-mask.jpg){:target="_blank"}
+[![Postmortem children](/../../assets/images/transformation/1c/thumbs/postmortem-children.jpg "Postmortem children")](/../../assets/images/transformation/1c/postmortem-children.jpg){:target="_blank"}
+[![Iris](/../../assets/images/transformation/1c/thumbs/iris.jpg "Iris")](/../../assets/images/transformation/1c/iris.jpg){:target="_blank"}
+[![Woman labor](/../../assets/images/transformation/1c/thumbs/woman-labor.jpg "Woman labor")](/../../assets/images/transformation/1c/woman-labor.jpg){:target="_blank"}
+[![Boy in blue long sleeve](/../../assets/images/transformation/1c/thumbs/boy-in-blue-long-sleeve.jpg "Boy in blue long sleeve")](/../../assets/images/transformation/1c/boy-in-blue-long-sleeve.jpg){:target="_blank"}
+[![Oscar Wild](/../../assets/images/transformation/1c/thumbs/oscar-wild.jpg "Oscar Wild")](/../../assets/images/transformation/1c/oscar-wild.jpg){:target="_blank"}
+[![Postmortem man](/../../assets/images/transformation/1c/thumbs/postmortem-man.jpg "Postmortem man")](/../../assets/images/transformation/1c/postmortem-man.jpg){:target="_blank"}
+[![Dora Maar Picasso](/../../assets/images/transformation/1c/thumbs/dora-maar-picasso.jpg "Dora Maar Picasso")](/../../assets/images/transformation/1c/dora-maar-picasso.jpg){:target="_blank"}
+
+
+- Complétez les tableaux ci-dessous pour les deux images sélectionnées. Pour la première partie intitulée «&#x202F;Contexte de création&#x202F;», nous vous conseillons de suivre le même procédé qu’à l’exercice 1b et de télécharger la capture d’écran dans votre service de reconnaissance d’images favori. La liste des résultats qui s’affiche vous aidera à répondre aux questions de la première partie.
+
+Voici un exemple pour vous donner une idée de la manière de répondre aux questions.
+
+{:.table.border.table-sm.text-sm.text-bold-highlight.with-pairs}
+| 1. Contexte de création | Exemple de réponse |
+|--------------------------------|--------|
+| Quel est le nom de l'&oelig;vre et qui l'a créée&#x202F;?	| *Portrait de [Dora Maar](https://fr.wikipedia.org/wiki/Dora_Maar){:target="_blank"}. Œuvre créée par le peintre Pablo Picasso.*
+| Quand et où a-t-elle été créée&#x202F;?        | *En 1937, probablement à Paris.*
+| Dans quel but&#x202F;?                    | *Pour créer une œuvre d’art.*
+| Que ou qui représente l’image&#x202F;?       | *[Dora Maar](https://fr.wikipedia.org/wiki/Dora_Maar){:target="_blank"}, pseudonyme de la photographe, peintre et poétesse française Henriette Theodora Markovitch, muse de Picasso.*
+| Quelle technologie, quel art ou quel médium a été utilisé&#x202F;?   | *Huile sur lin.*
+
+{:.table.border.table-sm.text-sm.text-bold-highlight.with-pairs}
+| 2. Context de préservation | Exemple de réponse |
+|--------------------------------|--------|
+| Où se trouve l’original&#x202F;?	| *Au Musée Picasso à Paris*
+| Que cela nous dit-il de la valeur de la source&#x202F;? | *Le tableau est considéré comme une œuvre d’art importante.*
+| Est-il accessible au public&#x202F;? | *Il n’est pas précisé si le tableau se trouve dans les archives du musée ou s’il est actuellement exposé au public.*
+| Sa valeur, son apparence ou son identité a-t-elle changé dans cet autre contexte&#x202F;?  | *Oui, le tableau fait désormais partie du patrimoine culturel partagé puisqu’il se trouve dans un musée financé par des fonds publics.*
+
+{:.table.border.table-sm.text-sm.text-bold-highlight.with-pairs}
+| 3. Contexte de numérisation et de publication en ligne  | Exemple de réponse |
+|--------------------------------|--------|
+| Sur quel site web l’avez-vous trouvée&#x202F;? | *Je l’ai trouvée à la fois sur des sites de vente d’images comme Alamy et sur des sites de collections d’art, comme wikiart. Il est intéressant de noter que certains sites demandent de payer pour recevoir une copie, alors que l’image fait l’objet d’une licence « Utilisation équitable » et peut être téléchargée gratuitement dans une résolution plus faible. I found it both on commercial images selling companies websites like Alamy, and in websites of collections, like [wikiart](https://www.wikiart.org/en/pablo-picasso/portrait-of-dora-maar-1937-1){:target="_blank"}. An interesting thing to note is that you can end up on a website where you have to pay to receive a copy, whereas the image is licensed under ‘fair use’ and can be downloaded without costs, in a lower resolution*
+| Who published it online, when and where? | *This is not possible to find out online and would require an investigation based on contact with the owner of the painting, that is, the museum*
+| Why and how was it digitised | *Same as above*
+| Was information lost or added? | *Yes, its materiality was lost, the colors are different, the dimensions are different, and it has changed into digits and automatically created metadata when being photographed, being converted to a lower resolution to make it suitable for upload. When uploaded, the structure of the bits changed again, and new metadata was added.*
+| Who is the owner of the digital copy? | *Probably the Picasso Museum, but it is being shared under the principle of ‘fair use’ and for educational and research purposes a lower resolution is freely available.*
+
+
+
+
+<!-- section -->
 
 #### Suggestions de lectures/vidéos
-Trevor Owens, “Digital Sources & Digital Archives: The Evidentiary Basis of Digital History” in David Staley (dir.), *Companion to Digital History*. Wiley-Blackwell, 2017 https://osf.io/preprints/socarxiv/t5rdy 
+Trevor Owens, «&#x202F;Digital Sources & Digital Archives&#x202F;: The Evidentiary Basis of Digital History&#x202F;» in David Staley (dir.), *Companion to Digital History*. Wiley-Blackwell, 2017 https://osf.io/preprints/socarxiv/t5rdy 
 Text Encoding Initiative.
 
 <!-- briefing-teacher -->
