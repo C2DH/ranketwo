@@ -8,8 +8,10 @@ tags:
 outcomes: En apprendre plus sur l’origine du concept de droits d’auteur et sur le partage de contenus sur le Web 
 order: 2
 ---
-<!-- more -->
+
 Depuis l’avènement de la technologie numérique, il n’a jamais été aussi facile de copier et réutiliser des images et des textes. Néanmoins, dans la même période, le risque de violation des droits des auteurs ou artistes a également augmenté, car il est devenu plus difficile de contrôler la façon dont leurs œuvres sont utilisées ou d’empêcher d’autres personnes de tirer un profit de ces œuvres. Dans le but de réduire ce risque, des dispositions spécifiques ont été prises pour réglementer l’utilisation des images sur le Web. Cet exercice met l’accent sur ces dispositions et sur la façon dont elles peuvent différer, parfois fortement, d’un pays à l’autre.
+<!-- more -->
+
 <!-- briefing-student -->
 
 ### 2.a. Tenir compte des droits d’auteur  
