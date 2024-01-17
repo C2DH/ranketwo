@@ -16,7 +16,7 @@ Comme nous l’avons vu dans la vidéo «&#x202F;Transformation&#x202F;», des t
 
 <!-- briefing-student -->
 
-4.a. Transformation de l’apparence et narcissisme
+### 4.a. Transformation de l’apparence et narcissisme
 <!-- section-contents -->
 
 L’accès direct à la vie de célébrités qui font la promotion de certains modes de vie renforce la tendance à ne pas se satisfaire de son apparence ou personnalité. En parallèle, la technologie numérique permet d’assouvir son envie de se «&#x202F;fabriquer&#x202F;» ou «&#x202F;modeler&#x202F;» une personnalité différente de celle qui est déterminée par ses gènes. Dans cet exercice, vous explorerez ce phénomène, qui est lié à l’un des poèmes d’Ovide dans lequel un homme appelé Narcisse tombe amoureux de son reflet.
