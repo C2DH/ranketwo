@@ -57,7 +57,6 @@ Voici le lien vers le Google Books Ngram Viewer. Dans Ngram, saisissez les terme
 
 Pour un aperçu rapide du fonctionnement du Google Books Ngram Viewer, lisez [cet article de Lifewire](https://www.lifewire.com/google-books-ngram-viewer-1616701){:target="_blank"}.
 
-<!-- section --> 
 
 #### Métamorphose
 - Saisissez maintenant le terme «&#x202F;métamorphose&#x202F;» dans Ngram, sélectionnez la première période où le terme apparaît dans le bas, puis survolez les livres publiés dans cette période.
@@ -76,7 +75,7 @@ Transformation numérique
 - Lancez une recherche dans Google sur le terme «&#x202F;transformation numérique&#x202F;». Qu’est-ce qui vous frappe concernant les contextes dans lesquels ce terme est le plus fréquent&#x202F;?
 Le Google Books Ngram Viewer est un outil utile, mais il faut savoir qu’il a aussi ses inconvénients. Lisez [cet article paru dans le magazine américain *Wired*](https://www.wired.com/2015/10/pitfalls-of-studying-language-with-google-ngram/){:target="_blank"} et consacré aux pièges posés par les recherches dans Google Books Ngram.
 
-Évaluation
+#### Évaluation
 - Comment jugeriez-vous les résultats de vos recherches et évaluations maintenant, compte tenu des critiques émises dans l’article de Wired&#x202F;?
 
 <!-- section -->
