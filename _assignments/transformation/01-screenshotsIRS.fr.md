@@ -125,19 +125,19 @@ Il se peut que vous deviez faire des recherches supplémentaires sur Internet po
 - Regardez les images ci-dessous, choisissez-en deux et faites-en des captures d’écran.
 
 {:.mosaic}
-[![Charles Darwin, portrait de John Collier](/../../assets/images/transformation/1c/thumbs/charles-darwin-portrait-by-john-collier.jpg "Charles Darwin portrait by John Collier")](/../../assets/images/transformation/1c/charles-darwin-portrait-by-john-collier.jpg){:target="_blank"}
+[![Charles Darwin, portrait by John Collier](/../../assets/images/transformation/1c/thumbs/charles-darwin-portrait-by-john-collier.jpg "Portrait de Charles Darwin par John Collier")](/../../assets/images/transformation/1c/charles-darwin-portrait-by-john-collier.jpg){:target="_blank"}
 [![Morel](/../../assets/images/transformation/1c/thumbs/morel-v-afp-1.jpg "Morel")](/../../assets/images/transformation/1c/morel-v-afp-1.jpg){:target="_blank"}
-[![Sandro Botticelli - La nascita di Venere](/../../assets/images/transformation/1c/thumbs/sandro-botticelli-la-nascita-di-venere.jpg "Sandro Botticelli - La nascita di Venere")](/../../assets/images/transformation/1c/sandro-botticelli-la-nascita-di-venere.jpg){:target="_blank"}
-[![Barack Obama hope poster](/../../assets/images/transformation/1c/thumbs/barack-obama-hope-poster.jpg "Barack Obama hope poster")](/../../assets/images/transformation/1c/barack-obama-hope-poster.jpg){:target="_blank"}
-[![Boy children Christmas](/../../assets/images/transformation/1c/thumbs/boy-children-christmas.jpg "Boy children Christmas")](/../../assets/images/transformation/1c/boy-children-christmas.jpg){:target="_blank"}
-[![Man mask](/../../assets/images/transformation/1c/thumbs/man-mask.jpg "Man mask")](/../../assets/images/transformation/1c/man-mask.jpg){:target="_blank"}
-[![Postmortem children](/../../assets/images/transformation/1c/thumbs/postmortem-children.jpg "Postmortem children")](/../../assets/images/transformation/1c/postmortem-children.jpg){:target="_blank"}
+[![Sandro Botticelli - La nascita di Venere](/../../assets/images/transformation/1c/thumbs/sandro-botticelli-la-nascita-di-venere.jpg "Sandro Botticelli - La naissance de Vénus")](/../../assets/images/transformation/1c/sandro-botticelli-la-nascita-di-venere.jpg){:target="_blank"}
+[![Barack Obama hope poster](/../../assets/images/transformation/1c/thumbs/barack-obama-hope-poster.jpg "Affiche électorale de Barack Obama")](/../../assets/images/transformation/1c/barack-obama-hope-poster.jpg){:target="_blank"}
+[![Boy children Christmas](/../../assets/images/transformation/1c/thumbs/boy-children-christmas.jpg "Santa avec un garçon pour Noël")](/../../assets/images/transformation/1c/boy-children-christmas.jpg){:target="_blank"}
+[![Man mask](/../../assets/images/transformation/1c/thumbs/man-mask.jpg "Homme portant un masque")](/../../assets/images/transformation/1c/man-mask.jpg){:target="_blank"}
+[![Postmortem children](/../../assets/images/transformation/1c/thumbs/postmortem-children.jpg "Enfants morts")](/../../assets/images/transformation/1c/postmortem-children.jpg){:target="_blank"}
 [![Iris](/../../assets/images/transformation/1c/thumbs/iris.jpg "Iris")](/../../assets/images/transformation/1c/iris.jpg){:target="_blank"}
-[![Woman labor](/../../assets/images/transformation/1c/thumbs/woman-labor.jpg "Woman labor")](/../../assets/images/transformation/1c/woman-labor.jpg){:target="_blank"}
-[![Boy in blue long sleeve](/../../assets/images/transformation/1c/thumbs/boy-in-blue-long-sleeve.jpg "Boy in blue long sleeve")](/../../assets/images/transformation/1c/boy-in-blue-long-sleeve.jpg){:target="_blank"}
-[![Oscar Wild](/../../assets/images/transformation/1c/thumbs/oscar-wild.jpg "Oscar Wild")](/../../assets/images/transformation/1c/oscar-wild.jpg){:target="_blank"}
-[![Postmortem man](/../../assets/images/transformation/1c/thumbs/postmortem-man.jpg "Postmortem man")](/../../assets/images/transformation/1c/postmortem-man.jpg){:target="_blank"}
-[![Dora Maar Picasso](/../../assets/images/transformation/1c/thumbs/dora-maar-picasso.jpg "Dora Maar Picasso")](/../../assets/images/transformation/1c/dora-maar-picasso.jpg){:target="_blank"}
+[![Woman labor](/../../assets/images/transformation/1c/thumbs/woman-labor.jpg "Femme en train d'accoucher")](/../../assets/images/transformation/1c/woman-labor.jpg){:target="_blank"}
+[![Boy in blue long sleeve](/../../assets/images/transformation/1c/thumbs/boy-in-blue-long-sleeve.jpg "Garçon portant un t-shirt bleu aux manches longues")](/../../assets/images/transformation/1c/boy-in-blue-long-sleeve.jpg){:target="_blank"}
+[![Oscar Wilde](/../../assets/images/transformation/1c/thumbs/oscar-wild.jpg "Oscar Wilde")](/../../assets/images/transformation/1c/oscar-wild.jpg){:target="_blank"}
+[![Postmortem man](/../../assets/images/transformation/1c/thumbs/postmortem-man.jpg "Homme mort")](/../../assets/images/transformation/1c/postmortem-man.jpg){:target="_blank"}
+[![Dora Maar Picasso](/../../assets/images/transformation/1c/thumbs/dora-maar-picasso.jpg "Portrait de Dora Maar fait par Picasso")](/../../assets/images/transformation/1c/dora-maar-picasso.jpg){:target="_blank"}
 
 
 - Complétez les tableaux ci-dessous pour les deux images sélectionnées. Pour la première partie intitulée «&#x202F;Contexte de création&#x202F;», nous vous conseillons de suivre le même procédé qu’à l’exercice 1b et de télécharger la capture d’écran dans votre service de reconnaissance d’images favori. La liste des résultats qui s’affiche vous aidera à répondre aux questions de la première partie.
@@ -175,7 +175,7 @@ Voici un exemple pour vous donner une idée de la manière de répondre aux ques
 
 <!-- section -->
 
-#### Suggestions de lectures/vidéos
+### Suggestions de lectures/vidéos
 Trevor Owens, «&#x202F;Digital Sources & Digital Archives&#x202F;: The Evidentiary Basis of Digital History&#x202F;» in David Staley (dir.), *Companion to Digital History*. Wiley-Blackwell, 2017 https://osf.io/preprints/socarxiv/t5rdy 
 Text Encoding Initiative.
 
