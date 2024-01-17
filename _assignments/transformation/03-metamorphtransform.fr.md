@@ -53,7 +53,7 @@ Les contextes dans lesquels on utilise certains termes sont affectés par les ch
 
 Voici le lien vers le Google Books Ngram Viewer. Dans Ngram, saisissez les termes, séparés par une virgule, dans la barre de recherche du haut de la page. Appuyez sur «&#x202F;Search lots of books&#x202F;» pour que le Ngram Viewer affiche un graphique reprenant tous les termes que vous avez saisis. Regardez l’exemple ci-dessous, où l’on a saisi les termes «&#x202F;Albert Einstein&#x202F;», «&#x202F;Sherlock Holmes&#x202F;» et «&#x202F;Frankenstein&#x202F;». En dessous du graphique, vous voyez une série de périodes dans l’ordre chronologique. Il s’agit de liens vers une liste de livres qui ont été publiés dans la période en question et font partie du corpus de 18 millions de livres.
 
-![Google Ngram viewer](../../assets/images/transformation/3b/ngram-viewer-2020-13-07-with-tooltip.png "Google Ngram viewer")
+![Google Ngram viewer](../../../assets/images/transformation/3b/ngram-viewer-2020-13-07-with-tooltip.png "Google Ngram viewer")
 
 Pour un aperçu rapide du fonctionnement du Google Books Ngram Viewer, lisez [cet article de Lifewire](https://www.lifewire.com/google-books-ngram-viewer-1616701){:target="_blank"}.
 
