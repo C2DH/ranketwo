@@ -67,8 +67,9 @@ Regardez à nouveau une partie de la  vidéo «&#x202F;Transformation&#x202F;» 
 
 **En français&#x202F;:**
 - Contributeurs de Wikipédia. «&#x202F;Histoire du droit d'auteur&#x202F;». *Wikipédia, l'encyclopédie libre*. [https://fr.wikipedia.org/w/index.php?title=Histoire_du_droit_d%27auteur&oldid=208725258](https://fr.wikipedia.org/w/index.php?title=Histoire_du_droit_d%27auteur&oldid=208725258) (Page consultée le 17 janvier 2024).
+- Fily, M.F. «&#x202F;Connaître et utiliser les licences Creative Commons en 6 points&#x202F;». *CoopIST*.  [https://coop-ist.cirad.fr/](https://coop-ist.cirad.fr/). Montpellier (France)&#x202F;: CIRAD, 2015 
+[DOI](https://doi.org/10.18167/xtnv-d457)
 - Ministère de la culture. «&#x202F;Les licences Creative Commons&#x202F;». [Vidéo Dailymotion](https://dai.ly/x1tg4gv) 
-
 
 <!-- briefing-teacher -->
 
