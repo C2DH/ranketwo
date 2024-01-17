@@ -164,11 +164,11 @@ Voici un exemple pour vous donner une idée de la manière de répondre aux ques
 {:.table.border.table-sm.text-sm.text-bold-highlight.with-pairs}
 | 3. Contexte de numérisation et de publication en ligne  | Exemple de réponse |
 |--------------------------------|--------|
-| Sur quel site web l’avez-vous trouvée&#x202F;? | *Je l’ai trouvée à la fois sur des sites de vente d’images comme Alamy et sur des sites de collections d’art, comme wikiart. Il est intéressant de noter que certains sites demandent de payer pour recevoir une copie, alors que l’image fait l’objet d’une licence « Utilisation équitable » et peut être téléchargée gratuitement dans une résolution plus faible. I found it both on commercial images selling companies websites like Alamy, and in websites of collections, like [wikiart](https://www.wikiart.org/en/pablo-picasso/portrait-of-dora-maar-1937-1){:target="_blank"}. An interesting thing to note is that you can end up on a website where you have to pay to receive a copy, whereas the image is licensed under ‘fair use’ and can be downloaded without costs, in a lower resolution*
-| Who published it online, when and where? | *This is not possible to find out online and would require an investigation based on contact with the owner of the painting, that is, the museum*
-| Why and how was it digitised | *Same as above*
-| Was information lost or added? | *Yes, its materiality was lost, the colors are different, the dimensions are different, and it has changed into digits and automatically created metadata when being photographed, being converted to a lower resolution to make it suitable for upload. When uploaded, the structure of the bits changed again, and new metadata was added.*
-| Who is the owner of the digital copy? | *Probably the Picasso Museum, but it is being shared under the principle of ‘fair use’ and for educational and research purposes a lower resolution is freely available.*
+| Sur quel site web l’avez-vous trouvée&#x202F;? | *Je l’ai trouvée à la fois sur des sites de vente d’images comme Alamy et sur des sites de collections d’art, comme [wikiart](https://www.wikiart.org/en/pablo-picasso/portrait-of-dora-maar-1937-1){:target="_blank"} ou encore sur le site web du Musée Picasso. Il est intéressant de noter que l’image fait l’objet de licences variées.*
+| Qui l’a publiée en ligne, quand et où&#x202F;? | *Ces informations ne sont pas disponibles en ligne et cela nécessiterait des recherches auprès du propriétaire du tableau, c’est-à-dire le musée.*
+|Pourquoi et comment a-t-elle été numérisée | *Même réponse que ci-dessus*
+| Des informations ont-elles été perdues ou ajoutées&#x202F;? | *Oui, le tableau a perdu sa matérialité, les couleurs sont différentes, les dimensions sont différentes, il a été transformé en chiffres et des métadonnées ont été automatiquement créées lorsqu’il a été photographié et converti dans une résolution plus basse pour faciliter son téléchargement. Lorsqu’il est téléchargé, la structure des bits est à nouveau modifiée et de nouvelles métadonnées sont ajoutées.*
+| Qui est le propriétaire de l’exemplaire numérique&#x202F;? | *Les ayants-droit de l'artiste, Picasso Succession, représentés par une société dédiée (Picasso Administration). Toute demande d'utilisation de l'image à des fins pédagogiques et de recherche doit être envoyée au Musée Picasso.*
 
 
 
