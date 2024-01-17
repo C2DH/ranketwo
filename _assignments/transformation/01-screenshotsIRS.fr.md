@@ -168,7 +168,7 @@ Voici un exemple pour vous donner une idée de la manière de répondre aux ques
 | Qui l’a publiée en ligne, quand et où&#x202F;? | *Ces informations ne sont pas disponibles en ligne et cela nécessiterait des recherches auprès du propriétaire du tableau, c’est-à-dire le musée.*
 |Pourquoi et comment a-t-elle été numérisée | *Même réponse que ci-dessus*
 | Des informations ont-elles été perdues ou ajoutées&#x202F;? | *Oui, le tableau a perdu sa matérialité, les couleurs sont différentes, les dimensions sont différentes, il a été transformé en chiffres et des métadonnées ont été automatiquement créées lorsqu’il a été photographié et converti dans une résolution plus basse pour faciliter son téléchargement. Lorsqu’il est téléchargé, la structure des bits est à nouveau modifiée et de nouvelles métadonnées sont ajoutées.*
-| Qui est le propriétaire de l’exemplaire numérique&#x202F;? | *Les ayants-droit de l'artiste, Picasso Succession, représentés par une société dédiée (Picasso Administration). Toute demande d'utilisation de l'image à des fins pédagogiques et de recherche doit être envoyée au Musée Picasso.*
+| Qui est le propriétaire de l’exemplaire numérique&#x202F;? | *[Les ayants-droit de l'artiste, Picasso Succession, représentés par une société dédiée (Picasso Administration)](https://www.museepicassoparis.fr/fr/droit-des-images){:target="_blank"}. Toute demande d'utilisation de l'image à des fins pédagogiques et de recherche doit être envoyée au Musée Picasso.*
 
 
 
