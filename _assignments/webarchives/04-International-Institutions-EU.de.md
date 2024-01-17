@@ -159,7 +159,7 @@ Berücksichtigen Sie dabei Folgendes:
 
 
 ### Empfehlungen Lektüre/Video
-<!-- section-content -->
+<!-- section-contents -->
 -	Amaro, Silvia. „How does the EU work“. CNBC International. 28. März 2019. Video, 05:29. [Youtube-Video](https://www.youtube.com/watch?v=9eufLQ3sew0){:target='_blank'}
 -	Europäische Komission. „Archiving“. Letzter Zugriff: 7. Dezember 2022. [Website](https://wikis.ec.europa.eu/display/WEBGUIDE/01.+Archiving){:target='_blank'}
 
