@@ -176,6 +176,8 @@ Voici un exemple pour vous donner une idée de la manière de répondre aux ques
 <!-- section -->
 
 ### Suggestions de lectures/vidéos
+<!-- section-contents -->
+
 Trevor Owens, «&#x202F;Digital Sources & Digital Archives&#x202F;: The Evidentiary Basis of Digital History&#x202F;» in David Staley (dir.), *Companion to Digital History*. Wiley-Blackwell, 2017 https://osf.io/preprints/socarxiv/t5rdy 
 Text Encoding Initiative.
 
