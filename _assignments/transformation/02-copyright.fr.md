@@ -40,15 +40,19 @@ Si vous avez involontairement violé une loi sur les droits d’auteur, le site 
 <!-- section --> 
 
 ### 2.b Différences entre les lois sur les droits d’auteur
+<!-- section-contents -->
 
 Les informations de l’exercice ci-dessus vous donnent peut-être l’impression que les règles sur les droits d’auteur s’appliquent à tous les pays du monde qui sont connectés au Web via Internet. Mais il n’en est rien. En réalité, les lois sur les droits d’auteur peuvent être très différentes selon le pays d’origine où le contenu a été produit ou dans lequel son créateur réside. Pour cet exercice, nous allons brièvement examiner certaines de ces différences entre divers pays.
 
 Pour avoir une idée de cette diversité, lisez les pages 197 à 204 de l’article [The Tangled Web: Cross-Border Conflicts of Copyright Law in the Age of Internet Sharing](https://lawecommons.luc.edu/cgi/viewcontent.cgi?article=1178&context=lucilr) par Elisabeth Fiordalisi, de la Loyola University Chicago School of Law, sur les différences des droits d’auteur entre les pays, puis répondez aux questions ci-dessous.
 - Selon Mme Fiordalisi, quelles sont les principales différences des droits d’auteur entre l’Europe et les États-Unis ? (voir page 204)
 - Qu’est-ce qu’un «&#x202F;internaute&#x202F;» et quand ce terme est-il entré dans l’usage ? (faites une recherche complémentaire sur le Web)
-- Si vous utilisiez une image soumise à licence sans autorisation sur un site Web que vous avez créé dans votre pays de résidence, mais qui est accessible dans le monde entier, quelles seraient les conséquences ?
+- Si vous utilisiez une image soumise à licence sans autorisation sur un site Web que vous avez créé dans votre pays de résidence, mais qui est accessible dans le monde entier, quelles seraient les conséquences&#x202F;?
+
+<!-- section --> 
 
 ### 2.c Quel type de créativité a été utilisé dans la vidéo « Transformation » ?
+<!-- section-contents -->
 
 Les droits d’auteur ont été créés pour protéger les créations uniques de personnes. Si l’on considère la grande variété de technologies, de textes, de motifs, de sons et d’images qui sont utilisés dans une animation, l’on peut dire que cette dernière résulte de nombreux types de créativité. Dans cet exercice, nous vous mettons au défi de découvrir quels apports créatifs ont été nécessaires pour élaborer la vidéo «&#x202F;Transformation&#x202F;», et comment nous avons réussi à acheter les images sans payer cher.
 Regardez à nouveau une partie de la  vidéo «&#x202F;Transformation&#x202F;» en ayant à l’esprit les questions suivantes&#x202F;:
@@ -56,7 +60,10 @@ Regardez à nouveau une partie de la  vidéo «&#x202F;Transformation&#x202F;» 
 • Quel type de contenu a été utilisé pour créer la vidéo ? (son, texte, image) Aidez-vous en examinant l’une des premières versions du story-board qui a été créé pour la vidéo «&#x202F;Transformation&#x202F;».
 • Les créateurs de la vidéo «&#x202F;Transformation&#x202F;» ont-ils pris des risques concernant l’utilisation des images&#x202F;? Pour vous inspirer, jetez un coup d’œil aux colonnes I et J du document du story-board ci-dessus.
 
-### Suggestions de lectures/vidéos 
+<!-- section --> 
+
+### Suggestions de lectures/vidéos
+<!-- section-contents --> 
 
 - Pour en savoir plus sur la première loi moderne en matière de droits d’auteur&#x202F;: Doteasy. “THE STATUTE OF ANNE – 1710.” History of Copywrite. 2005. [Site Web](http://historyofcopyright.org/pb/wp_ff342f50/wp_ff342f50.html)
 - Cohrs, Lauren. «&#x202F;4 Easiest Ways to Tell if an Image is Copyrighted&#x202F;». *Geminos Creative*. 16 janvier 2014. [Billet de blog](https://www.drumbeatmarketing.net/marketing-blog/4-easiest-ways-tell-image-copyrighted)

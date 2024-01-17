@@ -57,15 +57,15 @@ Voici le lien vers le Google Books Ngram Viewer. Dans Ngram, saisissez les terme
 
 Pour un aperçu rapide du fonctionnement du Google Books Ngram Viewer, lisez [cet article de Lifewire](https://www.lifewire.com/google-books-ngram-viewer-1616701){:target="_blank"}.
 
+<!-- section --> 
 
-
-### Métamorphose
+#### Métamorphose
 - Saisissez maintenant le terme «&#x202F;métamorphose&#x202F;» dans Ngram, sélectionnez la première période où le terme apparaît dans le bas, puis survolez les livres publiés dans cette période.
 - Quels sont les thèmes des livres ayant le mot «&#x202F;métamorphose&#x202F;» dans le titre ? Dans quelle section d’une bibliothèque trouveriez-vous ces livres ? Comment seraient-ils référencés pour être retrouvés en ligne&#x202F;?
 - Déplacez-vous maintenant sur la dernière période, ouvrez le lien et survolez les titres qui s’affichent. Y a-t-il un changement du type de contexte dans lequel le terme est utilisé&#x202F;? Sa signification est-elle la même que dans la première période&#x202F;?
 - À présent, ouvrez quelques liens d’autres périodes. Trouvez-vous le titre d’un livre dans lequel le terme est utilisé différemment&#x202F;?
 
-### Transformation
+#### Transformation
 - Insérez une virgule après «&#x202F;métamorphose&#x202F;» et ajoutez le terme «&#x202F;transformation&#x202F;» à votre recherche.
 - Qu’est-ce qui vous frappe lorsque vous comparez les deux graphiques&#x202F;?
 - Comparez les titres des livres de la première période à ceux de la période où un pic est enregistré. Voyez-vous une différence dans les thèmes des livres dont le titre contient le mot «&#x202F;transformation&#x202F;» qui ont été publiés dans la première période, par rapport à ceux qui ont été publiés dans la période du pic ? Identifiez et énumérez les thèmes de la première période et ceux du pic.
@@ -76,7 +76,7 @@ Transformation numérique
 - Lancez une recherche dans Google sur le terme «&#x202F;transformation numérique&#x202F;». Qu’est-ce qui vous frappe concernant les contextes dans lesquels ce terme est le plus fréquent&#x202F;?
 Le Google Books Ngram Viewer est un outil utile, mais il faut savoir qu’il a aussi ses inconvénients. Lisez [cet article paru dans le magazine américain *Wired*](https://www.wired.com/2015/10/pitfalls-of-studying-language-with-google-ngram/){:target="_blank"} et consacré aux pièges posés par les recherches dans Google Books Ngram.
 
-### Évaluation
+#### Évaluation
 - Comment jugeriez-vous les résultats de vos recherches et évaluations maintenant, compte tenu des critiques émises dans l’article de Wired&#x202F;?
 
 <!-- section -->
