@@ -36,7 +36,7 @@ Das Live-Web besteht aus allen Webseiten, auf die Sie in diesem Moment zugreifen
 Um einen ersten Einblick in Web-Archive zu erhalten, lesen Sie sich zunächst bitte drei Abschnitte aus der Veröffentlichung 
  [*Using Web Archives in Research: An Introduction* by Janne Nielsen (Aarhus: NetLab, 2016)](https://dighumlab.org/wp-content/uploads/2017/06/Nielsen_Using_Web_Archives_in_Research.pdf)
 
-[![nielsen](../../assets/images/nielsen.png "nielsen")](https://dighumlab.org/wp-content/uploads/2017/06/Nielsen_Using_Web_Archives_in_Research.pdf){:target="_blank"}
+[![nielsen](../../../assets/images/nielsen.png "nielsen")](https://dighumlab.org/wp-content/uploads/2017/06/Nielsen_Using_Web_Archives_in_Research.pdf){:target="_blank"}
 
 Answer the questions below:
 1.	Abschnitt 1 „Introduction“ (S. 6–10)
