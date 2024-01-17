@@ -69,7 +69,7 @@ In dieser Unteraufgabe werden Sie die Geschichte des Internet Archive erkunden, 
 
 Wenn man bedenkt, dass [im Jahr 2020 jede Minute ca. 360–380 neue Websites erstellt wurden](https://siteefy.com/how-many-websites-are-there/){:target='_blank'}, hat sich Kahle eine fast unmögliche Aufgabe gestellt. Die Wayback Machine des Internet Archive sammelt Material aus dem Web, indem Roboter, sogenannte [Webcrawler](https://de.wikipedia.org/wiki/Webcrawler){:target='_blank'}, so programmiert werden, dass sie zu bestimmten Zeitpunkten „Schnappschüsse“ von bestimmten Webseiten machen. Diese Schnappschüsse sind keine Screenshots, sondern ermöglichen es den Nutzern, auf interaktive Weise durch das Web der Vergangenheit zu navigieren, obwohl sie nur eine Auswahl von Webseiten und nicht die gesamte Geschichte einer Website wiedergeben. Das Ausmaß dessen, was dennoch archiviert wird, ist nach wie vor beeindruckend, insbesondere wenn man bedenkt, dass sich [die Anzahl der Seiten im Live-Web auf etwa 6 Milliarden beläuft](https://www.worldwidewebsize.com/){:target='_blank'}, während die Internet Archive Wayback Machine Zugang zu mehr als 480 Milliarden archivierten Webseiten bietet (Stand November 2020). Außerdem ist das Internet Archive nicht mehr die einzige Organisation, die das Web archiviert. Institutionen auf nationaler Ebene (meist Nationalbibliotheken) in Irland, Dänemark, Luxemburg, der Schweiz, Portugal, Frankreich und Großbritannien, um nur einige zu nennen, kuratieren Web-Inhalte, die für ihr jeweiliges Land relevant sind. Die beiden letztgenannten Länder haben Web-Archive sogar als eine Kategorie in ihre Pflichtexemplare aufgenommen, was bedeutet, dass Webseiten, die sich auf ihre Bürger oder ihren Staat beziehen, als Veröffentlichungen betrachtet werden, die für die Aufzeichnungen der offiziellen Geschichte dieser Länder von entscheidender Bedeutung sind.
 
-[![kahle servers](../../assets/images/kahle-servers.jpg "kahle servers")](https://www.flickr.com/photos/jblyberg/7007299440
+[![kahle servers](../../../assets/images/kahle-servers.jpg "kahle servers")](https://www.flickr.com/photos/jblyberg/7007299440
 https://live.staticflickr.com/7106/7007299440_4c745e8f05_w_d.jpg){:target="_blank"}
 Bildnachweis: J.Blyberg
 
@@ -127,7 +127,7 @@ Rufen Sie zunächst die Wayback Machine [https://web.archive.org/](https://web.a
 
 
 google
-[![homepage-google](../../assets/images/homepage-google.png "homepage-google")](//https://web.archive.org/web/*/https://www.google.com){:target="_blank"}
+[![homepage-google](../../../assets/images/homepage-google.png "homepage-google")](//https://web.archive.org/web/*/https://www.google.com){:target="_blank"}
 
 Schauen Sie sich die Notiz unter der roten Schaltfläche `Calendar` an. Wie viele Aufnahmen der Webseite unter dieser URL wurden gemacht und in welchem Zeitraum?
 
