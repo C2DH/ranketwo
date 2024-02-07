@@ -24,7 +24,7 @@ outcomes:
 order: 1
 ---
 In the clip above, engineer Lars Wieneke explains how over time web technologies increasingly broadened the range and scale of data that could be shared and shown through the web. To illustrate these changes he elaborates on the two websites about the interview collection of the psychologist David Boder, the topic of another lesson on Ranke2, that were developed in 2000 and 2009.
-Understanding the changes brought about by software such as Flash Player and languages such as XML (Extensible Markup Language) and PHP (Hypertext Preprocessor) is crucial in being able to apply source criticism to a website. However, as historians we should first place the topic into its historical context: how did websites evolve in the first place and what technologies were needed to make them work?
+Understanding the changes brought about by software and languages such as [XML (Extensible Markup Language)](https://en.wikipedia.org/wiki/XML) and [PHP (Hypertext Preprocessor)](https://en.wikipedia.org/wiki/PHP) is crucial in being able to apply source criticism to a website. However, as historians we should first place the topic into its historical context: how did websites evolve in the first place and what technologies were needed to make them work?
 These assignments will briefly explore the history of the web and the technological developments that make it work. They will then dive into the differences between the web and the internet, before discussing the physical infrastructure that allows the world to be globally connected.
 
 
@@ -37,7 +37,7 @@ Watch this 35 min documentary created by the Web Foundation about how Tim Berner
 
 <!-- briefing-student -->
 
-### 1.a The history of the web and the technology behind it | ? Min
+### 1.a The history of the web and the technology behind it
 <!-- section-contents -->
 
 -	This short article, also published by the Web Foundation, provides insight into the role of Tim Berners Lee in a nutshell: “History of the Web”
@@ -98,7 +98,7 @@ To connect the differences between the web and the internet to your own use of b
 <!-- section-contents -->
 
 Even if we understand the principles, history and evolution of the internet and the web, it can still be hard to fully grasp the materiality of our information systems. Where do we find tangible traces of the internet in our environment and what do they look like?
-Despite frequent references to “the cloud” and “cyberspace” and the widespread use of WiFi (all of which contribute to the belief that the web and the internet are intangible and transparent), the internet in fact consists of highly tangible elements. For an introduction to how the internet works, watch this TED lecture by Andrew Blum: “What is the Internet, really?” (2012) (https://youtu.be/XE_FPEFpHt4) (12 mins).
+Despite frequent references to “the cloud” and “cyberspace” and the widespread use of WiFi (all of which contribute to the belief that the web and the internet are intangible and transparent), the internet in fact consists of highly tangible elements. For an introduction to how the internet works, watch this [TED lecture by Andrew Blum: “What is the Internet, really?” (2012)](https://youtu.be/XE_FPEFpHt4) (12 mins).
 
 [card](what-internet-really)
 

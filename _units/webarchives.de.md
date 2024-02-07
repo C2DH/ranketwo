@@ -1,7 +1,8 @@
 ---
-title: "The Web as a historical source; what historians need to know"
+title: "Das Web als historische Quelle – was Historiker wissen sollten"
 layout: unit
 publication_date: 2021-01-25
+translation_date: 2023-12-20
 toc: on
 tags:
   - web technology
@@ -27,9 +28,9 @@ order: 3
 cover:
   url: https://i.vimeocdn.com/video/718778251-e956998ac337adff4e56093edf452aed2f5895d0b136df3cd6a8bc4062f6c50c-d?mw=900&mh=506&q=70
 og:
-  description: "Lesson about the fundamentals of the web and web archiving for historians."
+  description: "Lektion über die Grundlagen des Webs und der Web-Archivierung für Historiker"
 ---
 
-Lesson about the fundamentals of the web and web archiving for historians.
+Lektion über die Grundlagen des Webs und der Web-Archivierung für Historiker
 
 <!-- more -->
