@@ -11,11 +11,9 @@ documents:
   - webarchives-luxembourg
 order: 3
 ---
-Heureusement, Internet Archive n’est pas la seule institution qui vise à archiver le Web. Plusieurs autres s’en chargent à plus petite échelle, en général concernant les sites Web considérés comme importants ou pertinents pour le pays en question. Des pays européens tels que la Finlande, la France, l’Irlande, l’Espagne ou la Suède ont même intégré les archives Web dans leurs dépôts légaux nationaux, accordant ainsi aux sites Web un statut similaire à celui attribué à des ressources à archiver comme les livres ou les journaux. Voyez par exemple les cas du Royaume-Uni (https://www.webarchive.org.uk), du Danemark (http://netarkivet.dk/in-english/) et de la France (https://www.bnf.fr/fr/archives-de-linternet). L’archivage de la totalité du Web n’a cependant rien de facile. La croissance exponentielle des contenus en ligne, surtout depuis les années 2000, rend impossible pour les départements d’archivage et les organisations d’archiver chaque site Web et ses diverses versions apparues au fil du temps. Bien que ces institutions aient accru leur expertise technologique, une diminution de l’activité au niveau national peut être observée, menant à une plus forte dépendance à Internet Archive. Ce n’est heureusement pas le cas au Luxembourg, où la Bibliothèque nationale du Luxembourg (BnL) a été chargée d’archiver le Web luxembourgeois depuis 2016.
+Heureusement, Internet Archive n’est pas la seule institution qui vise à archiver le Web. Plusieurs autres s’en chargent à plus petite échelle, en général concernant les sites Web considérés comme importants ou pertinents pour le pays en question. Des pays européens tels que la Finlande, la France, l’Irlande, l’Espagne ou la Suède ont même instauré le dépôt légal pour les sites Web de leur domaines nationaux respectifs. Nous pouvons évoquer à cet égard les exemples du [Royaume-Uni](https://www.webarchive.org.uk){:target='_blank'}, du [Danemark](http://netarkivet.dk/in-english/){:target='_blank'} et de la [France](https://www.bnf.fr/fr/archives-de-linternet){:target='_blank'}. 
 
-Fortunately, the Internet Archive is not the only institution that is trying to archive the web. Several other institutions are active on a smaller scale, usually for websites considered important or relevant to specific countries. Several European countries, such as Finland, France, Ireland, Spain and Sweden, have even included web archives in the [legal deposit](https://en.wikipedia.org/wiki/Legal_deposit){:target='_blank'} of their country, which means that they have attributed a similar status to websites as that given to archive material such as books and newspapers for centuries. See the examples of the [UK](https://www.webarchive.org.uk){:target='_blank'}, [Denmark](http://netarkivet.dk/in-english/){:target='_blank'} and [France](https://www.bnf.fr/fr/archives-de-linternet){:target='_blank'}.
-
-Yet the task of archiving the entire web is not an easy one. The explosive growth of online content, especially since the 2000s, has made it impossible for archives and organisations to archive every single website and its various versions over time. Even as the technological expertise at these institutions has increased, a decrease in activities at the national level can be observed, which leads to a stronger dependency on the IA. This is luckily not the case in Luxembourg, where the National Library (Bibliothèque nationale du Luxembourg or BnL) has been tasked with archiving the Luxembourgish web since 2016.
+L’archivage de la totalité du Web n’a cependant rien de facile. La croissance exponentielle des contenus en ligne, surtout depuis les années 2000, rend impossible pour les départements d’archivage et les organisations d’archiver chaque site Web et ses diverses versions apparues au fil du temps. Bien que ces institutions aient accru leur expertise technologique, une diminution de l’activité au niveau national peut être observée, menant à une plus forte dépendance à Internet Archive. Ce n’est heureusement pas le cas au Luxembourg, où la Bibliothèque nationale du Luxembourg (BnL) a été chargée d’archiver le Web luxembourgeois depuis 2016.
 
 [card](webarchives-luxembourg)
 
@@ -23,29 +21,27 @@ Yet the task of archiving the entire web is not an easy one. The explosive growt
 
 <!-- briefing-student -->
 
-### 3.a Challenges and limits of preservation: The example of the Luxembourg Web Archive
+### 3.a Défis et limites de la préservation, l’exemple du Luxembourg Web Archive
 <!-- section-contents -->
-In this sub-assignment, the [Luxembourg Web Archive (LWA)](https://www.webarchive.lu/){:target='_blank'}) managed by the BnL will be explored to identify the benefits, limitations and challenges of web archiving.
-Web archivists have the task of defining the parameters and criteria for their digital collection of web pages. They have to decide which types of sites they should archive (i.e. government sites, news agency sites, museum sites, personal blogs, etc.), how many times a year snapshots should be taken, and how this content can be made accessible to their audience.
+Dans cet, nous allons explore le [Luxembourg Web Archive (LWA)](https://www.webarchive.lu/){:target='_blank'}, géré par la BnL, afin de déterminer les avantages, les limitations et les défis de l’archivage du Web. Les archivistes du Web ont pour tâche de définir les paramètres et les critères applicables aux collectes de pages Web dont ils ont la responsabilité. Ils doivent décider quels types de sites sont à archiver (sites gouvernementaux, d’agences de presse, de musées, blogs personnels, etc.), combien de fois par an les instantanés doivent être pris, et comment ces contenus peuvent être rendus accessibles à leur public.
 
 {:style='text-align: center'}
 ![lux-web](/../../assets/images/lux-web.png "lux-web")
 
-Imagine that you work at the National Library of Luxembourg and your job is to help select and collect all the relevant information on the web that pertains to the Grand Duchy of Luxembourg. Now imagine that a secondary school student wants to understand how the LWA works and has asked you to help explain it to her.
-Using the information found on the [main page of the Luxembourg Web Archive](https://www.webarchive.lu/){:target='_blank'}), its [FAQ section](https://www.webarchive.lu/faq/){:target='_blank'}) and the [“How it Works” page](https://www.webarchive.lu/how-it-works/){:target='_blank'}), answer the following questions that are posed by this imaginary secondary school student:
+Admettons que vous travaillez à la Bibliothèque nationale du Luxembourg et que votre fonction est de participer à la sélection et collecte de toutes les informations pertinentes en lien avec le Web appartenant au Grand-Duché de Luxembourg. Imaginez à présent qu’une étudiante d’école secondaire voudrait comprendre comment le LWA fonctionne et vous demande de le lui expliquer. En vous aidant des informations que vous trouverez sur [la page d'accueil du Luxembourg Web Archive](https://www.webarchive.lu/){:target='_blank'}, dans sa section [FAQ](https://www.webarchive.lu/faq/){:target='_blank'} et sur sa page qui explique comment cela fonctionna, intitulée [«&#x202F;How it Works&#x202F;»](https://www.webarchive.lu/how-it-works/){:target='_blank'}, répondez aux questions suivantes qui sont posées par cette étudiante d’école secondaire fictive&#x202F;:
 
 {:style='margin: 1rem auto; max-width: 400px'}
 [![How it Works](https://image.thum.io/get/https://www.webarchive.lu/how-it-works/ "How it Works")](https://www.webarchive.lu/how-it-works/){:target='_blank'}
 
--	Regarding the collection policy of the LWA, who or what are Luxembourgish publishers?
--	How many times a year do you (the BnL) archive the Luxembourgish web?
--	Which types of websites do you archive (e.g. government sites, news agency sites, personal blogs, etc.)?
--	How can someone access the information in the LWA?
--	What is your process for collecting information for the LWA? (Hint: it’s a three-step process)
--	What are the three different types of crawls used by the LWA and what are the differences between them?
--	What are some of the reasons that you might decide not to collect a website?
+- Concernant la politique de collecte du LWA, qui ou que sont les éditeurs Web luxembourgeois&#x202F;?
+- Combien de fois par an archivez-vous (la BnL) le Web luxembourgeois&#x202F;?
+- Quels types de sites Web archivez-vous (sites gouvernementaux, d’agences de presse, blogs personnels, etc.)&#x202F;?
+- Comment accède-t-on aux informations du LWA&#x202F;?
+- Quelle procédure suivez-vous pour collecter les informations destinées au LWA ? (Indice&#x202F;: il s’agit d’une procédure en trois étapes)
+- Quels sont les trois types de robots utilisés par le LWA et quelles sont leurs différences&#x202F;?
+- Quelles sont quelques-unes des raisons pour lesquelles vous pourriez décider de ne pas collecter un site Web&#x202F;?
 
-| use the answer form to write down the answers |
+| Saisissez vos réponses dans le formulaire de réponse |
 
 <!-- section -->
 
