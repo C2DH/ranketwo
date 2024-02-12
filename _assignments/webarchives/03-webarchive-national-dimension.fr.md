@@ -46,52 +46,54 @@ Admettons que vous travaillez à la Bibliothèque nationale du Luxembourg et que
 <!-- section -->
 
 
-### 3.b Exploring Luxembourg web content
+### 3.b Explorer le contenu du Web du Luxembourg
 <!-- section-contents -->
 
-The example of the LWA in assignment 3.a shows the contradiction between the principle of openness and the limits of institutions in sustaining an open system when they also have to take into account the rights of copyright holders. Because of the latter, we do not have online access to the information within the LWA, as it can only be used within certain library premises. However, we are lucky that some of the content in the LWA is also available online through the Internet Archive’s Wayback Machine (WM). As such, this lesson makes use of the Wayback Machine, rather than the LWA, for the next sub-assignment on archived Luxembourgish web content. The BnL has a contract with IA to crawl the Luxembourgish web, meaning that they offer the same content, but the BnL offers some complementary tools to explore the collections.
+L’exemple du LWA à l’exercice 3.a montre la contradiction qu’il y a entre, d'une part, le principe d’ouverture et, d'autre part, les contraintes imposées par la nécessité de tenir compte des droits de propriété intellectuelle. C'est pour composer avec ce type de contraintes que les archives du LWA ne sont pas accessibles en ligne, mais seulement consultables dans certaines bibliothèques. C'est donc une chance qu’une partie des contenus du LWA est aussi accessible en ligne par le biais de la Wayback Machine (WM) d’Internet Archive. D’ailleurs, la présente leçon utilise la Wayback Machine, non pas le LWA, pour le prochain exercice consacré au contenu du Web luxembourgeois archivé. La BnL a conclu un contrat avec IA pour indexer le Web luxembourgeois, ce qui signifie qu’il offre le même contenu, mais la BnL fournit des outils complémentaires pour explorer les collections.
 
-Download the teaching aid for working with the interface of the Wayback Machine from; url
+Allez à la [Wayback Machine d’Internet Archive](https://web.archive.org/){:target='_blank'} puis copiez et collez dans la barre de recherche l’URL `www.luxembourg.lu`et appuyez sur la touche «&#x202F;Enter&#x202F;». Vous devriez voir s’afficher [la page](https://web.archive.org/web/*/www.luxembourg.lu){:target='_blank'}. En vous référant au guide d’utilisation de l’interface de la WM, répondez aux questions suivantes&#x202F;:
+- Choisissez deux éléments de cette page qui apportent des informations sur la façon dont Internet Archive a archivé la page Web qui correspond à cette URL spécifique.
+- Choisissez un élément qui apporte des informations sur la page Web archivée en soi. 
+- Que nous apprennent les informations disponibles sous le calendrier&#x202F;? Combien de captures du sitewww.luxembourg.lu ont été faites et sur quelle période&#x202F;? Ces captures sont-elles réparties dans le temps de manière égale&#x202F;?
 
-Go to the Internet Archive’s [Wayback Machine](https://web.archive.org/){:target='_blank'}), copy and paste the URL www.luxembourg.lu and press the “Enter” key. You should arrive on the page <https://web.archive.org/web/*/www.luxembourg.lu>{:target='_blank'}.
-Referring to the WM interface user guide, answer the following questions:
+| Saisissez vos réponses dans le formulaire de réponse |
 
--	Select two elements on this page that provide information about how the Internet Archive has archived the web page that corresponds to this specific URL.
--	Select one element that provides information about the archived web page itself.
--	What does the note under the calendar tell us? How many captures of the site www.luxembourg.lu have been made and over what period? Is the distribution of captures evenly spread over time?
+Sous la barre de recherche d’URL, cliquez sur le bouton «&#x202F;Summary&#x202F;» pour afficher les statistiques et les informations détaillées concernant les instantanés archivés de la page Web `www.luxembourg.lu`.
+- Combien de captures du site ont été faites en 1996&#x202F;? Combien en 2005&#x202F;?
+- Que peut-on déduire de cette constatation&#x202F;? Pourquoi pensez-vous que les captures sont peut-être réparties de façon inégale dans le temps&#x202F;?
+- Qu’est-ce que cela implique pour l’utilisation de la Wayback Machine comme ressource pour archiver des pages Web&#x202F;?
 
-| use the answer form to write down the answers |
+| Saisissez vos réponses dans le formulaire de réponse |
 
-Under the URL search bar, click on the “Summary” button for statistics and details about the archived snapshots of the `www.luxembourg.lu` web page.
--	How many captures of the site were made in 1996? How many in 2005?
--	What can be inferred from this? Why do you think the number of captures might be uneven over time?
--	What does this mean for using the Wayback Machine as a resource for archiving web pages?
 
-| use the answer form to write down the answers |
+Retournez maintenant à la vue «&#x202F;Calendar&#x202F;». Pointez votre souris sur la barre chronologique qui affiche toutes les années auxquelles l’URL a été sauvegardée puis cliquez sur l’année 1996. À présent, sélectionnez la capture réalisée le 9 novembre 1996 à 20:07:38. Vous devriez voir s’afficher cette page archivée&#x202F;: [https://web.archive.org/web/19961109200738/http://www.luxembourg.lu/](https://web.archive.org/web/19961109200738/http://www.luxembourg.lu/).
+- Que montre cette page&#x202F;?
+- Contient-elle des informations sur la date de création ou l’auteur&#x202F;? Qu’en est-il des informations temporelles&#x202F;?
 
-Now return to the “Calendar” view. Between the line indicating the number of times that the web page has been saved and the calendar below, hover over the timeline and click on the year 1996 (you might need to scroll to the left). Next, select the snapshot taken on 9 November 1996 at 20:07:38. This should bring you to the archived page: [https://web.archive.org/web/19961109200738/http://www.luxembourg.lu/](https://web.archive.org/web/19961109200738/http://www.luxembourg.lu/){:target='_blank'}
--	What does this page show?
--	Is there any information on the date of creation or the author? What about any temporal information?
+| Saisissez vos réponses dans le formulaire de réponse |
 
-| use the answer form to write down the answers |
+En suivant la même démarche que ci-dessus, allez à la capture effectuée le 22 mars 2003 réalisé à 18:49:25: [https://web.archive.org/web/20030322184925/http://www.luxembourg.lu/](https://web.archive.org/web/20030322184925/http://www.luxembourg.lu/)
+- Que montre cette page&#x202F;?
+- Contient-elle d’autres informations sur la source (date, auteur, etc.)&#x202F;? Quels éléments semblent pertinents ou manquants&#x202F;?
+- En cliquant sur «&#x202F;About this capture&#x202F;», en haut à droite, qu'apprenons-nous&#x202F;?
+- À votre avis, quel est le changement le plus visible entre l’archive du 9 novembre 1996 et celle du 22 mars 2003&#x202F;?
 
-Following the same steps above, now go to the archived snapshot from 22 March 2003 taken at 18:49:25: [https://web.archive.org/web/20030322184925/http://www.luxembourg.lu/](https://web.archive.org/web/20030322184925/http://www.luxembourg.lu/){:target='_blank'}
--	What does this page show?
--	Is there any more information about the source (date, author, etc.)? What elements seem to be relevant or missing?
--	What does the “About this capture” button in the upper right-hand corner tell us?
--	In your opinion, what is the most noticeable change between the archive of 9 November 1996 and that of 22 March 2003?
+| Saisissez vos réponses dans le formulaire de réponse |
 
-| use the answer form to write down the answers |
+Pour terminer, revenez à la vue «&#x202F;Calendar&#x202F;» et choisissez une capture de votre choix effectuée au cours des cinq dernières années. Y at-t-il des choses qui vous interpellent particulièrement&#x202F;?
 
-Lastly, go back to the “Calendar” view and choose a snapshot taken within the last five years. What are some of the first things you notice about it?
+| Utilisez le formulaire de réponse | 
 
-| use the answer form to write down the answers |
+Au cours de cet exercice, vous avez eu l'occasion de travailler avec trois captures archivées en 1996, en 2003 et dans les cinq dernières années. Vous êtes en mesure à présent de rédiger un paragraphe résumant comment le site Web luxembourg.lu a pu évoluer sur une période de vingt ans.
+- Commencez par quelques questions de base&#x202F;: 
+  - qui a créé ce site Web et pourquoi&#x202F;? 
+  - quel type de fonctions offrait un site Web à l’époque examinée&#x202F;? Comment ces fonctions étaient-elles assurées avant l’évolution du Web&#x202F;? 
+  - la fonction du site Web a-t-elle changé au fil du temps&#x202F;?
+- Ensuite, déterminez quels changements sont intervenus au niveau de l’apparence et du contenu du site Web&#x202F;: examinez ainsi les URL, les couleurs et les polices de caractères, la structure, les onglets, etc. sur la base des informations disponibles dans la Wayback Machine. 
 
-Based on these three archived snapshots from 1996, 2003 and the last five years, write a paragraph summarising how the luxembourg.lu website has changed over a 20-year period.
--	First start with some basic questions: Who created this website and why? What kind of functions did a website offer at the time? How were these functions catered for before the evolution of the web? Did the function of the website change over time?
--	Then identity changes in the appearance and content of the website: consider the URLs, colours/fonts, structure, tabs, etc. on the basis of the information that is available on the Wayback Machine. Make sure you also discuss the possible uses of this archived site for historians. (Hint: think about this from different perspectives, such as historians of Luxembourg or historians of the digital world.)
+Veillez à évoquer également les utilisations possibles de ce site archivé pour les historiens. Nous vous conseillons de mener cette réflexion en croisant de différents points de vue, par exemple en historien(ne) du Luxembourg ou en adepte de l'histoire numérique ou encore en historien(ne) des sciences et de technologies.
 
-| enter your text in the answer form |
+| Saisissez votre texte dans le formulaire de réponse |
 
 <!-- section -->
 
