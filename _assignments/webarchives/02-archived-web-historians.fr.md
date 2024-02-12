@@ -52,8 +52,6 @@ Puis répondez aux questions ci-dessous&#x202F;:
 
 | Saisissez vos réponses dans le formulaire |
 
-Now that you have some knowledge about what web archives are, read the hypothetical example below and answer the questions that follow.
-
 Maintenant que vous avez une certaine connaissance des archives du Web, lisez l’exemple hypothétique ci-dessous puis répondez aux questions qui suivent.
 
 Exemple hypothétique&#x202F;: le mardi 11 février, vous consultez un petit site Web qui offre des informations sur les matchs récents d’une équipe de football locale. Vous recherchez le score du match le plus récent et parvenez à trouver cette information. Le mercredi 12 février, vous essayez d’accéder au même site Web afin de montrer ce score à un ami, mais le site Web a complètement changé d’aspect. Vous finissez cependant par trouver l’information, mais elle est sur une autre page du site Web et il vous a fallu plus de temps qu’avant pour la trouver. Lorsque, le vendredi 14 février, vous visitez ce site Web pour la troisième fois pour voir quel est le résultat du dernier match, vous constatez qu’il n’est plus du tout possible d’accéder à ce site, même après avoir rafraîchi la page à plusieurs reprises et utilisé un autre navigateur.
@@ -121,72 +119,62 @@ Puis répondez aux questions suivantes&#x202F;:
 - Estimez-vous que cette collaboration avec Wikipédia est une bonne direction à suivre pour Internet Archive et la Wayback Machine ? Pourquoi consentez-vous ou non&#x202F;?
 
 
-| Saisissez vos réponses dans le formulaire de réponse  |
+| Saisissez vos réponses dans le formulaire de réponse |
 
 <!-- section -->
 
 ### 2.d Découvrir comment les pages Web de Google et de YouTube sont préservées
 <!-- section-contents -->
-Enfin, il est temps que vous découvriez par vous-même la Wayback Machine, qui est l’outil d’archivage du Web d’Internet Archive. En faisant cet exercice, gardez à l’esprit que, en raison des quantités immenses de données sauvegardées dans ses archives ([plus de 25 pétaoctets ou 25 millions de gigaoctets en 2018](https://thehustle.co/inside-wayback-machine-internet-archive){:target='_blank'}), la WM met parfois un peu plus de temps pour charger les pages que ce à quoi vous êtes habitué(e) pour les pages du Web vivant. Il peut parfoir être nécessaire de rafraîchir une page une ou deux fois pour qu’elle se charge correctement.
+Enfin, il est temps que vous découvriez par vous-même la Wayback Machine (ci-après WM), qui est l’outil d’archivage du Web d’Internet Archive. En faisant cet exercice, gardez à l’esprit que, en raison des quantités immenses de données sauvegardées dans ses archives ([plus de 25 pétaoctets ou 25 millions de gigaoctets en 2018](https://thehustle.co/inside-wayback-machine-internet-archive){:target='_blank'}), la WM met parfois un peu plus de temps pour charger les pages que ce à quoi vous êtes habitué(e) pour les pages du Web vivant. Il peut parfois être nécessaire de rafraîchir une page une ou deux fois avant de pouvoir la charger correctement.
 
-Commencez par accéder à la Wayback Machine (https://web.archive.org/) puis faites une recherche sur la page d’accueil de Google en saisissant l’URL https://www.google.com/ dans la barre de recherche. La requête devrait ressembler à ceci : https://web.archive.org/web/*/https://www.google.com/
-google 
-
-Finally, it is time for you to explore the Internet Archive’s web archiving tool, the Wayback Machine, yourself. While doing this assignment, keep in mind that owing to the sheer amount of data saved in its archives ([over 25 petabytes or 25 million gigabytes as of 2018](https://thehustle.co/inside-wayback-machine-internet-archive){:target='_blank'}), the WM can sometimes take a little longer to load than the web pages you might be used to. Sometimes you need to refresh a page once or twice to get it to load properly.
-
-First, go to the [Wayback Machine](https://web.archive.org/){:target='_blank'} and search for Google’s home page by entering the URL `https://www.google.com/` in the search box. The query should look like this: https://web.archive.org/web/*/https://www.google.com/
-
+Commencez par accéder à la Wayback Machine [https://web.archive.org/](https://web.archive.org/) puis, une fois-là, saisissez l’URL `https://www.google.com/` pour faire une recherche sur la page d’accueil de Google. La requête devrait ressembler à ceci : `https://web.archive.org/web/*/https://www.google.com/`
 google
+
 [![homepage-google](../../assets/images/homepage-google.png "homepage-google")](//https://web.archive.org/web/*/https://www.google.com){:target="_blank"}
 
-Have a look at the note under the red button marked “Calendar”. How many captures of the web page at this URL have been made and over what period?
+Observez les informations fournies sous le l'onglet intitulé «&#x202F;Calendar&#x202F;» puis notez combien de captures de la page Web à cette URL ont été faites et sur quelle période. 
 
-| use the answer form to write down the answers |
+Juste en dessous des informations sur le nombre de captures de l’URL qui ont été faites, il y a une barre chronologique qui affiche toutes les années auxquelles l’URL a été sauvegardée. À présent, faites passer la souris le long de la barre en question et trouvez l'année de la première sauvegarde de la page puis cliquez dessus. Ensuite, recherchez le mois au cours duquel le tout premier instantané a été réalisé et, enfin, cliquez sur ce premier instantané de Google sauvegardé par la Wayback Machine.
 
-Now, below the information that gives you the number of captures of the URL that have been made but above the calendar view of the past 12 months, scroll through the chronological bar graph showing all the years the URL has been saved. Find and click on the very first year that this web page was saved and then search for the month in which the very first snapshot was made. Finally, click on that first snapshot of Google saved by the Wayback Machine.
+Inspectez cette capture à l'aide des questions classiques que vous vous poseriez sur toute source historique&#x202F;: 
+* Qui a créé la source
+* Quand la source a-t-elle été créée
+* Pourquoi et dans quelle finalité la source a-t-elle été créée
+* Quelle a été son utilisation initiale à l'époque
+* Quel en était l’aspect à l’époque, comparé à d’autres sources similaires (par exemple, la page d'accueil de [Lycos](https://fr.wikipedia.org/wiki/Lycos_(portail_web) - vous pouvez utiliser cette URL `https://www.lycos.com/` pour en obtenir les versions archivées à l'aide de Wayback Machine)
 
-Think about some of the classic questions that you would ask of any historical source: Who created this? When did they create it? Why did they create it? How did they create it? What was their purpose in creating it? How was it used at the time? How did it look at the time compared to other similar sources?
--	Using the PDF “cheat sheet” as a guide, answer the classic historical source criticism questions above and feel free to add any others you can think of.
+| Saisissez vos réponses dans le formulaire de réponse |
 
-| Who created this? |
-| When did they create it?|
-| Why did they create it? |
-| How did they create it? |
-| What was their purpose in creating it? |
-| How was it used at the time? |
-| How did it look at the time compared to other similar sources? |
+Ensuite, repérez la date de sauvegarde suivante de la page d’accueil de Google - donc la deuxième sauvegarde la plus ancienne de cette page, qui devrait se situer dans le mois suivant. Cliquez sur celle-ci puis explorez son contenu et les hyperliens qu'elle contient. Les informations que vous trouverez devraient pouvoir vous aider à définir la finalité de l’entreprise, ainsi que les raisons du choix du nom «&#x202F;Google&#x202F;».
 
-| use the answer form to write down the answers |
+* Finalité
+* Pourquoi le nom «&#x202F;Google&#x202F;» a-t-il été choisi&#x202F;?
 
-Next, go to the next saved date of the Google home page (it should be in the following month) and click on the snapshot. Explore the content of the page and its hyperlinks to find out the purpose of the company and the reason they choose the name “Google”.
+Retournez maintenant à la page d’accueil (actuelle) de la [Wayback Machine](https://web.archive.org/){:target='_blank'}. Lancez une nouvelle recherche portant cette fois sur la page d’accueil de YouTube en utilisant l’URL `https://www.youtube.com`. Trouvez les premières captures sauvegardées disponibles dans la Wayback Machine puis cliquez sur les liens de votre choix pour en inspecter quelques unes.
+- Quelles sont vos premières impressions de la page d’accueil de YouTube à l’époque&#x202F;?
 
-| Purpose |
-| Why the name “Google”? |
+| Saisissez vos réponses dans le formulaire de réponse |
 
-Now go back to the current home page of the Wayback Machine [https://web.archive.org/](https://web.archive.org/){:target='_blank'} and search for YouTube’s home page using the URL `https://www.youtube.com`. Find the first saved snapshot available on the Wayback Machine, and click on the link.
--	What are your first impressions of YouTube’s then home page?
+Essayez de cliquer sur les onglets du menu de l'une de ces premières captures cet instantané pour accéder, par exemple, aux favoris, aux messages ou encore aux vidéos (le menu peut se présenter comme suit&#x202F;: *favorites*, *messages*, *videos*).
+-	Qu'observez-vous&#x202F;? Réfléchissez sur ce que cela implique pour l’utilisation de la Wayback Machine comme dispositif d'archivage des pages Web. 
 
-| use the answer form to write down the answers |
+| Saisissez vos réponses dans le formulaire de réponse |
 
-Take a screenshot of this first snapshot. Then try to click on the tabs in this snapshot (“favorites”, “messages”, “videos”).
--	What happens? What does this mean for using the Wayback Machine as a resource for archiving web pages?
 
-| use the answer form to write down the answers |
+Retournez maintenant à la vue «&#x202F;Calendrier&#x202F;» qui montre toutes les fois que la Wayback Machine a sauvegardé la page YouTube. Cliquez sur un instantané datant de dix ans après que le premier instantané avait été réalisé, puis faites-en une capture d’écran (celle-ci peut être utile pour se référer facilement à la page, mais pas indispensable pour effectuer l'exercice). Complétez le tableau ci-dessous en indiquant les différences entre les caractéristiques de YouTube en 2005 et en 2015. Attention, si vous ne trouvez pas toutes les informations nécessaires en inspectant les captures, vous pouvez faire des recherches supplémentaires en notant quelles autres sources vous avez consultées, le cas échéant. 
+|  |2005 | 2015 |
+| Votre capture d’écran |    
+| Conception |      
+| Menu prijncipal de navigation |     
+| Informations sur l’entreprise |    
+| Contenus accessibles |     
+| Informations sur la confidentialité |     
+| Mentions légales |    
 
-Now, go back to your calendar view of all the times that YouTube has been saved by the Wayback Machine. Click on a snapshot from 10 years after the first snapshot was made and take a screenshot of the snapshot. Complete the table below indicating differences between the features of YouTube in 2005 and 2015. Note: if you don’t find the information below in the snapshots, conduct additional research and note which other source(s) you consulted to find the information.
+Admettons que vous souhaitez enquêter sur la nature des contenus téléversés sur YouTube et la manière dont celle-ci a pu évoluer entre 2005 et 2010. Pensez-vous que la Wayback Machine vous serait utile pour établir vos conclusions&#x202F;?
 
-| | 2005 | 2015 |
-| Your screenshot |
-| Design |
-| Navigation links at the top |
-| Information about the company |
-| What can be accessed |
-| Notes about privacy |
-| Notes about copyright |
+| Utilisez le formulaire de réponse pour compléter le tableau et saisir vos réponses |
 
-Would the Wayback Machine be useful to you if you wanted to know whether the character of the uploaded material on YouTube has changed between 2005 and 2010?
-
-| use the answer form to complete the table and write down your answers |
 <!-- section -->
 
 ### Suggestions de lectures/vidéos
@@ -198,45 +186,3 @@ Would the Wayback Machine be useful to you if you wanted to know whether the cha
 -	Musiani, Francesca, Camille Paloque-Bergès, Valérie Schafer et Benjamin G. Thierry. *Qu’est-ce qu’une archive du Web?* Marseille: OpenEdition, 2019. [Livre électronique](https://books.openedition.org/oep/8713)
 
 <!-- briefing-teacher -->
-
-
-2.d Découvrir comment les pages Web de Google et de YouTube sont préservées
-
-Voyez la remarque sous le bouton rouge intitulé « Calendar ». Combien de captures de la page Web à cette URL ont été faites, et sur quelle période ?
-Utilisez le formulaire de réponse pour saisir les réponses
-À présent, en dessous des informations qui renseignent sur le nombre de captures de l’URL qui ont été faites, mais au-dessus de la vue « Calendrier » des 12 derniers mois, faites passer la souris le long de la barre chronologique qui affiche toutes les années où l’URL a été sauvegardée. Trouvez la toute première année où cette page Web a été sauvegardée, cliquez dessus puis recherchez le mois au cours duquel le tout premier instantané a été réalisé. Enfin, cliquez sur ce premier instantané de Google sauvegardé par la Wayback Machine.
-Pensez à quelques-unes des questions classiques que vous vous poseriez sur toute source historique : Qui a créé cela ? Quand l’a-t-on créé ? Pourquoi l’a-t-on créé ? Comment l’a-t-on créé ? Quelle était la finalité envisagée ? Comment cela était-il utilisé à l’époque ? Quel en était l’aspect à l’époque, comparé à d’autres sources similaires ?
-• En vous servant de l’« antisèche » PDF comme d’un guide, répondez aux questions classiques de critique de la source historique ci-dessus. Vous êtes libre d’y ajouter d’autres questions de votre cru.
-Qui a créé cela ?
-Quand l’a-t-on créé ?
-Pourquoi l’a-t-on créé ?
-Comment l’a-t-on créé ?
-Quelle était la finalité envisagée ?
-Comment cela était-il utilisé à l’époque ?
-Quel en était l’aspect à l’époque, comparé à d’autres sources similaires ?
-Utilisez le formulaire de réponse pour saisir les réponses
-Ensuite, allez à la date de sauvegarde suivante de la page d’accueil de Google (elle devrait se situer dans le mois suivant) et cliquez sur l’instantané. Explorez le contenu de la page et ses hyperliens afin de trouver la finalité de l’entreprise et la raison pour laquelle elle a choisi le nom « Google ».
-Finalité
-Pourquoi le nom « Google » ?
-Retournez maintenant à la page d’accueil actuelle de la Wayback Machine (https://web.archive.org/) et recherchez la page d’accueil de YouTube en utilisant l’URL https://www.youtube.com. Trouvez les premiers instantanés sauvegardés disponibles dans la Wayback Machine, puis cliquez sur le lien.
-• Quelles sont vos premières impressions de la page d’accueil de YouTube à l’époque ?
-Utilisez le formulaire de réponse pour saisir les réponses
-Faites une capture d’écran de ce premier instantané. Puis essayez de cliquer sur les onglets de cet instantané (« Favoris », « Messages », « Vidéos »).
-• Que se passe-t-il ? Qu’est-ce que cela implique pour l’utilisation de la Wayback Machine comme ressource pour archiver des pages Web ?
-Utilisez le formulaire de réponse pour saisir les réponses
-Retournez maintenant à la vue « Calendrier », qui montre toutes les fois que la Wayback Machine a sauvegardé la page YouTube. Cliquez sur un instantané datant de dix ans après que le premier instantané avait été réalisé, puis faites-en une capture d’écran. Complétez le tableau ci-dessous en indiquant les différences entre les caractéristiques de YouTube en 2005 et en 2015. Remarque : si vous ne trouvez pas les informations demandées ci-dessous dans les instantanés, faites des recherches supplémentaires et notez quelle(s) autre(s) source(s) vous avez consultée(s) pour trouver les informations.
-  2005  2015
-Votre capture d’écran    
-Conception     
-Liens de navigation en haut de la page     
-Informations sur l’entreprise    
-Contenus accessibles     
-Remarques sur la confidentialité     
-Remarques sur les droits d’auteur    
-La Wayback Machine vous serait-elle utile si vous vouliez savoir si la nature des contenus chargés sur YouTube a changé entre 2005 et 2010 ?
-Utilisez le formulaire de réponse pour compléter le tableau et saisir vos réponses
-
-
-RÉSULTATS D'APPRENTISSAGE
-• Comprendre les bases de l’archivage du Web.
-• Comprendre les politiques et les aspects complexes de l’archivage du Web.
