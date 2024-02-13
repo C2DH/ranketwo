@@ -1,5 +1,5 @@
 ---
-title: "La Toile Web comme archive historique, ce que les historien(ne)s doivent savoir"
+title: "Le Web comme archive historique, ce que les historien(ne)s doivent savoir"
 type: clip
 lang: fr
 parent: webarchives
