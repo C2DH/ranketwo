@@ -35,7 +35,7 @@ Pour comprendre les bases de ce que sont les archives Web, commencez par lire le
 
 Janne Nielsen, [*Using Web Archives in Research: An Introduction* (Aarhus: NetLab, 2016)](https://dighumlab.org/wp-content/uploads/2017/06/Nielsen_Using_Web_Archives_in_Research.pdf)
 
-[![nielsen](../../assets/images/nielsen.png "nielsen")](https://dighumlab.org/wp-content/uploads/2017/06/Nielsen_Using_Web_Archives_in_Research.pdf){:target="_blank"}
+[![nielsen](/../assets/images/nielsen.png "nielsen")](https://dighumlab.org/wp-content/uploads/2017/06/Nielsen_Using_Web_Archives_in_Research.pdf){:target="_blank"}
 
 1.  Section 1 «&#x202F;Introduction&#x202F;» (pp. 6 à 10)
 2.  Section 2.1 «&#x202F;Main Types of Web Archiving&#x202F;» (pp. 11 à 12)

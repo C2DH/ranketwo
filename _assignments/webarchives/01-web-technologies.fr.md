@@ -62,7 +62,7 @@ Maintenant que vous avez un peu plus d’informations sur le développement du W
 
 <!-- section -->
 
-### 1.b The difference between the web and the internet
+### 1.b Différence entre le Web et Internet
 <!-- section-contents -->
 
 La plupart des gens utilisent sans distinction les termes «&#x202F;Web&#x202F;» et «&#x202F;Internet&#x202F;», qui sont étroitement liés, même s’il s’agit en réalité de deux choses bien différentes. Pour vous aider à comprendre les différences fondamentales entre ces deux concepts, regardez ces deux vidéos explicatives et pleines d’humour&#x202F;:
@@ -81,14 +81,14 @@ Après avoir regardé ces vidéos, prenez note des principales différences entr
 Pour vous permettre de relier ces différences entre le Web et Internet avec l’usage que vous en faites, voici une liste de choses courantes qu’on effectue avec son smartphone ou son ordinateur et pour lesquelles on a besoin d’Internet et/ou du Web. Insérez une croix dans la/les bonne(s) colonne(s).
 
 
-| | Choses qu'on fait couramment avec un ordinateur/smartphone | Utilise Internet mais pas le Web | Utilise à la fois Internet et le Web |
-| Rechercher une image sur Google	|  |  |  |
-| Utiliser Skype pour un appel vidéo |  |  |  |
-| Vérifier ses e-mails sur une application  |  |  |  |
-| Consulter son Facebook ou Instagram ou TikTok sur un navigateur Web|  |  |  |
-| Partager un fichier avec quelqu’un via un réseau de fichiers de pair à pair |  |  |  |
-| Télécharger un fichier depuis un site Web |  |  |  |
-| Passer un appel via FaceTime |  |  |  |
+| Choses qu'on fait couramment avec un ordinateur/smartphone | Utilise Internet mais pas le Web | Utilise à la fois Internet et le Web |
+| Rechercher une image sur Google	|  |  |  
+| Utiliser Skype pour un appel vidéo |  |  |  
+| Vérifier ses e-mails sur une application  |  |  |  
+| Consulter son Facebook ou Instagram ou TikTok sur un navigateur Web |  |  |  
+| Partager un fichier avec quelqu’un via un réseau de fichiers de pair à pair |  |  |  
+| Télécharger un fichier depuis un site Web |  |  |  
+| Passer un appel via FaceTime |  |  |  
 
 <!-- section -->
 
