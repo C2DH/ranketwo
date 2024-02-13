@@ -1,5 +1,5 @@
 ---
-title: "Le Web comme source historique : ce que les historiens et historiennes doivent savoir"
+title: "Le Web comme source historique - ce que les historiens et historiennes doivent savoir"
 layout: unit
 publication_date: 2021-01-25
 translation_date: 2024-02-70
