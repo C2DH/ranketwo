@@ -130,7 +130,7 @@ Enfin, il est temps que vous découvriez par vous-même la Wayback Machine (ci-a
 Commencez par accéder à la Wayback Machine [https://web.archive.org/](https://web.archive.org/) puis, une fois-là, saisissez l’URL `https://www.google.com/` pour faire une recherche sur la page d’accueil de Google. La requête devrait ressembler à ceci : `https://web.archive.org/web/*/https://www.google.com/`
 google
 
-[![homepage-google](../../assets/images/homepage-google.png "homepage-google")](https://web.archive.org/web/*/https://www.google.com){:target="_blank"}
+[![homepage-google](../assets/images/homepage-google.png "homepage-google")](https://web.archive.org/web/*/https://www.google.com){:target="_blank"}
 
 Observez les informations fournies sous le l'onglet intitulé «&#x202F;Calendar&#x202F;» puis notez combien de captures de la page Web à cette URL ont été faites et sur quelle période. 
 
