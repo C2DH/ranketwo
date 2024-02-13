@@ -127,7 +127,7 @@ Rufen Sie zunächst die Wayback Machine [https://web.archive.org/](https://web.a
 
 
 google
-[![homepage-google](../../../assets/images/homepage-google.png "homepage-google")](//https://web.archive.org/web/*/https://www.google.com){:target="_blank"}
+[![homepage-google](../../../assets/images/homepage-google.png "homepage-google")](https://web.archive.org/web/*/https://www.google.com){:target="_blank"}
 
 Schauen Sie sich die Notiz unter der roten Schaltfläche `Calendar` an. Wie viele Aufnahmen der Webseite unter dieser URL wurden gemacht und in welchem Zeitraum?
 

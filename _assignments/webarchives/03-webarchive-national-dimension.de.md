@@ -104,13 +104,12 @@ Erörtern Sie auch die Nutzungsmöglichkeiten dieser archivierten Website für H
 ### Empfehlungen Lektüre/Video
 <!-- section-contents -->
 
--	Nielsen, Janne. *Using Web Archives in Research: An Introduction*. Aarhus: NetLab, 2016. [E-book](https://dighumlab.org/wp-content/uploads/2017/06/Nielsen_Using_Web_Archives_in_Research.pdf)
-{:target='_blank'}
+-	Nielsen, Janne. *Using Web Archives in Research: An Introduction*. Aarhus: NetLab, 2016. [E-book](https://dighumlab.org/wp-content/uploads/2017/06/Nielsen_Using_Web_Archives_in_Research.pdf){:target='_blank'}
 -	Brügger, Niels, and Ralph Schroeder, eds. *The Web as History: Using Web Archives to Understand the Past and the Present.* London: UCL Press, 2017. [E-book](https://discovery.ucl.ac.uk/id/eprint/1542998/1/The-Web-as-History.pdf){:target='_blank'}
--	Huss, Nick. “How Many Websites Are There Around The World?” Sateefy. Last modified November 27, 2022. [Website](https://siteefy.com/how-many-websites-are-there/){:target='_blank'}
--	Potter, Abby. "Why Archive The Web." IIPC. October 18. 2012. Video, 2:53. [Youtube Video](https://www.youtube.com/watch?v=pU32rjTaMFE{:target='_blank'})
--	Library of Congress. “Web Archiving.” November 30, 2009. Video, 3:10. [Youtube Video](https://www.youtube.com/watch?v=T0943YkhLWU>{:target='_blank'})
--	World Wide Web Size research project measuring the size of the indexed web by Tilburg University (updated on a daily basis) [URL](https://www.worldwidewebsize.com/){:target='_blank'}
+-	Huss, Nick. “How Many Websites Are There Around The World?” Sateefy. Zuletzt geändert am 27. November 27, 2022. [Website](https://siteefy.com/how-many-websites-are-there/){:target='_blank'}
+-	Potter, Abby. "Why Archive The Web." IIPC.18. Oktober 2012. Video, 2:53. [YouTube-Video](https://www.youtube.com/watch?v=pU32rjTaMFE{:target='_blank'})
+-	Library of Congress. “Web Archiving.” 30. November 2009. Video, 3:10. [YouTube-Video](https://www.youtube.com/watch?v=T0943YkhLWU>{:target='_blank'})
+-	Forschungsprojekt World Wide Web Size der Universität Tilburg zur Messung der Größe des indexierten Webs (täglich aktualisiert) [URL](https://www.worldwidewebsize.com/){:target='_blank'}
 
 
 <!-- briefing-teacher -->
