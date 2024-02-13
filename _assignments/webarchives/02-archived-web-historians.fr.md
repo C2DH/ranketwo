@@ -35,7 +35,7 @@ Pour comprendre les bases de ce que sont les archives Web, commencez par lire le
 
 Janne Nielsen, [*Using Web Archives in Research: An Introduction* (Aarhus: NetLab, 2016)](https://dighumlab.org/wp-content/uploads/2017/06/Nielsen_Using_Web_Archives_in_Research.pdf)
 
-[![nielsen](/../assets/images/nielsen.png "nielsen")](https://dighumlab.org/wp-content/uploads/2017/06/Nielsen_Using_Web_Archives_in_Research.pdf){:target="_blank"}
+[![nielsen](/../../../assets/images/nielsen.png "nielsen")](https://dighumlab.org/wp-content/uploads/2017/06/Nielsen_Using_Web_Archives_in_Research.pdf){:target="_blank"}
 
 1.  Section 1 «&#x202F;Introduction&#x202F;» (pp. 6 à 10)
 2.  Section 2.1 «&#x202F;Main Types of Web Archiving&#x202F;» (pp. 11 à 12)
@@ -70,7 +70,7 @@ Dans cet exercice, vous explorerez l’histoire d’Internet Archive, un organis
 
 Quand on sait qu’[environ 360 à 380 nouveaux sites Web ont été créés chaque minute en 2020](https://siteefy.com/how-many-websites-are-there/){:target='_blank'}, on voit bien que Brewster Kahle s’est donné une tâche quasi impossible. La Wayback Machine d’Internet Archive collecte des contenus du Web en programmant des [robots d’indexation (ou collecteurs, web crawlers en anglais)](https://fr.wikipedia.org/wiki/Robot_d’indexation){:target='_blank'} pour qu’ils prennent des «&#x202F;instantanés&#x202F;» de certaines pages Web à des moments précis. Ces instantanés ne sont pas des captures d’écran&#x202F;; ils permettent aux utilisateurs de naviguer sur le Web du passé de façon interactive, mais ils ne présentent qu’une sélection de pages Web, non pas l’histoire complète d’un site Web. Toutefois, l’échelle de ce qui est archivé est assez impressionnante, surtout si l’on sait que [le nombre de pages présentes sur le Web vivant est actuellement d’environ six milliards](https://www.worldwidewebsize.com/){:target='_blank'}, alors que la Wayback Machine d’Internet Archive offre l’accès à plus de 480 milliards de pages Web archivées (chiffres valables en novembre 2020). En outre, Internet Archive n’est plus le seul organisme qui s’occupe d’archiver le Web. Des institutions de niveau national – surtout des bibliothèques nationales – en Irlande, au Danemark, au Luxembourg, en Suisse, au Portugal, en France et au Royaume-Uni, pour ne citer que quelques-unes, ont endossé le rôle de curatrices pour des contenus Web pertinents pour leur pays. Les deux derniers pays cités ont même fait des archives Web une catégorie de leurs dépôts légaux, ce qui signifie que les pages Web relatives à leurs citoyens ou à l’État sont considérées comme des publications essentielles pour garder la trace de l’histoire officielle du pays.
 
-[![kahle servers](../assets/images/kahle-servers.jpg "kahle servers")](https://www.flickr.com/photos/jblyberg/7007299440
+[![kahle servers](../../../assets/images/kahle-servers.jpg "kahle servers")](https://www.flickr.com/photos/jblyberg/7007299440
 https://live.staticflickr.com/7106/7007299440_4c745e8f05_w_d.jpg){:target="_blank"}
 Crédits : J. Blyberg
 
@@ -130,7 +130,7 @@ Enfin, il est temps que vous découvriez par vous-même la Wayback Machine (ci-a
 Commencez par accéder à la Wayback Machine [https://web.archive.org/](https://web.archive.org/) puis, une fois-là, saisissez l’URL `https://www.google.com/` pour faire une recherche sur la page d’accueil de Google. La requête devrait ressembler à ceci : `https://web.archive.org/web/*/https://www.google.com/`
 google
 
-[![homepage-google](../assets/images/homepage-google.png "homepage-google")](https://web.archive.org/web/*/https://www.google.com){:target="_blank"}
+[![homepage-google](../../../assets/images/homepage-google.png "homepage-google")](https://web.archive.org/web/*/https://www.google.com){:target="_blank"}
 
 Observez les informations fournies sous le l'onglet intitulé «&#x202F;Calendar&#x202F;» puis notez combien de captures de la page Web à cette URL ont été faites et sur quelle période. 
 
