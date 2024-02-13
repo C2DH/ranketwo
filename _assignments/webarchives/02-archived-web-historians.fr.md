@@ -70,7 +70,7 @@ Dans cet exercice, vous explorerez l’histoire d’Internet Archive, un organis
 
 Quand on sait qu’[environ 360 à 380 nouveaux sites Web ont été créés chaque minute en 2020](https://siteefy.com/how-many-websites-are-there/){:target='_blank'}, on voit bien que Brewster Kahle s’est donné une tâche quasi impossible. La Wayback Machine d’Internet Archive collecte des contenus du Web en programmant des [robots d’indexation (ou collecteurs, web crawlers en anglais)](https://fr.wikipedia.org/wiki/Robot_d’indexation){:target='_blank'} pour qu’ils prennent des «&#x202F;instantanés&#x202F;» de certaines pages Web à des moments précis. Ces instantanés ne sont pas des captures d’écran&#x202F;; ils permettent aux utilisateurs de naviguer sur le Web du passé de façon interactive, mais ils ne présentent qu’une sélection de pages Web, non pas l’histoire complète d’un site Web. Toutefois, l’échelle de ce qui est archivé est assez impressionnante, surtout si l’on sait que [le nombre de pages présentes sur le Web vivant est actuellement d’environ six milliards](https://www.worldwidewebsize.com/){:target='_blank'}, alors que la Wayback Machine d’Internet Archive offre l’accès à plus de 480 milliards de pages Web archivées (chiffres valables en novembre 2020). En outre, Internet Archive n’est plus le seul organisme qui s’occupe d’archiver le Web. Des institutions de niveau national – surtout des bibliothèques nationales – en Irlande, au Danemark, au Luxembourg, en Suisse, au Portugal, en France et au Royaume-Uni, pour ne citer que quelques-unes, ont endossé le rôle de curatrices pour des contenus Web pertinents pour leur pays. Les deux derniers pays cités ont même fait des archives Web une catégorie de leurs dépôts légaux, ce qui signifie que les pages Web relatives à leurs citoyens ou à l’État sont considérées comme des publications essentielles pour garder la trace de l’histoire officielle du pays.
 
-[![kahle servers](../../assets/images/kahle-servers.jpg "kahle servers")](https://www.flickr.com/photos/jblyberg/7007299440
+[![kahle servers](../assets/images/kahle-servers.jpg "kahle servers")](https://www.flickr.com/photos/jblyberg/7007299440
 https://live.staticflickr.com/7106/7007299440_4c745e8f05_w_d.jpg){:target="_blank"}
 Crédits : J. Blyberg
 
@@ -162,6 +162,7 @@ Essayez de cliquer sur les onglets du menu de l'une de ces premières captures c
 
 
 Retournez maintenant à la vue «&#x202F;Calendrier&#x202F;» qui montre toutes les fois que la Wayback Machine a sauvegardé la page YouTube. Cliquez sur un instantané datant de dix ans après que le premier instantané avait été réalisé, puis faites-en une capture d’écran (celle-ci peut être utile pour se référer facilement à la page, mais pas indispensable pour effectuer l'exercice). Complétez le tableau ci-dessous en indiquant les différences entre les caractéristiques de YouTube en 2005 et en 2015. Attention, si vous ne trouvez pas toutes les informations nécessaires en inspectant les captures, vous pouvez faire des recherches supplémentaires en notant quelles autres sources vous avez consultées, le cas échéant. 
+
 |  |2005 | 2015 |
 | Votre capture d’écran |    
 | Conception |      
