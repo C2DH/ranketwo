@@ -12,10 +12,8 @@ documents:
 order: 4
 ---
 
-L’acte d’archiver n’est pas motivé uniquement par des préoccupations neutres liées à la préservation. Il a sa place parmi les moyens de prolonger et de renforcer l’identité, le statut et la position. Selon Janne Nielsen, qui proposes [une distinction claire entre l’archivage macro et micro](http://www.netlab.dk/wp-content/uploads/2016/10/Nielsen_Using_Web_Archives_in_Research.pdf), il est important de différencier, par exemple, une puissante institution qui élabore une stratégie de préservation pour la postérité avec un large futur public imaginaire en tête (« macro »), et une scientifique arrivée au terme d’un projet financé et qui réussit à conserver ses données en vue de les utiliser ultérieurement dans sa carrière universitaire (« micro »). Dans le cas de l’UE, comme les exemples plus bas le montrent, la préservation obéit aussi à des impératifs de transparence sur la façon de prendre les décisions ou sur la façon dont les cadres juridiques conçus pour protéger les citoyens et leur héritage culturel évoluent avec le temps. L’étude de cas présentée ici – comment l’Union européenne gère la préservation de ses archives Web – est un exemple de macroarchivage. Le « niveau » de l’archivage dans ce contexte doit être gardé à l’esprit d’un bout à l’autre de l’exemple.
+L’acte d’archiver n’est pas motivé uniquement par des préoccupations neutres liées à la préservation. Il a sa place parmi les moyens de prolonger et de renforcer l’identité, le statut et la position. Selon Janne Nielsen, qui proposes [une distinction claire entre l’archivage *macro* et *micro*](http://www.netlab.dk/wp-content/uploads/2016/10/Nielsen_Using_Web_Archives_in_Research.pdf){:target='_blank'}, il est important de différencier, par exemple, une puissante institution qui élabore une stratégie de préservation pour la postérité avec un large futur public imaginaire en tête (*macro*), et une scientifique arrivée au terme d’un projet financé et qui réussit à conserver ses données en vue de les utiliser ultérieurement dans sa carrière universitaire (*micro*). Dans le cas de l’Union européenne (ci-après UE), comme les exemples suivants le montrent, la préservation obéit aussi à des impératifs de transparence sur la façon de prendre les décisions ou sur la façon dont les cadres juridiques conçus pour protéger les citoyens et leur héritage culturel évoluent avec le temps. L’étude de cas présentée ici – comment l’UE gère la préservation de ses archives Web – est un exemple de macroarchivage. Le «&#x202F;niveau&#x202F;» de l’archivage dans ce contexte doit être gardé à l’esprit d’un bout à l’autre de l’exemple.
  
-
-Der Prozess der Archivierung wird nicht allein von der allgemeinen Sorge um Bewahrung angetrieben. Er hängt auch sehr stark mit den Möglichkeiten zusammen, die Identität, den Status und die Position einer Person zu verlängern und zu festigen. Nach Janne Nielsen, die [eine klare Unterscheidung zwischen „Makro“- und „Mikro“-Archivierung vorschlägt](https://dighumlab.org/wp-content/uploads/2017/06/Nielsen_Using_Web_Archives_in_Research.pdf){:target='_blank'}, muss beispielsweise unbedingt zwischen einer mächtigen Institution, die eine Bewahrungsstrategie vor dem Hintergrund der Prosperität gegenüber einer breiten imaginären künftigen Zielgruppe entwirft („Makro“), und einer Wissenschaftlerin nach Abschluss eines geförderten Projekts unterschieden werden, der es gelingt, ihre Daten zur zukünftigen Nutzung im Rahmen ihrer akademischen Laufbahn zu bewahren („Mikro“). Im Falle der EU ist die Bewahrung – wie die nachstehenden Beispiele zeigen – auch aus Gründen der Transparenz in Bezug auf die Art und Weise von Bedeutung, wie Entscheidungen getroffen werden oder wie sich der rechtliche Rahmen zum Schutz der Bürger und ihres kulturellen Erbes im Laufe der Zeit entwickelt. Die hier vorgestellte Fallstudie – wie die Europäische Union die Bewahrung ihrer Web-Archive handhabt – ist ein Beispiel für Makro-Archivierung. Die „Ebene“ der Archivierung in diesem Kontext sollte während des gesamten Beispiels im Auge behalten werden.
 
 {:.text-center}
 ![Watch the ENTIRE history of Europe unfold before your very eyes](https://i.giphy.com/media/B22vnwkQSMldC/giphy.webp)
@@ -24,101 +22,102 @@ Der Prozess der Archivierung wird nicht allein von der allgemeinen Sorge um Bewa
 
 <!-- briefing-student -->
 
-### 4.a Das Web-Archiv der Europäischen Union
+### 4.a Les archives Web de l’Union européenne
 <!-- section-contents -->
-Die [Europäische Union](https://de.wikipedia.org/wiki/Europ%C3%A4ische_Union){:target='_blank'} wurde in einem bestimmten geopolitischen Kontext nach dem Zweiten Weltkrieg gegründet, um Handel und Kollaboration zwischen europäischen Ländern zu fördern und das Risiko künftiger gewaltsamer Konflikte zu verringern. Als sich dieser Kontext entwickelte und neue Länder der EU beitraten, veränderte sich die EU entsprechend, und eine dieser Veränderungen zeigte sich in der steigenden Zahl der EU-Behörden. Mit dem Aufkommen des Webs in den 1990er-Jahren veränderte sich auch die Art und Weise, in der sich diese Institutionen ihrem Publikum präsentieren konnten. Durchsucht man also ein Web-Archiv nach einer EU-Behörde, ist es wichtig zu verstehen, welche Funktion die Website zum jeweiligen Zeitpunkt für diese Behörde hatte.
+L’[Union européenne](https://fr.wikipedia.org/wiki/Union_europ%C3%A9enne){:target='_blank'} a été créée dans un contexte géopolitique spécifique, à la suite de la Seconde Guerre mondiale, afin de permettre le relèvement économique des pays européens, d'encourager la collaboration entre eux et de réduire le risque de futurs conflits violents. Au fur et à mesure de l’évolution de ce contexte et de l’adhésion de nouveaux pays à l’UE, celle-ci a changé en conséquence. L’un de ces changements a été l’augmentation du nombre d’agences administratives de l’UE. L’avènement du Web, dans les années 1990, a notamment affecté la façon dont ces agences pouvaient se présenter à et communiquer avec leur public cible. Par conséquent, consulter une archive Web d’une agence de l’UE, nécessite d’avoir à l’esprit à quoi servait le site Web pour cette agence à ce moment dans le temps. 
 
-> Stellen Sie sich die folgende Frage: War die Erstellung einer Website und die Veröffentlichung von Texten über die Aufgaben der Behörde damals etwas völlig Neues, oder war es die Fortsetzung einer bereits bestehenden Praxis – z. B. die Information der Außenwelt über die Arbeit einer Organisation – durch das neue Medium „Website“? 
-Wenn Sie über diese Frage nachdenken, werden Sie den Wert einer Website als historische Quelle besser verstehen.
+> Posez-vous cette question&#x202F;: la création d’un site Web et la publication d'informations en lien avec la mission de l’agence étaient-elles une nouveauté à l’époque&#x202F;? Ou s'agit-il de la simple continuation d’une pratique existante&#x202F;: une organisation qui informe le monde extérieur de ces missions et activités à l’aide du nouveau moyen qu’était alors le site Web&#x202F;? Réfléchir à cette question pourrait aider à comprendre la valeur d’un site Web en tant que source historique.
 
-Es gibt zwei Möglichkeiten, die Web-Archive der EU zu konsultieren. Man kann die [Wayback Machine](https://archive.org/web/){:target='_blank'} des Internet Archive nutzen, die seit den Anfängen des Internets im Jahr 1996 auf nichtkommerzieller Basis zufällige Schnappschüsse macht, oder das [Web-Archiv der Europäischen Union](https://www.archive-it.org/collections/12090){:target='_blank'} konsultieren, das aus Webseiten besteht, die von Archive-It, dem kostenpflichtigen Dienst des Internet Archive, der diese Dienste seit 2006 anbietet, systematischer erfasst werden. Die für die Bewahrungspolitik zuständige Institution ist das Amt für Veröffentlichungen der Europäischen Union. Diese interinstitutionelle Organisation mit Sitz in Luxemburg hat die Aufgabe, die Publikationen der EU zu erstellen und zu verbreiten, freien Zugang zu offiziellen Informationen und Daten der EU zu gewähren und die langfristige Bewahrung der von den EU-Institutionen und -Organen erstellten Inhalte zu gewährleisten. Für diese Aufgabe werden wir die Wayback Machine und unseren zugehörigen „Spickzettel“ verwenden, um die archivierten Inhalte zweier EU-Behörden im Laufe der Zeit zu vergleichen – des [Europäischen Gerichtshofs](https://curia.europa.eu/){:target='_blank'} und des [Europäischen Instituts für Gleichstellungsfragen](https://eige.europa.eu/){:target='_blank'}.
+Il y a deux façons de consulter les archives Web de l’UE. L'une de celles-ci consiste à utiliser la [Wayback Machine d’Internet Archive](https://archive.org/web/){:target='_blank'}, qui permet d'accéder aux captures des sites faites de manière aléatoire et sans but lucratif depuis le tout début du Web en 1996. Autre option, vous pouvez consulter le [Web archivé de l’Union européenne](https://www.archive-it.org/collections/12090){:target='_blank'}, à savoir les pages Web systématiquent collectées à l'aide du service payant d’Internet Archive, [Archive-It](https://archive-it.org/){:target='_blank'}, qui a commencé à offrir ces services en 2006. La différence entre les deux est que, dans le premier cas, l'archivage des sites Web de l'UE se fait dans le cadre d'une collecte globale du Web&#x202F;; dans le second, c'est l'Union européenne qui organise l'archivage de son patrimoine numérique. L’institution responsable de la politique de préservation est l’[Office des publications de l’Union européenne](https://op.europa.eu/fr/). Établie à Luxembourg, cette organisation interinstitutionnelle est chargée de produire et de diffuser les publications de l’UE, en fournissant le libre accès aux informations et données de l’UE et en assurant la préservation à long terme des contenus élaborés par les institutions et organes de l’Union. 
 
-> Tipp: Am besten lassen sich die beiden vergleichen, indem Sie einen Screenshot von jeder Homepage machen, ihn verkleinern und dann nebeneinander auf Ihrem Bildschirm öffnen.
+Pour cet exercice, nous utiliserons la Wayback Machine pour comparer les contenus archivés de deux agences de l’UE au fil du temps&#x202F;: la [Cour de justice de l’Union européenne](https://curia.europa.eu/){:target='_blank'} et l’[Institut européen pour l’égalité entre les hommes et les femmes](https://eige.europa.eu/){:target='_blank'}. Gardez à l'esprit que le premier site est disponible aussi en français, alors que le deuxième seulement en anglais. 
+
+> Conseil&#x202F;: pour comparer les sites des deux agences, vous pouvez faire une capture d’écran de chaque page d’accueil, d’en réduire la taille, puis de placer les deux captures côte à côte à l’écran.
 
 <div class="text-center" markdown="1">
 
 {:.mr-3}
 {:.d-inline-block}
 {:style="max-width:250px"}
-[![European Court of Justice](https://image.thum.io/get/https://curia.europa.eu/ "European Court of Justice")](https://curia.europa.eu/){:target='_blank'}
+[![European Court of Justice](https://image.thum.io/get/https://curia.europa.eu/ "Cour de justice de l’Union européenne")](https://curia.europa.eu/){:target='_blank'}
 
 {:.d-inline-block}
 {:style="max-width:250px"}
-[![European Institute for Gender Equality](https://image.thum.io/get/https://eige.europa.eu/ "European Institute for Gender Equality")](https://eige.europa.eu/){:target='_blank'}
+[![European Institute for Gender Equality](https://image.thum.io/get/https://eige.europa.eu/ "Institut européen pour l’égalité entre les hommes et les femmes")](https://eige.europa.eu/){:target='_blank'}
 
 </div>
 
-Öffnen Sie die [Wayback Machine](https://archive.org/web/){:target='_blank'} des Internet Archive auf zwei verschiedenen Registerkarten. Suchen Sie auf der ersten Registerkarte nach den Schnappschüssen des Europäischen Gerichtshofs (EuGH) unter Verwendung der URL seiner Homepage: [https://curia.europa.eu/](https://curia.europa.eu/){:target='_blank'}. Suchen Sie auf der zweiten Registerkarte nach den Schnappschüssen des Europäischen Instituts für Gleichstellungsfragen (EIGE) unter Verwendung der URL seiner Homepage: [https://eige.europa.eu/](https://eige.europa.eu/){:target='_blank'}. Füllen Sie dann mithilfe der Web-Archive und eventuell erforderlichen zusätzlichen Web-Recherchen die nachstehende Tabelle aus:
+Ouvrez la [Wayback Machine](https://archive.org/web/){:target='_blank'} d’Internet Archive dans deux onglets différents de votre navigateur. Dans le premier onglet, recherchez les captures de la page d'accueil du site de la Cour de justice de l’Union européenne (CJUE) en utilisant son URL&#x202F;: `https://curia.europa.eu/`. Utilisez l'autre onglet pour rechercher des instantanés de l’Institut européen pour l’égalité entre les hommes et les femmes (EIGE) à l'aide de l’URL de son site web&#x202F;: `https://eige.europa.eu/`. Ensuite, en vous servant des archives Web et de toute autre recherche sur le Web, complétez le tableau ci-dessous&#x202F;:
 
 <table width="100%">
   <tr>
     <th widht="40%"></th>
-    <th width="30%">Europäischer Gerichtshof</th>
-    <th width="30%">Europäisches Institut für Gleichstellungsfragen</th>
+    <th width="30%">Cour de justice de l’Union européenne</th>
+    <th width="30%">Institut européen pour l’égalité entre les hommes et les femmes</th>
   </tr>
   <tr>
-    <td colspan="3"><u>Übersicht</u></td>
+    <td colspan="3"><u>Aperçu</u></td>
   </tr>
   <tr>
-    <td>In welchem Jahr fand die Gründung statt?<br/>(ggf. Wikipedia nutzen)</td>
+    <td>Année de fondation de l’institution<br/>(si besoin, utilisez Wikipédia)</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Was ist die Aufgabe der Behörde?</td>
+    <td>Mission de l’institution</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td colspan="3"><u>Ältere archivierte Webseiten</u></td>
+    <td colspan="3"><u>Plus anciennes pages Web archivées</u></td>
   </tr>
   <tr>
     <td>
-      Welches sind die ersten archivierten Webseiten, die Sie mit der Wayback Machine finden können?<br />
-      Aus welchem Jahr und von welchem Datum?<br />
-      In welcher/welchen Sprache(n)?
+      Repérez les plus anciennes pages Web archivées à l’aide de la Wayback Machine<br />
+      Dates d'archivage des plus anciennes pages archivées<br />
+      Langu(e) des plus anciennes pages archivées
     </td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Wie lauten die Titel der verschiedenen Seiten der Website? Macht der Aufbau für Sie Sinn? </td>
+    <td>Quels sont les titres des différentes pages du site Web&nbsp;? La structure vous semble-t-elle logique&nbsp;?  </td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Versuchen Sie, mithilfe der ältesten verfügbaren archivierten Webseite die Seite zu finden, die den besten Überblick über den Inhalt der Website bietet, und notieren Sie die Überschrift und den Link dieser Seite (oftmals ist dies die Startseite, aber nicht immer)</td>
+    <td>La plus ancienne page Web archivée étant disponible, essayez de trouver la page qui donne le meilleur aperçu du contenu du site Web, et partagez le titre et le lien de cette page (il s’agit souvent de la page d’accueil, mais pas toujours).</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>
-      Gibt es eine Suchfunktion, über die auf eine oder mehrere Datenbanken zugegriffen werden kann?<br />
-      Was enthalten diese Datenbanken?
+      GY a-t-il une fonction de recherche qui donne accès à une ou plusieurs bases de données&nbsp;?<br />
+      Que contiennent ces bases de donnéesn&nbsp;?
     </td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Können Sie Inhalte hoch- oder herunterladen?</td>
+    <td>Permettent-elles de charger ou télécharger des contenus&nbsp;?</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td colspan="3"><u>Jüngste archivierte Versionen der Websites (dieses Jahr)</u></td>
+    <td colspan="3"><u>Versions archivées les plus récentes des sites Web (de cette année)</u></td>
   </tr>
   <tr>
-    <td>Welche Veränderungen stellen Sie zwischen der ersten und der letzten archivierten Website der jeweiligen EU-Institution fest?</td>
+    <td>Réfléchissez aux changements que vous constatez entre le site Web archivé le plus ancien et le plus récent des deux institutions de l’UE respectives</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>
-      Sind die Veränderungen Ausdruck eines anderen Kurses, den die Behörde in diesem Zeitraum eingeschlagen hat? Darunter beispielsweise:
+      Les changements reflètent-ils une orientation différente prise par l’institution au cours de cette période&nbsp;?  Une orientation différente pourrait consister à&nbsp;:
       <ul>
-        <li>Ausweitung ihrer Aufgaben und/oder Dienstleistungen</li>
-        <li>Zusammenschluss mit anderen Behörden oder Verlegung ihrer Räumlichkeiten, um Kosten zu sparen</li>
-        <li>Anpassung ihrer Politik an den EU-Beitritt neuer Länder</li>
+        <li>élargir la mission et/ou les services</li>
+        <li>fusionner avec d’autres agences ou déménager le siège dans un but de réduction des coûts</li>
+        <li>ajuster les politiques pour s’adapter aux nouveaux pays se joignant à l’UE</li>
       </ul>
     </td>
     <td></td>
@@ -126,14 +125,14 @@ Es gibt zwei Möglichkeiten, die Web-Archive der EU zu konsultieren. Man kann di
   </tr>
   <tr>
     <td>
-      Bestehen die Veränderungen in einem moderneren Design und/oder einem Zuwachs an Funktionen?<br />
-      Darunter beispielsweise:
+      Les changements consistent-ils en une conception plus moderne et/ou une augmentation ou amélioration des fonctionnalités&nbsp;?<br />
+      Une conception ou des fonctionnalités améliorées pourraient consister à&nbsp;:
       <ul>
-        <li>von statisch zu interaktiv</li>
-        <li>Zugang zu Datenbanken mit Suchfunktionen</li>
-        <li>Umstellung von Präsenz- auf Online-Dienste</li>
-        <li>Angebot von Streaming-Diensten</li>
-        <li>Bereitstellung eines für Tablets und Smartphones geeigneten Webdesigns</li>
+        <li>passer d'un site statique à un site interactif</li>
+        <li>rendre disponibles des fonctionnalités de recherche pour donner accès à des bases de données</li>
+        <li>dématérialiser des services en développant des services en ligne</li>
+        <li>proposer des services de streaming</li>
+        <li>optimiser la conception Web pour adapter le site aux tablettes et aux smartphones</li>
       </ul>
     </td>
     <td></td>
@@ -141,30 +140,32 @@ Es gibt zwei Möglichkeiten, die Web-Archive der EU zu konsultieren. Man kann di
   </tr>
 </table>
 
-| Tragen Sie Ihre Antworten in das Antwortformular ein |
+| Saisissez vos réponses dans le formulaire |
 
 <!-- section -->
 
-### 4.b Die Websites der beiden EU-Behörden im breiteren Kontext der Web-Geschichte
+### 4.b Les sites Web des deux agences de l’UE dans le cadre plus large de l’histoire du Web
 <!-- section-contents -->
 
-Schreiben Sie einen kurzen Essay (500 Wörter), in dem Sie möglichst eine Antwort auf folgende Schlüsselfrage finden:
+Rédigez une courte dissertation d'environ 500 mots sur la question clé suivante&nbsp;:
 
-**Welche Art von historischen Informationen bietet uns eine Website?**
+**Quel type d’informations historiques un site Web nous fournit-il&nbsp;?**
 
-Berücksichtigen Sie dabei Folgendes:
-- Die Informationen, die Sie für die Tabelle in 4.a gesammelt haben
-- Die Informationen im Blog [„The History of Website Design: 28 Years of Building the Web“ von Ryan Shelley (2019](https://www.smamarketing.net/blog/the-history-of-website-design){:target='_blank'} sowie im Clip [„The History of Web Design in 2 Min Flat“](https://www.youtube.com/watch?v=wJB0vnOyYmk&ab){:target='_blank'} über die Entwicklung des Webdesigns
-- Die Informationen in [dieser chronologischen Grafik über das Wachstum des Webs von Internet Live Stats](https://www.internetlivestats.com/total-number-of-websites/){:target='_blank'}
-- Und die Informationen [im Wikipedia-Artikel „Website“](https://de.wikipedia.org/wiki/Website){:target='_blank'} über die Entwicklung verschiedener Arten von Websites im Laufe der Zeit 
+Mobilisez pour ceci 
+- les informations que vous avez rassemblées pour compléter le tableau de l’exercice 4.a.
+- les informations contenues dans le blog « The History of Website Design: 28 Years of Building the Web » par Ryan Shelley (2019, https://www.smamarketing.net/blog/the-history-of-website-design) ainsi que dans la vidéo « The History of Web Design in 2 Min Flat » (https://www.youtube.com/watch?v=wJB0vnOyYmk&ab), qui traitent de l’évolution de la conception des sites Web
+- les informations de ce graphique chronologique sur la croissance du Web fourni par Internet Live Stats : https://www.internetlivestats.com/total-number-of-websites/
+- enfin, les informations contenues dans l’article de Wikipédia intitulé «&nbsp;Site web&nbsp;», qui explique comment les différents types de sites Web ont évolué au fil du temps&nbsp;: https://fr.wikipedia.org/wiki/Site_web
+
+Rédigez la dissertation dans votre formulaire de réponse.
 
 
 <!-- section -->
 
 
-### Empfehlungen Lektüre/Video
+### Suggestions de lectures/vidéos
 <!-- section-contents -->
--	Amaro, Silvia. „How does the EU work“. CNBC International. 28. März 2019. Video, 05:29. [Youtube-Video](https://www.youtube.com/watch?v=9eufLQ3sew0){:target='_blank'}
--	Europäische Komission. „Archiving“. Letzter Zugriff: 7. Dezember 2022. [Website](https://wikis.ec.europa.eu/display/WEBGUIDE/01.+Archiving){:target='_blank'}
+-	Europe Direct Strasbourg. «&nbsp;L'Union européenne&nbsp;: comment ça marche&nbsp;?&nbsp;». Vidéo 02 minutes 36 secondes. 16 novembre 2021. [Vidéo YouTube](https://youtu.be/IULPVuIp6w8){:target='_blank'}
+-	Commission européenne. «&nbsp;Politique d'archivage&nbsp;». Page consultée au 13 février 2024. [URL](https://commission.europa.eu/about-european-commission/service-standards-and-principles/transparency/access-documents/information-and-document-management/archival-policy_fr){:target='_blank'}
 
 <!-- briefing-teacher -->
