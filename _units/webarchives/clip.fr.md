@@ -2,7 +2,7 @@
 title: "La Toile Web comme archive historique, ce que les historien(ne)s doivent savoir"
 type: clip
 lang: fr
-parent: boder2-webtechnology
+parent: webarchives
 duration: 10
 iframe: webarchives
 ---
