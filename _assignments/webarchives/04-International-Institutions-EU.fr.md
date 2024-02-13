@@ -153,9 +153,9 @@ Rédigez une courte dissertation d'environ 500 mots sur la question clé suivant
 
 Mobilisez pour ceci 
 - les informations que vous avez rassemblées pour compléter le tableau de l’exercice 4.a.
-- les informations contenues dans le blog « The History of Website Design: 28 Years of Building the Web » par Ryan Shelley (2019, https://www.smamarketing.net/blog/the-history-of-website-design) ainsi que dans la vidéo « The History of Web Design in 2 Min Flat » (https://www.youtube.com/watch?v=wJB0vnOyYmk&ab), qui traitent de l’évolution de la conception des sites Web
-- les informations de ce graphique chronologique sur la croissance du Web fourni par Internet Live Stats : https://www.internetlivestats.com/total-number-of-websites/
-- enfin, les informations contenues dans l’article de Wikipédia intitulé [«&nbsp;Site web&nbsp;»](https://fr.wikipedia.org/wiki/Site_web) qui explique comment les différents types de sites Web ont évolué au fil du temps.
+- les informations contenues dans le blog [«&nbsp;The History of Website Design&nbsp;: 28 Years of Building the Web&nbsp;» par Ryan Shelley (2019)](https://www.smamarketing.net/blog/the-history-of-website-design){:target='_blank'} ainsi que dans la vidéo [«&nbsp;The History of Web Design in 2 Min Flat&nbsp;»](https://www.youtube.com/watch?v=wJB0vnOyYmk&ab){:target='_blank'}, qui traitent de l’évolution de la conception des sites Web
+- les informations de [ce graphique chronologique sur la croissance du Web fourni par Internet Live Stats](https://www.internetlivestats.com/total-number-of-websites/){:target='_blank'}
+- enfin, les informations contenues dans l’article de Wikipédia intitulé [«&nbsp;Site web&nbsp;»](https://fr.wikipedia.org/wiki/Site_web){:target='_blank'} qui explique comment les différents types de sites Web ont évolué au fil du temps.
 
 Rédigez la dissertation dans votre formulaire de réponse.
 
