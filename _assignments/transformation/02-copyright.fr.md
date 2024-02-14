@@ -63,7 +63,7 @@ Les droits d’auteur ont été créés pour protéger les créations uniques de
 Regardez à nouveau une partie de la  vidéo «&#x202F;Transformation&#x202F;» en ayant à l’esprit les questions suivantes&#x202F;:
 - Quels types d’expertise sont requis pour créer une telle vidéo ? Aidez-vous en jetant un coup d’œil aux mentions de sources à la fin de la vidéo.
 - Quel type de contenu a été utilisé pour créer la vidéo (son, texte, image) ?
-- Les créateurs de la vidéo «&#x202F;Transformation&#x202F;» ont-ils pris des risques concernant l’utilisation des images&#x202F;? Pour vous inspirer, jetez un coup d’œil aux colonnes I et J du document du story-board ci-dessus.
+- Les créateurs de la vidéo «&#x202F;Transformation&#x202F;» ont-ils pris des risques concernant l’utilisation des images&#x202F;?
 
 <!-- section --> 
 
