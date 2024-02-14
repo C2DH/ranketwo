@@ -176,6 +176,8 @@ Um Ihnen eine Vorstellung davon zu vermitteln, wie die Fragen beantwortet werden
 <!-- section -->
 
 #### Empfehlungen Lektüre/Video
+<!-- section-contents -->
+
 Trevor Owens’ article, “Digital Sources & Digital Archives: The Evidentiary Basis of Digital History”. In David Staley (dir.), *Companion to Digital History*. Wiley-Blackwell, 2017 [https://osf.io/preprints/socarxiv/t5rdy](https://osf.io/preprints/socarxiv/t5rdy) 
 
 <!-- section -->
