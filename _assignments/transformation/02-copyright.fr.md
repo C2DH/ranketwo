@@ -27,7 +27,7 @@ Voici plusieurs façons de vérifier si vous pouvez ou non utiliser une image tr
 - Les informations concernant les droits d’auteur figurent parfois dans la section «&#x202F;Conditions d’utilisation&#x202F;» du site Web.
 - Si vous n’avez toujours pas trouvé d’informations sur le propriétaire de l’image, essayez une recherche d’image inversée sur Google en chargeant soit l’image, soit le lien de l’image dans la barre de recherche. Les résultats de recherche vous aideront à trouver d’autres sites Web sur lesquels l’image a été utilisée.
 Si aucune des suggestions n’est pertinente, contactez le détenteur des droits d’auteur en passant par le propriétaire du site Web (également appelé «&#x202F;webmaster&#x202F;»).
-Si vous avez involontairement violé une loi sur les droits d’auteur, le site Web suivant offre des conseils pour résoudre ce problème&#x202F;: https://fairuse.stanford.edu/overview/website-permissions/websites/
+Si vous avez involontairement violé une loi sur les droits d’auteur, n'hésitez pas à consulter [des sites Web spécialisés](https://fairuse.stanford.edu/overview/website-permissions/websites/).
 
 - Choisissez à présent deux autres images de l’exercice 1c, faites-en des captures d’écran et insérez celles-ci dans le tableau ci-dessous. Vous allez maintenant retracer les dispositions en matière de droits d’auteur ou l’absence de toute réglementation pour ces deux images. Comme dans l’exercice précédent, vous pouvez commencer par une recherche d’image inversée, mais cette fois en mettant l’accent sur les droits de réutilisation. Gardez à l’esprit qu’il est parfois difficile de trouver les informations de droits d’auteur d’une image. Si vous ne trouvez pas ces informations, n’utilisez pas l’image.
 
@@ -51,6 +51,9 @@ Pour avoir une idée de cette diversité, lisez les pages 197 à 204 de l’arti
 - Qu’est-ce qu’un «&#x202F;internaute&#x202F;» et quand ce terme est-il entré dans l’usage ? (faites une recherche complémentaire sur le Web)
 - Si vous utilisiez une image soumise à licence sans autorisation sur un site Web que vous avez créé dans votre pays de résidence, mais qui est accessible dans le monde entier, quelles seraient les conséquences&#x202F;?
 
+
+
+
 <!-- section --> 
 
 ### 2.c Quel type de créativité a été utilisé dans la vidéo « Transformation » ?
@@ -58,9 +61,9 @@ Pour avoir une idée de cette diversité, lisez les pages 197 à 204 de l’arti
 
 Les droits d’auteur ont été créés pour protéger les créations uniques de personnes. Si l’on considère la grande variété de technologies, de textes, de motifs, de sons et d’images qui sont utilisés dans une animation, l’on peut dire que cette dernière résulte de nombreux types de créativité. Dans cet exercice, nous vous mettons au défi de découvrir quels apports créatifs ont été nécessaires pour élaborer la vidéo «&#x202F;Transformation&#x202F;», et comment nous avons réussi à acheter les images sans payer cher.
 Regardez à nouveau une partie de la  vidéo «&#x202F;Transformation&#x202F;» en ayant à l’esprit les questions suivantes&#x202F;:
-• Quels types d’expertise sont requis pour créer une telle vidéo ? Aidez-vous en jetant un coup d’œil aux mentions de sources à la fin de la vidéo.
-• Quel type de contenu a été utilisé pour créer la vidéo ? (son, texte, image) Aidez-vous en examinant l’une des premières versions du story-board qui a été créé pour la vidéo «&#x202F;Transformation&#x202F;».
-• Les créateurs de la vidéo «&#x202F;Transformation&#x202F;» ont-ils pris des risques concernant l’utilisation des images&#x202F;? Pour vous inspirer, jetez un coup d’œil aux colonnes I et J du document du story-board ci-dessus.
+- Quels types d’expertise sont requis pour créer une telle vidéo ? Aidez-vous en jetant un coup d’œil aux mentions de sources à la fin de la vidéo.
+- Quel type de contenu a été utilisé pour créer la vidéo (son, texte, image) ?
+- Les créateurs de la vidéo «&#x202F;Transformation&#x202F;» ont-ils pris des risques concernant l’utilisation des images&#x202F;? Pour vous inspirer, jetez un coup d’œil aux colonnes I et J du document du story-board ci-dessus.
 
 <!-- section --> 
 
