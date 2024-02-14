@@ -70,7 +70,7 @@ Das Urheberrecht wurde eingeführt, um die einzigartige Schöpfung einer Person 
 Sehen Sie sich erneut einen Ausschnitt aus dem Clip „Transformation“ an und behalten Sie dabei die folgenden Fragen im Hinterkopf:
 - Welche verschiedenen Kompetenzen sind für die Erstellung eines solchen Clips erforderlich? Um sich die Aufgabe zu erleichtern, können Sie sich den Abspann am Ende des Clips ansehen.
 - Welche Art von Inhalten wurde für die Erstellung des Clips verwendet (Ton, Text, Bild)? 
-- Sind die Macher des Clips „Transformation“ Risiken in Hinblick auf die Verwendung der Bilder eingegangen? Inspiration finden Sie in den Spalten I und J des obigen Drehbuchdokuments.
+- Sind die Macher des Clips „Transformation“ Risiken in Hinblick auf die Verwendung der Bilder eingegangen?
 
 
 <!-- section --> 
