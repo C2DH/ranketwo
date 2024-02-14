@@ -75,7 +75,7 @@ Sehen Sie sich erneut einen Ausschnitt aus dem Clip „Transformation“ an und 
 
 <!-- section --> 
 
-#### Empfehlungen Lektüre/Video
+### Empfehlungen Lektüre/Video
 <!-- section-contents -->
 
 Nähere Informationen über das erste moderne Urheberrechtsgesetz: Doteasy. „THE STATUTE OF ANNE – 1710“. History of Copywrite. 2005. [Website](http://historyofcopyright.org/pb/wp_ff342f50/wp_ff342f50.html)
