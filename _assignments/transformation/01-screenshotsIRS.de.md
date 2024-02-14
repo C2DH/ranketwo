@@ -2,32 +2,86 @@
 layout: assignment
 unit: transformation
 lang: de
-title: "ASSIGNMENTS IN PREPARATION &mdash; inventors and creativity"  
+title: "Screenshots und Bilderkennungssoftware"  
 cover:
 tags:
-  -  history of technology
-  -  innovation and creativity
 learning outcomes:
--  Understand the relation between imagination, creativity and technological innovation
+  - Erlernen, wie digitale Technologie zum Kopieren von Bildern eingesetzt wird und wie dabei automatisch Metadaten (Informationen über die erstellte Kopie) erzeugt werden
+  - Erlernen der Grundprinzipien der Bilderkennung und deren Beitrag zum Übergang von textbasierten zu multimodalen Kommunikationsformen
+  - Erlernen, wie man Quellenkritik auf eine digitale Darstellung eines Objekts anwendet, das online veröffentlicht wurde
 order: 1
 ---
+Alle soeben gezeigten Bilder im Clip „Transformation“ stammen aus einer anderen Quelle. Sie wurden kopiert und mithilfe von Technologien, mit denen sich Bilder „transformieren“ und abrufen lassen, in einen neuen Kontext eingefügt. Bei dieser Aufgabe geht es um Bilderkennungssoftware, auch bekannt als Computer Vision. Zuerst werden Sie lernen, wie Sie einen Screenshot eines Bildes erstellen und die zugehörigen Metadaten untersuchen können. Anschließend lernen Sie, mithilfe von Software herauszufinden, woher ein Bild im Internet ursprünglich stammt. Zum Abschluss analysieren Sie das Bild mithilfe von Tools zur digitalen Quellenkritik. Damit können Sie den Ursprung des Bildes bis zu seiner Veröffentlichung in Form einer digitalen Darstellung innerhalb einer Online-Umgebung zurückverfolgen und alle Änderungen dokumentieren, die bis zu seiner jüngsten Form am Bild vorgenommen wurden.
+
+[card](the-metadata-librarian-explains-metadata-video)
+
 
 <!-- more -->
 
 <!-- briefing-student -->
 
-
-### 1a. Transformation, imagination and innovation
+### 1.a Screenshots untersuchen | 35 minutes
 <!-- section-contents -->
 
-clip Galileo Galilei,  
-clip Leonardo Da Vinci,
-clip Montgolfier brothers
-clip Claude Shannon
+Ein Screenshot (mitunter auch als Bildschirmfoto oder, in den Anfangszeiten des Internets, als Bildschirmausdruck bezeichnet) kann als revolutionär erachtet werden. Die Leichtigkeit, mit der man ein Bild kopieren und einfügen, in einem anderen Kontext verwenden und mit anderen teilen kann, befeuert die Verwendung und Verbreitung von Bildern im Internet. Dies gilt insbesondere für nicht urheberrechtlich geschützte Bilder. Im ersten Schritt zur Erforschung der Bilderkennung sollen Sie mit Ihrem Laptop zwei Screenshots von Bildern Ihrer Wahl aus der Animation „Transformation“ erstellen.
 
-Table with comparisons
+- Sehen Sie sich zunächst erneut den Videoclip „Transformation“ an. Halten Sie das Video an einer beliebigen Stelle an (z. B. bei Minute 0:28 oder 2:03) und machen Sie einen Screenshot von einem scharfen Bild eines Objekts oder einer Person im angehaltenen Clip. (Klicken Sie hier, um zu erfahren, wie Sie einen Screenshot auf einem Mac- oder Windows-Computer erstellen).
+
+Bei Mac-Nutzern werden die Screenshots automatisch auf dem Desktop angezeigt. Bei Windows-Nutzern werden die Screenshots in einem Ordner namens „Screenshots“ im „Bilder“-Ordner angezeigt. Kopieren Sie diese Screenshots in die beiden Felder Ihres Antwortformulars (dieses wird dieser Lektion in Kürze hinzugefügt und kann dann heruntergeladen werden).
+
+Bei der Aufnahme der Screenshots werden automatisch Informationen, sogenannte Metadaten, darüber generiert. Metadaten, ein Begriff, der wörtlich übersetzt „Daten über Daten“ bedeutet, sind Informationen über das betreffende Objekt. Es handelt sich um ein Konzept, das für die Verwaltung digitaler Inhalte (einschließlich Fotos, Texten, Audio- oder Videodateien, Tweets oder 3D-Objekten) von zentraler Bedeutung ist. Bei digital erstellten Bildern wird diese Art von Metadaten als Exif-Daten bezeichnet, wobei Exif für „Exchangeable Image File Format“ steht. Diese Datei enthält Informationen über das Bild wie die Anzahl der Pixel, die Anzahl der Bytes, das Farbschema, das Erstellungsdatum und das Format des Bildes.
+
+- Sehen Sie sich das Video [The Metadata Librarian Explains Metadata](https://youtu.be/ABF2FvSPVYE) der Metadaten-Bibliothekarin Mary Rose von den Edwardsville Libraries der Southern Illinois University an, in dem sie Ihnen anhand der Beschriftung von Speiseresten im Kühlschrank eine Einführung in das Konzept der Metadaten gibt.
+
+Sehen Sie sich nun die Metadaten des ersten der beiden Screenshots an, die Sie erstellt haben.
+- Klicken Sie [hier](../../assets/pdf/SS_Exif.data.in.Mac.and.Windows.pdf){:target="_blank"}, um zu einer PDF-Datei mit einer Übersicht über alle Metadatenfelder zu gelangen. Darin erfahren Sie auch, wie man auf sie zugreift und was sie bedeuten. In der PDF-Datei finden Sie alle wichtigen Felder für Metadateninformationen aus den nachstehenden Tabellen.
+- Füllen Sie für den ersten Ihrer beiden Screenshots lediglich die markierten Metadatenfelder aus – entweder in der Mac- oder der Windows-Version – und nehmen Sie die übrigen gängigen Metadaten zur Kenntnis.
+
+Mac OS-Metadaten  Feststellung
+Art  
+Größe  
+Ort  
+Erstellt   
+Geändert   
+Zuletzt geöffnet   
+Bildgröße  
+Farbraum   
+Farbprofil   
+Alpha-Kanal  
+Name & Suffix  
+Kommentare   
+Öffnen mit   
+Vorschau (kleinere Version des Screenshots)  
+Freigaberechte   
+
+Windows-Metadaten Feststellung
+Dateityp   
+Öffnen mit   
+Ort  
+Größe  
+Größe auf Datenträger  
+Erstellt   
+Geändert   
+Letzter Zugriff  
+Attribute  
+Objektname   
+Berechtigungen   
+Aufnahmedatum  
+Abmessungen  
+Breite   
+Höhe   
+Bittiefe   
+Name   
+Ordnerpfad   
+Attribute  
+Offlinestatus  
+Freigegeben für  
+Besitzer 
+
+- Prüfen Sie, ob die von Ihnen ermittelten Metadaten korrekt waren. Nutzen Sie dazu das Online-Tool https://www.metadata2go.com, mit dem Sie die Exif- und Metadaten eines Bildes leichter ermitteln und überprüfen können und das darüber hinaus Erklärungen zu einer Reihe von Metadatenkategorien oder -feldern liefert, mit denen Sie möglicherweise nicht vertraut sind.
 
 <!-- section -->
+
 ### 1b. application of Shannon's principle
 <!-- section-contents -->
 
