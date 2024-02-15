@@ -174,28 +174,27 @@ En allemand
 - [*Spick*](https://www.spick.ch)  
 
 En italien
-- https://www.studenti.it/classificazione-fonti-storiche.html 
-- https://www.lercio.it
-- https://www.open.online/2020/01/30/audio-di-un-italiano-bloccato-in-cina-teorie-di-complotto-e-cattiva-informazione/  
-- https://web.archive.org/web/20160306122819/http://www.lafucina.it/ 
+- "Fonti storiche: come si classificano". *Studenti*. 2023 [https://www.studenti.it/classificazione-fonti-storiche.html](https://www.studenti.it/classificazione-fonti-storiche.html) 
+- [*Lercio*](https://www.lercio.it)
+- David Puente. "Coronavirus, audio di un italiano bloccato in Cina: teorie di complotto e cattiva informazione". *Open*. 2020 [https://www.open.online/2020/01/30/audio-di-un-italiano-bloccato-in-cina-teorie-di-complotto-e-cattiva-informazione/](https://www.open.online/2020/01/30/audio-di-un-italiano-bloccato-in-cina-teorie-di-complotto-e-cattiva-informazione/)  
+- [La Fucina - archivierte Website](https://web.archive.org/web/20160306122819/http://www.lafucina.it/)
 
 En néerlandais
-- https://neoavantgarde.de/digitale-kunst/
-- https://www.atlantis-erfgoed.nl/crowdsourcing/?gclid=CjwKCAjw_LL2BRAkEiwAv2Y3Sa0vCniHi-- n88LpOKXWpsE6z4kjsqPrnS4xRD6vnSpKvHG6LMGc67RoCaVYQAvD_BwE  
-- https://www.dumpert.nl 
-- https://www.fvd.nl/standpunten
+- "Category: Digitale Kunst". *Neoavantgarde*. [https://neoavantgarde.de/digitale-kunst/](https://neoavantgarde.de/digitale-kunst/)
+- [*Dumpert*](https://www.dumpert.nl) 
+- "Standpunten". *Forum voor Democratie*. [https://www.fvd.nl/standpunten]https://www.fvd.nl/standpunten)
 
 En espagnol
-- https://www.vozpopuli.com/espana/anuncio-navidad-campofrio-2019-fake-me_0_1310269475.html 
-- https://expatpsi.com/psicologa-para-expatriados/?gclid=Cj0KCQjwoaz3BRDnARIsAF1RfLf2WLqci_I1_WKO75cKDca2u3Zg5yzXvmsBerxg4Zjrjt-Oc5Xbi6IaAh5CEALw_wcB 
-- https://www.mosteirodesaobentorio.org.br/vida-monastica/o-que-e-vida-monastica 
-- http://ri.uaemex.mx/handle/20.500.11799/104743 
+- "Anuncio de Navidad Campofrío 2019: 'Fake me'". *Vozpopuli*. 2019 [https://www.vozpopuli.com/espana/anuncio-navidad-campofrio-2019-fake-me_0_1310269475.html]https://www.vozpopuli.com/espana/anuncio-navidad-campofrio-2019-fake-me_0_1310269475.html 
+- "¿Estás buscando un espacio de psicología online?". *Expat Psi*. [https://expatpsi.com/psicologa-para-expatriados/](https://expatpsi.com/psicologa-para-expatriados/)
+- Mosteiro de São Bento do Rio de Janeiro [https://www.mosteirodesaobentorio.org.br/vida-monastica/o-que-e-vida-monastica](https://www.mosteirodesaobentorio.org.br/vida-monastica/o-que-e-vida-monastica) 
+- Repositorio institucional. Universidad Autónoma del Estado de México. [http://ri.uaemex.mx/handle/20.500.11799/104743](http://ri.uaemex.mx/handle/20.500.11799/104743) 
 
 En danois
-- https://denmark.dk 
-- https://www.thelocal.dk 
-- https://museetalhambra.dk/en/ 
-- https://stjarnhealing.se/stjarnhealingnorsk.html 
+- [Denmark.dk](https://denmark.dk) 
+- [*The Local*](https://www.thelocal.dk) 
+- [*Frederiksbergmuseerne*](https://museetalhambra.dk/en/) 
+- [*Stjarnhealing*](https://stjarnhealing.se/stjarnhealingnorsk.html) 
 
 
 <!-- briefing-teacher -->
