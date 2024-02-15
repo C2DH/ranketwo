@@ -182,10 +182,10 @@ Italienisch
 Niederländisch
 - "Category: Digitale Kunst". *Neoavantgarde*. [https://neoavantgarde.de/digitale-kunst/](https://neoavantgarde.de/digitale-kunst/)
 - [*Dumpert*](https://www.dumpert.nl) 
-- "Standpunten". *Forum voor Democratie*. [https://www.fvd.nl/standpunten]https://www.fvd.nl/standpunten)
+- "Standpunten". *Forum voor Democratie*. [https://www.fvd.nl/standpunten](https://www.fvd.nl/standpunten)
 
 Spanisch
-- "Anuncio de Navidad Campofrío 2019: 'Fake me'". *Vozpopuli*. 2019 [https://www.vozpopuli.com/espana/anuncio-navidad-campofrio-2019-fake-me_0_1310269475.html]https://www.vozpopuli.com/espana/anuncio-navidad-campofrio-2019-fake-me_0_1310269475.html 
+- "Anuncio de Navidad Campofrío 2019: 'Fake me'". *Vozpopuli*. 2019 [https://www.vozpopuli.com/espana/anuncio-navidad-campofrio-2019-fake-me_0_1310269475.html](https://www.vozpopuli.com/espana/anuncio-navidad-campofrio-2019-fake-me_0_1310269475.html 
 - "¿Estás buscando un espacio de psicología online?". *Expat Psi*. [https://expatpsi.com/psicologa-para-expatriados/](https://expatpsi.com/psicologa-para-expatriados/)
 - Mosteiro de São Bento do Rio de Janeiro [https://www.mosteirodesaobentorio.org.br/vida-monastica/o-que-e-vida-monastica](https://www.mosteirodesaobentorio.org.br/vida-monastica/o-que-e-vida-monastica) 
 - Repositorio institucional. Universidad Autónoma del Estado de México. [http://ri.uaemex.mx/handle/20.500.11799/104743](http://ri.uaemex.mx/handle/20.500.11799/104743) 
