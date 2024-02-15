@@ -156,7 +156,7 @@ Wir werden nun das CRAP-Prinzip auf eine Reihe von Webressourcen anwenden. Gehen
 | Purpose/Point of view (Zweck/Standpunkt): |   |
 
 Französish
-- Covid-19: la Chine sur la sellette, *France 24*, 25 mai 2020 [https://www.france24.com/fr/asie-pacifique/20200525-covid-19-la-chine-sur-la-sellette](https://www.france24.com/fr/asie-pacifique/20200525-covid-19-la-chine-sur-la-sellette) 
+- Covid-19: la Chine sur la sellette, *France 24*, 25 Mai 2020 [https://www.france24.com/fr/asie-pacifique/20200525-covid-19-la-chine-sur-la-sellette](https://www.france24.com/fr/asie-pacifique/20200525-covid-19-la-chine-sur-la-sellette) 
 - [*Nord Presse*](https://nordpresse.be)
 - Les spécialités de la cuisine française, *Espace français* [https://www.espacefrancais.com/specialites-cuisine-francaise-1/](https://www.espacefrancais.com/specialites-cuisine-francaise-1/)
 
@@ -182,7 +182,7 @@ Italienisch
 Niederländisch
 - "Category: Digitale Kunst". *Neoavantgarde*. [https://neoavantgarde.de/digitale-kunst/](https://neoavantgarde.de/digitale-kunst/)
 - [*Dumpert*](https://www.dumpert.nl) 
-- "Standpunten". *Forum voor Democratie*. [https://www.fvd.nl/standpunten]https://www.fvd.nl/standpunten
+- "Standpunten". *Forum voor Democratie*. [https://www.fvd.nl/standpunten]https://www.fvd.nl/standpunten)
 
 Spanisch
 - "Anuncio de Navidad Campofrío 2019: 'Fake me'". *Vozpopuli*. 2019 [https://www.vozpopuli.com/espana/anuncio-navidad-campofrio-2019-fake-me_0_1310269475.html]https://www.vozpopuli.com/espana/anuncio-navidad-campofrio-2019-fake-me_0_1310269475.html 
