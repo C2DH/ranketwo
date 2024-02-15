@@ -176,7 +176,7 @@ Deutsch
 Italienisch
 - "Fonti storiche: come si classificano". *Studenti*. 2023 [https://www.studenti.it/classificazione-fonti-storiche.html](https://www.studenti.it/classificazione-fonti-storiche.html) 
 - [*Lercio*](https://www.lercio.it)
-- David Puente. "Coronavirus, audio di un italiano bloccato in Cina: teorie di complotto e cattiva informazione". *Open*. 2020 [https://www.open.online/2020/01/30/)audio-di-un-italiano-bloccato-in-cina-teorie-di-complotto-e-cattiva-informazione/](https://www.open.online/2020/01/30/)audio-di-un-italiano-bloccato-in-cina-teorie-di-complotto-e-cattiva-informazione/  
+- David Puente. "Coronavirus, audio di un italiano bloccato in Cina: teorie di complotto e cattiva informazione". *Open*. 2020 [https://www.open.online/2020/01/30/audio-di-un-italiano-bloccato-in-cina-teorie-di-complotto-e-cattiva-informazione/](https://www.open.online/2020/01/30/audio-di-un-italiano-bloccato-in-cina-teorie-di-complotto-e-cattiva-informazione/)  
 - [La Fucina - archivierte Website](https://web.archive.org/web/20160306122819/http://www.lafucina.it/) 
 
 Niederländisch
