@@ -139,25 +139,25 @@ Wie bereits erwähnt, hatten Ovids „Metamorphosen“ einen bedeutenden Einflus
 {:.table.border.table-sm.with-pairs}
 | Frage | Antwort |
 | --- |---|
-Name, Künstler, Datum  
-Welcher Mythos ist dargestellt (inkl. Beschreibung der Figuren)?   
-Link zur entsprechenden Passage aus Ovids „Metamorphosen“?   
-Name eines zeitgenössischen Künstlers und Kunstwerks?  
+| Titel | 
+| Künstler | 
+| Datum | 
+| Welcher Mythos ist dargestellt (inkl. Beschreibung der Figuren)? |    
+| Link zur entsprechenden Passage aus Ovids „Metamorphosen“? |    
+| Name eines zeitgenössischen Künstlers und Kunstwerks? |   
 
 
 {:.table.border.table-sm.with-pairs}
-Frage Antwort
-Bild   
-Name, Künstler, Datum Der Tod von Niobes Kindern, Johann König (erste Hälfte des 17. Jahrhunderts)
-Welcher Mythos ist dargestellt (inkl. Beschreibung der Figuren)?  Als Strafe für ihre Weigerung, Leto zu verehren, töteten Letos Zwillinge, Apollo und Artemis, alle 14 Kinder von Niobe. Aus: Bk VI:204-266 The gods’ vengeance: Niobe’s sons are killed
-
-Link zur entsprechenden Passage aus Ovids „Metamorphosen“?  „There was a broad, open plain near the walls, flattened by the constant passage of horses, where many wheels and hard hooves had levelled the turf beneath them. There, a number of Amphion’s seven sons mounted on their strong horses, and sitting firmly on their backs, bright with Tyrian purple, guided them using reins heavy with gold. While Ismenus, one of these, who had been the first of his mother’s burdens, was wheeling his horse’s path around in an unerring circle, and hauling at the foaming bit, he cried out ‘Oh, I am wounded!’ and revealed an arrow fixed in his chest, and loosing the reins from his dying hands, slipped gradually, sideways, over his mount’s right shoulder.“
-  Next Sipylus, hearing the sound of a quiver in the empty air, let out the reins, just as a shipmaster sensing a storm runs for it when he sees the cloud, and claps on all sail, so that not even the slightest breeze is lost. Still giving full rein, he was overtaken, by the arrow none can avoid, and the shaft stuck quivering in his neck, and the naked tip protruded from his throat. Leaning forward, as he was, he rolled down over the mane and the galloping hooves
-
-Name eines zeitgenössischen Künstlers und Kunstwerks? https://www.widewalls.ch/banksy-art-from-gaza-and-then-more-banksy/ Banksy in Gaza – Bild der Niobe (mit freundlicher Genehmigung von banksy.co.uk)
-
-
-
+| Frage | Antwort |
+| --- |---|
+| Bild | ![The Death of Niobe's children](/../../assets/images/transformation/3d/thumbs/johann-konig-the-death-of-niobes-children.jpg)  
+| Titel | Der Tod von Niobes Kindern 
+| Künstler | Johann König 
+| Datum | Erste Hälfte des 17. Jahrhunderts 
+| Welcher Mythos ist dargestellt (inkl. Beschreibung der Figuren)? |  Als Strafe für ihre Weigerung, Leto zu verehren, töteten Letos Zwillinge, Apollo und Artemis, alle 14 Kinder von Niobe. Aus: [Bk VI:204-266 The gods’ vengeance: Niobe’s sons are killed](https://ovid.lib.virginia.edu/trans/Metamorph6.htm#480077261){:target="_blank"}
+| Link zur entsprechenden Passage aus Ovids „Metamorphosen“? |  „There was a broad, open plain near the walls, flattened by the constant passage of horses, where many wheels and hard hooves had levelled the turf beneath them. There, a number of Amphion’s seven sons mounted on their strong horses, and sitting firmly on their backs, bright with Tyrian purple, guided them using reins heavy with gold. While Ismenus, one of these, who had been the first of his mother’s burdens, was wheeling his horse’s path around in an unerring circle, and hauling at the foaming bit, he cried out ‘Oh, I am wounded!’ and revealed an arrow fixed in his chest, and loosing the reins from his dying hands, slipped gradually, sideways, over his mount’s right shoulder.“
+| | Next Sipylus, hearing the sound of a quiver in the empty air, let out the reins, just as a shipmaster sensing a storm runs for it when he sees the cloud, and claps on all sail, so that not even the slightest breeze is lost. Still giving full rein, he was overtaken, by the arrow none can avoid, and the shaft stuck quivering in his neck, and the naked tip protruded from his throat. Leaning forward, as he was, he rolled down over the mane and the galloping hooves
+| Name eines zeitgenössischen Künstlers und Kunstwerks? |  Banksy in Gaza – Bild der Niobe (mit freundlicher Genehmigung von banksy.co.uk) [Link](https://www.widewalls.ch/banksy-art-from-gaza-and-then-more-banksy/)
 
 
 
