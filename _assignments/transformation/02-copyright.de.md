@@ -49,7 +49,7 @@ Wenn Sie unbeabsichtigt gegen das Urheberrecht verstoßen haben, finden Sie auf 
 
 <!-- section --> 
 
-### 2.b. Unterschiede im Urheberrecht  
+### 2.b. Unterschiede im Urheberrecht | 25 min  
 <!-- section-contents -->
 
 Die Informationen in der obigen Aufgabe können den Eindruck erwecken, dass die Urheberrechtsvorschriften für alle Länder weltweit gelten, die mit dem Internet verbunden sind. Aber weit gefehlt! Vielmehr können die Urheberrechtsgesetze je nach Herkunftsland, in dem das Material produziert wurde oder in dem der Urheber lebt, sehr unterschiedlich ausfallen. In dieser Aufgabe werden wir kurz auf einige der Unterschiede in verschiedenen Ländern eingehen.
@@ -62,7 +62,7 @@ Um eine Vorstellung von der Vielfalt zu bekommen, lesen Sie bitte die Seiten 197
 <!-- section -->  
 
 
-### 2.c. Welche Art von Kreativität steckt im Clip „Transformation“? 
+### 2.c. Welche Art von Kreativität steckt im Clip „Transformation“? | 15 min 
 <!-- section-contents -->
 
 Das Urheberrecht wurde eingeführt, um die einzigartige Schöpfung einer Person zu schützen. Betrachtet man die Vielfalt an Technologien, Skripten, Designs, Tönen und Bildern in einer Animation, könnte man meinen, sie sei das Ergebnis vieler Arten der Kreativität. In dieser Aufgabe sollen Sie nun herausfinden, welcher kreative Input nötig war, um den Clip „Transformation“ zusammenzustellen, und wie es uns gelungen ist, die Kosten für den Bilderkauf gering zu halten.
@@ -87,4 +87,6 @@ Nähere Informationen über das erste moderne Urheberrechtsgesetz: Doteasy. „T
 - Stim, Rich. „Starting Your Copyright Research“. Stanford Copyright & Fair Use. [Website](https://fairuse.stanford.edu/overview/copyright-research/getting-started/)
 
 
-<!-- section -->
+
+<!-- briefing-teacher -->
+
