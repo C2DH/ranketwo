@@ -134,7 +134,7 @@ Regardez ce [bref exposé TED-Ed](https://youtu.be/cSKGa_7XJkg) par Noah Tavlin 
 
 Indiquez l’un des exemples donnés dans la vidéo ayant trait aux pays anglophones&#x202F;:
 
-En effectuant vos propres recherches sur le Web, essayez de trouver un exemple dans une autre langue (FR, DE, ES, IT, NL, DA, etc.)&#x202F;:
+En effectuant vos propres recherches sur le Web, essayez de trouver un exemple dans une autre langue: anglais, allemand, espagnol, portugais, italien, néerlandais, danois ou autre. 
 
 Nous allons maintenant appliquer le principe CRAP à plusieurs ressources Web. Rendez-vous sur le site Web de l’université Sewanee au Tennessee et ouvrez [ce guide](https://library.sewanee.edu/ld.php?content_id=29815361) du CRAP. Essayez de répondre aux quatre questions essentielles pour deux ressources Web (énumérées ci-dessous) dans deux langues que vous connaissez. Vous pouvez aussi essayer de le faire dans des langues que vous ne connaissez pas, en utilisant Google Traduction ou un autre outil de traduction.
 
