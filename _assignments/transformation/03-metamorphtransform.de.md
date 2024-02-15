@@ -52,7 +52,7 @@ Die Kontexte, in denen bestimmte Begriffe verwendet werden, werden von den techn
 
 Hier der Link zum [Google Books Ngram Viewer](https://books.google.com/ngrams){:target="_blank"}. In Ngram gibt man die gewünschten Begriffe in die Suchleiste oben ein und trennt sie mit einem Komma. Nach dem Anklicken der Suchen-Schaltfläche zeigt der Ngram Viewer dann ein Diagramm aller eingegebenen Begriffe an. Sehen Sie sich das nachfolgende Beispiel mit den Begriffen „Albert Einstein“, „Sherlock Holmes“ und „Frankenstein“ an. Unterhalb des Diagramms sehen Sie außerdem verschiedene Epochen in chronologischer Reihenfolge. Dabei handelt es sich um Links zu einer Liste von Büchern, die in der jeweiligen Epoche veröffentlicht wurden und Teil des 18 Millionen Bücher umfassenden Fundus sind.
 
-![Google Ngram viewer](../../assets/images/transformation/3b/ngram-viewer-2020-13-07-with-tooltip.png "Google Ngram viewer")
+![Google Ngram viewer](../../../assets/images/transformation/3b/ngram-viewer-2020-13-07-with-tooltip.png "Google Ngram viewer")
 
 
 Um einen schnellen Überblick über die Funktionsweise des Google Books Ngram Viewers zu erhalten, lesen Sie bitte [diesen Artikel von Lifewire](https://www.lifewire.com/google-books-ngram-viewer-1616701){:target="_blank"}. 
