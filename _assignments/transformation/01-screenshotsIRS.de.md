@@ -85,7 +85,7 @@ Sehen Sie sich nun die Metadaten des ersten der beiden Screenshots an, die Sie e
 
 <!-- section -->
 
-### 1.b Bilderkennungstools erkunden
+### 1.b Bilderkennungstools erkunden | 50 min
 <!-- section-contents -->
 
 Der Zweck von Bilderkennungssoftware besteht darin, Systemen beizubringen, Muster in Bildern auf die gleiche Weise zu erkennen wie der Mensch. Die Software wird mithilfe von Daten trainiert, die es ihr ermöglichen, eine Art Vorhersagemodell zu erstellen. Dieses Modell definiert eine Reihe von Bedingungen, die erfüllt sein müssen, und übersetzt diese in Pixelwerte, sodass die Software unterschiedliche Bilder erkennen kann, indem sie nach der größtmöglichen Ähnlichkeit mit dem sucht, was sie gelernt und gespeichert hat. Wir werden uns nun zwei Online-Bilderkennungsdienste ansehen: einen relativ bekannten, [Bild mit Google suchen](https://www.google.com/imghp?hl=de){:target="_blank"}, et un moins connu, [Tineye](https://tineye.com){:target="_blank"}, und einen weniger bekannten Dienst, Tineye.
@@ -110,7 +110,7 @@ Für diese Aufgabe wählen Sie den zweiten der beiden Screenshots aus, die Sie i
 
 
 <!-- section -->
-### 1.c Digitale Quellenkritik auf Screenshots anwenden
+### 1.c Digitale Quellenkritik auf Screenshots anwenden | 50 min
 <!-- section-contents -->
 
 Der Begriff „Quellenkritik“ bezieht sich auf die kritische Auseinandersetzung mit einer Quelle. Historiker beispielsweise stellen seit jeher die Herkunft, Bedeutung und Glaubwürdigkeit der von ihnen verwendeten historischen Quellen in Frage. Wird eine Quelle jedoch digitalisiert, online veröffentlicht und von vielen Personen vervielfältigt, gestaltet sich die Rückverfolgung ihrer Herkunft unter Umständen schwieriger. In dieser Aufgabe sollen Sie die Eigenschaften eines Bildes von seiner ursprünglichen Erstellung bis zu seiner digitalen Präsentation im Internet dokumentieren. Insbesondere sollen die Veränderungen nachvollzogen werden, die bei jeder Umwandlung des Bildes in ein anderes Format auftreten. Es ist dabei wichtig zu beachten, dass das transformierte Bild zwar in den meisten Fällen dieselbe Botschaft wie das Original vermittelt, sein artefaktischer Wert sich jedoch tiefgreifend verändert hat.
@@ -178,7 +178,11 @@ Um Ihnen eine Vorstellung davon zu vermitteln, wie die Fragen beantwortet werden
 ### Empfehlungen Lektüre/Video
 <!-- section-contents -->
 
-Trevor Owens’ article, “Digital Sources & Digital Archives: The Evidentiary Basis of Digital History”. In David Staley (dir.), *Companion to Digital History*. Wiley-Blackwell, 2017 [https://osf.io/preprints/socarxiv/t5rdy](https://osf.io/preprints/socarxiv/t5rdy) 
+- Klein, Matt. „What Is EXIF Data, and How Can I Remove It from My Photos“. _How-to Geek_, 10. Juli 2017. [Magazin-Artikel](https://www.howtogeek.com/203592/what-is-exif-data-and-how-to-remove-it/){:target="_blank"}
+- Neatrour, Anna, und Martin Greer. „Using Metadata to Describe Digital Content“. 30. September 2015. Digpublib. Video, 35:51. [Youtube-Video](https://www.youtube.com/watch?v=RqgFLj_yspk){:target="_blank"}
+- Jagdish, Deepak, und Daniel Smilkov. „The Power of Metadata“. 25 September 2013, TEDxCambridge. Video, 9:57. [Youtube-Video](https://www.youtube.com/watch?v=i2a8pDbCabg){:target="_blank"}
+- Michel, Jean-Baptiste, Yuan Kui Shen, Aviva P. Aiden, Adrian Veres, Matthew K. Gray, *et al.* „Quantitative analysis of culture using millions of digitized books“. _Science_ 331, (6014): 176-182. [Harvard Library](https://dash.harvard.edu/handle/1/8899722){:target="_blank"}
+- Szeliski, Richard. „Computer Vision: Algorithms and Applications by Richard“. Letzter Zugriff: 23. Mai 2022. [Website](http://szeliski.org/Book/){:target="_blank"}
 
 <!-- briefing-teacher -->
 
