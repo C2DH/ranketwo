@@ -13,7 +13,7 @@ order: 1
 ---
 Alle soeben gezeigten Bilder im Clip „Transformation“ stammen aus einer anderen Quelle. Sie wurden kopiert und mithilfe von Technologien, mit denen sich Bilder „transformieren“ und abrufen lassen, in einen neuen Kontext eingefügt. Bei dieser Aufgabe geht es um Bilderkennungssoftware, auch bekannt als Computer Vision. Zuerst werden Sie lernen, wie Sie einen Screenshot eines Bildes erstellen und die zugehörigen Metadaten untersuchen können. Anschließend lernen Sie, mithilfe von Software herauszufinden, woher ein Bild im Internet ursprünglich stammt. Zum Abschluss analysieren Sie das Bild mithilfe von Tools zur digitalen Quellenkritik. Damit können Sie den Ursprung des Bildes bis zu seiner Veröffentlichung in Form einer digitalen Darstellung innerhalb einer Online-Umgebung zurückverfolgen und alle Änderungen dokumentieren, die bis zu seiner jüngsten Form am Bild vorgenommen wurden.
 
-[card](...//the-metadata-librarian-explains-metadata-video)
+[card](the-metadata-librarian-explains-metadata-video)
 
 <!-- more -->
 
@@ -24,7 +24,7 @@ Alle soeben gezeigten Bilder im Clip „Transformation“ stammen aus einer ande
 
 Ein Screenshot (mitunter auch als Bildschirmfoto oder, in den Anfangszeiten des Internets, als Bildschirmausdruck bezeichnet) kann als revolutionär erachtet werden. Die Leichtigkeit, mit der man ein Bild kopieren und einfügen, in einem anderen Kontext verwenden und mit anderen teilen kann, befeuert die Verwendung und Verbreitung von Bildern im Internet. Dies gilt insbesondere für nicht urheberrechtlich geschützte Bilder. Im ersten Schritt zur Erforschung der Bilderkennung sollen Sie mit Ihrem Laptop zwei Screenshots von Bildern Ihrer Wahl aus der Animation „Transformation“ erstellen.
 
-- Sehen Sie sich zunächst erneut den Videoclip „Transformation“ an. Halten Sie das Video an einer beliebigen Stelle an (z. B. bei Minute 0:28 oder 2:03) und machen Sie einen Screenshot von einem scharfen Bild eines Objekts oder einer Person im angehaltenen Clip. (Klicken Sie hier, um zu erfahren, wie Sie einen Screenshot auf einem Mac- oder Windows-Computer erstellen).
+- Sehen Sie sich zunächst erneut den Videoclip „Transformation“ an. Halten Sie das Video an einer beliebigen Stelle an (z. B. bei Minute 0:28 oder 2:03) und machen Sie einen Screenshot von einem scharfen Bild eines Objekts oder einer Person im angehaltenen Clip. (Klicken Sie [hier](https://lifehacker.com/how-to-take-a-screenshot-or-picture-of-whats-on-your-co-5825771){:target="_blank"}, um zu erfahren, wie Sie einen Screenshot auf einem Mac- oder Windows-Computer erstellen).
 
 Bei Mac-Nutzern werden die Screenshots automatisch auf dem Desktop angezeigt. Bei Windows-Nutzern werden die Screenshots in einem Ordner namens „Screenshots“ im „Bilder“-Ordner angezeigt. Kopieren Sie diese Screenshots in die beiden Felder Ihres Antwortformulars (dieses wird dieser Lektion in Kürze hinzugefügt und kann dann heruntergeladen werden).
 
