@@ -156,48 +156,45 @@ Wir werden nun das CRAP-Prinzip auf eine Reihe von Webressourcen anwenden. Gehen
 | Purpose/Point of view (Zweck/Standpunkt): |   |
 
 Französish
-- [http://apprendre-la-philosophie.blogspot.com/2010/02/la-source-premiere-de-toute.html](http://apprendre-la-philosophie.blogspot.com/2010/02/la-source-premiere-de-toute.html) 
-- [https://www.france24.com/fr/asie-pacifique/20200525-covid-19-la-chine-sur-la-sellette](https://www.france24.com/fr/asie-pacifique/20200525-covid-19-la-chine-sur-la-sellette) 
-- [https://nordpresse.be](https://nordpresse.be)
-- [https://www.espacefrancais.com/specialites-cuisine-francaise-1/](https://www.espacefrancais.com/specialites-cuisine-francaise-1/)
+- Covid-19: la Chine sur la sellette, *France 24*, 25 mai 2020 [https://www.france24.com/fr/asie-pacifique/20200525-covid-19-la-chine-sur-la-sellette](https://www.france24.com/fr/asie-pacifique/20200525-covid-19-la-chine-sur-la-sellette) 
+- [*Nord Presse*](https://nordpresse.be)
+- Les spécialités de la cuisine française, *Espace français* [https://www.espacefrancais.com/specialites-cuisine-francaise-1/](https://www.espacefrancais.com/specialites-cuisine-francaise-1/)
 
 Englisch
-- [https://web.archive.org/web/20010215000000*/http://nomorefakenews.com/](https://web.archive.org/web/20010215000000*/http://nomorefakenews.com)
-- [http://realnewsrightnow.com](http://realnewsrightnow.com)
-- [https://www.onenation.org.au](https://www.onenation.org.au)
-- [https://www.globalresearch.ca](https://www.globalresearch.ca)
-- [https://www.darkmoon.me](https://www.darkmoon.me)
-- [http://livingpresence.com](http://livingpresence.com)
+- [*No More Fake News* - archivierte Website](https://web.archive.org/web/20010215000000*/http://nomorefakenews.com)
+- [*Real News Right Now*](http://realnewsrightnow.com)
+- [*One Nation*](https://www.onenation.org.au)
+- [*Global Research*](https://www.globalresearch.ca)
+- [*Living Presence*](http://livingpresence.com)
 
 Deutsch
-- https://www.der-postillon.com 
-- https://jungefreiheit.de/kultur/ 
-- https://www.selbstheilung-online.com 
-- https://www.spick.ch  
+- [*Der Postillon*](https://www.der-postillon.com) 
+- [*Junge Freiheit*](https://jungefreiheit.de/kultur/) 
+- [*Selbstheilung Online*](https://www.selbstheilung-online.com) 
+- [*Spick*](https://www.spick.ch)  
 
 Italienisch
-- https://www.studenti.it/classificazione-fonti-storiche.html 
-- https://www.lercio.it
-- https://www.open.online/2020/01/30/audio-di-un-italiano-bloccato-in-cina-teorie-di-complotto-e-cattiva-informazione/  
-- https://web.archive.org/web/20160306122819/http://www.lafucina.it/ 
+- "Fonti storiche: come si classificano". *Studenti*. 2023 [https://www.studenti.it/classificazione-fonti-storiche.html](https://www.studenti.it/classificazione-fonti-storiche.html) 
+- [*Lercio*](https://www.lercio.it)
+- David Puente. "Coronavirus, audio di un italiano bloccato in Cina: teorie di complotto e cattiva informazione". *Open*. 2020 [https://www.open.online/2020/01/30/)audio-di-un-italiano-bloccato-in-cina-teorie-di-complotto-e-cattiva-informazione/](https://www.open.online/2020/01/30/)audio-di-un-italiano-bloccato-in-cina-teorie-di-complotto-e-cattiva-informazione/  
+- [La Fucina - archivierte Website](https://web.archive.org/web/20160306122819/http://www.lafucina.it/) 
 
 Niederländisch
-- https://neoavantgarde.de/digitale-kunst/
-- https://www.atlantis-erfgoed.nl/crowdsourcing/?gclid=CjwKCAjw_LL2BRAkEiwAv2Y3Sa0vCniHi-- n88LpOKXWpsE6z4kjsqPrnS4xRD6vnSpKvHG6LMGc67RoCaVYQAvD_BwE  
-- https://www.dumpert.nl 
-- https://www.fvd.nl/standpunten
+- "Category: Digitale Kunst". *Neoavantgarde*. [https://neoavantgarde.de/digitale-kunst/](https://neoavantgarde.de/digitale-kunst/)
+- [*Dumpert*](https://www.dumpert.nl) 
+- "Standpunten". *Forum voor Democratie*. [https://www.fvd.nl/standpunten]https://www.fvd.nl/standpunten
 
 Spanisch
-- https://www.vozpopuli.com/espana/anuncio-navidad-campofrio-2019-fake-me_0_1310269475.html 
-- https://expatpsi.com/psicologa-para-expatriados/?gclid=Cj0KCQjwoaz3BRDnARIsAF1RfLf2WLqci_I1_WKO75cKDca2u3Zg5yzXvmsBerxg4Zjrjt-Oc5Xbi6IaAh5CEALw_wcB 
-- https://www.mosteirodesaobentorio.org.br/vida-monastica/o-que-e-vida-monastica 
-- http://ri.uaemex.mx/handle/20.500.11799/104743 
+- "Anuncio de Navidad Campofrío 2019: 'Fake me'". *Vozpopuli*. 2019 [https://www.vozpopuli.com/espana/anuncio-navidad-campofrio-2019-fake-me_0_1310269475.html]https://www.vozpopuli.com/espana/anuncio-navidad-campofrio-2019-fake-me_0_1310269475.html 
+- "¿Estás buscando un espacio de psicología online?". *Expat Psi*. [https://expatpsi.com/psicologa-para-expatriados/](https://expatpsi.com/psicologa-para-expatriados/)
+- Mosteiro de São Bento do Rio de Janeiro [https://www.mosteirodesaobentorio.org.br/vida-monastica/o-que-e-vida-monastica](https://www.mosteirodesaobentorio.org.br/vida-monastica/o-que-e-vida-monastica) 
+- Repositorio institucional. Universidad Autónoma del Estado de México. [http://ri.uaemex.mx/handle/20.500.11799/104743](http://ri.uaemex.mx/handle/20.500.11799/104743) 
 
 Dänisch
-- https://denmark.dk 
-- https://www.thelocal.dk 
-- https://museetalhambra.dk/en/ 
-- https://stjarnhealing.se/stjarnhealingnorsk.html 
+- [Denmark.dk](https://denmark.dk) 
+- [*The Local*](https://www.thelocal.dk) 
+- [*Frederiksbergmuseerne*](https://museetalhambra.dk/en/) 
+- [*Stjarnhealing*](https://stjarnhealing.se/stjarnhealingnorsk.html) 
 
 
 <!-- briefing-teacher -->
