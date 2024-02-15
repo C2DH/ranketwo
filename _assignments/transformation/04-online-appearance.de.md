@@ -17,7 +17,7 @@ Wie im Clip [„Transformation“](https://ranke2.uni.lu/de/u/transformation/#c-
 
 
 
-### 4.a Veränderung des eigenen Aussehens: Narzissmus
+### 4.a Veränderung des eigenen Aussehens: Narzissmus | 45 min 
 <!-- section-contents -->
 
 Der direkte Zugang zum Leben von Prominenten, die einen bestimmten Lebensstil propagieren, verstärkt die Tendenz, mit dem eigenen Aussehen oder der eigenen Persönlichkeit unzufrieden zu sein, während die digitale Technologie den Drang fördert, uns eine andere Persönlichkeit zu „basteln“ oder zu „modellieren“ als die, die uns genetisch vorbestimmt ist. In dieser Aufgabe sollen Sie dieses Phänomen untersuchen, das mit einem von Ovids Gedichten über einen Mann namens Narziss zusammenhängt, welcher sich in sein eigenes Spiegelbild verliebt.
@@ -42,7 +42,7 @@ In einer Rezension von William Saletan in der New York Times werden zwei Bücher
 
 <!-- section -->  
 
-### 4.b Transformation kann Spaß machen!
+### 4.b Transformation kann Spaß machen! | 15 min 
 <!-- section-contents -->
 
 Auch wenn es sicherlich negative Aspekte der sozialen Medien gibt, die man im Auge behalten sollte, kann die Veränderung unseres Aussehens mithilfe von Apps auch einfach nur zum Vergnügen genutzt werden. Wir können uns über uns selbst, unsere Freunde oder Promis lustig machen, indem wir einem Gesicht Merkmale hinzufügen, es verzerren oder es verändern. Lassen Sie uns nun die Funktionsweisen und Hintergründe einiger bekannter und häufig verwendeter Technologien zur digitalen Transformation erkunden.
