@@ -163,10 +163,3 @@ Wie bereits erwähnt, hatten Ovids „Metamorphosen“ einen bedeutenden Einflus
 
 <!-- section -->
 
-### Empfehlungen Lektüre/Video
-<!-- section-contents -->
-
-
-
-
-<!-- section -->

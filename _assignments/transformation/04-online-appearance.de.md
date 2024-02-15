@@ -58,11 +58,3 @@ Auch wenn es sicherlich negative Aspekte der sozialen Medien gibt, die man im Au
 
 
 <!-- section -->
-
-### Empfehlungen Lektüre/Video
-<!-- section-contents -->
-
-
-
-
-<!-- section -->
