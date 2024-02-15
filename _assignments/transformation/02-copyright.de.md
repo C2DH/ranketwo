@@ -2,7 +2,7 @@
 layout: assignment
 unit: transformation
 lang: de
-title: "– Das Recht zu kopieren: Die Rolle des Urheberrechts bei der Transformation"  
+title: "Das Recht zu kopieren: Die Rolle des Urheberrechts bei der Transformation"  
 cover:
 tags:
 learning outcomes:
