@@ -14,7 +14,7 @@ Im Clip „Transformation“ wird die Behauptung aufgestellt, dass die digitale 
 
 <!-- briefing-student -->
 
-### 3.a Interpretation und Herkunft von zwei Schlüsselbegriffen: „Metamorphose“ und „Transformation“ 
+### 3.a Interpretation und Herkunft von zwei Schlüsselbegriffen: „Metamorphose“ und „Transformation“ | 20 min
 <!-- section-contents -->
 
 Die Begriffe „Metamorphose“ und „Transformation“ sind verwandt, aber nicht gleichbedeutend. „Metamorphose“ wird mit Tieren assoziiert, die in der Lage sind, sich von einer Form in eine andere zu verwandeln (obwohl dies nicht der ursprünglichen Bedeutung entspricht), während „Transformation“ ein allgemeinerer Verweis auf „Veränderung“ ist und häufig in Verbindung mit „digital“ verwendet wird. Um die ursprüngliche Bedeutung oder den Ursprung eines Wortes (auch Etymologie genannt) herauszufinden, musste man vor Aufkommen des Internets ein gedrucktes Wörterbuch zur Hand nehmen, dessen Glaubwürdigkeit und Autorität durch den Status einer Organisation oder Person gesichert war (in der Regel entweder der Verlag oder die Herausgeber). Die digitale Technologie kann uns helfen, verschiedene Interpretationen der ursprünglichen Bedeutung eines Wortes sofort abzurufen. Sie kann auch dabei helfen, nachzuverfolgen, wie sich diese Bedeutungen im Laufe der Zeit verändert haben. Dennoch gilt dieselbe Quellenkritik, wie Sie sie bei gedruckten Materialien anwenden würden, auch für Informationsquellen im Internet.
@@ -45,7 +45,7 @@ Um die Qualität dieser Ressource zu bewerten, verwenden Sie die oben genannte C
 
 <!-- section -->
 
-### 3.b Veränderungen in der Verwendung der Begriffe „Transformation“ und „Metamorphose“ in der Sprache 
+### 3.b Veränderungen in der Verwendung der Begriffe „Transformation“ und „Metamorphose“ in der Sprache | 55 min 
 <!-- section-contents -->
 
 Die Kontexte, in denen bestimmte Begriffe verwendet werden, werden von den technologischen, kulturellen und wirtschaftlichen Veränderungen innerhalb der Gesellschaft beeinflusst. Wie sich die Verwendung von Begriffen im Laufe der Zeit verändert, lässt sich mithilfe eines Tools namens „Google Books Ngram Viewer“ nachverfolgen. Dabei handelt es sich um eine von Google entwickelte Suchmaschine, welche die Häufigkeit eines Begriffes in 18 Millionen öffentlich zugänglichen, englischsprachigen Büchern, die zwischen 1500 und 2008 gedruckt wurden, erhebt. Dies geschieht durch eine statistische Analyse jährlicher Wortzählungen. Obschon nicht vollständig repräsentativ, kann dies doch einen guten Eindruck davon vermitteln, wie sich die Bedeutung eines Begriffes im Laufe der Zeit verändern kann.
@@ -92,7 +92,7 @@ Beurteilung
 
 <!-- section -->
 
-### 3.c Metamorphose und Ovid: die klassische Quelle
+### 3.c Metamorphose und Ovid: die klassische Quelle | 30 min
 <!-- section-contents -->
 
 Metamorphose (auch als Umgestaltung oder Verwandlung bezeichnet) ist seit Anbeginn der Zeit ein immer wiederkehrendes Thema in der Mythologie, der Folklore und der spekulativen Fiktion. Eines der einflussreichsten von der griechischen Mythologie inspirierten Werke, das sich mit diesem Thema befasst, ist Ovids episches Gedicht „Metamorphosen“. [Ovid (lateinisch: Ovidius)](https://de.wikipedia.org/wiki/Ovid){:target="_blank"} war ein römischer Dichter, der von 43 v. Chr. bis 17/18 n. Chr. lebte und bereits zu Lebzeiten und erst recht nach seinem Tod ziemlich berühmt wurde. Sein Hauptwerk, das epische Gedicht „Metamorphosen“, besteht aus über 250 Einzelsagen rund um die Idee der „Verwandlung in eine andere Gestalt“ und erzählt die „Geschichte“ der Welt von ihrer Erschaffung bis zur Zeit Cäsars. Die „Metamorphosen“ haben die westliche Kultur seit ihrer Entstehung maßgeblich beeinflusst und waren unter anderem Inspiration für verschiedene Theaterstücke von William Shakespeare. Im Rahmen dieser Aufgabe werden wir uns nun mit einigen der Hauptthemen in diesem Gedicht beschäftigen.
@@ -118,7 +118,7 @@ Hören Sie sich die ersten 10 Minuten [dieses BBC-Podcasts](https://www.youtube.
 
 <!-- section -->
 
-### 3.d Metamorphose in der Malerei
+### 3.d Metamorphose in der Malerei| 40 min
 <!-- section-contents -->
 
 Die Faszination des römischen Dichters Ovid für die sich ständig verändernde Welt führte zu seinem Epos „Metamorphosen“. Dass diese Faszination ungebrochen ist, wird durch die enorme Wirkung seiner Dichtung, insbesondere auf die westliche Kultur, deutlich. Künstler der Renaissance und des Barocks stellten häufig mythologische Szenen und Figuren aus seiner Dichtung dar, und auch berühmte Schriftsteller wie Shakespeare und Chaucer griffen auf sein Werk zurück. Ovid wäre sicherlich begeistert gewesen, hätte er erfahren, dass der Aufbau seines Werkes heute mithilfe digitaler Werkzeuge analysiert werden kann. Die wiederholte Verwendung des Begriffs „Transformation“ im Zusammenhang mit den Auswirkungen der digitalen Technologie auf die heutige Gesellschaft erinnert an Ovids Faszination für die Verwandlung. In dieser Aufgabe sollen Sie Themen aus den „Metamorphosen“ identifizieren, die in Gemälden dargestellt sind, auf die wir dank der digitalen Technologie heute sofortigen Zugriff haben.
