@@ -9,6 +9,8 @@ learning outcomes:
   - Erlernen, wie digitale Technologie zum Kopieren von Bildern eingesetzt wird und wie dabei automatisch Metadaten (Informationen über die erstellte Kopie) erzeugt werden
   - Erlernen der Grundprinzipien der Bilderkennung und deren Beitrag zum Übergang von textbasierten zu multimodalen Kommunikationsformen
   - Erlernen, wie man Quellenkritik auf eine digitale Darstellung eines Objekts anwendet, das online veröffentlicht wurde
+documents:
+  - the-metadata-librarian-explains-metadata-video
 order: 1
 ---
 Alle soeben gezeigten Bilder im Clip „Transformation“ stammen aus einer anderen Quelle. Sie wurden kopiert und mithilfe von Technologien, mit denen sich Bilder „transformieren“ und abrufen lassen, in einen neuen Kontext eingefügt. Bei dieser Aufgabe geht es um Bilderkennungssoftware, auch bekannt als Computer Vision. Zuerst werden Sie lernen, wie Sie einen Screenshot eines Bildes erstellen und die zugehörigen Metadaten untersuchen können. Anschließend lernen Sie, mithilfe von Software herauszufinden, woher ein Bild im Internet ursprünglich stammt. Zum Abschluss analysieren Sie das Bild mithilfe von Tools zur digitalen Quellenkritik. Damit können Sie den Ursprung des Bildes bis zu seiner Veröffentlichung in Form einer digitalen Darstellung innerhalb einer Online-Umgebung zurückverfolgen und alle Änderungen dokumentieren, die bis zu seiner jüngsten Form am Bild vorgenommen wurden.
