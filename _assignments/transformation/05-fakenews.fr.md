@@ -161,7 +161,7 @@ En français
 - Les spécialités de la cuisine française, *Espace français* [https://www.espacefrancais.com/specialites-cuisine-francaise-1/](https://www.espacefrancais.com/specialites-cuisine-francaise-1/)
 
 En anglais
-- [Archived version of No More Fake News/](https://web.archive.org/web/20010215000000*/http://nomorefakenews.com)
+- [No More Fake News - version archivée](https://web.archive.org/web/20010215000000*/http://nomorefakenews.com)
 - [*Real News Right Now*](http://realnewsrightnow.com)
 - [*One Nation*](https://www.onenation.org.au)
 - [*Global Research*](https://www.globalresearch.ca)
