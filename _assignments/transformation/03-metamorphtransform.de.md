@@ -118,7 +118,7 @@ Hören Sie sich die ersten 10 Minuten [dieses BBC-Podcasts](https://www.youtube.
 
 <!-- section -->
 
-### 3.d Metamorphose in der Malerei| 40 min
+### 3.d Metamorphose in der Malerei | 40 min
 <!-- section-contents -->
 
 Die Faszination des römischen Dichters Ovid für die sich ständig verändernde Welt führte zu seinem Epos „Metamorphosen“. Dass diese Faszination ungebrochen ist, wird durch die enorme Wirkung seiner Dichtung, insbesondere auf die westliche Kultur, deutlich. Künstler der Renaissance und des Barocks stellten häufig mythologische Szenen und Figuren aus seiner Dichtung dar, und auch berühmte Schriftsteller wie Shakespeare und Chaucer griffen auf sein Werk zurück. Ovid wäre sicherlich begeistert gewesen, hätte er erfahren, dass der Aufbau seines Werkes heute mithilfe digitaler Werkzeuge analysiert werden kann. Die wiederholte Verwendung des Begriffs „Transformation“ im Zusammenhang mit den Auswirkungen der digitalen Technologie auf die heutige Gesellschaft erinnert an Ovids Faszination für die Verwandlung. In dieser Aufgabe sollen Sie Themen aus den „Metamorphosen“ identifizieren, die in Gemälden dargestellt sind, auf die wir dank der digitalen Technologie heute sofortigen Zugriff haben.
