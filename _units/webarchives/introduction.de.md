@@ -3,12 +3,9 @@ title: Introduction
 type: introduction
 parent: webarchives
 tags:
-  - media studies
-  - history of technology
-  - history of the web
 lang: de
 ---
 
-This lesson teaches the basic technology of the web to historians based on a case study in which two websites on the interview collection of the psychologist David Boder created in 2000 and 2009 are compared. It then explores the uses and challenges of web archives for historians.
+Diese Lektion vermittelt Historikern die grundlegenden Technologien des Webs anhand einer Fallstudie, in der zwei Websites über die Interviewsammlung des Psychologen David Boder aus den Jahren 2000 und 2009 verglichen werden. Anschließend werden die Vorteile und Herausforderungen von Web-Archiven für Historiker untersucht.
 
-An animated video lecture of 10 minutes offers an introduction to the basics of web technology. Then a series of assignments covers the history of the web, the technologies upon which it is based, and how to deal with web archives.
+Ein animierter, 10-minütiger Videovortrag bietet eine Einführung in die Grundlagen der Web-Technologie. Anschließend befasst sich eine Reihe von Aufgaben mit der Geschichte des Webs, den Technologien, auf denen es basiert, und dem Umgang mit Web-Archiven.

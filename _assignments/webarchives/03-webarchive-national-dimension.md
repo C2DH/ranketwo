@@ -13,7 +13,8 @@ documents:
   - webarchives-luxembourg
 order: 3
 ---
-Fortunately, the Internet Archive is not the only institution that is trying to archive the web. Several other institutions are active on a smaller scale, usually for websites considered important or relevant to specific countries. Several European countries, such as Finland, France, Ireland, Spain and Sweden, have even included web archives in the [legal deposit](https://en.wikipedia.org/wiki/Legal_deposit){:target='_blank'} of their country, which means that they have attributed a similar status to websites as that given to archive material such as books and newspapers for centuries. See for example the UK (<https://www.webarchive.org.uk>{:target='_blank'}), Denmark (<http://netarkivet.dk/in-english/>{:target='_blank'}) and France (<https://www.bnf.fr/fr/archives-de-linternet>{:target='_blank'}).
+Fortunately, the Internet Archive is not the only institution that is trying to archive the web. Several other institutions are active on a smaller scale, usually for websites considered important or relevant to specific countries. Several European countries, such as Finland, France, Ireland, Spain and Sweden, have even included web archives in the [legal deposit](https://en.wikipedia.org/wiki/Legal_deposit){:target='_blank'} of their country, which means that they have attributed a similar status to websites as that given to archive material such as books and newspapers for centuries. See the examples of the [UK](https://www.webarchive.org.uk){:target='_blank'}, [Denmark](http://netarkivet.dk/in-english/){:target='_blank'} and [France](https://www.bnf.fr/fr/archives-de-linternet){:target='_blank'}.
+
 Yet the task of archiving the entire web is not an easy one. The explosive growth of online content, especially since the 2000s, has made it impossible for archives and organisations to archive every single website and its various versions over time. Even as the technological expertise at these institutions has increased, a decrease in activities at the national level can be observed, which leads to a stronger dependency on the IA. This is luckily not the case in Luxembourg, where the National Library (Bibliothèque nationale du Luxembourg or BnL) has been tasked with archiving the Luxembourgish web since 2016.
 
 [card](webarchives-luxembourg)
@@ -24,14 +25,14 @@ Yet the task of archiving the entire web is not an easy one. The explosive growt
 
 ### 3.a Challenges and limits of preservation: The example of the Luxembourg Web Archive
 <!-- section-contents -->
-In this sub-assignment, the Luxembourg Web Archive (LWA) (<https://www.webarchive.lu/>{:target='_blank'}) managed by the BnL will be explored to identify the benefits, limitations and challenges of web archiving.
+In this sub-assignment, the [Luxembourg Web Archive (LWA)](https://www.webarchive.lu/){:target='_blank'}) managed by the BnL will be explored to identify the benefits, limitations and challenges of web archiving.
 Web archivists have the task of defining the parameters and criteria for their digital collection of web pages. They have to decide which types of sites they should archive (i.e. government sites, news agency sites, museum sites, personal blogs, etc.), how many times a year snapshots should be taken, and how this content can be made accessible to their audience.
 
 {:style='text-align: center'}
 ![lux-web](/../../assets/images/lux-web.png "lux-web")
 
 Imagine that you work at the National Library of Luxembourg and your job is to help select and collect all the relevant information on the web that pertains to the Grand Duchy of Luxembourg. Now imagine that a secondary school student wants to understand how the LWA works and has asked you to help explain it to her.
-Using the information found on the main page of the Luxembourg Web Archive (<https://www.webarchive.lu/>{:target='_blank'}), its FAQ section (<https://www.webarchive.lu/faq/>{:target='_blank'}) and the “How it Works” page (<https://www.webarchive.lu/how-it-works/>{:target='_blank'}), answer the following questions that are posed by this imaginary secondary school student:
+Using the information found on the [main page of the Luxembourg Web Archive](https://www.webarchive.lu/){:target='_blank'}), its [FAQ section](https://www.webarchive.lu/faq/){:target='_blank'}) and the [“How it Works” page](https://www.webarchive.lu/how-it-works/){:target='_blank'}), answer the following questions that are posed by this imaginary secondary school student:
 
 {:style='margin: 1rem auto; max-width: 400px'}
 [![How it Works](https://image.thum.io/get/https://www.webarchive.lu/how-it-works/ "How it Works")](https://www.webarchive.lu/how-it-works/){:target='_blank'}
@@ -56,7 +57,7 @@ The example of the LWA in assignment 3.a shows the contradiction between the pri
 
 Download the teaching aid for working with the interface of the Wayback Machine from; url
 
-Go to the Internet Archive’s Wayback Machine (<https://web.archive.org/>{:target='_blank'}), copy and paste the URL www.luxembourg.lu and press the “Enter” key. You should arrive on the page <https://web.archive.org/web/*/www.luxembourg.lu>{:target='_blank'}.
+Go to the Internet Archive’s [Wayback Machine](https://web.archive.org/){:target='_blank'}), copy and paste the URL www.luxembourg.lu and press the “Enter” key. You should arrive on the page <https://web.archive.org/web/*/www.luxembourg.lu>{:target='_blank'}.
 Referring to the WM interface user guide, answer the following questions:
 
 -	Select two elements on this page that provide information about how the Internet Archive has archived the web page that corresponds to this specific URL.
@@ -65,7 +66,7 @@ Referring to the WM interface user guide, answer the following questions:
 
 | use the answer form to write down the answers |
 
-Under the URL search bar, click on the “Summary” button for statistics and details about the archived snapshots of the www.luxembourg.lu web page.
+Under the URL search bar, click on the “Summary” button for statistics and details about the archived snapshots of the `www.luxembourg.lu` web page.
 -	How many captures of the site were made in 1996? How many in 2005?
 -	What can be inferred from this? Why do you think the number of captures might be uneven over time?
 -	What does this mean for using the Wayback Machine as a resource for archiving web pages?

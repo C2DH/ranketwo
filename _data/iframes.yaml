@@ -127,7 +127,7 @@
     type: vimeo
     aspectratio: aspect-16-9
     thumbnail: "https://i.vimeocdn.com/video/718778251-e956998ac337adff4e56093edf452aed2f5895d0b136df3cd6a8bc4062f6c50c-d?mw=900&mh=506&q=70"
-    title: "Lars Wieneke about changes in web technology"
+    title: "Lars Wieneke, ingénieur, explique les changements de la technologie du Web"
     src: "https://player.vimeo.com/video/312895779"
 
 -
@@ -135,7 +135,7 @@
     type: vimeo
     aspectratio: aspect-16-9
     thumbnail: "https://i.vimeocdn.com/video/718778251-e956998ac337adff4e56093edf452aed2f5895d0b136df3cd6a8bc4062f6c50c-d?mw=900&mh=506&q=70"
-    title: "Lars Wieneke about changes in web technology"
+    title: "Lars Wieneke über Veränderungen in der Web-Technologie"
     src: "https://player.vimeo.com/video/312896406"
 
 

@@ -9,27 +9,29 @@ title: Wer wir sind
 <!-- more -->
 
 
-Ranke.2 is a project of the C<sup>2</sup>DH. 
+Ranke.2 ist ein Projekt des C<sup>2</sup>DH. 
 
-## Core Team
+## Das Team
 
-[Andreas Fickers](https://www.c2dh.uni.lu/people/andreas-fickers) - director of the C²DH, initiator of Ranke.2 <br>  
-[Stefan Krebs](https://www.c2dh.uni.lu/people/stefan-krebs) - project management and administration <br> 
-[Sofia Papastamkou](https://www.c2dh.uni.lu/people/sofia-papastamkou) - project and editorial coordination <br>
-[Daniele Guido](https://www.c2dh.uni.lu/people/daniele-guido) - visual concept and design, web developement <br>
-[Frédéric Reiss](https://www.c2dh.uni.lu/people/frederic-reiss) - assistance web development <br> 
+[Andreas Fickers](https://www.c2dh.uni.lu/people/andreas-fickers) - Leiter des C²DH, Initiator von Ranke.2 <br>  
+[Stefan Krebs](https://www.c2dh.uni.lu/people/stefan-krebs) - Projektleitung und Verwaltung <br> 
+[Sofia Papastamkou](https://www.c2dh.uni.lu/people/sofia-papastamkou) - Projekt- und Redaktionskoordination <br>
+[Daniele Guido](https://www.c2dh.uni.lu/people/daniele-guido) - Visuelles Konzept und Design, Webentwicklung <br>
+[Frédéric Reiss](https://www.c2dh.uni.lu/people/frederic-reiss) - Unterstützung bei der Webentwicklung <br> 
 
 
-### Past Core Team
+### Ehemalige Teammitglieder
 
-[Sean Takats](https://www.c2dh.uni.lu/people/sean-takats) - project management and administration (2020) <br>
-[Gerben Zaagsma](https://www.c2dh.uni.lu/people/gerben-zaagsma) - project management and administration (2016-2020) <br> 
-[Stefania Scagliola](https://www.c2dh.uni.lu/people/stefania-scagliola) - project concept, project and editorial coordination (2016-2021) <br> 
-Jordan Ricker - interim project coordination (2021) <br> 
+[Sean Takats](https://www.c2dh.uni.lu/people/sean-takats) - Projektleitung und Verwaltung (2020) <br>
+[Gerben Zaagsma](https://www.c2dh.uni.lu/people/gerben-zaagsma) - Projektleitung und Verwaltung (2016-2020) <br> 
+[Stefania Scagliola](https://www.c2dh.uni.lu/people/stefania-scagliola) - Projektkonzept, Projektund Redaktionskoordination (2016-2021) <br> 
+Jordan Ricker - vorübergehende Projektkoordination (2021) <br> 
 
  
-## Student Assistants
+## Studentische Hilfskräfte
 
+Artur Amirian - Unterstützung bei der Webentwicklung (2023) <br> 
+Lena Linden - Lektorat und Übersetzungen ins Deutsche (2023) <br>  
 Alina Chaiko (2022) <br> 
 Jordan Ricker (2020-2021) <br> 
 Emmanuel Decker (2020-2021) <br> 
@@ -43,43 +45,45 @@ Davina Kronz (2018) <br>
 Marvin Schieben (2018) <br> 
 
 
-## Video Animations
+## Video-Animationen
 
 **All Things Moving** <br> 
-Cristina Garcia Martin - design and development (2018-2021) <br> 
-Ioana Turla - design and development (2021) <br> 
-In collaboration with Stefania Scagliola - storyboards (2018-2021)
+Cristina Garcia Martin - Design und Entwicklung (2018-2021) <br> 
+Ioana Turla - Design und Entwicklung (2021) <br> 
+In Zusammenarbeit mit Stefania Scagliola - Storyboards  (2018-2021)
 
 **Machteld van der Gaag voice radio** <br> 
-Machteld van der Gaag- voice over (2021) <br>  
+Machteld van der Gaag- Sprecherin (2021) <br>  
 
-**Media Centre, University of Luxembourg** <br>
-Nicolas Donnerup - voice over (2019) <br> 
-Alexandre Germain - sound, video recording (2018-2019)<br>
+**Medienzentrum, Universität Luxemburg** <br>
+Nicolas Donnerup - Sprecher (2019) <br> 
+Alexandre Germain - Ton- und Videoaufnahme (2018-2019) <br>
 
-Arjan van Hessen - text editing for animations (2018)<br>
+Arjan van Hessen - Textbearbeitung für Animationen (2018) <br>
 
 
-## Translations
+## Übersetzungen
 
-[Lexitech](https://lexitech.eu/) - translations of lessons from English to French and to German (since 2023) <br>   
-Maria Cristina Piticco - translations to French and to German of the following lessons: "David Boder: from wire recorder to website", "From the archival to the digital turn", "Transformation, how the digital creates new realities" (2018)<br>
+[Lexitech](https://lexitech.eu/) - Übersetzungen von Lektionen aus dem Englischen ins Französische und ins Deutsche (seit 2023) <br>   
+Maria Cristina Piticco - Übersetzungen der folgenden Lektionen ins Französische und ins Deutsche: "David Boder: Von der Drahttonaufnahme zur Website", "Von der Archivierung zum digital Turn", "Transformation: Wie digitale Technologien neue Realitäten schaffen können" (2018) <br>
 <br>
-Brigitte Melchior-Dolenc, Karin Priem - translation for animations (2018) <br>
-Stefan Krebs, Sofia Papastamkou - translations of the website infrastructure and lessons metadata <br>
+Brigitte Melchior-Dolenc, Karin Priem - Übersetzung für Animationen (2018) <br>
+Stefan Krebs, Sofia Papastamkou - Übersetzungen der Metadaten der WebsiteInfrastruktur und der Lektionen <br>
 
 
-## Proofreading 
-Sarah Cooper University of Luxembourg (2018) <br>
+## Lektorat 
+Sarah Cooper, Universität Luxemburg (2018- ) <br>
 Andy O'Dwyer (2018) <br>
 
 
-## Acknowledgments 
-**C<sup>2</sup>DH people (2018-2021)** <br>
+## Danksagungen 
+**C<sup>2</sup>DH-Mitarbeiter (2018-2021)** <br>
 Cristoph Brüll, Sandra Camarda, Cécile Duval, Daniele Guido, Shohreh Haddadan, Tim van der Heijden, Stefan Krebs, Anita Lucchesi, Benoît Majerus, Ira Plein, Karin Priem, Martin Richard, Valérie Schafer, Kaarel Sikk, Fabio Spirinelli, Benjamin Zenner <br>
 
-**FHSE people (2018-2021)** <br> 
+**FHSE-Mitarbeiter (2018-2021)** <br> 
 Eloise Adde, Andrea Binsfeld, Sonja Kmec, Michel Margue <br>
 
-**Illinois Institute of Technology/Paul V. Galvin Library people**<br>
-Ralph Pugh (University Archivist & Adjunct Professor of History) and Adam Strohm (Director University Archives and Special Collections) for having provided visual material and information for the lesson on the collection of interviews created by David Boder. 
+**Illinois Institute of Technology/Paul V. Galvin Library Mitarbeiter**<br>
+Ralph Pugh (Universitätsarchivar und außerordentlicher Professor für Geschichte) und Adam Strohm (Direktor des
+Universitätsarchivs und der Sondersammlungen) für die Bereitstellung von Bildmaterial und Informationen für die Lektion
+über die von David Boder erstellte Interviewsammlung. 
