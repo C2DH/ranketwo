@@ -3,7 +3,8 @@ layout: assignment
 unit: boder
 type: assignment
 title: Wo befragte Boder seine Interviewpartner?
-cover: /assets/images/attachments/12boxes/12boxes_07.png
+cover:
+  url: /assets/images/attachments/12boxes/12boxes_07.png
 order: 6
 lang: de
 requirements: schnelles WLAN, Zugang zu Ranke.2, Computer oder Laptop, Anwendung auf Computer oder Laptop zum Abspielen von Videos

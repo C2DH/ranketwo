@@ -4,7 +4,8 @@ unit: boder
 lang: en
 type: assignment
 title:  "Boder’s approach: from statistics to human expression"
-cover: /assets/images/attachments/12boxes/12boxes_06.png
+cover:
+  url: /assets/images/attachments/12boxes/12boxes_06.png
 order: 5
 documents:
 - gilbert-music-songs

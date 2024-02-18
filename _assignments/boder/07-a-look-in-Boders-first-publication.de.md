@@ -3,7 +3,8 @@ layout: assignment
 unit: boder
 type: assignment
 title: "Ein Blick auf Boders Buch: Umwandlung von gesprochener Sprache in maschinengeschriebenen Text"
-cover: /assets/images/attachments/12boxes/12boxes_08.png
+cover:
+  url: /assets/images/attachments/12boxes/12boxes_08.png
 order: 7
 lang: de
 tags:

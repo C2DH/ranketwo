@@ -3,7 +3,8 @@ layout: assignment
 unit: boder
 type: assignment
 title: Welches sind die Quellen, auf denen die Nachricht der Holocaust-Leugnung Ahmadinejads basiert?  
-cover: /assets/images/attachments/12boxes/12boxes_11.png
+cover:
+  url: /assets/images/attachments/12boxes/12boxes_11.png
 order: 10
 lang: de
 tags:

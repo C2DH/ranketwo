@@ -5,7 +5,8 @@ lang: de
 type: assignment
 title: "Umwandlung von analog zu digital"
 order: 3
-cover: /assets/images/attachments/12boxes/12boxes_01.png
+cover: 
+  url: /assets/images/attachments/12boxes/12boxes_01.png
 documents:
   - pugh-judge-boder
 tags:

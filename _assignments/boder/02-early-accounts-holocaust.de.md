@@ -4,7 +4,8 @@ unit: boder
 lang: de
 type: assignment
 title: Verschiedene Verfahren zur Dokumentation von Erfahrungsberichten über den Holocaust
-cover: /assets/images/attachments/12boxes/12boxes_03.png
+cover:
+  url: /assets/images/attachments/12boxes/12boxes_03.png
 order: 2
 tags:
   - Forschungsmethoden

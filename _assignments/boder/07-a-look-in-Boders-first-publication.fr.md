@@ -3,7 +3,8 @@ layout: assignment
 unit: boder
 type: assignment
 title: "Aperçu du livre de David Boder : transformation du témoignage oral en texte dactylographié"
-cover: /assets/images/attachments/12boxes/12boxes_08.png
+cover:
+  url: /assets/images/attachments/12boxes/12boxes_08.png
 order: 7
 lang: fr
 tags:

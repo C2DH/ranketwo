@@ -3,7 +3,8 @@ layout: assignment
 unit: boder
 type: assignment
 title: "A look in Boder’s book: Transformation from spoken language to typed text"
-cover: /assets/images/attachments/12boxes/12boxes_08.png
+cover:
+  url: /assets/images/attachments/12boxes/12boxes_08.png
 order: 7
 lang: en
 tags:

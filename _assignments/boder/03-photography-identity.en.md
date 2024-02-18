@@ -5,7 +5,8 @@ lang: en
 type: assignment
 title: Who are these people? Photography and identity
 order: 3
-cover: /assets/images/attachments/12boxes/12boxes_04.png
+cover:
+  url: /assets/images/attachments/12boxes/12boxes_04.png
 tags:
   - re-use of photographs
   - metadata

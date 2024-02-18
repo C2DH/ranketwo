@@ -71,3 +71,64 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Add new type of filter to search
+
+Once you have added a new filter type using jekyll in default.html with `meta`, you can add it to the search engine.
+For example:
+Pass data directly from the metadata to search.
+```html
+<meta data-pagefind-filter="author:{{author_name.name}}"
+property="article:authors" content="{{author}}" />
+```
+Pass data from a html meta tag content parameter to search.
+```html
+<meta data-pagefind-filter="mediatype[content]"
+property="article:mediatypes" content="{{mediatype}}" />
+```
+
+After that, you need to add the new filter type to search.html.
+
+1. In div id="filters" in div class="row" add a new tag. Every new filter should be ended with `_filter`.
+```html
+<div id="filters" class="col-4">
+    <div class="row">
+        <div class="col-6">
+            <div id="layouts_filter"></div>
+            <div id="mediatypes_filter"></div>
+        </div>
+        <div class="col-6">
+            <div id="authors_filter"></div>
+            <div id="tags_filter"></div>
+        </div>
+        <!-- here goes a new filter type -->
+        <div class="col-6">
+            <div id="new_type_filter"></div>
+        </div>
+    </div>
+</div>
+```
+
+2. In function `display_filters()` in javascript section
+```js
+...
+document.getElementById("authors_filter").innerHTML = "";
+document.getElementById("tags_filter").innerHTML = "";
+// add here
+document.getElementById("new_type_filter").innerHTML = "";
+...
+```
+
+3. In function `display_filters()` in javascript section, add new case to `switch`
+```js
+...
+case "author":
+    document.getElementById("authors_filter").innerHTML += new_filter;
+    break;
+case "new_type":
+    document.getElementById("new_type_filter").innerHTML += new_filter;
+    break;
+...
+```
+
+Finally recompile the docker and let pagefind create index.

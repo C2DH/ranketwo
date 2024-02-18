@@ -5,7 +5,8 @@ lang: en
 type: assignment
 title: Who are these families? 
 order: 4
-cover: /assets/images/attachments/12boxes/12boxes_04.png
+cover:
+  url: /assets/images/attachments/12boxes/12boxes_04.png
 tags: 
   - metadata
   - identity

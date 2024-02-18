@@ -3,7 +3,8 @@ layout: assignment
 unit: boder
 type: assignment
 title: Where and how can Boder’s work be consulted?
-cover: /assets/images/attachments/12boxes/12boxes_11.png
+cover:
+  url: /assets/images/attachments/12boxes/12boxes_11.png
 order: 9
 lang: en
 requirements:  strong WIFI, access to Ranke.2, computer or laptop,application on laptop or computer to view video,
