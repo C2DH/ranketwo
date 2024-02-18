@@ -108,6 +108,13 @@ ul.Search__filters li.nav-item a.nav-link {
 ul.Search__filters li.nav-item a.nav-link.disabled {
   opacity: 0.5;
 }
+ul.Search__filters li.nav-item a.nav-link.active {
+  text-decoration: none;
+  font-weight: bold;
+  border: 0px solid red !important;
+  padding: 0px 10px 0px 0px;
+}
+
 #tag_filter {
   display: flex;
   flex-wrap: wrap;
@@ -148,11 +155,19 @@ ul.Search__filters li.nav-item a.nav-link.disabled {
   display: flex;
   list-style: none;
   padding: 0;
+  flex-wrap: wrap;
 }
 
 .Search__tag {
-  margin: 10px;
-  border: 1px solid var(--bs-dark);
-  padding: 0 5px;
-  border-radius: 5px;
+  margin: 0 5px 5px 0;
+  border-bottom: 1px solid var(--bs-accent);
+  padding: 0;
+  font-size: 0.8em;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: color 0.25s linear;
+}
+.Search__tag:hover {
+  color: var(--bs-accent);
 }

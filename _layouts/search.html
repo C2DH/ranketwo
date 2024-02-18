@@ -107,12 +107,14 @@ layout: default
 </div>
 
 <script>
-  var pagefind;
-  var searchParams = new URL(location).searchParams;
-  document.getElementById("search_query").addEventListener("change", perform_search);
-  var search_res;
+  const MinTagCountToDisplayTag = 2;
+  let pagefind;
+  let searchParams = new URL(location).searchParams;
+  let searchRes;
+  let filterData;
   // eslint-disable-next-line
-  var people = {{ site.data.people | jsonify }};
+  const people = {{ site.data.people | jsonify }};
+  // eslint-disable-next-line
   const tags = {{ site.data.tags | jsonify }};
   const currentLang = "{{ page.lang | default: site.lang }}";
   const LayoutTypes = ['unit', 'assignment', 'page']
@@ -120,185 +122,179 @@ layout: default
   console.log("Search page \n - currentLang: ", currentLang);
   console.log("tags", tags);
   var filters_data;
-  let minTagCountToDisplayTag = 2;
+
+  document.getElementById("search_query").addEventListener("change", performSearch);
 
   window.addEventListener('DOMContentLoaded', async (event) => {
-      pagefind = await import("/pagefind/pagefind.js");
-      pagefind.init();
-      var search_query = searchParams.get("q");
-      var filters = make_json_filters_from_url();
-      filters_data = await pagefind.filters();
-
-      if (search_query == "") {
-          search_res = await pagefind.search(
-              null,
-              filters
-          );
-      } else {
-          search_res = await pagefind.search(
-              search_query,
-              filters
-          );
-      }
-      perform_search();
-      display_results();
-      display_filters();
-      updateSummary();
+    pagefind = await import("/pagefind/pagefind.js");
+    pagefind.init();
+    performSearch();
   });
-
-
-
-        // Display results
-    async function display_results() {
-        var results_elem = document.getElementById("results");
-        var results = "";
-        if (search_res) {
-            for (const res of search_res.results) {
-                var article_data = await res.data();
-
-                results += '<div class="Search__card mb-3 d-flex" style="width: 100%" >  ';
-                if (article_data.meta.image) {
-                    results += `
-                    <div>
-                        <div class="card-image" style=" border-left-radius:5px;border-right-radius: width:200px;height:100%;position:relative;;${article_data.meta.image}"></div></div>`;
-                }
-                results += `
-                    <div class="card-body">
-                        <h5 class="card-title">
-                        <a href="${article_data.url}">${article_data.meta.title}</a>`;
-                if (LayoutTypes.includes(article_data.filters.layout[0])) {
-                    const layout = article_data.filters.layout[0];
-                    results += `
-                    <span class="badge bg-transparent border border-dark" data-type="layout" data-value="${layout}" onclick="setFilter(this)">${layout}</span>`;
-                }
-                results += '</h5>'
-
-                if (article_data["filters"].layout[0] === "assignment") {
-                    results += '<p>From unit: <a href=' + article_data["meta"].unit_url + '>' + article_data["meta"].unit_title + '</a></p>';
-                }
-                results += '<p class="authors">'
-                for(var i = 0; i < article_data.filters.author.length; i++ ) {
-                    var author = article_data.filters.author[i];
-                    results += `<span class="Search__author" data-type="author" data-value="${author}" onclick="setFilter(this)">${author}</span>`
-                    if(i < article_data.filters.author.length - 1 && article_data.filters.author.length > 1) {
-                    results += ", ";
-                    }
-                }
-                results += '</p>';
-                results += '<div class="card-text">' + article_data.excerpt + '</div>';
-
-                results += '<ul class="Search__tags mb-0">';
-                for (var i = 0; i < article_data.filters.mediatype.length; i++) {
-                    var mediatype = article_data.filters.mediatype[i];
-                    var label = tags.find(d => d.id === mediatype)?.displayname[currentLang] || mediatype;
-                    results += `<li class="Search__tag" data-type="mediatype" data-value="${mediatype}" onclick="setFilter(this)">${label}</li>`;
-
-                }
-                results += '</ul>';
-
-                results += "</div></div>";
-            }
-            results_elem.innerHTML = results;
-        }
+  // Perform search
+  async function performSearch() {
+    let sq = searchParams.get("q") || "";
+    let filters = make_json_filters_from_url();
+    filters_data = await pagefind.filters();
+    console.info("[Search Page] performSearch sq", sq, "\n filters:", filters);
+    if (sq.length === 0) {
+      searchRes = await pagefind.search(null, filters);
+    } else {
+      searchRes = await pagefind.search(sq, filters)
     }
+    displayResults();
+    displayFilters();
+    updateSummary();
+  }
 
-        async function displayLayoutFilters(values=[], show_only=['unit', 'assignment', 'page']) {
-          const layout_filters_elem = document.getElementById("layout_filters");
-          layout_filters_elem.innerHTML = "";
-          const layoutAllClassName = searchParams.has('layout') ? '' : 'active';
-          const layout_all = `<li class='nav-item'><a class='nav-link ${layoutAllClassName}' aria-current='page' href='#'>all contents (${search_res?.results?.length || '...'})</a></li>`;
-          layout_filters_elem.insertAdjacentHTML('beforeend', layout_all);
-          const layout_all_el = layout_filters_elem.lastElementChild;
-          layout_all_el.addEventListener('click', (e) => pushFilterToUrl(e, 'layout', null, { replace: true }));
+  async function displayResults() {
+    var results_elem = document.getElementById("results");
+    var results = "";
+    for (const res of searchRes.results) {
+        var article_data = await res.data();
+        results += '<div class="Search__card mb-3 d-flex" style="width: 100%" >  ';
+        if (article_data.meta.image) {
+          results += `
+          <div>
+            <div class="card-image" style=" border-left-radius:5px;border-right-radius: width:200px;height:100%;position:relative;;${article_data.meta.image}">
+            </div>
+          </div>`;
+        }
 
-          for (const layout_filter in values) {
-            if (!show_only.includes(layout_filter)) {
-              continue;
+        results += `
+          <div class="card-body">
+            <h5 class="card-title">
+              <a href="${article_data.url}">${article_data.meta.title}</a>`;
+
+        if (LayoutTypes.includes(article_data.filters.layout[0])) {
+          const layout = article_data.filters.layout[0];
+          results += `
+            <span class="badge bg-transparent border border-dark" data-type="layout" data-value="${layout}" onclick="setFilter(this)">${layout}</span>`;
+        }
+        results += '</h5>'
+        // Layout bringing Unit info
+        if (Array.isArray(article_data.filters.layout) && article_data.filters.layout[0] === "assignment") {
+            results += '<p>From unit: <a href=' + article_data["meta"].unit_url + '>' + article_data["meta"].unit_title + '</a></p>';
+        }
+        // Authors
+        if (Array.isArray(article_data.filters.author)) {
+          results += '<p class="authors">'
+          results += 'Authors: '
+          for(var i = 0; i < article_data.filters.author.length; i++ ) {
+            var author = article_data.filters.author[i];
+            results += `<span class="Search__author" data-type="author" data-value="${author}" onclick="setFilter(this)">${author}</span>`
+            if(i < article_data.filters.author.length - 1 && article_data.filters.author.length > 1) {
+              results += ", ";
             }
-            // is active if searchparams contains its value
-            const activeClassName = searchParams.has('layout', layout_filter) ? 'active' : '';
-            const disabledClassName = search_res.filters.layout[layout_filter] === 0 ? 'disabled' : '';
-            const html = `<li class="nav-item">
-              <a class="nav-link ${activeClassName} ${disabledClassName}" href="#">
-                  ${layout_filter}
-                  (${search_res.filters.layout[layout_filter]})
-              </a>
-            </li>`;
-            layout_filters_elem.insertAdjacentHTML('beforeend', html);
-            // get element just created and add event listener
-            const el = layout_filters_elem.lastElementChild;
-            if (disabledClassName.length) {
-              continue;
-            }
-            el.addEventListener('click', (e) => pushFilterToUrl(e, 'layout', layout_filter,  { replace: true }));
           }
+          results += '</p>';
         }
+        if (Array.isArray(article_data.filters.mediatype)) {
+          results += '<ul class="Search__tags my-2">';
 
-        async function displayMultitagFilters(id, values, minCount=0) {
-          const filters_elem = document.getElementById(id+"_filter");
-          filters_elem.innerHTML = "";
-          // order by global values
-          const sortedKeys = Object.keys(values).sort((a, b) => values[b] - values[a]);
-          sortedKeys.forEach((tagFilter) => {
-            const activeClassName = searchParams.has(id, tagFilter) ? 'active' : '';
-            const disabledClassName = search_res.filters[id][tagFilter]=== 0 ? 'disabled' : '';
-            const hideClassName = parseInt(values[tagFilter]) < minCount ? 'd-none' : 'wo' + values[tagFilter] + '-' + minCount ;
-            const label = tags.find(d => d.id === tagFilter)?.displayname[currentLang] || tagFilter;
-            const html = `<li class="nav-item ${hideClassName}">
-              <a class="nav-link ${activeClassName} ${disabledClassName} " href="#">
-                ${label} (${search_res.filters[id][tagFilter]})
-              </a>
-            </li>`;
-            filters_elem.insertAdjacentHTML('beforeend', html);
-            // get element just created and add event listener
-            const el = filters_elem.lastElementChild;
-            if (disabledClassName.length) {
-              return;
+          for (var i = 0; i < article_data.filters.mediatype.length; i++) {
+            var mediatype = article_data.filters.mediatype[i];
+            var label = tags.find(d => d.id === mediatype)?.displayname[currentLang] || mediatype;
+            results += `<li class="Search__tag" data-type="mediatype" data-value="${mediatype}" onclick="setFilter(this)">${label}</li>`;
+            if (i < article_data.filters.mediatype.length - 1) {
+              results += "<span>/&nbsp;</span>";
             }
-            el.addEventListener('click', (e) => pushFilterToUrl(e, id, tagFilter,  { replace: true }));
-          })
+          }
+          results += '</ul>';
         }
+        // Excerpt
+        results += '<div class="card-text">' + article_data.excerpt + '</div>';
 
-        // Display filters
-        async function display_filters() {
-            var filters_data_map = new Map(Object.entries(filters_data));
-            var new_filter = "";
-            // Add new filter types here
-            document.getElementById("mediatype_filter").innerHTML = "";
-            document.getElementById("author_filter").innerHTML = "";
-            document.getElementById("tag_filter").innerHTML = "";
-            filters_data_map.forEach((filter_values, filter_type) => {
-              console.log("filter_type: ", filter_type, filter_values);
-                if(filter_type === "layout") {
-                  displayLayoutFilters(filter_values);
-                } else if(filter_type === "tag") {
-                  displayMultitagFilters(filter_type, filter_values, minTagCountToDisplayTag);
-                } else {
-                  displayMultitagFilters(filter_type, filter_values);
-                }
-            });
-        }
 
-        // Perform search
-        async function perform_search() {
-            var search_query = searchParams.get("q");
-            var filters = make_json_filters_from_url();
-          console.log("perform_search: ", search_query, filters);
-            if (search_query == "") {
-                search_res = await pagefind.search(
-                    null,
-                    filters
-                );
-            } else {
-                search_res = await pagefind.search(
-                    search_query,
-                    filters
-                );
-            }
-            display_results();
-            display_filters();
-            updateSummary();
+        results += "</div></div>";
+        results_elem.innerHTML = results;
+    }
+  }
+
+  async function displayLayoutFilters(values=[], show_only=['unit', 'assignment', 'page']) {
+    const layout_filters_elem = document.getElementById("layout_filters");
+    layout_filters_elem.innerHTML = "";
+    const layoutAllClassName = searchParams.has('layout') ? '' : 'active';
+    const layout_all = `<li class='nav-item'><a class='nav-link ${layoutAllClassName}' aria-current='page' href='#'>all contents (${searchRes?.results?.length || '...'})</a></li>`;
+    layout_filters_elem.insertAdjacentHTML('beforeend', layout_all);
+    const layout_all_el = layout_filters_elem.lastElementChild;
+    layout_all_el.addEventListener('click', (e) => pushFilterToUrl(e, 'layout', null, { replace: true }));
+
+    for (const layout_filter in values) {
+    if (!show_only.includes(layout_filter)) {
+        continue;
+    }
+    // is active if searchparams contains its value
+    const activeClassName = searchParams.has('layout', layout_filter) ? 'active' : '';
+    const disabledClassName = searchRes.filters.layout[layout_filter] === 0 ? 'disabled' : '';
+    const html = `<li class="nav-item">
+        <a class="nav-link ${activeClassName} ${disabledClassName}" href="#">
+            ${layout_filter}
+            (${searchRes.filters.layout[layout_filter]})
+        </a>
+    </li>`;
+    layout_filters_elem.insertAdjacentHTML('beforeend', html);
+    // get element just created and add event listener
+    const el = layout_filters_elem.lastElementChild;
+    if (disabledClassName.length) {
+        continue;
+    }
+    el.addEventListener('click', (e) => pushFilterToUrl(e, 'layout', layout_filter,  { replace: true }));
+    }
+  }
+
+  async function displayMultitagFilters(id, values, minCount=0) {
+    const filters_elem = document.getElementById(id+"_filter");
+    filters_elem.innerHTML = "";
+    // order by global values
+    const sortedKeys = Object.keys(values).sort((a, b) => values[b] - values[a]);
+    sortedKeys.forEach((tagFilter) => {
+    const activeClassName = searchParams.has(id, tagFilter) ? 'active' : '';
+    const disabledClassName = searchRes.filters[id][tagFilter]=== 0 ? 'disabled' : '';
+    const hideClassName = parseInt(values[tagFilter]) < minCount ? 'd-none' : 'wo' + values[tagFilter] + '-' + minCount ;
+    const label = tags.find(d => d.id === tagFilter)?.displayname[currentLang] || tagFilter;
+    const html = `<li class="nav-item ${hideClassName}">
+        <a class="nav-link ${activeClassName} ${disabledClassName} " href="#">
+        ${label} (${searchRes.filters[id][tagFilter]})
+        </a>
+    </li>`;
+    filters_elem.insertAdjacentHTML('beforeend', html);
+    // get element just created and add event listener
+    const el = filters_elem.lastElementChild;
+    if (disabledClassName.length) {
+        return;
+    }
+    el.addEventListener('click', (e) => pushFilterToUrl(e, id, tagFilter,  { replace: true }));
+    })
+  }
+
+  /**
+   * Displays the filters for the search functionality.
+   * This function is asynchronous.
+   *
+   * @returns {Promise<void>} A promise that resolves when the filters are displayed.
+   */
+  async function displayFilters() {
+    if(!filters_data) {
+      return;
+    }
+    var filters_data_map = new Map(Object.entries(filters_data));
+    var new_filter = "";
+    // Add new filter types here
+    document.getElementById("mediatype_filter").innerHTML = "";
+    document.getElementById("author_filter").innerHTML = "";
+    document.getElementById("tag_filter").innerHTML = "";
+    filters_data_map.forEach((filter_values, filter_type) => {
+        console.log("filter_type: ", filter_type, filter_values);
+        if(filter_type === "layout") {
+            displayLayoutFilters(filter_values);
+        } else if(filter_type === "tag") {
+            displayMultitagFilters(filter_type, filter_values, MinTagCountToDisplayTag);
+        } else {
+            displayMultitagFilters(filter_type, filter_values);
         }
+    });
+  }
+
 
         // Query to url
         function push_query_to_url() {
@@ -363,16 +359,16 @@ layout: default
             searchParams.append(type, value);
           }
           history.pushState(null, "", "?" + searchParams);
-          perform_search();
-          updateSummary();
+          performSearch();
+
         }
 
         function removeFiltersFromUrl(e, type, value) {
           if(e) e.preventDefault();
           searchParams.delete(type, value);
           history.pushState(null, "", "?" + searchParams);
-          perform_search();
-          updateSummary();
+          performSearch();
+
         }
         // Filters to url
         function push_filters_to_url(checkbox) {
@@ -387,7 +383,7 @@ layout: default
                 searchParams.delete(filter_type, current_filter);
             }
             history.pushState(null, "", "?" + searchParams);
-            perform_search();
+            performSearch();
             updateSummary();
         }
 
@@ -419,7 +415,7 @@ layout: default
         function updateSummary() {
             var summaryEl = document.getElementById("search_summary");
             summaryEl.innerHTML = "";
-            summaryEl.innerHTML += "Results: " + search_res.results.length + " ";
+            summaryEl.innerHTML += "Results: " + searchRes.results.length + " ";
             searchParams.forEach((value, key) => {
               let label = value;
 
