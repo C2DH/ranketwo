@@ -5,7 +5,7 @@ lang: de
 title: "Das eigene Aussehen online „verändern“"  
 cover:
 tags:
-learning outcomes:
+outcomes:
 - Erlernen, wie digitale Technologie und soziale Medien die Möglichkeiten der Selbstgestaltung und des Experimentierens mit der Veränderung des eigenen Aussehens erweitern und wie Innovationen in der digitalen Technologie Apps hervorbringen, die zur Unterhaltung genutzt werden können
 order: 4
 ---

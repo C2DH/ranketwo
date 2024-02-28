@@ -5,7 +5,7 @@ lang: de
 title: "Bedeutungswandel: Metamorphose und Transformation in Bild und Sprache"  
 cover:
 tags:
-learning outcomes:
+outcomes:
 -  Verstehen der verschiedenen Interpretationen des Konzepts der „Transformation“
 order: 3
 ---

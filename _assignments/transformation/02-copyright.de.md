@@ -5,7 +5,7 @@ lang: de
 title: "Das Recht zu kopieren: Die Rolle des Urheberrechts bei der Transformation"  
 cover:
 tags:
-learning outcomes:
+outcomes:
 -  Kenntnisgewinnung über die Ursprünge des Urheberrechts und darüber, welche Regelungen im Internet gelten, um die Rechte der Urheber zu schützen und gleichzeitig sicherzustellen, dass die Inhalte frei geteilt werden können
 order: 2
 ---

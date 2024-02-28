@@ -5,7 +5,7 @@ lang: de
 title: "Screenshots und Bilderkennungssoftware"  
 cover:
 tags:
-learning outcomes:
+outcomes:
   - Erlernen, wie digitale Technologie zum Kopieren von Bildern eingesetzt wird und wie dabei automatisch Metadaten (Informationen über die erstellte Kopie) erzeugt werden
   - Erlernen der Grundprinzipien der Bilderkennung und deren Beitrag zum Übergang von textbasierten zu multimodalen Kommunikationsformen
   - Erlernen, wie man Quellenkritik auf eine digitale Darstellung eines Objekts anwendet, das online veröffentlicht wurde
