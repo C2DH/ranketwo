@@ -21,7 +21,7 @@ Alle soeben gezeigten Bilder im Clip „Transformation“ stammen aus einer ande
 
 <!-- briefing-student -->
 
-### 1.a Screenshots untersuchen | 35 minutes
+### 1.a Screenshots untersuchen | 35 min
 <!-- section-contents -->
 
 Ein Screenshot (mitunter auch als Bildschirmfoto oder, in den Anfangszeiten des Internets, als Bildschirmausdruck bezeichnet) kann als revolutionär erachtet werden. Die Leichtigkeit, mit der man ein Bild kopieren und einfügen, in einem anderen Kontext verwenden und mit anderen teilen kann, befeuert die Verwendung und Verbreitung von Bildern im Internet. Dies gilt insbesondere für nicht urheberrechtlich geschützte Bilder. Im ersten Schritt zur Erforschung der Bilderkennung sollen Sie mit Ihrem Laptop zwei Screenshots von Bildern Ihrer Wahl aus der Animation „Transformation“ erstellen.
