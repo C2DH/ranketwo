@@ -134,7 +134,7 @@ Regardez ce [bref exposé TED-Ed](https://youtu.be/cSKGa_7XJkg) par Noah Tavlin 
 
 Indiquez l’un des exemples donnés dans la vidéo ayant trait aux pays anglophones&#x202F;:
 
-En effectuant vos propres recherches sur le Web, essayez de trouver un exemple dans une autre langue (FR, DE, ES, IT, NL, DA, etc.)&#x202F;:
+En effectuant vos propres recherches sur le Web, essayez de trouver un exemple dans une autre langue: anglais, allemand, espagnol, portugais, italien, néerlandais, danois ou autre. 
 
 Nous allons maintenant appliquer le principe CRAP à plusieurs ressources Web. Rendez-vous sur le site Web de l’université Sewanee au Tennessee et ouvrez [ce guide](https://library.sewanee.edu/ld.php?content_id=29815361) du CRAP. Essayez de répondre aux quatre questions essentielles pour deux ressources Web (énumérées ci-dessous) dans deux langues que vous connaissez. Vous pouvez aussi essayer de le faire dans des langues que vous ne connaissez pas, en utilisant Google Traduction ou un autre outil de traduction.
 
@@ -161,7 +161,7 @@ En français
 - Les spécialités de la cuisine française, *Espace français* [https://www.espacefrancais.com/specialites-cuisine-francaise-1/](https://www.espacefrancais.com/specialites-cuisine-francaise-1/)
 
 En anglais
-- [Archived version of No More Fake News/](https://web.archive.org/web/20010215000000*/http://nomorefakenews.com)
+- [No More Fake News - version archivée](https://web.archive.org/web/20010215000000*/http://nomorefakenews.com)
 - [*Real News Right Now*](http://realnewsrightnow.com)
 - [*One Nation*](https://www.onenation.org.au)
 - [*Global Research*](https://www.globalresearch.ca)
@@ -174,28 +174,27 @@ En allemand
 - [*Spick*](https://www.spick.ch)  
 
 En italien
-- https://www.studenti.it/classificazione-fonti-storiche.html 
-- https://www.lercio.it
-- https://www.open.online/2020/01/30/audio-di-un-italiano-bloccato-in-cina-teorie-di-complotto-e-cattiva-informazione/  
-- https://web.archive.org/web/20160306122819/http://www.lafucina.it/ 
+- "Fonti storiche: come si classificano". *Studenti*. 2023 [https://www.studenti.it/classificazione-fonti-storiche.html](https://www.studenti.it/classificazione-fonti-storiche.html) 
+- [*Lercio*](https://www.lercio.it)
+- David Puente. "Coronavirus, audio di un italiano bloccato in Cina: teorie di complotto e cattiva informazione". *Open*. 2020 [https://www.open.online/2020/01/30/audio-di-un-italiano-bloccato-in-cina-teorie-di-complotto-e-cattiva-informazione/](https://www.open.online/2020/01/30/audio-di-un-italiano-bloccato-in-cina-teorie-di-complotto-e-cattiva-informazione/)  
+- [La Fucina - archivierte Website](https://web.archive.org/web/20160306122819/http://www.lafucina.it/)
 
 En néerlandais
-- https://neoavantgarde.de/digitale-kunst/
-- https://www.atlantis-erfgoed.nl/crowdsourcing/?gclid=CjwKCAjw_LL2BRAkEiwAv2Y3Sa0vCniHi-- n88LpOKXWpsE6z4kjsqPrnS4xRD6vnSpKvHG6LMGc67RoCaVYQAvD_BwE  
-- https://www.dumpert.nl 
-- https://www.fvd.nl/standpunten
+- "Category: Digitale Kunst". *Neoavantgarde*. [https://neoavantgarde.de/digitale-kunst/](https://neoavantgarde.de/digitale-kunst/)
+- [*Dumpert*](https://www.dumpert.nl) 
+- "Standpunten". *Forum voor Democratie*. [https://www.fvd.nl/standpunten](https://www.fvd.nl/standpunten)
 
 En espagnol
-- https://www.vozpopuli.com/espana/anuncio-navidad-campofrio-2019-fake-me_0_1310269475.html 
-- https://expatpsi.com/psicologa-para-expatriados/?gclid=Cj0KCQjwoaz3BRDnARIsAF1RfLf2WLqci_I1_WKO75cKDca2u3Zg5yzXvmsBerxg4Zjrjt-Oc5Xbi6IaAh5CEALw_wcB 
-- https://www.mosteirodesaobentorio.org.br/vida-monastica/o-que-e-vida-monastica 
-- http://ri.uaemex.mx/handle/20.500.11799/104743 
+- "Anuncio de Navidad Campofrío 2019: 'Fake me'". *Vozpopuli*. 2019 [https://www.vozpopuli.com/espana/anuncio-navidad-campofrio-2019-fake-me_0_1310269475.html](https://www.vozpopuli.com/espana/anuncio-navidad-campofrio-2019-fake-me_0_1310269475.html) 
+- "¿Estás buscando un espacio de psicología online?". *Expat Psi*. [https://expatpsi.com/psicologa-para-expatriados/](https://expatpsi.com/psicologa-para-expatriados/)
+- Mosteiro de São Bento do Rio de Janeiro [https://www.mosteirodesaobentorio.org.br/vida-monastica/o-que-e-vida-monastica](https://www.mosteirodesaobentorio.org.br/vida-monastica/o-que-e-vida-monastica) 
+- Repositorio institucional. Universidad Autónoma del Estado de México. [http://ri.uaemex.mx/handle/20.500.11799/104743](http://ri.uaemex.mx/handle/20.500.11799/104743) 
 
 En danois
-- https://denmark.dk 
-- https://www.thelocal.dk 
-- https://museetalhambra.dk/en/ 
-- https://stjarnhealing.se/stjarnhealingnorsk.html 
+- [Denmark.dk](https://denmark.dk) 
+- [*The Local*](https://www.thelocal.dk) 
+- [*Frederiksbergmuseerne*](https://museetalhambra.dk/en/) 
+- [*Stjarnhealing*](https://stjarnhealing.se/stjarnhealingnorsk.html) 
 
 
 <!-- briefing-teacher -->

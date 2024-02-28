@@ -11,7 +11,7 @@ outcomes:
 - Comprendre les diverses interprétations du concept de « transformation »
 order: 3
 ---
-Dans la vidéo «&#x202F;Transformation&#x202F;», on soutient que la technologie numérique renforce le processus de transformation, ce qui explique pourquoi ce substantif est si souvent associé à l’adjectif «&#x202F;numérique&#x202F;». Dans cet exercice, vous allez analyser la signification du terme «&#x202F;transformation&#x202F;» ainsi que celle du terme apparenté «&#x202F;métamorphose&#x202F;». Vous allez également retracer les changements de signification de ces deux termes en utilisant l’outil Google Ngram Viewer.
+Dans la [vidéo «&#x202F;Transformation&#x202F;»](https://ranke2.uni.lu/fr/u/transformation/#c-clip.fr), on soutient que la technologie numérique renforce le processus de transformation, ce qui explique pourquoi ce substantif est si souvent associé à l’adjectif «&#x202F;numérique&#x202F;». Dans cet exercice, vous allez analyser la signification du terme «&#x202F;transformation&#x202F;» ainsi que celle du terme apparenté «&#x202F;métamorphose&#x202F;». Vous allez également retracer les changements de signification de ces deux termes en utilisant l’outil Google Ngram Viewer.
 <!-- more -->
 
 <!-- briefing-student -->
