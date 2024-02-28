@@ -28,6 +28,13 @@ defaults:
       path: ''
     values:
       layout: default
+
+page_gen:
+  - data: tags
+    template: tag
+    dir: tags
+    name: id
+
 markdown: kramdown
 empty_array: []
 recaptcha: 6LfZKnYUAAAAAJGg9r--abfv5A08TDORCmv4mGOx
