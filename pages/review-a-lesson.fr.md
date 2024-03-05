@@ -9,47 +9,51 @@ output:
   toc: off
  
 ---
-Instructions aux relecteurs et relectrices des leçons de Ranke.2 pour un retour constructif  
+Principes directeurs pour fournir des commentaires constructifs, si vous évaluez une leçon pour Ranke.2  
 
 <!-- more -->
 
-We may solicit your feedback for one of the lessons that we are preparing. This is because we value your expertise and we know that you will contribute to the overall quality of our resources. The review process may take the form of either a direct and open exchange between all interested parties (author, reviewer, Ranke.2 editor) or a blind evaluation (at the request of authors or reviewers). This will be decided by all the parties involved.      
+Nous sommes susceptibles de solliciter votre relecture critique pour l’une des leçons que nous préparons. En effet, votre expertise peut garantir la qualité et la pertinence de nos ressources. Le processus de révision peut prendre la forme soit d’un échange direct et ouvert entre toutes les parties intéressées (l'auteur/autrice, vous, l'équipe de rédaction de Ranke.2), soit d’une évaluation à l’aveugle. Cela sera décidé par toutes les parties concernées.      
 
-We do of course appreciate any overall feedback that you may have, but please note that we are especially interested to hear your views on the following aspects that we consider important for a lesson. 
+Nous apprécions bien sûr tout commentaire global que vous pourriez avoir, mais veuillez noter que votre point de vue sur les aspects suivants nous est particulièrement précieux. 
 
 ### Concept 
-Please think of the lesson in terms of relevance and quality. 
-* Does the lesson focus on a topic that is relevant to (digital) source criticism? In your opinion, are there any particular merits or significant shortcomings? 
-* Does the lesson focus on a source type that is particularly relevant for teaching historical method and (digital) source criticism? Does it focus on specific cases that might prove difficult to adapt in the classroom?     
-* Does the lesson fill a gap in the landscape of available open educational resources for teaching (digital) source criticism?
+Veuillez réfléchir à la leçon en termes de pertinence et de qualité. 
+* Le cours se concentre-t-il sur un sujet pertinent pour la critique des sources (numériques)&#x202F;? Selon vous, y a-t-il des atouts particuliers ou des défauts importants&#x202F;? 
+* Le cours se concentre-t-il sur un type de source particulièrement pertinent pour l’enseignement de la méthode historique et de la critique des sources (numériques)&#x202F;? Se concentre-t-il sur des cas peut-être trop précis qui pourraient s’avérer difficiles à adapter en classe&#x202F;?     
+* Le cours comble-t-il une lacune dans le paysage des ressources pédagogiques ouvertes disponibles pour l’enseignement de la critique des sources (numériques)&#x202F;?
 
 ### Structure 
-Please think of the lesson in terms of clarity and efficiency. 
-* Do the different parts of the lesson correspond to clear learning objectives? 
-* Are the assignments for the lesson organised in a way that makes sense in relation with the learning objectives?
-* Is there a logical sequence between the different parts of the lesson (for example, the different parts of a given assignment)? 
+Veuillez réfléchir à la leçon en termes de clarté et d’efficacité. 
+* Les différentes parties de la leçon correspondent-elles à des objectifs pédagogiques clairs&#x202F;? 
+* Les exercices de la leçon sont-ils organisés d’une manière qui a du sens par rapport aux objectifs pédagogiques&#x202F;?
+* Existe-t-il une séquence logique entre les différentes parties de la leçon (par exemple, les différents exercices ou encore les différentes parties d’un exercice donné)&#x202F;? 
 
-### Effectiveness
-Please think of the lesson in terms of the extent to which it achieves the learning objectives.  
-* Are the learning objectives clear and realistic?
-* Are the instructions clear? 
-* Does the learning outcome correspond to the learning objectives for the lesson? 
 
-### Resources 
-Please evaluate the relevance, pertinence and accessibility of the pedagogical and bibliographical resources the lesson uses (reading and viewing suggestions, hyperlinks, images). 
-* Are the resources openly accessible? 
-* Are the resources relevant for the topic and the type of sources addressed by the lesson? 
-* Can the resources be realistically used for self-learning or in the classroom in terms of their length and clarity? 
+### Efficacité
+Veuillez réfléchir à la leçon en fonction de la mesure dans laquelle elle atteint les objectifs pédagogiques.  
+* Les objectifs pédagogiques sont-ils clairs et réalistes&#x202F;?
+* Les instructions sont-elles claires&#x202F;? 
+* Les acquis d’apprentissage correspondent-ils aux objectifs pédagogiques de la leçon&#x202F;? 
 
-### Multilingualism
-Please share your thoughts on whether the approach and objective of the lesson, as well as the resources it uses, mean that it could be taught in more than one language.    
-* Is the scope of the lesson relevant for different cultural environments? Can it fit into different national contexts of history learning and teaching?  
-* Are the resources (pedagogical and bibliographical) reusable in different languages? Are they too language-specific to be replaced by alternative resources in other languages (if available)? Do they need to be adapted or replaced? 
-* Is the lesson fit for translation? 
 
-### Sustainability 
-Please evaluate whether the lesson has the potential to remain relevant and useful in the longer term. 
-* Are the resources (bibliographical, data, tools) openly accessible, preferably with persistent identifiers, or located in open infrastructures? If software tools are involved, are they open source? 
-* Does the lesson embrace a broad – ideally historical – perspective, or does it focus on short-term considerations or presentism? For example, a lesson on audiovisual sources that relies heavily on examples of one specific proprietary platform that is popular at the time the lesson is written would be problematic; on the contrary, a lesson using a variety of examples and offering a contextualised view of different platforms, the impact of their business models and their geographic location, while also exploring issues related to governance and dissemination of resources, etc., could prove more sustainable in the long term. 
-    
-Thank you for your contribution!  
+### Ressources 
+Veuillez évaluer l’intérêt, la pertinence et l’accessibilité des ressources pédagogiques et bibliographiques utilisées dans la leçon (suggestions de lectures/vidéos, hyperliens, images). 
+* Les ressources sont-elles librement accessibles&#x202F;? 
+* Les ressources sont-elles pertinentes pour le sujet et le type de sources abordés par la leçon&#x202F;? 
+* Les ressources peuvent-elles être utilisées de manière réaliste pour l’apprentissage en autonomie ou en classe en termes de longueur et de clarté&#x202F;? 
+
+
+### Ancrage culturel
+Veuillez partager votre opinion sur la question suivante&#x202F;: compte tenu de l’approche et de l’objectif de la leçon, ainsi que des ressources utilisées, pourrait-elle être enseigné dans plusieurs langues&#x202F;?    
+* La portée du cours est-elle pertinente pour différents environnements culturels&#x202F;? Peut-elle s’adapter à différents contextes nationaux d’apprentissage et d’enseignement de l’histoire&#x202F;?  
+* Les ressources pédagogiques et bibliographiques sont-elles réutilisables dans différentes langues&#x202F;? Sont-elles trop spécifiques à une langue pour être remplacées par des ressources alternatives dans d’autres langues (si elles sont disponibles)&#x202F;? Faut-il les adapter ou les remplacer&#x202F;? 
+* La leçon est-elle apte à être traduite&#x202F;? 
+
+
+### Durabilité 
+Veuillez évaluer si la leçon a le potentiel pour rester pertinente et utile à long terme. 
+* Les ressources (bibliographie, données, outils) sont-elles librement accessibles, de préférence avec des identifiants persistants, ou situées dans des infrastructures ouvertes&#x202F;? Si des outils logiciels sont impliqués, sont-ils open source&#x202F;? 
+* La leçon adopte-t-elle une perspective large, historique idéalement, ou se concentre-t-il sur des considérations à court terme ou sur le présent&#x202F;? Par exemple, une leçon sur les sources audiovisuelles qui s’appuie fortement sur des exemples d’une plateforme propriétaire spécifique et populaire au moment de la rédaction de la leçon serait problématique. Au contraire, une leçon utilisant des exemples variés et offrant une vision contextualisée des différentes plateformes, de l’impact de leurs modèles commerciaux et de leur localisation géographique, tout en explorant également les questions liées à la gouvernance et à la diffusion des ressources, etc., pourrait s’avérer plus durable à long terme. 
+
+Merci pour votre contribution&#x202F;!
