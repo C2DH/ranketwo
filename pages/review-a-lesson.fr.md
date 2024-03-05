@@ -19,9 +19,9 @@ Nous apprécions bien sûr tout commentaire global que vous pourriez avoir, mais
 
 ### Concept 
 Veuillez réfléchir à la leçon en termes de pertinence et de qualité. 
-* Le cours se concentre-t-il sur un sujet pertinent pour la critique des sources (numériques)&#x202F;? Selon vous, y a-t-il des atouts particuliers ou des défauts importants&#x202F;? 
-* Le cours se concentre-t-il sur un type de source particulièrement pertinent pour l’enseignement de la méthode historique et de la critique des sources (numériques)&#x202F;? Se concentre-t-il sur des cas peut-être trop précis qui pourraient s’avérer difficiles à adapter en classe&#x202F;?     
-* Le cours comble-t-il une lacune dans le paysage des ressources pédagogiques ouvertes disponibles pour l’enseignement de la critique des sources (numériques)&#x202F;?
+* La leçon se concentre-t-elle sur un sujet pertinent pour la critique des sources (numériques)&#x202F;? Selon vous, y a-t-il des atouts particuliers ou des défauts importants&#x202F;? 
+* La leçon se concentre-t-elle sur un type de source particulièrement pertinent pour l’enseignement de la méthode historique et de la critique des sources (numériques)&#x202F;? Se concentre-t-elle sur des cas peut-être trop précis qui pourraient s’avérer difficiles à adapter en classe&#x202F;?     
+* La leçon comble-t-elle une lacune dans le paysage des ressources éducative libres disponibles pour l’enseignement de la critique des sources (numériques)&#x202F;?
 
 ### Structure 
 Veuillez réfléchir à la leçon en termes de clarté et d’efficacité. 
@@ -45,9 +45,9 @@ Veuillez évaluer l’intérêt, la pertinence et l’accessibilité des ressour
 
 
 ### Ancrage culturel
-Veuillez partager votre opinion sur la question suivante&#x202F;: compte tenu de l’approche et de l’objectif de la leçon, ainsi que des ressources utilisées, pourrait-elle être enseigné dans plusieurs langues&#x202F;?    
+Veuillez partager votre opinion sur la question suivante&#x202F;: compte tenu de l’approche et de l’objectif de la leçon, ainsi que des ressources utilisées, pourrait-elle être enseignée dans plusieurs langues&#x202F;?    
 * La portée du cours est-elle pertinente pour différents environnements culturels&#x202F;? Peut-elle s’adapter à différents contextes nationaux d’apprentissage et d’enseignement de l’histoire&#x202F;?  
-* Les ressources pédagogiques et bibliographiques sont-elles réutilisables dans différentes langues&#x202F;? Sont-elles trop spécifiques à une langue pour être remplacées par des ressources alternatives dans d’autres langues (si elles sont disponibles)&#x202F;? Faut-il les adapter ou les remplacer&#x202F;? 
+* Les ressources pédagogiques et bibliographiques sont-elles réutilisables dans différents contextes culturels&#x202F;? Sont-elles trop spécifiques à une langue pour être remplacées par des ressources alternatives dans d’autres langues (si elles sont disponibles)&#x202F;? Faut-il les adapter ou les remplacer&#x202F;? 
 * La leçon est-elle apte à être traduite&#x202F;? 
 
 
