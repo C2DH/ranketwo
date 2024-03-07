@@ -29,6 +29,21 @@ About the platform:
   fr: À propos de la plateforme
   de: Über die Plattform
 
+Guidelines: 
+  en: Guidelines
+  fr: Instructions pour contribuer
+  de: Leitlinien
+
+Write a lesson: 
+  en: Write a lesson
+  fr: Écrire une leçon
+  de: Verfassen einer Lektion
+
+Review a lesson: 
+  en: Review a lesson
+  fr: Relire une leçon
+  de: Eine Lektion beurteilen  
+
 Go to lessons:
 # Wonder if for FR and DE titles we can only keep Leçons and Lectionen - I wonder if the entry initially covered both the menu and the button "go to lesson"
   en: Go to lessons
