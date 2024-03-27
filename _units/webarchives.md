@@ -27,6 +27,8 @@ components:
 order: 3
 cover:
   url: https://i.vimeocdn.com/video/718778251-e956998ac337adff4e56093edf452aed2f5895d0b136df3cd6a8bc4062f6c50c-d?mw=900&mh=506&q=70
+answertemplate:
+  url: /assets/doc/answer-form-webarchives-en.rtf
 og:
   description: "Lesson about the fundamentals of the web and web archiving for historians."
 ---
