@@ -13,14 +13,14 @@ Principes directeurs pour fournir des commentaires constructifs, si vous évalue
 
 <!-- more -->
 
-Nous sommes susceptibles de solliciter votre relecture critique pour l’une des leçons que nous préparons. En effet, votre expertise peut garantir la qualité et la pertinence de nos ressources. Le processus de révision peut prendre la forme soit d’un échange direct et ouvert entre toutes les parties intéressées (l'auteur/autrice, vous, l'équipe de rédaction de Ranke.2), soit d’une évaluation à l’aveugle. Cela sera décidé par toutes les parties concernées.      
+Nous sommes susceptibles de solliciter votre relecture critique pour l’une des leçons que nous préparons. En effet, votre expertise peut garantir la qualité et la pertinence de nos ressources. Le processus d'évaluation peut prendre la forme soit d’un échange direct et ouvert entre toutes les parties intéressées (auteur/autrice, relecteur/relectrice, équipe de rédaction de Ranke.2), soit d’une évaluation à l’aveugle. Cela sera décidé par toutes les parties concernées.      
 
 Nous apprécions bien sûr tout commentaire global que vous pourriez avoir, mais veuillez noter que votre point de vue sur les aspects suivants nous est particulièrement précieux. 
 
 ### Concept 
 Veuillez réfléchir à la leçon en termes de pertinence et de qualité. 
 * La leçon se concentre-t-elle sur un sujet pertinent pour la critique des sources (numériques)&#x202F;? Selon vous, y a-t-il des atouts particuliers ou des défauts importants&#x202F;? 
-* La leçon se concentre-t-elle sur un type de source particulièrement pertinent pour l’enseignement de la méthode historique et de la critique des sources (numériques)&#x202F;? Se concentre-t-elle sur des cas peut-être trop précis qui pourraient s’avérer difficiles à adapter en classe&#x202F;?     
+* La leçon se concentre-t-elle sur un type de source particulièrement pertinent pour l’enseignement de la méthode historique et de la critique des sources (numériques)&#x202F;? Se limite-t-elle sur des cas peut-être trop précis qui pourraient s’avérer difficiles à adapter en classe&#x202F;?     
 * La leçon comble-t-elle une lacune dans le paysage des ressources éducative libres disponibles pour l’enseignement de la critique des sources (numériques)&#x202F;?
 
 ### Structure 
