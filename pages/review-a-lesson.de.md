@@ -3,53 +3,54 @@ layout: page
 lang: de
 permalink: /de/instructions-constructive-feedback/
 link: /instructions-constructive-feedback/ 
-title: Review a lesson
+title: Eine Lektion beurteilen  
 output: 
  html_document:
   toc: off
  
 ---
-Guiding principles for providing constructive feedback if you review a lesson for Ranke.2  
+Leitlinien für konstruktives Feedback, wenn Sie eine Lektion für Ranke.2 beurteilen    
 
 <!-- more -->
 
-We may solicit your feedback for one of the lessons that we are preparing. This is because we value your expertise and we know that you will contribute to the overall quality of our resources. The review process may take the form of either a direct and open exchange between all interested parties (author, reviewer, Ranke.2 editor) or a blind evaluation (at the request of authors or reviewers). This will be decided by all the parties involved.      
+Unter Umständen bitten wir Sie um Ihr Feedback zu einer der von uns ausgearbeiteten Lektionen. Denn wir schätzen Ihre Fachkenntnis und wissen, dass Sie zur Gesamtqualität unserer Ressourcen beitragen werden. Der Beurteilungsprozess kann entweder in Form eines direkten und offenen Austauschs zwischen allen Beteiligten (Autor, Gutachter, Ranke.2-Redakteur) oder in Form einer Blindbewertung (auf Anfrage der Autoren oder Gutachter) erfolgen. Das genaue Vorgehen wird von allen Beteiligten bestimmt.      
 
-We do of course appreciate any overall feedback that you may have, but please note that we are especially interested to hear your views on the following aspects that we consider important for a lesson. 
+Natürlich freuen wir uns über allgemeines Feedback jeder Art, beachten Sie jedoch, dass wir besonders an Ihrer Meinung zu folgenden Aspekten interessiert sind, die wir für eine Lektion als wichtig erachten. 
 
-### Concept 
-Please think of the lesson in terms of relevance and quality. 
-* Does the lesson focus on a topic that is relevant to (digital) source criticism? In your opinion, are there any particular merits or significant shortcomings? 
-* Does the lesson focus on a source type that is particularly relevant for teaching historical method and (digital) source criticism? Does it focus on specific cases that might prove difficult to adapt in the classroom?     
-* Does the lesson fill a gap in the landscape of available open educational resources for teaching (digital) source criticism?
+### Konzept 
+Bitte beurteilen Sie die Relevanz und Qualität der Lektion. 
+* Konzentriert sich die Lektion auf ein Thema, das für die (digitale) Quellenkritik relevant ist? Gibt es Ihrer Meinung nach besondere Vorzüge oder erhebliche Mängel? 
+* Konzentriert sich die Lektion auf eine Art von Quelle, die für die Vermittlung der historischen Methode und der (digitalen) Quellenkritik besonders relevant ist? Konzentriert sie sich auf spezielle Beispiele, die sich im Kurs mitunter schwer bearbeiten lassen?     
+* Schließt die Lektion eine Lücke in der Landschaft der frei verfügbaren Bildungsressourcen zur Vermittlung der (digitalen) Quellenkritik?
 
-### Structure 
-Please think of the lesson in terms of clarity and efficiency. 
-* Do the different parts of the lesson correspond to clear learning objectives? 
-* Are the assignments for the lesson organised in a way that makes sense in relation with the learning objectives?
-* Is there a logical sequence between the different parts of the lesson (for example, the different parts of a given assignment)? 
+### Struktur 
+Bitte beurteilen Sie die Verständlichkeit und Effizienz der Lektion. 
+* Entsprechen die verschiedenen Abschnitte der Lektion klaren Lernzielen? 
+* Sind die zur Lektion gehörigen Aufgaben hinsichtlich der Lernziele sinnvoll organisiert?
+* Gibt es eine logische Abfolge zwischen den verschiedenen Abschnitten der Lektion (z. B. der unterschiedlichen Schritte einer bestimmten Aufgabe)? 
 
-### Effectiveness
-Please think of the lesson in terms of the extent to which it achieves the learning objectives.  
-* Are the learning objectives clear and realistic?
-* Are the instructions clear? 
-* Does the learning outcome correspond to the learning objectives for the lesson? 
+### Effektivität
+Bitte beurteilen Sie, inwieweit die Lektion die Lernziele erfüllt.  
+* Sind die Lernziele klar und realistisch?
+* Sind die Anweisungen verständlich? 
+* Entspricht das Lernergebnis den für die Lektion veranschlagten Lernzielen? 
 
-### Resources 
-Please evaluate the relevance, pertinence and accessibility of the pedagogical and bibliographical resources the lesson uses (reading and viewing suggestions, hyperlinks, images). 
-* Are the resources openly accessible? 
-* Are the resources relevant for the topic and the type of sources addressed by the lesson? 
-* Can the resources be realistically used for self-learning or in the classroom in terms of their length and clarity? 
+### Ressourcen 
+Bitte beurteilen Sie die Relevanz, Sachdienlichkeit und Zugänglichkeit der pädagogischen und bibliografischen Ressourcen, die in der Lektion verwendet werden (Literatur- und Videoempfehlungen, Hyperlinks, Bilder). 
+* Sind die Ressourcen frei zugänglich? 
+* Sind die Ressourcen für das Thema und die Art der Quellen innerhalb der Lektion relevant? 
+* Können die Ressourcen hinsichtlich ihrer Länge und Verständlichkeit tatsächlich zum Selbststudium oder im Kurs genutzt werden? 
 
-### Multilingualism
-Please share your thoughts on whether the approach and objective of the lesson, as well as the resources it uses, mean that it could be taught in more than one language.    
-* Is the scope of the lesson relevant for different cultural environments? Can it fit into different national contexts of history learning and teaching?  
-* Are the resources (pedagogical and bibliographical) reusable in different languages? Are they too language-specific to be replaced by alternative resources in other languages (if available)? Do they need to be adapted or replaced? 
-* Is the lesson fit for translation? 
+### Mehrsprachigkeit
+Bitte teilen Sie uns Ihre Meinung dazu mit, ob Ansatz und Ziel der Lektion sowie die verwendeten Ressourcen auch in mehr als einer Sprache vermittelt werden könnten.    
+* Ist das Thema der Lektion für unterschiedliche kulturelle Umgebungen relevant? Passt es in verschiedene nationale Kontexte des Geschichtsstudiums und -unterrichtens?  
+* Lassen sich die (pädagogischen und bibliografischen) Ressourcen in verschiedenen Sprachen wiederverwendbar? Sind sie zu sprachspezifisch, um durch alternative Ressourcen in anderen Sprachen ersetzt zu werden (sofern vorhanden)? Müssen sie angepasst oder ausgetauscht werden? 
+* Lässt sich die Lektion übersetzen? 
 
-### Sustainability 
-Please evaluate whether the lesson has the potential to remain relevant and useful in the longer term. 
-* Are the resources (bibliographical, data, tools) openly accessible, preferably with persistent identifiers, or located in open infrastructures? If software tools are involved, are they open source? 
-* Does the lesson embrace a broad – ideally historical – perspective, or does it focus on short-term considerations or presentism? For example, a lesson on audiovisual sources that relies heavily on examples of one specific proprietary platform that is popular at the time the lesson is written would be problematic; on the contrary, a lesson using a variety of examples and offering a contextualised view of different platforms, the impact of their business models and their geographic location, while also exploring issues related to governance and dissemination of resources, etc., could prove more sustainable in the long term. 
-    
-Thank you for your contribution!  
+### Nachhaltigkeit 
+Bitte beurteilen Sie, ob die Lektion das Potenzial für längerfristige Relevanz und Nutzbarkeit besitzt. 
+* Sind die Ressourcen (Literatur, Daten, Tools) frei zugänglich, vorzugsweise mit dauerhaften Identifikatoren oder in offenen Infrastrukturen? Falls Software-Tools genutzt werden, sind diese quelloffen? 
+* Nimmt die Lektion eine breite – idealerweise historische – Perspektive ein oder konzentriert sie sich auf kurzfristige Überlegungen oder Präsentismus? So wäre beispielsweise eine Lektion über audiovisuelle Quellen, die sich stark auf Beispiele einer bestimmten, urheberrechtlich geschützten und zum Zeitpunkt der Erarbeitung der Lektion populären Plattform stützt, problematisch. Im Gegensatz dazu könnte sich eine Lektion, die eine Vielzahl von Beispielen aufgreift und einen kontextbezogenen Blick auf verschiedene Plattformen, die Auswirkungen ihrer Geschäftsmodelle und ihrer geografischen Standorte bietet und gleichzeitig auch Fragen in Zusammenhang mit der Verwaltung und Verbreitung von Ressourcen usw. untersucht, langfristig als nachhaltiger erweisen. 
+   
+Vielen Dank für Ihre Unterstützung!  
+  

@@ -4,7 +4,6 @@ layout: unit
 publication_date: 2017-12-12
 toc: on
 tags:
-  - Remix
 authors: 
   - stefania-scagliola
   - jordan-ricker
@@ -26,6 +25,6 @@ cover:
 order: 4
 ---
 
-Eine Lektion darüber, wie digitale Technologie unsere Fantasie beflügelt und uns die Schaffung neuer Realitäten ermöglicht hat, gleichzeitig jedoch eine gewisse Vertrautheit mit den Mechanismen hinter digitalen Inhalten erfordert, wenn wir die angewandte Technologie verstehen und Ursprung und Art der wiederverwendeten Quellen bewerten wollen.
+In dieser Lektion geht es darum, wie die digitale Technologie unsere Vorstellungskraft angeregt und uns ermöglicht hat, neue Realitäten zu schaffen. Gleichzeitig ist jedoch eine gewisse Vertrautheit mit den Mechanismen hinter digitalen Inhalten erforderlich, wenn wir die angewandte Technologie verstehen und den Ursprung und die Art der verwendeten Quellen bewerten wollen.
 
 <!-- more -->

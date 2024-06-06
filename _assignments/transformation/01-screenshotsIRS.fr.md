@@ -178,7 +178,11 @@ Voici un exemple pour vous donner une idée de la manière de répondre aux ques
 ### Suggestions de lectures/vidéos
 <!-- section-contents -->
 
-Trevor Owens, «&#x202F;Digital Sources & Digital Archives&#x202F;: The Evidentiary Basis of Digital History&#x202F;» in David Staley (dir.), *Companion to Digital History*. Wiley-Blackwell, 2017 [https://osf.io/preprints/socarxiv/t5rdy](https://osf.io/preprints/socarxiv/t5rdy) 
+- Klein, Matt. «&#x202F;What Is EXIF Data, and How Can I Remove It from My Photos&#x202F;». _How-to Geek_, 10 juillet 2017. [Article de magazine](https://www.howtogeek.com/203592/what-is-exif-data-and-how-to-remove-it/){:target="_blank"}
+- Neatrour, Anna, et Martin Greer. «&#x202F;Using Metadata to Describe Digital Content&#x202F;». 30 septembre 2015. Digpublib. Vidéo, 35 minutes 51 secondes. [Vidéo Youtube](https://www.youtube.com/watch?v=RqgFLj_yspk){:target="_blank"}
+- Jagdish, Deepak, et Daniel Smilkov. «&#x202F;The Power of Metadata&#x202F;». 25 septembre 2013, TEDxCambridge. Vidéo, 9 minutes 57 secondes. [Vidéo Youtube](https://www.youtube.com/watch?v=i2a8pDbCabg){:target="_blank"}
+- Michel, Jean-Baptiste, Yuan Kui Shen, Aviva P. Aiden, Adrian Veres, Matthew K. Gray, *et al.* «&#x202F;Quantitative analysis of culture using millions of digitized books&#x202F;». _Science_ 331, (6014): 176-182. [Harvard Library](https://dash.harvard.edu/handle/1/8899722){:target="_blank"}
+- Szeliski, Richard. «&#x202F;Computer Vision: Algorithms and Applications by Richard&#x202F;». Dernière modification&#x202F;»: 23 mai 2022. [Site web](http://szeliski.org/Book/){:target="_blank"}
 
 
 <!-- briefing-teacher -->

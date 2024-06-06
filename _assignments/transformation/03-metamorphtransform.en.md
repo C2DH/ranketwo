@@ -120,7 +120,7 @@ Metamorphosis (also known as shapeshifting) has been used as a recurrent theme i
 
 <!-- section -->
 
-### 3.d Metamorphosis depicted in paintings | 40 mins
+### 3.d Metamorphosis depicted in paintings | 40 min
 <!-- section-contents -->
 
 It was the Roman poet Ovid’s fascination for the world being in a constant state of flux that led to the creation of his epic poem Metamorphosis. The fact that this fascination is everlasting is illustrated by the massive impact of his poem, especially on Western culture. Renaissance and Baroque artists frequently depicted mythological scenes and characters from his poem while famous authors such as Shakespeare and Chaucer drew on his work. Ovid would probably have been thrilled to learn that nowadays the structure of his work can be analyzed with the help of digital tools. The recurrent use of the term ‘transformation’ when referring to the impact of digital technology on today’s society echoes Ovid’s enchantment with change. In this assignment, you will identify themes from the Metamorphoses that are depicted in paintings which, thanks to digital technology, we now have instantaneous access to.

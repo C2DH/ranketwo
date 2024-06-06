@@ -2,7 +2,7 @@ home:
   links:
     - title: Home
       href: /
-    - title: What are our learning objectives?
+    - title: About the platform
       href: /about-platform/
     - title: About the lessons
       href: /about-lessons/
@@ -12,17 +12,17 @@ primary:
     - title: Go to lessons
       href: /lessons/
       active_layout: unit
-    - title: Teaching aids
-      href: /teaching-aids/
     - title: Search
       href: /search/
+    ##- title: Teaching aids
+    ##href: /teaching-aids/
 
 guidelines:
   links:
     - title: Write a lesson
       href: /instructions-authors/
       active_layout: unit
-    - title: Review a lesson 
+    - title: Review a lesson
       href: /instructions-constructive-feedback
 
 footer:
