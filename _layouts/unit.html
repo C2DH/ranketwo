@@ -3,13 +3,26 @@ layout: default
 ---
 
 {% assign components = site.units| where: "parent", page.unit_id | where:
-"lang", page.lang | sort: 'type' %} {% assign clips = components | where:
-"type", "clip" %} {% assign interactives = components | where: "type",
-"interactive" %} {% assign videolectures = components | where: "type",
-"videolecture" %} {% assign workshop = components | where: "type", "workshop" %}
+"lang", page.lang | sort: 'type' %}
+
+{% assign clips = components | where:
+"type", "clip" %} 
+
+{% assign interactives = components | where: "type",
+"interactive" %}
+
+{% assign videolectures = components | where: "type",
+"videolecture" %} 
+
+{% assign workshop = components | where: "type", "workshop" %}
+
 {% assign workshopContent = site.workshops | where: "unit", page.unit_id |
-where: "lang", page.lang | sort: 'order' %} {% assign introductions = components
-| where: "type", "introduction" %} {% assign assignments = site.assignments|
+where: "lang", page.lang | sort: 'order' %} 
+
+{% assign introductions = components
+| where: "type", "introduction" %} 
+
+{% assign assignments = site.assignments|
 where: "unit", page.unit_id | where: "layout", "assignment" | where: "lang",
 page.lang | sort: 'order' %} {% unless documents %} {% assign documents =
 site.empty_array %} {% endunless %} {% assign cover = page.cover.url %} {%
@@ -17,15 +30,14 @@ include captures/cover_url %}
 <!--  unit id: {{page.unit_id}} -->
 
 <!-- main container -->
-<div class="wrapper" style="min-height: 46%">
+<div class="wrapper Unit" style="min-height: 36%">
   <div
     class="in-the-background"
     style="position: absolute; top: 0; right: 0; left: 0; bottom: 0; z-index: 0"
   >
     <div data-pagefind-meta="image[style]"
       class="slide-background"
-      {%
-      if
+      {% if
       page.cover.url
       %}
       style="background-size:cover;background-image:url({{cover_url}})"
@@ -40,13 +52,53 @@ include captures/cover_url %}
   </div>
   <div class="container">
     <div class="row">
-      <div class="{% if page.toc %} col-sm-8 {% else %} col {% endif %}">
+      <div class=" col-sm-8 ">
         <div class="page unit">
-          <h1>{{page.title}}</h1>
+          <h1 >{{page.title}}</h1>
           {% assign paragraphs = page.content | split: site.excerpt_separator %}
-          <div class="excerpt">{{paragraphs[0] | markdownify}}</div>
+          <div class="excerpt my-4">{{paragraphs[0] | markdownify}}</div>
+          
+          <section class="Unit__metadata mb-4">
+            {% if page.publication_date %}
+              <p >
+                {% assign key='publication-date' %}{% include t.html %}
+                {% if page.lang == 'en' %}
+                <span class="date" lang="en">
+                  {{page.publication_date | date: "%d %b %Y" }}
+                </span>
+                {% endif %}
+                {% if page.lang == 'fr' %}
+                <span class="date">
+                  {{page.publication_date | date: "%Y-%m-%d"}}
+                </span>
+                {% endif %}
+                {% if page.lang == 'de' %}
+                <span class="date">
+                  {{page.publication_date | date: "%Y-%m-%d"}}
+                </span>
+                {% endif %}
+              </p>
+            
+            {% endif %}
+            {% if page.authors %}
+              <p>
+                {% assign key='authors' %}{% include t.html %}
+                {% for author_slug in page.authors %} {% include author.html %}
+                {% endfor %}
+              </p>
+            {% endif %}
+            {% if page.editors %}
+              <p>
+                {% assign key='editors' %}{% include t.html %}
+                {% for author_slug in page.editors %} {% include author.html %}
+                {% endfor %}
+              </p>
+            {% endif %}
+          </section>
+
           {% unless assignments.size == 0 %}
-          <a href="{{page.url}}/#c-assignments" class="btn btn-primary">
+
+          <a href="{{page.url}}/#c-assignments" class="btn btn-outline-white">
             {% assign key='go-to-assignments' %}{% include t.html %}</a>
           {% endunless %}
         </div>
@@ -55,7 +107,46 @@ include captures/cover_url %}
   </div>
 </div>
 <div class="bt-glitch-2"></div>
+{% if introductions.size == 0 %}
+<article class="position-relative">
+  <div class="lines">
+    <div class="line left"></div>
+    <div class="line right"></div>
+    <!-- <div class='line top'></div> -->
+      
+          <div class="type">
+
+      <span>TUTORIAL</span>
+    </div>
+
+
+        
+    </div>
+  <a class='anchor' id='c-{{page.slug}}'></a>
+  <div class='container py-4'>
+    <div class='row'>
+      <div class='col-sm-8'>
+        {{ page.content | split: site.excerpt_separator | last | markdownify}}
+      </div>
+    </div>  
+  </div>
+</article>
+{% if documents %}
+<script>
+  // script for generic components.
+  // enrich document table with documents coming from component documents. cfr
+  ranketwo.enrich([
+    {% for docid in documents %}
+      {% assign docs = site.data.documents | where:"slug",docid %}
+      {% if docs[0] %}{{ docs[0] | jsonify}}{% else %}{error: 'not-found', slug:'{{docid}}'}{% endif %}{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ], '{{page.path}}');
+</script>
+{% endif %}
+{% else %}
 {% for component in introductions %} {% include component.html %} {% endfor %}
+{% endif %}
+
 {% for component in clips %} {% include component.html %} {% endfor %} {% for
 component in interactives %} {% include component.html %} {% endfor %} {% for
 component in videolectures %} {% include component.html %} {% endfor %} {% if
@@ -67,11 +158,10 @@ assignments.size %}
     <div class="line left"></div>
     <div class="line right"></div>
     <div class="type">
-      {% assign key = "assignment" %}{% include t.html %}<a
-        class="component--size size-medium"
-        href='{{ "about-lessons" | relative_url}}#medium--complete-one-or-more-assignments'
-        >M</a
-      >
+      {% assign key = "assignment" %}{% include t.html %}
+      <a class="component--size size-medium" href='{{ "about-lessons" | relative_url}}#medium--complete-one-or-more-assignments'>
+        M
+      </a>
     </div>
   </div>
   <div class="container">
@@ -167,9 +257,7 @@ assignments.size %}
           <ul>
             {% for outcome in assignment.outcomes %}
             <li>
-              {{ outcome | markdownify | replace: '
-              <p>' | replace: '</p>
-              ' }}
+              {{ outcome | markdownify | replace: '<p>' | replace: '</p>' }}
             </li>
             {% endfor %}
           </ul>
@@ -189,11 +277,12 @@ assignments.size %}
 {% endunless %}
 {% endif %} {% for component in workshop %} {% include component.html %} {%
 endfor %} {% for component in workshopContent %} {% include component.html %} {%
-endfor %} {% assign namespace = 'unit' %} {% include scripts/enrich.html %} {%
-assign toc = introductions | concat: clips | concat: interactives | concat:
-videolectures %}
+endfor %} {% assign namespace = 'unit' %} {% include scripts/enrich.html %} 
 <!-- table of contents contaier -->
 {% if page.toc %}
+{%
+  assign toc = introductions | concat: clips | concat: interactives | concat:
+  videolectures %}
 <div id="table-of-contents-wrapper">
   <div class="container">
     <div class="row">
@@ -258,6 +347,51 @@ videolectures %}
     </div>
   </div>
 </div>
+{% else %}
+
+<div id="table-of-contents-wrapper">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-4 ml-auto">
+        <div class="section collapsible p-2">
+          <div class="section--toggler collapsible-toggler active">
+            <div class="section--title p-2">
+              <h4>{% assign key="table of contents"%} {% include t.html %}</h4>
+            </div>
+            <div class="section--icon">
+              <div class="icon-plus icon"></div>
+            </div>
+          </div>
+          <div class="section--contents collapsible-content active manual">
+            <!-- ToC -->
+            <ul class="px-2">
+              
+            </ul>
+          </div>  
+        </div>  
+      </div>  
+    </div>  
+  </div>  
+</div>
+<script>
+  // generate table of contents from body
+  window.addEventListener('DOMContentLoaded', function () {
+    // get all h2 items on the main page
+    var h2s = document.querySelectorAll('h2')
+    var toc = document.querySelector('#table-of-contents-wrapper ul')
+    // remove all children of the ul
+    toc.innerHTML = ''
+
+    h2s.forEach(function (h2) {
+      var li = document.createElement('li')
+      var a = document.createElement('a')
+      a.href = '#' + h2.id
+      a.innerText = h2.innerText
+      li.appendChild(a)
+      toc.appendChild(li)
+    })
+  })
+</script>
 {% endif %}
 
 <script>

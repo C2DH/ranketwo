@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang }}">
+  {% capture add_to_search_index %}{% if site.layout_to_search_index contains page.layout %}yes{% endif %}{% endcapture %}
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -67,14 +68,18 @@
       href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"
     />
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-    <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
-    <script src="/pagefind/pagefind-ui.js"></script>
+    <link href="{{ '/pagefind/pagefind-ui.css' | relative_url }}" rel="stylesheet" />
+    <script src="{{ '/pagefind/pagefind-ui.js' | relative_url }}"></script>
   </head>
-  <body data-pagefind-filter="layout[class]" class="{{page.layout}}" lang="{{page.lang}}">
-    {% include nav.html %} {% include nav.mobile.html %} {{content}} {% assign
-    documents = page.documents %} {% assign namespace = 'page' %} {% include
-    scripts/enrich.html %} {% include footer.html %} {% include analytics.html
-    %}
+  <body data-pagefind-filter="layout[class]" class="{{page.layout}}" lang="{{page.lang}}" 
+    {% if add_to_search_index == "yes"%} data-pagefind-body {% endif %}>
+    {% include nav.html %} {% include nav.mobile.html %} {{content}} 
+    
+    {% assign documents = page.documents %} 
+    {% assign namespace = 'page' %} 
+    
+    {% include scripts/enrich.html %} {% include footer.html %} {% include analytics.html %}
+
     <script src="https://player.vimeo.com/api/player.js"></script>
     <script src="{{ '/assets/js/d3.custom.min.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/ranketwo.js' | relative_url }}"></script>

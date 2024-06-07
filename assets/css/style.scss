@@ -11,11 +11,12 @@ $cyan: cyan;
 $magenta: #f64f59;
 $transparent-white: rgba(255, 255, 255, 0.75);
 
-$index-bg-transparency: 0.5;
+$index-bg-transparency: 0.7;
 
 :root {
   --bs-white: #fdecef;
   --bs-white-25: rgba(253, 236, 239, 0.25);
+  --bs-white-10: rgba(253, 236, 239, 0.1);
   --bs-dark: #1c090b;
   // --bs-accent: #f64f59;
   --bs-accent: magenta;
@@ -153,6 +154,18 @@ h2 {
 //   color: $almost-black;
 // }
 
+.btn-outline-white {
+  background: var(--bs-white-10);
+  border: 2px solid var(--bs-white);
+  color: var(--bs-white);
+  border-radius: 2rem;
+  padding: 0.5rem 2rem;
+}
+
+.btn-outline-white:hover {
+  background: var(--bs-white);
+  color: var(--bs-dark);
+}
 /*
   basic animations
   https://github.com/daneden/animate.css
