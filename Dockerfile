@@ -44,7 +44,7 @@ RUN echo "{ \
   \"gitBranch\": \"${GIT_BRANCH}\", \
   \"buildDate\": \"${BUILD_DATE}\", \
   \"gitRemote\": \"${GIT_REMOTE}\" \
-}" > version.json
+}" > _site/version.json
 
 # Stage 2: Bring the result to a Node image
 FROM node:22.2.0-alpine3.20
