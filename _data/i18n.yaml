@@ -62,7 +62,7 @@ go-to-lesson:
   fr: accéder à la leçon
   de: Zur Lektion  
 go-to-assignments:
-  en: go to assignments
+  en: see assignments
   fr: accèder aux exercices
   de: Zu den Aufgaben
 more-lessons: 
@@ -79,6 +79,11 @@ published:
   en: published
   fr: publiée
   de: veröffentlicht
+
+publication-date:
+  en: publication date
+  fr: date de publication
+  de: Veröffentlichungsdatum
 translated:
   en: translated
   fr: traduite
