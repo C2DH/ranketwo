@@ -4,7 +4,8 @@ unit: boder
 lang: de
 type: assignment
 title: "Boders Ansatz: von der Statistik zur menschlichen Expression"
-cover: /assets/images/attachments/12boxes/12boxes_06.png
+cover:
+  url: /assets/images/attachments/12boxes/12boxes_06.png
 order: 5
 tags: 
   - Multimodalität

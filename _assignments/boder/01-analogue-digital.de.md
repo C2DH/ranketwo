@@ -4,7 +4,8 @@ unit: boder
 lang: de
 type: assignment
 title: Das analoge Drahttonbandgerät im Vergleich zu digitalen Audioaufnahmen
-cover: /assets/images/attachments/12boxes/12boxes_02.png
+cover:
+    url: /assets/images/attachments/12boxes/12boxes_02.png
 order: 1
 tags: 
  - geschichte der Kommunikationstechnologie

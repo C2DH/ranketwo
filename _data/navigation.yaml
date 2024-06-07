@@ -12,15 +12,17 @@ primary:
     - title: Go to lessons
       href: /lessons/
       active_layout: unit
+    - title: Search
+      href: /search/
     ##- title: Teaching aids
-      ##href: /teaching-aids/
+    ##href: /teaching-aids/
 
 guidelines:
   links:
     - title: Write a lesson
       href: /instructions-authors/
       active_layout: unit
-    - title: Review a lesson 
+    - title: Review a lesson
       href: /instructions-constructive-feedback
 
 footer:

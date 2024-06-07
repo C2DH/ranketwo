@@ -1,40 +1,47 @@
 ---
 ---
+
 $white: #ffffff;
-$almost-black: #1C090B;
+$almost-black: #1c090b;
 $light-almost-black: #41151a;
 $highlight: lime;
 $light-grey: #8e8687;
 $almost-white: #fdecef;
 $cyan: cyan;
 $magenta: #f64f59;
-$transparent-white: rgba(255,255,255,.75);
+$transparent-white: rgba(255, 255, 255, 0.75);
 
-$index-bg-transparency: .5;
+$index-bg-transparency: 0.5;
 
-html{
+:root {
+  --bs-white: #fdecef;
+  --bs-white-25: rgba(253, 236, 239, 0.25);
+  --bs-dark: #1c090b;
+  // --bs-accent: #f64f59;
+  --bs-accent: magenta;
+}
+html {
   height: 100%;
 }
-body{
+body {
   height: 100%;
   background: $white;
   color: $light-almost-black;
   font-family: 'Work Sans', sans-serif;
-
 }
 
 a {
-  transition: color .25s linear;
+  transition: color 0.25s linear;
   // background-color: transparent;
   color: $almost-black;
   border-bottom: 1px solid magenta;
 }
 
-a.anchor{
-  opacity: .45;
+a.anchor {
+  opacity: 0.45;
   text-decoration: none;
   border-bottom-color: transparent;
-  &:hover{
+  &:hover {
     opacity: 1;
   }
 }
@@ -43,30 +50,32 @@ a:hover {
   // background-color: $almost-black;
   // color: $white;
   color: magenta;
-      text-decoration: none;
+  text-decoration: none;
 }
 
-h3,h4,h5{
+h3,
+h4,
+h5 {
   font-weight: 300;
   font-size: 1.5rem;
 }
 
-h1{
+h1 {
   font-weight: 300;
   font-size: 3rem;
 }
-h2{
+h2 {
   font-weight: 300;
 }
 
-.clear{
+.clear {
   clear: both;
 }
-.wrapper{
+.wrapper {
   position: relative;
 }
 
-.wrapper > .wrapper-bait{
+.wrapper > .wrapper-bait {
   position: absolute;
   z-index: 100;
   top: -10px;
@@ -78,7 +87,7 @@ h2{
 
   > span {
     background: magenta;
-    padding: .5rem 1rem;
+    padding: 0.5rem 1rem;
     color: white;
     font-weight: 300px;
     text-transform: uppercase;
@@ -86,16 +95,16 @@ h2{
   }
 }
 
-.extra-spacing{
+.extra-spacing {
   margin-top: 3rem;
   clear: both;
 }
 
-.extra-padding{
+.extra-padding {
   padding-top: 1.5rem;
 }
 
-.height-100{
+.height-100 {
   height: 100%;
 }
 
@@ -103,47 +112,46 @@ h2{
   width: 100%;
 }
 
-.bt-glitch-1{
+.bt-glitch-1 {
   border-top: 1px solid blue;
   box-shadow: 0px -1px 0px cyan;
 }
 
-.bt-glitch-2{
+.bt-glitch-2 {
   border-top: 1px solid blue;
   box-shadow: 0px -2px 0px cyan;
 }
 
-.bt-glitch-3{
+.bt-glitch-3 {
   border-top: 1px solid blue;
   box-shadow: 0px -2px 0px cyan, inset 0px 2px 0px magenta;
 }
 
 .font-times {
   font-style: normal;
-  font-family: "Times New Roman", Times, serif;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 .font-comic {
   font-style: normal;
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
 }
 
-@import "includes/nav", "includes/nav.mobile", "includes/footer", "includes/component", "includes/section", "includes/card";
-@import "layouts/index", "layouts/page", "layouts/unit", "layouts/answer-template";
-@import "icons", "slides";
+@import 'includes/nav', 'includes/nav.mobile', 'includes/footer',
+  'includes/component', 'includes/section', 'includes/card';
+@import 'layouts/index', 'layouts/page', 'layouts/unit',
+  'layouts/answer-template';
+@import 'icons', 'slides';
 
 /** bootstrap override */
 
-
-.btn-primary {
-  background: #fff;
-  border-radius: 0;
-  border: 1px solid blue;
-  border-bottom: 2px solid $almost-black;
-  color: $almost-black;
-
-}
-
+// .btn-primary {
+//   background: #fff;
+//   border-radius: 0;
+//   border: 1px solid blue;
+//   border-bottom: 2px solid $almost-black;
+//   color: $almost-black;
+// }
 
 /*
   basic animations

@@ -1,0 +1,441 @@
+---
+layout: default
+---
+
+<link
+  rel="stylesheet"
+  href="{{ '/assets/css/search_style.css?v=' | relative_url }}"
+/>
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+<script src="/pagefind/pagefind-ui.js"></script>
+<div class="wrapper" style="min-height: 10%">
+  <div
+    class="in-the-background"
+    style="position: absolute; top: 0; right: 0; left: 0; bottom: 0; z-index: 0"
+  >
+    <div
+      data-pagefind-meta="image[style]"
+      class="slide-background"
+      {%
+      if
+      page.cover.url
+      %}
+      style="background-size:cover;background-image:url({{cover_url}})"
+      {%
+      endif
+      %}
+    ></div>
+    <div class="slide" style="display: block; opacity: 1">
+      <div class="overlay"></div>
+      <div class="overlay-dotted"></div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="{% if page.toc %} col-sm-8 {% else %} col {% endif %}">
+        <div class="page unit">
+          <h1>{{page.title}}</h1>
+          <p id="search_summary" class="text-white"></p>
+          {% assign paragraphs = page.content | split: site.excerpt_separator %}
+          <!-- <div class="excerpt">{{paragraphs[0] | markdownify}}</div> -->
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--  -->
+  <div class="container">
+    <ul class="nav nav-tabs" id="layout_filters">
+      <li class="nav-item">
+        <a class="nav-link active" aria-current="page" href="#"
+          >all contents (...)</a
+        >
+      </li>
+    </ul>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+      <div id="search" class="input-group my-4">
+        <input
+          type="search"
+          class="form-control border-dark"
+          id="search_query"
+          placeholder="type to search ..."
+          onchange="push_query_to_url()"
+          aria-label="Recipient's username"
+          aria-describedby="button-addon2"
+          autofocus
+        />
+        <div class="input-group-append">
+          <button
+            onclick="push_query_to_url"
+            class="btn btn-dark"
+            type="button"
+            id="button-addon2"
+          >
+            Search
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-6 col-xl-8" id="results"></div>
+    <!-- add new filter type here -->
+    <div class="col-md-6 col-xl-4">
+      <div class="row">
+        <div class="col-6">
+          <h3>Mediatype</h3>
+          <ul class="Search__filters" id="mediatype_filter"></ul>
+        </div>
+        <div class="col-6">
+          <h3>Authors</h3>
+          <ul class="Search__filters" id="author_filter"></ul>
+        </div>
+
+        <div class="col-12 mt-4">
+          <h3>Tags</h3>
+          <ul class="Search__filters" id="tag_filter"></ul>
+          <!-- <button onclick="toggleMinTagCountToDisplayTag">more...</button> -->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  const MinTagCountToDisplayTag = 2;
+  let pagefind;
+  let searchParams = new URL(location).searchParams;
+  let searchRes;
+  let filterData;
+  // eslint-disable-next-line
+  const people = {{ site.data.people | jsonify }};
+  // eslint-disable-next-line
+  const tags = {{ site.data.tags | jsonify }};
+  const currentLang = "{{ page.lang | default: site.lang }}";
+  const LayoutTypes = ['unit', 'assignment', 'page']
+
+  console.log("Search page \n - currentLang: ", currentLang);
+  console.log("tags", tags);
+  var filters_data;
+
+  document.getElementById("search_query").addEventListener("change", performSearch);
+
+  window.addEventListener('DOMContentLoaded', async (event) => {
+    pagefind = await import("/pagefind/pagefind.js");
+    pagefind.init();
+    performSearch();
+  });
+  // Perform search
+  async function performSearch() {
+    let sq = searchParams.get("q") || "";
+    let filters = make_json_filters_from_url();
+    filters_data = await pagefind.filters();
+    console.info("[Search Page] performSearch sq", sq, "\n filters:", filters);
+    if (sq.length === 0) {
+      searchRes = await pagefind.search(null, filters);
+    } else {
+      searchRes = await pagefind.search(sq, filters)
+    }
+    displayResults();
+    displayFilters();
+    updateSummary();
+  }
+
+  async function displayResults() {
+    var results_elem = document.getElementById("results");
+    var results = "";
+    for (const res of searchRes.results) {
+        var article_data = await res.data();
+        results += '<div class="Search__card mb-3 d-flex" style="width: 100%" >  ';
+        if (article_data.meta.image) {
+          results += `
+          <div>
+            <div class="card-image" style=" border-left-radius:5px;border-right-radius: width:200px;height:100%;position:relative;;${article_data.meta.image}">
+            </div>
+          </div>`;
+        }
+
+        results += `
+          <div class="card-body">
+            <h5 class="card-title">
+              <a href="${article_data.url}">${article_data.meta.title}</a>`;
+
+        if (LayoutTypes.includes(article_data.filters.layout[0])) {
+          const layout = article_data.filters.layout[0];
+          results += `
+            <span class="badge bg-transparent border border-dark" data-type="layout" data-value="${layout}" onclick="setFilter(this)">${layout}</span>`;
+        }
+        results += '</h5>'
+        // Layout bringing Unit info
+        if (Array.isArray(article_data.filters.layout) && article_data.filters.layout[0] === "assignment") {
+            results += '<p>From unit: <a href=' + article_data["meta"].unit_url + '>' + article_data["meta"].unit_title + '</a></p>';
+        }
+        // Authors
+        if (Array.isArray(article_data.filters.author)) {
+          results += '<p class="authors">'
+          results += 'Authors: '
+          for(var i = 0; i < article_data.filters.author.length; i++ ) {
+            var author = article_data.filters.author[i];
+            results += `<span class="Search__author" data-type="author" data-value="${author}" onclick="setFilter(this)">${author}</span>`
+            if(i < article_data.filters.author.length - 1 && article_data.filters.author.length > 1) {
+              results += ", ";
+            }
+          }
+          results += '</p>';
+        }
+        if (Array.isArray(article_data.filters.mediatype)) {
+          results += '<ul class="Search__tags my-2">';
+
+          for (var i = 0; i < article_data.filters.mediatype.length; i++) {
+            var mediatype = article_data.filters.mediatype[i];
+            var label = tags.find(d => d.id === mediatype)?.displayname[currentLang] || mediatype;
+            results += `<li class="Search__tag" data-type="mediatype" data-value="${mediatype}" onclick="setFilter(this)">${label}</li>`;
+            if (i < article_data.filters.mediatype.length - 1) {
+              results += "<span>/&nbsp;</span>";
+            }
+          }
+          results += '</ul>';
+        }
+        // Excerpt
+        results += '<div class="card-text">' + article_data.excerpt + '</div>';
+
+
+        results += "</div></div>";
+        results_elem.innerHTML = results;
+    }
+  }
+
+  async function displayLayoutFilters(values=[], show_only=['unit', 'assignment', 'page']) {
+    const layout_filters_elem = document.getElementById("layout_filters");
+    layout_filters_elem.innerHTML = "";
+    const layoutAllClassName = searchParams.has('layout') ? '' : 'active';
+    const layout_all = `<li class='nav-item'><a class='nav-link ${layoutAllClassName}' aria-current='page' href='#'>all contents (${searchRes?.results?.length || '...'})</a></li>`;
+    layout_filters_elem.insertAdjacentHTML('beforeend', layout_all);
+    const layout_all_el = layout_filters_elem.lastElementChild;
+    layout_all_el.addEventListener('click', (e) => pushFilterToUrl(e, 'layout', null, { replace: true }));
+
+    for (const layout_filter in values) {
+    if (!show_only.includes(layout_filter)) {
+        continue;
+    }
+    // is active if searchparams contains its value
+    const activeClassName = searchParams.has('layout', layout_filter) ? 'active' : '';
+    const disabledClassName = searchRes.filters.layout[layout_filter] === 0 ? 'disabled' : '';
+    const html = `<li class="nav-item">
+        <a class="nav-link ${activeClassName} ${disabledClassName}" href="#">
+            ${layout_filter}
+            (${searchRes.filters.layout[layout_filter]})
+        </a>
+    </li>`;
+    layout_filters_elem.insertAdjacentHTML('beforeend', html);
+    // get element just created and add event listener
+    const el = layout_filters_elem.lastElementChild;
+    if (disabledClassName.length) {
+        continue;
+    }
+    el.addEventListener('click', (e) => pushFilterToUrl(e, 'layout', layout_filter,  { replace: true }));
+    }
+  }
+
+  async function displayMultitagFilters(id, values, minCount=0) {
+    const filters_elem = document.getElementById(id+"_filter");
+    filters_elem.innerHTML = "";
+    // order by global values
+    const sortedKeys = Object.keys(values).sort((a, b) => values[b] - values[a]);
+    sortedKeys.forEach((tagFilter) => {
+    const activeClassName = searchParams.has(id, tagFilter) ? 'active' : '';
+    const disabledClassName = searchRes.filters[id][tagFilter]=== 0 ? 'disabled' : '';
+    const hideClassName = parseInt(values[tagFilter]) < minCount ? 'd-none' : 'wo' + values[tagFilter] + '-' + minCount ;
+    const label = tags.find(d => d.id === tagFilter)?.displayname[currentLang] || tagFilter;
+    const html = `<li class="nav-item ${hideClassName}">
+        <a class="nav-link ${activeClassName} ${disabledClassName} " href="#">
+        ${label} (${searchRes.filters[id][tagFilter]})
+        </a>
+    </li>`;
+    filters_elem.insertAdjacentHTML('beforeend', html);
+    // get element just created and add event listener
+    const el = filters_elem.lastElementChild;
+    if (disabledClassName.length) {
+        return;
+    }
+    el.addEventListener('click', (e) => pushFilterToUrl(e, id, tagFilter,  { replace: true }));
+    })
+  }
+
+  /**
+   * Displays the filters for the search functionality.
+   * This function is asynchronous.
+   *
+   * @returns {Promise<void>} A promise that resolves when the filters are displayed.
+   */
+  async function displayFilters() {
+    if(!filters_data) {
+      return;
+    }
+    var filters_data_map = new Map(Object.entries(filters_data));
+    var new_filter = "";
+    // Add new filter types here
+    document.getElementById("mediatype_filter").innerHTML = "";
+    document.getElementById("author_filter").innerHTML = "";
+    document.getElementById("tag_filter").innerHTML = "";
+    filters_data_map.forEach((filter_values, filter_type) => {
+        console.log("filter_type: ", filter_type, filter_values);
+        if(filter_type === "layout") {
+            displayLayoutFilters(filter_values);
+        } else if(filter_type === "tag") {
+            displayMultitagFilters(filter_type, filter_values, MinTagCountToDisplayTag);
+        } else {
+            displayMultitagFilters(filter_type, filter_values);
+        }
+    });
+  }
+
+
+        // Query to url
+        function push_query_to_url() {
+            var search_q = document.getElementById("search_query");
+            if (search_q.value) {
+                searchParams.set("q", search_q.value);
+            } else {
+                searchParams.delete("q");
+            }
+            history.pushState(null, "", "?" + searchParams);
+        }
+
+        function remove_query_from_url() {
+            // empty search bar
+            document.getElementById("search_query").value = "";
+            // delete query from searchParams
+            searchParams.delete("q");
+            // push current state to search
+            history.pushState(null, "", "?" + searchParams);
+        }
+
+        // filters from url
+        function make_json_filters_from_url() {
+            var filters = { filters: {} };
+            const groupParamsByKey = (params) => [...params.entries()].reduce((acc, tuple) => {
+                // getting the key and value from each tuple
+                const [key, val] = tuple;
+                if (acc.hasOwnProperty(key)) {
+                    // if the current key is already an array, we'll add the value to it
+                    if (Array.isArray(acc[key])) {
+                        acc[key] = [...acc[key], val]
+                    } else {
+                        // if it's not an array, but contains a value, we'll convert it into an array
+                        // and add the current value to it
+                        acc[key] = [acc[key], val];
+                    }
+                } else {
+                    // plain assignment if no special case is present
+                    acc[key] = val;
+                }
+                delete acc["q"];
+                return acc;
+            }, {});
+            return { filters: groupParamsByKey(searchParams) };
+        }
+
+        function pushFilterToUrl(e, type, value, opts = {}) {
+          console.log("pushFilterToUrl: ", e, type, value);
+          e.preventDefault();
+          if (value === null) {
+            searchParams.delete(type);
+          } else if (searchParams.has(type, value)) {
+            // it's a duplicate, ignore it
+            return;
+          } else if (searchParams.has(type) && opts.replace) {
+            // remove searchparam key
+            searchParams.set(type, value);
+          } else if (opts.replace) {
+            // remove searchparam key
+            searchParams.set(type, value);
+          } else {
+            searchParams.append(type, value);
+          }
+          history.pushState(null, "", "?" + searchParams);
+          performSearch();
+
+        }
+
+        function removeFiltersFromUrl(e, type, value) {
+          if(e) e.preventDefault();
+          searchParams.delete(type, value);
+          history.pushState(null, "", "?" + searchParams);
+          performSearch();
+
+        }
+        // Filters to url
+        function push_filters_to_url(checkbox) {
+            var current_filter = checkbox.attributes.id.value.slice(0, -7);
+            var filter_type = checkbox.parentElement.parentElement.parentElement.firstChild.textContent;
+            if (searchParams.has(filter_type, current_filter) && checkbox.checked) {
+                return;
+            } else if (checkbox.checked) {
+                searchParams.append(filter_type, current_filter);
+            }
+            else {
+                searchParams.delete(filter_type, current_filter);
+            }
+            history.pushState(null, "", "?" + searchParams);
+            performSearch();
+            updateSummary();
+        }
+
+
+        async function check_boxes_based_on_url() {
+
+        }
+
+        function setFilter(el) {
+          console.log("setFilter: ", el)
+          if(el.hasAttribute('data-type') ) {
+          const type = el.getAttribute('data-type');
+          const value = el.getAttribute('data-value');
+          pushFilterToUrl(new Event('click'), type, value, { add: true });
+          }
+      }
+
+        function check_filter(element) {
+            var ch_box_filter = document.getElementById(element.value+"_filter");
+            ch_box_filter.checked = true;
+            ch_box_filter.onclick();
+        }
+
+        function uncheck_filter(value) {
+            var ch_box_filter = document.getElementById(value+"_filter");
+            ch_box_filter.checked = false;
+        }
+
+        function updateSummary() {
+            var summaryEl = document.getElementById("search_summary");
+            summaryEl.innerHTML = "";
+            summaryEl.innerHTML += "Results: " + searchRes.results.length + " ";
+            searchParams.forEach((value, key) => {
+              let label = value;
+
+              if (key == "author") {
+                const author = people.find(d => {return d.name === value});
+                label = author ? author.name : value;
+              } else {
+                const tag = tags.find(d => {return d.id === value});
+                label = tag ? tag.displayname[currentLang] : value;
+              }
+
+              summaryEl.insertAdjacentHTML(
+                  'beforeend',
+                  `<button class='btn mx-1 btn-outline-white btn-md rounded d-inline-flex ${value}'>
+                  <span>${key}:&nbsp;<b>${label}</b></span>
+                  <span class="icon ms-2 ml-2">✕</span>
+                  </button>`
+              );
+              const buttonEl = summaryEl.lastElementChild.querySelector('.icon');
+              buttonEl.addEventListener('click', (e) => removeFiltersFromUrl(e, key, value));
+            });
+        }
+</script>

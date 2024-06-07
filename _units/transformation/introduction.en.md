@@ -7,7 +7,7 @@ tags:
   - transformation
 authors:
   - stefania-scagliola
-  - jorden ricker
+  - jorden-ricker
 lang: en
 
 ---
