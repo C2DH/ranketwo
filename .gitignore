@@ -19,3 +19,4 @@ vendor/
 .env
 # Local Netlify folder
 .netlify
+build.log

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang }}">
-  {% capture add_to_search_index %}{% if site.layout_to_search_index contains page.layout %}yes{% endif %}{% endcapture %}
+  {% capture add_to_search_index %}{% if page.layout == 'unit' or page.layout =='assignment' %}yes{% endif %}{% endcapture %}
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
