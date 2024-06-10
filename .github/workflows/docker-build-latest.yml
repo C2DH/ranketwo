@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v4
       - 
         name: get env variables for GIT related info
-        run: 
+        run: |
           echo "GIT_COMMIT_SHA=$(echo $GITHUB_SHA | cut -c1-7)" >> $GITHUB_ENV
           echo "BUILD_DATE=$(date -u +'%Y-%m-%dT%H:%M:%SZ')" >> $GITHUB_ENV
           echo "GIT_BRANCH=$(echo $GITHUB_REF | sed 's/refs\/heads\///')" >> $GITHUB_ENV
@@ -41,8 +41,8 @@ jobs:
           tags: c2dhunilu/ranketwo:latest
           build-args: |
             VERSION=latest
-            GIT_COMMIT_SHA=$GIT_COMMIT_SHA
-            BUILD_DATE=$BUILD_DATE
-            GIT_BRANCH=$GIT_BRANCH
-            GIT_REMOTE=$GIT_REMOTE
-            GIT_TAG=$GIT_TAG
+            GIT_COMMIT_SHA=${{ env.GIT_COMMIT_SHA }}
+            BUILD_DATE=${{ env.BUILD_DATE }}
+            GIT_BRANCH=${{ env.GIT_BRANCH }}
+            GIT_REMOTE=${{ env.GIT_REMOTE }}
+            GIT_TAG=${{ env.GIT_TAG }}
