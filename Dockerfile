@@ -52,15 +52,14 @@ RUN echo "{ \
   \"gitBranch\": \"${GIT_BRANCH}\", \
   \"buildDate\": \"${BUILD_DATE}\", \
   \"gitRemote\": \"${GIT_REMOTE}\" \
-}" > /app/_site/version.json
+}" >> /app/_site/version.json
 
-RUN cat  /app/_site/version.json
+RUN cat /app/_site/version.json
 
 RUN ls -la /app/_site
 # 
 # Add the command to modify HTML files
-RUN find /app/_site -type f -name "*.html" -exec sed -i "s|\(Made with ❤ at <a href='https://c2dh.uni.lu/' target='_blank'>C2DH</a> (v. <a href='https://github.com/C2DH/ranketwo' target='_blank'>\)|\1${COMMIT_SHA}|g" {} +
-
+# RUN find /app/_site -type f -name "*.html"  -exec echo "Editing file: {}" \; -exec sed -i "s|\(Made with ❤ at <a href='https://c2dh.uni.lu/' target='_blank'>C2DH</a> (v. <a href='https://github.com/C2DH/ranketwo' target='_blank'>\)|\1${GIT_COMMIT_SHA}|g" {} +
 
 # Stage 2: Bring the result to a Node image
 FROM node:22.2.0-alpine3.20
