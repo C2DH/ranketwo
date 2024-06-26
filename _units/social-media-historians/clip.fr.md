@@ -1,5 +1,5 @@
 ---
-title: "Social media and historians; why bother?"
+title: "Pourquoi s'intéresser aux réseaux sociaux en ligne en historien ou historienne"
 type: clip
 lang: fr
 parent: social-media-historians
