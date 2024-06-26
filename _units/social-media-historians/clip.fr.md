@@ -8,7 +8,7 @@ iframe: social-media-historians-french
 
 {: .headsup}
 
-This animation discusses the relevance and historical value of social media for the historical community.
+Cette animation évoque la pertinence et la valeur historique des réseaux sociaux numériques pour la communauté historique.
 
 
 
