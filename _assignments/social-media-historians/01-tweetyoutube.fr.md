@@ -10,14 +10,14 @@ outcomes:
 order: 1
 ---
 
-Au sein de la communauté historienne, l'idée est largement répandue que, pour considérer un événement suffisamment «&#x202F;mûr&#x202F;» pour une enquête historique, le recul du temps et l'accès aux documents classifiés sont des conditions préalables. Cette notion de «&#x202F;période d’attente&#x202F;» nécessaire a longtemps déterminé l’historicité d’un événement ou d’un sujet donné. L’avènement du web et des réseaux sociaux numériques, qui offrent un accès direct à une multitude de données, y compris dans le domaine de la vie privée, semble avoir remis en question l’idée de ce qui peut être considéré comme historique. Dans cet exercice, vous allez examiner de différentes opinions sur le rôle des réseaux sociaux numériques dans l’histoire et sur la question de savoir s’ils peuvent être considérés comme des sources historiques.
+Au sein de la communauté historienne, l'idée est largement répandue que, pour considérer un événement suffisamment «&#x202F;mûr&#x202F;» pour une enquête historique, le recul du temps et l'accès aux documents classifiés sont des conditions préalables. Cette notion de «&#x202F;période d’attente&#x202F;» nécessaire a longtemps déterminé l’historicité d’un événement ou d’un sujet donné. L’avènement du web et des réseaux sociaux numériques, qui offrent un accès direct à une multitude de données, y compris dans le domaine de la vie privée, semble avoir remis en question l’idée de ce qui peut être considéré comme historique. Dans cet exercice, vous allez examiner une variété d'opinions sur le rôle des réseaux sociaux numériques dans l’histoire et sur la question de savoir s’ils peuvent être considérés comme des sources historiques.
 
 {:.mosaic}
 [![social media](https://media.giphy.com/media/rB8CbdO6xSJofmOAKL/giphy.webp "Linaria Comunicación via Giphy")](https://giphy.com/gifs/comunicacion-linaria-linariacomunicacion-rB8CbdO6xSJofmOAKL){:target="_blank"}
 [![interactivity](https://media.giphy.com/media/gIMdqhwG5Xa45Mb2Ex/giphy.webp "INTO ACTION via Giphy")](https://giphy.com/gifs/IntoAction-covid-fake-news-misinformation-gIMdqhwG5Xa45Mb2Ex){:target="_blank"}
 [![interactivity](https://media.giphy.com/media/jQmn1Dkw55R3cjm3eC/giphy.webp "Flamingo Services via Giphy")](https://giphy.com/gifs/instagram-hearts-likes-jQmn1Dkw55R3cjm3eC){:target="_blank"}
 
-Image credits:
+Crédits images&#x202F;:
 [Linaria Comunicación via Giphy](https://media.giphy.com/media/rB8CbdO6xSJofmOAKL/giphy.gif),
 [INTO ACTION via Giphy](https://media.giphy.com/media/gIMdqhwG5Xa45Mb2Ex/giphy.gif),
 [Flamingo Services via Giphy](https://media.giphy.com/media/jQmn1Dkw55R3cjm3eC/giphy.gif)
@@ -26,33 +26,33 @@ Image credits:
 
 <!-- briefing-student -->
 
-### 1.a What can be considered "historically relevant" social media expressions?  | 20 Min
+### 1.a Quand une publication sur les réseaux sociaux en ligne peut-elle avoir une valeur historique? `|` 20 min
 <!-- section-contents -->
 
-Do you consider any of these messages, posts, photos, or web pages "historical"? Argue why or why not you would consider this content "historical" and support your answers through web research on the background and/or authors of the content. Write down your answers in the answer form.
+Merci de parcourir les messages, publications, photos ou pages web ci-dessous&#x202F;: en trouvez-vous qui puissent être considérés comme historiques, c’est-à-dire liés à un phénomène historique&#x202F;? Expliquez pourquoi vous considéreriez ou non ce contenu comme historique et étayez vos réponses par des recherches sur le web sur le contexte et/ou les auteurs du contenu.
 
 
-[A Tweet](https://www.bbc.com/news/technology-13257940)
+[Un tweet](https://www.bbc.com/news/technology-13257940)
 
 ![tweetbinladen](/assets/images/social-media/tweetbinladen.png)
 
 {:.mt-5}
-[A Gif](https://media.giphy.com/media/LMeVjYYdUkOoE/giphy.gif)
+[Un gif](https://media.giphy.com/media/LMeVjYYdUkOoE/giphy.gif)
 
 ![firstfilm](../../../assets/images/social-media/firstfilm.gif)
 
 {:.mt-5}
-[A Facebook group](https://www.facebook.com/groups/1500687070143366)
+[Un groupe Facebook](https://www.facebook.com/groups/1500687070143366)
 
 ![facebook](../../../assets/images/social-media/facebook.png)
 
 {:.mt-5}
-[An Instagram account](https://www.instagram.com/lgbt_history/)
+[Un compte Instagram](https://www.instagram.com/lgbt_history/)
 
 ![pink](../../../assets/images/social-media/pink.png)
 
 {:.mt-5}
-[A Wikipedia page](https://en.wikipedia.org/wiki/List_of_female_explorers_and_travelers)
+[Une page Wikipédia](https://en.wikipedia.org/wiki/List_of_female_explorers_and_travelers)
 
 ![wiki](../../../assets/images/social-media/wiki.png)
 
