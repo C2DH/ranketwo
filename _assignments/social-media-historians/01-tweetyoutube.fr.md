@@ -2,19 +2,15 @@
 layout: assignment
 unit: social-media-historians
 lang: fr
-title: 'When does a Tweet or YouTube clip become "historical"?'
+title: "Comment les tweets ou les vidéos YouTube peuvent devenir matériaux pour l'histoire?
 cover:
 documents:
 tags:
-- social media
-- bias
-- copyright
-- privacy
 outcomes:
 order: 1
 ---
 
-Amongst historians, it is argued that in order to consider an event "mature" enough for historical inquiry, there should be distance in time and access to classified documents. This idea of a necessary "waiting period" has long  determined the "historicity" of a given event or topic. The advent of the web and social media—with direct access to an abundance of data, especially in the realm of private life—seems to have challenged the idea of what can be considered as "historical". In this assignment, you are going to be confronted with different opinions on the role of social media in history and whether they can be considered "historical sources".
+Au sein de la communauté historienne, l'idée est largement répandue que, pour considérer un événement suffisamment «&#x202F;mûr&#x202F;» pour une enquête historique, le recul du temps et l'accès aux documents classifiés sont des conditions préalables. Cette notion de «&#x202F;période d’attente&#x202F;» nécessaire a longtemps déterminé l’historicité d’un événement ou d’un sujet donné. L’avènement du web et des réseaux sociaux numériques, qui offrent un accès direct à une multitude de données, y compris dans le domaine de la vie privée, semble avoir remis en question l’idée de ce qui peut être considéré comme historique. Dans cet exercice, vous allez examiner de différentes opinions sur le rôle des réseaux sociaux numériques dans l’histoire et sur la question de savoir s’ils peuvent être considérés comme des sources historiques.
 
 {:.mosaic}
 [![social media](https://media.giphy.com/media/rB8CbdO6xSJofmOAKL/giphy.webp "Linaria Comunicación via Giphy")](https://giphy.com/gifs/comunicacion-linaria-linariacomunicacion-rB8CbdO6xSJofmOAKL){:target="_blank"}
