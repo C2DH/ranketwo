@@ -52,7 +52,7 @@ Merci de parcourir les messages, publications, photos ou pages web ci-dessous&#x
 ![pink](../../../assets/images/social-media/pink.png)
 
 {:.mt-5}
-[Une page Wikipédia](https://en.wikipedia.org/wiki/List_of_female_explorers_and_travelers)
+[Une page Wikipédia](https://fr.wikipedia.org/wiki/Liste_d%27aventuri%C3%A8res_et_exploratrices)
 
 ![wiki](../../../assets/images/social-media/wiki.png)
 
@@ -60,48 +60,43 @@ Merci de parcourir les messages, publications, photos ou pages web ci-dessous&#x
 
 <!-- section -->
 
-### 1.b Arguments put forward by historians | 30 Min
+### 1.b Arguments avancés par les historiens `|` 30 min
 <!-- section-contents -->
-After having argued why or why not something should be considered "historical", let's examine what professional historians have to say on the subject.
+Après avoir expliqué pourquoi quelque chose devrait ou ne devrait pas être considéré comme historique, examinons ce que les historiens professionnels ont à dire sur le sujet.
 
 **Option 1**
 
-Read the following two blogs by professional historians and jot down what arguments are presented by the authors about *what can be considered to be part of the "past"*:
+Lisez les deux articles suivants rédigés par des historiens et historiennes qui se concentrent tous deux sur l’importance des sources primaires. Notez ensuite les arguments présentés par les auteurs sur ce qui peut être considéré comme faisant partie du «&#x202F;passé&#x202F;»&#x202F;:
+1.	Suzannah Lipscomb, [«&#x202F;How recent is History&#x202F;?&#x202F;»](https://www.historytoday.com/how-recent-history), *Historytoday*, 29 janvier 2015 (770 mots).
+Citation : «&#x202F;Historians of the page might want to learn from those of the screen&#x202F;». («&#x202F;Les historiens de la page pourraient vouloir apprendre des historiens de l’écran&#x202F;».)
 
-1. [Suzannah Lipscomb in the British history journal *Historytoday* in her blog post "How recent is History?"](https://www.historytoday.com/how-recent-history) (770 words).
-Selected quote: "Historians from the page might want to learn from those of the screen".
-
-2. [Historian Ian Milligan in the British/Australian platform for journalism The Conversation](https://theconversation.com/historians-archival-research-looks-quite-different-in-the-digital-age-121096) (1,100 words).
-Selected quote: "Today, hundreds of billions of websites preserved at the Internet Archive alone is more archival information than scholars have ever had access to".
+2.	Ian Milligan, [«&#x202F;Historians’ archival research looks quite different in the digital age&#x202F;»](https://theconversation.com/historians-archival-research-looks-quite-different-in-the-digital-age-121096), *The Conversation*, 19 août 2019 (1 100 mots).
+Citation : «&#x202F;Today, hundreds of billions of websites preserved at the Internet Archive alone is more archival information than scholars have ever had access to&#x202F;» («&#x202F;Aujourd’hui, les centaines de milliards de sites web conservés par Internet Archive représentent plus d’informations d’archives que celles auxquelles les chercheurs ont jamais eu accès&#x202F;».)
 
 **Option 2**
 
-Watch the two clips and read the two blogs below and then list some *positive and problematic aspects of historians engaging with social media.*
+Regardez les deux vidéos et lisez les deux articles ci-dessous. Énumérez ensuite les aspects qui peuvent être perçus comme positifs, mais aussi comme potentiellement problématiques, dans l’interaction des historiens avec les médias sociaux.
 
-Clips:
+Vidéos&#x202F;:
 
-1. [Journalist/writer John Birmingham on the website of the Born Digital program of the National and State Libraries of Australia](https://youtu.be/p9BmO-HLcVk) (9 min).
-Selected quote: "All of that stuff, of which we don’t really think about, because it’s like the air around us, that’s HISTORY!"
+1.	[Le journaliste/écrivain John Birmingham sur le site web du programme *Born Digital* des bibliothèques nationales et d’État d’Australie](https://youtu.be/p9BmO-HLcVk) (9 minutes). Citation à méditer&#x202F;: «&#x202F;All of that stuff, of which we don’t really think about, because it’s like the air around us, that’s HISTORY&#x202F;!&#x202F;» («&#x202F;Tous ces trucs auxquels on ne pense pas vraiment, parce que c’est comme l’air qui nous entoure, ça s’appelle l’HISTOIRE&#x202F;!&#x202F;»)
 
-2. [Historian Rebecca Huntley on the website of the Born Digital program of the National and State Libraries of Australia](https://www.youtube.com/watch?v=hR9VQPfNHaE&feature=youtu.be) (3.30 min).
-Selected quote: "Reflecting now on my life, and the documents in my life, a lot is not written down".
+2.	[L’historienne Rebecca Huntley sur le site web du programme *Born Digital* des bibliothèques nationales et d’État d’Australie](https://www.youtube.com/watch?v=hR9VQPfNHaE&feature=youtu.be) (3 minutes et 30 secondes). Citation à méditer&#x202F;: «&#x202F;Reflecting now on my life, and the documents in my life, a lot is not written down&#x202F;» («&#x202F;En réfléchissant maintenant à ma vie et aux documents qui la composent, beaucoup de choses ne sont pas écrites&#x202F;»).
 
-Blogs:
+Articles et billets de blog&#x202F;:
 
-1. [Historian Cathrine Fletcher in the British journal *History Today*](https://www.historytoday.com/archive/head-head/social-media-good-history) (1,480 words).
-Selected quote: "In a Twitter thread last June, curator Sara Huws wrote of her concern that the histories she tweeted from a Welsh museum account got more attention if she implied they’d been suppressed".
+1.	[L'article de l'historienne Catherine Fletcher [«&#x202F;Is Social Media Good for History&#x202F;?&#x202F;»](https://www.historytoday.com/archive/head-head/social-media-good-history), *History Today* 70, 2, 2 février 2020 (1 480 mots). Citation à méditer&#x202F;: «&#x202F;In a Twitter thread last June, curator Sara Huws wrote of her concern that the histories she tweeted from a Welsh museum account got more attention if she implied they’d been suppressed&#x202F;» («&#x202F;Dans un fil de discussion Twitter de juin dernier, la conservatrice Sara Huws a fait part de sa préoccupation selon laquelle les histoires qu’elle a tweetées depuis le compte d’un musée gallois attireraient davantage d’attention si elle laissait entendre qu’elles avaient été supprimées&#x202F;»).
 
-2. [Digital historians Caroline Mueller and Frederic Clavert reflect on the prejudices of historians against social media](https://www.historytoday.com/archive/head-head/social-media-good-history) (4,237 words).
-Selected quote: ‘"The social networking service Twitter suffers from a bad reputation in the academic world and, more broadly, among those who do not use it".
+2.	Caroline Muller et Frédéric Clavert, [«&#x202F;La conversation scientifique sur Twitter&#x202F;»](https://consciences.hypotheses.org/2677), *Acquis de conscience*, 25 mars 2021 (4 237 mots). Dans ce billet de blog, les deux auteurs réfléchissent aux préjugés des historiens à l’égard des réseaux sociaux numériques. Citation à méditer&#x202F;: «&#x202F;Le réseau social numérique Twitter souffre d’une mauvaise réputation au sein du monde académique et, plus généralement, auprès de ceux et celles qui ne l’utilisent pas&#x202F;».
 
-Combining your own thoughts with those you have now seen from professional historians, write a short essay of about 500 words with your opinion on when an event, experience, or artifact becomes "historical" and what this means for the relationship between historians and social media. Use the space in your answer form.
-(Hint: Think of the introduction of previous popular media such as radio, the telephone, film, or television and what kind of sources they yielded)
+En combinant vos propres réflexions avec celles que vous venez de voir d’historiens professionnels, rédigez un court essai d’environ 500 mots pour présenter votre opinion sur le moment où un événement, une expérience ou un artéfact devient historique et ce que cela signifie pour la relation entre les historiens et les médias sociaux. Vous voudrez peut-être réfléchir à l’introduction d’anciens médias populaires tels que la radio, le téléphone, le cinéma ou la télévision et au type de sources qu’ils ont générées.
+
 
 <!-- section -->
 
-### Reading/viewing suggestions
+### Suggestions de lectures/vidéos
 <!-- section-contents -->
-["How does the past become history?" History on screen, University of Tartu](https://ajalugu.haridusekraanil.ee/en/theoretical/time-together/how-does-the-past-form-the-history). Last accessed 28 April 2021.
+[«&#x202F;How does the past become history&#x202F;?&#x202F;» *History on screen*, University of Tartu](https://ajalugu.haridusekraanil.ee/en/theoretical/time-together/how-does-the-past-form-the-history), article consulté au 9 juillet 2024.
 
 
 
