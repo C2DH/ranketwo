@@ -43,11 +43,10 @@ Le tableau ci-dessous liste les points clés de cette présentation orale. Votre
 <!-- section-contents -->
 Lisez cette histoire concise sur les origines des médias sociaux, proposée [dans le cadre d’un cours en ligne destiné aux étudiants en Bachelor de marketing à l’Université de Maryville](https://online.maryville.edu/blog/evolution-social-media/) à St. Louis, dans le Missouri, États-Unis, et répondez aux questions suivantes&#x202F;: 
 
-[card](evolution-social-media)
-
-
 - Quelle a été la première forme de médias sociaux, selon la définition des médias sociaux évoquée dans cet article&#x202F;?
 - Selon l’auteur, quels ont été les deux changements majeurs en ce qui concerne les utilisateurs/publics qui interagissent avec les médias sociaux et les appareils par lesquels ils communiquent&#x202F;?
+
+[card](evolution-social-media)
 
 
 À présent, lisez une version différente de l’histoire des médias sociaux, [publiée cette fois sur la plateforme History Cooperative par Matthew Jones le 16 juin 2015](https://historycooperative.org/the-history-of-social-media/) et répondez à la question suivante&#x202F;:
