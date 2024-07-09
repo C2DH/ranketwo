@@ -2,43 +2,40 @@
 layout: assignment
 unit: social-media-historians
 lang: fr
-title: "How about your own habits with social media?"
+title: "Qu’en est-il de vos propres habitudes en matière de médias sociaux ?"
 cover:
 documents:
   - social-media-log-comparison
 tags:
-- social media
-- personal habits
-- privacy
+- web-social-media
 outcomes:
 order: 4
 ---
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="dqSRAaT"  ><a href="//imgur.com/dqSRAaT" class="toto">Smartphone Social Media</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![scrolling](https://raw.githubusercontent.com/C2DH/ranketwo/master/assets/images/social-media/Scrolling.gif)
+
+Image source: [Imgur](https://imgur.com/dqSRAaT)
 
 <!-- more -->
 <!-- briefing-student -->
 
-### 4.a Document and compare your own use of social media
+### 4.a Documenter et comparer sa propre utilisation des réseaux sociaux en ligne
 <!-- section-contents -->
-One of the best ways to understand the impact and function of social media on our lives is to closely monitor your own use of it. For this assignment, you are expected to keep a log of your social media use for three consecutive days and then compare your own habits with those of three anonymous history students as well as with statistical data for your country of residence.
+L’une des meilleures façons de comprendre l’impact et la fonction des réseaux sociaux en ligne sur nos vies est de surveiller l’utilisation que vous en faites vous-même. Pour cet exercice, vous devez tenir un journal de votre utilisation des réseaux sociaux en ligne pendant trois jours consécutifs, puis comparer vos propres habitudes avec celles de trois étudiants et étudiantes en histoire anonymes ainsi qu’avec les données statistiques de votre pays de résidence. Cela peut vous donner un aperçu de la façon dont les utilisateurs des médias sociaux créent leur empreinte numérique et laissent des traces qui pourraient un jour être utilisées comme sources par les historiens.
 
-1. Keep a log of your own social media use with the help of the schedule below. (You can also find a copy and complete this in your answer form)
+1 - Tenez un journal de votre propre utilisation des réseaux sociaux en ligne de votre choix à l’aide du tableau ci-dessous.
 
-| | Which social media platform I used | Why I used it | What I felt about it | How long I used it for |
-| Day&nbsp;1 | | | | |
-| Day&nbsp;2 | | | | |
-| Day&nbsp;3 | | | | |
+| | Quelle plateforme de RSL j'ai utilisée | Pourquoi je l'ai utilisée | Ce que cela m'a inspiré | Combien de temps je l'ai utilisée |
+| Jour&nbsp;1 | | | | |
+| Jour&nbsp;2 | | | | |
+| Jour&nbsp;3 | | | | |
 
-2. After keeping your own log, open the link below to see the log of three  anonymous history students and note what strikes you as similar and different in their habits from your own.
+2 - Après consignation de votre propre journal, ouvrez le lien ci-dessous pour consulter le journal de trois étudiants en histoire anonymes et notez ce qui vous semble similaire et différent des vôtres dans leurs habitudes.
 [cit](social-media-log-comparison)
 
-3. Lastly, compare your use of social media with that of your country of residence. Use this 2021 global report on the use of social media to look up your respective country. (Simon Kemp, we are social/Hootsuite, slides 78-101)
+3 - Lastly, compare your use of social media with that of your country of residence. Use this 2021 global report on the use of social media to look up your respective country. (Simon Kemp, we are social/Hootsuite, slides 78-101)
 What can you say when comparing your social media habits with those of the students above and the global report? Write down some of your thoughts and findings in a short essay (max. 250 words).
 
-{:.w-100}
-{:style="height:100px"}
-| |
-
+Enfin, comparez votre utilisation des réseaux sociaux en ligne avec celle de votre pays de résidence. Utilisez [les diapositives 78 à 101 de ce rapport mondial daté de 2021](https://wearesocial.com/digital-2021) sur l’utilisation des réseaux sociaux en ligne pour rechercher votre pays. Si vous trouvez des rapports plus récents, vous souhaiterez peut-être les utiliser à la place. Que pouvez-vous dire en comparant vos habitudes sur les réseaux sociaux en ligne avec celles des étudiants ci-dessus et avec ce rapport mondial&#x202F;? Écrivez certaines de vos réflexions et conclusions dans un court essai (maximum 250 mots).
 
 <!-- briefing-teacher -->
