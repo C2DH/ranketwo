@@ -96,7 +96,7 @@ En combinant vos propres réflexions avec celles que vous venez de voir d’hist
 
 ### Suggestions de lectures/vidéos
 <!-- section-contents -->
-[«&#x202F;How does the past become history&#x202F;?&#x202F;» *History on screen*, University of Tartu](https://ajalugu.haridusekraanil.ee/en/theoretical/time-together/how-does-the-past-form-the-history), article consulté au 9 juillet 2024.
+[«&#x202F;How does the past become history&#x202F;?&#x202F;» *History on screen*, University of Tartu](https://ajalugu.haridusekraanil.ee/en/theoretical/time-together/how-does-the-past-form-the-history), article consulté le 9 juillet 2024.
 
 
 
