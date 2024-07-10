@@ -61,6 +61,7 @@ Intéressons-nous rapidement à Twitter, que vous pourrez explorer plus en déta
 Veuillez lire les deux articles de blog suivants et noter les arguments «&#x202F;pour&#x202F;» et «&#x202F;contre&#x202F;» la conservation des tweets&#x202F;:
 - [«&#x202F;How Tweet It Is&#x202F;!&#x202F;: Library Acquires Entire Twitter Archive&#x202F;»](https://blogs.loc.gov/loc/2010/04/how-tweet-it-is-library-acquires-entire-twitter-archive) par Matt Raymond, blog de la Bibliothèque du Congrès, 14 avril 2010.
 - [«&#x202F;Update on the Twitter Archive at the Library of Congress&#x202F;»](https://blogs.loc.gov/loc/2017/12/update-on-the-twitter-archive-at-the-library-of-congress-2) par Gayle Osterberg, blog de la Bibliothèque du Congrès, 26 décembre 2017.
+
 Le premier de ces articles a été publié lorsque la Bibliothèque du Congrès a annoncé le 14 avril 2010 sur son site web qu’elle allait conserver tous les tweets créés via Twitter (conseil&#x202F;: nous vous recommandons de ne pas manquer les 30 premiers commentaires sous la publication elle-même). Le second a été publié sept ans plus tard et rend compte de l’évolution du projet.
 
 
@@ -69,20 +70,17 @@ Le premier de ces articles a été publié lorsque la Bibliothèque du Congrès 
 ### 5.c Qui est toujours couvert par la Bibliothèque du Congrès ?
  <!-- section-contents -->
 
-- Read this article by Andrew McGill on how the LOC underestimated the problems that it would encounter by archiving the entire Twitter archive: , «Can Twitter Fit Inside the Library of Congress? », The Atlantic, 04.08.2016. <http://www.theatlantic.com/technology/archive/2016/08/can-twitter-fit-inside-the-library-of-congress/494339/>,
+- Lisez cet article d’Andrew McGill sur la façon dont la Bibliothèque du Congrès a pu sous-estimer les problèmes qu’elle rencontrerait dans son projet d’archivage de chaque tweet publié&#x202F;: [«&#x202F;Can Twitter Fit Inside the Library of Congress&#x202F;?&#x202F;»](http://www.theatlantic.com/technology/archive/2016/08/can-twitter-fit-inside-the-library-of-congress/494339/) par Andrew McGill, *The Atlantic*, 4 août 2016.
 
-Have a closer look at this Twitter account: <https://twitter.com/POTUS45>
+Ensuite, intéressez-vous de plus près au compte Twitter du président des États-Unis&#x202F;: [@POTUS45](https://twitter.com/POTUS45).
 
 ![trump](../../../assets/images/social-media/trump.png){:style="max-height:500px"}
 
-Image credit: Screenshot of "President Trump 45 Archived (@POTUS45)" Twitter page taken on a desktop computer on 14 April 2021 - https://twitter.com/POTUS45
+Capture d’écran de la page Twitter du compte présidentiel archivé «&#x202F;President Trump 45 Archived (@POTUS45)&#x202F;» prise depuis un ordinateur de bureau le 14 avril 2021 [https://twitter.com/POTUS45](https://twitter.com/POTUS45). 
 
-- Has the Library of Congress indeed applied the criteria that they describe in their change of policy in December 2017?
-- Does this mean that these archived Tweets are accessible for research? Elaborate your answer with arguments.
-
-{:.w-100}
-{:style="height:100px"}
-| |
+Répondez maintenant aux questions suivantes en rédigeant un court essai d’environ 250 mots.
+1.  La Bibliothèque du Congrès a-t-elle effectivement appliqué les critères qu’elle décrit dans son changement de politique en décembre 2017&#x202F;?
+2.  Cela signifie-t-il que ces tweets archivés sont accessibles à des fins de recherche&#x202F;? Argumentez votre réponse.
 
 <!-- section -->
 
