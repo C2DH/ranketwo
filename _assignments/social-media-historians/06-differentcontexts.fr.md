@@ -2,24 +2,22 @@
 layout: assignment
 unit: social-media-historians
 lang: fr
-title: "Social Media in different contexts"
+title: "Les réseaux sociaux numériques dans différents contextes"
 cover:
 documents:
 tags:
-- social media
-- fake news
-- public history
+- web-social-media
 outcomes:
 order: 6
 ---
 
-In this assignment, a series of examples is presented in which a social medium has been used to:
-1.  Illustrate the changes in the practice of historians,
-2.  Teach history in a new way,
-3.  Spread fake history,
-4.  Document a historical event
+Cet ensemble d'exercices présente une série d’exemples où les réseaux sociaux numériques ont été utilisés de diverses manières, notamment&#x202F;:
+1.  Pour illustrer les changements dans la pratique des historiens et historiennes
+2.  Pour enseigner l’histoire d’une manière nouvelle
+3.  Pour répandre une fausse histoire
+4.  Pour documenter un événement historique
 
-For each example below, write a short text (150 words max.) about how it applies to one or more of the four cases above as well as what arguments are put forward by the corresponding article.
+Pour chaque exemple ci-dessous, notez les arguments avancés par l’article correspondant, puis rédigez un court texte (max. 150 mots) expliquant comment l’exemple s’applique à un ou plusieurs des quatre cas décrits ci-dessus.
 
 <!-- more -->
 <!-- briefing-student -->
