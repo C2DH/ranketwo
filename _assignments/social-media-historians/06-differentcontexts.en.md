@@ -31,7 +31,7 @@ For each example below, note what arguments are put forward by the corresponding
 
 Image credit: [Kambree (@KamVTV) on Twitter](https://twitter.com/KamVTV/status/970134790098714625)
 
-Article: "How social media spread a historical lie" by Jennifer Mendelsohn and Peter A. Shulman, 15 March 2018, _The Washington Post_. Available at: <https://www.washingtonpost.com/news/made-by-history/wp/2018/03/15/how-social-media-spread-a-historical-lie>. Last accessed 27 August 2021.
+Article: "How social media spread a historical lie" by Jennifer Mendelsohn and Peter A. Shulman, 15 March 2018, _The Washington Post_. Available at: [https://web.archive.org/web/20180315150517/https://www.washingtonpost.com/news/made-by-history/wp/2018/03/15/how-social-media-spread-a-historical-lie/](https://web.archive.org/web/20180315150517/https://www.washingtonpost.com/news/made-by-history/wp/2018/03/15/how-social-media-spread-a-historical-lie/). Last accessed 27 August 2021.
 
 Please summarize the main arguments put forward in the article (no more than three). 
 
