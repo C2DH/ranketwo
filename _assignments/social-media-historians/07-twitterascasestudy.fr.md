@@ -2,24 +2,22 @@
 layout: assignment
 unit: social-media-historians
 lang: fr
-title: "Twitter as a case study (assignment curated by Frédéric Clavert)"
+title: "Twitter en tant qu’étude de cas (par Frédéric Clavert)"
 cover:
 documents:
 tags:
-- social media
-- personal habits
-- privacy
+- web-social-media
 outcomes:
 order: 7
 ---
 
-In this assignment, the various features/dimensions of the social medium Twitter are discussed: its history, how it is used, how it is analyzed and how it is preserved/archived.  (For instructions on how to work with social media data we refer to the module LARGE, as more time, effort and guidance is required)
-Answer the questions below in your answer form.
+Dans cet exercice, les différentes caractéristiques/dimensions du média social Twitter sont abordées&#x202F;: son histoire, comment il est utilisé, comment il est analysé et comment il est conservé et archivé.
+
 
 <!-- more -->
 <!-- briefing-student -->
 
-### 7.a Twitter’s history and specific characteristics
+### 7.a Comment Twitter a été créé
 <!-- section-contents -->
 
 ***How it was created***
