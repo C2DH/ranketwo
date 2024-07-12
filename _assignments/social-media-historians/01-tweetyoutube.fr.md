@@ -75,7 +75,7 @@ Citation : «&#x202F;Today, hundreds of billions of websites preserved at the In
 
 **Option 2**
 
-Regardez les deux vidéos et lisez les deux articles ci-dessous. Énumérez ensuite les aspects qui peuvent être perçus comme positifs, mais aussi comme potentiellement problématiques, dans l’interaction des historiens avec les médias sociaux.
+Regardez les deux vidéos et lisez les deux articles ci-dessous. Énumérez ensuite les aspects qui peuvent être perçus comme positifs, mais aussi comme potentiellement problématiques, dans l’interaction des historiens avec les réseaux sociaux numériques.
 
 Vidéos&#x202F;:
 
@@ -89,7 +89,7 @@ Articles et billets de blog&#x202F;:
 
 2.	Caroline Muller et Frédéric Clavert, [«&#x202F;La conversation scientifique sur Twitter&#x202F;»](https://consciences.hypotheses.org/2677), *Acquis de conscience*, 25 mars 2021 (4 237 mots). Dans ce billet de blog, les deux auteurs réfléchissent aux préjugés des historiens à l’égard des réseaux sociaux numériques. Citation à méditer&#x202F;: «&#x202F;Le réseau social numérique Twitter souffre d’une mauvaise réputation au sein du monde académique et, plus généralement, auprès de ceux et celles qui ne l’utilisent pas&#x202F;».
 
-En combinant vos propres réflexions avec celles que vous venez de voir d’historiens professionnels, rédigez un court essai d’environ 500 mots pour présenter votre opinion sur le moment où un événement, une expérience ou un artéfact devient historique et ce que cela signifie pour la relation entre les historiens et les médias sociaux. Vous voudrez peut-être réfléchir à l’introduction d’anciens médias populaires tels que la radio, le téléphone, le cinéma ou la télévision et au type de sources qu’ils ont générées.
+En combinant vos propres réflexions avec celles que vous venez de voir d’historiens professionnels, rédigez un court essai d’environ 500 mots pour présenter votre opinion sur le moment où un événement, une expérience ou un artéfact devient historique et ce que cela signifie pour la relation entre les historiens et les réseaux sociaux numériques. Vous voudrez peut-être réfléchir à l’introduction d’anciens médias populaires tels que la radio, le téléphone, le cinéma ou la télévision et au type de sources qu’ils ont générées.
 
 
 <!-- section -->
