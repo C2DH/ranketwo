@@ -11,7 +11,7 @@ outcomes:
 order: 3
 ---
 ![typology](../../../assets/images/social-media/typology.png)
-«&#x202F;Carte mondiale 2021 des médias sociaux&#x202F;». Image créée par Vincenzo Cosenza et utilisée ici sans adaptation de l’original sur le blog de Vinco sous licence Creative Commons License CC-BY-NC.
+«&#x202F;Carte mondiale 2021 des réseaux sociaux numériques&#x202F;». Image créée par Vincenzo Cosenza et utilisée ici sans adaptation de l’original sur le blog de Vinco sous licence Creative Commons License CC-BY-NC.
 
 Dans cet exercice, vous devrez effectuer des recherches sur le web pour établir les profils de différentes plateformes de réseaux sociaux numériques. Il existe de nombreuses approches pour spécifier leurs caractéristiques. On peut, par exemple, prendre en compte la technologie et le type de communication qu’elle permet ou l’expérience utilisateur, ou se concentrer sur la politique et la stratégie de l’entreprise qui gère le réseau social, c’est-à-dire le modèle commercial. Ces diverses approches permettent de mieux comprendre la nature de ces différents réseaux sociaux numériques. En classant leur typologie, les historiens et historiennes peuvent analyser plus précisément leur contenu en tant que sources numériques.
 
@@ -19,7 +19,7 @@ Dans cet exercice, vous devrez effectuer des recherches sur le web pour établir
 <!-- more -->
 <!-- briefing-student -->
 
-### 3.a Les réseaux sociaux numériques à travers le monde |20 min
+### 3.a Les réseaux sociaux numériques à travers le monde | 20 min
 
 <!-- section-contents -->
 
@@ -73,11 +73,11 @@ Vous allez maintenant vous concentrer sur les entreprises que l’on trouve derr
 
 <!-- section -->
 
-### 3.c Modèle commercial des réseaux sociaux en ligne
+### 3.c Modèle commercial des réseaux sociaux numériques
 <!-- section-contents -->
 
-Après avoir comparé les différentes entreprises derrière certaines des plateformes de réseaux sociaux en ligne les plus connues au monde, lisez cet article infographique [«&#x202F;How Social Sites Make Money&#x202F;»](https://www.getcenturylink.com/how-social-sites-make-money) de CenturyLink ainsi que cet article de 2018 par Will Oremus dans Slate [«&#x202F;Are You Really the Product?&#x202F;»](https://slate.com/technology/2018/04/are-you-really-facebooks-product-the-history-of-a-dangerous-idea.html). Après avoir lu les deux articles, répondez aux questions suivantes en rédigeant un court essai d’environ 500 mots&#x202F;:
-- Quel est le lien entre les données personnelles et la génération de revenus pour les plateformes de réseaux sociaux en ligne&#x202F;?
+Après avoir comparé les différentes entreprises derrière certaines des plateformes de réseaux sociaux numériques les plus connues au monde, lisez cet article infographique [«&#x202F;How Social Sites Make Money&#x202F;»](https://www.getcenturylink.com/how-social-sites-make-money) de CenturyLink ainsi que cet article de 2018 par Will Oremus dans Slate [«&#x202F;Are You Really the Product?&#x202F;»](https://slate.com/technology/2018/04/are-you-really-facebooks-product-the-history-of-a-dangerous-idea.html). Après avoir lu les deux articles, répondez aux questions suivantes en rédigeant un court essai d’environ 500 mots&#x202F;:
+- Quel est le lien entre les données personnelles et la génération de revenus pour les plateformes de réseaux sociaux numériques&#x202F;?
 - Que pensez-vous de l’éthique derrière ce lien&#x202F;?
 
 
