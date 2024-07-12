@@ -33,7 +33,7 @@ Article&#x202F;: «&#x202F;How social media spread a historical lie&#x202F;» pa
 
 Veuillez résumer les principaux arguments avancés dans l’article (pas plus de trois).
 
-Essayez ensuite d’expliquer comment cet exemple s’applique à une ou plusieurs façons d’utiliser les médias sociaux, comme indiqué dans l’introduction. Vous pouvez le faire en rédigeant un court texte (max. 150 mots), en vous enregistrant ou en échangeant avec vos camarades/collègues.
+Essayez ensuite d’expliquer comment cet exemple s’applique à une ou plusieurs façons d’utiliser les réseaux sociaux numériques, comme indiqué dans l’introduction. Vous pouvez le faire en rédigeant un court texte (max. 150 mots), en vous enregistrant ou en échangeant avec vos camarades/collègues.
 
 
 <!-- section -->
@@ -49,7 +49,7 @@ Article&#x202F;: «&#x202F;Historical Understanding in the Quantum Age&#x202F;»
 
 Veuillez résumer les principaux arguments avancés dans l’article (pas plus de trois).
 
-Essayez ensuite d’expliquer comment cet exemple s’applique à une ou plusieurs façons d’utiliser les médias sociaux, comme indiqué dans l’introduction. Vous pouvez le faire en rédigeant un court texte (max. 150 mots), en vous enregistrant ou en échangeant avec vos camarades/collègues.
+Essayez ensuite d’expliquer comment cet exemple s’applique à une ou plusieurs façons d’utiliser les réseaux sociaux numériques, comme indiqué dans l’introduction. Vous pouvez le faire en rédigeant un court texte (max. 150 mots), en vous enregistrant ou en échangeant avec vos camarades/collègues.
 
 
 <!-- section -->
@@ -66,7 +66,7 @@ Article : «&#x202F;Born Digital&#x202F;: How Social Media and Paperless Offices
 
 Veuillez résumer les principaux arguments avancés dans l’article (pas plus de trois).
 
-Essayez ensuite d’expliquer comment cet exemple s’applique à une ou plusieurs façons d’utiliser les médias sociaux, comme indiqué dans l’introduction. Vous pouvez le faire en rédigeant un court texte (max. 150 mots), en vous enregistrant ou en échangeant avec vos camarades/collègues.
+Essayez ensuite d’expliquer comment cet exemple s’applique à une ou plusieurs façons d’utiliser les réseaux sociaux numériques, comme indiqué dans l’introduction. Vous pouvez le faire en rédigeant un court texte (max. 150 mots), en vous enregistrant ou en échangeant avec vos camarades/collègues.
 
 <!-- section -->
 

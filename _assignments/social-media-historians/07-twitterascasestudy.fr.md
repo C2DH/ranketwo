@@ -30,7 +30,7 @@ Dans cet exercice, les différentes caractéristiques/dimensions du réseau soci
 
 ![dorsey](../../../assets/images/social-media/dorsey.jpg){:style="max-height:500px"}
 
-Mention de source&#x202F;: première esquisse des idées qui ont abouti à Twitter. Publié sur le compte Flickr de Jack Dorsey le 24 mars 2006. DIsponible sur [https://flickr.com/photos/jackdorsey/182613360/](https://flickr.com/photos/jackdorsey/182613360/).
+Mention de source&#x202F;: première esquisse des idées qui ont abouti à Twitter. Publié sur le compte Flickr de Jack Dorsey le 24 mars 2006. Disponible sur [https://flickr.com/photos/jackdorsey/182613360/](https://flickr.com/photos/jackdorsey/182613360/).
 
 Lisez [cet entretien, paru dans le *Los Angeles Times*, avec Jack Dorsey, l’un des fondateurs de Twitter, le 18 février 2009](https://latimesblogs.latimes.com/technology/2009/02/twitter-creator.html). Puis tentez de répondre aux questions suivantes&#x202F;:
 
