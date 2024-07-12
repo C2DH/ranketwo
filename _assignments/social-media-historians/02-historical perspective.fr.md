@@ -17,7 +17,7 @@ Lorsque l’on examine les réseaux sociaux numériques du point de vue d’un h
 <!-- more -->
 <!-- briefing-student -->
 
-### Quand tout cela a-t-il commencé ? | 20 min
+### 2.a Quand tout cela a-t-il commencé ? | 20 min
 <!-- section-contents -->
 ![romans](../../../assets/images/social-media/romans.png)
 
@@ -39,8 +39,9 @@ Le tableau ci-dessous liste les points clés de cette présentation orale. Votre
 
 <!-- section -->
 
-### 2.b Différents points de vue sur les débuts des réseaux sociaux numériques | ? Min
+### 2.b Différents points de vue sur les débuts des réseaux sociaux numériques | 30 min
 <!-- section-contents -->
+
 Lisez cette histoire concise sur les origines des médias sociaux, proposée [dans le cadre d’un cours en ligne destiné aux étudiants en Bachelor de marketing à l’Université de Maryville](https://online.maryville.edu/blog/evolution-social-media/) à St. Louis, dans le Missouri, États-Unis, et répondez aux questions suivantes&#x202F;: 
 
 - Quelle a été la première forme de médias sociaux, selon la définition des médias sociaux évoquée dans cet article&#x202F;?
@@ -55,7 +56,7 @@ Lisez cette histoire concise sur les origines des médias sociaux, proposée [da
 
 [card](history-cooperative)
 
-«&#x202F;The Complete History of Social Media: A Timeline of the Invention of Online Networking&#x202F;», *History Cooperative*, 16 juin 2015, [https://historycooperative.org/the-history-of-social-media/](https://historycooperative.org/the-history-of-social-media/) (page consultée le 7 juillet 2024). 
+«&#x202F;The Complete History of Social Media: A Timeline of the Invention of Online Networking&#x202F;», *History Cooperative*, 16 juin 2015, [https://historycooperative.org/the-history-of-social-media/](https://historycooperative.org/the-history-of-social-media/) (dernière consultation le 7 juillet 2024). 
 
 
 
