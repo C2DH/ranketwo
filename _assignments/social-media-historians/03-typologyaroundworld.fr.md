@@ -52,7 +52,7 @@ Essayez maintenant d’établir le profil des services que vous avez sélectionn
 
 <!-- section -->
 
-### 3.b Les entreprises derrière les réseaux sociaux numériques
+### 3.b Les entreprises derrière les réseaux sociaux numériques | 30 min
 <!-- section-contents -->
 
 Vous allez maintenant vous concentrer sur les entreprises que l’on trouve derrière un certain nombre de plateformes de médias sociaux bien connues ainsi que sur les stratégies et politiques de ces entreprises concernant leurs plateformes. Nous vous proposons ci-dessous une liste de trois entreprises, mais vous pouvez continuer à travailler sur celles que vous avez déjà sélectionnées lors de l’exercice précédent. Dans ce dernier cas, vous avez peut-être déjà obtenu des informations sur certains des points que nous vous proposons d’examiner ci-dessous.
@@ -73,7 +73,7 @@ Vous allez maintenant vous concentrer sur les entreprises que l’on trouve derr
 
 <!-- section -->
 
-### 3.c Modèle commercial des réseaux sociaux numériques
+### 3.c Modèle commercial des réseaux sociaux numériques | 30 min
 <!-- section-contents -->
 
 Après avoir comparé les différentes entreprises derrière certaines des plateformes de réseaux sociaux numériques les plus connues au monde, lisez cet article infographique [«&#x202F;How Social Sites Make Money&#x202F;»](https://www.getcenturylink.com/how-social-sites-make-money) de CenturyLink ainsi que cet article de 2018 par Will Oremus dans Slate [«&#x202F;Are You Really the Product?&#x202F;»](https://slate.com/technology/2018/04/are-you-really-facebooks-product-the-history-of-a-dangerous-idea.html). Après avoir lu les deux articles, répondez aux questions suivantes en rédigeant un court essai d’environ 500 mots&#x202F;:
