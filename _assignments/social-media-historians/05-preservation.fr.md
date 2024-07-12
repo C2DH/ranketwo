@@ -2,7 +2,7 @@
 layout: assignment
 unit: social-media-historians
 lang: fr
-title: "Préervation - qui est responsable de l’archivage des réseaux sociaux numériques ?"
+title: "Préservation - qui est responsable de l’archivage des réseaux sociaux numériques ?"
 cover:
 documents:
 tags:
@@ -68,7 +68,7 @@ Le premier de ces articles a été publié lorsque la Bibliothèque du Congrès 
 
 <!-- section -->
 
-### 5.c Qui est toujours couvert par la Bibliothèque du Congrès ?
+### 5.c Qui est toujours couvert par la Bibliothèque du Congrès
  <!-- section-contents -->
 
 - Lisez cet article d’Andrew McGill sur la façon dont la Bibliothèque du Congrès a pu sous-estimer les problèmes qu’elle rencontrerait dans son projet d’archivage de chaque tweet publié&#x202F;: [«&#x202F;Can Twitter Fit Inside the Library of Congress&#x202F;?&#x202F;»](http://www.theatlantic.com/technology/archive/2016/08/can-twitter-fit-inside-the-library-of-congress/494339/) par Andrew McGill, *The Atlantic*, 4 août 2016.
@@ -85,7 +85,7 @@ Répondez maintenant aux questions suivantes en rédigeant un court essai d’en
 
 <!-- section -->
 
-### 5.d Qu’en est-il des autres réseaux sociaux numériques ?
+### 5.d Les autres réseaux sociaux numériques ?
  <!-- section-contents -->
 
 L'approche ouverte de Twitter en matière de collecte de données, qui a pris fin en 2023 à la suite de son rachat un an auparavant, lui a valu une grande attention et un rôle central dans la recherche. Mais qu’en est-il des nombreuses autres plateformes de réseaux sociaux numériques&#x202F;? Offrent-elles les mêmes possibilités&#x202F;? Lisez [cet article d’Helen Hockx-Yu sur les difficultés d’archivage des données des réseaux sociaux numériques pour les institutions du patrimoine culturel](http://library.ifla.org/999/1/107-hockxyu-en.pdf), présenté lors de la conférence internationale de la Fédération des bibliothèques et archives en 2014 à Lyon. Pouvez-vous à présent énumérer trois arguments pour expliquer pourquoi l’archivage des réseaux sociaux numériques est problématique&#x202F;?
