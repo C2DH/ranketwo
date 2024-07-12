@@ -26,7 +26,7 @@ Crédits images&#x202F;:
 
 <!-- briefing-student -->
 
-### 1.a Quand une publication sur les réseaux sociaux en ligne peut-elle avoir une valeur historique? | 20 min
+### 1.a Quand une publication sur les réseaux sociaux numériques peut-elle avoir une valeur historique? | 20 min
 <!-- section-contents -->
 
 Merci de parcourir les messages, publications, photos ou pages web ci-dessous&#x202F;: en trouvez-vous qui puissent être considérés comme historiques, c’est-à-dire liés à un phénomène historique&#x202F;? Expliquez pourquoi vous considéreriez ou non ce contenu comme historique et étayez vos réponses par des recherches sur le web sur le contexte et/ou les auteurs du contenu.
