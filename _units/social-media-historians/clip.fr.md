@@ -1,5 +1,5 @@
 ---
-title: "Pourquoi s'intéresser aux réseaux sociaux en ligne en historien ou historienne"
+title: "Pourquoi s'intéresser aux réseaux sociaux numériques en historien ou historienne"
 type: clip
 lang: fr
 parent: social-media-historians
