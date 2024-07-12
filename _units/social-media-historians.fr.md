@@ -1,10 +1,11 @@
 ---
-title: "Les historiens et historiennes face aux réseaux sociaux en ligne"
+title: "Les historiens et historiennes face aux réseaux sociaux numériques"
 layout: unit
 publication_date: 2021-04-27
 translation_date: 2024-06-26
 toc: on
 tags:
+  - web-social-media
 authors: 
   - stefania-scagliola
   - jordan-ricker
@@ -31,7 +32,7 @@ answertemplate:
 og:
   description: Comment les historiens et historiennes peuvent intégrer les réseaux sociaux en ligne dans leurs recherches et enseignements 
 ---
-Leçon sur les sources nativement numériques à travers le cas des réseaux sociaux en ligne: gérer l’abondance des données numériques dans la recherche, communiquer avec les publics, enseigner et préserver. 
+Leçon sur les sources nativement numériques à travers le cas des réseaux sociaux en ligne&#x202F;: gérer l’abondance des données numériques dans la recherche, communiquer avec les publics, enseigner et préserver. 
 
 
 <!-- more -->
