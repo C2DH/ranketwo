@@ -10,16 +10,13 @@ tags:
 outcomes:
 order: 7
 ---
-
-Cette leçon a été initialement publiée en 2021 puis revisée à la fin de 2023 pour tenir compte de la transition de Twitter à X un an auparavant. Lancé en mars 2006, le réseau socionumérique Twitter, actuellement X, est progressivement parvenu à avoir entre 300 et 400 millions d'utilisateurs, selon des statistiques régulièrement publiées par l'entreprise. Parmi les spécificités de Twitter/X comptent son abilité de permettre une rapide circulation de l'information, sa capacité d'engendrer des controverses voire des cas de harcèlement, enfin, sa perméabilité à l'actualité, y compris une forte réactivité aux mouvements socio-politiques (#BlackLivesMatter, #MeToo etc.).
+Lancé en mars 2006, le réseau socionumérique Twitter, actuellement X, est progressivement parvenu à avoir entre 300 et 400 millions d'utilisateurs, selon des statistiques régulièrement publiées par l'entreprise. Parmi les spécificités de Twitter/X comptent son abilité de permettre une rapide circulation de l'information, sa capacité d'engendrer des controverses voire des cas de harcèlement, enfin, sa perméabilité à l'actualité, y compris une forte réactivité aux mouvements socio-politiques (#BlackLivesMatter, #MeToo etc.).
 
 En 2022, un accord légal avec les actionnaires de Twitter Inc., conclu le 14 April, puis une série de manœuvres ont débouché sur l'acquisition de l'entreprise par l'homme d'affaires Elon Musk, effective depuis le 27 octobre 2022. Par la suite, Twitter a subi une restructuration et a été renommé X. Plusieurs mesures appliquées après ces changements ont été critiquées, par exemple le rétablissement de comptes bannis d'extrême-droite, ou encore l'application partielle d'un abonnement payant. De telles décisions ont amené au déclin de revenus publicitaires et ont mis en question l'avenir de la plateforme. 
 
-La leçon a ainsi été mise à jour pour tenir compte de ces développements tout en gardant une perspective essentiellement historique. Son objectif est d'étudier l'évolution de la plateforme depuis sa création en 2006, plutôt que son état actuel.
+Cette leçon a été initialement publiée en 2021 puis revisée à la fin de 2023 pour tenir compte de la transition de Twitter à X un an auparavant. Elle garde une perspective essentiellement historique et son objectif est d'étudier l'évolution de la plateforme depuis sa création en 2006, plutôt que son état actuel.
 
-In this assignment, the various features/dimensions of the social medium Twitter are discussed: its history (including its transformation into X), how it is used, how it is analyzed, and how it is preserved and archived.
-
-Dans cet exercice, les différentes caractéristiques/dimensions du réseau socionumérique Twitter/X sont abordées&#x202F;: son histoire, ses usages, les manières dont il est analysé, ainsi que les enjeux et les modalités de sa préservation.
+Les exercices proposés abordent les différentes caractéristiques/dimensions du réseau socionumérique Twitter/X&#x202F;: son histoire, ses usages, les manières dont il est analysé, ainsi que les enjeux et les modalités de sa préservation.
 
 
 <!-- more -->
