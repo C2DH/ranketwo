@@ -41,6 +41,7 @@ Lisez [cet entretien, paru dans le *Los Angeles Times*, avec Jack Dorsey, l’un
 <!-- section -->
 
 ### 7.b Comment Twitter/X se définit | 15 min 
+ <!-- section-contents -->
 
 ![jacktweet](../../../assets/images/social-media/jacktweet.png)
 
@@ -62,6 +63,7 @@ Par la suite, aidez-vous du [guide d'utilisation de X](https://help.x.com/fr/res
 <!-- section --> 
 
 ### 7.c Comment Twitter a évolué au fil du temps | 25 min
+ <!-- section-contents -->
 
 ![bird](../../../assets/images/social-media/bird.png)
 
@@ -85,6 +87,7 @@ Ouvrez à présent les trois hyperliens suivants en provenance d’Internet Arch
 <!-- section --> 
 
 ### 7.d Comment interagir avec les autres sur Twitter/X | 20 min
+ <!-- section-contents -->
 
 ![obamareply](../../../assets/images/social-media/obamareply.png)
 Mention de source&#x202F;: Capture d’écran de la sélection «&#x202F;Répondre&#x202F;» à un tweet déjà publié, prise depuis un ordinateur de bureau le 14 avril 2021.
@@ -114,6 +117,7 @@ Pour répondre, vous pouvez vous faire aider par l'un des articles suivants&#x20
 <!-- section -->
 
 ### 7.e Comment un tweet/post est archivé | 15 min
+ <!-- section-contents -->
 
 ![jacktweet](../../../assets/images/social-media/jacktweet.png)
 Mention de source&#x202F;: Jack Dorsey (@jack) - [https://twitter.com/jack/status/20](https://twitter.com/jack/status/20)
