@@ -14,7 +14,11 @@ Lancé en mars 2006, le réseau socionumérique Twitter, actuellement X, est pro
 
 En 2022, un accord légal avec les actionnaires de Twitter Inc., conclu le 14 avril, puis une série de manœuvres ont débouché sur l'acquisition de l'entreprise par l'homme d'affaires Elon Musk, effective depuis le 27 octobre 2022. Par la suite, Twitter a subi une restructuration et a été renommé X. Plusieurs mesures appliquées après ces changements ont été critiquées, par exemple le rétablissement de comptes bannis d'extrême-droite, ou encore l'application partielle d'un abonnement payant. De telles décisions ont amené au déclin de revenus publicitaires et ont mis en question l'avenir de la plateforme. 
 
+<html>
+<div class="alert alert-info">
 Cette leçon a été initialement publiée en 2021 puis revisée à la fin de 2023 pour tenir compte de la transition de Twitter à X un an auparavant. Elle garde une perspective essentiellement historique et son objectif est d'étudier l'évolution de la plateforme depuis sa création en 2006, plutôt que son état actuel.
+</div>
+</html>
 
 Les exercices proposés abordent les différentes caractéristiques/dimensions du réseau socionumérique Twitter/X&#x202F;: son histoire, ses usages, les manières dont il est analysé, ainsi que les enjeux et les modalités de sa préservation.
 
