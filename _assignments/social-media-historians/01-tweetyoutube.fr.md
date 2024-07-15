@@ -2,7 +2,7 @@
 layout: assignment
 unit: social-media-historians
 lang: fr
-title: "Comment les tweets ou les vidéos YouTube peuvent devenir matériaux pour l'histoire?"
+title: "Comment les publications sur Twitter/X ou les vidéos YouTube peuvent devenir matériaux pour l'histoire?"
 cover:
 documents:
 tags:
