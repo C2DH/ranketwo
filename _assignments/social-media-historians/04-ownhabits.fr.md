@@ -19,7 +19,7 @@ Image source: [Imgur](https://imgur.com/dqSRAaT)
 <!-- more -->
 <!-- briefing-student -->
 
-### 4.a Documenter et comparer sa propre utilisation des réseaux sociaux numériques
+### 4.a Documenter et comparer sa propre utilisation des réseaux sociaux numériques | 10 minutes pendant 3 jours 
 <!-- section-contents -->
 L’une des meilleures façons de comprendre l’impact et la fonction des réseaux sociaux numériques sur nos vies est de surveiller l’utilisation que vous en faites vous-même. Pour cet exercice, vous devez tenir un journal de votre utilisation des réseaux sociaux numériques pendant trois jours consécutifs, puis comparer vos propres habitudes avec celles de trois étudiants et étudiantes en histoire anonymes ainsi qu’avec les données statistiques de votre pays de résidence. Cela peut vous donner un aperçu de la façon dont les utilisateurs des réseaux sociaux numériques créent leur empreinte numérique et laissent des traces qui pourraient un jour être utilisées comme sources par les historiens.
 
