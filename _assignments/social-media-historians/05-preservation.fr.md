@@ -8,6 +8,7 @@ documents:
 tags:
 - web-social-media
 outcomes:
+  - Comprendre les enjeux et les tensions liés à la conservation des réseaux sociaux numériques. 
 order: 5
 ---
 
@@ -52,7 +53,7 @@ Pour Six Degrees et Friendster, notez les informations que vous pouvez trouver s
 
 <!-- section -->
 
-### 5.b Efforts d’archivage pour préserver les réseaux sociaux en ligne
+### 5.b Efforts d’archivage pour préserver les réseaux sociaux numériques
   <!-- section-contents -->
 
 L’obligation pour une personne ou un groupe de déposer une copie d’une publication ou, pour un gouvernement, de déposer tous ses documents dans une bibliothèque ou des archives nationales est souvent appelée «&#x202F;dépôt légal&#x202F;», bien que le terme exact varie d’un pays à l’autre. Jusqu’à la fin du XX<sup>e</sup> siècle, cette obligation s’appliquait principalement aux documents imprimés, et rarement aux supports audiovisuels. Avec l’avènement des technologie numériques, la plupart des législations ont été étendues aux documents numériques. Bien que cela soit tout à fait réalisable en ce qui concerne le contenu numérique statique, avec le caractère de plus en plus dynamique, interactif et immédiat des données des réseaux sociaux numériques (sans parler de la question des droits d’auteur), les institutions du patrimoine culturel sont confrontées à un nouvel éventail de défis.
