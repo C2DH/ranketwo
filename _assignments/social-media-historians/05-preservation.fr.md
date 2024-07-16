@@ -83,12 +83,20 @@ Répondez maintenant aux questions suivantes en rédigeant un court essai d’en
 1.  La Bibliothèque du Congrès a-t-elle effectivement appliqué les critères qu’elle décrit dans son changement de politique en décembre 2017&#x202F;?
 2.  Cela signifie-t-il que ces tweets archivés sont accessibles à des fins de recherche&#x202F;? Argumentez votre réponse.
 
+Vous pouvez aussi, à la place de l'exercice ci-dessus, suivre [cette table ronde](https://youtu.be/CqsVFnUheqQ) pour en savoir plus sur le cas de l'archivage de tweets par l'Institut national de l'audiovisuel en France.  
+
 <!-- section -->
 
-### 5.d Les autres réseaux sociaux numériques ?
+### 5.d Les autres réseaux sociaux numériques
  <!-- section-contents -->
 
 L'approche ouverte de Twitter en matière de collecte de données, qui a pris fin en 2023 à la suite de son rachat un an auparavant, lui a valu une grande attention et un rôle central dans la recherche. Mais qu’en est-il des nombreuses autres plateformes de réseaux sociaux numériques&#x202F;? Offrent-elles les mêmes possibilités&#x202F;? Lisez [cet article d’Helen Hockx-Yu sur les difficultés d’archivage des données des réseaux sociaux numériques pour les institutions du patrimoine culturel](http://library.ifla.org/999/1/107-hockxyu-en.pdf), présenté lors de la conférence internationale de la Fédération des bibliothèques et archives en 2014 à Lyon. Pouvez-vous à présent énumérer trois arguments pour expliquer pourquoi l’archivage des réseaux sociaux numériques est problématique&#x202F;?
 
+### Suggestions de lectures/vidéos
+<!-- section-contents -->
+
+IIPC. «&#x202F;IIPC WAC 2024 Panel&#x202F;: Archiving Social Media In An Age of APIcalypse&#x202F;». Vidéo YouTube. 2 juillet 2024. [https://youtu.be/CqsVFnUheqQ](https://youtu.be/CqsVFnUheqQ)
+
+<!-- section -->
 
 <!-- briefing-teacher -->
