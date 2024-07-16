@@ -20,7 +20,7 @@ Image sous licence Creative Commons CC-BY 2.5 DK.
 <!-- more -->
 <!-- briefing-student -->
 
-### 5.a Une enquête historique sur deux plateformes de réseaux sociaux numériques archivées
+### 5.a Une enquête historique sur deux plateformes de réseaux sociaux numériques archivées | 25 min
 <!-- section-contents -->
 
 {:.text-center}
@@ -53,7 +53,7 @@ Pour Six Degrees et Friendster, notez les informations que vous pouvez trouver s
 
 <!-- section -->
 
-### 5.b Efforts d’archivage pour préserver les réseaux sociaux numériques
+### 5.b Efforts d’archivage pour préserver les réseaux sociaux numériques | 20 min
   <!-- section-contents -->
 
 L’obligation pour une personne ou un groupe de déposer une copie d’une publication ou, pour un gouvernement, de déposer tous ses documents dans une bibliothèque ou des archives nationales est souvent appelée «&#x202F;dépôt légal&#x202F;», bien que le terme exact varie d’un pays à l’autre. Jusqu’à la fin du XX<sup>e</sup> siècle, cette obligation s’appliquait principalement aux documents imprimés, et rarement aux supports audiovisuels. Avec l’avènement des technologie numériques, la plupart des législations ont été étendues aux documents numériques. Bien que cela soit tout à fait réalisable en ce qui concerne le contenu numérique statique, avec le caractère de plus en plus dynamique, interactif et immédiat des données des réseaux sociaux numériques (sans parler de la question des droits d’auteur), les institutions du patrimoine culturel sont confrontées à un nouvel éventail de défis.
@@ -69,7 +69,7 @@ Le premier de ces articles a été publié lorsque la Bibliothèque du Congrès 
 
 <!-- section -->
 
-### 5.c Qui est toujours couvert par la Bibliothèque du Congrès
+### 5.c Qui est toujours couvert par la Bibliothèque du Congrès | 25 min
  <!-- section-contents -->
 
 - Lisez cet article d’Andrew McGill sur la façon dont la Bibliothèque du Congrès a pu sous-estimer les problèmes qu’elle rencontrerait dans son projet d’archivage de chaque tweet publié&#x202F;: [«&#x202F;Can Twitter Fit Inside the Library of Congress&#x202F;?&#x202F;»](http://www.theatlantic.com/technology/archive/2016/08/can-twitter-fit-inside-the-library-of-congress/494339/) par Andrew McGill, *The Atlantic*, 4 août 2016.
@@ -88,7 +88,7 @@ Vous pouvez aussi, à la place de l'exercice ci-dessus, suivre [cette table rond
 
 <!-- section -->
 
-### 5.d Les autres réseaux sociaux numériques
+### 5.d Les autres réseaux sociaux numériques | 20 min
  <!-- section-contents -->
 
 L'approche ouverte de Twitter en matière de collecte de données, qui a pris fin en 2023 à la suite de son rachat un an auparavant, lui a valu une grande attention et un rôle central dans la recherche. Mais qu’en est-il des nombreuses autres plateformes de réseaux sociaux numériques&#x202F;? Offrent-elles les mêmes possibilités&#x202F;? Lisez [cet article d’Helen Hockx-Yu sur les difficultés d’archivage des données des réseaux sociaux numériques pour les institutions du patrimoine culturel](http://library.ifla.org/999/1/107-hockxyu-en.pdf), présenté lors de la conférence internationale de la Fédération des bibliothèques et archives en 2014 à Lyon. Pouvez-vous à présent énumérer trois arguments pour expliquer pourquoi l’archivage des réseaux sociaux numériques est problématique&#x202F;?
