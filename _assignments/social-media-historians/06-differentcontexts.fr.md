@@ -8,6 +8,7 @@ documents:
 tags:
 - web-social-media
 outcomes:
+  - Avoir une vue d'ensemble sur les différentes manières dont les réseaux sociaux numériques peuvent être intéressants pour les historiens et les historiennes.   
 order: 6
 ---
 
