@@ -30,9 +30,9 @@ cover:
 order: 1
 answertemplate:
 og:
-  description: Comment les historiens et historiennes peuvent intégrer les réseaux sociaux en ligne dans leurs recherches et enseignements 
+  description: Comment les historiens et historiennes peuvent intégrer les réseaux sociaux numériques dans leurs recherches et enseignements 
 ---
-Leçon sur les sources nativement numériques à travers le cas des réseaux sociaux en ligne&#x202F;: gérer l’abondance des données numériques dans la recherche, communiquer avec les publics, enseigner et préserver. 
+Leçon sur les sources nativement numériques à travers le cas des réseaux sociaux numériques&#x202F;: gérer l’abondance des données numériques dans la recherche, communiquer avec les publics, enseigner et préserver. 
 
 
 <!-- more -->
