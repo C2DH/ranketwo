@@ -24,7 +24,7 @@ Lorsque l’on examine les réseaux sociaux numériques du point de vue d’un h
 
 Crédit image&#x202F;: Portrait de Terentius Neo, vers 20-30 après J.C., Musée archéologique national de Naples. [Image appartenant au domaine public](https://www.museoarcheologiconapoli.it/en/room-and-sections-of-the-exhibition/frescoes/).
 
-Regardez [cet exposé TEDx du journaliste et informaticien Tom Standage (16 minutes), auteur de «&#x202F;Writing on the Wall&#x202F;», une brève histoire du partage d’informations. Standage définit les réseaux sociaux numériques comme des médias échangés entre des personnes via des connexions sociales et créant une communauté ou une discussion distribuée. Dans son exposé, il soutient qu’un certain nombre de périodes et d’événements historiques présentent le même type de structure de communication que les médias sociaux actuels. Il va jusqu’à considérer l’ère des médias analogiques traditionnels (radio, télévision et cinéma) comme une exception à la pratique de la transmission d’informations à faible coût et modifiables d’un homologue à l’autre. Selon lui, le XXI<sup>e</sup> siècle est un «&#x202F;retour&#x202F;» aux structures de communication qui étaient courantes avant les innovations technologiques des XIX<sup>e</sup> et XX<sup>e</sup> siècles.
+Regardez [cet exposé TEDx du journaliste et informaticien Tom Standage](https://youtu.be/ixsridS3qVs) (16 minutes), auteur de [«&#x202F;Writing on the Wall&#x202F;»](https://worldcat.org/fr/title/827256877), une brève histoire du partage d’informations. Standage définit les réseaux sociaux numériques comme des médias échangés entre des personnes via des connexions sociales et créant une communauté ou une discussion distribuée. Dans son exposé, il soutient qu’un certain nombre de périodes et d’événements historiques présentent le même type de structure de communication que les médias sociaux actuels. Il va jusqu’à considérer l’ère des médias analogiques traditionnels (radio, télévision et cinéma) comme une exception à la pratique de la transmission d’informations à faible coût et modifiables d’un homologue à l’autre. Selon lui, le XXI<sup>e</sup> siècle est un «&#x202F;retour&#x202F;» aux structures de communication qui étaient courantes avant les innovations technologiques des XIX<sup>e</sup> et XX<sup>e</sup> siècles.
 Le tableau ci-dessous liste les points clés de cette présentation orale. Votre tâche consiste à vérifier les affirmations de Standage selon lesquelles les médias sociaux sont la continuation d’une ancienne pratique en complétant le tableau avec les exemples qu’il donne des médias sociaux du passé. Essayez de déterminer si les caractéristiques des anciens médias sociaux évoqués par Standage sont similaires ou différentes de celles des médias sociaux contemporains.
 
 
@@ -59,6 +59,11 @@ Lisez cette histoire concise sur les origines des médias sociaux, proposée [da
 «&#x202F;The Complete History of Social Media: A Timeline of the Invention of Online Networking&#x202F;», *History Cooperative*, 16 juin 2015, [https://historycooperative.org/the-history-of-social-media/](https://historycooperative.org/the-history-of-social-media/) (dernière consultation le 7 juillet 2024). 
 
 
+### Suggestions de lectures/vidéos
+<!-- section-contents -->
 
+Bourdon, Jérôme. «&#x202F;Désincarnation, délai, dissémination&#x202F;: la télé-présence dans l’histoire, de la correspondance aux réseaux sociaux&#x202F;». *Le Temps des médias* 31 (2), 2018&#x202F;: 76-89. DOI: [https://doi.org/10.3917/tdm.031.0076](https://doi.org/10.3917/tdm.031.0076)
+
+<!-- section -->
 
 <!-- briefing-teacher -->
