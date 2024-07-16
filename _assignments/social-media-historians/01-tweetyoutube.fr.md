@@ -99,6 +99,8 @@ En combinant vos propres réflexions avec celles que vous venez de voir d’hist
 <!-- section-contents -->
 [«&#x202F;How does the past become history&#x202F;?&#x202F;» *History on screen*, University of Tartu](https://ajalugu.haridusekraanil.ee/en/theoretical/time-together/how-does-the-past-form-the-history), article consulté le 9 juillet 2024.
 
+Le Corre, Benoit. «&#x202F;On a fait jouer un historien à « Assassin’s Creed Unity&#x202F;». *Le Nouvel Observateur*, 21 novembre 2014 [https://www.nouvelobs.com/rue89/rue89-rue89-culture/20141119.RUE6681/on-a-fait-jouer-un-historien-a-assassin-s-creed-unity.html](https://www.nouvelobs.com/rue89/rue89-rue89-culture/20141119.RUE6681/on-a-fait-jouer-un-historien-a-assassin-s-creed-unity.html)
+
 
 
 <!-- briefing-teacher -->
