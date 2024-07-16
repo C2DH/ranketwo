@@ -8,6 +8,8 @@ documents:
 tags:
 - web-social-media
 outcomes:
+	- Considérer Twitter/X d'une perspective historique
+	- Comprendre les usages, les manières d'analyse et les défis de préservation de Twitter/X afin d'avoir une approche critique de la source en historien et historienne 
 order: 7
 ---
 Lancé en mars 2006, le réseau socionumérique Twitter, actuellement X, est progressivement parvenu à avoir entre 300 et 400 millions d'utilisateurs, selon des statistiques régulièrement publiées par l'entreprise. Parmi les spécificités de Twitter/X comptent son abilité de permettre une rapide circulation de l'information, sa capacité d'engendrer des controverses voire des cas de harcèlement, enfin, sa perméabilité à l'actualité, y compris une forte réactivité aux mouvements socio-politiques (#BlackLivesMatter, #MeToo etc.).
@@ -133,14 +135,16 @@ Ces deux instantanés sont des versions du tweet archivées par Wayback Machine 
 
 <!-- section -->
 
-### Reading/viewing suggestions
+### Suggestions de lectures/vidéos
 <!-- section-contents -->
 
-Zimmer Michael, «&#x202F;The Twitter Archive at the Library of Congress&#x202F;: Challenges for information practice and information policy&#x202F;», *First Monday* 20 (7), 21 juin 2015. En ligne: <http://firstmonday.org/ojs/index.php/fm/article/view/5619>.
+boyd, danah m., et Nicole B. Ellison. &#x202F;Social Network Sites: Definition, History, and Scholarship&#x202F;». *Journal of Computer-Mediated Communication* 13 (1), 2007: 210–230 DOI&#x202F;: [https://doi.org/10.1111/j.1083-6101.2007.00393.x](https://doi.org/10.1111/j.1083-6101.2007.00393.x)
+
+Burgess, Jean et Nancy K. Baym. *Twitter: A Biography*. New York&#x202F;: New York University Press, 2020
 
 Muller, Caroline et Frédéric Clavert. «&#x202F;Une informalité bien ordonnée&#x202F;? La conversation académique sur Twitter&#x202F;», *Tracés* 21, 2021 DOI: [https://doi.org/10.4000/traces.13238](https://doi.org/10.4000/traces.13238)
 
-Burgess, Jean et Nancy K. Baym. *Twitter: A Biography*. New York&#x202F;: New York University Press, 2020
+Zimmer Michael, «&#x202F;The Twitter Archive at the Library of Congress&#x202F;: Challenges for information practice and information policy&#x202F;», *First Monday* 20 (7), 21 juin 2015. En ligne: <http://firstmonday.org/ojs/index.php/fm/article/view/5619>.
 
 <!-- section -->
 
