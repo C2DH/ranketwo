@@ -7,10 +7,11 @@ cover:
 documents:
 tags:
 outcomes:
+	- Comprendre dans quelles conditions les réseaux sociaux numériques peuvent devenir une source pour l'histoire. 
 order: 1
 ---
 
-Au sein de la communauté historienne, l'idée est largement répandue que, pour considérer un événement suffisamment «&#x202F;mûr&#x202F;» pour une enquête historique, le recul du temps et l'accès aux documents classifiés sont des conditions préalables. Cette notion de «&#x202F;période d’attente&#x202F;» nécessaire a longtemps déterminé l’historicité d’un événement ou d’un sujet donné. L’avènement du web et des réseaux sociaux numériques, qui offrent un accès direct à une multitude de données, y compris dans le domaine de la vie privée, semble avoir remis en question l’idée de ce qui peut être considéré comme historique. Dans cet exercice, vous allez examiner une variété d'opinions sur le rôle des réseaux sociaux numériques dans l’histoire et sur la question de savoir s’ils peuvent être considérés comme des sources historiques.
+Au sein de la communauté historienne, l'idée est largement répandue que, pour considérer un événement suffisamment «&#x202F;mûr&#x202F;» pour une enquête historique, le recul du temps et l'accès aux documents classifiés sont des conditions préalables. Cette notion de «&#x202F;période d’attente&#x202F;» nécessaire a longtemps déterminé l’historicité d’un événement ou d’un sujet donné. L’avènement du web et des réseaux sociaux numériques, qui offrent un accès direct à une multitude de données, y compris dans le domaine de la vie privée, participé grandement à remettre en question l’idée de ce qui peut être considéré comme historique. Dans cet exercice, vous allez examiner une variété d'opinions sur le rôle des réseaux sociaux numériques dans l’histoire et sur la question de savoir s’ils peuvent être considérés comme des sources historiques.
 
 {:.mosaic}
 [![social media](https://media.giphy.com/media/rB8CbdO6xSJofmOAKL/giphy.webp "Linaria Comunicación via Giphy")](https://giphy.com/gifs/comunicacion-linaria-linariacomunicacion-rB8CbdO6xSJofmOAKL){:target="_blank"}
