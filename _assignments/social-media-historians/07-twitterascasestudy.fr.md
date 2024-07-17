@@ -8,8 +8,8 @@ documents:
 tags:
 - web-social-media
 outcomes:
-	- Considérer Twitter/X d'une perspective historique
-	- Comprendre les usages, les manières d'analyse et les défis de préservation de Twitter/X afin d'avoir une approche critique de la source en historien et historienne 
+ - Considérer Twitter/X d'une perspective historique
+ - Comprendre les usages, les manières d'analyse et les défis de préservation de Twitter/X afin d'avoir une approche critique de la source en historien et historienne 
 order: 7
 ---
 Lancé en mars 2006, le réseau socionumérique Twitter, actuellement X, est progressivement parvenu à avoir entre 300 et 400 millions d'utilisateurs, selon des statistiques régulièrement publiées par l'entreprise. Parmi les spécificités de Twitter/X comptent son abilité de permettre une rapide circulation de l'information, sa capacité d'engendrer des controverses voire des cas de harcèlement, enfin, sa perméabilité à l'actualité, y compris une forte réactivité aux mouvements socio-politiques (#BlackLivesMatter, #MeToo etc.).
