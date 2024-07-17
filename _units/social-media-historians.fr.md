@@ -1,9 +1,11 @@
 ---
-title: "Social Media and Historians"
+title: "Les historiens et historiennes face aux réseaux sociaux numériques"
 layout: unit
 publication_date: 2021-04-27
+translation_date: 2024-06-26
 toc: on
 tags:
+  - web-social-media
 authors: 
   - stefania-scagliola
   - jordan-ricker
@@ -16,7 +18,7 @@ permalink: /fr/u/social-media-historians/
 audience: general public, bachelor, master humanities
 components:
   small: animation
-  medium: animation + 7 assignments
+  medium: animation + 7 exercices
 mediatypes: 
   - web-social-media
 research-phase: analysis
@@ -28,8 +30,9 @@ cover:
 order: 1
 answertemplate:
 og:
-  description: How historians can benefit from integrating social media in teaching and research
+  description: Comment les historiens et historiennes peuvent intégrer les réseaux sociaux numériques dans leurs recherches et enseignements 
 ---
-Lesson on how to deal with the abundance of digital born data, with regard to research, reaching out to audiences, teaching, and preservation strategies, using social media as a case study.
+Leçon sur les sources nativement numériques à travers le cas des réseaux sociaux numériques&#x202F;: gérer l’abondance des données numériques dans la recherche, communiquer avec les publics, enseigner et préserver. 
+
 
 <!-- more -->

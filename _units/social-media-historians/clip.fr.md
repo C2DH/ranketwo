@@ -1,5 +1,5 @@
 ---
-title: "Social media and historians; why bother?"
+title: "Pourquoi s'intéresser aux réseaux sociaux numériques en historien ou historienne"
 type: clip
 lang: fr
 parent: social-media-historians
@@ -8,7 +8,7 @@ iframe: social-media-historians-french
 
 {: .headsup}
 
-This animation discusses the relevance and historical value of social media for the historical community.
+Cette animation évoque la pertinence et la valeur historique des réseaux sociaux numériques pour la communauté historique.
 
 
 
