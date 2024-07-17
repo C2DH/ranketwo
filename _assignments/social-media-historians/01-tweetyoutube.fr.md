@@ -7,7 +7,7 @@ cover:
 documents:
 tags:
 outcomes:
-	- Comprendre dans quelles conditions les réseaux sociaux numériques peuvent devenir une source pour l'histoire. 
+ - Comprendre dans quelles conditions les réseaux sociaux numériques peuvent devenir une source pour l'histoire. 
 order: 1
 ---
 
