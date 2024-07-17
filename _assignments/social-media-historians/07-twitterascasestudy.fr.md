@@ -28,7 +28,7 @@ Les exercices proposés abordent les différentes caractéristiques/dimensions d
 <!-- more -->
 <!-- briefing-student -->
 
-### 7.a Comment Twitter a été créé
+### 7.a Comment Twitter a été créé | 15 min
 <!-- section-contents -->
 
 ![dorsey](../../../assets/images/social-media/dorsey.jpg){:style="max-height:500px"}
