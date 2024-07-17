@@ -8,6 +8,7 @@ documents:
 tags:
 - web-social-media
 outcomes:
+ - Comprendre les caractéristiques des réseaux sociaux numériques à l'aide de typologies
 order: 3
 ---
 ![typology](../../../assets/images/social-media/typology.png)
@@ -63,8 +64,8 @@ Vous allez maintenant vous concentrer sur les entreprises que l’on trouve derr
 | WhatsApp |
 | YouTube |
 
-- *Type de plateforme*: pour bloguer/discuter/partager/entrer en relation/faire du crowdsourcing, etc. ?
-- *Créateurs* : fondateur, date de création, nom de l’entreprise, président-directeur général, localisation du siège social.
+- *Type de plateforme*&#x202F;: pour bloguer/discuter/partager/entrer en relation/faire du crowdsourcing, etc. ?
+- *Créateurs*&#x202F;: fondateur, date de création, nom de l’entreprise, président-directeur général, localisation du siège social.
 - *Modèle commercial*&#x202F;: comment génère-t-elle des revenus&#x202F;?
 - *Argument commercial*&#x202F;: qu’est-ce qui la rend unique et attrayante&#x202F;?
 - *Modération du contenu*&#x202F;: ce qui est publié par les utilisateurs est-il surveillé&#x202F;? Si oui, par qui et pour quelle raison&#x202F;? Si non, pourquoi&#x202F;?
