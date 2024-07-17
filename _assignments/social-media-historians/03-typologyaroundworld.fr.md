@@ -12,7 +12,7 @@ outcomes:
 order: 3
 ---
 ![typology](../../../assets/images/social-media/typology.png)
-«&#x202F;Carte mondiale 2021 des réseaux sociaux numériques&#x202F;». Image créée par Vincenzo Cosenza et utilisée ici sans adaptation de l’original sur le blog de Vinco sous licence Creative Commons License CC-BY-NC.
+«&#x202F;Carte mondiale 2021 des réseaux sociaux numériques&#x202F;». Image créée par Vincenzo Cosenza et utilisée ici sans adaptation de l’original sur le blog de Vinco sous licence CC-BY-NC.
 
 Dans cet exercice, vous devrez effectuer des recherches sur le web pour établir les profils de différentes plateformes de réseaux sociaux numériques. Il existe de nombreuses approches pour spécifier leurs caractéristiques. On peut, par exemple, prendre en compte la technologie et le type de communication qu’elle permet ou l’expérience utilisateur, ou se concentrer sur la politique et la stratégie de l’entreprise qui gère le réseau social, c’est-à-dire le modèle commercial. Ces diverses approches permettent de mieux comprendre la nature de ces différents réseaux sociaux numériques. En classant leur typologie, les historiens et historiennes peuvent analyser plus précisément leur contenu en tant que sources numériques.
 
