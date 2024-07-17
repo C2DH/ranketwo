@@ -9,6 +9,7 @@ documents:
 tags:
 - web-social-media
 outcomes:
+  - Documenter et analyser sa propre utilisation des réseaux sociaux numériques
 order: 4
 ---
 
