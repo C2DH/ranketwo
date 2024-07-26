@@ -6,10 +6,6 @@ title: 'When does a Tweet or YouTube clip become "historical"?'
 cover:
 documents:
 tags:
-- social media
-- bias
-- copyright
-- privacy
 outcomes:
 order: 1
 ---
