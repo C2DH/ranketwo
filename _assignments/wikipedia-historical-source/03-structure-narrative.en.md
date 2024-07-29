@@ -6,8 +6,7 @@ title: "Writing on Wikipedia: Structure and Historical Narrative"
 cover:
 documents:
 tags:
-outcomes:
-	- Become familiar with how the features of Wikipedia infrastructure shape historical narratives
+outcomes: "Become familiar with how the features of Wikipedia infrastructure shape historical narratives"
 order: 3
 ---
 (Text intro)

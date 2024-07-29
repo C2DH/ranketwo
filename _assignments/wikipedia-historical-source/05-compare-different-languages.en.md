@@ -6,8 +6,7 @@ title: "Comparing Wikipedias in different languages"
 cover:
 documents:
 tags:
-outcomes:
-	- Detect variety of cultural perspectives and modalities of their expression in historical narratives in Wikipedia 
+outcomes: "Detect variety of cultural perspectives and modalities of their expression in historical narratives in Wikipedia" 
 order: 5
 ---
 (Text intro)

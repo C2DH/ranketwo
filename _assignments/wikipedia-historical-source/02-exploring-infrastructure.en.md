@@ -7,8 +7,8 @@ cover:
 documents:
 tags:
 outcomes:
-	- Understand the policies and guidelines that define historical knowledge production in Wikipedia 
-	- Become familiar with the features of Wikipedia infrastructure that allow to contextualize and historicize the process of production of historical narratives  
+	"Understand the policies and guidelines that define historical knowledge production in Wikipedia" 
+	" Become familiar with the features of Wikipedia infrastructure that allow to contextualize and historicize the process of production of historical narratives"   
 order: 2
 ---
 (Text intro)
