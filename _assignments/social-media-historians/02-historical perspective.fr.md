@@ -10,7 +10,7 @@ documents:
 tags:
 - web-social-media
 outcomes:
-  - Comprendre l'apparition des reéseaux sociaux numériques d'une perspective historique
+  - Comprendre l'apparition des réseaux sociaux numériques d'une perspective historique
 order: 2
 ---
 Lorsque l’on examine les réseaux sociaux numériques du point de vue d’un historien, il est important de se rappeler que les opinions divergent selon les experts sur la manière de les définir ainsi que sur l’existence ou non de cette forme de communication à l’ère pré-internet. Une grande partie des débats portent sur la question de savoir si c’est l’infrastructure technique en tant que telle qui constitue l’élément innovant, ou si c’est ce que les gens font de l’infrastructure technique lorsqu’elle devient disponible. Du point de vue d’un historien, le terme «&#x202F;médias sociaux&#x202F;» est problématique, car les médias ont par définition une fonction sociale. Dans le cadre de l’ère numérique, le terme peut également désigner les plateformes de partage pionnières qui sont nées au début des années 2000, comme MySpace et Friendster. À l’époque, on les appelait sites de réseaux sociaux. Avec l’apparition de Twitter, Pinterest, Instagram et Snapchat, sans doute axés sur le partage de contenu plutôt que sur la création de réseaux, le terme plus large de «&#x202F;médias sociaux&#x202F;» a gagné du terrain. Dans cet exercice, vous allez explorer les continuités et discontinuités historiques du phénomène des médias sociaux (ou réseaux sociaux numériques).
