@@ -2,7 +2,7 @@
 layout: assignment
 unit: social-media-historians
 lang: en
-title: "Twitter/X as a case study (assignment curated by Frédéric Clavert)"
+title: "Twitter/X as a case study (Frédéric Clavert)"
 cover:
 documents:
 tags:
@@ -13,7 +13,17 @@ outcomes:
 order: 7
 ---
 
-In this assignment, the various features/dimensions of the social medium Twitter are discussed: its history, how it is used, how it is analyzed, and how it is preserved and archived.
+Twitter, currently called X, was launched in March 2006. It has grown to have, according to various estimates and "official" figures published by Twitter Inc., between 300 and 400 millions users. What made Twitter special was its ability to circulate information very fastly, to provoke strong controversies (including harassment), sometimes its use for socio-political movements (#BlackLivesMatter, #MeToo to name but a few), its focus on current affairs and its strong presence of journalists, even if it cannot be reduced to this.
+
+In 2022, following the conclusion of a legal agreement with the shareholders of Twitter Inc. on 14 April, and a number of twists and turns, Elon Musk bought Twitter with effect from 27 October 2022. Since then, Twitter has been restructured, including with numerous lay-offs, and renamed X. Many measures taken since October 2022 have been contested: the de-banning of far-right accounts, the partial switch to a pay model for users, for example. These decisions led to the loss of many advertisers and called into question the long-term future of the platform.
+
+<html>
+<div class="alert alert-info">
+Initially published in 2021, this lesson was modified at the end of 2023 to take into account the transition of Twitter to X, while retaining a strong historical focus. The aim is not to study the platform as it is today, but rather how it has evolved since 2006.
+</div>
+</html>
+
+In this assignment, the various features/dimensions of the social medium Twitter are discussed: its history, including its transformation into X, how it is used, how it is analyzed, and how it is preserved and archived.
 
 <!-- more -->
 <!-- briefing-student -->
@@ -32,14 +42,14 @@ Read this [interview in the _Los Angeles Times_ with Jack Dorsey](https://latime
 
 <!-- section -->
 
-### 7.b How Twitter is defined | 10 mins
+### 7.b How Twitter was defined | 10 mins
  <!-- section-contents -->
 
 ![140](../../assets/images/social-media/140.png)
 
 Image credit: [The Lighthouse(@the_bercibot)](https://twitter.com/the_bercibot/status/1379647473640161280)
 
-Go to the [Twitter beginner’s guide](https://help.twitter.com/en/new-user-faq) and answer the following questions:
+Go to the archived version of [Twitter beginner’s guide](https://web.archive.org/web/20180103203839/https://help.twitter.com/en/new-user-faq) and answer the following questions:
 - What is a tweet?
 - What is the length (the number of characters) of a tweet at present?
 - Has it always been this length?
@@ -55,22 +65,25 @@ Go to the [Twitter beginner’s guide](https://help.twitter.com/en/new-user-faq)
 
 Image credit: Current Twitter logo respecting the Brand Guidelines. Taken from the [Twitter Brand Toolkit](https://about.twitter.com/en/who-we-are/brand-toolkit).
 
-*Note: in this section, we use the Internet Archive’s Wayback Machine. For a guideline on how to use this resource see: [handout Wayback machine](https://ranke2.uni.lu/assets/pdf/wayback-machine-interface.pdf). Additionally, those who already have a Twitter account will first need to log out from their account in order to be able to complete this assignment.*
+In this section, we use both the live web and the Internet Archive’s Wayback Machine. For a guideline on how to use the latter resource see: [handout Wayback machine](https://ranke2.uni.lu/assets/pdf/wayback-machine-interface.pdf). Additionally, those who already have a Twitter account will first need to log out from their account in order to be able to complete this assignment.
 
-Go to the present Twitter homepage: <http://www.twitter.com>
+Use the historic URL of the Twitter homepage in your navigator: `http://www.twitter.com`
 
-- What does the text say on the homepage?
+- Does the page you reach still display elements of the “Twitter” brand?
+- Based on the [Wikipedia notice on Twitter's evolution](https://en.wikipedia.org/wiki/Twitter#Since_2022), can you explain why?
+- Back to the page you reached when using the URL `https://www.twitter.com/`, what does the text say on the homepage? (you need to be logged off, if you have a user account).
 
-Open the following three hyperlinks to the Internet Archive. Each one of them provides an archived version of the Twitter homepage in diferent moments in 2006, 2009 and 2015. Then, copy the texts that are displayed on the homepage of Twitter and note some of the changes over the different years, if any.
+Now go to `https://x.com/`. What happens? What does the page say of the brand switch from twitter to X?
 
-- <https://web.archive.org/web/20060930214639/https://twitter.com/>
-- <https://web.archive.org/web/20090413225407/http://twitter.com/>
-- <https://web.archive.org/web/20150319071319/https://twitter.com/>
+Open the following three hyperlinks to the Internet Archive. Each one of them provides an archived version of the Twitter homepage in different moments in 2006, 2009 and 2015. Then, copy the texts that are displayed on the homepage of Twitter and note some of the changes over the different years, if any.
 
+- [https://web.archive.org/web/20060930214639/https://twitter.com/](https://web.archive.org/web/20060930214639/https://twitter.com/)
+- [https://web.archive.org/web/20090413225407/http://twitter.com/](https://web.archive.org/web/20060930214639/https://twitter.com/)
+- [https://web.archive.org/web/20150319071319/https://twitter.com/](https://web.archive.org/web/20060930214639/https://twitter.com/)
 
 <!-- section -->
 
-### 7.d How you can interact with others on Twitter | 10 mins
+### 7.d How you can interact with others on Twitter/X | 10 mins
  <!-- section-contents -->
 
 ![obamareply](../../assets/images/social-media/obamareply.png)
@@ -79,7 +92,7 @@ Image credit: Screenshot of selecting "reply" to an already posted Tweet taken o
 
 Go to this [New York Times article by Mike Isaac](https://www.nytimes.com/2017/09/26/technology/twitter-280-characters.html?smid=url-share). After reading it, try to answer the following questions:
 - In what ways can you respond to a tweet?
-- Can you “like” a tweet? Why would you?
+- Can you “like” a tweet/post? Why would you?
 - Can you mention a user in a tweet? Why?
 
 <!-- section -->
@@ -99,14 +112,22 @@ This is the first tweet ever published. It was posted by the creator of Twitter,
 - <https://web.archive.org/web/20150321230408/https://twitter.com/jack/status/20>
 
 
-These two snapshots are versions of the tweet archived by the [Internet Archive Wayback Machine](https://archive.org/web/). The first one is the earliest capture of it. In comparison, Jack Dorsey’s tweet, as it is currently displayed on Twitter, is not an archived but a live version - this means that Twitter users can still interact with it even today. Try to figure out some of the difficulties that archivists might encounter when they archive social media by comparing those three versions of the same Tweet in a short response below.
+These two snapshots are versions of the tweet archived by the [Internet Archive Wayback Machine](https://archive.org/web/). The first one is the earliest capture of it. In comparison, Jack Dorsey’s tweet, now called a ‘post’, as it is currently displayed on X, is not an archived but a live version - this means that today’s X users can still interact with it even today. Try to figure out some of the difficulties that archivists might encounter when they archive social media by comparing those three versions of the same tweet/post in a short response.
 
 <!-- section -->
 
 ### Reading/viewing suggestions
 <!-- section-contents -->
 
-- Zimmer, Michael. “The Twitter Archive at the Library of Congress: Challenges for Information Practice and Information Policy”. _First Monday_, 20 (7) (June 2015). [Journal article](https://doi.org/10.5210/fm.v20i7.5619)
+boyd, danah m., and Nicole B. Ellison. “Social Network Sites: Definition, History, and Scholarship.” *Journal of Computer-Mediated Communication* 13 (1), 2007: 210–230 DOI&#x202F;: [https://doi.org/10.1111/j.1083-6101.2007.00393.x](https://doi.org/10.1111/j.1083-6101.2007.00393.x)
+
+Burgess, Jean and Nancy K. Baym. *Twitter: A Biography*. New York&#x202F;: New York University Press, 2020
+
+Muller, Caroline, and Frédéric Clavert. “Une informalité bien ordonnée ? La conversation académique sur Twitter”. *Tracés* 21, 2021 DOI: [https://doi.org/10.4000/traces.13238](https://doi.org/10.4000/traces.13238)
+*This article is based on [a blog post also available in English](https://consciences.hypotheses.org/2721).*
+
+Zimmer, Michael. “The Twitter Archive at the Library of Congress&#x202F;: Challenges for information practice and information policy.” *First Monday* 20 (7), 21 juin 2015. Available at: <http://firstmonday.org/ojs/index.php/fm/article/view/5619>.
+
 
 <!-- section -->
 
