@@ -2,14 +2,14 @@
 layout: assignment
 unit: social-media-historians
 lang: en
-title: "Social Media in different contexts"
+title: "Social media in different contexts"
 cover:
 documents:
 tags:
-- social media
-- fake news
-- public history
+  - web-social-media
 outcomes:
+  comes:
+  - Understand different ways social media can matter for historians 
 order: 6
 ---
 

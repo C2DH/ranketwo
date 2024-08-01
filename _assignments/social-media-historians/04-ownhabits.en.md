@@ -7,10 +7,9 @@ cover:
 documents:
   - social-media-log-comparison
 tags:
-- social media
-- personal habits
-- privacy
+  - web-social-media
 outcomes:
+  "Document and analyse one's own use of social media"
 order: 4
 ---
 

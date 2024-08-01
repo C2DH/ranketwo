@@ -2,14 +2,13 @@
 layout: assignment
 unit: social-media-historians
 lang: en
-title: "Preservation: who is responsible for archiving social media?"
+title: "Preservation - who is responsible for archiving social media?"
 cover:
 documents:
 tags:
-- social media
-- personal habits
-- privacy
+  - web-social-media
 outcomes:
+    "Understand the stakes of the preservation of social media"
 order: 5
 ---
 
