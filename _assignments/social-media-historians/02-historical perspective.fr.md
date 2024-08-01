@@ -8,7 +8,7 @@ documents:
   - evolution-social-media
   - history-cooperative
 tags:
-- web-social-media
+ - web-social-media
 outcomes:
   - Comprendre l'apparition des réseaux sociaux numériques d'une perspective historique
 order: 2
