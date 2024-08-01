@@ -2,14 +2,14 @@
 layout: assignment
 unit: social-media-historians
 lang: en
-title: "Twitter as a case study (assignment curated by Frédéric Clavert)"
+title: "Twitter/X as a case study (assignment curated by Frédéric Clavert)"
 cover:
 documents:
 tags:
-- social media
-- personal habits
-- privacy
+  - web-social-media
 outcomes:
+  "Consider Twitter/X in a historical perspective"
+  "Understand the various ways of using, analysing, and preserving Twitter/X, to be able to apply source criticism" 
 order: 7
 ---
 
