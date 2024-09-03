@@ -7,7 +7,7 @@ cover:
 documents:
 tags:
   - web-social-media
-outcomes: "Understand in what conditions social media can become sources for historical research"
+outcomes: "Understand the conditions in which social media can become sources for historical research"
 order: 1
 ---
 
