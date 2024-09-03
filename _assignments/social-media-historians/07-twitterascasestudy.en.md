@@ -8,8 +8,8 @@ documents:
 tags:
   - web-social-media
 outcomes:
-  "Consider Twitter/X from a historical perspective"
-  "Understand the various ways of using, analysing and preserving Twitter/X so that source criticism can be applied to it" 
+ - "Consider Twitter/X from a historical perspective"
+ - "Understand the various ways of using, analysing and preserving Twitter/X so that source criticism can be applied to it" 
 order: 7
 ---
 
