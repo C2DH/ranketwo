@@ -6,7 +6,8 @@ title: "Behind the Scenes of Wikipedia articles"
 cover:
 documents:
 tags:
-outcomes: "Understand how shared authority shapes the process and the evolution of historical narratives in Wikipedia" 
+outcomes: 
+  - Understand how shared authority shapes the formation and evolution of historical narratives in Wikipedia 
 order: 4
 ---
 (Text intro)

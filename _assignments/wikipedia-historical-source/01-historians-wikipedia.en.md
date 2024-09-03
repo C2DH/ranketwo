@@ -6,7 +6,8 @@ title: "Why should historians be interested in Wikipedia?"
 cover:
 documents:
 tags:
-outcomes: "Understand why the creation and popularization of use of Wikipedia matter for historians" 
+outcomes: 
+  - Understand why the creation and popularisation of Wikipedia matter for historians 
 order: 1
 ---
 (Text intro)
