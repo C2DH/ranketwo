@@ -8,7 +8,7 @@ documents:
 tags:
   - web-social-media
 outcomes:
-    "Understand the stakes of the preservation of social media"
+    "Understand the issues involved in preserving social media"
 order: 5
 ---
 

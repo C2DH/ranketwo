@@ -8,7 +8,7 @@ documents:
 tags:
   - web-social-media
 outcomes:
-	"Understand the typologies of social media"
+	"Understand the different types of online social media"
 order: 3
 ---
 ![typology](../../assets/images/social-media/typology.png)

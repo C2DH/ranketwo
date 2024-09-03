@@ -9,7 +9,7 @@ documents:
   - history-cooperative
 tags:
   - web-social-media
-outcomes: "Understand the rise of digital social media in a historical perspective"
+outcomes: "Understand the rise of online social media from a historical perspective"
 order: 2
 ---
 When looking at social media from a historian's perspective, it is important to remember that opinions differ between experts on how to define them as well as whether or not this form of communication existed in the pre-internet era. Much of these debates hinge on whether the technical infrastructure as such is the innovative element, or what people do with the technical infrastructure when it becomes available. From the perspective of a historian, the term "social media" is problematic, as **media** have a _social_ function by definition. In the scope of the digital era, the term can also refer to the pioneering sharing platforms that evolved in the early 2000s, such as MySpace and Friendster. At the time, they were coined _[Social Networking Sites](https://academic.oup.com/jcmc/article/13/1/210/4583062#104153860)_. With the introduction of Twitter, Pinterest, Instagram and Snapchat, arguably geared towards sharing content more than creating networks, the broader term "social media" gained traction. In this assignment, you are going to explore the historical continuities and discontinuities of the phenomenon of social media.

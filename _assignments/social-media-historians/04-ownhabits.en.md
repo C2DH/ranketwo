@@ -9,7 +9,7 @@ documents:
 tags:
   - web-social-media
 outcomes:
-  "Document and analyse one's own use of social media"
+  "Document and analyse one’s own use of social media"
 order: 4
 ---
 

@@ -8,22 +8,23 @@ documents:
 tags:
   - web-social-media
 outcomes:
-  "Consider Twitter/X in a historical perspective"
-  "Understand the various ways of using, analysing, and preserving Twitter/X, to be able to apply source criticism" 
+  "Consider Twitter/X from a historical perspective"
+  "Understand the various ways of using, analysing and preserving Twitter/X so that source criticism can be applied to it" 
 order: 7
 ---
 
-Twitter, currently called X, was launched in March 2006. It has grown to have, according to various estimates and "official" figures published by Twitter Inc., between 300 and 400 millions users. What made Twitter special was its ability to circulate information very fastly, to provoke strong controversies (including harassment), sometimes its use for socio-political movements (#BlackLivesMatter, #MeToo to name but a few), its focus on current affairs and its strong presence of journalists, even if it cannot be reduced to this.
+Twitter, now known as X, was launched in March 2006. It has grown to have between 300 and 400 millions users, according to various estimates and “official” figures published by Twitter Inc. Twitter became known for its ability to circulate information very quickly and provoke major controversies (including instances of harassment), for its role in socio-political movements (such as #BlackLivesMatter or #MeToo) and focus on current affairs, and for the strong presence of journalists on the platform.
 
-In 2022, following the conclusion of a legal agreement with the shareholders of Twitter Inc. on 14 April, and a number of twists and turns, Elon Musk bought Twitter with effect from 27 October 2022. Since then, Twitter has been restructured, including with numerous lay-offs, and renamed X. Many measures taken since October 2022 have been contested: the de-banning of far-right accounts, the partial switch to a pay model for users, for example. These decisions led to the loss of many advertisers and called into question the long-term future of the platform.
+In 2022, following the conclusion of a legal agreement with the shareholders of Twitter Inc. on 14 April and a number of twists and turns, Elon Musk bought Twitter with effect from 27 October 2022. Since then, Twitter has been restructured, with many staff being laid off, and renamed X. Many measures taken since October 2022 have been contested, including the reinstatement of accounts expressing far-right views and the partial switch to a pay model for users. These decisions led to the loss of many advertisers and called into question the long-term future of the platform.
+
 
 <html>
 <div class="alert alert-info">
-Initially published in 2021, this lesson was modified at the end of 2023 to take into account the transition of Twitter to X, while retaining a strong historical focus. The aim is not to study the platform as it is today, but rather how it has evolved since 2006.
+This lesson, initially published in 2021, was modified at the end of 2023 to take into account the transition of Twitter to X, while retaining a strong historical focus. The aim is not to study the platform as it is today, but rather how it has evolved since 2006.
 </div>
 </html>
 
-In this assignment, the various features/dimensions of the social medium Twitter are discussed: its history, including its transformation into X, how it is used, how it is analyzed, and how it is preserved and archived.
+In this assignment, the various features/dimensions of the social media platform Twitter are discussed: its history, including its transformation into X, how it is used, how it can be analysed, and how it is preserved and archived.
 
 <!-- more -->
 <!-- briefing-student -->
@@ -65,15 +66,15 @@ Go to the archived version of [Twitter beginner’s guide](https://web.archive.o
 
 Image credit: Current Twitter logo respecting the Brand Guidelines. Taken from the [Twitter Brand Toolkit](https://about.twitter.com/en/who-we-are/brand-toolkit).
 
-In this section, we use both the live web and the Internet Archive’s Wayback Machine. For a guideline on how to use the latter resource see: [handout Wayback machine](https://ranke2.uni.lu/assets/pdf/wayback-machine-interface.pdf). Additionally, those who already have a Twitter account will first need to log out from their account in order to be able to complete this assignment.
+In this section, we use both the live web and the Internet Archive’s Wayback Machine. For guidelines on how to use the latter resource see this [teaching aid for the Wayback Machine](https://ranke2.uni.lu/assets/pdf/wayback-machine-interface.pdf). Those who already have an X account will first need to log out from their account to be able to complete this assignment.
 
 Use the historic URL of the Twitter homepage in your navigator: `http://www.twitter.com`
 
 - Does the page you reach still display elements of the “Twitter” brand?
-- Based on the [Wikipedia notice on Twitter's evolution](https://en.wikipedia.org/wiki/Twitter#Since_2022), can you explain why?
-- Back to the page you reached when using the URL `https://www.twitter.com/`, what does the text say on the homepage? (you need to be logged off, if you have a user account).
+- Based on the [Wikipedia article about Twitter’s evolution](https://en.wikipedia.org/wiki/Twitter#Since_2022), can you explain why?
+- Go back to the page you reached when using the URL `https://www.twitter.com/`. What does the text say on the homepage? (If you have a user account, you will need to be logged out.)
 
-Now go to `https://x.com/`. What happens? What does the page say of the brand switch from twitter to X?
+Now go to `https://x.com/`. What happens? What does the page say about the brand switch from Twitter to X?
 
 Open the following three hyperlinks to the Internet Archive. Each one of them provides an archived version of the Twitter homepage in different moments in 2006, 2009 and 2015. Then, copy the texts that are displayed on the homepage of Twitter and note some of the changes over the different years, if any.
 

@@ -8,7 +8,7 @@ documents:
 tags:
   - web-social-media
 outcomes:
-  - Understand different ways social media can matter for historians 
+  - Identify different ways in which social media can matter for historians 
 order: 6
 ---
 
