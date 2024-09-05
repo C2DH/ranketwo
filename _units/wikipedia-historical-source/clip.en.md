@@ -1,5 +1,5 @@
 ---
-title: "Wikipedia as Source of Historical Knowledge"
+title: "Wikipedia as a Source of Historical Knowledge"
 type: clip
 lang: en
 parent: wikipedia-historical-source
