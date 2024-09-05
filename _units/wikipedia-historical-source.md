@@ -1,5 +1,5 @@
 ---
-title: "Wikipedia as Source of Historical Knowledge. Suggestions for Applying Digital Source Criticism"
+title: "Wikipedia as a Source of Historical Knowledge. Suggestions for Applying Digital Source Criticism"
 layout: unit
 date: 2024-02-06
 publication_date: 
