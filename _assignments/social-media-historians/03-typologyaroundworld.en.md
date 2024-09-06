@@ -6,11 +6,9 @@ title: "Typology: social media around the world and who is behind it"
 cover:
 documents:
 tags:
-- social media
-- pamphlets
-- scrolls
-- print
+  - web-social-media
 outcomes:
+ - "Understand the different types of online social media"
 order: 3
 ---
 ![typology](../../assets/images/social-media/typology.png)

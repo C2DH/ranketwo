@@ -61,7 +61,6 @@ Lisez cette histoire concise sur les origines des médias sociaux, proposée [da
 
 <!-- inactif car titre ajouté mais pas disponible en open access
 ### Suggestions de lectures/vidéos
-<!-- section-contents -->
 
 Bourdon, Jérôme. «&#x202F;Désincarnation, délai, dissémination&#x202F;: la télé-présence dans l’histoire, de la correspondance aux réseaux sociaux&#x202F;». *Le Temps des médias* 31 (2), 2018&#x202F;: 76-89. DOI: [https://doi.org/10.3917/tdm.031.0076](https://doi.org/10.3917/tdm.031.0076)
 --> 
