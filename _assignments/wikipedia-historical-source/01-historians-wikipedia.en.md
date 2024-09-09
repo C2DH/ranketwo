@@ -46,13 +46,13 @@ In 2021, the American Historical Association published [a study on how the Ameri
 Based on your personal experience with Wikipedia, try to answer the questions below. If you are in a class, you can discuss your answers with your fellow students:
 
 - Have you used Wikipedia before? If so, try to describe exactly how and why you used it, for example to share your knowledge on a particular topic, to look for information, to make use of available data, etc.
-- Have you ever used Wikipedia while investigating historical questions? 
-- Why did you choose Wikipedia?
-- Did Wikipedia help you to answer the questions?
-- Were there particular parts of the articles you referred to that were more useful than others?
-- Did you check the sources?
-- Did you use other knowledge sources as well as Wikipedia?
-- Did you encounter mistakes? 
+- Have you ever used Wikipedia while investigating historical questions? If so, please explain: 
+  - Why did you choose Wikipedia?
+  - Did Wikipedia help you to answer the questions?
+  - Were there particular parts of the articles you referred to that were more useful than others?
+  - Did you check the sources?
+  - Did you use other knowledge sources as well as Wikipedia?
+  - Did you encounter mistakes? 
 
 Now watch this video where the US historian [Jim Grossman](https://www.historians.org/person/jim-grossman/) evokes different possible uses of Wikipedia by historians: 
 
