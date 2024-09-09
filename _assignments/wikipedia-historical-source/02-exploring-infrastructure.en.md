@@ -45,7 +45,7 @@ Just like historians, Wikipedians use sources to create and update Wikipedia art
 
 As well as the policies and guidelines that underpin knowledge production on Wikipedia, every Wikipedia article page has two tabs, the “talk page” or discussion page and the “view history” tab (fig. 1). You can access these pages from the main menu that you see under the title of the article. 
 
-![How to access “talk” and “view history” pages of a Wikipedia article](/assets/images/wikipedia/wp-talk-viewhistory.jpg "How to access talk and view history pages of a Wikipedia article")
+![How to access “talk” and “view history” pages of a Wikipedia article](/assets/images/wikipedia-historical-source/wp-talk-viewhistory.jpg "How to access talk and view history pages of a Wikipedia article")
 
 On the “talk page”, users can find all the archived discussions about edits made to the given entry over time. This space also shows all the discussions and debates between Wikipedia users about the entry. Users often challenge information in the Wikipedia entry, expressing their disagreement and making suggestions for the page. Other users then reply, and the “talk” page becomes a discussion page. The “view history” page includes logs of all the changes (without the discussion) and copies of older versions of the articles. This kind of information can help historians apply the basic principles of traditional source criticism to identify how a source has been created and by whom. 
 
