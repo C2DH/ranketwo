@@ -18,7 +18,7 @@ Wikipedia does not exist only in the English language: there are 331 active lang
 
 <!-- briefing-student -->
 
-### ### 5.a Comparing Wikipedian perspectives on May 1968 in English and French | 60-120 mins
+### 5.a Comparing Wikipedian perspectives on May 1968 in English and French | 60-120 mins
 <!-- section-contents -->
 
 May ‘68 was a major event in the history of France and also in the broader context of the global social unrest and cultural revolutions of the late 1960s. For this reason, this sub-assignment focuses on the English language Wikipedia, which contains the most active registered users and covers more articles than other editions, and the French Wikipedia. The aim is to investigate the ways in which the Wikipedia interface encourages a specific way of presenting and displaying historical narratives across different language editions.
