@@ -26,7 +26,7 @@ components:
   small: animation
   medium: animation + 5 assignments
 cover:
-  url: 
+  url: assets/images/wikipedia-historical-source/avatar.jpg 
 order: 
 og:
   description: 
