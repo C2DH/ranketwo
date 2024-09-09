@@ -122,7 +122,8 @@ Then & Now. “What is History? E.H. Carr.” YouTube video. 09:54 minutes. 10 O
 
 “Zachary Schrag on History.” YouTube video. 40:44 minutes. 27 April 2021. Extract from 1:40 to 7:23: “History as the study of people” [https://www.youtube.com/watch?v=YVDkShUW6oM&t=100s](https://www.youtube.com/watch?v=YVDkShUW6oM&t=100s)
 
-“What is History?” *History Today* 70(8), August 2020 https://www.historytoday.com/archive/head-head/what-history 
+“What is History?” *History Today* 70(8), August 2020 https://www.historytoday.com/archive/head-head/what-history  
+
 *On the notion of sources in history, in case you need help with sub-assignment 2.d*
 
 “Primary and secondary sources explained.” *History Skills* https://www.historyskills.com/. [https://www.historyskills.com/source-criticism/analysis/source-kind-and-type/](https://www.historyskills.com/source-criticism/analysis/source-kind-and-type/)
