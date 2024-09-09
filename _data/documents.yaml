@@ -1912,3 +1912,14 @@
         title:
             en_us: 'History Students Social Media Log Comparison'
     attachment: '/assets/pdf/social-media-historians/history-students-social-media-log-comparison.pdf'
+-
+    title: 'The History of Wikipedia (in two minutes)'
+    slug: history-of-wikipedia
+    type: video
+    data:
+        embed:
+            thumbnail_url: 'https://i.ytimg.com/vi/oVFPW0r4jWk/hqdefault.jpg'
+            author_name: "Justin Franco"
+            duration: 167
+        year: 3 December 2009
+    url: https://youtu.be/oVFPW0r4jWk

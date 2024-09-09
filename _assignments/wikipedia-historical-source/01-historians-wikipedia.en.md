@@ -5,6 +5,7 @@ lang: en
 title: "Why should historians be interested in Wikipedia?"
 cover:
 documents:
+  - history-of-wikipedia
 tags:
 outcomes: 
   - Understand why the creation and popularisation of Wikipedia matter for historians 
@@ -23,7 +24,7 @@ In 2000, the United States based entrepreneur, [Jimmy Wales](https://en.wikipedi
 
 To explore how a new encyclopedia model was born in the Internet era, please watch the following YouTube video: 
 
-> Justin Franco. “The History of Wikipedia (in two minutes).” YouTube video, 02:47 minutes. 3 December 2009, [https://youtu.be/oVFPW0r4jWk](https://youtu.be/oVFPW0r4jWk). 
+[card](history-of-wikipedia)
 
 To better understand how and why Wikipedia was created and what new characteristics it brought in terms of knowledge production, please watch the YouTube video below, in which you will find a presentation of Wikipedia by its founder, Jimmy Wales, from 2007.
 
