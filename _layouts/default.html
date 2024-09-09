@@ -71,7 +71,7 @@
     <link href="{{ '/pagefind/pagefind-ui.css' | relative_url }}" rel="stylesheet" />
     <script src="{{ '/pagefind/pagefind-ui.js' | relative_url }}"></script>
   </head>
-  <body data-pagefind-filter="layout[class]" class="{{page.layout}}" lang="{{page.lang}}" 
+  <body data-pagefind-filter="layout[class]" class="{{page.layout}} {{page.unit_id}}" lang="{{page.lang}}" 
     {% if add_to_search_index == "yes"%} data-pagefind-body {% endif %}>
     {% include nav.html %} {% include nav.mobile.html %} {{content}} 
     
