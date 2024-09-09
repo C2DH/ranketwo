@@ -79,4 +79,5 @@ Available at: [https://christianpentzold.de/wp-content/uploads/2012/11/Memory-St
 
 Phillips, Murray G. 2015. “Wikipedia and History: A Worthwhile Partnership in the Digital Era?” *Rethinking History* 20 (4): 523–43. doi:10.1080/13642529.2015.1091566. Available at: [https://core.ac.uk/download/pdf/43380919.pdf](https://core.ac.uk/download/pdf/43380919.pdf) 
 
-<!-- briefing-student -->
+<!-- briefing-teacher -->
+

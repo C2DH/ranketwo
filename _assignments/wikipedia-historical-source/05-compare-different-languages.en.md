@@ -49,4 +49,5 @@ Vrandečić, Denny. “Collaborating on the Sum of All Knowledge Across Language
 
 Fichman, Pnina, and Noriko Hara. _Global Wikipedia: International and Cross-Cultural Issues in Online Collaboration_. Lanham: Rowman et Littlefield, 2014
 
-<!-- briefing-student -->
+<!-- briefing-teacher -->
+

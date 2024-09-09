@@ -82,4 +82,4 @@ Wikimedia Foundation. “On Wikipedia, facts matter”. YouTube video, 03:45 min
 Hocquet, Alexandre. “No, Wikipedia didn’t get Oscar-winning actress Olivia Colman’s birthdate wrong”. *The Conversation*. 14 February 2019. [https://theconversation.com/no-wikipedia-didnt-get-oscar-winning-actress-olivia-colmans-birthdate-wrong-111848](https://theconversation.com/no-wikipedia-didnt-get-oscar-winning-actress-olivia-colmans-birthdate-wrong-111848)
 
 
-<!-- briefing-student -->
+<!-- briefing-teacher -->

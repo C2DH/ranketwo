@@ -45,6 +45,6 @@ Then think critically and try to answer the following questions:
 Brown, Jeremy and Benedicte Melanie Olsen. “Teaching Tiananmen: Using Wikipedia in the Undergraduate Classroom to Learn How to Write about Recent History.” *Perspectives on History*, 1 April 2012 [https://www.historians.org/perspectives-article/teaching-tiananmen-using-wikipedia-in-the-undergraduate-classroom-to-learn-how-to-write-about-recent-history-april-2012/](https://www.historians.org/perspectives-article/teaching-tiananmen-using-wikipedia-in-the-undergraduate-classroom-to-learn-how-to-write-about-recent-history-april-2012/)
 
 
-<!-- briefing-student -->
+<!-- briefing-teacher -->
 
   

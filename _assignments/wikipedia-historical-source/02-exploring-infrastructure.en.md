@@ -128,4 +128,5 @@ Then & Now. “What is History? E.H. Carr.” YouTube video. 09:54 minutes. 10 O
 “Primary and secondary sources explained.” *History Skills* https://www.historyskills.com/. [https://www.historyskills.com/source-criticism/analysis/source-kind-and-type/](https://www.historyskills.com/source-criticism/analysis/source-kind-and-type/)
 
 
-<!-- briefing-student -->
+<!-- briefing-teacher -->
+
