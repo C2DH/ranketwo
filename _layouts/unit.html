@@ -40,7 +40,10 @@ include captures/cover_url %}
       {% if
       page.cover.url
       %}
-      style="background-size:cover;background-image:url({{cover_url}})"
+      style="background-size:cover;background-image:url({{cover_url}});
+            {% if page.cover.position %}
+              background-position-y:{{ page.cover.position }}
+            {% endif %}"
       {%
       endif
       %}
