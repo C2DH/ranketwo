@@ -7,6 +7,8 @@ cover:
 documents:
 tags:
 outcomes:
+  - web-social-media
+outcomes: "Understand the conditions in which social media can become sources for historical research"
 order: 1
 ---
 
@@ -100,7 +102,7 @@ Combining your own thoughts with those you have now seen from professional histo
 
 ### Reading/viewing suggestions
 <!-- section-contents -->
-University of Tartu. "How does the past become history?" History on screen. Last accessed December 06, 2022. [Website Link](https://ajalugu.haridusekraanil.ee/en/theoretical/time-together/how-does-the-past-form-the-history)
+University of Tartu. "How does the past become history?". *History on screen*. Last accessed December 06, 2022. [Website Link](https://ajalugu.haridusekraanil.ee/en/theoretical/time-together/how-does-the-past-form-the-history)
 
 
 

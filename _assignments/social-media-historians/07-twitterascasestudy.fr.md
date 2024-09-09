@@ -144,7 +144,7 @@ Burgess, Jean et Nancy K. Baym. *Twitter: A Biography*. New York&#x202F;: New Yo
 
 Muller, Caroline et Frédéric Clavert. «&#x202F;Une informalité bien ordonnée&#x202F;? La conversation académique sur Twitter&#x202F;», *Tracés* 21, 2021 DOI: [https://doi.org/10.4000/traces.13238](https://doi.org/10.4000/traces.13238)
 
-Zimmer Michael, «&#x202F;The Twitter Archive at the Library of Congress&#x202F;: Challenges for information practice and information policy&#x202F;», *First Monday* 20 (7), 21 juin 2015. En ligne: <http://firstmonday.org/ojs/index.php/fm/article/view/5619>.
+Zimmer, Michael. «&#x202F;The Twitter Archive at the Library of Congress&#x202F;: Challenges for information practice and information policy&#x202F;», *First Monday* 20 (7), 21 juin 2015. En ligne: <http://firstmonday.org/ojs/index.php/fm/article/view/5619>.
 
 <!-- section -->
 
