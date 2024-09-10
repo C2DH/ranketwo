@@ -11,10 +11,12 @@ mediatypes:
   - web-object
 lang: en
 ---
-<!-- more -->
 
 The lesson invites historians to adapt their critical approach to Wikipedia as a born-digital source for historical research. More specifically, it suggests ways to apply digital source criticism to Wikipedia’s infrastructure and content and to explore potential uses of Wikipedia for historians. The lesson proposes a short introductory video and a set of five assignments. No specific technical skills are required to complete the assignments, the only requirements being an internet connection and, ideally, knowledge of a second language (in addition to English) to complete the fifth assignment, which is based here on knowledge of English and French but can be adapted to other languages. 
 
+<!-- more -->
+
+### More about the lesson
 <!-- section-contents -->
 
 Wikipedia is a free, openly accessible online encyclopedia that is written and edited collaboratively by a global community of volunteers known as Wikipedians. It covers a wide range of topics and, as of July 2024, is available in 331 languages. Wikipedia constitutes an online repository of knowledge, including historical knowledge, with its own infrastructure, technology, policies and guidelines, and a community of people who constantly review and update its content. 
