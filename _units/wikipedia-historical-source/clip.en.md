@@ -1,5 +1,5 @@
 ---
-title: "Wikipedia as a Source of Historical Knowledge"
+title: "Wikipedia as a source of historical knowledge"
 type: clip
 lang: en
 parent: wikipedia-historical-source
@@ -9,6 +9,6 @@ iframe:
 
 {: .headsup}
 
-[Insert abstract] 
+A video animation offering a brief introduction to Wikipedia and explaining why historians should be interested in it.  
 
 <!-- more -->
