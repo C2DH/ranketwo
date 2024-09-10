@@ -7,6 +7,14 @@ div.page.unit {
   }
 }
 
+.Unit__caption {
+  color: white;
+}
+.Unit__caption a {
+  color: white;
+  border-bottom: 1px solid cyan;
+} 
+
 .ellipsis{
   max-width: 200px;
   text-overflow: ellipsis;
