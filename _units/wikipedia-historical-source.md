@@ -1,5 +1,5 @@
 ---
-title: "Wikipedia as a Source of Historical Knowledge. Suggestions for Applying Digital Source Criticism"
+title: "Wikipedia as a source of historical knowledge. Suggestions for applying digital source criticism"
 layout: unit
 date: 2024-02-06
 publication_date: 
@@ -33,4 +33,4 @@ og:
   description: 
 ---
 
-A lesson on Wikipedia considered from the perspective of a digital-born source and suggesting ways to apply digital source criticism.  
+ A lesson on Wikipedia as a born-digital source and suggestions on how to apply digital source criticism to it.
