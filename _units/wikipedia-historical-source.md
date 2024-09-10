@@ -28,7 +28,7 @@ components:
 cover:
   url: assets/images/wikipedia-historical-source/avatar.jpg 
   position: center
-  caption: "[Luis Alvaz. Creation process of the second mural for the celebration of the 20th anniversary of Wikipedia in Spanish. 16 May 2021)](https://commons.wikimedia.org/wiki/File:Proceso_de_creaci%C3%B3n_del_segundo_mural_Wikipedia_20_en_Aguascalientes_38.jpg)"
+  caption: "Source: [Luis Alvaz. Creation process of the second mural for the celebration of the 20th anniversary of Wikipedia in Spanish. 16 May 2021)](https://commons.wikimedia.org/wiki/File:Proceso_de_creaci%C3%B3n_del_segundo_mural_Wikipedia_20_en_Aguascalientes_38.jpg)"
 order: 
 og:
   description: 
