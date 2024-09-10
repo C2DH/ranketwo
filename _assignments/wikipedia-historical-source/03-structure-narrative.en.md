@@ -21,7 +21,7 @@ Wikipedia articles include historical narratives about the past. In other words,
 ### 3.a Deconstructing a Wikipedian narrative on a historical event | 60 mins
 <!-- section-contents -->
 
-Browse the article on the [September 11 attacks](https://en.wikipedia.org/wiki/September_11_attacks) in the English edition of Wikipedia, and focus on the following elements: 
+Browse the article on the [September 11 attacks](https://en.wikipedia.org/wiki/September_11_attacks){:target="_blank"}  in the English edition of Wikipedia, and focus on the following elements: 
 
 - How the historical narrative of the Wikipedia article is structured and how it differs from traditional historical narratives that you can find in a book or an article. 
 
@@ -42,7 +42,7 @@ Then think critically and try to answer the following questions:
 
 ### Reading/viewing suggestions
 <!-- section-contents --> 
-Brown, Jeremy and Benedicte Melanie Olsen. “Teaching Tiananmen: Using Wikipedia in the Undergraduate Classroom to Learn How to Write about Recent History.” *Perspectives on History*, 1 April 2012 [https://www.historians.org/perspectives-article/teaching-tiananmen-using-wikipedia-in-the-undergraduate-classroom-to-learn-how-to-write-about-recent-history-april-2012/](https://www.historians.org/perspectives-article/teaching-tiananmen-using-wikipedia-in-the-undergraduate-classroom-to-learn-how-to-write-about-recent-history-april-2012/)
+Brown, Jeremy and Benedicte Melanie Olsen. “Teaching Tiananmen: Using Wikipedia in the Undergraduate Classroom to Learn How to Write about Recent History.” *Perspectives on History*, 1 April 2012 [https://www.historians.org/perspectives-article/teaching-tiananmen-using-wikipedia-in-the-undergraduate-classroom-to-learn-how-to-write-about-recent-history-april-2012/](https://www.historians.org/perspectives-article/teaching-tiananmen-using-wikipedia-in-the-undergraduate-classroom-to-learn-how-to-write-about-recent-history-april-2012/){:target="_blank"} 
 
 
 <!-- briefing-teacher -->

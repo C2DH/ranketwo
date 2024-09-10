@@ -27,9 +27,9 @@ May ‘68 was a major event in the history of France and also in the broader con
  
 First, please read the historical narratives of the following two articles:
 
-[May 1968, in English language Wikipedia](https://en.wikipedia.org/wiki/May_68#:~:text=Beginning%20in%20May%201968%2C%20a,France%20came%20to%20a%20halt) – reading time: 20 minutes
+[May 1968, in English language Wikipedia](https://en.wikipedia.org/wiki/May_68#:~:text=Beginning%20in%20May%201968%2C%20a,France%20came%20to%20a%20halt){:target="_blank"} – reading time: 20 minutes
 
-[May 1968, in French language Wikipedia](https://fr.wikipedia.org/wiki/Mai_68) – reading time: 60 minutes
+[May 1968, in French language Wikipedia](https://fr.wikipedia.org/wiki/Mai_68){:target="_blank"} – reading time: 60 minutes
  
 After reading both articles, you will notice that even though they refer to the same historical event, the representation of May 1968 is not the same. The two articles have different structures, content and visual elements, and they use different bibliographical references.
 
@@ -45,7 +45,7 @@ Write a short text of 500 words with your findings and reflect on what they tell
 ### Reading/viewing suggestions
 <!-- section-contents --> 
 
-Vrandečić, Denny. “Collaborating on the Sum of All Knowledge Across Languages.” In _Wikipedia @20. Stories of an Incomplete Revolution_, edited by Joseph Reagle and Jackie Koerner. Massachusetts: MIT Press 2020, [https://wikipedia20.mitpress.mit.edu/pub/svu3uy1z/release/2](https://wikipedia20.mitpress.mit.edu/pub/svu3uy1z/release/2)
+Vrandečić, Denny. “Collaborating on the Sum of All Knowledge Across Languages.” In _Wikipedia @20. Stories of an Incomplete Revolution_, edited by Joseph Reagle and Jackie Koerner. Massachusetts: MIT Press 2020, [https://wikipedia20.mitpress.mit.edu/pub/svu3uy1z/release/2](https://wikipedia20.mitpress.mit.edu/pub/svu3uy1z/release/2){:target="_blank"}
 
 Fichman, Pnina, and Noriko Hara. _Global Wikipedia: International and Cross-Cultural Issues in Online Collaboration_. Lanham: Rowman et Littlefield, 2014
 
