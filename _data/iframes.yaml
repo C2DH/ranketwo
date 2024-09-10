@@ -153,3 +153,9 @@
     aspectratio: aspect-16-9
     thumbnail: "https://i.vimeocdn.com/video/857946968.jpg?mw=1920&mh=1080&q=70"
     src: "https://player.vimeo.com/video/392733729"
+
+    id: wikipedia-historical-source
+    type: vimeo
+    aspectratio: aspect-16-9
+    thumbnail: "https://i.vimeocdn.com/video/1924929085-f9abea7f741532cb78e18ff7ae40cb6d47ce90beb6157ad2201d53a30af12d27-d_900x506"
+    src: "https://player.vimeo.com/video/1007971147"
