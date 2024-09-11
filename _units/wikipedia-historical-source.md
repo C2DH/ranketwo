@@ -34,4 +34,4 @@ og:
   description: 
 ---
 
- A lesson on Wikipedia as a born-digital source for history and how to apply digital source criticism to it.
+ A lesson on Wikipedia as a born-digital source of history and how to apply digital source criticism to it.
