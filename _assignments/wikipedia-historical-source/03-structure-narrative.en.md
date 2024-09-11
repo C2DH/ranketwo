@@ -18,7 +18,7 @@ Wikipedia articles include historical narratives about the past. In other words,
 
 <!-- briefing-student -->
 
-### 3.a Deconstructing a Wikipedian narrative on a historical event | 60 mins
+### 3.a Deconstructing a Wikipedia narrative on a historical event | 60 mins
 <!-- section-contents -->
 
 Browse the article on the [September 11 attacks](https://en.wikipedia.org/wiki/September_11_attacks){:target="_blank"}  in the English edition of Wikipedia, and focus on the following elements: 
