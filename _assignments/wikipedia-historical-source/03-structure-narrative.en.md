@@ -42,7 +42,11 @@ Then think critically and try to answer the following questions:
 
 ### Reading/viewing suggestions
 <!-- section-contents --> 
-Brown, Jeremy and Benedicte Melanie Olsen. “Teaching Tiananmen: Using Wikipedia in the Undergraduate Classroom to Learn How to Write about Recent History.” *Perspectives on History*, 1 April 2012 [https://www.historians.org/perspectives-article/teaching-tiananmen-using-wikipedia-in-the-undergraduate-classroom-to-learn-how-to-write-about-recent-history-april-2012/](https://www.historians.org/perspectives-article/teaching-tiananmen-using-wikipedia-in-the-undergraduate-classroom-to-learn-how-to-write-about-recent-history-april-2012/){:target="_blank"} 
+Brown, Jeremy and Benedicte Melanie Olsen. “Teaching Tiananmen: Using Wikipedia in the Undergraduate Classroom to Learn How to Write about Recent History.” *Perspectives on History*, 1 April 2012 [https://www.historians.org/perspectives-article/teaching-tiananmen-using-wikipedia-in-the-undergraduate-classroom-to-learn-how-to-write-about-recent-history-april-2012/](https://www.historians.org/perspectives-article/teaching-tiananmen-using-wikipedia-in-the-undergraduate-classroom-to-learn-how-to-write-about-recent-history-april-2012/){:target="_blank"}
+
+Saxton, Martha. “Wikipedia and Women’s History: A Classroom Experience.” In *Writing History in the Digital Age*, edited by Jack Dougherty and Kristen Nawrotzki. University of Michigan Press, 2013. [https://www.jstor.org/stable/j.ctv65sx57.12](https://www.jstor.org/stable/j.ctv65sx57.12).
+
+Seligman, Amanda. “Teaching Wikipedia without Apologies” in *Writing History in the Digital Age*, edited by Jack Dougherty and Kristen Nawrotzki. University of Michigan Press, 2013. [https://www.jstor.org/stable/j.ctv65sx57.15](https://www.jstor.org/stable/j.ctv65sx57.15) 
 
 
 <!-- briefing-teacher -->
