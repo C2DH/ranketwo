@@ -108,13 +108,8 @@ Apostolopoulos, Petros. “Discussing the Past: The Production of Historical Kno
 
 Reagle, Joseph. *Good Faith Collaboration: The Culture of Wikipedia*. Massachusetts: The MIT Press, 2010. Available at: [https://direct.mit.edu/books/book/5341/Good-Faith-CollaborationThe-Culture-of-Wikipedia](https://direct.mit.edu/books/book/5341/Good-Faith-CollaborationThe-Culture-of-Wikipedia){:target="_blank"} (Chapters 3, 4, 6 & Conclusion)
 
-Kumar, Shivam. “How Wikipedia Is Served to You: A Complex Web of Open Source and Caching.” *Medium Stackademic*. 20 October 2023 (4-minute read)
-[https://web.archive.org/web/20240724144051/https://blog.stackademic.com/how-wikipedia-is-served-to-you-a-complex-web-of-open-source-and-caching-96cd30176cce](https://web.archive.org/web/20240724144051/https://blog.stackademic.com/how-wikipedia-is-served-to-you-a-complex-web-of-open-source-and-caching-96cd30176cce){:target="_blank"}
-
-
-*On academic historical research*
-
-Schrag, Zachary M. *The Princeton Guide to Historical Research*. Princeton/Oxford: Princeton University Press, 2021
+<!--Kumar, Shivam. “How Wikipedia Is Served to You: A Complex Web of Open Source and Caching.” *Medium Stackademic*. 20 October 2023 (4-minute read)
+[https://web.archive.org/web/20240724144051/https://blog.stackademic.com/how-wikipedia-is-served-to-you-a-complex-web-of-open-source-and-caching-96cd30176cce](https://web.archive.org/web/20240724144051/https://blog.stackademic.com/how-wikipedia-is-served-to-you-a-complex-web-of-open-source-and-caching-96cd30176cce){:target="_blank"}-->
 
 *On definitions of history by academic historians, in case you need help with sub-assignment 2.c*
 
@@ -122,7 +117,7 @@ Then & Now. “What is History? E.H. Carr.” YouTube video. 09:54 minutes. 10 O
 
 “Zachary Schrag on History.” YouTube video. 40:44 minutes. 27 April 2021. Extract from 1:40 to 7:23: “History as the study of people” [https://www.youtube.com/watch?v=YVDkShUW6oM&t=100s](https://www.youtube.com/watch?v=YVDkShUW6oM&t=100s){:target="_blank"}
 
-“What is History?” *History Today* 70(8), August 2020 [https://www.historytoday.com/archive/head-head/what-history](https://www.historytoday.com/archive/head-head/what-history){:target="_blank"}  
+<!--“What is History?” *History Today* 70(8), August 2020 [https://www.historytoday.com/archive/head-head/what-history](https://www.historytoday.com/archive/head-head/what-history){:target="_blank"}-->  
 
 *On the notion of sources in history, in case you need help with sub-assignment 2.d*
 
