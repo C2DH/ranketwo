@@ -188,6 +188,15 @@
     }
   }
 
+  &.clip, &.workshop {
+    a:not(.component--size) {
+      color: white;
+
+      &:hover {
+        color: magenta;
+      }
+    }
+  }
 
   &.assignments {
     background-color: transparent;
