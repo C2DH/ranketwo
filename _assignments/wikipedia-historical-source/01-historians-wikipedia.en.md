@@ -7,6 +7,7 @@ cover:
 documents:
   - history-of-wikipedia
   - jimmy-wales
+  - wikipedia-history-historians
 tags:
 outcomes: 
   - Understand why the creation and popularisation of Wikipedia matter for historians 
@@ -59,7 +60,8 @@ Based on your personal experience with Wikipedia, try to answer the questions be
 
 Now watch this video where the US historian [Jim Grossman](https://www.historians.org/person/jim-grossman/){:target="_blank"} evokes different possible uses of Wikipedia by historians: 
 
-Intelligent Channel. [“Wikipedia, history, and historians – Jim Grossman in INT’s ENLIGHTENMENT MINUTES.”](https://youtu.be/S-Yj7V6d54Q){:target="_blank"} YouTube video. 4:32 mins.   
+[card](wikipedia-history-historians)
+<!-- Intelligent Channel. [“Wikipedia, history, and historians – Jim Grossman in INT’s ENLIGHTENMENT MINUTES.”](https://youtu.be/S-Yj7V6d54Q){:target="_blank"} YouTube video. 4:32 mins.-->   
 
 Once you have watched the video, discuss and try to answer the following questions, again based on your knowledge about Wikipedia and your personal experience:
 - In what ways can historians use Wikipedia? 

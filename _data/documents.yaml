@@ -1934,3 +1934,14 @@
             duration: 167
         year: 16 January 2007
     url: https://youtu.be/WQR0gx0QBZ4
+-
+    title: 'Wikipedia, history, and historians'
+    slug: wikipedia-history-historians
+    type: video
+    data:
+        embed:
+            thumbnail_url: 'https://i.ytimg.com/vi/S-Yj7V6d54Q/hqdefault.jpg'
+            author_name: "Intelligent Channel"
+            duration: 167
+        year: 21 December 2013
+    url: https://youtu.be/S-Yj7V6d54Q
