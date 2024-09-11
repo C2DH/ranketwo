@@ -77,10 +77,6 @@ Reagle, Joseph. *Good Faith Collaboration: The Culture of Wikipedia*. Massachuse
 
 Rosenzweig, Roy. “Can History Be Open Source?” *The Journal of American History* 93 (1) (June 2006): 117-46 [https://rrchnm.org/essays/can-history-be-open-source-wikipedia-and-the-future-of-the-past/](https://rrchnm.org/essays/can-history-be-open-source-wikipedia-and-the-future-of-the-past/){:target="_blank"}
 
-*On the creation of Wikipedia, the aborted project of Nupedia and the importance of wiki technology:*
-
-Franco, Justin. “The History of Wikipedia (in two minutes).” YouTube video, 02:47 minutes. 3 December 2009, [https://youtu.be/oVFPW0r4jWk](https://youtu.be/oVFPW0r4jWk){:target="_blank"}
-
 *On the reliability and verifiability of Wikipedia and community engagement in fact-checking:* 
 
 Wikimedia Foundation. “On Wikipedia, facts matter”. YouTube video, 03:45 minutes. 22 December 2016, [https://youtu.be/xQ4ba28-oGs](https://youtu.be/xQ4ba28-oGs){:target="_blank"} 
