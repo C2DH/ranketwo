@@ -6,6 +6,7 @@ title: "Why should historians be interested in Wikipedia?"
 cover:
 documents:
   - history-of-wikipedia
+  - jimmy-wales
 tags:
 outcomes: 
   - Understand why the creation and popularisation of Wikipedia matter for historians 
@@ -28,7 +29,8 @@ To explore how a new encyclopedia model was born in the Internet era, please wat
 
 To better understand how and why Wikipedia was created and what new characteristics it brought in terms of knowledge production, please watch the YouTube video below, in which you will find a presentation of Wikipedia by its founder, Jimmy Wales, from 2007.
 
-> “Jimmy Wales: how a ragtag band created Wikipedia.” YouTube video. 20:48 minutes [https://youtu.be/WQR0gx0QBZ4](https://youtu.be/WQR0gx0QBZ4){:target="_blank"}.
+[card](jimmy-wales)
+<!-- > “Jimmy Wales: how a ragtag band created Wikipedia.” YouTube video. 20:48 minutes [https://youtu.be/WQR0gx0QBZ4](https://youtu.be/WQR0gx0QBZ4){:target="_blank"}.--> 
  
 
 Once you have watched the videos, try to answer the following questions and discuss your answers with your fellow students:
