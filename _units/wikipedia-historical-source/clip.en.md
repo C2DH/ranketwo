@@ -9,6 +9,8 @@ iframe: wikipedia-historical-source
 
 {: .headsup}
 
-A video animation offering a brief introduction to Wikipedia and explaining why historians should be interested in it.  
+A video animation offering a brief introduction to Wikipedia and explaining why historians should be interested in it.
+
+Created by [Gorille](https://www.gorille.co/)  
 
 <!-- more -->
