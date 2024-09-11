@@ -1923,3 +1923,14 @@
             duration: 167
         year: 3 December 2009
     url: https://youtu.be/oVFPW0r4jWk
+-
+    title: 'Jimmy Wales: how a ragtag band created Wikipedia'
+    slug: jimmy-wales
+    type: video
+    data:
+        embed:
+            thumbnail_url: 'https://i.ytimg.com/vi/WQR0gx0QBZ4/hqdefault.jpg'
+            author_name: "TED"
+            duration: 167
+        year: 16 January 2007
+    url: https://youtu.be/WQR0gx0QBZ4
