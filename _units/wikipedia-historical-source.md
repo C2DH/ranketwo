@@ -1,8 +1,8 @@
 ---
 title: "Wikipedia as a source of historical knowledge: applying digital source criticism"
 layout: unit
-date: 2024-02-06
-publication_date: 
+date: 2024-09-13
+publication_date: 2024-09-13 
 toc: on
 research-phase: hermeneutics
 activities: 
