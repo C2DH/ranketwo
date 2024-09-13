@@ -74,10 +74,14 @@ Apostolopoulos, Petros. “Discussing the Past: The Production of Historical Kno
 
 Ford, Heather. _Writing the Revolution. Wikipedia and the Survival of Facts in the Digital Age_. Cambridge, Massachusetts and London, England: MIT Press, 2022. (Chapters 2, 3 & 4)
 
+Niederer, Sabine and José van Dijck. “Wisdom of the Crowd or technicity of the content? Wikipedia as a sociotechnical system.” _New media & Society_ 12(8) (2010): 1368-1387. A copy of the article is available at [https://www.researchgate.net/publication/249689493_Wisdom_of_the_Crowd_or_Technicity_of_Content_Wikipedia_as_a_Sociotechnical_System](https://www.researchgate.net/publication/249689493_Wisdom_of_the_Crowd_or_Technicity_of_Content_Wikipedia_as_a_Sociotechnical_System)
+
 Pentzold, Christian. “Fixing the floating gap: The online encyclopaedia Wikipedia as a global memory place.” _Memory Studies_ 2, no. 2 (May 2009): 255-272. DOI: https://doi.org/10.1177/1750698008102055 
 Available at: [https://christianpentzold.de/wp-content/uploads/2012/11/Memory-Studies-Pentzold.pdf](https://christianpentzold.de/wp-content/uploads/2012/11/Memory-Studies-Pentzold.pdf){:target="_blank"} 
 
-Phillips, Murray G. 2015. “Wikipedia and History: A Worthwhile Partnership in the Digital Era?” *Rethinking History* 20 (4): 523–43. doi:10.1080/13642529.2015.1091566. Available at: [https://core.ac.uk/download/pdf/43380919.pdf](https://core.ac.uk/download/pdf/43380919.pdf){:target="_blank"}  
+
+
+<!--Phillips, Murray G. 2015. “Wikipedia and History: A Worthwhile Partnership in the Digital Era?” *Rethinking History* 20 (4): 523–43. doi:10.1080/13642529.2015.1091566. Available at: [https://core.ac.uk/download/pdf/43380919.pdf](https://core.ac.uk/download/pdf/43380919.pdf){:target="_blank"}-->  
 
 <!-- briefing-teacher -->
 
