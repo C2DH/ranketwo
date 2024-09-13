@@ -1912,3 +1912,36 @@
         title:
             en_us: 'History Students Social Media Log Comparison'
     attachment: '/assets/pdf/social-media-historians/history-students-social-media-log-comparison.pdf'
+-
+    title: 'The History of Wikipedia (in two minutes)'
+    slug: history-of-wikipedia
+    type: video
+    data:
+        embed:
+            thumbnail_url: 'https://i.ytimg.com/vi/oVFPW0r4jWk/hqdefault.jpg'
+            author_name: "Justin Franco"
+            duration: 167
+        year: 3 December 2009
+    url: https://youtu.be/oVFPW0r4jWk
+-
+    title: 'Jimmy Wales: how a ragtag band created Wikipedia'
+    slug: jimmy-wales
+    type: video
+    data:
+        embed:
+            thumbnail_url: 'https://i.ytimg.com/vi/WQR0gx0QBZ4/hqdefault.jpg'
+            author_name: "TED"
+            duration: 167
+        year: 16 January 2007
+    url: https://youtu.be/WQR0gx0QBZ4
+-
+    title: 'Wikipedia, history, and historians'
+    slug: wikipedia-history-historians
+    type: video
+    data:
+        embed:
+            thumbnail_url: 'https://i.ytimg.com/vi/S-Yj7V6d54Q/hqdefault.jpg'
+            author_name: "Intelligent Channel"
+            duration: 167
+        year: 21 December 2013
+    url: https://youtu.be/S-Yj7V6d54Q

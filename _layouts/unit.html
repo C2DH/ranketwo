@@ -37,17 +37,16 @@ include captures/cover_url %}
   >
     <div data-pagefind-meta="image[style]"
       class="slide-background"
-      {% if
-      page.cover.url
-      %}
-      style="background-size:cover;background-image:url({{cover_url}})"
-      {%
-      endif
-      %}
+      {% if page.cover.url %}
+      style="background-size:cover;background-image:url({{cover_url}});
+            {% if page.cover.position %}
+              background-position-y:{{ page.cover.position }}
+            {% endif %}"
+      {% endif %}
     ></div>
     <div class="slide" style="display: block; opacity: 1">
       <div class="overlay"></div>
-      <div class="overlay-dotted"></div>
+      <div class="overlay-filled"></div>
     </div>
   </div>
   <div class="container">
@@ -94,6 +93,13 @@ include captures/cover_url %}
                 {% endfor %}
               </p>
             {% endif %}
+            {% if page.reviewers %}
+              <p>
+                {% assign key='reviewers' %}{% include t.html %}
+                {% for author_slug in page.reviewers %} {% include author.html %}
+                {% endfor %}
+              </p>
+            {% endif %}
           </section>
 
           {% unless assignments.size == 0 %}
@@ -104,6 +110,11 @@ include captures/cover_url %}
         </div>
       </div>
     </div>
+    {% if page.cover.caption %}
+    <div class="row Unit__caption">
+      <div class=" col-sm-8 "><small>{{page.cover.caption | markdownify}}</small></div>
+    </div>
+    {% endif %}
   </div>
 </div>
 <div class="bt-glitch-2"></div>

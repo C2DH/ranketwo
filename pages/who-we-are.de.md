@@ -47,6 +47,8 @@ Marvin Schieben (2018) <br>
 
 ## Video-Animationen
 
+**[Gorille](https://www.gorille.co/){:target="_blank"}** (2024 ->)
+
 **All Things Moving** <br> 
 Cristina Garcia Martin - Design und Entwicklung (2018-2021) <br> 
 Ioana Turla - Design und Entwicklung (2021) <br> 

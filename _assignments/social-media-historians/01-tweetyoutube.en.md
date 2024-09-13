@@ -6,6 +6,7 @@ title: 'When does a Tweet or YouTube clip become "historical"?'
 cover:
 documents:
 tags:
+outcomes:
   - web-social-media
 outcomes: "Understand the conditions in which social media can become sources for historical research"
 order: 1
