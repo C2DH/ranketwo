@@ -25,14 +25,14 @@ Yet the task of archiving the entire web is not an easy one. The explosive growt
 
 ### 3.a Challenges and limits of preservation: The example of the Luxembourg Web Archive
 <!-- section-contents -->
-In this sub-assignment, the [Luxembourg Web Archive (LWA)](https://www.webarchive.lu/){:target='_blank'}) managed by the BnL will be explored to identify the benefits, limitations and challenges of web archiving.
+In this sub-assignment, the [Luxembourg Web Archive (LWA)](https://www.webarchive.lu/){:target='_blank'} managed by the BnL will be explored to identify the benefits, limitations and challenges of web archiving.
 Web archivists have the task of defining the parameters and criteria for their digital collection of web pages. They have to decide which types of sites they should archive (i.e. government sites, news agency sites, museum sites, personal blogs, etc.), how many times a year snapshots should be taken, and how this content can be made accessible to their audience.
 
 {:style='text-align: center'}
 ![lux-web](/../../assets/images/lux-web.png "lux-web")
 
 Imagine that you work at the National Library of Luxembourg and your job is to help select and collect all the relevant information on the web that pertains to the Grand Duchy of Luxembourg. Now imagine that a secondary school student wants to understand how the LWA works and has asked you to help explain it to her.
-Using the information found on the [main page of the Luxembourg Web Archive](https://www.webarchive.lu/){:target='_blank'}), its [FAQ section](https://www.webarchive.lu/faq/){:target='_blank'}) and the [“How it Works” page](https://www.webarchive.lu/how-it-works/){:target='_blank'}), answer the following questions that are posed by this imaginary secondary school student:
+Using the information found on the [main page of the Luxembourg Web Archive](https://www.webarchive.lu/){:target='_blank'}, its [FAQ section](https://www.webarchive.lu/faq/){:target='_blank'} and the [“How it Works” page](https://www.webarchive.lu/how-it-works/){:target='_blank'}, answer the following questions that are posed by this imaginary secondary school student:
 
 {:style='margin: 1rem auto; max-width: 400px'}
 [![How it Works](https://image.thum.io/get/https://www.webarchive.lu/how-it-works/ "How it Works")](https://www.webarchive.lu/how-it-works/){:target='_blank'}
@@ -55,9 +55,11 @@ Using the information found on the [main page of the Luxembourg Web Archive](htt
 
 The example of the LWA in assignment 3.a shows the contradiction between the principle of openness and the limits of institutions in sustaining an open system when they also have to take into account the rights of copyright holders. Because of the latter, we do not have online access to the information within the LWA, as it can only be used within certain library premises. However, we are lucky that some of the content in the LWA is also available online through the Internet Archive’s Wayback Machine (WM). As such, this lesson makes use of the Wayback Machine, rather than the LWA, for the next sub-assignment on archived Luxembourgish web content. The BnL has a contract with IA to crawl the Luxembourgish web, meaning that they offer the same content, but the BnL offers some complementary tools to explore the collections.
 
-Download the teaching aid for working with the interface of the Wayback Machine from; url
+Download the [teaching aid for working with the interface of the Wayback Machine](/assets/pdf/wayback-machine-interface.pdf){:target='_blank'}.
 
-Go to the Internet Archive’s [Wayback Machine](https://web.archive.org/){:target='_blank'}), copy and paste the URL www.luxembourg.lu and press the “Enter” key. You should arrive on the page <https://web.archive.org/web/*/www.luxembourg.lu>{:target='_blank'}.
+
+
+Go to the Internet Archive’s [Wayback Machine](https://web.archive.org/){:target='_blank'}, copy and paste the URL www.luxembourg.lu and press the “Enter” key. You should arrive on the page <https://web.archive.org/web/*/www.luxembourg.lu>{:target='_blank'}.
 Referring to the WM interface user guide, answer the following questions:
 
 -	Select two elements on this page that provide information about how the Internet Archive has archived the web page that corresponds to this specific URL.
@@ -102,13 +104,12 @@ Based on these three archived snapshots from 1996, 2003 and the last five years,
 ### Reading/viewing suggestions
 <!-- section-contents -->
 
--	Nielsen, Janne. *Using Web Archives in Research: An Introduction*. Aarhus: NetLab, 2016. [E-book](http://www.netlab.dk/wp-content/uploads/2016/10/Nielsen_Using_Web_Archives_in_Research.pdf)
-{:target='_blank'}
+-	Nielsen, Janne. *Using Web Archives in Research: An Introduction*. Aarhus: NetLab, 2016. [E-book](https://dighumlab.org/wp-content/uploads/2017/06/Nielsen_Using_Web_Archives_in_Research.pdf){:target='_blank'}
 -	Brügger, Niels, and Ralph Schroeder, eds. *The Web as History: Using Web Archives to Understand the Past and the Present.* London: UCL Press, 2017. [E-book](https://discovery.ucl.ac.uk/id/eprint/1542998/1/The-Web-as-History.pdf){:target='_blank'}
 -	Huss, Nick. “How Many Websites Are There Around The World?” Sateefy. Last modified November 27, 2022. [Website](https://siteefy.com/how-many-websites-are-there/){:target='_blank'}
--	Potter, Abby. "Why Archive The Web." IIPC. October 18. 2012. Video, 2:53. [Youtube Video](https://www.youtube.com/watch?v=pU32rjTaMFE{:target='_blank'})
+-	Potter, Abby. "Why Archive The Web." IIPC. October 18. 2012. Video, 2:53. [Youtube Video](https://www.youtube.com/watch?v=pU32rjTaMFE){:target='_blank'}
 -	Library of Congress. “Web Archiving.” November 30, 2009. Video, 3:10. [Youtube Video](https://www.youtube.com/watch?v=T0943YkhLWU>{:target='_blank'})
--	World Wide Web Size research project measuring the size of the indexed web by Tilburg University (updated on a daily basis) (<https://www.worldwidewebsize.com/>{:target='_blank'})
+-	World Wide Web Size research project measuring the size of the indexed web by Tilburg University (updated on a daily basis) [https://www.worldwidewebsize.com/](https://www.worldwidewebsize.com/){:target='_blank'}
 
 
 <!-- briefing-teacher -->
