@@ -32,7 +32,7 @@ Web archivists have the task of defining the parameters and criteria for their d
 ![lux-web](/../../assets/images/lux-web.png "lux-web")
 
 Imagine that you work at the National Library of Luxembourg and your job is to help select and collect all the relevant information on the web that pertains to the Grand Duchy of Luxembourg. Now imagine that a secondary school student wants to understand how the LWA works and has asked you to help explain it to her.
-Using the information found on the [main page of the Luxembourg Web Archive](https://www.webarchive.lu/){:target='_blank'}, its [FAQ section](https://www.webarchive.lu/faq/){:target='_blank'}) and the [“How it Works” page](https://www.webarchive.lu/how-it-works/){:target='_blank'}, answer the following questions that are posed by this imaginary secondary school student:
+Using the information found on the [main page of the Luxembourg Web Archive](https://www.webarchive.lu/){:target='_blank'}, its [FAQ section](https://www.webarchive.lu/faq/){:target='_blank'} and the [“How it Works” page](https://www.webarchive.lu/how-it-works/){:target='_blank'}, answer the following questions that are posed by this imaginary secondary school student:
 
 {:style='margin: 1rem auto; max-width: 400px'}
 [![How it Works](https://image.thum.io/get/https://www.webarchive.lu/how-it-works/ "How it Works")](https://www.webarchive.lu/how-it-works/){:target='_blank'}
@@ -55,11 +55,11 @@ Using the information found on the [main page of the Luxembourg Web Archive](htt
 
 The example of the LWA in assignment 3.a shows the contradiction between the principle of openness and the limits of institutions in sustaining an open system when they also have to take into account the rights of copyright holders. Because of the latter, we do not have online access to the information within the LWA, as it can only be used within certain library premises. However, we are lucky that some of the content in the LWA is also available online through the Internet Archive’s Wayback Machine (WM). As such, this lesson makes use of the Wayback Machine, rather than the LWA, for the next sub-assignment on archived Luxembourgish web content. The BnL has a contract with IA to crawl the Luxembourgish web, meaning that they offer the same content, but the BnL offers some complementary tools to explore the collections.
 
-Download the [teaching aid for working with the interface of the Wayback Machine](/assets/pdf/wayback-machine-interface.pdf).
+Download the [teaching aid for working with the interface of the Wayback Machine](/assets/pdf/wayback-machine-interface.pdf){:target='_blank'}.
 
 
 
-Go to the Internet Archive’s [Wayback Machine](https://web.archive.org/){:target='_blank'}), copy and paste the URL www.luxembourg.lu and press the “Enter” key. You should arrive on the page <https://web.archive.org/web/*/www.luxembourg.lu>{:target='_blank'}.
+Go to the Internet Archive’s [Wayback Machine](https://web.archive.org/){:target='_blank'}, copy and paste the URL www.luxembourg.lu and press the “Enter” key. You should arrive on the page <https://web.archive.org/web/*/www.luxembourg.lu>{:target='_blank'}.
 Referring to the WM interface user guide, answer the following questions:
 
 -	Select two elements on this page that provide information about how the Internet Archive has archived the web page that corresponds to this specific URL.
