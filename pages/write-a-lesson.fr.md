@@ -10,16 +10,19 @@ output:
  
 ---
 
-Instructions pour écrire une leçon pour Ranke.2  
+Principes directeurs pour rédiger une leçon pour Ranke.2  
  
 <!-- more -->
 
-Below you will find some guiding principles for authors that we hope will help you plan a clear and effective lesson. The first section presents the general educational purpose of Ranke.2 lessons, their specific multilingual vocation, and their structure. We hope this will help authors to understand the general scope of the lessons and our expectations. The second section provides more specific instructions on how to plan the general layout of a lesson and anticipate multilingual outputs. The following section provides specific instructions on how to develop the content of a lesson. Finally, we explain the steps to take once you have finished writing a lesson.     
+Vous trouverez ci-dessous quelques principes directeurs destinés aux auteurs et autrices qui, nous l’espérons, vous aideront à préparer une leçon claire et efficace. La première section de cette page présente l’objectif pédagogique général des leçons publiées sur Ranke.2, leur vocation multilingue spécifique et leur structure. Nous espérons que ces éléments d'information aideront les auteurs et autrices à comprendre la portée générale des leçons ainsi que nos attentes. La deuxième section fournit des instructions plus spécifiques sur la façon de concevoir une leçon et d’anticiper sa traductabilité. La section suivante fournit des instructions spécifiques sur la façon d’élaborer le contenu d’une leçon. Enfin, nous vous expliquons les étapes à suivre une fois que vous avez fini d’écrire un cours.     
 
-## General scope of the lessons
+## Portée générale des leçons
     
-### Educational purpose
-The main purpose of the Ranke.2 educational resources is to offer an introduction to the critical analysis of historical sources in the digital age (digital source criticism). Each lesson focuses on a specific type of historical source and its digital representation(s) – for example, diplomatic correspondence in electronic form or digitised oral history testimonies. The lessons are intended to be used either for self-learning or in the classroom and the target audience is beginners.
+### Objectif pédagogique
+La raison d'être des ressources éducatives publiées sur Ranke.2 est de constituer une introduction à l’analyse critique des sources historiques à l’ère numérique (critique des sources numériques). Chaque leçon se concentre sur un type spécifique de source historique et sa ou ses représentations numériques, par exemple les correspondances diplomatiques sous forme électronique ou les témoignages d’histoire orale numérisés. Les leçons sont destinées à être utilisées soit en auto-apprentissage, soit en classe. Le public cible est celui des débutants.
+
+Les modules [comprennent une courte animation vidéo et la leçon principale] (https://ranke2.uni.lu/fr/about-lessons/), avec une série d'exercices permettant d’approfondir le sujet sélectionné. L’animation vidéo relève principalement de **notre responsabilité**, même si nous pouvons avoir besoin de [votre aide] (#rédiger-une-description), principalement pour nous assurer que le résultat reflète l’esprit de votre démarche. Le cours principal et les exercices sont **votre principale responsabilité**. Vous souhaiterez peut-être utiliser notre [document pour enseigner la critique des sources numériques] (https://ranke2.uni.lu/assets/pdf/C3.1-visual-aid-3.pdf) pour vous rappeler les questions que vous devez gardez à l’esprit, mais n’hésitez pas à construire votre cours d’une manière qui vous semble pertinente par rapport à votre sujet et aux aspects méthodologiques que vous souhaitez mettre en évidence. 
+
 
 The lessons [consist of a short video animation and the main lesson](https://ranke2.uni.lu/about-lessons/), with a series of assignments to dig deeper into the selected topic. The video animation is primarily **our responsibility**, although we may need [a little help from you](#write a description), mostly to ensure that the result reflects the spirit of your approach. The main lesson and the assignments are **your main responsibility**. You might want to use our [handout for teaching digital source criticism](https://ranke2.uni.lu/assets/pdf/C3.1-visual-aid-3.pdf) as a reminder of the questions you should be keeping in mind, but feel free to build your lesson in a way that you feel makes sense for your topic and the methodological aspects you wish to highlight. 
 
