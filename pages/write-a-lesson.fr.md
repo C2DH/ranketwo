@@ -31,7 +31,7 @@ Ranke.2 est disponible en trois langues&#x202F;: anglais, français et allemand.
 ## Concevoir votre leçon
 Concevoir et préparer une leçon peut être un véritable défi. C’est pourquoi nous fournissons ci-dessous quelques instructions qui, nous l’espérons, vous seront utiles. L’objectif est de produire un ressource claire et pédagogiquement efficace qui restera pertinente et utilisable au fil du temps. 
 
-### Sélectionner le sujet et définir les objectifs d'apprentissage
+### Sélectionner le sujet et définir les objectifs pédagogiques
 Identifiez le(s) type(s) de sources historiques dont traite votre leçon et sélectionnez soigneusement le sujet que vous souhaitez mettre en évidence. Vous pouvez également identifier la phase spécifique du processus de recherche historique sur laquelle se concentre votre leçon (recherche de sources, analyse, interprétation, dissémination ou préservation). Définir explicitement ces éléments fournit une base qui permet de clarifier les objectifs pédagogiques et d’élaborer des exercices pour les atteindre. Nous vous suggérons d’éviter de fixer plus de trois objectifs pédagogiques principaux pour des raisons de clarté et de cohérence. 
 
 Par exemple, la leçon intitulée [De l’étagère à la Toile&#x202F;: l’étude de la presse écrite à l’ère numérique](https://ranke2.uni.lu/fr/u/exploring-historical-newspapers/) se concentre sur une source historique&#x202F;: la presse pour explorer la manière dont sa numérisation en masse affecte la manière dont les historiens repèrent leurs sources et compilent des corpus de leurs matériaux de recherche. La leçon identifie donc les défis spécifiques que les historiens et historiennes doivent relever pendant la phase de recherche de sources. Les principaux objectifs d’apprentissage sont d’aider les historiens à appréhender le processus de numérisation et le fonctionnement des dispositifs numériques de recherche, et à comprendre comment gérer les différentes interfaces de recherche.    
@@ -48,23 +48,25 @@ Ranke.2 est disponible en trois langues (anglais, allemand, français). Des envi
  1. Les exemples de recherche et d’approche historiques que vous mettez en avant dans une leçon doivent se prêter à une portée et une perspective internationales. Cela facilite la recherche de points de contact entre les différentes langues et ressources disponibles. Les histoires connectées, l’histoire internationale ou transnationale et les domaines interdisciplinaires peuvent fournir des études de cas appropriées, bien qu’il puisse évidemment exister d’autres voies d'intérêt partagé.
  2. Les ressources pédagogiques de la leçon (données, outils, suggestions de lectures, images, etc.) doivent être flexibles afin de s’intégrer dans des contextes culturels plus larges ou d’être interchangeables avec les matériels didactiques disponibles dans différentes langues. Il est essentiel d’utiliser ce type de ressources pour démontrer votre point de vue, plutôt que d’organiser vos exercices autour de supports certes pédagogiquement pertinents dans un domaine mais pas nécessairement généralisables.
  3. Tous les environnements techniques que la leçon peut utiliser doivent fonctionner dans différents environnements linguistiques. Par exemple, la leçon sur les journaux historiques numérisés fait référence à une base de données de journaux en français, en allemand et en luxembourgeois, et les leçons sur les archives du web ou les entretiens effectués par David Boder utilisent des exemples à la fois internationaux et locaux.
- 4. Si vous connaissez des ressources alternatives (ensembles de données, suggestions de lectures et de vidéos, etc.) que nous pouvons utiliser lors de la traduction de votre leçon, n’hésitez pas à nous le faire savoir. 
+ 4. Si vous connaissez des ressources alternatives (jeux de données, suggestions de lectures et de vidéos, etc.) que nous pouvons utiliser lors de la traduction de votre leçon, n’hésitez pas à nous le faire savoir. 
 
 Nous savons bien sûr que tout n’est pas traduisible et nous n’avons pas l’intention d’exclure une leçon de grande valeur pédagogique pour ce seul motif. Cependant, nous vous saurions gré de tous les efforts que vous pourrez déployer au préalable pour élargir la portée et l’utilisabilité de votre leçon.
 
 ## Rédiger une leçon 
 
-Below we provide detailed advice on how to develop the content of your lesson.  
+Ci-dessous, nous fournissons des conseils détaillés sur la façon d’élaborer le contenu de votre leçon.  
 
-### Introduction
-Please provide an introduction that presents the type of sources you are dealing with, the topic and the main learning objectives that [you have carefully set while designing your lesson](#select-the-topic-and-set-the-learning-objectives). 
-Do not forget to mention the way in which the topic relates to traditional source criticism and how it is relevant in the digital age. Does your case highlight continuities in applying the historical method or changes resulting from the transformation from traditional source types to digital historical data? Does it raise specific questions? What does your case reveal about historical practice in the digital age?
+### Écrire une introduction
+Veuillez préparer une introduction qui présente le type de sources que vous utilisez, le sujet et les principaux objectifs pédagogiques que [vous avez soigneusement définis lors de la conception de votre leçon](#sélectionner-le-sujet-et-définir-les-objectifs-pédagogiques). 
 
-You should also outline the learning objectives and the knowledge and skills that learners will have gained after completing your lesson. Our lessons are aimed at beginners, so please do not assume that readers have an in-depth knowledge of your subject. If for any reason prior knowledge of tools and methods is required, please mention this.  
+N’oubliez pas de rendre explicite la manière dont le sujet se rapporte à la critique des sources traditionnelles et sa pertinence à l’ère numérique. Votre étude de cas met-elle en évidence des continuités dans l’application de la méthode historique&#x202F;? Constatez-vous d'éventuels changements dès lors que les sources se transforment en données historiques numériques&#x202F;? Cette transformation soulève-t-elle des questions spécifiques&#x202F;? Que révèle votre étude de cas sur la pratique historique à l’ère numérique&#x202F;?
 
-At the end of the introduction, you can briefly present the structure of the main lesson with the assignments, so that learners know what to expect. If your lesson builds on one or more of our existing resources (lessons, video animations, how-to tutorials), feel free to mention this and provide links. 
+Vous devez également décrire les objectifs d’apprentissage ainsi que les connaissances et les compétences que les apprenants auront acquises à l’issue de votre cours. Nos cours s’adressent aux débutants, alors ne présumez pas que les lecteurs ont une connaissance approfondie de votre sujet. Si, pour une raison quelconque, une connaissance préalable des outils et des méthodes est requise, veuillez le mentionner.  
 
-Ideally, the introduction should consist of three succinct paragraphs. 
+À la fin de l’introduction, vous pouvez brièvement présenter la structure du cours principal avec les exercices afin que les apprenants sachent à quoi s’attendre. Si votre cours s’appuie sur une ou plusieurs de nos ressources existantes (cours, animations vidéo, tutoriels pratiques), n’hésitez pas à le mentionner et à fournir des liens. 
+
+Dans l’idéal, l’introduction doit comprendre trois paragraphes succincts. 
+
 
 ### Assignments
 The assignments are the key part of your lesson, as they illustrate how you propose to apply the historical method to digital sources in practice. They should consist of a series of questions relating to historical context, method, technology, theory and reflection. 
@@ -77,6 +79,18 @@ Please avoid only providing a list of links and tasks and try to keep your audie
 
 If you propose using digital methods or tools, take some time to present them briefly, explain why and how they are useful for historians and assess them critically.
 
+### Exercices
+Les exercices constituent la partie clé de votre cours, car ils illustrent comment vous proposez d’appliquer la méthode historique aux sources numériques dans la pratique. Ils doivent consister en une série de questions liées au contexte historique, à la méthode, à la technologie, à la théorie et à la réflexion. 
+
+Les exercices constituent les sections de votre cours. Il vous appartient de déterminer le nombre d’exercices à proposer, mais nous vous encourageons à organiser votre cours autour de trois à cinq exercices maximum, qui peuvent également être divisés en sous-exercices, comme nous l’expliquons ci-dessous. Vous êtes également libre de choisir si les exercices, et par conséquent les sections de votre cours, s’enchaînent de manière séquentielle (c’est-à-dire si le premier exercice doit être terminé avant de commencer le second, etc.) ou s’ils explorent plusieurs angles différents. Gardez à l’esprit que l’ensemble de la cours doit idéalement durer moins de deux heures, même si cela est difficile à estimer car de nombreux paramètres peuvent entrer en jeu : disponibilité continue ou intermittente des apprenants, contexte d’utilisation, nombre d’apprenants, niveau individuel de connaissances, connaissances préalables et compétences requises, etc. Pour améliorer l’utilisabilité de votre cours, une bonne tactique consiste à prévoir des exercices qui peuvent être réalisés en 20 à 30 minutes chacun, avec des objectifs d’apprentissage clairement définis. Cela signifie qu’ils pourront facilement s’intégrer dans un contexte de classe ou d’atelier, ou dans un planning individuel chargé. 
+
+Un exercice peut être divisé en plusieurs sous-exercices. Dans ce cas, vous devez les énumérer comme « a », « b », etc. Le premier élément est une brève introduction. N’oubliez pas que vous présentez votre sujet à vos lecteurs et que vous devez fournir le contexte nécessaire et des instructions claires. Les parties a, b et c (ou plus si nécessaire) de l’exercice viennent ensuite. Il est préférable de clairement distinguer ces parties, la première étant la plus flexible et réalisable dans un délai déterminé, afin qu’elles puissent être effectuées individuellement ou dans un contexte de classe. Le reste de l’exercice peut proposer des options plus complexes, nécessitant par exemple un travail de groupe ou des lectures plus longues. Pensez à la partie « a » comme élément de base à enseigner et le reste comme des options permettant d’aller plus loin. Vous avez la possibilité de proposer des suggestions de lectures et de vidéos spécifiques pour chaque exercice, ce que nous vous encourageons à faire. 
+
+Au lieu de fournir uniquement une liste de liens et de tâches, essayez de garder votre public concentré sur les objectifs d’apprentissage de votre cours. Veillez à utiliser un langage simple et à expliquer clairement les étapes que les apprenants doivent suivre pour terminer les exercices. Si une ressource doit être lue ou regardée pour effectuer un exercice, assurez-vous que sa durée est appropriée et que le temps de lecture/visualisation est inclus dans le temps total estimé comme nécessaire pour réaliser l’exercice.   
+
+Si vous proposez d’utiliser des méthodes ou des outils numériques, prenez le temps de les présenter brièvement, d’expliquer pourquoi et comment ils sont utiles aux historiens et de les évaluer de manière critique.
+
+
 ### Use open resources
 You may provide images or data or base your assignments on viewing and reading suggestions. You may even propose use of specific software or technical environments. In this case, please note that these should be openly accessible, non commercial, and preferably freely licensed resources. Complementary readings may of course include bibliographic references that learners can consult in a library if they are not immediately available on the web. However, any reading/viewing resources (journal articles, videos, etc.) and technical environments (digital archives, bibliographic databases, etc.) that are required for the completion of an assignment should be openly accessible. 
 
@@ -84,9 +98,18 @@ Make sure that there are no restrictions on any images you provide. If, in spite
 
 Please note that it is preferable to use resources with persistent identifiers (such as DOIs and permalinks) so that your lesson will remain accessible over the long term. 
 
+### Utiliser des ressources ouvertes
+Vous pouvez fournir des images ou des données, ou baser vos exercices sur des suggestions de lectures et de vidéos. Vous pouvez même proposer d’utiliser des logiciels ou des environnements techniques spécifiques. Dans ce cas, veuillez noter qu’il doit s’agir de ressources librement accessibles, non commerciales et de préférence sous licence libre. Les lectures complémentaires peuvent bien entendu inclure des références bibliographiques que les apprenants peuvent consulter en bibliothèque si elles ne sont pas immédiatement disponibles sur le web. Cependant, l’ensemble des ressources de lecture/vidéos (articles de revues, vidéos, etc.) et des environnements techniques (archives numériques, bases de données bibliographiques, etc.) nécessaires à la réalisation d’un exercice doivent être librement accessibles. 
+
+Assurez-vous qu’il n’y a aucune restriction sur les images que vous fournissez. Si, malgré vos efforts, des droits d’utilisation doivent être obtenus pour les ressources que vous souhaitez utiliser, merci de nous contacter au préalable pour discuter de votre projet. 
+
+Veuillez noter qu’il est préférable d’utiliser des ressources avec des identifiants persistants (comme des DOI et des permaliens) afin que votre cours reste accessible à long terme. 
+
 ### Make use of existing educational resources 
-When explaining digital methods or tools, you might find it useful to recommend tutorials for readers who would like to learn more, and we would encourage you to do so. There is no point in wasting time and space recreating from scratch knowledge that may already be available elsewhere. [*Programming Historian*](https://programminghistorian.org/) and [Dariah Campus](https://campus.dariah.eu/), for example, offer useful tutorials for historians, and we welcome use of any high quality open educational resources.    
-  
+When explaining digital methods or tools, you might find it useful to recommend tutorials for readers who would like to learn more, and we would encourage you to do so. There is no point in wasting time and space recreating from scratch knowledge that may already be available elsewhere. [*Programming Historian*](https://programminghistorian.org/) and [Dariah Campus](https://campus.dariah.eu/), for example, offer useful tutorials for historians, and we welcome use of any high quality open educational resources.
+
+### Utiliser des ressources pédagogiques existantes 
+Lorsque vous expliquez des méthodes ou des outils numériques, vous trouverez peut-être utile de recommander des tutoriels aux lecteurs qui souhaitent en savoir plus, ce que nous vous encourageons à faire. Il ne sert à rien de perdre du temps et de l’espace à recréer à partir de zéro des connaissances qui sont peut-être déjà disponibles ailleurs. [*Programming Historian*] (https://programminghistorian.org/) et [Dariah Campus] (https://campus.dariah.eu/), par exemple, proposent des tutoriels utiles pour les historiens, et nous acceptons l’utilisation de toute ressource pédagogique ouverte de haute qualité.    
 
 ## After you have written your lesson
 
@@ -100,3 +123,17 @@ How would you narrate your topic and the essence of your lesson in five minutes 
 
 ### Send us the lesson files
 Please provide separate folders for the text of the lesson, images and data. For images in particular, remember to name each file clearly and provide a separate list of the captions you wish to use for each image. If you are familiar with Markdown syntax, you are welcome to send us your lesson in this format; if not, feel free to use a format you are familiar with and we will take charge of the rest! If you have any queries or require any additional information, please <a href="mailto: ranke2@uni.lu">contact us</a>.
+
+## Après la rédaction du cours
+
+### Choisir un titre et préparer un résumé 
+Pensez à un titre court qui décrit votre cours avec clarté et précision. Le titre est important pour permettre aux apprenants de repérer votre cours et de déterminer rapidement s’il les intéresse. C’est un facteur essentiel pour rendre votre cours visible en ligne. Nous serons heureux de vous faire des suggestions si nécessaire. 
+
+Nous vous demandons également de fournir un résumé très court, idéalement en une ou deux phrases, pour compléter le titre et décrire succinctement la portée de votre cours. Pour le titre et le résumé, veuillez utiliser un langage simple et éviter les phrases trop sophistiquées ou ambiguës. 
+ 
+### Rédiger une description
+Comment aborderiez-vous votre sujet et l’essence de votre cours en cinq minutes auprès d’un public non spécialisé ? Les cours sur Ranke.2 peuvent inclure une courte animation vidéo (ou un simple enregistrement vidéo ou audio) d’une durée d’environ cinq minutes pour proposer une introduction très générale du sujet. Nous vous suggérons donc, une fois la rédaction de votre cours terminée, de travailler sur une description d’une page que nous pourrons utiliser pour préparer l’animation vidéo qui servira d’introduction à votre cours. Cela nous sera très utile et garantira que l’animation vidéo respecte l’esprit de votre démarche. Cela donnera également un résultat utile et réutilisable pour divers contextes (salle de classe, atelier, présentation, etc.). Si, pour une raison quelconque, c’est nous qui produisons cette description, nous sommes susceptibles de vous demander de la réviser. Dans tous les cas, nous serons heureux de vous fournir des conseils sur les étapes à suivre au cours de ce processus.
+
+### Envoyer les fichiers du cours
+Veuillez fournir des dossiers séparés pour le texte du cours, les images et les données. Pour les images en particulier, veillez à nommer clairement chaque fichier et à fournir une liste séparée des légendes que vous souhaitez utiliser pour chaque image. Si vous connaissez la syntaxe Markdown, n’hésitez pas à nous envoyer votre cours dans ce format ; sinon, utilisez un format que vous connaissez et nous nous chargerons du reste ! Si vous avez des questions ou avez besoin d’informations complémentaires, n’hésitez pas à <a href="mailto: ranke2@uni.lu">nous contacter</a>.
+
