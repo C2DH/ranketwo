@@ -89,6 +89,7 @@ Veuillez noter qu’il est préférable d’utiliser des ressources avec des ide
 Lorsque vous expliquez des méthodes ou des outils numériques, vous trouverez peut-être utile de recommander des tutoriels aux lecteurs qui souhaitent en savoir plus. Nous vous encourageons à le faire pour éviter de recréer à partir de zéro des connaissances qui sont peut-être déjà disponibles ailleurs. [*Programming Historian*](https://programminghistorian.org/) et [Dariah Campus](https://campus.dariah.eu/), par exemple, proposent des tutoriels utiles pour les historiens et historiennes. Cela dit, l’utilisation de toute ressource pédagogique libre de haute qualité est appréciée.
 
 ## Après la rédaction de la leçon
+Lorsque votre leçon sera terminée, merci de préparer en plus un court résumé et une description plus élaborée qui permet de préparer une introduction audiovisuelle. 
 
 ### Choisir un titre et préparer un résumé 
 Pensez à un titre court qui décrit votre leçon avec clarté et précision. Le titre est important pour permettre aux apprenants de repérer votre leçon et de déterminer rapidement s’il les intéresse. C’est un facteur essentiel pour rendre votre leçon visible en ligne. Nous serons heureux de vous faire des suggestions si nécessaire. 
