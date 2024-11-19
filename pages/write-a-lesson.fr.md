@@ -92,7 +92,7 @@ Lorsque vous expliquez des méthodes ou des outils numériques, vous trouverez p
 Lorsque votre leçon sera terminée, merci de préparer en plus un court résumé et une description plus élaborée qui permet de préparer une introduction audiovisuelle. 
 
 ### Choisir un titre et préparer un résumé 
-Pensez à un titre court qui décrit votre leçon avec clarté et précision. Le titre est important pour permettre aux apprenants de repérer votre leçon et de déterminer rapidement s’il les intéresse. C’est un facteur essentiel pour rendre votre leçon visible en ligne. Nous serons heureux de vous faire des suggestions si nécessaire. 
+Pensez à un titre court qui décrit votre leçon avec clarté et précision. Le titre est important pour rendre la leçon visible en ligne et lui permettre d'atteindre le public ciblé. Nous serons heureux de vous faire des suggestions si nécessaire. 
 
 Nous vous demandons également de fournir un résumé très court, idéalement en une ou deux phrases, pour compléter le titre et décrire succinctement la portée de votre leçon. Pour le titre et le résumé, veuillez utiliser un langage simple et éviter les phrases trop sophistiquées ou ambiguës. 
  
