@@ -1,5 +1,5 @@
 ---
-title: "Wikipedia as a source of historical knowledge"
+title: "Wikipédia comme source de connaissance historique"
 type: clip
 lang: en
 parent: wikipedia-historical-source
@@ -9,8 +9,8 @@ iframe: wikipedia-historical-source
 
 {: .headsup}
 
-A video animation offering a brief introduction to Wikipedia and explaining why historians should be interested in it.
+Une animation vidéo présentant brièvement Wikipédia et expliquant pourquoi les historiens devraient s’y intéresser.
 
-Created by [Gorille](https://www.gorille.co/){:target="_blank"}.  
+Créée par [Gorille](https://www.gorille.co/){:target="_blank"}.  
 
 <!-- more -->
