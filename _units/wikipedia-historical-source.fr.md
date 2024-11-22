@@ -1,5 +1,5 @@
 ---
-title: "Wikipedia as a source of historical knowledge: applying digital source criticism"
+title: "Wikipédia comme source de connaissance historique : appliquer la critique des sources numériques"
 layout: unit
 date: 2024-09-13
 publication_date: 2024-09-13
