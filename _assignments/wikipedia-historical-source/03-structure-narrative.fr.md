@@ -42,11 +42,11 @@ Faites ensuite preuve d’esprit critique et essayez de répondre aux questions 
 
 ### Suggestions de lectures/vidéos
 <!-- section-contents --> 
-Brown, Jeremy et Benedicte Melanie Olsen. «&#x202F;Teaching Tiananmen: Using Wikipedia in the Undergraduate Classroom to Learn How to Write about Recent History&#x202F;». *Perspectives on History*, 1er avril 2012 [https://www.historians.org/perspectives-article/teaching-tiananmen-using-wikipedia-in-the-undergraduate-classroom-to-learn-how-to-write-about-recent-history-april-2012/](https://www.historians.org/perspectives-article/teaching-tiananmen-using-wikipedia-in-the-undergraduate-classroom-to-learn-how-to-write-about-recent-history-april-2012/){:target="_blank"}
+Langlais, Pierre-Carl. «&#x202F;{{Référence nécessaire}} L’émergence d’une norme wikipédienne (2003-2009)&#x202F;». Dans *Wikipédia, objet scientifique non identifié*, par Lionel Barbe, Louise Merzeau, et Valérie Schafer (dir). Nanterre: Presses universitaires de Paris Nanterre, 2015. https://doi.org/10.4000/books.pupo.4106
 
-Saxton, Martha. «&#x202F;Wikipedia and Women’s History: A Classroom Experience&#x202F;» dans *Writing History in the Digital Age*, dirigé par Jack Dougherty et Kristen Nawrotzki. University of Michigan Press, 2013. [https://www.jstor.org/stable/j.ctv65sx57.12](https://www.jstor.org/stable/j.ctv65sx57.12).
+Lewkowicz, Alain, et Vincent Decque. «&#x202F;Attentats du 13 novembre 2015&#x202F;: écris-moi une page wikipédia&#x202F;». Dans *Une histoire particulière*, France Culture, 13 novembre 2016. [https://www.radiofrance.fr/franceculture/podcasts/une-histoire-particuliere-un-recit-documentaire-en-deux-parties/attentats-du-13-novembre-2015-ecris-moi-une-page-wikipedia-8168430](https://www.radiofrance.fr/franceculture/podcasts/une-histoire-particuliere-un-recit-documentaire-en-deux-parties/attentats-du-13-novembre-2015-ecris-moi-une-page-wikipedia-8168430)  
 
-Seligman, Amanda. «&#x202F;Teaching Wikipedia without Apologies&#x202F;» dans *Writing History in the Digital Age*, dirigé par Jack Dougherty et Kristen Nawrotzki. University of Michigan Press, 2013. [https://www.jstor.org/stable/j.ctv65sx57.15](https://www.jstor.org/stable/j.ctv65sx57.15) 
+Saxton, Martha. «&#x202F;Wikipedia and Women’s History: A Classroom Experience&#x202F;». Dans *Writing History in the Digital Age*, par Jack Dougherty et Kristen Nawrotzki (dir.). University of Michigan Press, 2013. [https://www.jstor.org/stable/j.ctv65sx57.12](https://www.jstor.org/stable/j.ctv65sx57.12).
 
 
 <!-- briefing-teacher -->
