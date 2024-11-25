@@ -33,8 +33,7 @@ Afin de découvrir comment un nouveau modèle d’encyclopédie est né à l’�
 Si vous souhaitez mieux comprendre comment et pourquoi Wikipédia a été créée, ainsi que les nouvelles caractéristiques qu'il a apportées à la production de connaissances, regardez la vidéo YouTube ci-dessous. Vous y verrez une présentation de Wikipédia par son fondateur, Jimmy Wales, datant de 2007.
 
 [card](jimmy-wales)
-Jimmy Wales et la naissance de Wikipédia
-TED, 16 janvier 2007 (2:47)
+
 
 Une fois que vous avez regardé les vidéos, essayez de répondre aux questions suivantes et discutez de vos réponses avec vos camarades&#x202F;:
 
@@ -77,15 +76,23 @@ Pour répondre à ces questions, vous pouvez consulter le catalogue de votre bib
 
 ### Suggestions de lectures/vidéos
 <!-- section-contents --> 
-Reagle, Joseph. *Good Faith Collaboration: The Culture of Wikipedia*. Massachusetts: The MIT Press, 2010. Available at: [https://direct.mit.edu/books/book/5341/Good-Faith-CollaborationThe-Culture-of-Wikipedia](https://direct.mit.edu/books/book/5341/Good-Faith-CollaborationThe-Culture-of-Wikipedia){:target="_blank"} (Chapter 2)
+Barbe, Lionel, Louise Merzeau, et Valérie Schafer, dir. *Wikipédia, objet scientifique non identifié*. Nanterre: Presses universitaires de Paris Nanterre, 2015. [https://doi.org/10.4000/books.pupo.4079](https://doi.org/10.4000/books.pupo.4079){:target="_blank"}
 
-Rosenzweig, Roy. «&#x202F;Can History Be Open Source&#x202F;»” *The Journal of American History* 93 (1) (June 2006): 117-46 [https://rrchnm.org/essays/can-history-be-open-source-wikipedia-and-the-future-of-the-past/](https://rrchnm.org/essays/can-history-be-open-source-wikipedia-and-the-future-of-the-past/){:target="_blank"}
+Reagle, Joseph. *Good Faith Collaboration: The Culture of Wikipedia*. Massachusetts: The MIT Press, 2010. Disponible sur&#x202F;: [https://direct.mit.edu/books/book/5341/Good-Faith-CollaborationThe-Culture-of-Wikipedia](https://direct.mit.edu/books/book/5341/Good-Faith-CollaborationThe-Culture-of-Wikipedia){:target="_blank"} (chapitre 2)
 
-*On the reliability and verifiability of Wikipedia and community engagement in fact-checking:* 
+Rosenzweig, Roy. «&#x202F;Can History Be Open Source&#x202F;» *The Journal of American History* 93 (1) (June 2006)&#x202F;: 117-46 [https://rrchnm.org/essays/can-history-be-open-source-wikipedia-and-the-future-of-the-past/](https://rrchnm.org/essays/can-history-be-open-source-wikipedia-and-the-future-of-the-past/){:target="_blank"}
 
-Wikimedia Foundation. «&#x202F;On Wikipedia, facts matter&#x202F;». YouTube video, 03:45 minutes. 22 December 2016, [https://youtu.be/xQ4ba28-oGs](https://youtu.be/xQ4ba28-oGs){:target="_blank"} 
+*Sur l'histoire de Wikipédia:*
 
-Hocquet, Alexandre. «&#x202F;Non, l’actrice Olivia Colman n’a pas été vieillie de huit ans par Wikipédia&#x202F;». *The Conversation*. 14 February 2019. [https://theconversation.com/no-wikipedia-didnt-get-oscar-winning-actress-olivia-colmans-birthdate-wrong-111848](https://theconversation.com/no-wikipedia-didnt-get-oscar-winning-actress-olivia-colmans-birthdate-wrong-111848){:target="_blank"}
+Mexis, Anna et Camille Renard. «&#x202F;À l'origine de Wikipédia, l'opposition entre deux visions du savoir&#x202F;». *France Culture*. [https://www.radiofrance.fr/franceculture/a-l-origine-de-wikipedia-l-opposition-entre-deux-visions-du-savoir-1154389](https://www.radiofrance.fr/franceculture/a-l-origine-de-wikipedia-l-opposition-entre-deux-visions-du-savoir-1154389){:target="_blank"} 
+
+*Sur la fiabilité de Wikipédia et l'engagement de sa communauté en faveur de la vérification de la véracité des faits évoqués dans les notices:* 
+
+Doutreix, Marie-Noëlle. «&#x202F;La fausse information au regard des vertus épistémiques de Wikipédia&#x202F;». *Le Temps des médias* 30(1) 2018: 91-104. DOI: https://doi.org/10.3917/tdm.030.0091. Disponible sur [https://hal.science/hal-02169931/document](https://hal.science/hal-02169931/document).  
+
+Wikimedia Foundation. «&#x202F;On Wikipedia, facts matter&#x202F;». Vidéo YouTube, 03:45 minutes. 22 décembre 2016, [https://youtu.be/xQ4ba28-oGs](https://youtu.be/xQ4ba28-oGs){:target="_blank"} 
+
+Hocquet, Alexandre. «&#x202F;Non, l’actrice Olivia Colman n’a pas été vieillie de huit ans par Wikipédia&#x202F;». *The Conversation*. 6 février 2019. [https://theconversation.com/non-lactrice-olivia-colman-na-pas-ete-vieillie-de-huit-ans-par-wikipedia-111151](https://theconversation.com/non-lactrice-olivia-colman-na-pas-ete-vieillie-de-huit-ans-par-wikipedia-111151){:target="_blank"}
 
 
 <!-- briefing-teacher -->
