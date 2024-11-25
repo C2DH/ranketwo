@@ -1,52 +1,52 @@
 ---
 layout: assignment
 unit: wikipedia-historical-source 
-lang: en
-title: "Writing on Wikipedia: structure and historical narrative"
+lang: fr
+title: "Rédiger sur Wikipédia : structure et récit historique "
 cover:
 documents:
 tags:
 outcomes: 
-  - Learn how the features of the Wikipedia infrastructure shape historical narratives
+  - Apprendre de quelle manière les caractéristiques de l’infrastructure de Wikipédia façonnent les récits historiques
 order: 3
 ---
-Wikipedia articles include historical narratives about the past. In other words, they tell a story about the past. These stories are the result of collaborative writing between Wikipedia users. Each article has a different structure based on various combinations of standardised sections (e.g. chapters, sections, infoboxes, hyperlinks), including visual and audio elements (e.g. graphs, videos, images, sounds) and bibliographical references. Now that you have a better understanding of how Wikipedia works, let’s look at the historical narrative of a Wikipedia article.
+Les articles de Wikipédia comportent des récits historiques sur le passé. Autrement dit, ils racontent une histoire sur le passé. Ces récits sont le fruit d’une collaboration entre les différents utilisateurs de la plateforme. Chaque article est structuré différemment selon diverses combinaisons de sections standardisées (par exemple, chapitre, sections, infobox, hyperliens) et comprend des éléments visuels et audio (par exemple, des graphiques, des vidéos, des images, des pistes audio) ainsi que des références bibliographiques. Maintenant que vous comprenez mieux comment fonctionne Wikipédia, analysons le récit historique d’un article Wikipédia.
 
-> You can adapt the proposed exercise to focus on an article about a historical event, person or phenomenon of your choice, in a language you are more comfortable with. Examples include the Haitian revolution, the Arab Spring, the Silk Road, Cleopatra, feminism and slavery, but there are countless others to choose from.
+Vous pouvez adapter l’exercice proposé et vous focaliser sur un article concernant un évènement historique, une personne ou un phénomène de votre choix dans la langue qui vous convient le mieux. Il peut s’agir par exemple de la révolution haïtienne, du Printemps arabe, de la route de la soie, de Cléopâtre, du féminisme et de l’esclavage...
 
 <!-- more -->
 
 <!-- briefing-student -->
 
-### 3.a Deconstructing a Wikipedia narrative on a historical event | 60 mins
+### 3.a Déconstruire un récit wikipédien relatant un évènement historique | 60 min
 <!-- section-contents -->
 
-Browse the article on the [September 11 attacks](https://en.wikipedia.org/wiki/September_11_attacks){:target="_blank"}  in the English edition of Wikipedia, and focus on the following elements: 
+Consultez l’article sur les [attentats du 11 septembre 2001](https://fr.wikipedia.org/wiki/Attentats_du_11_septembre_2001){:target="_blank"} et concentrez-vous sur les éléments suivants&#x202F;:
+ 
+- La manière dont le récit historique d’un article Wikipédia est structuré et en quoi il diffère des récits historiques traditionnels que l’on trouve dans un livre ou un article.
 
-- How the historical narrative of the Wikipedia article is structured and how it differs from traditional historical narratives that you can find in a book or an article. 
+- Les éléments audio et visuels intégrés à la narration de l’article. Soyez particulièrement attentif(ve) aux conditions générales d’utilisation de ces éléments.
 
-- The visual and audio materials that are part of the article’s narrative. Please pay particular attention to the terms and conditions of use of these elements. 
+- La bibliographie, les hyperliens et les références à d’autres évènements historiques que les rédacteurs et rédactrices ont utilisés.
 
-- The bibliography that the editors have used, the hyperlinks, and the references to other historical events. 
-
-Then think critically and try to answer the following questions:
-
-- How have Wikipedia users organised the historical narrative of the Wikipedia article?
-- What kind of visual and audio materials (e.g. graphs, videos, images, sounds, etc.) does the Wikipedia article include? How do these materials affect the historical narrative of the article?
-- How do hyperlinks work and how do they affect the way a potential user reads and understands the article?
-- How would you characterise the types of reference works that Wikipedia users cite in the article? Do they use academic literature, journalism or other types of material? Are the cited works available online?
-- Do you detect any similarities or differences between the bibliographical references used in a Wikipedia article and the references used in academic books or articles?
+Faites ensuite preuve d’esprit critique et essayez de répondre aux questions suivantes&#x202F;:
+- Comment les contributeurs de la plateforme ont-ils structuré le récit historique de l’article&#x202F;?
+- Quels éléments audio et visuels (par exemple, des graphiques, vidéos, images, pistes audio) sont intégrés dans l’article de l’encyclopédie&#x202F;? 
+- En quoi ces éléments audio et visuels influencent-ils le récit historique de l’article&#x202F;?
+- Comment fonctionnent les hyperliens et comment influencent-ils la manière dont le lectorat lit et comprend l’article&#x202F;?
+- Comment caractériseriez-vous les types d’ouvrages de référence cités dans l’article&#x202F;? S’agit-il de littérature académique, de presse ou d’autres types de documents&#x202F;? Les sources citées sont-elles disponibles en ligne&#x202F;?
+- Décelez-vous des similarités ou des différences entre les références bibliographiques utilisées dans un article Wikipédia et celles utilisées dans les livres ou les articles académiques&#x202F;?
 
 <!-- section -->
 
 
-### Reading/viewing suggestions
+### Suggestions de lectures/vidéos
 <!-- section-contents --> 
-Brown, Jeremy and Benedicte Melanie Olsen. “Teaching Tiananmen: Using Wikipedia in the Undergraduate Classroom to Learn How to Write about Recent History.” *Perspectives on History*, 1 April 2012 [https://www.historians.org/perspectives-article/teaching-tiananmen-using-wikipedia-in-the-undergraduate-classroom-to-learn-how-to-write-about-recent-history-april-2012/](https://www.historians.org/perspectives-article/teaching-tiananmen-using-wikipedia-in-the-undergraduate-classroom-to-learn-how-to-write-about-recent-history-april-2012/){:target="_blank"}
+Brown, Jeremy et Benedicte Melanie Olsen. «&#x202F;Teaching Tiananmen: Using Wikipedia in the Undergraduate Classroom to Learn How to Write about Recent History&#x202F;». *Perspectives on History*, 1er avril 2012 [https://www.historians.org/perspectives-article/teaching-tiananmen-using-wikipedia-in-the-undergraduate-classroom-to-learn-how-to-write-about-recent-history-april-2012/](https://www.historians.org/perspectives-article/teaching-tiananmen-using-wikipedia-in-the-undergraduate-classroom-to-learn-how-to-write-about-recent-history-april-2012/){:target="_blank"}
 
-Saxton, Martha. “Wikipedia and Women’s History: A Classroom Experience.” In *Writing History in the Digital Age*, edited by Jack Dougherty and Kristen Nawrotzki. University of Michigan Press, 2013. [https://www.jstor.org/stable/j.ctv65sx57.12](https://www.jstor.org/stable/j.ctv65sx57.12).
+Saxton, Martha. «&#x202F;Wikipedia and Women’s History: A Classroom Experience&#x202F;» dans *Writing History in the Digital Age*, dirigé par Jack Dougherty et Kristen Nawrotzki. University of Michigan Press, 2013. [https://www.jstor.org/stable/j.ctv65sx57.12](https://www.jstor.org/stable/j.ctv65sx57.12).
 
-Seligman, Amanda. “Teaching Wikipedia without Apologies” in *Writing History in the Digital Age*, edited by Jack Dougherty and Kristen Nawrotzki. University of Michigan Press, 2013. [https://www.jstor.org/stable/j.ctv65sx57.15](https://www.jstor.org/stable/j.ctv65sx57.15) 
+Seligman, Amanda. «&#x202F;Teaching Wikipedia without Apologies&#x202F;» dans *Writing History in the Digital Age*, dirigé par Jack Dougherty et Kristen Nawrotzki. University of Michigan Press, 2013. [https://www.jstor.org/stable/j.ctv65sx57.15](https://www.jstor.org/stable/j.ctv65sx57.15) 
 
 
 <!-- briefing-teacher -->
