@@ -1,30 +1,44 @@
 ---
 layout: assignment
 unit: wikipedia-historical-source 
-lang: en
-title: "Exploring Wikipedia’s infrastructure and policies"
+lang: fr
+title: "Analyser l’infrastructure et les règles de Wikipédia"
 cover:
 documents:
 tags:
 outcomes:
-  - Understand the policies and guidelines that define historical knowledge production in Wikipedia  
-  - Become familiar with the features of the Wikipedia infrastructure that allow users to contextualise the collaborative production of historical narratives   
+  - Comprendre les règles et recommandations qui régissent la production de connaissances historiques sur Wikipédia
+  - Se familiariser avec les caractéristiques de l’infrastructure de Wikipédia afin de pouvoir contextualiser la production collaborative de récits historiques
+   
 order: 2
 ---
-Wikipedia is a born-digital source that contains historically stimulating information about how Wikipedia users perceive the past, how they interpret it based on the present, and how they transform the past into Wikipedia articles. This information can be extracted both from the main content of Wikipedia and from discussions and debates between Wikipedia users, which take place “behind the scenes” in the “talk pages” of articles. Historians who work with Wikipedia should familiarise themselves with both the specific characteristics of its infrastructure and the policies governing (historical) knowledge production so that they can contextualise the information they retrieve.  
+Wikipédia peut être considérée comme une source nativement numérique qui contient des informations historiquement intéressantes sur la manière dont la communauté de la plateforme perçoit le passé, comment elle l’interprète en fonction du présent et comment elle l'enregistre dans les articles de Wikipédia. On peut extraire ces informations depuis le contenu principal de la plateforme ou des discussions et des débats entre les utilisateurs et utilisatrices de Wikipédia qui se tiennent «&#x202F;en coulisses&#x202F;» sur l’onglet «&#x202F;Discussion&#x202F;» des articles. Les historien(ne)s qui se servent de Wikipédia doivent se familiariser à la fois avec les caractéristiques spécifiques de son infrastructure et les règles régissant la production de connaissances (historiques) afin de pouvoir contextualiser les informations recueillies.
 
-Since it was founded, Wikipedia has become a self-regulated community and a public space where people can discuss, create and edit historical articles. The digital structure of Wikipedia, including its policies, guidelines, hierarchy and sub-communities, encourages the dynamic, multilayered participation of its editors and active engagement with the production of historical knowledge. The following sub-assignments investigate Wikipedia’s infrastructure, policies and guidelines, the “talk pages” where Wikipedians take part in discussions and debates about history, edits to Wikipedia articles, and finally the perception of history as a field of knowledge by Wikipedia.
+Depuis sa création, Wikipédia est devenue une communauté autorégulée et un espace public où les gens peuvent discuter, créer et modifier des articles sur l’histoire. La structure numérique de la plateforme, qui comprend ses règles et recommandations, sa hiérarchie et ses sous-communautés, encourage les éditeurs à participer de manière dynamique à plusieurs niveaux, et à s’engager activement dans la production de connaissances historiques. Les exercices suivants s’intéressent à la structure de Wikipédia, à ses règles et recommandations, à l’onglet «&#x202F;discussion&#x202F;» dans lequel les Wikipédiens prennent part à des discussions et des débats sur l’histoire, et à la manière dont l’histoire est perçue en tant que domaine de connaissances.
 
 <!-- more -->
 
 <!-- briefing-student -->
 
-### 2.a General policies and guidelines | 30 mins
+### 2.a Règles générales et recommandations | 30 min
 <!-- section-contents -->
 
-To explore the opportunities that Wikipedia offers for historical research, we should first understand how Wikipedia works. Even though Wikipedia promotes the idea that “anyone can edit nearly any page and improve articles immediately”, it enforces a system of rules, policies and guidelines that govern knowledge production and users’ engagement with Wikipedia content. Wikipedia includes subjects ranging from mathematics and biology to sports, culture and the arts. Although all Wikipedia guidelines and policies are applicable for all subjects, there are also particular rules for each subject. This assignment encourages learners to explore the broader system of the Wikipedia community, while at the same time focusing on history as a Wikipedia subject category. 
+Afin d’explorer les opportunités que Wikipédia offre à la recherche historique, nous devons d’abord comprendre comment la plateforme fonctionne. Même si Wikipédia avance l’idée que «&#x202F;n’importe qui peut modifier à peu près n’importe quelle page et améliorer les articles instantanément&#x202F;», elle impose un système de directives, règles et recommandations qui encadrent la production de connaissances et la participation des utilisateurs au contenu de la plateforme. L’encyclopédie couvre divers sujets allant des mathématiques et de la biologie au sport, à la culture et aux arts. Bien que ses règles et recommandations s’appliquent à tous les sujets, il existe également des directives particulières pour chacun d’entre eux. Cet exercice invite les participants et partcipantes à explorer le système plus vaste de Wikipédia tout en se concentrant sur l’histoire en tant que catégorie de thématique de la plateforme.
 
-The following Wikipedia pages contain specific information on Wikipedia’s policies, guidelines and rules, which determine how knowledge is produced on Wikipedia. 
+Les pages Wikipédia suivantes fournissent des informations spécifiques sur les règles, recommandations et directives de l’encyclopédie qui régissent la production de connaissances.
+
+- Commencez par vous familiariser avec [les trois principes fondamentaux qui caractérisent Wikipédia](){:target="_blank"}. Ils vous permettront de comprendre les grands principes qui encadrent la rédaction sur la plateforme.
+- Pour une meilleure compréhension, vous pouvez également consulter les «&#x202F;principes fondateurs&#x202F;» qui expliquent plus en détail les principes à la base de la ligne éditoriale de Wikipédia.
+- Si vous souhaitez aller plus loin, vous pouvez également lire la déclaration de principes du fondateur de Wikipédia, Jimbo Wales, cependant cette lecture n’est pas requise pour l’exercice.
+
+À présent, discutez entre vous et essayez de répondre aux questions suivantes&#x202F;:
+
+- Quels sont les principes et règles clés de Wikipédia&#x202F;?
+- Quelles règles et recommandations incitent les utilisateurs de la plateforme à s’impliquer dans son contenu&#x202F;?
+- Comment ce système de règles et recommandations ne freine-t-il pas les utilisateurs mais les encouragent au contraire à éditer, créer ou mettre à jour de plus en plus d’articles Wikipédia&#x202F;?
+Tout comme les historiens, les Wikipédiens s’appuient sur des sources pour créer et mettre à jour les articles de l’encyclopédie. Wikipédia fournit un relevé complet des sources que les Wikipédiens peuvent utiliser. Veuillez lire l’introduction et les principes généraux de l’article afin de répondre aux questions suivantes :
+- Quelles devraient être les caractéristiques des sources que les Wikipédiens peuvent utiliser&#x202F;?
+
 
 - Start by familiarising yourself with [the three core principles that sum up Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Trifecta){:target="_blank"}. These will give you a basic understanding of the main principles that guide editing on Wikipedia. 
 - For a more in-depth view, you can then check out the [“five pillars”](https://en.wikipedia.org/wiki/Wikipedia:Five_pillars){:target="_blank"} – the more detailed principles that form the basis of Wikipedia’s editorial policy. 
