@@ -28,16 +28,17 @@ Afin d’explorer les opportunités que Wikipédia offre à la recherche histori
 Les pages Wikipédia suivantes fournissent des informations spécifiques sur les règles, recommandations et directives de l’encyclopédie qui régissent la production de connaissances.
 
 - Commencez par vous familiariser avec [les trois principes fondamentaux qui caractérisent Wikipédia](){:target="_blank"}. Ils vous permettront de comprendre les grands principes qui encadrent la rédaction sur la plateforme.
-- Pour une meilleure compréhension, vous pouvez également consulter les «&#x202F;principes fondateurs&#x202F;» qui expliquent plus en détail les principes à la base de la ligne éditoriale de Wikipédia.
-- Si vous souhaitez aller plus loin, vous pouvez également lire la déclaration de principes du fondateur de Wikipédia, Jimbo Wales, cependant cette lecture n’est pas requise pour l’exercice.
+- Pour une meilleure compréhension, vous pouvez également consulter [les «&#x202F;principes fondateurs&#x202F;»](){:target="_blank"} qui expliquent plus en détail les principes à la base de la ligne éditoriale de Wikipédia.
+- Si vous souhaitez aller plus loin, vous pouvez également lire [la déclaration de principes du fondateur de Wikipédia](){:target="_blank"}, Jimbo Wales, cependant cette lecture n’est pas requise pour l’exercice.
 
 À présent, discutez entre vous et essayez de répondre aux questions suivantes&#x202F;:
 
 - Quels sont les principes et règles clés de Wikipédia&#x202F;?
 - Quelles règles et recommandations incitent les utilisateurs de la plateforme à s’impliquer dans son contenu&#x202F;?
 - Comment ce système de règles et recommandations ne freine-t-il pas les utilisateurs mais les encouragent au contraire à éditer, créer ou mettre à jour de plus en plus d’articles Wikipédia&#x202F;?
-Tout comme les historiens, les Wikipédiens s’appuient sur des sources pour créer et mettre à jour les articles de l’encyclopédie. Wikipédia fournit un relevé complet des sources que les Wikipédiens peuvent utiliser. Veuillez lire l’introduction et les principes généraux de l’article afin de répondre aux questions suivantes :
-- Quelles devraient être les caractéristiques des sources que les Wikipédiens peuvent utiliser&#x202F;?
+
+Tout comme les historiens, les Wikipédiens s’appuient sur des sources pour créer et mettre à jour les articles de l’encyclopédie. Wikipédia fournit [un relevé complet des sources que les Wikipédiens peuvent utiliser](){:target="_blank"}. Veuillez lire l’introduction et [les principes généraux](){:target="_blank"} de l’article afin de répondre à la question suivante&#x202F;:
+- Quelles devraient être les caractéristiques des sources que les Wikipédien(ne)s peuvent utiliser&#x202F;?
 
 
 - Start by familiarising yourself with [the three core principles that sum up Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Trifecta){:target="_blank"}. These will give you a basic understanding of the main principles that guide editing on Wikipedia. 
