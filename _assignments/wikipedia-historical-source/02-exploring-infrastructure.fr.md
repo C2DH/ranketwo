@@ -55,68 +55,73 @@ Just like historians, Wikipedians use sources to create and update Wikipedia art
 
 <!-- section -->
 
-### 2.b Les onglets « Discussion » et « Voir l’historique » Talk pages and page history | 30 à 40 min 
+### 2.b Les pages de discussion et d’historique | 30 à 40 min 
 <!-- section-contents -->
 
 En plus des règles et recommandations qui sous-tendent la production de connaissances sur Wikipédia, chaque article comporte deux onglets, «&#x202F;Discussion&#x202F;» et «&#x202F;Voir l’historique&#x202F;» (fig. 1). Vous pouvez accéder à ces pages depuis le menu principal qui s’affiche en dessous du titre de l’article.
 
-As well as the policies and guidelines that underpin knowledge production on Wikipedia, every Wikipedia article page has two tabs, the “talk page” or discussion page and the “view history” tab (fig. 1). You can access these pages from the main menu that you see under the title of the article. 
-<!-- il faut reproduire l'image à partir de l'interface en français-->
-![How to access “talk” and “view history” pages of a Wikipedia article](/assets/images/wikipedia-historical-source/wp-talk-viewhistory.jpg "How to access talk and view history pages of a Wikipedia article")
+![Accéder aux pages de discussion et d'historique d'un article Wikipédia](/assets/images/wikipedia-historical-source/wp-talk-viewhistory-fr.jpg "Accéder aux pages de discussion et d'historique d'un article Wikipédia")
 
-On the “talk page”, users can find all the archived discussions about edits made to the given entry over time. This space also shows all the discussions and debates between Wikipedia users about the entry. Users often challenge information in the Wikipedia entry, expressing their disagreement and making suggestions for the page. Other users then reply, and the “talk” page becomes a discussion page. The “view history” page includes logs of all the changes (without the discussion) and copies of older versions of the articles. This kind of information can help historians apply the basic principles of traditional source criticism to identify how a source has been created and by whom. 
+La page de discussion offre accès à toutes les discussions archivées concernant les modifications apportées à l’article au fil du temps. Cet espace montre également tous les échanges et débats entre les utilisateurs à propos de l’article. Des contributeurs et contributrices contestent souvent certaines informations de l’article, expriment leur désaccord et font des suggestions pour modifier le contenu de la page&#x202F;; d’autres leur répondent, et la page «&#x202F;Discussion&#x202F;» devient alors un véritable lieu d'échange. 
 
-In the two links below, you will find more information on “talk pages” and “view history”. Please read the content of the two articles: 
+La page d'historique contient les traces de toutes les modifications (sans les discussions) apportées à l’article ainsi que des copies des versions précédentes. Ce genre d’informations peut aider les historien(ne)s à appliquer les principes fondamentaux de critique traditionnelle des sources afin de déterminer comment un document a été créé et par qui.
 
-[“Talk pages”](https://en.wikipedia.org/wiki/Help:Talk_pages){:target="_blank"} (estimated reading time: 10 minutes) – alternatively, you can watch [a two-minute video: “Wikipedia basics – Talk pages”](https://en.wikipedia.org/wiki/File:Wikipedia_basics_-_Talk_pages.ogv){:target="_blank"} provided on the page.  
+Vous trouverez ci-dessous deux liens offrant davantage d’informations sur les pages de discussion et d’historique. Merci d'en consulter le contenu&#x202F;:
 
-[“View history”](https://en.wikipedia.org/wiki/Help:Page_history){:target="_blank"} (estimated reading time: 12 minutes) – alternatively, you can watch [a nine-minute video: “Using the view history tab on Wikipedia”](https://en.wikipedia.org/wiki/File:Using_the_view_history_tab_on_Wikipedia.webm){:target="_blank"} provided on the page. 
 
-Now try to answer the following questions:
+[Page de discussion](https://fr.wikipedia.org/wiki/Aide:Discussion){:target="_blank"} (temps de lecture estimé&#x202F;: 10 minutes).  
 
-- How can the “talk page” and “view history” sections of Wikipedia articles be useful for historians?
-- What historical questions can the data from “talk pages” and “view history” answer?
+[Page d'historique](https://fr.wikipedia.org/wiki/Aide:Historique){:target="_blank"} (temps de lecture estimé&#x202F;: 12 minutes). 
 
-*If you choose to watch the videos to answer the questions, this assignment should take 30 minutes.*
-*If you choose to read the articles to answer the questions, this assignment should take 45 minutes.* 
+En complément (ou alternativement, si vous manquez de temps), vous pouvez regarder [une vidéo éducative d'environ neuf minutes sur les pages de discussion et d'historique](https://youtu.be/wzB-a5obcN8){:target="_blank"}. 
 
-<!-- section -->
+Par la suite, essayez de répondre aux questions suivantes&#x202F;:
 
-### 2.c History on Wikipedia | 15 mins
-<!-- section-contents -->
+- Comment les pages de discussion et d’historique des articles Wikipédia peuvent-elles être utiles aux historien(ne)s&#x202F;?
+- À quelles questions liées à l’histoire les informations disponibles sur ces pages peuvent-elles répondre&#x202F;?
 
-As Wikipedia covers multiple subjects, it has created separate portals for each subject it covers. In these portals, there are definitions of the subject and further information about the different subfields and categories of the subject. As well as the general guidelines and policies, the Wikipedia community has also produced more specific instructions about the coverage of each subject. As history is one of Wikipedia’s subjects, it has its own portal and is subject to specific writing rules. For example, Wikipedia specifies the types of sources that Wikipedians are allowed to use to cover historical topics.
+*Si tu choisis de regarder les vidéos pour répondre aux questions, cet exercice devrait prendre 30 minutes.* 
 
-To learn more about the subject of history on Wikipedia, please go to the [home page of the history portal](https://en.wikipedia.org/wiki/Portal:History){:target="_blank"} and explore the following aspects: 
-- the definition of history the page provides 
-- the different page sections
+*Si tu choisis de lire les articles pour répondre aux questions, cet exercice devrait prendre 45 minutes.*
 
-Now try to answer the following questions:
-
-- How does Wikipedia seem to perceive history? 
-- In what ways is this perception similar to or different from definitions provided by academic historians?
-
-If necessary, see the reading/viewing suggestions section below for resources with academic definitions of history. 
 
 <!-- section -->
 
-### 2.d Sources of history according to Wikipedia | 40 mins
+### 2.c L’histoire sur Wikipédia | 15 min
 <!-- section-contents -->
 
-To conduct historical research, historians use sources from the past. They use primary sources, which include materials created during a historical period, e.g. written archives, audiovisual archives, oral interviews, objects, etc., and reveal information about the society, culture, economy, politics and technology of the past. Historians also use secondary sources, e.g. books and articles, which place primary sources in the broader historical context of the period. By combining primary and secondary sources, historians write and tell a story about the past.
+Comme Wikipédia couvre de nombreux sujets, des portails distincts ont été créés pour chacun d’entre eux. Ces portails contiennent des définitions afférentes au sujet traité ainsi que des informations complémentaires concernant les différents sous-domaines et catégories du sujet. En plus des recommandations et des règles générales, la communauté Wikipédia a également établi des instructions plus spécifiques pour couvrir chaque sujet. L’histoire étant l’un d’entre eux, elle a son propre portail et fait l’objet des règles d’écriture particulières. Par exemple, la plateforme précise les types de sources que les Wikipédien(ne)s sont autorisés à utiliser pour traiter les sujets historiques.
 
-Please read this [Wikipedia page explaining the sources that editors are allowed to use when they write about history on Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Reliable_source_examples#History){:target="_blank"}.
+Pour en savoir plus sur l’histoire en tant que sujet de Wikipédia, merci de consulter [la page d’accueil du portail dédié](https://fr.wikipedia.org/wiki/Portail:Histoire){:target="_blank"} afin d'analyser les éléments suivants&#x202F;:
+- la définition du mot «&#x202F;histoire&#x202F;» fournie par la page
+- les différentes rubriques de la page
 
-Then try to answer the following questions:
+À présent, essayez de répondre aux questions suivantes&#x202F;:
 
-- What sources can Wikipedia editors use to create or edit pages related to history? 
-- Are the sources that Wikipedia recommends different from the sources that academic historians use?
+- Comment la communauté de Wikipédia semble-t-elle percevoir ce qu'est l’histoire&#x202F;?
+- Quelles sont les similarités ou les différences entre cette perception et les définitions avancées par les historiens académiques&#x202F;?
+
+Si besoin, consultez la liste des suggestions de lectures/vidéos ci-dessous afin de trouver des ressources proposant des définitions académiques de l'« &#x202F;histoire&#x202F;» et de la démarche historique.
+
+<!-- section -->
+
+### 2.d Les sources de l’histoire selon Wikipédia | 40 min
+<!-- section-contents -->
+
+Pour mener leurs recherches, les historiens et historiennes s’appuient sur des sources issues du passé. Les sources primaires, datant d’une certaine période historique, comprennnent notamment des archives écrites et audiovisuelles, des témoignages oraux, des objets, etc. Ces éléments fournissent des informations sur la société, la culture, l’économie, la politique et les technologies du passé. Les historiens et historiennes s’appuient également sur des sources secondaires, comme des livres et des articles, qui analysent et mettent en contexte les sources primaires dans une perspective historique plus large pour la période donnée. Le croisement des sources primaires et secondaires fait partie de la démarche qui débouche sur la production de récits historiques.
+
+Merci de lire [cette page Wikipédia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Sources_fiables){:target="_blank"} reprenant les sources que les rédacteurs et rédactrices sont autorisé(e)s à utiliser lors de la rédaction des articles sur l’histoire.
+
+Essayez ensuite de répondre aux questions suivantes&#x202F;:
+
+- Quelles sont les sources recommandée pour créer ou modifier des pages afférentes à l'histoire&#x202F;?
+- Les sources recommandées diffèrent-elles des sources utilisées par les historiens et historiennes universitaires&#x202F;?
 
 <!-- The time is estimated as follows: 25 minutes for reading plus 15 minutes to discuss and answer the questions--> 
 
 <!-- section -->
 
-### Reading/viewing suggestions
+### Suggestions de lectures/vidéos
 <!-- section-contents --> 
 
 *On Wikipedia infrastructure*
