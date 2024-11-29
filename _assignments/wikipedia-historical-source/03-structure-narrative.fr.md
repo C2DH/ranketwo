@@ -2,7 +2,7 @@
 layout: assignment
 unit: wikipedia-historical-source 
 lang: fr
-title: "Rédiger sur Wikipédia : structure et récit historique "
+title: "Rédiger sur Wikipédia : structure et récit historique"
 cover:
 documents:
 tags:
