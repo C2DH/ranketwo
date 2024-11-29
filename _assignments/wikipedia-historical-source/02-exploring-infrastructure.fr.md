@@ -40,19 +40,6 @@ Les pages Wikipédia suivantes fournissent des informations spécifiques sur les
 Tout comme les historiens, les Wikipédiens s’appuient sur des sources pour créer et mettre à jour les articles de l’encyclopédie. Wikipédia fournit [un relevé complet des sources que les Wikipédiens peuvent utiliser](){:target="_blank"}. Veuillez lire l’introduction et [les principes généraux](){:target="_blank"} de l’article afin de répondre à la question suivante&#x202F;:
 - Quelles devraient être les caractéristiques des sources que les Wikipédien(ne)s peuvent utiliser&#x202F;?
 
-
-- Start by familiarising yourself with [the three core principles that sum up Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Trifecta){:target="_blank"}. These will give you a basic understanding of the main principles that guide editing on Wikipedia. 
-- For a more in-depth view, you can then check out the [“five pillars”](https://en.wikipedia.org/wiki/Wikipedia:Five_pillars){:target="_blank"} – the more detailed principles that form the basis of Wikipedia’s editorial policy. 
-- If you wish to go further, you can also read the [statement of principles from Wikipedia founder Jimbo Wales](https://en.wikipedia.org/wiki/User:Jimbo_Wales/Statement_of_principles){:target="_blank"} – however, this reading is not necessary for the exercise.
-
-Now discuss and try to answer the following questions: 
-- What are the most important principles and policies of Wikipedia?
-- Which policies and guidelines encourage Wikipedia users to engage with its content?
-- Why is it that this system of policies and guidelines does not prevent users from editing content but motivates them to create or update more and more Wikipedia articles?
-
-Just like historians, Wikipedians use sources to create and update Wikipedia articles. Wikipedia provides a comprehensive [summary of what sources Wikipedians can use](https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources){:target="_blank"}. Please read the introduction and [overview](https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources#Overview){:target="_blank"} sections of the article and try to answer the following question:
-- What should be the characteristics of the sources that Wikipedians can use?
-
 <!-- section -->
 
 ### 2.b Les pages de discussion et d’historique | 30 à 40 min 
@@ -138,6 +125,8 @@ Reagle, Joseph. *Good Faith Collaboration: The Culture of Wikipedia*. Massachuse
 Then & Now. “What is History? E.H. Carr.” YouTube video. 09:54 minutes. 10 October 2018. [https://youtu.be/gkdzu8X84fo](https://youtu.be/gkdzu8X84fo){:target="_blank"}  
 
 “Zachary Schrag on History.” YouTube video. 40:44 minutes. 27 April 2021. Extract from 1:40 to 7:23: “History as the study of people” [https://www.youtube.com/watch?v=YVDkShUW6oM&t=100s](https://www.youtube.com/watch?v=YVDkShUW6oM&t=100s){:target="_blank"}
+
+CRHIA. Faire de l'histoire - 1 : La démarche historique. Vidéo YouTube. 17 septembre 2024. https://youtu.be/2qFpo5iTCSI
 
 <!--“What is History?” *History Today* 70(8), August 2020 [https://www.historytoday.com/archive/head-head/what-history](https://www.historytoday.com/archive/head-head/what-history){:target="_blank"}-->  
 
