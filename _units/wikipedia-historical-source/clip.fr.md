@@ -4,7 +4,7 @@ type: clip
 lang: en
 parent: wikipedia-historical-source
 duration: 5
-iframe: wikipedia-historical-source 
+iframe: wikipedia-historical-source-french 
 ---
 
 {: .headsup}
