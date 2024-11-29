@@ -1,24 +1,25 @@
 ---
 layout: assignment
 unit: wikipedia-historical-source 
-lang: en
-title: "Behind the scenes of Wikipedia articles"
+lang: fr
+title: "Dans les coulisses des articles Wikipédia"
 cover:
 documents:
 tags:
 outcomes: 
-  - Understand how shared authority shapes the formation and evolution of historical narratives in Wikipedia 
+  - Comprendre comment l'autorité partagée façonne la construction et l'évolution des récits historiques dans Wikipédia 
 order: 4
 ---
-Many people use Wikipedia to learn about history. However, few of them probably know that Wikipedia articles are the product of lengthy debates, conflicts, collaborations, discussions and consensus between different Wikipedia editors. Wikipedia’s open approach provides us the opportunity to look “behind the scenes” and explore how the articles take shape and change over time. The “talk page” and “view history” reveal discussions between users about each entry, logs of all the changes and copies of older versions of the article. Both tabs include significant data for historical research. As Wikipedia users get involved with creating and editing articles, they participate in discussions and debates, providing useful data about how Wikipedians perceive the past, what historical arguments they make, how they try to reach a consensus, etc. The “view history” tab also contains data on how the historical narrative of a Wikipedia article changes over time. In this part of the lesson, we will investigate what happens “behind the scenes” of a Wikipedia article by exploring both the discussions between the users and the edit history of an article. To do so we will focus on one case study, the [article on the September 11 attacks](https://en.wikipedia.org/wiki/September_11_attacks){:target="_blank"} from the English edition of Wikipedia.
+Beaucoup de gens se servent de Wikipédia pour s’informer sur l’histoire. Cependant, rares sont ceux et celles qui savent que les articles Wikipédia sont le fruit de longs débats, de conflits, de collaborations, de discussions et de consensus entre les différents rédacteurs et rédactrices de la plateforme. L’approche ouverte de Wikipédia nous permet de voir ce qu'il se passe en coulisse et de comprendre comment les articles prennent forme et évoluent au fil du temps. Les pages de discussion et d’historique montrent les discussions entre les contributeurs sur chaque sujet, les traces de toutes les modifications apportées et les copies de versions précédentes de l’article. Elles fournissent ainsi des informations précieuses concernant la recherche historique. En contribuant à la création et à la modification des articles, les rédacteurs et rédactrices peuvent aussi participer à des débats et des discussions qui fournissent alors des données utiles sur la façon dont les Wikipédiens perçoivent le passé, les arguments qu'ils avancent et comment ils parviennent à un consensus. L'onglet « Voir l’historique » permet également de suivre l’évolution du récit historique d’un article. Dans cette partie de la leçon, nous allons nous intéresser à ce qui se passe dans les coulisses d’un article Wikipédia en analysant à la fois les échanges entre contributeurs/contributrices et l’historique des modifications d’un article. Pour cela, nous nous concentrerons sur une étude de cas, [l’article sur les attentats du 11 septembre]((https://en.wikipedia.org/wiki/September_11_attacks){:target="_blank"}) issu de la version anglaise de Wikipédia.
 
-> You can adapt the proposed exercise to focus on an article about a historical event, person or phenomenon of your choice, in a language you are more comfortable with. Examples include the Haitian revolution, the Arab Spring, the Silk Road, Cleopatra, feminism and slavery, but there are countless others to choose from. Please note that in this case some of the questions proposed below that are specific to the September 11 attacks may not be relevant.  
+> Vous pouvez adapter l’exercice proposé et vous focaliser sur un article concernant un évènement historique, une personne ou un phénomène de votre choix dans la langue qui vous convient le mieux. Il peut s’agir, par exemple, de la révolution haïtienne, du Printemps arabe, de la route de la soie, de Cléopâtre, du féminisme et de l’esclavage. Veuillez noter que dans ce cas, certaines des questions ci-dessous spécifiques aux attentats du 11 septembre pourraient ne plus être pertinentes.
+
 
 <!-- more -->
 
 <!-- briefing-student -->
 
-### 4.a Historical discussions and debates | 60 mins 
+### 4.a Discussions et débats en lien avec l'histoire | 60 min 
 <!-- section-contents -->
 
 The September 11 attacks were a traumatic event that shaped modern United States history and also had a broader global impact. If you click on the article’s “talk page” tab, you will notice that the discussions are extensive. I have selected some examples which give an insight into how Wikipedia users perceive the past and get involved in debates with other users about how to edit a Wikipedia article. The examples below include discussions on how Wikipedians should honour the memory of victims, how they should describe the people who caused the attacks, what title they should give the Wikipedia article, etc. So please click on the links below and read only the sections mentioned in the titles. For more information on “talk pages” and how to use them, see the video in assignment 2.b.
@@ -41,7 +42,7 @@ Then try to answer the following questions:
 
 <!-- section -->
 
-### 4.b Historical narratives in constant motion | 25 mins
+### 4.b Historical narratives in constant motion | 25 min
 <!-- section-contents -->
 
 The ways historians interrogate and write about the past can change over time. One of the foundations of historical research is to establish the state of the art of historiography on a given topic, examine its evolution and determine where it stands at the current moment. Wikipedia narratives change too, and historians need to assess them critically. Now let’s see how the Wikipedia article about the September 11 attacks has changed since its creation. 
