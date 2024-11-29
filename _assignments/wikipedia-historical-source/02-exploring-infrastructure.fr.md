@@ -67,9 +67,9 @@ Par la suite, essayez de répondre aux questions suivantes&#x202F;:
 - Comment les pages de discussion et d’historique des articles Wikipédia peuvent-elles être utiles aux historien(ne)s&#x202F;?
 - À quelles questions liées à l’histoire les informations disponibles sur ces pages peuvent-elles répondre&#x202F;?
 
-*Si tu choisis de regarder les vidéos pour répondre aux questions, cet exercice devrait prendre 30 minutes.* 
+*Si vous choisissez de regarder la vidéo pour répondre aux questions, cet exercice devrait prendre 30 minutes.* 
 
-*Si tu choisis de lire les articles pour répondre aux questions, cet exercice devrait prendre 45 minutes.*
+*Si vous choisissez de lire les articles pour répondre aux questions, cet exercice devrait prendre 45 minutes.*
 
 
 <!-- section -->
