@@ -1,7 +1,7 @@
 ---
 title: "Wikipédia comme source de connaissance historique"
 type: clip
-lang: en
+lang: fr
 parent: wikipedia-historical-source
 duration: 5
 iframe: wikipedia-historical-source-french 
