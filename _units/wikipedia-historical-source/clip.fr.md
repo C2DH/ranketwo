@@ -9,7 +9,7 @@ iframe: wikipedia-historical-source-french
 
 {: .headsup}
 
-Une animation vidéo présentant brièvement Wikipédia et expliquant pourquoi les historiens devraient s’y intéresser.
+Une animation vidéo présentant brièvement Wikipédia et expliquant pourquoi les historiens et historiennes devraient s’y intéresser.
 
 Créée par [Gorille](https://www.gorille.co/){:target="_blank"}.  
 
