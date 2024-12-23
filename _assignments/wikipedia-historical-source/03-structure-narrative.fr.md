@@ -30,7 +30,7 @@ Consultez l’article sur les [attentats du 11 septembre 2001](https://fr.wikipe
 - La bibliographie, les hyperliens et les références à d’autres évènements historiques que les rédacteurs et rédactrices ont utilisés.
 
 Faites ensuite preuve d’esprit critique et essayez de répondre aux questions suivantes&#x202F;:
-- Comment les contributeurs de la plateforme ont-ils structuré le récit historique de l’article&#x202F;?
+- Comment les rédacteurs et rédactrices de l'article ont structuré le récit historique&#x202F;?
 - Quels éléments audio et visuels (par exemple, des graphiques, vidéos, images, pistes audio) sont intégrés dans l’article de l’encyclopédie&#x202F;? 
 - En quoi ces éléments audio et visuels influencent-ils le récit historique de l’article&#x202F;?
 - Comment fonctionnent les hyperliens et comment influencent-ils la manière dont le lectorat lit et comprend l’article&#x202F;?
@@ -42,11 +42,13 @@ Faites ensuite preuve d’esprit critique et essayez de répondre aux questions 
 
 ### Suggestions de lectures/vidéos
 <!-- section-contents --> 
-Langlais, Pierre-Carl. «&#x202F;{{Référence nécessaire}} L’émergence d’une norme wikipédienne (2003-2009)&#x202F;». Dans *Wikipédia, objet scientifique non identifié*, par Lionel Barbe, Louise Merzeau, et Valérie Schafer (dir). Nanterre: Presses universitaires de Paris Nanterre, 2015. https://doi.org/10.4000/books.pupo.4106
+Langlais, Pierre-Carl. «&#x202F;{{Référence nécessaire}} L’émergence d’une norme wikipédienne (2003-2009)&#x202F;». Dans *Wikipédia, objet scientifique non identifié*, par Lionel Barbe, Louise Merzeau, et Valérie Schafer (dir). Nanterre: Presses universitaires de Paris Nanterre, 2015. DOI&#x202F;: [https://doi.org/10.4000/books.pupo.4106](https://doi.org/10.4000/books.pupo.4106)
 
-Lewkowicz, Alain, et Vincent Decque. «&#x202F;Attentats du 13 novembre 2015&#x202F;: écris-moi une page wikipédia&#x202F;». Dans *Une histoire particulière*, France Culture, 13 novembre 2016. [https://www.radiofrance.fr/franceculture/podcasts/une-histoire-particuliere-un-recit-documentaire-en-deux-parties/attentats-du-13-novembre-2015-ecris-moi-une-page-wikipedia-8168430](https://www.radiofrance.fr/franceculture/podcasts/une-histoire-particuliere-un-recit-documentaire-en-deux-parties/attentats-du-13-novembre-2015-ecris-moi-une-page-wikipedia-8168430)  
+Lewkowicz, Alain, et Vincent Decque. «&#x202F;Attentats du 13 novembre 2015&#x202F;: écris-moi une page wikipédia&#x202F;». Dans *Une histoire particulière*, France Culture, 13 novembre 2016. 
+URL&#x202F;: [https://www.radiofrance.fr/franceculture/podcasts/une-histoire-particuliere-un-recit-documentaire-en-deux-parties/attentats-du-13-novembre-2015-ecris-moi-une-page-wikipedia-8168430](https://www.radiofrance.fr/franceculture/podcasts/une-histoire-particuliere-un-recit-documentaire-en-deux-parties/attentats-du-13-novembre-2015-ecris-moi-une-page-wikipedia-8168430)  
 
-Saxton, Martha. «&#x202F;Wikipedia and Women’s History: A Classroom Experience&#x202F;». Dans *Writing History in the Digital Age*, par Jack Dougherty et Kristen Nawrotzki (dir.). University of Michigan Press, 2013. [https://www.jstor.org/stable/j.ctv65sx57.12](https://www.jstor.org/stable/j.ctv65sx57.12).
+Saxton, Martha. «&#x202F;Wikipedia and Women’s History: A Classroom Experience&#x202F;». Dans *Writing History in the Digital Age*, par Jack Dougherty et Kristen Nawrotzki (dir.). University of Michigan Press, 2013. DOI&#x202F;: [https://doi.org/10.2307/j.ctv65sx57.12](https://doi.org/10.2307/j.ctv65sx57.12
+).
 
 
 <!-- briefing-teacher -->
