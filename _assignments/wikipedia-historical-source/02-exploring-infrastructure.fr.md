@@ -77,7 +77,7 @@ Par la suite, essayez de répondre aux questions suivantes&#x202F;:
 ### 2.c L’histoire sur Wikipédia | 15 min
 <!-- section-contents -->
 
-Comme Wikipédia couvre de nombreux sujets, des portails distincts ont été créés pour chacun d’entre eux. Ces portails contiennent des définitions afférentes au sujet traité ainsi que des informations complémentaires concernant les différents sous-domaines et catégories du sujet. En plus des recommandations et des règles générales, la communauté Wikipédia a également établi des instructions plus spécifiques pour couvrir chaque sujet. L’histoire étant l’un d’entre eux, elle a son propre portail et fait l’objet des règles d’écriture particulières. Par exemple, la plateforme précise les types de sources que les Wikipédien(ne)s sont autorisés à utiliser pour traiter les sujets historiques.
+Comme Wikipédia couvre de nombreux sujets, des portails distincts ont été créés pour chacun d’entre eux. Ces portails contiennent des définitions afférentes au sujet traité ainsi que des informations complémentaires concernant les différents sous-domaines et catégories du sujet. En plus des recommandations et des règles générales, la communauté Wikipédia a également établi des instructions plus spécifiques pour couvrir chaque sujet. L’histoire étant l’un d’entre eux, elle a son propre portail et fait l’objet de règles d’écriture particulières. Par exemple, la plateforme précise les types de sources que les Wikipédien(ne)s sont autorisés à utiliser pour traiter les sujets historiques.
 
 Pour en savoir plus sur l’histoire en tant que sujet de Wikipédia, merci de consulter [la page d’accueil du portail dédié](https://fr.wikipedia.org/wiki/Portail:Histoire){:target="_blank"} afin d'analyser les éléments suivants&#x202F;:
 - la définition du mot «&#x202F;histoire&#x202F;» fournie par la page
@@ -88,7 +88,7 @@ Pour en savoir plus sur l’histoire en tant que sujet de Wikipédia, merci de c
 - Comment la communauté de Wikipédia semble-t-elle percevoir ce qu'est l’histoire&#x202F;?
 - Quelles sont les similarités ou les différences entre cette perception et les définitions avancées par les historiens académiques&#x202F;?
 
-Si besoin, consultez la liste des suggestions de lectures/vidéos ci-dessous afin de trouver des ressources proposant des définitions académiques de l'« &#x202F;histoire&#x202F;» et de la démarche historique.
+Si besoin, consultez la liste des suggestions de lectures/vidéos ci-dessous afin de trouver des ressources proposant des définitions académiques de l'«&#x202F;histoire&#x202F;» et de la démarche historique.
 
 <!-- section -->
 
@@ -101,7 +101,7 @@ Merci de lire [cette page Wikipédia](https://fr.wikipedia.org/wiki/Wikip%C3%A9d
 
 Essayez ensuite de répondre aux questions suivantes&#x202F;:
 
-- Quelles sont les sources recommandée pour créer ou modifier des pages afférentes à l'histoire&#x202F;?
+- Quelles sont les sources recommandées pour créer ou modifier des pages afférentes à l'histoire&#x202F;?
 - Les sources recommandées diffèrent-elles des sources utilisées par les historiens et historiennes universitaires&#x202F;?
 
 <!-- The time is estimated as follows: 25 minutes for reading plus 15 minutes to discuss and answer the questions--> 
