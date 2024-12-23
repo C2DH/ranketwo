@@ -26,9 +26,9 @@ En 2000, l’entrepreneur américain [Jimmy Wales](https://fr.wikipedia.org/wiki
 
 Afin de découvrir comment un nouveau modèle d’encyclopédie est né à l’ère d’Internet, regardez la vidéo suivante&#x202F;:
 
-[card](origine-de-wikipedia)
+[card](origine-de-wikipedia) 
 
-Si vous souhaitez mieux comprendre comment et pourquoi Wikipédia a été créée, ainsi que les nouvelles caractéristiques qu'elle a apportées à la production de connaissances, regardez la vidéo YouTube ci-dessous. Vous y verrez une présentation de Wikipédia par son fondateur, Jimmy Wales, datant de 2007.
+Si vous souhaitez mieux comprendre comment et pourquoi Wikipédia a été créée, ainsi que les nouvelles caractéristiques qu'elle a apportées à la production de connaissances, regardez la vidéo YouTube ci-dessous. Vous y verrez une présentation de Wikipédia par son fondateur, Jimmy Wales, datant de 2007. La vidéo est sou-titrée en français. 
 
 [card](jimmy-wales)
 
