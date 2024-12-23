@@ -42,10 +42,10 @@ Une fois que vous avez regardé les vidéos, essayez de répondre aux questions 
 
 <!-- section -->
 
-### 1.b En quoi Wikipédia est-elle pertinente pour les historiens et historiennes ? | 25 min
+### 1.b En quoi Wikipédia est-elle pertinente pour les historien(ne)s ? | 25 min
 <!-- section-contents -->
 
-En 2021, la Société américaine d’histoire a publié [une étude sur la façon dont le public américain perçoit et comprend le passé](https://www.historians.org/research-and-publications/perspectives-on-history/september-2021/a-snapshot-of-the-publics-views-on-history-national-poll-offers-valuable-insights-for-historians-and-advocates){:target="_blank"}. L’étude, réalisée à partir d’une enquête nationale menée auprès de 1816 personnes, offre une vue d’ensemble actualisée sur la manière dont le public perçoit l’histoire. Selon l’étude de la Société américaine d’histoire, 46&#x202F;% des personnes interrogées utilisent Wikipédia comme source de connaissances historiques afin d’en apprendre davantage sur l’histoire et de mieux comprendre le passé. Wikipédia a été plus sollicitée comparée à des activités telles que «&#x202F;Visite de site historique&#x202F;», «&#x202F;Visite de musée&#x202F;», «&#x202F;Travail généalogique&#x202F;», «&#x202F;Réseaux sociaux&#x202F;», «&#x202F;Podcast/émission de radio&#x202F;», «&#x202F;Cours d’histoire&#x202F;» et «&#x202F;Jeux vidéo liés à l’histoire&#x202F;». Ces résultats, ainsi que l’appropriation actuelle du corpus de Wikipédia par [ChatGPT](https://fr.wikipedia.org/wiki/ChatGPT){:target="_blank"} et les partenariats de Wikipédia avec le moteur de recherche en ligne le plus populaire, Google, et d’autres assistants numériques tels que [Siri](https://fr.wikipedia.org/wiki/Siri_(logiciel)){:target="_blank"} et [Alexa](https://fr.wikipedia.org/wiki/Amazon_Alexa){:target="_blank"}, montrent le rôle primordial que joue la plateforme dans la manière dont le public apprend l’histoire et interprète le passé en-dehors des milieux académiques et éditoriaux traditionnels.
+En 2021, la Société américaine d’histoire a publié [une étude sur la façon dont le public américain perçoit et comprend le passé](https://www.historians.org/research-and-publications/perspectives-on-history/september-2021/a-snapshot-of-the-publics-views-on-history-national-poll-offers-valuable-insights-for-historians-and-advocates){:target="_blank"}. L’étude, réalisée à partir d’une enquête nationale menée auprès de 1816 personnes, offre une vue d’ensemble actualisée sur la manière dont le public perçoit l’histoire. Selon l’étude de la Société américaine d’histoire, 46&#x202F;% des personnes interrogées utilisent Wikipédia comme source de connaissances historiques afin d’en apprendre davantage sur l’histoire et de mieux comprendre le passé. Wikipédia a été plus sollicitée comparée à des activités telles que «&#x202F;Visite de site historique&#x202F;», «&#x202F;Visite de musée&#x202F;», «&#x202F;Travail généalogique&#x202F;», «&#x202F;Réseaux sociaux&#x202F;», «&#x202F;Podcast/émission de radio&#x202F;», «&#x202F;Cours d’histoire&#x202F;» et «&#x202F;Jeux vidéo liés à l’histoire&#x202F;». Ces résultats, ainsi que l’appropriation actuelle du corpus de Wikipédia par [ChatGPT](https://fr.wikipedia.org/wiki/ChatGPT){:target="_blank"} et les partenariats de Wikipédia avec le moteur de recherche en ligne le plus populaire, Google, et d’autres assistants numériques tels que [Siri](https://fr.wikipedia.org/wiki/Siri_(logiciel)){:target="_blank"} et [Alexa](https://fr.wikipedia.org/wiki/Amazon_Alexa){:target="_blank"}, montrent le rôle primordial que joue la plateforme dans la manière dont le public apprend l’histoire et interprète le passé en dehors des milieux académiques et éditoriaux traditionnels.
 
 En vous fondant sur votre expérience personnelle avec Wikipédia, essayez de répondre aux questions ci-dessous. Si vous êtes en classe, vous pouvez discuter de vos réponses avec vos camarades&#x202F;:
 
@@ -53,7 +53,7 @@ En vous fondant sur votre expérience personnelle avec Wikipédia, essayez de r�
 - Avez-vous déjà utilisé Wikipédia pour faire des recherches sur des questions d’histoire&#x202F;? Le cas échéant, veuillez expliquer&#x202F;:
   - Pourquoi avez-vous choisi Wikipédia&#x202F;?
   - La plateforme vous a-t-elle aidé à répondre aux questions&#x202F;?
-  - Certaines parties des articles auxquels vous vous êtes référé ont-elles été plus utiles que d'autres&#x202F;?
+  - Certaines parties des articles auxquels vous vous êtes référé(e) ont-elles été plus utiles que d'autres&#x202F;?
   - Avez-vous vérifié les sources&#x202F;?
   - Avez-vous utilisé d’autres sources de connaissances en plus de Wikipédia&#x202F;?
   - Avez-vous relevé des erreurs&#x202F;?
@@ -65,10 +65,10 @@ Regardez maintenant cette vidéo dans laquelle l’historien américain [Jim Gro
 
 Après avoir regardé la vidéo, discutez-en et essayez de répondre aux questions suivantes en vous fondant sur ce que vous savez de Wikipédia et sur votre expérience personnelle&#x202F;:
 
-- De quelle manière les historiens peuvent-ils utiliser Wikipédia&#x202F;?
-- Les historiens peuvent-ils se servir de la plateforme pour la recherche historique&#x202F;? Le cas échéant, à quel genre de questions pourrait-elle répondre&#x202F;?
+- De quelle manière les historien(ne)s peuvent-ils/elles utiliser Wikipédia&#x202F;?
+- Les historien(ne)s peuvent-ils/elles se servir de la plateforme pour la recherche historique&#x202F;? Le cas échéant, à quel genre de questions pourrait-elle répondre&#x202F;?
 
-Pour répondre à ces questions, vous pouvez consulter le catalogue de votre bibliothèque, les bases de données de publications scientifiques ou le web plus large afin de trouver des références à des ouvrages historiques qui traitent d’une manière ou d’une autre de Wikipédia.
+Pour répondre à ces questions, vous pouvez consulter le catalogue de votre bibliothèque, des publications scientifiques disponibles en ligne ou le web plus large afin de trouver des références à des ouvrages historiques qui traitent d’une manière ou d’une autre de Wikipédia.
 
 <!-- section -->
 
@@ -86,7 +86,7 @@ Mexis, Anna et Camille Renard. «&#x202F;À l'origine de Wikipédia, l'oppositio
 
 *Sur la fiabilité de Wikipédia et l'engagement de sa communauté en faveur de la vérification de la véracité des faits évoqués dans les notices:* 
 
-Doutreix, Marie-Noëlle. «&#x202F;La fausse information au regard des vertus épistémiques de Wikipédia&#x202F;». *Le Temps des médias* 30(1) 2018: 91-104. DOI: https://doi.org/10.3917/tdm.030.0091. Disponible sur [https://hal.science/hal-02169931/document](https://hal.science/hal-02169931/document).  
+Doutreix, Marie-Noëlle. «&#x202F;La fausse information au regard des vertus épistémiques de Wikipédia&#x202F;». *Le Temps des médias* 30(1) 2018: 91-104. DOI: [https://doi.org/10.3917/tdm.030.0091](https://doi.org/10.3917/tdm.030.0091). Disponible sur [https://hal.science/hal-02169931/document](https://hal.science/hal-02169931/document){:target="_blank"}.  
 
 Wikimedia Foundation. «&#x202F;On Wikipedia, facts matter&#x202F;». Vidéo YouTube, 03:45 minutes. 22 décembre 2016, [https://youtu.be/xQ4ba28-oGs](https://youtu.be/xQ4ba28-oGs){:target="_blank"} 
 
