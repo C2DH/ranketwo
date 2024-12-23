@@ -23,21 +23,21 @@ Depuis sa création, Wikipédia est devenue une communauté autorégulée et un 
 ### 2.a Règles générales et recommandations | 30 min
 <!-- section-contents -->
 
-Afin d’explorer les opportunités que Wikipédia offre à la recherche historique, nous devons d’abord comprendre comment la plateforme fonctionne. Même si Wikipédia avance l’idée que «&#x202F;n’importe qui peut modifier à peu près n’importe quelle page et améliorer les articles instantanément&#x202F;», elle impose un système de directives, règles et recommandations qui encadrent la production de connaissances et la participation des utilisateurs au contenu de la plateforme. L’encyclopédie couvre divers sujets allant des mathématiques et de la biologie au sport, à la culture et aux arts. Bien que ses règles et recommandations s’appliquent à tous les sujets, il existe également des directives particulières pour chacun d’entre eux. Cet exercice invite les participants et partcipantes à explorer le système plus vaste de Wikipédia tout en se concentrant sur l’histoire en tant que catégorie de thématique de la plateforme.
+Afin d’explorer les opportunités que Wikipédia offre à la recherche historique, nous devons d’abord comprendre comment la plateforme fonctionne. Même si Wikipédia avance l’idée que «&#x202F;n’importe qui peut modifier à peu près n’importe quelle page et améliorer les articles instantanément&#x202F;», elle impose néanmoins un système de directives, règles et recommandations qui encadrent la production collaborative du contenu de la plateforme. L’encyclopédie couvre divers sujets allant des mathématiques et de la biologie au sport, à la culture et aux arts. Bien que ses règles et recommandations s’appliquent à tous les sujets, il existe également des directives particulières pour chacun d’entre eux. Cet exercice invite les participants et participantes à explorer le système plus vaste de Wikipédia tout en se concentrant sur l’histoire en tant que catégorie de thématique distincte de la plateforme.
 
-Les pages Wikipédia suivantes fournissent des informations spécifiques sur les règles, recommandations et directives de l’encyclopédie qui régissent la production de connaissances.
+Les pages suivantes de Wikipédia fournissent des informations spécifiques sur les règles, recommandations et directives de l’encyclopédie qui régissent la production de connaissances.
 
-- Commencez par vous familiariser avec [les trois principes fondamentaux qui caractérisent Wikipédia](){:target="_blank"}. Ils vous permettront de comprendre les grands principes qui encadrent la rédaction sur la plateforme.
-- Pour une meilleure compréhension, vous pouvez également consulter [les «&#x202F;principes fondateurs&#x202F;»](){:target="_blank"} qui expliquent plus en détail les principes à la base de la ligne éditoriale de Wikipédia.
-- Si vous souhaitez aller plus loin, vous pouvez également lire [la déclaration de principes du fondateur de Wikipédia](){:target="_blank"}, Jimbo Wales, cependant cette lecture n’est pas requise pour l’exercice.
+- Commencez par vous familiariser avec [les trois points fondamentaux qui caractérisent l'esprit de Wikipédia](https://en.wikipedia.org/wiki/Wikipedia:Trifecta){:target="_blank"}, qui permettent de comprendre les grands principes qui encadrent la rédaction sur la plateforme. La page de cette présentation, la «&#x202F;Trifecta&#x202F;», a été peu traduite, il est toutefois possible de prendre connaissance de son contenu en consultant [la page des usages de Wikipédia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Usages#Principes).    
+- Pour une meilleure compréhension, vous pouvez également consulter [les «&#x202F;principes fondateurs&#x202F;»](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Principes_fondateurs){:target="_blank"} qui expliquent plus en détail la ligne éditoriale de Wikipédia.
+- Si vous souhaitez aller plus loin, vous pouvez également lire [la déclaration de principes du fondateur de Wikipédia](https://en.wikipedia.org/wiki/User:Jimbo_Wales/Statement_of_principles){:target="_blank"}, Jimbo Wales. Cependant cette lecture n’est pas requise pour l’exercice et merci de noter que la page est disponible uniquement en anglais.
 
 À présent, discutez entre vous et essayez de répondre aux questions suivantes&#x202F;:
 
 - Quels sont les principes et règles clés de Wikipédia&#x202F;?
 - Quelles règles et recommandations incitent les utilisateurs de la plateforme à s’impliquer dans son contenu&#x202F;?
-- Comment ce système de règles et recommandations ne freine-t-il pas les utilisateurs mais les encouragent au contraire à éditer, créer ou mettre à jour de plus en plus d’articles Wikipédia&#x202F;?
+- Comment ce système de règles et recommandations ne freine-t-il pas les utilisateurs mais les encourage au contraire à éditer, créer ou mettre à jour de plus en plus d’articles Wikipédia&#x202F;?
 
-Tout comme les historiens, les Wikipédiens s’appuient sur des sources pour créer et mettre à jour les articles de l’encyclopédie. Wikipédia fournit [un relevé complet des sources que les Wikipédiens peuvent utiliser](){:target="_blank"}. Veuillez lire l’introduction et [les principes généraux](){:target="_blank"} de l’article afin de répondre à la question suivante&#x202F;:
+Tout comme les historien(ne)s, les Wikipédien(ne)s s’appuient sur des sources pour créer et mettre à jour les articles de l’encyclopédie. Wikipédia fournit [un relevé complet des sources que sa communauté peut utiliser](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Sources_fiables){:target="_blank"}. Veuillez lire l’introduction et [les principes généraux](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Sources_fiables#Principes_g%C3%A9n%C3%A9raux){:target="_blank"} de l’article afin de répondre à la question suivante&#x202F;:
 - Quelles devraient être les caractéristiques des sources que les Wikipédien(ne)s peuvent utiliser&#x202F;?
 
 <!-- section -->
@@ -47,7 +47,7 @@ Tout comme les historiens, les Wikipédiens s’appuient sur des sources pour cr
 
 En plus des règles et recommandations qui sous-tendent la production de connaissances sur Wikipédia, chaque article comporte deux onglets, «&#x202F;Discussion&#x202F;» et «&#x202F;Voir l’historique&#x202F;» (fig. 1). Vous pouvez accéder à ces pages depuis le menu principal qui s’affiche en dessous du titre de l’article.
 
-![Accéder aux pages de discussion et d'historique d'un article Wikipédia](/assets/images/wikipedia-historical-source/wp-talk-viewhistory-fr.jpg "Accéder aux pages de discussion et d'historique d'un article Wikipédia")
+![Accéder aux pages de discussion et d'historique d'un article Wikipédia](/.../assets/images/wikipedia-historical-source/wp-talk-viewhistory-fr.jpg "Accéder aux pages de discussion et d'historique d'un article Wikipédia")
 
 La page de discussion offre accès à toutes les discussions archivées concernant les modifications apportées à l’article au fil du temps. Cet espace montre également tous les échanges et débats entre les utilisateurs à propos de l’article. Des contributeurs et contributrices contestent souvent certaines informations de l’article, expriment leur désaccord et font des suggestions pour modifier le contenu de la page&#x202F;; d’autres leur répondent, et la page «&#x202F;Discussion&#x202F;» devient alors un véritable lieu d'échange. 
 
