@@ -1,7 +1,7 @@
 ---
 layout: assignment
 unit: wikipedia-historical-source 
-lang: en
+lang: de
 title: "Behind the scenes of Wikipedia articles"
 cover:
 documents:

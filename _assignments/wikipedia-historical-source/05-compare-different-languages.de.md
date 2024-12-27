@@ -1,7 +1,7 @@
 ---
 layout: assignment
 unit: wikipedia-historical-source 
-lang: en
+lang: de
 title: "Comparing Wikipedias in different languages"
 cover:
 documents:

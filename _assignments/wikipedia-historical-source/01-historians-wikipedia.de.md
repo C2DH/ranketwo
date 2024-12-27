@@ -1,7 +1,7 @@
 ---
 layout: assignment
 unit: wikipedia-historical-source 
-lang: en
+lang: de
 title: "Why should historians be interested in Wikipedia?"
 cover:
 documents:

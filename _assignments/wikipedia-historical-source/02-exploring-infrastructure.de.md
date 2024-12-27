@@ -1,7 +1,7 @@
 ---
 layout: assignment
 unit: wikipedia-historical-source 
-lang: en
+lang: de
 title: "Exploring Wikipedia’s infrastructure and policies"
 cover:
 documents:
