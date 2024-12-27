@@ -89,9 +89,10 @@
 
     <script>
       window.addEventListener('DOMContentLoaded', function () {
-        console.log('@DOMContentLoaded - transform links in ranketwo')
+        var language = '{{ page.lang }}'
+        console.log('[@DOMContentLoaded] language', language)
         window.ranketwo.setRelativePath('{{ "" | relative_url }}')
-        window.ranketwo.transformLinks()
+        window.ranketwo.transformLinks(language)
 
         var langDropdown = d3.select('#navbarDropdown')
         var langDropdownToggle = langDropdown.select('a.dropdown-toggle')
