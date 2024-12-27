@@ -28,7 +28,7 @@ Afin de découvrir comment un nouveau modèle d’encyclopédie est né à l’�
 
 [card](origine-de-wikipedia) 
 
-Si vous souhaitez mieux comprendre comment et pourquoi Wikipédia a été créée, ainsi que les nouvelles caractéristiques qu'elle a apportées à la production de connaissances, regardez la vidéo YouTube ci-dessous. Vous y verrez une présentation de Wikipédia par son fondateur, Jimmy Wales, datant de 2007. La vidéo est sou-titrée en français. 
+Si vous souhaitez mieux comprendre comment et pourquoi Wikipédia a été créée, ainsi que les nouvelles caractéristiques qu'elle a apportées à la production de connaissances, regardez la vidéo YouTube ci-dessous. Vous y verrez une présentation de Wikipédia par son fondateur, Jimmy Wales, datant de 2007. La vidéo est sous-titrée en français. 
 
 [card](jimmy-wales)
 
