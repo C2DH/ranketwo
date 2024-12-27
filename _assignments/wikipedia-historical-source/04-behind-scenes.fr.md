@@ -19,7 +19,7 @@ Beaucoup de gens se servent de Wikipédia pour s’informer sur l’histoire. Ce
 
 <!-- briefing-student -->
 
-### 4.a Discussions et débats en lien avec l'histoire | 60 min 
+### 4.a Discussion historique et débats | 60 min 
 <!-- section-contents -->
 
 The September 11 attacks were a traumatic event that shaped modern United States history and also had a broader global impact. If you click on the article’s “talk page” tab, you will notice that the discussions are extensive. I have selected some examples which give an insight into how Wikipedia users perceive the past and get involved in debates with other users about how to edit a Wikipedia article. The examples below include discussions on how Wikipedians should honour the memory of victims, how they should describe the people who caused the attacks, what title they should give the Wikipedia article, etc. So please click on the links below and read only the sections mentioned in the titles. For more information on “talk pages” and how to use them, see the video in assignment 2.b.
@@ -42,16 +42,26 @@ Then try to answer the following questions:
 
 <!-- section -->
 
-### 4.b Historical narratives in constant motion | 25 min
+### 4.b Les récits historiques en évolution perpétuelle | 25 min
 <!-- section-contents -->
 
-The ways historians interrogate and write about the past can change over time. One of the foundations of historical research is to establish the state of the art of historiography on a given topic, examine its evolution and determine where it stands at the current moment. Wikipedia narratives change too, and historians need to assess them critically. Now let’s see how the Wikipedia article about the September 11 attacks has changed since its creation. 
+La façon dont les historien(ne)s s’interrogent et écrivent sur le passé peut évoluer au fil du temps. L'un des fondements de la recherche historique est de faire le point sur l’historiographie d’un sujet, d’analyser son évolution et de déterminer où elle en est à l’heure actuelle. Les récits sur Wikipédia évoluent également, et les historien(ne)s doivent donc les étudier de manière critique. À présent, voyons comment l’article sur les attentats du 11 septembre a évolué depuis sa création.
 
-Please click on the two links below, which contain the most recent edits to the article and the editors who made those changes. 
+Suivez les deux liens ci-dessous qui reprennent les dernières modifications apportées à l’article tout en identifiant les rédacteurs ou rédactrices qui les ont effectuées.
 
-[Revision history page 1](https://en.wikipedia.org/w/index.php?title=September_11_attacks&action=history&dir=prev&offset=20231126232142%7C1187018579){:target="_blank"} – estimated reading time: 8 minutes 
+[Historique des versions page 1](https://en.wikipedia.org/w/index.php?title=September_11_attacks&action=history&dir=prev&offset=20231126232142%7C1187018579){:target="_blank"} – temps de lecture estimé&#x202F;: 8 minutes 
 
-[Revision history page 2](https://en.wikipedia.org/w/index.php?title=September_11_attacks&action=history&offset=20231127221517%7C1187170755){:target="_blank"} – estimated reading time: 7 minutes 
+[Historique des versions page 2](https://en.wikipedia.org/w/index.php?title=September_11_attacks&action=history&offset=20231127221517%7C1187170755){:target="_blank"} – temps de lecture estimé&#x202F;: 7 minutes 
+
+Pendant votre lecture, prêtez attention aux éléments suivants&#x202F;:
+1.  Le type de modifications apportées : correction des erreurs de vocabulaire et de grammaire, ajout de davantage d’éléments visuels, réorganisation du corps de l’article, etc.
+2.  Les éditeurs à l'origine de ces modifications.
+Pour plus d’informations sur l’utilisation du portail «&#x202F;Voir l’historique&#x202F;», regardez la vidéo proposée à l’exercice 2.b.
+Après avoir lu les extraits ci-dessus, essayez de répondre aux questions suivantes, même si notre échantillon est limité (seulement deux pages issues d’une longue série de révisions)&#x202F;:
+- Comment le récit historique de l’article a-t-il évolué au fil du temps&#x202F;?
+- Quels types de contributions les éditeurs apportent-ils&#x202F;? Par exemple, corrigent-ils les fautes de grammaire et d’orthographe ou modifient-ils l’article en profondeur&#x202F;?
+- En regardant les noms des éditeurs, remarquez-vous la présence de bots&#x202F;? Que signifie la collaboration entre humains et agents non humains pour la production de l'histoire à l'ère numérique&#x202F;?
+
 
 While you read the pages, please pay attention to: 
 
@@ -68,19 +78,25 @@ After reading the above extracts, try to answer the following questions, even th
 
 <!-- section -->
 
-### Reading/viewing suggestions
+### Suggestions de lectures/vidéos
 <!-- section-contents --> 
 
-Apostolopoulos, Petros. “Discussing the Past: The Production of Historical Knowledge on Wikipedia.” (PhD, Raleigh, N.C., North Carolina State University, 2022), [https://repository.lib.ncsu.edu/items/e230ad0d-9a52-48ae-bef1-65791ebdc3e6](https://repository.lib.ncsu.edu/items/e230ad0d-9a52-48ae-bef1-65791ebdc3e6){:target="_blank"}  (Chapîtres 2 & 3)
+_En français_
 
-Hocquet, Alexandre. «&#x202F;Wikipédia en tant que forum : une analyse de réseaux sociaux pour l’ethnographie de la production d’articles&#x202F;». In _Wikipédia, objet scientifique non identifié_, édité par Lionel Barbe, Louise Merzeau, et Valérie Schafer. Nanterre&#x202F;: Presses universitaires de Paris Nanterre, 2015. DOI&#x202F;: [https://doi.org/10.4000/books.pupo.4123](https://doi.org/10.4000/books.pupo.4123){:target="_blank"}
+Chappey, Jean-Luc. «&#x202F;Wikipédia et l’écriture de l’histoire&#x202F;: conservation ou révolution&#x202F;?&#x202F;». In _Dans les dédales du web_, dirigé par Gaëtan Bonnot et Stéphane Lamassé. Paris&#x202F;: Éditions de la Sorbonne, 2019. DOI&#x202F;: [https://doi.org/10.4000/11yw6](https://doi.org/10.4000/11yw6){:target="_blank"}
+
+Hocquet, Alexandre. «&#x202F;Wikipédia en tant que forum&#x202F;: une analyse de réseaux sociaux pour l’ethnographie de la production d’articles&#x202F;». In _Wikipédia, objet scientifique non identifié_, dirigé par Lionel Barbe, Louise Merzeau, et Valérie Schafer. Nanterre&#x202F;: Presses universitaires de Paris Nanterre, 2015. DOI&#x202F;: [https://doi.org/10.4000/books.pupo.4123](https://doi.org/10.4000/books.pupo.4123){:target="_blank"}
+
+_En anglais_
+
+Apostolopoulos, Petros. _Producing and Debating History: Historical Knowledge on Wikipedia_. Berlin, Boston&#x202F;: De Gruyter Oldenbourg, 2024. DOI&#x202F;: [https://doi.org/10.1515/9783111069586](https://doi.org/10.1515/9783111069586){:target="_blank"} (Chapîtres 2 & 3)
 
 Ford, Heather. _Writing the Revolution. Wikipedia and the Survival of Facts in the Digital Age_. Cambridge, Massachusetts and London, England: MIT Press, 2022. (Chapters 2, 3 & 4)
 
-Niederer, Sabine and José van Dijck. “Wisdom of the Crowd or technicity of the content? Wikipedia as a sociotechnical system.” _New media & Society_ 12(8) (2010): 1368-1387. A copy of the article is available at [https://www.researchgate.net/publication/249689493_Wisdom_of_the_Crowd_or_Technicity_of_Content_Wikipedia_as_a_Sociotechnical_System](https://www.researchgate.net/publication/249689493_Wisdom_of_the_Crowd_or_Technicity_of_Content_Wikipedia_as_a_Sociotechnical_System)
+Niederer, Sabine et José van Dijck. «&#x202F;Wisdom of the Crowd or technicity of the content? Wikipedia as a sociotechnical system&#x202F;». _New media & Society_ 12(8) (2010)&#x202F;: 1368-1387. [https://www.researchgate.net/publication/249689493_Wisdom_of_the_Crowd_or_Technicity_of_Content_Wikipedia_as_a_Sociotechnical_System](https://www.researchgate.net/publication/249689493_Wisdom_of_the_Crowd_or_Technicity_of_Content_Wikipedia_as_a_Sociotechnical_System)
 
-Pentzold, Christian. “Fixing the floating gap: The online encyclopaedia Wikipedia as a global memory place.” _Memory Studies_ 2, no. 2 (May 2009): 255-272. DOI: https://doi.org/10.1177/1750698008102055 
-Available at: [https://christianpentzold.de/wp-content/uploads/2012/11/Memory-Studies-Pentzold.pdf](https://christianpentzold.de/wp-content/uploads/2012/11/Memory-Studies-Pentzold.pdf){:target="_blank"} 
+Pentzold, Christian. «&#x202F;Fixing the floating gap: The online encyclopaedia Wikipedia as a global memory place&#x202F;». _Memory Studies_ 2 (2) (mai 2009): 255-272. DOI: [https://doi.org/10.1177/1750698008102055](https://doi.org/10.1177/1750698008102055) 
+Disponble sur: [https://christianpentzold.de/wp-content/uploads/2012/11/Memory-Studies-Pentzold.pdf](https://christianpentzold.de/wp-content/uploads/2012/11/Memory-Studies-Pentzold.pdf){:target="_blank"} 
 
 
 
