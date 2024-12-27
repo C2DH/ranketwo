@@ -22,23 +22,23 @@ Beaucoup de gens se servent de Wikipédia pour s’informer sur l’histoire. Ce
 ### 4.a Discussion historique et débats | 60 min 
 <!-- section-contents -->
 
-The September 11 attacks were a traumatic event that shaped modern United States history and also had a broader global impact. If you click on the article’s “talk page” tab, you will notice that the discussions are extensive. I have selected some examples which give an insight into how Wikipedia users perceive the past and get involved in debates with other users about how to edit a Wikipedia article. The examples below include discussions on how Wikipedians should honour the memory of victims, how they should describe the people who caused the attacks, what title they should give the Wikipedia article, etc. So please click on the links below and read only the sections mentioned in the titles. For more information on “talk pages” and how to use them, see the video in assignment 2.b.
+Les attentats du 11 septembre ont été un évènement traumatisant qui a façonné l'histoire moderne des États-Unis et a eu un impact déterminant à l’échelle mondiale. Si vous cliquez sur l’onglet «&#x202F;Discussion&#x202F;» de l’article, vous remarquerez que les échanges sont nombreux. J’ai sélectionné quelques exemples qui donnent un aperçu de la manière dont les utilisateurs de Wikipédia perçoivent le passé et prennent part à des débats sur la façon d’éditer un article Wikipédia. Les exemples ci-dessous comprennent des discussions sur la manière dont les Wikipédiens devraient honorer la mémoire des victimes, comment décrire les auteurs des attentats, quel titre donner à l’article, etc. Cliquez sur les liens ci-dessous et ne lisez que les sections mentionnées dans les titres. Pour plus d’informations sur les onglets «&#x202F;Discussion&#x202F;» et comment les utiliser, regardez la vidéo proposée à [l’exercice 2.b](/#assignment-02-exploring-infrastructure.fr).
 
-- [Talk on the title of the article](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_3#Article_Title){:target="_blank"} – estimated reading time: 20 minutes
-- [Talk on deleting the word terrorist](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_7#Deleting_terrorist){:target="_blank"} – estimated reading time: 15 minutes 
-- [Talk on use of the terms “terrorist”, “terrorism” and “freedom fighter”](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_11#%22Terrorist%22,_%22terrorism%22_and_%22freedom_fighter%22){:target="_blank"} – estimated reading time: 6 minutes 
-- [Talk on memory](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_13#In_Memorium){:target="_blank"} – estimated reading time: 13 seconds  
-- [Talk on memorial](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_21#Memorial){:target="_blank"} – estimated reading time: 30 seconds  
+- [Discussion sur le titre de l’article](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_3#Article_Title){:target="_blank"} – temps de lecture estimé&#x202F;: 20 minutes
+- [Discussion sur la suppression du mot «&#x202F;terroriste&#x202F;»](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_7#Deleting_terrorist){:target="_blank"} – temps de lecture estimé&#x202F;: 15 minutes 
+- [Discussion sur l’utilisation des termes «&#x202F;terroriste&#x202F;», «&#x202F;terrorisme&#x202F;» et «&#x202F;combattant de la liberté&#x202F;»](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_11#%22Terrorist%22,_%22terrorism%22_and_%22freedom_fighter%22){:target="_blank"} – temps de lecture estimé&#x202F;: 6 minutes 
+- [Discussion sur la mémoire](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_13#In_Memorium){:target="_blank"} – temps de lecture estimé&#x202F;: 13 secondes  
+- [Discussion sur les monuments commémoratifs](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_21#Memorial){:target="_blank"} – temps de lecture estimé&#x202F;: 30 secondes  
 
-Then try to answer the following questions:
+Essayez ensuite de répondre aux questions suivantes&#x202F;:
 
-- Which topics related to the event covered by the Wikipedia article – here, the September 11 attacks – do most Wikipedia users discuss?
-- Why do Wikipedia users get involved in debates?
-- What arguments do they make to support their opinions, and what reactions do they receive from other Wikipedians in the specific case studies?
-- How do Wikipedia users perceive the event covered by the Wikipedia article (here, the September 11 attacks)? Do they express any personal emotions and memories about the history of the September 11 attacks?
-- Why do Wikipedians want to edit the Wikipedia page about the event (here, the September 11 attacks)? What is the meaning of editing for them?
-- How do Wikipedia users involved in discussions and debates try to reach a consensus?
-- Can you notice changes in the topics raised over time? What do you think this reveals about the perception/reception of the subject of the article? 
+- Quels sont les sujets liés à l’évènement traité dans l’article Wikipédia, ici les attentats du 11 septembre, qui reviennent le plus souvent dans les discussions entre les utilisateurs de la plateforme&#x202F;?
+- Pourquoi les utilisateurs prennent-ils part à des débats&#x202F;?
+- Quels arguments avancent-ils pour étayer leurs opinions et comment les autres Wikipédiens réagissent-ils dans ces études de cas&#x202F;?
+- Comment les utilisateurs perçoivent-ils l’évènement traité dans l’article (ici, les attentats du 11 septembre)&#x202F;? Partagent-ils des émotions personnelles ou des souvenirs liés à l’histoire des attentats du 11 septembre&#x202F;?
+- Pourquoi les Wikipédiens veulent-ils éditer la page Wikipédia consacrée à l’évènement (ici, les attentats du 11 septembre)&#x202F;? Quelle importance cela a-t-il pour eux de contribuer à cette modification ?
+- Comment les contributeurs impliqués dans des échanges et des débats essaient-ils de trouver un consensus&#x202F;?
+- Observez-vous des changements dans les sujets abordés au fil du temps&#x202F;? Que pensez-vous que cela révèle dans la façon dont cet évènement est perçu et interprété&#x202F;?
 
 <!-- section -->
 
@@ -53,28 +53,18 @@ Suivez les deux liens ci-dessous qui reprennent les dernières modifications app
 
 [Historique des versions page 2](https://en.wikipedia.org/w/index.php?title=September_11_attacks&action=history&offset=20231127221517%7C1187170755){:target="_blank"} – temps de lecture estimé&#x202F;: 7 minutes 
 
-Pendant votre lecture, prêtez attention aux éléments suivants&#x202F;:
-1.  Le type de modifications apportées : correction des erreurs de vocabulaire et de grammaire, ajout de davantage d’éléments visuels, réorganisation du corps de l’article, etc.
-2.  Les éditeurs à l'origine de ces modifications.
-Pour plus d’informations sur l’utilisation du portail «&#x202F;Voir l’historique&#x202F;», regardez la vidéo proposée à l’exercice 2.b.
+Pendant votre lecture, merci de prêter attention aux éléments suivants&#x202F;:
+
+1.  Le **type** de modifications apportées&#x202F;: s'agit-il de correction des erreurs de vocabulaire et de grammaire, d'ajout de davantage d’éléments visuels, de réorganisation du corps de l’article, etc.
+2.  Les rédacteurs/rédactrices de Wikipédia à l'origine de ces modifications.
+
+Pour plus d’informations sur l’utilisation de l'onglet «&#x202F;Voir l’historique&#x202F;», n'hésitez pas à recourir à la vidéo proposée à [l’exercice 2.b](/#assignment-02-exploring-infrastructure.fr).
+
 Après avoir lu les extraits ci-dessus, essayez de répondre aux questions suivantes, même si notre échantillon est limité (seulement deux pages issues d’une longue série de révisions)&#x202F;:
+
 - Comment le récit historique de l’article a-t-il évolué au fil du temps&#x202F;?
-- Quels types de contributions les éditeurs apportent-ils&#x202F;? Par exemple, corrigent-ils les fautes de grammaire et d’orthographe ou modifient-ils l’article en profondeur&#x202F;?
-- En regardant les noms des éditeurs, remarquez-vous la présence de bots&#x202F;? Que signifie la collaboration entre humains et agents non humains pour la production de l'histoire à l'ère numérique&#x202F;?
-
-
-While you read the pages, please pay attention to: 
-
-1. The **type** of editing changes, e.g. correcting vocabulary and grammar mistakes, adding more visual materials, reorganising the text of the article, etc. 
-2. The **editors** who make those changes.
-
-> For more information on how to use the “view history” portal, please watch the video in assignment 2.b. 
-
-After reading the above extracts, try to answer the following questions, even though our sample is small (only two pages from a very extensive revision history): 
-
-- How does the historical narrative of the article change over time?
-- What types of contributions do editors make? For example, do they correct grammar or spelling mistakes, or do they make major changes to the article?
-- When you look at the names of editors, do you notice the existence of bots? What does the collaboration between humans and non-human agents signify for the production of history in the digital age?
+- Quels types de contributions les rédacteurs apportent-ils&#x202F;? Par exemple, corrigent-ils les fautes de grammaire et d’orthographe ou modifient-ils l’article en profondeur&#x202F;?
+- En inspectant les comptes des rédacteurs, remarquez-vous la présence de [bots](https://fr.wikipedia.org/wiki/Bot_de_Wikip%C3%A9dia)&#x202F;? Que signifie la collaboration entre humains et agents non-humains pour la production de l'histoire à l'ère numérique&#x202F;?
 
 <!-- section -->
 
