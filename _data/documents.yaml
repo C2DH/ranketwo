@@ -1945,3 +1945,16 @@
             duration: 167
         year: 21 December 2013
     url: https://youtu.be/S-Yj7V6d54Q
+-
+    title: 
+        fr: 'À l’origine de Wikipédia'
+    slug: origine-de-wikipedia
+    type: video 
+    data: 
+        embed: 
+            thumbnail_url: 'https://www.dailymotion.com/thumbnail/video/x8i606j?size=720'
+            author_name: 'France Culture' 
+            duration:  
+        year: 2023 
+    url: 'https://dai.ly/x8i606j' 
+
