@@ -7,7 +7,7 @@ cover:
 documents:
 tags:
 outcomes: 
-  - Learn how the features of the Wikipedia infrastructure shape historical narratives
+  - Lernen Sie, wie die Funktionen der Wikipedia-Infrastruktur die historischen Narrative formen
 order: 3
 ---
 Wikipedia-Artikel enthalten historische Erzählungen über die Vergangenheit. Das heißt, dass sie eine Geschichte über die Vergangenheit erzählen. Diese Geschichten sind das Ergebnis des gemeinsamen Schreibens von Wikipedia-Nutzenden. Jeder Artikel weist eine andere Struktur auf, basierend auf unterschiedlichen Kombinationen standardisierter Abschnitte (z.B. Kapitel, Abschnitte, Infoboxen, Hyperlinks), einschließlich visueller und auditiver Elemente (z.B. Graphiken, Videos, Abbildungen, Tondateien) und bibliographischer Referenzen. Nachdem Sie jetzt besser verstehen, wie Wikipedia funktioniert, sehen wir uns das historische Narrativ eines Wikipedia-Artikels an.
