@@ -46,7 +46,7 @@ Wie HistorikerInnen verwenden Wikipedianer Quellen zur Erstellung und Aktualisie
 
 Neben den Grundsätzen und Richtlinien, die der Wissensproduktion auf Wikipedia zugrunde liegen, verfügt jeder Wikipedia-Artikel über zwei Registerkarten, die „Diskussionsseite“ und die „Versionsgeschichte“. 1). Sie können über das Hauptmenü, das Sie unter dem Titel des Artikels sehen, auf diese Seiten zugreifen.
 
-![How to access “talk” and “view history” pages of a Wikipedia article](/assets/images/wikipedia-historical-source/wp-talk-viewhistory.jpg "How to access talk and view history pages of a Wikipedia article")
+![Wie man auf die Seiten „Diskussion“ und „Versionsgeschichte“ eines Wikipedia-Artikels zugreift](/assets/images/wikipedia-historical-source/wp-talk-viewhistory-de.jpg "Wie man auf die Seiten „Diskussion“ und „Versionsgeschichte“ eines Wikipedia-Artikels zugreift")
 
 Auf der „Diskussionsseite“ finden die Nutzenden alle archivierten Diskussionen über die Änderungen, die im Laufe der Zeit an einem bestimmten Eintrag vorgenommen wurden. Dieser Bereich zeigt auch alle Diskussionen und Debatten zwischen Wikipedia-Nutzenden über diesen Eintrag. Nutzende stellen Informationen in einem Wikipedia-Eintrag häufig in Frage, geben an, dass sie damit nicht einverstanden sind und unterbreiten Vorschläge für die Seite. Andere Nutzende antworten dann, und so entsteht eine Diskussion. Die „Versionsgeschichte֧“ umfasst Protokolle aller Änderungen (ohne Diskussionen) und Kopien älterer Versionen der Artikel. Diese Informationen können HistorikerInnen helfen, die Grundprinzipien der traditionellen Quellenkritik anzuwenden, um festzustellen, wie und von wem eine Quelle erstellt wurde.
 
