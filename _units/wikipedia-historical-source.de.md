@@ -21,7 +21,7 @@ reviewers:
 lang: de
 unit_id: wikipedia-historical-source
 link: /u/wikipedia-historical-source/
-permalink: /u/wikipedia-historical-source/
+permalink: /de/u/wikipedia-historical-source/
 audience: 
 components:
   small: Videoanimation
