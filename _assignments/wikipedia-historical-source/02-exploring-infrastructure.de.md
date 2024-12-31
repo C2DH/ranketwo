@@ -2,126 +2,131 @@
 layout: assignment
 unit: wikipedia-historical-source 
 lang: de
-title: "Exploring Wikipedia’s infrastructure and policies"
+title: "Untersuchung der Infrastruktur und Grundsätze von Wikipedia"
 cover:
 documents:
 tags:
 outcomes:
-  - Understand the policies and guidelines that define historical knowledge production in Wikipedia  
-  - Become familiar with the features of the Wikipedia infrastructure that allow users to contextualise the collaborative production of historical narratives   
+  - Verständnis der Grundsätze und Richtlinien, mittels denen die historische Wissensproduktion auf Wikipedia definiert wird
+  - Kennenlernen der Funktionen der Wikipedia-Infrastruktur, die Nutzenden ermöglicht, die gemeinsame Produktion historischer Narrative in einen Kontext zu setzen.   
 order: 2
 ---
-Wikipedia is a born-digital source that contains historically stimulating information about how Wikipedia users perceive the past, how they interpret it based on the present, and how they transform the past into Wikipedia articles. This information can be extracted both from the main content of Wikipedia and from discussions and debates between Wikipedia users, which take place “behind the scenes” in the “talk pages” of articles. Historians who work with Wikipedia should familiarise themselves with both the specific characteristics of its infrastructure and the policies governing (historical) knowledge production so that they can contextualise the information they retrieve.  
+Wikipedia ist eine digital entstandene Quelle, die historisch stimulierende Informationen darüber enthält, wie Wikipedia-Nutzende die Vergangenheit wahrnehmen, wie sie diese auf Basis der Gegenwart interpretieren und wie sie die Vergangenheit in Wikipedia-Artikel transformieren. Diese Informationen können sowohl vom Hauptinhalt auf Wikipedia als auch von Diskussionen und Debatten zwischen Wikipedia-Nutzenden gewonnen werden, die „hinter den Kulissen“ in den „Diskussionsseiten“ der Artikel stattfinden. HistorikerInnen, die mit Wikipedia arbeiten, sollten sich sowohl mit den spezifischen Charakteristiken der Infrastruktur als auch mit den Grundsätzen vertraut machen, denen die (historische) Wissensproduktion unterliegt, damit sie die von ihnen gewonnenen Informationen in einen Zusammenhang stellen können.
 
-Since it was founded, Wikipedia has become a self-regulated community and a public space where people can discuss, create and edit historical articles. The digital structure of Wikipedia, including its policies, guidelines, hierarchy and sub-communities, encourages the dynamic, multilayered participation of its editors and active engagement with the production of historical knowledge. The following sub-assignments investigate Wikipedia’s infrastructure, policies and guidelines, the “talk pages” where Wikipedians take part in discussions and debates about history, edits to Wikipedia articles, and finally the perception of history as a field of knowledge by Wikipedia.
+Seit ihrer Gründung hat sich Wikipedia zu einer selbstregulierten Gemeinschaft und einem öffentlichen Raum entwickeln, in dem Menschen historische Artikel besprechen, erstellen und bearbeiten können. Die digitale Struktur von Wikipedia, einschließlich ihrer Grundsätze, Richtlinien, Hierarchie und Untergemeinschaften, fördert die dynamische, vielschichtige Beteiligung ihrer Bearbeitenden und die aktive Beteiligung an der Produktion von historischem Wissen. Die folgenden Unteraufgaben untersuchen die Infrastruktur, die Grundsätze und die Richtlinien von Wikipedia, die „Diskussionsseiten“, auf denen Wikipedianer an Diskussionen und Debatten über Geschichte teilnehmen, Bearbeitungen von Wikipedia-Artikeln und schlussendlich die Wahrnehmung von Geschichte als Wissensgebiet durch Wikipedia.
 
 <!-- more -->
 
 <!-- briefing-student -->
 
-### 2.a General policies and guidelines | 30 mins
+### 2.a Allgemeine Grundsätze und Richtlinien | 30 Min.
 <!-- section-contents -->
 
-To explore the opportunities that Wikipedia offers for historical research, we should first understand how Wikipedia works. Even though Wikipedia promotes the idea that “anyone can edit nearly any page and improve articles immediately”, it enforces a system of rules, policies and guidelines that govern knowledge production and users’ engagement with Wikipedia content. Wikipedia includes subjects ranging from mathematics and biology to sports, culture and the arts. Although all Wikipedia guidelines and policies are applicable for all subjects, there are also particular rules for each subject. This assignment encourages learners to explore the broader system of the Wikipedia community, while at the same time focusing on history as a Wikipedia subject category. 
+Um die Möglichkeiten zu untersuchen, die Wikipedia für die Geschichtsforschung bietet, müssen wir zuerst verstehen, wie Wikipedia funktioniert. Obwohl Wikipedia die Vorstellung vermittelt, dass „jedermann nahezu jede Seite bearbeiten und Artikel unverzüglich verbessern kann“, gibt es ein System von Regeln, Grundsätzen und Richtlinien, denen die Wissensproduktion und das Engagement der Nutzenden mit Wikipedia-Inhalten unterliegt. Wikipedia umfasst Themen von Mathematik und Biologie bis zu Sport, Kultur und Kunst. Obwohl alle Wikipedia-Richtlinien und Grundsätze für alle Themen gültig sind, gibt es auch bestimmte Regeln für jedes Thema. Diese Aufgabe regt die Lernenden dazu an, das breitere System der Wikipedia-Gemeinschaft zu erkunden, bei gleichzeitigem Fokus auf Geschichte als Wikipedia-Fachkategorie.
 
-The following Wikipedia pages contain specific information on Wikipedia’s policies, guidelines and rules, which determine how knowledge is produced on Wikipedia. 
+Die folgenden Wikipedia-Seiten enthalten spezifische Informationen über die Grundsätze, Richtlinien und Regeln von Wikipedia, die bestimmen, wie Wissen auf Wikipedia produziert wird.
 
-- Start by familiarising yourself with [the three core principles that sum up Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Trifecta){:target="_blank"}. These will give you a basic understanding of the main principles that guide editing on Wikipedia. 
-- For a more in-depth view, you can then check out the [“five pillars”](https://en.wikipedia.org/wiki/Wikipedia:Five_pillars){:target="_blank"} – the more detailed principles that form the basis of Wikipedia’s editorial policy. 
-- If you wish to go further, you can also read the [statement of principles from Wikipedia founder Jimbo Wales](https://en.wikipedia.org/wiki/User:Jimbo_Wales/Statement_of_principles){:target="_blank"} – however, this reading is not necessary for the exercise.
+- Machen Sie sich zunächst mit den [drei Hauptprinzipien von Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Trifecta){:target="_blank"} (in Englisch) vertraut. Diese vermitteln Ihnen ein grundlegendes Verständnis der wichtigsten Prinzipien, die für die Bearbeitung von Wikipedia gelten.
+- Für einen detaillierteren Einblick können Sie dann die [„fünf Pfeiler“](https://de.wikipedia.org/wiki/Wikipedia:Grundprinzipien){:target="_blank"} untersuchen – die detaillierteren Prinzipien, die als Grundlage für die Bearbeitungspolitik von Wikipedia dienen.
+- Wenn Sie weiter gehen möchten, können Sie auch [die Grundsatzerklärung von Wikipedia-Gründer Jimbo Wales](https://en.wikipedia.org/wiki/User:Jimbo_Wales/Statement_of_principles){:target="_blank"} (in Englisch) lesen, wobei dies jedoch für die Ausführung dieser Aufgabe nicht erforderlich ist.
 
-Now discuss and try to answer the following questions: 
-- What are the most important principles and policies of Wikipedia?
-- Which policies and guidelines encourage Wikipedia users to engage with its content?
-- Why is it that this system of policies and guidelines does not prevent users from editing content but motivates them to create or update more and more Wikipedia articles?
+Diskutieren Sie jetzt und versuchen Sie, die folgenden Fragen zu beantworten:
+- Was sind die wichtigsten Prinzipien und Grundsätze von Wikipedia?
+- Welche Grundsätze und Richtlinien ermutigen Wikipedia-Nutzende, sich mit dem Inhalt zu beschäftigen?
+- Warum verhindert dieses System von Grundsätzen und Richtlinien nicht, dass Nutzende Inhalte bearbeiten, sondern motiviert sie im Gegenteil, mehr und mehr Wikipedia-Artikel zu erstellen oder zu aktualisieren?
 
-Just like historians, Wikipedians use sources to create and update Wikipedia articles. Wikipedia provides a comprehensive [summary of what sources Wikipedians can use](https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources){:target="_blank"}. Please read the introduction and [overview](https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources#Overview){:target="_blank"} sections of the article and try to answer the following question:
-- What should be the characteristics of the sources that Wikipedians can use?
+Wie HistorikerInnen verwenden Wikipedianer Quellen zur Erstellung und Aktualisierung von Wikipedia-Artikeln. Wikipedia bietet [eine umfassende Zusammenfassung der Quellen, die Wikipedianer verwenden können](https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources){:target="_blank"} (in Englisch). Bitte lesen Sie die Einleitung und [den Überblick](https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources#Overview){:target="_blank"} (in Englisch) des Artikels und versuchen Sie, die folgende Frage zu beantworten:
+- Welche Eigenschaften sollten die Quellen haben, die Wikipedianer verwenden können?
 
+<!-- Note Sofia: no German translation of the recommendations for the sources exist. Same for every link that is followed by the indication (in Englisch) in the text --> 
 <!-- section -->
 
-### 2.b Talk pages and page history | 30 to 40 mins 
+### 2.b Diskussionsseiten und Versionsgeschichte | 30-40 Min. 
 <!-- section-contents -->
 
-As well as the policies and guidelines that underpin knowledge production on Wikipedia, every Wikipedia article page has two tabs, the “talk page” or discussion page and the “view history” tab (fig. 1). You can access these pages from the main menu that you see under the title of the article. 
+Neben den Grundsätzen und Richtlinien, die der Wissensproduktion auf Wikipedia zugrunde liegen, verfügt jeder Wikipedia-Artikel über zwei Registerkarten, die „Diskussionsseite“ und die „Versionsgeschichte“. 1). Sie können über das Hauptmenü, das Sie unter dem Titel des Artikels sehen, auf diese Seiten zugreifen.
 
 ![How to access “talk” and “view history” pages of a Wikipedia article](/assets/images/wikipedia-historical-source/wp-talk-viewhistory.jpg "How to access talk and view history pages of a Wikipedia article")
 
-On the “talk page”, users can find all the archived discussions about edits made to the given entry over time. This space also shows all the discussions and debates between Wikipedia users about the entry. Users often challenge information in the Wikipedia entry, expressing their disagreement and making suggestions for the page. Other users then reply, and the “talk” page becomes a discussion page. The “view history” page includes logs of all the changes (without the discussion) and copies of older versions of the articles. This kind of information can help historians apply the basic principles of traditional source criticism to identify how a source has been created and by whom. 
+Auf der „Diskussionsseite“ finden die Nutzenden alle archivierten Diskussionen über die Änderungen, die im Laufe der Zeit an einem bestimmten Eintrag vorgenommen wurden. Dieser Bereich zeigt auch alle Diskussionen und Debatten zwischen Wikipedia-Nutzenden über diesen Eintrag. Nutzende stellen Informationen in einem Wikipedia-Eintrag häufig in Frage, geben an, dass sie damit nicht einverstanden sind und unterbreiten Vorschläge für die Seite. Andere Nutzende antworten dann, und so entsteht eine Diskussion. Die „Versionsgeschichte֧“ umfasst Protokolle aller Änderungen (ohne Diskussionen) und Kopien älterer Versionen der Artikel. Diese Informationen können HistorikerInnen helfen, die Grundprinzipien der traditionellen Quellenkritik anzuwenden, um festzustellen, wie und von wem eine Quelle erstellt wurde.
 
-In the two links below, you will find more information on “talk pages” and “view history”. Please read the content of the two articles: 
+In den zwei nachstehenden Links finden Sie weitere Informationen über „Diskussionsseiten“ und die „Versionsgeschichte“. Bitte lesen Sie den Inhalt der beiden Artikel:
 
-[“Talk pages”](https://en.wikipedia.org/wiki/Help:Talk_pages){:target="_blank"} (estimated reading time: 10 minutes) – alternatively, you can watch [a two-minute video: “Wikipedia basics – Talk pages”](https://en.wikipedia.org/wiki/File:Wikipedia_basics_-_Talk_pages.ogv){:target="_blank"} provided on the page.  
+[„Diskussionsseiten“](https://de.wikipedia.org/wiki/Hilfe:Diskussionsseiten){:target="_blank"} (geschätzte Lesezeit: 10 Minuten) – ersatzweise können Sie ein zweiminütiges Video ansehen: [„Wikipedia bearbeiten – Diskussionsseiten”](https://de.wikipedia.org/wiki/Datei:02_Diskussionsseiten.ogv){:target="_blank"}, das auf der Seite zur Verfügung steht.   
 
-[“View history”](https://en.wikipedia.org/wiki/Help:Page_history){:target="_blank"} (estimated reading time: 12 minutes) – alternatively, you can watch [a nine-minute video: “Using the view history tab on Wikipedia”](https://en.wikipedia.org/wiki/File:Using_the_view_history_tab_on_Wikipedia.webm){:target="_blank"} provided on the page. 
+[„Versionsgeschichte“](https://de.wikipedia.org/wiki/Hilfe:Versionen){:target="_blank"} (geschätzte Lesezeit: 12 Minuten) – ersatzweise können Sie ein neunminütiges Video ansehen: ein neunminütiges Video ansehen: [„Die Verwendung der Versionsgeschichte auf Wikipedia“](https://en.wikipedia.org/wiki/File:Using_the_view_history_tab_on_Wikipedia.webm){:target="_blank"} (in Englisch).
 
-Now try to answer the following questions:
+Jetzt versuchen Sie, folgende Fragen zu beantworten:
 
-- How can the “talk page” and “view history” sections of Wikipedia articles be useful for historians?
-- What historical questions can the data from “talk pages” and “view history” answer?
+- Wie können die Bereiche „Diskussionsseite“ und „Versionsgeschichte“ für HistorikerInnen von Nutzen sein?
+- Welche historischen Fragen können die Daten der „Diskussionsseiten“ und der „Versionsgeschichte“ beantworten?
 
-*If you choose to watch the videos to answer the questions, this assignment should take 30 minutes.*
-*If you choose to read the articles to answer the questions, this assignment should take 45 minutes.* 
-
-<!-- section -->
-
-### 2.c History on Wikipedia | 15 mins
-<!-- section-contents -->
-
-As Wikipedia covers multiple subjects, it has created separate portals for each subject it covers. In these portals, there are definitions of the subject and further information about the different subfields and categories of the subject. As well as the general guidelines and policies, the Wikipedia community has also produced more specific instructions about the coverage of each subject. As history is one of Wikipedia’s subjects, it has its own portal and is subject to specific writing rules. For example, Wikipedia specifies the types of sources that Wikipedians are allowed to use to cover historical topics.
-
-To learn more about the subject of history on Wikipedia, please go to the [home page of the history portal](https://en.wikipedia.org/wiki/Portal:History){:target="_blank"} and explore the following aspects: 
-- the definition of history the page provides 
-- the different page sections
-
-Now try to answer the following questions:
-
-- How does Wikipedia seem to perceive history? 
-- In what ways is this perception similar to or different from definitions provided by academic historians?
-
-If necessary, see the reading/viewing suggestions section below for resources with academic definitions of history. 
+*Wenn Sie für das Ansehen der Videos entscheiden, um die Fragen zu beantworten, sollte diese Aufgabe 30 Minuten in Anspruch nehmen.*
+*Wenn Sie die Artikel lesen, um die Fragen zu beantworten, dauert diese Aufgabe rund 45 Minuten.*
 
 <!-- section -->
 
-### 2.d Sources of history according to Wikipedia | 40 mins
+### 2.c Geschichte auf Wikipedia | 15 Min.
 <!-- section-contents -->
 
-To conduct historical research, historians use sources from the past. They use primary sources, which include materials created during a historical period, e.g. written archives, audiovisual archives, oral interviews, objects, etc., and reveal information about the society, culture, economy, politics and technology of the past. Historians also use secondary sources, e.g. books and articles, which place primary sources in the broader historical context of the period. By combining primary and secondary sources, historians write and tell a story about the past.
+Da Wikipedia mehrere Themenbereiche abdeckt, wurden für jedes behandelte Thema unterschiedliche Portale geschaffen. In diesen Portalen wird das jeweilige Thema definiert und werden weitere Informationen über die verschiedenen Untergruppen und Kategorien des Themenbereichs angegeben. Neben den allgemeinen Richtlinien und Grundsätzen hat die Wikipedia-Gemeinschaft auch spezifischere Instruktionen über die Abdeckung jedes Themenbereichs erstellt. Da Geschichte einer der Themenbereiche von Wikipedia ist, hat sie ihr eigenes Portal und unterliegt sie eigenen Regeln über das Verfassen von Beiträgen. Beispielsweise spezifiziert Wikipedia die Arten der Quellen, die Wikipedianer für die Behandlung historischer Themen verwenden dürfen.
 
-Please read this [Wikipedia page explaining the sources that editors are allowed to use when they write about history on Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Reliable_source_examples#History){:target="_blank"}.
+Um mehr über den Themenbereich Geschichte auf Wikipedia zu erfahren, surfen Sie bitte zur [Homepage des Geschichtsportals](https://de.wikipedia.org/wiki/Portal:Geschichte){:target="_blank"} und entdecken Sie folgende Aspekte:
 
-Then try to answer the following questions:
+- die Definition der Geschichte, die auf dieser Seite behandelt wird
+- die verschiedenen Seitenbereiche. 
 
-- What sources can Wikipedia editors use to create or edit pages related to history? 
-- Are the sources that Wikipedia recommends different from the sources that academic historians use?
+Jetzt versuchen Sie, folgende Fragen zu beantworten:
+
+- Wie scheint Wikipedia Geschichte wahrzunehmen?
+- Auf welche Arten entspricht diese Auffassung den Definitionen der wissenschaftlichen HistorikerInnen, oder unterscheidet sich von diesen?
+
+Quellen mit wissenschaftlichen Definitionen der Geschichte finden Sie nötigenfalls in den Text-/Videovorschlägen. 
+
+<!-- section -->
+
+### 2.d Geschichtsquellen gemäß Wikipedia | 40 Min.
+<!-- section-contents -->
+
+HistorikerInnen nutzen für ihre historischen Forschungsarbeiten Quellen aus der Vergangenheit. Sie verwenden Primärquellen, also Materialien, die während einer historischen Periode entstanden sind wie schriftliche Archive, audiovisuelle Archive, mündliche Interviews, Objekte usw., und die Informationen über die Gesellschaft, Kultur, Wirtschaft, Politik und Technologie der Vergangenheit preisgeben. HistorikerInnen verwenden auch Sekundärquellen, d.h. Bücher und Artikel, mittels denen die Primärquellen in einen breiteren historischen Kontext des jeweiligen Zeitraums gestellt werden. Durch die Kombination von Primär- und Sekundärquellen schreiben und erzählen HistorikerInnen eine Geschichte über die Vergangenheit.
+
+Bitte lesen Sie [diese Wikipedia-Seite](https://en.wikipedia.org/wiki/Wikipedia:Reliable_source_examples#History){:target="_blank"} (in Englisch), auf der beschrieben wird, welche Quellen von den Bearbeitenden in ihren Artikeln über Geschichte auf Wikipedia verwendet werden dürfen.
+
+Versuchen Sie dann, die folgenden Fragen zu beantworten:
+
+- Welche Quellen können Wikipedia-Bearbeitende nutzen, um Seiten zum Thema Geschichte zu erstellen oder zu bearbeiten?
+- Unterscheiden sich die von Wikipedia empfohlenen Quellen von den Quellen, die wissenschaftliche HistorikerInnen verwenden?
 
 <!-- The time is estimated as follows: 25 minutes for reading plus 15 minutes to discuss and answer the questions--> 
 
 <!-- section -->
 
-### Reading/viewing suggestions
+### Empfehlungen Lektüre/Video
 <!-- section-contents --> 
 
-*On Wikipedia infrastructure*
+*Über die Infrastruktur von Wikipedia*
 
-Apostolopoulos, Petros. “Discussing the Past: The Production of Historical Knowledge on Wikipedia.” (PhD, Raleigh, N.C., North Carolina State University, 2022), [https://repository.lib.ncsu.edu/items/e230ad0d-9a52-48ae-bef1-65791ebdc3e6](https://repository.lib.ncsu.edu/items/e230ad0d-9a52-48ae-bef1-65791ebdc3e6){:target="_blank"}. (Chapter 1)
+Rahmstorf, Olaf. _Wikipedia: Die rationale Seite der Digitalisierung?: Entwurf einer Theorie_. Bielefeld: transcript Verlag, 2023. DOI: [https://doi.org/10.1515/9783839458624](https://doi.org/10.1515/9783839458624
+) (Kapitel 3)
 
-Reagle, Joseph. *Good Faith Collaboration: The Culture of Wikipedia*. Massachusetts: The MIT Press, 2010. Available at: [https://direct.mit.edu/books/book/5341/Good-Faith-CollaborationThe-Culture-of-Wikipedia](https://direct.mit.edu/books/book/5341/Good-Faith-CollaborationThe-Culture-of-Wikipedia){:target="_blank"} (Chapters 3, 4, 6 & Conclusion)
+Apostolopoulos, Petros. _Producing and Debating History: Historical Knowledge on Wikipedia_. Berlin, Boston: De Gruyter Oldenbourg, 2024. DOI&#x202F;: [https://doi.org/10.1515/9783111069586](https://doi.org/10.1515/9783111069586){:target="_blank"}. (Kapitel 1)
+
+Reagle, Joseph. *Good Faith Collaboration: The Culture of Wikipedia*. Massachusetts: The MIT Press, 2010. Verfügbar auf: [https://direct.mit.edu/books/book/5341/Good-Faith-CollaborationThe-Culture-of-Wikipedia](https://direct.mit.edu/books/book/5341/Good-Faith-CollaborationThe-Culture-of-Wikipedia){:target="_blank"} (Kapitel 3, 4, 6 & Schlussfolgerung)
 
 <!--Kumar, Shivam. “How Wikipedia Is Served to You: A Complex Web of Open Source and Caching.” *Medium Stackademic*. 20 October 2023 (4-minute read)
 [https://web.archive.org/web/20240724144051/https://blog.stackademic.com/how-wikipedia-is-served-to-you-a-complex-web-of-open-source-and-caching-96cd30176cce](https://web.archive.org/web/20240724144051/https://blog.stackademic.com/how-wikipedia-is-served-to-you-a-complex-web-of-open-source-and-caching-96cd30176cce){:target="_blank"}-->
 
-*On definitions of history by academic historians, in case you need help with sub-assignment 2.c*
+*Über Definitionen der Geschichte von wissenschaftlichen HistorikerInnen, falls Sie Hilfe bei der Unteraufgabe 2.c benötigen.*
 
-Then & Now. “What is History? E.H. Carr.” YouTube video. 09:54 minutes. 10 October 2018. [https://youtu.be/gkdzu8X84fo](https://youtu.be/gkdzu8X84fo){:target="_blank"}  
+Then & Now. „What is History? E.H. Carr“. YouTube-Video. 09:54 Minuten. 10. Oktober 2018. [https://youtu.be/gkdzu8X84fo](https://youtu.be/gkdzu8X84fo){:target="_blank"}  
 
-“Zachary Schrag on History.” YouTube video. 40:44 minutes. 27 April 2021. Extract from 1:40 to 7:23: “History as the study of people” [https://www.youtube.com/watch?v=YVDkShUW6oM&t=100s](https://www.youtube.com/watch?v=YVDkShUW6oM&t=100s){:target="_blank"}
+„Zachary Schrag on History“. YouTube-Video. 40:44 Minuten. 27. April 2021. Auszug von 1:40 bis 7:23: „History as the study of people” [https://www.youtube.com/watch?v=YVDkShUW6oM&t=100s](https://www.youtube.com/watch?v=YVDkShUW6oM&t=100s){:target="_blank"}
 
 <!--“What is History?” *History Today* 70(8), August 2020 [https://www.historytoday.com/archive/head-head/what-history](https://www.historytoday.com/archive/head-head/what-history){:target="_blank"}-->  
 
 *On the notion of sources in history, in case you need help with sub-assignment 2.d*
 
-“Primary and secondary sources explained.” *History Skills* https://www.historyskills.com/. [https://www.historyskills.com/source-criticism/analysis/source-kind-and-type/](https://www.historyskills.com/source-criticism/analysis/source-kind-and-type/){:target="_blank"}
+„Primary and secondary sources explained“. *History Skills* https://www.historyskills.com/. [https://www.historyskills.com/source-criticism/analysis/source-kind-and-type/](https://www.historyskills.com/source-criticism/analysis/source-kind-and-type/){:target="_blank"}
 
 
 <!-- briefing-teacher -->
