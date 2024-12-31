@@ -120,7 +120,7 @@ Reagle, Joseph. *Good Faith Collaboration: The Culture of Wikipedia*. Massachuse
 
 Then & Now. „What is History? E.H. Carr“. YouTube-Video. 09:54 Minuten. 10. Oktober 2018. [https://youtu.be/gkdzu8X84fo](https://youtu.be/gkdzu8X84fo){:target="_blank"}  
 
-„Zachary Schrag on History“. YouTube-Video. 40:44 Minuten. 27. April 2021. Auszug von 1:40 bis 7:23: „History as the study of people” [https://www.youtube.com/watch?v=YVDkShUW6oM&t=100s](https://www.youtube.com/watch?v=YVDkShUW6oM&t=100s){:target="_blank"}
+„Zachary Schrag on History“. YouTube-Video. 40:44 Minuten. 27. April 2021. Auszug von 1:40 bis 7:23: „History as the study of people“ [https://www.youtube.com/watch?v=YVDkShUW6oM&t=100s](https://www.youtube.com/watch?v=YVDkShUW6oM&t=100s){:target="_blank"}
 
 <!--“What is History?” *History Today* 70(8), August 2020 [https://www.historytoday.com/archive/head-head/what-history](https://www.historytoday.com/archive/head-head/what-history){:target="_blank"}-->  
 
