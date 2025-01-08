@@ -27,7 +27,7 @@ Die Lektionen **beinhalten keinerlei** Aneignung spezifischer technischer Fähig
 
 
 ### Mehrsprachige Ausrichtung
-Ranke.2 ist in drei Sprachen verfügbar: Englisch, Französisch und Deutsch. Was bedeutet das für Sie? Zum einen können Sie Ihre Lektion in einer dieser Sprachen ausarbeiten. Zum anderen übersetzen wir, möglichst innerhalb eines angemessenen Zeitraums, Ihre Lektion in die anderen beiden Sprachen. Und gerade weil Ihre Lektion schließlich in drei verschiedenen Sprachen zur Verfügung steht, bitten wir Sie, wenn möglich [ihrer Übersetzbarkeit vorzugreifen](#der-Übersetzbarkeit-vorgreifen), denn wir wissen, dass sich nicht unbedingt alles übersetzen lässt. 
+Ranke.2 ist in drei Sprachen verfügbar: Englisch, Französisch und Deutsch. Was bedeutet das für Sie? Zum einen können Sie Ihre Lektion in einer dieser Sprachen ausarbeiten. Zum anderen übersetzen wir, möglichst innerhalb eines angemessenen Zeitraums, Ihre Lektion in die anderen beiden Sprachen. Und gerade weil Ihre Lektion schließlich in drei verschiedenen Sprachen zur Verfügung steht, bitten wir Sie, wenn möglich [ihrer Übersetzbarkeit vorzugreifen](#der-übersetzbarkeit-vorgreifen), denn wir wissen, dass sich nicht unbedingt alles übersetzen lässt. 
 
 ## Gestaltung Ihrer Lektion
 Die Gestaltung und Ausarbeitung einer Lektion kann sich schwierig gestalten. Deshalb haben wir nachfolgend einige Anleitungen formuliert, um Sie nach Möglichkeit zu unterstützen. Ziel ist ein leicht verständliches, pädagogisch effektives Tutorial, das hoffentlich lange Zeit relevant und nutzbar bleibt.  
@@ -35,14 +35,14 @@ Die Gestaltung und Ausarbeitung einer Lektion kann sich schwierig gestalten. Des
 ### Thema wählen und Lernziele abstecken
 Identifizieren Sie die Art von historischer Quelle, die in Ihrer Lektion behandelt werden soll, und wählen Sie sorgfältig das Thema aus, das Sie hervorheben möchten. Sie können auch die spezifische Phase des historischen Rechercheprozesses angeben, auf die sich Ihre Lektion hauptsächlich konzentriert (Quellensuche, Analyse, Interpretation, Verbreitung oder Bewahrung). Eine klare Definition dieser Elemente bietet Ihnen eine Grundlage, um spezifische Lernziele abzustecken und Aufgaben zu erarbeiten. Wir empfehlen Ihnen, aus Gründen der Klarheit und Kohärenz nicht mehr als drei Hauptlernziele festzulegen. 
 
-So konzentriert sich beispielsweise die Lektion [Aus dem Regal ins Netz: Historische Zeitungen im digitalen Zeitalter](https://ranke2.uni.lu/de/u/exploring-historical-newspapers/) auf eine historische Quelle, nämlich die Presse. Sie untersucht, wie sich die Digitalisierung großer Pressekorpora darauf auswirkt, wie Historiker nach Quellen suchen und Korpora zusammenstellen. Zu diesem Zweck identifiziert die Lektion spezifische Herausforderungen, denen Historiker in der Phase der Quellensuche gegenüberstehen können. Die wichtigsten Lernziele bestehen darin, Historikern zu helfen, den Prozess der Digitalisierung, die Funktionsweise von Suchumgebungen und schließlich den Umgang mit verschiedenen Suchschnittstellen zu verstehen.       
+So konzentriert sich beispielsweise die Lektion [Aus dem Regal ins Netz: Historische Zeitungen im digitalen Zeitalter](https://ranke2.uni.lu/de/u/exploring-historical-newspapers/){:target="_blank"} auf eine historische Quelle, nämlich die Presse. Sie untersucht, wie sich die Digitalisierung großer Pressekorpora darauf auswirkt, wie Historiker nach Quellen suchen und Korpora zusammenstellen. Zu diesem Zweck identifiziert die Lektion spezifische Herausforderungen, denen Historiker in der Phase der Quellensuche gegenüberstehen können. Die wichtigsten Lernziele bestehen darin, Historikern zu helfen, den Prozess der Digitalisierung, die Funktionsweise von Suchumgebungen und schließlich den Umgang mit verschiedenen Suchschnittstellen zu verstehen.       
 
 ### Lehrplan erstellen
 Der Lehrplan sollte 4.000 bis maximal 6.000 Wörter lang sein. Bitte formulieren Sie eine Einführung und klar abgegrenzte Abschnitte, die jeweils einen Aspekt behandeln, den Sie für Ihr Thema als wichtig erachten. Drei bis fünf Abschnitte können eine effiziente und leicht reproduzierbare Lektion ergeben. 
 
 Jeder Abschnitt sollte eine oder mehrere Aufgaben beinhalten (idealerweise nicht mehr als drei). 
 
-Wir empfehlen, gegebenenfalls Literatur- und Videoempfehlungen einzufügen, die den Lernenden helfen, die Aufgaben zu lösen oder das Thema zu vertiefen. Im folgenden Abschnitt finden Sie nützliche Tipps zur [Ausarbeitung Ihrer Lektion](#Ihre-Lektion-ausarbeiten) und zur Auswahl ergänzender Ressourcen. Sie können auch die Lehrplanvorlage verwenden, die wir für Sie vorbereitet haben. 
+Wir empfehlen, gegebenenfalls Literatur- und Videoempfehlungen einzufügen, die den Lernenden helfen, die Aufgaben zu lösen oder das Thema zu vertiefen. Im folgenden Abschnitt finden Sie nützliche Tipps zur [Ausarbeitung Ihrer Lektion](#ihrelLektion-ausarbeiten) und zur Auswahl ergänzender Ressourcen. Sie können auch die Lehrplanvorlage verwenden, die wir für Sie vorbereitet haben. 
 
 ### Der Übersetzbarkeit vorgreifen
 Ranke.2 ist in drei Sprachen verfügbar. Es kann sich schwierig gestalten, Lektionen für verschiedene kulturelle Umgebungen zu erarbeiten, die oft auf unterschiedliche akademische Traditionen zurückblicken. Daher ist es wichtig, diesem potenziellen Hindernis bei der Ausarbeitung einer Lektion vorzugreifen, damit sie effektiv an andere Sprachen und Kontexte angepasst werden kann. Im Folgenden finden Sie einige praktische Tipps.
@@ -58,7 +58,7 @@ Wir sind uns natürlich darüber im Klaren, dass nicht alles übersetzbar ist, u
 Nachfolgend finden Sie detaillierte Anweisungen zur Entwicklung des Inhalts Ihrer Lektion.  
 
 ### Einführung
-Bitte verfassen Sie eine Einführung, in der die Art der behandelten Quellen, das Thema und die wichtigsten Lernziele vorgestellt werden, die [Sie bei der Ausarbeitung Ihrer Lektion sorgfältig abgesteckt haben](#Thema-wählen-und-Lernziele-abstecken). 
+Bitte verfassen Sie eine Einführung, in der die Art der behandelten Quellen, das Thema und die wichtigsten Lernziele vorgestellt werden, die [Sie bei der Ausarbeitung Ihrer Lektion sorgfältig abgesteckt haben](#thema-wählen-und-lernziele-abstecken). 
 
 Schildern Sie unbedingt auch, inwieweit das Thema mit der traditionellen Quellenkritik zusammenhängt und inwiefern es im digitalen Zeitalter relevant ist. Weist Ihr Beispiel Gemeinsamkeiten mit der Anwendung der historischen Methode oder Veränderungen auf, die sich aus dem Übergang von traditionellen Quellenarten zu digitalen historischen Daten ergeben? Wirft es spezifische Fragen auf? Was verrät Ihr Beispiel über die historische Praxis im digitalen Zeitalter?
 
@@ -90,7 +90,7 @@ Vergewissern Sie sich, dass auch die von Ihnen bereitgestellten Bilder keinen Be
 Bitte nutzen Sie vorzugsweise Ressourcen mit dauerhaften Identifikatoren (wie DOIs und Permalinks), damit Ihre Lektion langfristig zugänglich bleibt. 
 
 ### Vorhandene Bildungsressourcen nutzen 
-Bei der Erläuterung digitaler Methoden oder Tools kann es nützlich sein, den Lesern, die mehr erfahren möchten, Tutorials zu empfehlen, was wir Ihnen auch ans Herz legen. Es macht keinen Sinn, Zeit und Platz zu verschwenden, um Wissen, das vielleicht schon anderswo verfügbar ist, von Grund auf neu zu erstellen. [*Programming Historian*](https://programminghistorian.org/) und [Dariah Campus](https://campus.dariah.eu/) bieten beispielsweise nützliche Tutorials für Historiker, und auch wir begrüßen die Verwendung qualitativ hochwertiger, frei verfügbarer Bildungsressourcen.  
+Bei der Erläuterung digitaler Methoden oder Tools kann es nützlich sein, den Lesern, die mehr erfahren möchten, Tutorials zu empfehlen, was wir Ihnen auch ans Herz legen. Es macht keinen Sinn, Zeit und Platz zu verschwenden, um Wissen, das vielleicht schon anderswo verfügbar ist, von Grund auf neu zu erstellen. [*Programming Historian*](https://programminghistorian.org/){:target="_blank"} und [Dariah Campus](https://campus.dariah.eu/){:target="_blank"} bieten beispielsweise nützliche Tutorials für Historiker, und auch wir begrüßen die Verwendung qualitativ hochwertiger, frei verfügbarer Bildungsressourcen.  
   
 
 ## Nach Erarbeitung Ihrer Lektion
