@@ -3,45 +3,46 @@ layout: page
 lang: de
 permalink: /de/instructions-authors/
 link: /instructions-authors/ 
-title: Write a lesson
+title: Eine Lektion zu Ranke.2 verfassen
 output: 
  html_document:
   toc: on
  
 ---
 
-Guiding principles for authoring a lesson for Ranke.2  
- 
+Leitlinien für das Verfassen einer Lektion für Ranke.2  
+
 <!-- more -->
 
-Below you will find some guiding principles for authors that we hope will help you plan a clear and effective lesson. The first section presents the general educational purpose of Ranke.2 lessons, their specific multilingual vocation, and their structure. We hope this will help authors to understand the general scope of the lessons and our expectations. The second section provides more specific instructions on how to plan the general layout of a lesson and anticipate multilingual outputs. The following section provides specific instructions on how to develop the content of a lesson. Finally, we explain the steps to take once you have finished writing a lesson.     
+Nachfolgend finden Sie einige Leitlinien für Autoren, die Sie bei der Planung einer verständlichen und effektiven Lektion unterstützen sollen. Im ersten Abschnitt sind der generelle Bildungszweck der Ranke.2-Lektionen, ihre spezifische mehrsprachige Ausrichtung und ihre Struktur dargelegt. Wir hoffen, dass dies Autoren zu einem besseren Verständnis der allgemeinen Tragweite der Lektionen und unserer Erwartungen verhilft. Der zweite Abschnitt enthält genauere Anleitungen, um das generelle Layout einer Lektion zu planen und mehrsprachigen Versionen vorzugreifen. Im anschließenden Abschnitt finden Sie spezifische Anweisungen zur Entwicklung des Inhalts einer Lektion. Und zum Abschluss erklären wir, welche Schritte nach der Ausarbeitung einer Lektion notwendig sind.         
 
-## General scope of the lessons
+## Allgemeine Tragweite der Lektionen
     
-### Educational purpose
-The main purpose of the Ranke.2 educational resources is to offer an introduction to the critical analysis of historical sources in the digital age (digital source criticism). Each lesson focuses on a specific type of historical source and its digital representation(s) – for example, diplomatic correspondence in electronic form or digitised oral history testimonies. The lessons are intended to be used either for self-learning or in the classroom and the target audience is beginners.
+### Bildungszweck
+Das Hauptziel der Ranke.2-Bildungsressourcen besteht darin, in die kritische Analyse historischer Quellen im digitalen Zeitalter (digitale Quellenkritik) einzuführen. Jede Lektion konzentriert sich auf eine bestimmte Art von historischer Quelle und deren digitale Darstellung(en) – zum Beispiel diplomatische Korrespondenz im elektronischen Format oder digitalisierte historische mündliche Zeugnisse. Die Lektionen sind sowohl für das Selbststudium als auch für Kurse vorgesehen und richten sich an Anfänger.
 
-The lessons [consist of a short video animation and the main lesson](https://ranke2.uni.lu/about-lessons/), with a series of assignments to dig deeper into the selected topic. The video animation is primarily **our responsibility**, although we may need [a little help from you](#write a description), mostly to ensure that the result reflects the spirit of your approach. The main lesson and the assignments are **your main responsibility**. You might want to use our [handout for teaching digital source criticism](https://ranke2.uni.lu/assets/pdf/C3.1-visual-aid-3.pdf) as a reminder of the questions you should be keeping in mind, but feel free to build your lesson in a way that you feel makes sense for your topic and the methodological aspects you wish to highlight. 
+Die Lektionen [bestehen aus einer kurzen Videoanimation und der Hauptlektion](https://ranke2.uni.lu/de/about-lessons/) sowie verschiedenen Aufgaben, um tiefer in das jeweilige Thema einzutauchen. Die Videoanimation liegt vorrangig in **unserer Verantwortung**, obschon wir mitunter [etwas Hilfe von Ihnen benötigen](#beschreibung-formulieren), um in erster Linie sicherzustellen, dass das Ergebnis Ihrem Ansatz entspricht. Die Hauptlektion und die Aufgaben sind **Ihre Hauptverantwortung**. Bei Bedarf können Sie unser [Handout zur Vermittlung der digitalen Quellenkritik (in Englisch)](https://ranke2.uni.lu/assets/pdf/C3.1-visual-aid-3.pdf) als Gedankenstütze für die Fragen nutzen, die es im Hinterkopf zu behalten gilt. Dennoch können Sie Ihre Lektion ganz nach Belieben so aufbauen, wie Sie es für Ihr Thema und die methodischen Aspekte als sinnvoll erachten, die Sie hervorheben möchten. 
 
-The lessons **do not** involve developing specific technical skills to conduct research using various digital humanities methods and techniques (e.g. network analysis, geographic information systems, etc.). Rather, their focus is mainly on **why** and **for what purpose** it might be important to develop such skills to be able to apply source criticism. If, however, your lesson involves considerable technical aspects, you can always prepare a how-to tutorial that we can publish separately. For instance, we provide a tutorial on the Internet Archive’s Wayback Machine that is associated with the lesson on web archives. Please note, however, that in most cases you can simply [recommend skill-building tutorials published elsewhere in your reading/viewing suggestions](#make-use-of-existing-educational-resources). 
+Die Lektionen **beinhalten keinerlei** Aneignung spezifischer technischer Fähigkeiten, um Recherchen mithilfe verschiedener digitaler geisteswissenschaftlicher Methoden und Techniken (z. B. Netzwerkanalyse, geografische Informationssysteme usw.) durchzuführen. Vielmehr konzentrieren sie sich auf **warum** und **zu welchem Zweck** könnte es wichtig sein, sich solche Fähigkeiten anzueignen, um Quellenkritik anwenden zu können. Beinhaltet Ihre Lektion jedoch beträchtliche technische Aspekte, können Sie jederzeit ein Anleitungstutorial ausarbeiten, das wir separat veröffentlichen können. So stellen wir beispielsweise ein Tutorial zur Wayback Machine des Internet Archive zur Verfügung, das mit der Lektion zu Web-Archiven verknüpft wird. Beachten Sie jedoch, dass Sie in den meisten Fällen einfach [in Ihren Literatur- und Videoempfehlungen auf anderswo publizierte Weiterbildungstutorials verweisen können](#Vorhandene-Bildungsressourcen-nutzen). 
 
-### Multilingual vocation
-Ranke.2 is available in three languages: English, French and German. What does this mean for you? First, you can write your lesson in any of these languages. Second, we will translate your lesson into the two other languages and will try to do so within a reasonable timeframe. Finally, precisely because your lesson will be available in three languages, we would kindly ask you to [anticipate its translatability](#anticipate-translatability) wherever possible, as we acknowledge that not everything is necessarily translatable. 
 
-## Design your lesson
-Designing and preparing a lesson can be challenging. This is why we have provided some instructions below that we hope will prove useful to you. The aim is to produce an easy-to-follow, pedagogically effective tutorial that will hopefully remain relevant and usable over time.  
+### Mehrsprachige Ausrichtung
+Ranke.2 ist in drei Sprachen verfügbar: Englisch, Französisch und Deutsch. Was bedeutet das für Sie? Zum einen können Sie Ihre Lektion in einer dieser Sprachen ausarbeiten. Zum anderen übersetzen wir, möglichst innerhalb eines angemessenen Zeitraums, Ihre Lektion in die anderen beiden Sprachen. Und gerade weil Ihre Lektion schließlich in drei verschiedenen Sprachen zur Verfügung steht, bitten wir Sie, wenn möglich [ihrer Übersetzbarkeit vorzugreifen](#der-Übersetzbarkeit-vorgreifen), denn wir wissen, dass sich nicht unbedingt alles übersetzen lässt. 
 
-### Select the topic and set the learning objectives
-Identify the type of historical source your lesson deals with and carefully select the topic you wish to highlight. You can also pinpoint the specific phase of the historical research process your lesson mainly focuses on (searching for sources, analysis, interpretation, dissemination or preservation). Clearly defining these elements provides you with a basis to set specific learning objectives and develop assignments. We would suggest that you avoid setting more than three main learning objectives for reasons of clarity and coherence. 
+## Gestaltung Ihrer Lektion
+Die Gestaltung und Ausarbeitung einer Lektion kann sich schwierig gestalten. Deshalb haben wir nachfolgend einige Anleitungen formuliert, um Sie nach Möglichkeit zu unterstützen. Ziel ist ein leicht verständliches, pädagogisch effektives Tutorial, das hoffentlich lange Zeit relevant und nutzbar bleibt.  
 
-For example, the lesson [From the shelf to the web, exploring historical newspapers in the digital age](https://ranke2.uni.lu/u/exploring-historical-newspapers/) focuses on a historical source, the press. It explores how the digitisation of large press corpora is affecting the way in which historians search for sources and compile corpora. The lesson therefore identifies specific challenges historians may face during the phase of searching for sources. The main learning objectives are to help historians understand the process of digitisation, the way search environments work and, finally, how to cope with different search interfaces.    
+### Thema wählen und Lernziele abstecken
+Identifizieren Sie die Art von historischer Quelle, die in Ihrer Lektion behandelt werden soll, und wählen Sie sorgfältig das Thema aus, das Sie hervorheben möchten. Sie können auch die spezifische Phase des historischen Rechercheprozesses angeben, auf die sich Ihre Lektion hauptsächlich konzentriert (Quellensuche, Analyse, Interpretation, Verbreitung oder Bewahrung). Eine klare Definition dieser Elemente bietet Ihnen eine Grundlage, um spezifische Lernziele abzustecken und Aufgaben zu erarbeiten. Wir empfehlen Ihnen, aus Gründen der Klarheit und Kohärenz nicht mehr als drei Hauptlernziele festzulegen. 
 
-### Produce a lesson plan
-The lesson plan should be between 4,000 and 6,000 words maximum. Please provide an introduction and well-defined sections, each dealing with an aspect you consider important for your topic. Three to five sections can give an efficient and easily reproducible lesson. 
+So konzentriert sich beispielsweise die Lektion [Aus dem Regal ins Netz: Historische Zeitungen im digitalen Zeitalter](https://ranke2.uni.lu/de/u/exploring-historical-newspapers/) auf eine historische Quelle, nämlich die Presse. Sie untersucht, wie sich die Digitalisierung großer Pressekorpora darauf auswirkt, wie Historiker nach Quellen suchen und Korpora zusammenstellen. Zu diesem Zweck identifiziert die Lektion spezifische Herausforderungen, denen Historiker in der Phase der Quellensuche gegenüberstehen können. Die wichtigsten Lernziele bestehen darin, Historikern zu helfen, den Prozess der Digitalisierung, die Funktionsweise von Suchumgebungen und schließlich den Umgang mit verschiedenen Suchschnittstellen zu verstehen.       
 
-Each section should involve one or more assignments (ideally no more than three). 
+### Lehrplan erstellen
+Der Lehrplan sollte 4.000 bis maximal 6.000 Wörter lang sein. Bitte formulieren Sie eine Einführung und klar abgegrenzte Abschnitte, die jeweils einen Aspekt behandeln, den Sie für Ihr Thema als wichtig erachten. Drei bis fünf Abschnitte können eine effiziente und leicht reproduzierbare Lektion ergeben. 
 
-Where relevant, we would recommend that you provide reading and viewing suggestions that can help learners complete the assignments or delve more deeply into the subject. The following section provides useful advice about [how to write your lesson](#write-your-lesson) and how to choose complementary resources. You can also use the lesson plan template that we have prepared for you. 
+Jeder Abschnitt sollte eine oder mehrere Aufgaben beinhalten (idealerweise nicht mehr als drei). 
+
+Wir empfehlen, gegebenenfalls Literatur- und Videoempfehlungen einzufügen, die den Lernenden helfen, die Aufgaben zu lösen oder das Thema zu vertiefen. Im folgenden Abschnitt finden Sie nützliche Tipps zur [Ausarbeitung Ihrer Lektion](#Ihre-Lektion-ausarbeiten) und zur Auswahl ergänzender Ressourcen. Sie können auch die Lehrplanvorlage verwenden, die wir für Sie vorbereitet haben. 
 
 ### Anticipate translatability
 Ranke.2 is available in three languages. It is a challenge to make lessons work in different cultural environments that can often have distinct academic traditions. Anticipating this potential obstacle when designing a lesson can be key so that it can be effectively adapted to other languages and contexts. Read on for some advice that we hope will be useful.
@@ -88,14 +89,14 @@ Please note that it is preferable to use resources with persistent identifiers (
 When explaining digital methods or tools, you might find it useful to recommend tutorials for readers who would like to learn more, and we would encourage you to do so. There is no point in wasting time and space recreating from scratch knowledge that may already be available elsewhere. [*Programming Historian*](https://programminghistorian.org/) and [Dariah Campus](https://campus.dariah.eu/), for example, offer useful tutorials for historians, and we welcome use of any high quality open educational resources.    
   
 
-## After you have written your lesson
+## Nach Erarbeitung Ihrer Lektion
 
-### Choose a title and prepare an abstract 
-Think of a short title that describes your lesson with clarity and precision. The title is important so that learners can spot your lesson and quickly judge whether it is of interest to them. It is an important factor in making your lesson discoverable online and we would be happy to make suggestions if necessary. 
+### Titel wählen und eine Zusammenfassung ausarbeiten 
+Denken Sie sich einen kurzen Titel aus, der Ihre Lektion klar und präzise beschreibt. Der Titel ist wichtig, damit die Lernenden Ihre Lektion erkennen und schnell beurteilen können, ob sie für sie von Interesse ist. Er ist ein wichtiger Faktor für die Auffindbarkeit Ihrer Lektion im Internet, und wir unterbreiten Ihnen bei Bedarf gerne Vorschläge. Nach Erarbeitung Ihrer Lektion
 
-We would also ask you to provide a very short abstract, ideally one or two sentences, to complement the title and succinctly describe the scope of your lesson. For both the title and the abstract, please use simple language and avoid overly sophisticated or ambiguous sentences. 
+Formulieren Sie außerdem bitte eine knappe Zusammenfassung, idealerweise in ein oder zwei Sätzen, die den Titel ergänzt und den Umfang Ihrer Lektion kurz und bündig beschreibt. Bitte verwenden Sie sowohl für den Titel als auch die Zusammenfassung eine einfache Sprache und vermeiden Sie komplizierte oder missverständliche Formulierungen. 
  
-### Write a description
-How would you narrate your topic and the essence of your lesson in five minutes to a non-specialised audience? Lessons on Ranke.2 may include a short video animation (or a simple video or voice recording) lasting around five minutes to offer a very general introduction to the topic. We therefore suggest that once you have finished writing your lesson, you work on a one-page description that we can use to prepare the video animation that will serve as the introduction to your lesson. This will be a great help for us and will guarantee that the video animation follows the spirit of your approach, and it will also provide you with a useful and reusable output for various contexts (classroom, workshop, presentation, etc.). If for any reason we are the ones to produce this description, we may ask you to review it. In any case, we are happy to provide guidance on the steps to take during this process.
+### Beschreibung formulieren
+Wie würden Sie Ihr Thema und den Kern Ihrer Lektion in fünf Minuten einem Laienpublikum vermitteln? Lektionen auf Ranke.2 können eine kurze Videoanimation (oder eine einfache Video- bzw. Sprachaufnahme) von etwa fünf Minuten Dauer enthalten, um eine sehr allgemeine Einführung in das Thema zu geben. Deshalb empfehlen wir, dass Sie, sobald Sie Ihre Lektion erarbeitet haben, eine einseitige Beschreibung verfassen, die wir zur Vorbereitung der Videoanimation verwenden können, die als Einführung in Ihre Lektion dienen wird. Dies ist uns eine große Hilfe und garantiert, dass die Videoanimation Ihrem Ansatzes entspricht. Außerdem erhalten Sie so ein nützliches und wiederverwendbares Ergebnis für unterschiedliche Kontexte (Kurs, Workshop, Präsentation usw.). Falls aus beliebigen Gründen wir diese Beschreibung erstellen sollen, werden wir Sie mitunter bitten, sie abschließend zu überprüfen. In jedem Fall stehen wir Ihnen bei den einzelnen Schritten dieses Prozesses gerne mit Rat und Tat zur Seite.
 
-If you have any queries or require any additional information, please <a href="mailto: ranke2@uni.lu">contact us</a>.
+Falls Sie Fragen haben oder weitere Informationen benötigen, <a href="mailto: ranke2@uni.lu">setzen Sie sich bitte mit uns in Verbindung</a>.
