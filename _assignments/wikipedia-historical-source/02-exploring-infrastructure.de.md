@@ -126,6 +126,8 @@ Then & Now. „What is History? E.H. Carr“. YouTube-Video. 09:54 Minuten. 10. 
 
 *Über die Auffassung der Quellen in der Geschichte, falls Sie Hilfe bei Unteraufgabe 2.d benötigen*
 
+Universität Basel, Departement Geschichte. „Quellen und Archive“. [https://dg.philhist.unibas.ch/de/studium/werkzeugkasten-geschichte/praxiswissen-geschichte/quellen-und-archive/](https://dg.philhist.unibas.ch/de/studium/werkzeugkasten-geschichte/praxiswissen-geschichte/quellen-und-archive/)
+
 „Primary and secondary sources explained“. *History Skills* https://www.historyskills.com/. [https://www.historyskills.com/source-criticism/analysis/source-kind-and-type/](https://www.historyskills.com/source-criticism/analysis/source-kind-and-type/){:target="_blank"}
 
 
