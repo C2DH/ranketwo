@@ -124,7 +124,7 @@ Then & Now. „What is History? E.H. Carr“. YouTube-Video. 09:54 Minuten. 10. 
 
 <!--“What is History?” *History Today* 70(8), August 2020 [https://www.historytoday.com/archive/head-head/what-history](https://www.historytoday.com/archive/head-head/what-history){:target="_blank"}-->  
 
-*On the notion of sources in history, in case you need help with sub-assignment 2.d*
+*Über die Auffassung der Quellen in der Geschichte, falls Sie Hilfe bei Unteraufgabe 2.d benötigen*
 
 „Primary and secondary sources explained“. *History Skills* https://www.historyskills.com/. [https://www.historyskills.com/source-criticism/analysis/source-kind-and-type/](https://www.historyskills.com/source-criticism/analysis/source-kind-and-type/){:target="_blank"}
 
