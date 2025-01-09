@@ -36,9 +36,11 @@ In der nachstehenden Tabelle sind die wichtigsten Punkte dieses Vortrags aufgef�
 | Flugblätter |  |  |  |  |
 | Kaffeehäuser  |  |  |  |  |
 | Radiosendungen |  |  |  |  |
-| Filmaufzeichnung eines Vortrags mit Folien eines renommierten Wissenschaftlers zum Thema Technologie und Kommunikation (16 Min.)  |  |  |  |  |
+| Filmaufzeichnung eines Vortrags mit Folien eines renommierten Wissenschaftlers zum Thema Technologie und Kommunikation (16 Min.)  | Aufgenommen am 1.6.2013 an der Oxford Said Business School und online veröffentlicht am 19.8.2013  | Verbreitet über die Video-Sharing-Plattform Youtube | Aufzeichnung des Vortrags mit einer digitalen Filmkamera; Hochladen der Aufnahmedatei über einen PC auf einen Youtube-Server; Senden des Videos an den PC des Zuschauers von einem Youtube-Server, sobald das Video angeklickt wird*  |  |
 
 *This is a simplification of the technological processes involved in uploading and viewing a YouTube video. For more detailed information on these processes, check out [this 2016 infographic from How It Works](https://www.howitworksdaily.com/wp-content/uploads/2016/04/How-YouTube-works-1024x891.jpg).
+
+Dies ist eine vereinfachte Darstellung der technischen Prozesse, die beim Hochladen und Ansehen eines YouTube-Videos stattfinden. Nähere Informationen zu diesen Prozessen finden Sie in [dieser Infografik aus dem Jahr 2016 von How It Works](https://www.howitworksdaily.com/wp-content/uploads/2016/04/How-YouTube-works-1024x891.jpg).
 
 <!-- section -->
 
