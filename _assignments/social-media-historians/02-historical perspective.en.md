@@ -22,7 +22,7 @@ When looking at social media from a historian's perspective, it is important to 
 ![romans](../../assets/images/social-media/romans.png)
 
 
-Image credit: Portrait of Terentius Neo, ca. 20-30 CE, Naples National Archaeological Museum. Public domain image. 
+Image credit: Portrait of Terentius Neo, ca. 20-30 CE, Naples National Archaeological Museum. [Public domain image](https://commons.wikimedia.org/wiki/File:Pompeii-couple.jpg). 
 
 
 [Watch this TEDx Talk by journalist and computer scientist Tom Standage](https://youtu.be/ixsridS3qVs) (16 min), author of ["Writing on the Wall"](https://worldcat.org/fr/title/827256877), a short history of information sharing. Standage defines social media as media exchanged between people along social connections and creating a distributed discussion or community. In his talk, he argues that a number of historical periods and events have the same type of communication structure as present-day social media. He goes so far as to regard the era of traditional analogue media - radio, television, and film - as an exception to the practice of passing on information at a low cost that can be modified from one peer to another. In his view, the twenty-first century is a "return" to the communication structures that were common before the technological innovations of the nineteenth and twentieth centuries.
@@ -38,9 +38,7 @@ In the table below, the key points of this oral presentation are listed. Your ta
 | Film recording of a lecture with slides by a renowned scholar on the topic of technology and communication (16 min)  | Performed 1-6-2013 at the Oxford Said Business School and published online on 19-8-2013 | Shared via the video sharing platform YouTube  | Recording of lecture with digital film camera; uploading of recording file to one of YouTube's servers via a personal computer; delivery of video to a viewer's personal computer from one of YouTube's servers when the video is selected for viewing* |
 
 
-
-
-*This is a simplification of the technological processes involved in uploading and viewing a YouTube video. For more detailed information on these processes, check out [this 2016 infographic from _How It Works_](https://www.howitworksdaily.com/wp-content/uploads/2016/04/How-YouTube-works-1024x891.jpg).
+`*`This is a simplification of the technological processes involved in uploading and viewing a YouTube video. For more detailed information on these processes, check out [this 2016 infographic from _How It Works_](https://www.howitworksdaily.com/wp-content/uploads/2016/04/How-YouTube-works-1024x891.jpg).
 <!-- section -->
 
 ### 2.b Different views on the beginning of social media | 25 Min
