@@ -35,7 +35,7 @@ In the table below, the key points of this oral presentation are listed. Your ta
 | Pamphlets |  |  |  |
 | Coffeehouses |  |  |  |
 | Radio broadcasts |  |  |  |
-| Film recording of a lecture with slides by a renowned scholar on the topic of technology and communication (16 min)  | Performed 1-6-2013 at the Oxford Said Business School and published online on 19-8-2013 | Shared via the video sharing platform Youtube  | Recording of lecture with digital film camera; uploading of recording file to one of YouTube's servers via a personal computer; delivery of video to a viewer's personal computer from one of YoutTube's servers when the video is selected for viewing* |
+| Film recording of a lecture with slides by a renowned scholar on the topic of technology and communication (16 min)  | Performed 1-6-2013 at the Oxford Said Business School and published online on 19-8-2013 | Shared via the video sharing platform YouTube  | Recording of lecture with digital film camera; uploading of recording file to one of YouTube's servers via a personal computer; delivery of video to a viewer's personal computer from one of YouTube's servers when the video is selected for viewing* |
 
 
 
