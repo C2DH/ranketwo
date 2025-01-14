@@ -10,7 +10,7 @@ tags:
 - bias
 - copyright
 - privacy
-outcomes:
+outcomes: "Die Bedingungen verstehen, unter denen soziale Medien zu Quellen für die historische Forschung werden können"
 order: 1
 ---
 
