@@ -17,14 +17,14 @@ order: 1
 Unter Historikern wird argumentiert, dass ein Ereignis nur dann als „reif“ genug für eine historische Untersuchung angesehen werden kann, wenn ein gewisser zeitlicher Abstand und Zugang zu geheimen Dokumenten besteht. Diese Vorstellung einer notwendigen „Wartezeit“ bestimmte lange Zeit die Historizität eines bestimmten Ereignisses oder Themas. Das Aufkommen des Webs und der sozialen Medien mit direktem Zugang zu einer Fülle von Daten, insbesondere im privaten Bereich, scheint die Vorstellung davon, was als historisch betrachtet werden kann, infrage zu stellen. In dieser Aufgabe werden Sie mit verschiedenen Meinungen über die Rolle der sozialen Medien in der Geschichte und darüber konfrontiert, ob sie als historische Quellen angesehen werden können.
 
 {:.mosaic}
-[![social media](https://media.giphy.com/media/rB8CbdO6xSJofmOAKL/giphy.webp "Linaria Comunicación via Giphy")](https://giphy.com/gifs/comunicacion-linaria-linariacomunicacion-rB8CbdO6xSJofmOAKL){:target="_blank"}
-[![interactivity](https://media.giphy.com/media/gIMdqhwG5Xa45Mb2Ex/giphy.webp "INTO ACTION via Giphy")](https://giphy.com/gifs/IntoAction-covid-fake-news-misinformation-gIMdqhwG5Xa45Mb2Ex){:target="_blank"}
-[![interactivity](https://media.giphy.com/media/jQmn1Dkw55R3cjm3eC/giphy.webp "Flamingo Services via Giphy")](https://giphy.com/gifs/instagram-hearts-likes-jQmn1Dkw55R3cjm3eC){:target="_blank"}
+[![social media](https://media.giphy.com/media/rB8CbdO6xSJofmOAKL/giphy.webp "Linaria Comunicación über Giphy")](https://giphy.com/gifs/comunicacion-linaria-linariacomunicacion-rB8CbdO6xSJofmOAKL){:target="_blank"}
+[![interactivity](https://media.giphy.com/media/gIMdqhwG5Xa45Mb2Ex/giphy.webp "INTO ACTION über Giphy")](https://giphy.com/gifs/IntoAction-covid-fake-news-misinformation-gIMdqhwG5Xa45Mb2Ex){:target="_blank"}
+[![interactivity](https://media.giphy.com/media/jQmn1Dkw55R3cjm3eC/giphy.webp "Flamingo Services über Giphy")](https://giphy.com/gifs/instagram-hearts-likes-jQmn1Dkw55R3cjm3eC){:target="_blank"}
 
 Image credits:
-[Linaria Comunicación via Giphy](https://media.giphy.com/media/rB8CbdO6xSJofmOAKL/giphy.gif),
-[INTO ACTION via Giphy](https://media.giphy.com/media/gIMdqhwG5Xa45Mb2Ex/giphy.gif),
-[Flamingo Services via Giphy](https://media.giphy.com/media/jQmn1Dkw55R3cjm3eC/giphy.gif)
+[Linaria Comunicación über Giphy](https://media.giphy.com/media/rB8CbdO6xSJofmOAKL/giphy.gif),
+[INTO ACTION über Giphy](https://media.giphy.com/media/gIMdqhwG5Xa45Mb2Ex/giphy.gif),
+[Flamingo Services über Giphy](https://media.giphy.com/media/jQmn1Dkw55R3cjm3eC/giphy.gif)
 
 <!-- more -->
 
