@@ -12,7 +12,7 @@ tags:
   - pamphlets
   - scrolls
   - print
-outcomes:
+outcomes: "Den Aufstieg der sozialen Online-Medien aus einer historischen Perspektive verstehen"
 order: 2
 ---
 Betrachtet man die sozialen Medien aus historischer Perspektive ist zu bedenken, dass die Meinungen der Experten darüber auseinandergehen, wie sie zu definieren sind und ob diese Form der Kommunikation bereits in der Zeit vor dem Internet existierte oder nicht. Viele dieser Debatten drehen sich darum, ob die technische Infrastruktur als solche das innovative Element ist oder wie die Menschen die technische Infrastruktur nutzen, sobald sie verfügbar ist. Aus Sicht eines Historikers ist der Begriff „soziale Medien“ problematisch, da Medien per Definition eine soziale Funktion haben. Im Rahmen des digitalen Zeitalters kann sich der Begriff auch auf die bahnbrechenden Sharing-Plattformen der frühen 2000er-Jahren beziehen, darunter MySpace und Friendster. Damals wurden diese noch als [*Social Networking Sites*](https://academic.oup.com/jcmc/article/13/1/210/4583062#104153860) bezeichnet. Mit der Einführung von Twitter, Pinterest, Instagram und Snapchat, die wohl eher auf den Austausch von Inhalten als auf die Schaffung von Netzwerken ausgerichtet sind, gewann der umfassendere Begriff „soziale Medien“ an Zugkraft. In dieser Aufgabe werden Sie die historischen Gemeinsamkeiten und Unterschiede des Phänomens der sozialen Medien untersuchen.
