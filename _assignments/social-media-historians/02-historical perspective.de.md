@@ -45,7 +45,7 @@ In der nachstehenden Tabelle sind die wichtigsten Punkte dieses Vortrags aufgef�
 
 ### 2.b Unterschiedliche Ansichten über die Anfänge der sozialen Medien | 25 Min.
 <!-- section-contents -->
-Lesen Sie sich diese kurze Geschichte über die Ursprünge der sozialen Medien durch, die im Rahmen eines [Online-Kurses für Bachelor-Studenten des Fachbereichs Marketing an der Maryland University in St. Louis, Missouri (USA)](https://online.maryville.edu/blog/evolution-social-media/) angeboten wird, und beantworten Sie die folgenden Fragen:
+Lesen Sie sich diese kurze Geschichte über die Ursprünge der sozialen Medien durch, die im Rahmen eines [Online-Kurses für Bachelor-Studenten des Fachbereichs Marketing an der Maryville University in St. Louis, Missouri (USA)](https://online.maryville.edu/blog/evolution-social-media/) angeboten wird, und beantworten Sie die folgenden Fragen:
 
 - Was war laut der Definition sozialer Medien, auf die in diesem Artikel Bezug genommen wird, die erste Form der sozialen Medien?
 - Welches sind nach Ansicht des Autors die beiden wichtigsten Veränderungen in Bezug auf die Nutzer/Zielgruppen, die soziale Medien verwenden, und die Geräte, über die sie kommunizieren?
@@ -54,7 +54,7 @@ Lesen Sie sich diese kurze Geschichte über die Ursprünge der sozialen Medien d
 
 Lesen Sie sich nun eine andere Version der Geschichte der sozialen Medien durch, diesmal veröffentlicht am 16. Juni 2015 von Matthew Jones auf der Plattform [History Cooperative](https://historycooperative.org/the-history-of-social-media/), und beantworten Sie die folgende Frage:
 
-- Welche zwei Schlüsselelemente unterscheiden sich in der Interpretation des Phänomens der sozialen Medien von Jones und von der Maryland University?
+- Welche zwei Schlüsselelemente unterscheiden sich in der Interpretation des Phänomens der sozialen Medien von Jones und von der Maryville University?
 
 [card](history-cooperative)
 
