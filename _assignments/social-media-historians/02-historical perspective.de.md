@@ -25,42 +25,38 @@ Betrachtet man die sozialen Medien aus historischer Perspektive ist zu bedenken,
 ![romans](../../../assets/images/social-media/romans.png)
 
 
-Bildnachweis: Porträt des Terentius Neo, ca. 20–30 n. Chr., Archäologisches Nationalmuseum von Neapel. Öffentlich zugängliches Bild. [https://www.museoarcheologiconapoli.it/en/room-and-sections-of-the-exhibition/frescoes/](https://www.museoarcheologiconapoli.it/en/room-and-sections-of-the-exhibition/frescoes/)
+Bildnachweis: Porträt des Terentius Neo, ca. 20–30 n. Chr., Archäologisches Nationalmuseum von Neapel. [Öffentlich zugängliches Bild](https://commons.wikimedia.org/wiki/File:Pompeii-couple.jpg).
 
 Sehen Sie sich diesen TEDx-Talk des Journalisten und Computerwissenschaftlers Tom Standage an (16 min), dem Autor von [„Writing on the Wall“](https://youtu.be/ixsridS3qVs), eine kurze Geschichte des Informationsaustauschs. Standage definiert soziale Medien als Medien, die zwischen Menschen entlang sozialer Verbindungen ausgetauscht werden und eine dezentralisierte Diskussion oder Gemeinschaft schaffen. In seinem Vortrag argumentiert er, dass zahlreiche historische Epochen und Ereignisse die gleiche Art von Kommunikationsstruktur aufweisen wie die heutigen sozialen Medien. Er geht sogar so weit, dass er die Ära der traditionellen analogen Medien – Radio, Fernsehen und Film – als Ausnahme von der Praxis betrachtet, Informationen zu geringen Kosten weiterzugeben, die von einem Empfänger zum nächsten verändert werden können. Seiner Meinung nach erlebt das 21. Jahrhundert eine „Rückkehr“ zu den Kommunikationsstrukturen, die vor den technischen Innovationen des 19. und 20. Jahrhunderts üblich waren.
 
 In der nachstehenden Tabelle sind die wichtigsten Punkte dieses Vortrags aufgeführt. Ihre Aufgabe ist es nun, die Behauptungen von Standage zu überprüfen, dass soziale Medien die Fortsetzung einer alten Praxis sind, indem Sie die Beispiele in die Tabelle eintragen, die er für soziale Medien in der Vergangenheit nennt. Finden Sie heraus, ob die von Standage erwähnten Merkmale der alten sozialen Medien denen der heutigen ähnlich sind oder sich von ihnen unterscheiden.
 
-| | Inhalt | Zeitraum und geografische Region | Soziales Medium | Angewendete Technologien |
-| Wachstafeln und Schriftrollen	|  |  |  |  |
-| Flugblätter |  |  |  |  |
-| Kaffeehäuser  |  |  |  |  |
-| Radiosendungen |  |  |  |  |
-| Filmaufzeichnung eines Vortrags mit Folien eines renommierten Wissenschaftlers zum Thema Technologie und Kommunikation (16 Min.)  | Aufgenommen am 1.6.2013 an der Oxford Said Business School und online veröffentlicht am 19.8.2013  | Verbreitet über die Video-Sharing-Plattform Youtube | Aufzeichnung des Vortrags mit einer digitalen Filmkamera; Hochladen der Aufnahmedatei über einen PC auf einen Youtube-Server; Senden des Videos an den PC des Zuschauers von einem Youtube-Server, sobald das Video angeklickt wird*  |  |
+| Inhalt | Zeitraum und geografische Region | Soziales Medium | Angewendete Technologien |
+| ------- |:-------------------------------:|:-------------:|:--------------------:|
+| Wachstafeln und Schriftrollen	|  |  |  |
+| Flugblätter |  |  |  |
+| Kaffeehäuser  |  |  |  |
+| Radiosendungen |  |  |  |
+| Filmaufzeichnung eines Vortrags mit Folien eines renommierten Wissenschaftlers zum Thema Technologie und Kommunikation (16 Min.)  | Aufgenommen am 1.6.2013 an der Oxford Said Business School und online veröffentlicht am 19.8.2013  | Verbreitet über die Video-Sharing-Plattform Youtube | Aufzeichnung des Vortrags mit einer digitalen Filmkamera; Hochladen der Aufnahmedatei über einen PC auf einen Youtube-Server; Senden des Videos an den PC des Zuschauers von einem Youtube-Server, sobald das Video angeklickt wird*  |
 
-*This is a simplification of the technological processes involved in uploading and viewing a YouTube video. For more detailed information on these processes, check out [this 2016 infographic from How It Works](https://www.howitworksdaily.com/wp-content/uploads/2016/04/How-YouTube-works-1024x891.jpg).
-
-Dies ist eine vereinfachte Darstellung der technischen Prozesse, die beim Hochladen und Ansehen eines YouTube-Videos stattfinden. Nähere Informationen zu diesen Prozessen finden Sie in [dieser Infografik aus dem Jahr 2016 von How It Works](https://www.howitworksdaily.com/wp-content/uploads/2016/04/How-YouTube-works-1024x891.jpg).
+`*`Dies ist eine vereinfachte Darstellung der technischen Prozesse, die beim Hochladen und Ansehen eines YouTube-Videos stattfinden. Nähere Informationen zu diesen Prozessen finden Sie in [dieser Infografik aus dem Jahr 2016 von How It Works](https://www.howitworksdaily.com/wp-content/uploads/2016/04/How-YouTube-works-1024x891.jpg).
 
 <!-- section -->
 
-### 2.b Different views on the beginning of social media | ? Min
+### 2.b Unterschiedliche Ansichten über die Anfänge der sozialen Medien | 25 Min.
 <!-- section-contents -->
-Read this concise history on the origins of social media,offered as part of an [online course for bachelor students of marketing at Maryville University in St. Louis, Missouri (USA)](https://online.maryville.edu/blog/evolution-social-media/) , and answer the following question in your answer form.
+Lesen Sie sich diese kurze Geschichte über die Ursprünge der sozialen Medien durch, die im Rahmen eines [Online-Kurses für Bachelor-Studenten des Fachbereichs Marketing an der Maryland University in St. Louis, Missouri (USA)](https://online.maryville.edu/blog/evolution-social-media/) angeboten wird, und beantworten Sie die folgenden Fragen:
+
+- Was war laut der Definition sozialer Medien, auf die in diesem Artikel Bezug genommen wird, die erste Form der sozialen Medien?
+- Welches sind nach Ansicht des Autors die beiden wichtigsten Veränderungen in Bezug auf die Nutzer/Zielgruppen, die soziale Medien verwenden, und die Geräte, über die sie kommunizieren?
 
 [card](evolution-social-media)
 
-- What was the first form of social media, according to the definition of social media referred to in this article?
-- According to the author, there have been two major shifts with regard to users/audiences who engage with social media and the devices through which they communicate. Identify these two changes.
+Lesen Sie sich nun eine andere Version der Geschichte der sozialen Medien durch, diesmal veröffentlicht am 16. Juni 2015 von Matthew Jones auf der Plattform [History Cooperative](https://historycooperative.org/the-history-of-social-media/), und beantworten Sie die folgende Frage:
+
+- Welche zwei Schlüsselelemente unterscheiden sich in der Interpretation des Phänomens der sozialen Medien von Jones und von der Maryland University?
 
 [card](history-cooperative)
-
-Now read a different version of the history of social media, this time published on the platform [History Cooperative by author Matthew Jones](https://historycooperative.org/the-history-of-social-media/) and answer the following question in your answer form.
-
-"The Complete History of Social Media: A Timeline of the Invention of Online Networking", History Cooperative, June 16, 2015, https://historycooperative.org/the-history-of-social-media/. Last accessed 6 October 2020.
-
-Which two key elements are different in Jones' interpretation of the phenomenon of social media compared to the one offered by Maryville University?
-
 
 
 
