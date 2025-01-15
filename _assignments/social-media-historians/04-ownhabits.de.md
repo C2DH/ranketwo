@@ -2,7 +2,7 @@
 layout: assignment
 unit: social-media-historians
 lang: de
-title: "How about your own habits with social media?"
+title: "Wie steht es um Ihre eigenen Gewohnheiten im Umgang mit sozialen Medien?"
 cover:
 documents:
   - social-media-log-comparison
@@ -10,35 +10,32 @@ tags:
 - social media
 - personal habits
 - privacy
-outcomes:
+outcomes: "Dokumentation und Analyse der eigenen Nutzung von sozialen Medien"
 order: 4
 ---
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="dqSRAaT"  ><a href="//imgur.com/dqSRAaT" class="toto">Smartphone Social Media</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Scrolling](https://raw.githubusercontent.com/C2DH/ranketwo/master/assets/images/social-media/Scrolling.gif)
+
+Bildnachweis: [Imgur](https://imgur.com/dqSRAaT)
+
 
 <!-- more -->
 <!-- briefing-student -->
 
-### 4.a Document and compare your own use of social media
+### 4.a Dokumentieren und teilen Sie Ihre persönliche Social-Media-Nutzung
 <!-- section-contents -->
-One of the best ways to understand the impact and function of social media on our lives is to closely monitor your own use of it. For this assignment, you are expected to keep a log of your social media use for three consecutive days and then compare your own habits with those of three anonymous history students as well as with statistical data for your country of residence.
+Eine der besten Möglichkeiten, den Einfluss und die Funktion sozialer Medien auf unser Leben zu verstehen, besteht darin, Ihre eigene Nutzung genau zu beobachten. Für diese Aufgabe sollen Sie an drei aufeinanderfolgenden Tagen Protokoll über Ihre Social-Media-Nutzung führen und dann Ihre eigenen Gewohnheiten mit denen von drei anonymen Geschichtsstudierenden sowie mit statistischen Daten für Ihr Land vergleichen. Dies kann Ihnen Aufschluss darüber geben, wie Social-Media-Nutzer ihren digitalen Fußabdruck erstellen und Spuren hinterlassen, die eines Tages von Historikern als Quellen genutzt werden könnten.
 
-1. Keep a log of your own social media use with the help of the schedule below. (You can also find a copy and complete this in your answer form)
+1. Führen Sie mithilfe der nachstehenden Tabelle Protokoll über Ihre eigene Social-Media-Nutzung.
 
-| | Which social media platform I used | Why I used it | What I felt about it | How long I used it for |
-| Day&nbsp;1 | | | | |
-| Day&nbsp;2 | | | | |
-| Day&nbsp;3 | | | | |
+| | Genutzte Social-Media-Plattform | Grund der Nutzung | Verspürte Empfindungen | Dauer der Nutzung |
+| Tag&nbsp;1 | | | | |
+| Tag&nbsp;2 | | | | |
+| Tag&nbsp;3 | | | | |
 
-2. After keeping your own log, open the link below to see the log of three  anonymous history students and note what strikes you as similar and different in their habits from your own.
+2. Nachdem Sie Ihr eigenes Protokoll geführt haben, klicken Sie bitte auf den unten stehenden Link, um sich die Protokolle von drei anonymen Geschichtsstudierenden anzusehen. Notieren Sie, welche Gemeinsamkeiten und Unterschiede Ihnen zwischen deren Gewohnheiten und Ihren eigenen auffallen.
 [cit](social-media-log-comparison)
 
-3. Lastly, compare your use of social media with that of your country of residence. Use this 2021 global report on the use of social media to look up your respective country. (Simon Kemp, we are social/Hootsuite, slides 78-101)
-What can you say when comparing your social media habits with those of the students above and the global report? Write down some of your thoughts and findings in a short essay (max. 250 words).
-
-{:.w-100}
-{:style="height:100px"}
-| |
-
+3. Vergleichen Sie zum Abschluss Ihre Nutzung sozialer Medien](https://wearesocial.com/digital-2021){:target="_blank"} mit der Ihres Landes. Nutzen Sie die [Folien 78–101 aus diesem globalen Bericht von 2021 über die Nutzung sozialer Medien, um Ihr jeweiliges Land nachzuschlagen. („We Are Social’s Digital 2021“ von Simon Kemp von we are social/Hootsuite). Wenn Sie aktuellere Berichte finden, können Sie gerne auch diese nutzen. Was fällt Ihnen auf, wenn Sie Ihre Gewohnheiten im Umgang mit sozialen Medien mit denen der oben genannten Studierenden und dem globalen Bericht vergleichen? Halten Sie einige Ihrer Gedanken und Erkenntnisse in einer kurzen Abhandlung (max. 250 Wörter) fest.
 
 <!-- briefing-teacher -->
