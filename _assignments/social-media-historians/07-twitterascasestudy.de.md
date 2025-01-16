@@ -47,7 +47,7 @@ Lesen Sie [dieses Interview in der Los Angeles Times mit Jack Dorsey](https://la
 ![140](../../assets/images/social-media/140.png)
 Bildnachweis: [The Lighthouse(@the_bercibot)](https://twitter.com/the_bercibot/status/1379647473640161280)
 
-Besuchen Sie die archivierte Version von [Twitter-Leitfaden für neue NutzerInnen](https://web.archive.org/web/20180103203839/https://help.twitter.com/en/new-user-faq) und beantworten Sie die folgenden Fragen:
+Besuchen Sie die archivierte Version von [Twitter-Leitfaden für neue NutzerInnen](https://web.archive.org/web/20180103203839/https://help.twitter.com/en/new-user-faq){:target="_blank"} und beantworten Sie die folgenden Fragen:
 - Was ist ein Tweet?
 - Wie lang (Zeichenzahl) ist ein Tweet heute?
 - War er schon immer so lang?
@@ -56,85 +56,63 @@ Besuchen Sie die archivierte Version von [Twitter-Leitfaden für neue NutzerInne
 
 <!-- section -->
 
-
-***How it changed over time***
+### 7.c Wie hat sich Twitter im Laufe der Zeit verändert? | 25 Min.
+ <!-- section-contents --> 
 
 ![bird](../../../assets/images/social-media/bird.png)
+Bildnachweis: Aktuelles Twitter-Logo gemäß Markenrichtlinien. Aus dem [Twitter Marken-Toolkit](https://about.twitter.com/en/who-we-are/brand-toolkit){:target="_blank"}.
 
-Image credit: Current Twitter logo respecting the Brand Guidelines. Taken from https://about.twitter.com/en/who-we-are/brand-toolkit.
+Hinweis: In diesem Abschnitt verwenden wir die Wayback Machine des Internet Archive. Eine Anleitung zur Nutzung dieser Ressource finden Sie hier: [Handout Wayback Machine](https://ranke2.uni.lu/assets/pdf/wayback-machine-interface.pdf){:target="_blank"}. Darüber hinaus sollten sich diejenigen, die bereits einen Twitter-Account besitzen, zunächst aus ihrem Account abmelden, um diese Aufgabe zu absolvieren.
 
-Now go to the present Twitter homepage: http://www.twitter.com
+Verwenden Sie die historische URL der Twitter-Startseite in Ihrem Navigator: `http://www.twitter.com`
+- Wie lautet der Text auf der Startseite?
+- Zeigt die Seite, die Sie erreichen, immer noch Elemente der Marke „Twitter“ an?
+- Können Sie auf der Grundlage des [Wikipedia-Artikels über die Entwicklung von Twitter](https://de.wikipedia.org/wiki/X_(soziales_Netzwerk)#X_(seit_2023)){:target="_blank"} erklären, warum?
 
-*Note 1: in this section, we will use the Internet Archive’s Wayback Machine. For a guideline on how to use this resource see: [handout Wayback machine](https://ranke2.uni.lu/assets/pdf/wayback-machine-interface.pdf)
+Gehen Sie nun zu `https://x.com/`. Was passiert? Was steht auf der Seite über den Markenwechsel von Twitter zu X?
 
-*Note 2: Those who already have a Twitter account need to first log out, to be able to complete this assignment!
+Öffnen Sie die folgenden drei Hyperlinks zum Internet Archive. Jeder davon führt zu einer archivierten Version der Twitter-Startseite zu unterschiedlichen Zeitpunkten in den Jahren 2006, 2009 und 2015. Kopieren Sie anschließend die auf der Twitter-Startseite angezeigten Texte und notieren Sie, falls vorhanden, einige Veränderungen.
 
-- What does the text say on the homepage?
+- [https://web.archive.org/web/20060930214639/https://twitter.com/](https://web.archive.org/web/20060930214639/https://twitter.com/){:target="_blank"}
+- [https://web.archive.org/web/20090413225407/http://twitter.com/](https://web.archive.org/web/20060930214639/https://twitter.com/){:target="_blank"}
+- [https://web.archive.org/web/20150319071319/https://twitter.com/](https://web.archive.org/web/20060930214639/https://twitter.com/){:target="_blank"}
 
-{:.w-100}
-{:style="height:100px"}
-| |
+<!-- section --> 
 
-- Open these three hyperlinks to the Internet Archive and copy the texts on the homepage of Twitter into the table of your answer form
-
-- https://web.archive.org/web/20060930214639/https://twitter.com/
-- https://web.archive.org/web/20090413225407/http://twitter.com/
-- https://web.archive.org/web/20150319071319/https://twitter.com/
-
-|Text Home page Twitter  |  2006 | 2009 | 2015 |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-
-- What can you say about the changes?
-
-{:.w-100}
-{:style="height:100px"}
-| |
-
-
-***How you can interact with others***
+### 7.d Wie kann man auf Twitter mit anderen interagieren? | 10 Min.
+ <!-- section-contents -->  
 
 ![obamareply](../../../assets/images/social-media/obamareply.png)
-Image credit: Screenshot of selecting "reply" to an already posted Tweet taken on a desktop computer on 14 April 2021.
+Bildnachweis: Screenshot des Klicks auf die Schaltfläche, um auf einen bereits geposteten Tweet zu „antworten“, aufgenommen auf einem Desktop-Computer am 14. April 2021.
 
-Go to this [New York Times article by Mike Isaac](https://www.nytimes.com/2017/09/26/technology/twitter-280-characters.html?smid=url-share)
-- In what ways can you respond to a Tweet?
-- Can you “like” a Tweet? Why would you?
-- Can you mention a user in a Tweet? Why?
+Gehen Sie auf diesen Artikel von Mike Isaac in der New York Times. Lesen Sie ihn und beantworten Sie anschließend die folgenden Fragen:
+- Wie kann man auf einen Tweet antworten?
+- Kann man einen Tweet „liken“? Warum könnte man das tun?
+- Kann man einen Nutzer in einem Tweet erwähnen? Warum?
 
-{:.w-100}
-{:style="height:100px"}
-| |
+<!-- section --> 
 
-
-
-***How a Tweet is archived***
+### 7.e  Wie wird ein Tweet archiviert? | 15 Min.
+<!-- section-contents --> 
 
 ![jacktweet](../../../assets/images/social-media/jacktweet.png)
-Image credit: Jack Dorsey (@jack) - https://twitter.com/jack/status/20
 
+Bildnachweis: [Jack Dorsey (@jack)](https://twitter.com/jack/status/20){:target="_blank"}
 
-- Go to https://twitter.com/jack/status/20
+- Gehen Sie auf [https://twitter.com/jack/status/20](https://twitter.com/jack/status/20){:target="_blank"} und suchen Sie dort nach dem Tweet, auf den Sie gerade zugegriffen haben.
 
-This is the first tweet ever published, by the creator of Twitter Jack Dorsey. Unlike other old tweets, it is still on-line and readable on Twitter.
-- Compare the tweet as it is on Twitter to these two snapshots of the same tweet:
-- https://web.archive.org/web/20081103142857/https://twitter.com/jack/status/20
-- https://web.archive.org/web/20150321230408/https://twitter.com/jack/status/20
+Dies ist der erste je veröffentlichte Tweet. Gepostet wurde er von Twitter-Erfinder Jack Dorsey. Im Gegensatz zu anderen alten Tweets ist dieser noch online und kann auf Twitter gelesen werden. Vergleichen Sie den Tweet, der heute auf Twitter steht, mit Schnappschüssen desselben Tweets von vor zwei Jahren:
+- [https://web.archive.org/web/20081103142857/https://twitter.com/jack/status/20](https://web.archive.org/web/20081103142857/https://twitter.com/jack/status/20){:target="_blank"}
+- [https://web.archive.org/web/20150321230408/https://twitter.com/jack/status/20](https://web.archive.org/web/20150321230408/https://twitter.com/jack/status/20){:target="_blank"}
 
-
-Those two snapshots are versions of the tweets archived by the Wayback Machine on archive.org. Jack Dorsey’s tweet such as it is displayed on Twitter is not an archive. But by comparing them, you can guess some difficulties that archivists meet to archive social media. Can you, by comparing those three versions of the same tweet, list some of those difficulties?
-
-{:.w-100}
-{:style="height:100px"}
-| |
+Diese beiden Schnappschüsse sind Versionen dieses Tweets, archiviert von der [Internet Archive Wayback Machine](https://archive.org/web/){:target="_blank"}. Der erste ist die früheste Aufnahme des Tweets. Im Gegensatz dazu ist Jack Dorseys Tweet, wie er aktuell auf Twitter angezeigt wird, ist keine archivierte, sondern eine Live-Version – das bedeutet, dass Twitter-Nutzer selbst heute noch immer damit interagieren können. Vergleichen Sie unten kurz diese drei Versionen ein und desselben Tweets und ermitteln Sie einige der Schwierigkeiten, auf die Archivare bei der Archivierung sozialer Medien stoßen könnten.
 
 <!-- section -->
 
-### Reading/viewing suggestions
+### Empfehlungen Lektüre/Videos
 <!-- section-contents -->
 
-Zimmer Michael, « The Twitter Archive at the Library of Congress: Challenges for information practice and information policy », First Monday 20 (7), 21.06.2015. En ligne: <http://firstmonday.org/ojs/index.php/fm/article/view/5619>.
+Zimmer, Michael. „The Twitter Archive at the Library of Congress: Challenges for Information Practice and Information Policy“. *First Monday* 20 (7) (Juni 2015). [Zeitschriftenartikel](http://firstmonday.org/ojs/index.php/fm/article/view/5619){:target="_blank"}
 
 <!-- section -->
 
