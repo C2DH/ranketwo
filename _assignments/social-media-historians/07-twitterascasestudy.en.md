@@ -113,7 +113,7 @@ This is the first tweet ever published. It was posted by the creator of Twitter,
 - <https://web.archive.org/web/20150321230408/https://twitter.com/jack/status/20>
 
 
-These two snapshots are versions of the tweet archived by the [Internet Archive Wayback Machine](https://archive.org/web/). The first one is the earliest capture of it. In comparison, Jack Dorsey’s tweet, now called a ‘post’, as it is currently displayed on X, is not an archived but a live version - this means that today’s X users can still interact with it even today. Try to figure out some of the difficulties that archivists might encounter when they archive social media by comparing those three versions of the same tweet/post in a short response.
+These two snapshots are versions of the tweet archived by the [Internet Archive Wayback Machine](https://archive.org/web/){:target="_blank"}. The first one is the earliest capture of it. In comparison, Jack Dorsey’s tweet, now called a ‘post’, as it is currently displayed on X, is not an archived but a live version - this means that today’s X users can still interact with it even today. Try to figure out some of the difficulties that archivists might encounter when they archive social media by comparing those three versions of the same tweet/post in a short response.
 
 <!-- section -->
 
