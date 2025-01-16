@@ -2,24 +2,31 @@
 layout: assignment
 unit: social-media-historians
 lang: de
-title: "Twitter as a case study (assignment curated by Frédéric Clavert)"
+title: "Twitter/X als Fallstudie (Aufgabe kuratiert von Frédéric Clavert)"
 cover:
 documents:
 tags:
-- social media
-- personal habits
-- privacy
 outcomes:
+ - "Twitter/X aus einer historischen Perspektive betrachten"
+ - "Die verschiedenen Arten der Nutzung, Analyse und Bewahrung von Twitter/X zu verstehen, um die Quellenkritik darauf anwenden zu können"
 order: 7
 ---
+Twitter, jetzt als X bekannt, wurde im März 2006 gestartet. Nach verschiedenen Schätzungen und „offiziellen“ Zahlen, die von Twitter Inc. veröffentlicht wurden, hat es inzwischen zwischen 300 und 400 Millionen Nutzer. Twitter wurde bekannt für seine Fähigkeit, Informationen sehr schnell zu verbreiten und große Kontroversen auszulösen (einschließlich Fällen von Belästigung), für seine Rolle in gesellschaftspolitischen Bewegungen (wie #BlackLivesMatter oder #MeToo) und für seine Konzentration auf aktuelle Themen sowie für die starke Präsenz von Journalisten auf der Plattform.
 
-In this assignment, the various features/dimensions of the social medium Twitter are discussed: its history, how it is used, how it is analyzed and how it is preserved/archived.  (For instructions on how to work with social media data we refer to the module LARGE, as more time, effort and guidance is required)
-Answer the questions below in your answer form.
+Nach dem Abschluss einer rechtlichen Vereinbarung mit den Aktionären von Twitter Inc. am 14. April 2022 und einer Reihe von Wendungen kaufte Elon Musk Twitter mit Wirkung vom 27. Oktober 2022. Seitdem wurde Twitter umstrukturiert, viele Mitarbeiter entlassen und in X umbenannt. Viele der seit Oktober 2022 getroffenen Maßnahmen wurden angefochten, darunter die Wiederzulassung von Konten mit rechtsextremen Ansichten und die teilweise Umstellung auf ein Bezahlmodell für Nutzer. Diese Entscheidungen führten zum Verlust vieler Werbekunden und stellten die langfristige Zukunft der Plattform in Frage.
+
+<html>
+<div class="alert alert-info">
+Diese Lektion, die ursprünglich im Jahr 2021 veröffentlicht wurde, wurde Ende 2023 geändert, um den Übergang von Twitter zu X zu berücksichtigen, wobei ein starker historischer Schwerpunkt beibehalten wurde. Ziel ist es nicht, die Plattform so zu untersuchen, wie sie heute ist, sondern vielmehr, wie sie sich seit 2006 entwickelt hat.
+</div>
+</html>
+
+In dieser Aufgabe werden die verschiedenen Funktionen/Dimensionen des sozialen Mediums Twitter besprochen: seine Geschichte, einschließlich seiner Umwandlung in X, seine Nutzung, seine Analysemöglichkeiten, seine Bewahrung und seine Archivierung.
 
 <!-- more -->
 <!-- briefing-student -->
 
-### 7.a Twitter’s history and specific characteristics
+### 7.a Wie wurde Twitter erfunden?
 <!-- section-contents -->
 
 ***How it was created***
