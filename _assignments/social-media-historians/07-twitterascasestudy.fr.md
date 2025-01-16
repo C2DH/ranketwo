@@ -46,7 +46,7 @@ Lisez [cet entretien, paru dans le *Los Angeles Times*, avec Jack Dorsey, l’un
 ### 7.b Comment Twitter/X se définit | 15 min 
  <!-- section-contents -->
 
-![jacktweet](../../../assets/images/social-media/jacktweet.png)
+![140](../../assets/images/social-media/140.png)
 
 Mention de source&#x202F;: Tweet du compte The Lighthouse (@the_bercibot). Disponible sur [https://twitter.com/the_bercibot/status/1379647473640161280](https://twitter.com/the_bercibot/status/1379647473640161280). 
 
