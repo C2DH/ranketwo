@@ -73,7 +73,7 @@ Erklären Sie dann, inwieweit dieses Beispiel auf eine oder mehrere Arten der Nu
 
  ![digitalpast](../../../assets/images/social-media/digitalpast.png)
 
-Image credit: Screenshot of the "digitalpast" project homepage taken on a desktop computer on 14 April 2021 - https://digitalpast.de/
+Image credit: Screenshot of the "digitalpast" project homepage taken on a desktop computer on 14 April 2021 - [https://digitalpast.de/](https://digitalpast.de/){:target="_blank"}
 
 Web page: About page of the "digitalpast" project. Available at: https://digitalpast.de/als-der-krieg-nach-hause-kam/digitalpast-english/. Last accessed 10 May 2021.
 
