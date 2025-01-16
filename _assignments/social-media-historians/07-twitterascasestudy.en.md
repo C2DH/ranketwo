@@ -71,7 +71,7 @@ In this section, we use both the live web and the Internet Archive’s Wayback M
 Use the historic URL of the Twitter homepage in your navigator: `http://www.twitter.com`
 
 - Does the page you reach still display elements of the “Twitter” brand?
-- Based on the [Wikipedia article about Twitter’s evolution](https://en.wikipedia.org/wiki/Twitter#Since_2022), can you explain why?
+- Based on the [Wikipedia article about Twitter’s evolution](https://en.wikipedia.org/wiki/Twitter#2022–present), can you explain why?
 - Go back to the page you reached when using the URL `https://www.twitter.com/`. What does the text say on the homepage? (If you have a user account, you will need to be logged out.)
 
 Now go to `https://x.com/`. What happens? What does the page say about the brand switch from Twitter to X?
