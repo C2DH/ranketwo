@@ -73,9 +73,9 @@ Erklären Sie dann, inwieweit dieses Beispiel auf eine oder mehrere Arten der Nu
 
  ![digitalpast](../../../assets/images/social-media/digitalpast.png)
 
-Image credit: Screenshot of the "digitalpast" project homepage taken on a desktop computer on 14 April 2021 - [https://digitalpast.de/](https://digitalpast.de/){:target="_blank"}
+Bildnachweis: Screenshot der Homepage des Projekts „digitalpast“, aufgenommen auf einem Desktop-Computer am 14. April 2021 - [https://digitalpast.de/](https://digitalpast.de/){:target="_blank"}
 
-Web page: About page of the "digitalpast" project. Available at: https://digitalpast.de/als-der-krieg-nach-hause-kam/digitalpast-english/. Last accessed 10 May 2021.
+Web-Seite: Info-Seite des Projekts „digitalpast“. Verfügbar unter: [https://digitalpast.de/als-der-krieg-nach-hause-kam/digitalpast-english/]( https://digitalpast.de/als-der-krieg-nach-hause-kam/digitalpast-english/). Letzter Zugriff am 10. Mai 2021.
 
 Bitte fassen Sie die wichtigsten Argumente aus dem Artikel zusammen (maximal drei).
 
