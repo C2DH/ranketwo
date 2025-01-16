@@ -1,8 +1,8 @@
 ---
-title: Introduction
+title: Einführung
 type: introduction
 parent: social-media-historians
 tags:
 lang: de
 ---
-This lesson discusses the relationship between social media and the practice of academic historians from the perspective of source criticism, public outreach, and preservation. The objective is to teach historians how to make critical use of social media for their research. The lesson offers a short clip and a series of assignments that deal with social media from various perspectives: their historical and pedagogical value, their diverse uses, as well as the technological, cultural and economic variety of platforms that host them across the world. A more in-depth analysis is offered of Twitter, a microblogging service widely used for academic research.
+In dieser Lektion wird die Beziehung zwischen sozialen Medien und der Praxis akademischer Historiker aus der Perspektive der Quellenkritik, der Öffentlichkeitsarbeit und der Bewahrung diskutiert. Ziel ist es, Historikern zu vermitteln, wie sie soziale Medien kritisch für ihre Forschung nutzen können. Die Lektion beinhaltet ein kurzes Video und verschiedene Aufgaben, die sich mit sozialen Medien aus verschiedenen Blickwinkeln befassen: ihrem historischen und pädagogischen Wert, ihrer vielfältigen Nutzung sowie der technologischen, kulturellen und wirtschaftlichen Vielfalt der weltweiten Plattformen, auf denen sie gehostet werden. Und nicht zuletzt wird Twitter, ein für die akademische Forschung weit verbreiteter Microblogging-Dienst, einer eingehenderen Analyse unterzogen.
