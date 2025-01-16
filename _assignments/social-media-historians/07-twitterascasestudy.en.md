@@ -130,6 +130,4 @@ Muller, Caroline, and Frédéric Clavert. “Une informalité bien ordonnée ? L
 Zimmer, Michael. “The Twitter Archive at the Library of Congress&#x202F;: Challenges for information practice and information policy.” *First Monday* 20 (7), 21 juin 2015. Available at: <http://firstmonday.org/ojs/index.php/fm/article/view/5619>.
 
 
-<!-- section -->
-
 <!-- briefing-teacher -->

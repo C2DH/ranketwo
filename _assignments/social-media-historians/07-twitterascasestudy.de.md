@@ -114,6 +114,5 @@ Diese beiden Schnappschüsse sind Versionen dieses Tweets, archiviert von der [I
 
 Zimmer, Michael. „The Twitter Archive at the Library of Congress: Challenges for Information Practice and Information Policy“. *First Monday* 20 (7) (Juni 2015). [Zeitschriftenartikel](http://firstmonday.org/ojs/index.php/fm/article/view/5619){:target="_blank"}
 
-<!-- section -->
 
 <!-- briefing-teacher -->
