@@ -26,40 +26,35 @@ In dieser Aufgabe werden die verschiedenen Funktionen/Dimensionen des sozialen M
 <!-- more -->
 <!-- briefing-student -->
 
-### 7.a Wie wurde Twitter erfunden?
+### 7.a Wie wurde Twitter erfunden? | 15 Min. 
 <!-- section-contents -->
-
-***How it was created***
 
 ![dorsey](../../../assets/images/social-media/dorsey.jpg){:style="max-height:500px"}
 
-Image Credit: An early sketch of the ideas that would become Twitter. Published on Jack Dorsey's Flickr account on 24 March 2006 and available at: https://flickr.com/photos/jackdorsey/182613360/.
+Bildnachweis: Eine frühe Skizze der Ideen, aus denen sich Twitter entwickeln sollte. Veröffentlicht auf dem [Flickr-Account von Jack Dorsey](https://flickr.com/photos/jackdorsey/182613360/){:target="_blank"} am 24. März 2006.
 
-Read [this interview in the Los Angeles Times of February 18 2009 with Jack Dorsey](https://latimesblogs.latimes.com/technology/2009/02/twitter-creator.html), one of the founders of Twitter
-- What was the inspiration for Dorsey to create Twitter?
-- How did he design a prototype for the application?
-- Which feature of Instant Messaging was emulated for Twitter?
+Lesen Sie [dieses Interview in der Los Angeles Times mit Jack Dorsey](https://latimesblogs.latimes.com/technology/2009/02/twitter-creator.html){:target="_blank"}, einem der Twitter-Gründer, vom 18. Februar 2009.
 
-{:.w-100}
-{:style="height:100px"}
-| |
+- Was war die Inspiration für Dorsey, Twitter zu erfinden?
+- Wie entwarf er einen Prototypen für die Anwendung?
+- Welche Funktion des Instant Messaging wurde für Twitter nachgebildet?
 
+<!-- section -->
 
-***How it is defined***
+### 7.b Wie ist Twitter definiert? | 10 Min.
+ <!-- section-contents -->
 
-![jacktweet](../../../assets/images/social-media/jacktweet.png)
-Image credit: The Lighthouse(@the_bercibot) - https://twitter.com/the_bercibot/status/1379647473640161280
+![140](../../assets/images/social-media/140.png)
+Bildnachweis: [The Lighthouse(@the_bercibot)](https://twitter.com/the_bercibot/status/1379647473640161280)
 
-Go to the [Twitter beginner’s guide](https://help.twitter.com/en/new-user-faq) to answer this question:
-- What is a tweet?
-- What is the length (the number of characters) of a tweet at present?
-- Has it always been this length?
-- Why is the number of characters of a tweet limited?
-- How does the limitation of characters relate to the specificity of Twitter?
+Besuchen Sie die archivierte Version von [Twitter-Leitfaden für neue NutzerInnen](https://web.archive.org/web/20180103203839/https://help.twitter.com/en/new-user-faq) und beantworten Sie die folgenden Fragen:
+- Was ist ein Tweet?
+- Wie lang (Zeichenzahl) ist ein Tweet heute?
+- War er schon immer so lang?
+- Warum ist die Zeichenzahl eines Tweets begrenzt?
+- Wie hängt die Begrenzung der Zeichenzahl mit der Besonderheit von Twitter zusammen?
 
-{:.w-100}
-{:style="height:100px"}
-| |
+<!-- section -->
 
 
 ***How it changed over time***
