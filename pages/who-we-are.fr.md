@@ -21,7 +21,7 @@ Ranke.2 est un projet du C<sup>2</sup>DH. Initié par Andreas Fickers et à l'or
 
 ### Ont fait partie de l'équipe
 
-[Stefan Krebs](https://www.c2dh.uni.lu/people/stefan-krebs) - gestion et administration du projet <br> 
+[Stefan Krebs](https://www.c2dh.uni.lu/people/stefan-krebs) - gestion et administration du projet (2021-2024) <br> 
 [Sean Takats](https://www.c2dh.uni.lu/people/sean-takats) - gestion et administration du projet (2020) <br>
 [Gerben Zaagsma](https://www.c2dh.uni.lu/people/gerben-zaagsma) - gestion et administration du projet (2016-2020) <br> 
 [Stefania Scagliola](https://www.c2dh.uni.lu/people/stefania-scagliola) - conception initiale, coordination éditoriale et générale du projet (2016-2021) <br> 
