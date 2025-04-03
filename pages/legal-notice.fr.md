@@ -30,17 +30,9 @@ The C²DH reserves the right to modify this legal notice at any time. By using t
 {: .extra-spacing}
 ## Copyright
 
-All the information available on the website [https://ranke2.uni.lu](https://ranke2.uni.lu) is protected by copyright. Unless otherwise indicated, reproduction of texts from this site for non-commercial purposes and especially in educational situations is permitted, subject to the following three conditions being met:
+All content available on this website is protected by copyright law. Unless otherwise stated, this content is made available under a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
-- Free dissemination;
-- Respect for the integrity of the reproduced documents: no modification or alteration of any kind;
-- Explicit mention of the site [https://ranke2.uni.lu](https://ranke2.uni.lu) as a source and statement that the rights of reproduction are reserved and limited.
-
-Any exception to these rules shall be subject to the prior written approval of the University of Luxembourg and the author of the website content.
-
-Photographic credits: unless otherwise stated, the photographs on this website are protected by copyright and are the property of the University of Luxembourg.
-
-Content provided by the C²DH is not necessarily comprehensive, exhaustive, accurate or up to date. If, despite our best efforts, errors were to be found, the C²DH may not be held responsible. The C²DH would nevertheless appreciate being informed of any such errors.
+This means that you are free to share, adapt, and reuse the content on this website, including for commercial purposes, provided that you credit the original author appropriately, provide a link to the license, and indicate if any changes were made. You may not use the content in a way that suggests the author endorses or approves of your use.
 
 {: .extra-spacing}
 ## Policy regarding links
