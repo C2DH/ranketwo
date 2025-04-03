@@ -45,7 +45,7 @@ Faites ensuite preuve d’esprit critique et essayez de répondre aux questions 
 
 ### Suggestions de lectures/vidéos
 <!-- section-contents --> 
-Langlais, Pierre-Carl. «&#x202F;{{Référence nécessaire}} L’émergence d’une norme wikipédienne (2003-2009)&#x202F;». Dans *Wikipédia, objet scientifique non identifié*, par Lionel Barbe, Louise Merzeau, et Valérie Schafer (dir). Nanterre: Presses universitaires de Paris Nanterre, 2015. DOI&#x202F;: [https://doi.org/10.4000/books.pupo.4106](https://doi.org/10.4000/books.pupo.4106)
+Langlais, Pierre-Carl. «&#x202F;\{\{Référence nécessaire}} L’émergence d’une norme wikipédienne (2003-2009)&#x202F;». Dans *Wikipédia, objet scientifique non identifié*, par Lionel Barbe, Louise Merzeau, et Valérie Schafer (dir). Nanterre: Presses universitaires de Paris Nanterre, 2015. DOI&#x202F;: [https://doi.org/10.4000/books.pupo.4106](https://doi.org/10.4000/books.pupo.4106)
 
 Lewkowicz, Alain, et Vincent Decque. «&#x202F;Attentats du 13 novembre 2015&#x202F;: écris-moi une page wikipédia&#x202F;». Dans *Une histoire particulière*, France Culture, 13 novembre 2016. 
 URL&#x202F;: [https://www.radiofrance.fr/franceculture/podcasts/une-histoire-particuliere-un-recit-documentaire-en-deux-parties/attentats-du-13-novembre-2015-ecris-moi-une-page-wikipedia-8168430](https://www.radiofrance.fr/franceculture/podcasts/une-histoire-particuliere-un-recit-documentaire-en-deux-parties/attentats-du-13-novembre-2015-ecris-moi-une-page-wikipedia-8168430)  
