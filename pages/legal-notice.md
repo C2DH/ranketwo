@@ -134,7 +134,7 @@ Do not track is a function that allows visitors to opt out from being tracked by
 
 [Firefox](https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature){:target="_blank"}
 
-[Internet Explorer](https://support.microsoft.com/en-us/hub/4230784/internet-explorer-help#ie=ie-11){:target="_blank"}
+[Microsoft Edge](https://support.microsoft.com/en-us/microsoft-edge/learn-about-tracking-prevention-in-microsoft-edge-5ac125e8-9b90-8d59-fa2c-7f2e9a44d869){:target="_blank"}
 
 [Chrome](https://support.google.com/chrome/answer/114836?hl=en&ref_topic=3421433){:target="_blank"}
 
