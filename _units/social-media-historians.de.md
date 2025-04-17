@@ -3,6 +3,9 @@ title: "HistorikerInnen und soziale Medien"
 layout: unit
 publication_date: 2021-04-27
 translation_date: 2025-01-09
+translation_editors: 
+  - eliane-schmid
+  - martin-roth
 toc: on
 tags:
 authors: 
