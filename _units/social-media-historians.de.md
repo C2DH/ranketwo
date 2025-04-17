@@ -1,5 +1,5 @@
 ---
-title: "HistorikerInnen und die sozialen Medien"
+title: "HistorikerInnen und soziale Medien"
 layout: unit
 publication_date: 2021-04-27
 translation_date: 2025-01-09
@@ -29,8 +29,8 @@ cover:
 order: 1
 answertemplate:
 og:
-  description: Wie HistorikerInnen von der Integration sozialer Medien in Lehre und Forschung profitieren können
+  description: Wie HistorikerInnen soziale Medien in Lehre und Forschung nutzen können
 ---
-Lektion über den Umgang mit der Fülle digitaler Geburtsdaten in Hinblick auf Forschung, Zielgruppenansprache, Lehre und Bewahrungsstrategien am Beispiel der sozialen Medien.
+Eine Lektion über den Umgang mit digital entstandenen Daten in der Forschung, Öffentlichkeitsarbeit, Lehre und Archivierung am Beispiel sozialer Medien
 
 <!-- more -->

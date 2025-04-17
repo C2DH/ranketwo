@@ -52,4 +52,16 @@
   name: Alexandre Hocquet
 - slug: marijke-huisman
   id: marijke-huisman
-  name: Marijke Huisman    
+  name: Marijke Huisman 
+- slug: eliane-schmid
+  id: eliane-schmid
+  name: Eliane Schmid
+  url: https://www.c2dh.uni.lu/people/eliane-schmid 
+- slug: martin-roth
+  id: martin-roth
+  name: Martin Roth
+  -slug: helena-jaskov
+  id: helena-jaskov 
+  name: Helena Jaskov
+  url: https://www.c2dh.uni.lu/people/helena-jaskov  
+
