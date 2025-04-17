@@ -2,7 +2,7 @@
 layout: assignment
 unit: social-media-historians
 lang: de
-title: 'Wann wird ein Tweet oder YouTube-Clip „historisch“?'
+title: 'Wann werden Tweets oder YouTube-Clips „historisch“?'
 cover:
 documents:
 tags:
@@ -14,7 +14,7 @@ outcomes: "Die Bedingungen verstehen, unter denen soziale Medien zu Quellen für
 order: 1
 ---
 
-Unter Historikern wird argumentiert, dass ein Ereignis nur dann als „reif“ genug für eine historische Untersuchung angesehen werden kann, wenn ein gewisser zeitlicher Abstand und Zugang zu geheimen Dokumenten besteht. Diese Vorstellung einer notwendigen „Wartezeit“ bestimmte lange Zeit die Historizität eines bestimmten Ereignisses oder Themas. Das Aufkommen des Webs und der sozialen Medien mit direktem Zugang zu einer Fülle von Daten, insbesondere im privaten Bereich, scheint die Vorstellung davon, was als historisch betrachtet werden kann, infrage zu stellen. In dieser Aufgabe werden Sie mit verschiedenen Meinungen über die Rolle der sozialen Medien in der Geschichte und darüber konfrontiert, ob sie als historische Quellen angesehen werden können.
+In der Geschichtswissenschaft wird oftmals argumentiert, dass ein gewisser zeitlicher Abstand und Zugang zu unter Verschluss gehaltenen Dokumenten dafür notwendig sind, damit ein Ereignis „reif“ genug für eine historische Untersuchung ist. Diese Vorstellung einer gewissen „Wartezeit“ bestimmte lange die Historizität von Ereignissen oder Themen. Das Aufkommen des Internets und der sozialen Medien ermöglichen den direkten Zugang zu einer Fülle an Daten, insbesondere im privaten Bereich. Dies stellt die Idee davon, was als historisch betrachtet werden kann, infrage. In dieser Aufgabe werden Sie sich mit verschiedenen Meinungen über die Rolle der sozialen Medien in der Geschichte, und der Frage, ob sie als historische Quellen angesehen werden können, auseinandersetzen.
 
 {:.mosaic}
 [![social media](https://media.giphy.com/media/rB8CbdO6xSJofmOAKL/giphy.webp "Bildnachweis: Linaria Comunicación, Giphy")](https://giphy.com/gifs/comunicacion-linaria-linariacomunicacion-rB8CbdO6xSJofmOAKL){:target="_blank"}
@@ -30,10 +30,10 @@ Image credits:
 
 <!-- briefing-student -->
 
-### Was kann als historisch relevante Ausdrucksform in den sozialen Medien betrachtet werden? | 20 Min.
+### 1.a Welche Ausdrucksformen in den sozialen Medien können als "historisch relevant" betrachtet werden? | 20 Min.
 <!-- section-contents -->
 
-Halten Sie eine dieser Nachrichten, Beiträge, Fotos oder Webseiten für historisch, d. h. für mit einem historischen Phänomen verbunden? Begründen Sie, warum Sie diese Inhalte als historisch ansehen würden, und untermauern Sie Ihre Antworten durch eine Webrecherche über den Hintergrund und/oder die Autoren der Inhalte.
+Halten Sie diese Nachrichten, Beiträge, Fotos oder Webseiten für historisch bedeutsam, oder nicht? Begründen Sie Ihre Antworten und untermauern Sie diese durch eine Internetrecherche über den Inhalt und/oder die AutorInnen der Inhalte.
 
 
 [Ein Tweet](https://www.bbc.com/news/technology-13257940) (Live-URL [hier](https://twitter.com/reallyvirtual/status/64780730286358528)) 
@@ -51,7 +51,7 @@ Halten Sie eine dieser Nachrichten, Beiträge, Fotos oder Webseiten für histori
 ![facebook](../../../assets/images/social-media/facebook.png)
 
 {:.mt-5}
-[Ein Instagram-Account](https://www.instagram.com/lgbt_history/)
+[Ein Instagram-Konto](https://www.instagram.com/lgbt_history/)
 
 ![pink](../../../assets/images/social-media/pink.png)
 
