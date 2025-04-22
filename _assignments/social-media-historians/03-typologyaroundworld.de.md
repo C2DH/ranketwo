@@ -2,15 +2,15 @@
 layout: assignment
 unit: social-media-historians
 lang: de
-title: "Typologie: Soziale Medien rund um den Globus und wer dahinter steckt"
+title: "Typologie: Soziale Medien aus der ganzen Welt und wer dahinter steckt"
 cover:
 documents:
 tags:
-outcomes: "Die verschiedenen Arten von sozialen Online-Medien verstehen"
+outcomes: "Die verschiedenen Arten von sozialen Medien (online) verstehen"
 order: 3
 ---
 ![typology](../../../assets/images/social-media/typology.png)
-„2021 World Map of Social Networks“. Bild erstellt von Vincenzo Cosenza und hier ohne Anpassung des Originals auf Vincos Blog unter Creative Commons Lizenz [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.de) verwendet.
+„2021 World Map of Social Networks“. Bild erstellt von Vincenzo Cosenza und hier ohne Veränderung des Originals auf Vincos Blog unter Creative Commons Lizenz [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.de) entnommen.
 
 In dieser Aufgabe sollen Sie eine Webrecherche durchführen, um die Profile unterschiedlicher Social-Media-Plattformen zu erstellen. Es gibt zahlreiche Ansätze, um die Merkmale eines sozialen Mediums zu spezifizieren. So kann man zum Beispiel die Technologie und die Art der Kommunikation, die sie ermöglicht, bzw. die Nutzererfahrung betrachten oder sich auf die Politik und Strategie des Unternehmens konzentrieren, welches das soziale Medium betreibt, also auf das Geschäftsmodell. Diese verschiedenen Ansätze helfen, besser zu verstehen, um was es sich bei diesen verschiedenen sozialen Medien eigentlich handelt. Durch die Klassifizierung ihrer Typologie können Historiker ihre Inhalte als digitale Quellen genauer analysieren.
 
@@ -20,7 +20,7 @@ In dieser Aufgabe sollen Sie eine Webrecherche durchführen, um die Profile unte
 ### 3.a Soziale Medien rund um den Globus | 20 Min.
 
 <!-- section-contents -->
-
+<!-->
 Nachfolgend ist eine Reihe von Social-Media-Plattformen aufgeführt, zu denen Sie eine Webrecherche durchführen und Informationen über einige ihrer Merkmale sammeln sollen. Ziel dieser Aufgabe ist es, Sie mit den verschiedenen Funktionsweisen dieser Plattformen vertraut zu machen. Einige von ihnen sind weltweit populär, andere vor allem in bestimmten Regionen der Welt bekannt – manche vielleicht schon gar nicht mehr aktiv, aber auch das ist interessant! Unsere Liste ist nicht erschöpfend, und Sie können natürlich nach Belieben weitere Plattformen hinzufügen oder auch nur einzelne Plattformen aus der Liste auswählen. Wir empfehlen jedoch, dass Sie Ihre Arbeit auf mindestens drei Plattformen konzentrieren. Sie können die ausgewählten Merkmale auch an Ihre eigenen Forschungsinteressen anpassen. Scheuen Sie sich außerdem nicht, bei Ihren Recherchen auf Übersetzungstools für Sprachen zurückzugreifen, die Sie nicht perfekt beherrschen.
 
 | Dienst |
@@ -46,6 +46,20 @@ Erstellen Sie nun das Profil der von Ihnen ausgewählten Dienste anhand der unte
 - *Bediente Regionen*: Ist der Dienst weltweit verfügbar?
 - *Vorherrschende geografische/kulturelle Regionen*: Gibt es bestimmte geografische und/oder sprachliche Regionen, in denen die Nutzung des Dienstes besonders beliebt ist?
 
+-->
+<!--vérifier le rendu avec Eliane -->
+In den zwei nachfolgenden Tabellen sind eine Reihe von Plattformen sozialer Medien aufgeführt. Einige sind weltweit bekannt, andere haben eine spezifische, regionale Nutzerschaft. Füllen Sie die nachstehenden Tabellen aus und recherchieren Sie hierfür im Internet und/oder suchen Sie nach relevanter Literatur. Denken Sie daran, Sie können immer auch Google Translate o.ä. benutzen, um Sprachen, in welchen Sie nicht sattelfest sind, zu übersetzen.
+
+| | Facebook | Cloob | VK |
+| Soziales Element der Plattform: z.B.,bloggen, diskutieren, teilen, vernetzen, crowdsourcen | | | |
+| Inhalt: Was für eine Art Inhalt wird auf dieser Plattform produziert? z.B., Nachrichten, Meinungen, Fotos, persönliche Geschichten, Kommunikation, Spiele, Filme, Clips, Hobbies | | | |
+| Vergleichbare Praktiken im analogen Zeitalter: z.B. Bar, Brief, Telegram, Kino, Fotoalbum, etc. | | | |
+| Zielpublikum: An wen richtet sich diese Plattform in erster Linie? Arbeit oder Freizeit? | | | |
+| Gerät: Welche Art von technologischem Gerät benötigen Sie, um auf das soziale Medium zuzugreifen? z.B. Computer, Tablet, Smartphone, etc. | | | |
+| Kontrolle:* Wird was geposted wird kontrolliert? Wenn ja, von wem und aus welchem Grund? (Und wenn nicht, weshalb?) | | | |
+| Privatsphäre:* Welches Wissen hat das Unternehmen, das die Plattform betreibt, über seine Nutzerschaft und was passiert mit diesen Daten? | | | |
+
+
 
 <!-- section -->
 
@@ -66,7 +80,6 @@ Nun werden Sie sich mit den Unternehmen beschäftigen, die hinter einer Reihe be
 - *Verkaufsargument*: Was macht den Dienst einzigartig und seine Nutzung attraktiv?
 - *Moderation der Inhalte*: Werden die Beiträge der Nutzer überwacht? Falls ja, von wem und warum? Falls nein, warum nicht?
 - *Datenschutz*: Wie geht das Unternehmen, das die Plattform betreibt, mit den Daten der Nutzer um? Was geschieht mit diesen Daten?
-
 
 <!-- section -->
 
