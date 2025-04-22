@@ -8,12 +8,12 @@ documents:
 tags:
 outcomes:
  - "Twitter/X aus einer historischen Perspektive betrachten"
- - "Die verschiedenen Arten der Nutzung, Analyse und Bewahrung von Twitter/X zu verstehen, um die Quellenkritik darauf anwenden zu können"
+ - "Die verschiedenen Arten der Nutzung, Analyse und Archivierung von Twitter/X verstehen, um Quellenkritik darauf anwenden zu können"
 order: 7
 ---
-Twitter, jetzt als X bekannt, wurde im März 2006 gestartet. Nach verschiedenen Schätzungen und „offiziellen“ Zahlen, die von Twitter Inc. veröffentlicht wurden, hat es inzwischen zwischen 300 und 400 Millionen Nutzer. Twitter wurde bekannt für seine Fähigkeit, Informationen sehr schnell zu verbreiten und große Kontroversen auszulösen (einschließlich Fällen von Belästigung), für seine Rolle in gesellschaftspolitischen Bewegungen (wie #BlackLivesMatter oder #MeToo) und für seine Konzentration auf aktuelle Themen sowie für die starke Präsenz von Journalisten auf der Plattform.
+Twitter, jetzt als X bekannt, wurde im März 2006 gestartet. Nach verschiedenen Schätzungen und „offiziellen“ Zahlen, welche von Twitter Inc. veröffentlicht wurden, hat die Plattform inzwischen 300 - 400 Millionen Nutzerinnen. Twitter wurde dafür bekannt, Informationen sehr schnell zu verbreiten und große Kontroversen auszulösen (einschließlich Fälle von Belästigung), gesellschaftspolitischen Bewegungen (wie #BlackLivesMatter oder #MeToo) aktuellen Themen, sowie für Journalistinnen Raum zu geben.
 
-Nach dem Abschluss einer rechtlichen Vereinbarung mit den Aktionären von Twitter Inc. am 14. April 2022 und einer Reihe von Wendungen kaufte Elon Musk Twitter mit Wirkung vom 27. Oktober 2022. Seitdem wurde Twitter umstrukturiert, viele Mitarbeiter entlassen und in X umbenannt. Viele der seit Oktober 2022 getroffenen Maßnahmen wurden angefochten, darunter die Wiederzulassung von Konten mit rechtsextremen Ansichten und die teilweise Umstellung auf ein Bezahlmodell für Nutzer. Diese Entscheidungen führten zum Verlust vieler Werbekunden und stellten die langfristige Zukunft der Plattform in Frage.
+Nach dem Abschluss einer rechtlichen Vereinbarung mit den Aktionärinnen von Twitter Inc. am 14. April 2022 und einer Reihe von Ereignissen kaufte Elon Musk Twitter und übernahm die Plattform offiziell per 27. Oktober 2022. Seitdem wurde Twitter umstrukturiert, viele Mitarbeitende entlassen und zu 'X' umbenannt. Viele der seit Oktober 2022 getroffenen Maßnahmen wurden angefochten, darunter die Wiederzulassung von Konten mit rechtsextremen Ansichten und die teilweise Umstellung auf ein Bezahlmodell für Nutzende. Diese Entscheidungen führten zum Verlust vieler Werbekundinnen und stellten die langfristige Zukunft der Plattform in Frage.
 
 <html>
 <div class="alert alert-info">
@@ -21,12 +21,12 @@ Diese Lektion, die ursprünglich im Jahr 2021 veröffentlicht wurde, wurde Ende 
 </div>
 </html>
 
-In dieser Aufgabe werden die verschiedenen Funktionen/Dimensionen des sozialen Mediums Twitter besprochen: seine Geschichte, einschließlich seiner Umwandlung in X, seine Nutzung, seine Analysemöglichkeiten, seine Bewahrung und seine Archivierung.
+In dieser Aufgabe werden die verschiedenen Merkmale/Dimensionen des sozialen Mediums Twitter diskutiert: Geschichte, Nutzung, Analysemöglichkeiten und Archivierung. 
 
 <!-- more -->
 <!-- briefing-student -->
 
-### 7.a Wie wurde Twitter erfunden? | 15 Min. 
+### 7.a Wie wurde Twitter kreiert? | 15 Min. 
 <!-- section-contents -->
 
 ![dorsey](../../../assets/images/social-media/dorsey.jpg){:style="max-height:500px"}
@@ -35,9 +35,9 @@ Bildnachweis: Eine frühe Skizze der Ideen, aus denen sich Twitter entwickeln so
 
 Lesen Sie [dieses Interview in der Los Angeles Times mit Jack Dorsey](https://latimesblogs.latimes.com/technology/2009/02/twitter-creator.html){:target="_blank"}, einem der Twitter-Gründer, vom 18. Februar 2009.
 
-- Was war die Inspiration für Dorsey, Twitter zu erfinden?
-- Wie entwarf er einen Prototypen für die Anwendung?
-- Welche Funktion des Instant Messaging wurde für Twitter nachgebildet?
+- Was war Dorseys Inspiration Twitter zu kreieren?
+- Wie entwarf er einen Prototypen für die Plattform?
+- Welche Funktion von Sofortnachrichten wurde für Twitter nachgeahmt?
 
 <!-- section -->
 
@@ -50,7 +50,7 @@ Bildnachweis: [The Lighthouse(@the_bercibot)](https://twitter.com/the_bercibot/s
 Besuchen Sie die archivierte Version von [Twitter-Leitfaden für neue NutzerInnen](https://web.archive.org/web/20180103203839/https://help.twitter.com/en/new-user-faq){:target="_blank"} und beantworten Sie die folgenden Fragen:
 - Was ist ein Tweet?
 - Wie lang (Zeichenzahl) ist ein Tweet heute?
-- War er schon immer so lang?
+- Waren Tweets schon immer diese Länge?
 - Warum ist die Zeichenzahl eines Tweets begrenzt?
 - Wie hängt die Begrenzung der Zeichenzahl mit der Besonderheit von Twitter zusammen?
 
@@ -105,7 +105,7 @@ Dies ist der erste je veröffentlichte Tweet. Gepostet wurde er von Twitter-Erfi
 - [https://web.archive.org/web/20081103142857/https://twitter.com/jack/status/20](https://web.archive.org/web/20081103142857/https://twitter.com/jack/status/20){:target="_blank"}
 - [https://web.archive.org/web/20150321230408/https://twitter.com/jack/status/20](https://web.archive.org/web/20150321230408/https://twitter.com/jack/status/20){:target="_blank"}
 
-Diese beiden Schnappschüsse sind Versionen dieses Tweets, archiviert von der [Internet Archive Wayback Machine](https://archive.org/web/){:target="_blank"}. Der erste ist die früheste Aufnahme des Tweets. Im Gegensatz dazu ist Jack Dorseys Tweet, wie er aktuell auf Twitter angezeigt wird, ist keine archivierte, sondern eine Live-Version – das bedeutet, dass Twitter-Nutzer selbst heute noch immer damit interagieren können. Vergleichen Sie unten kurz diese drei Versionen ein und desselben Tweets und ermitteln Sie einige der Schwierigkeiten, auf die Archivare bei der Archivierung sozialer Medien stoßen könnten.
+Diese beiden Snapshots sind Versionen eines Tweets, die vom [Internet Archive Wayback Machine](https://archive.org/web/){:target="_blank"} archiviert wurden. Die erste Aufnahme ist die früheste Version des Tweets. Im Vergleich dazu ist Jack Dorseys Tweet (der jetzt als „Post“ bezeichnet wird), so wie er derzeit auf X angezeigt wird, keine archivierte, sondern eine Live-Version – das bedeutet, dass die heutigen X-Nutzenden auch heute noch damit interagieren können. Versuchen Sie, einige der Schwierigkeiten zu verstehen, mit denen Archivar*innen bei der Archivierung von Social-Media-Inhalten konfrontiert sein könnten, indem Sie diese drei Versionen desselben Tweets/Posts in einer kurzen Antwort vergleichen.
 
 <!-- section -->
 
