@@ -2,7 +2,7 @@
 layout: assignment
 unit: social-media-historians
 lang: de
-title: "Wie steht es um Ihre eigenen Gewohnheiten im Umgang mit sozialen Medien?"
+title: "Was für Gewohnheiten mit sozialen Medien haben Sie?"
 cover:
 documents:
   - social-media-log-comparison
@@ -22,20 +22,22 @@ Bildnachweis: [Imgur](https://imgur.com/dqSRAaT)
 <!-- more -->
 <!-- briefing-student -->
 
-### 4.a Dokumentieren und teilen Sie Ihre persönliche Social-Media-Nutzung
+### 4.a Dokumentieren und vergleichen Sie Ihre Nutzung sozialer Medien
 <!-- section-contents -->
-Eine der besten Möglichkeiten, den Einfluss und die Funktion sozialer Medien auf unser Leben zu verstehen, besteht darin, Ihre eigene Nutzung genau zu beobachten. Für diese Aufgabe sollen Sie an drei aufeinanderfolgenden Tagen Protokoll über Ihre Social-Media-Nutzung führen und dann Ihre eigenen Gewohnheiten mit denen von drei anonymen Geschichtsstudierenden sowie mit statistischen Daten für Ihr Land vergleichen. Dies kann Ihnen Aufschluss darüber geben, wie Social-Media-Nutzer ihren digitalen Fußabdruck erstellen und Spuren hinterlassen, die eines Tages von Historikern als Quellen genutzt werden könnten.
+Eine der besten Möglichkeiten, den Einfluss sozialer Medien auf unser Leben, und deren Rolle zu verstehen, besteht darin, unsere eigene Nutzung genau zu beobachten. Für diese Aufgabe führen Sie an drei aufeinanderfolgenden Tagen Protokoll über Ihre Nutzung sozialer Medien. Danach vergleichen Sie Ihre Gewohnheiten mit denen dreier anonymer Geschichtsstudierenden sowie mit statistischen Daten des Landes, in dem Sie momentan leben.
 
 1. Führen Sie mithilfe der nachstehenden Tabelle Protokoll über Ihre eigene Social-Media-Nutzung.
 
-| | Genutzte Social-Media-Plattform | Grund der Nutzung | Verspürte Empfindungen | Dauer der Nutzung |
+| | Benutzte Social-Media-Plattform | Wieso ich die Plattform benutzt habe | Wie ich die Benutzung empfunden habe | Wie lange ich die Plattform benutzt habe |
 | Tag&nbsp;1 | | | | |
 | Tag&nbsp;2 | | | | |
 | Tag&nbsp;3 | | | | |
 
-2. Nachdem Sie Ihr eigenes Protokoll geführt haben, klicken Sie bitte auf den unten stehenden Link, um sich die Protokolle von drei anonymen Geschichtsstudierenden anzusehen. Notieren Sie, welche Gemeinsamkeiten und Unterschiede Ihnen zwischen deren Gewohnheiten und Ihren eigenen auffallen.
+2. Nachdem Sie Ihr eigenes Protokoll geführt haben, klicken Sie auf den untenstehenden Link, um die Protokolle von drei anonymen Geschichtsstudierenden anzusehen. Notieren Sie, welche Gemeinsamkeiten oder Unterschiede Sie zwischen Ihren eigenen und den Gewohnheiten der Studierenden feststellen können.
 [cit](social-media-log-comparison)
 
-3. Vergleichen Sie zum Abschluss Ihre Nutzung sozialer Medien mit der Ihres Landes. Nutzen Sie die [Folien 78–101 aus diesem globalen Bericht von 2021 über die Nutzung sozialer Medien](https://wearesocial.com/digital-2021){:target="_blank"}, um Ihr jeweiliges Land nachzuschlagen. („We Are Social’s Digital 2021“ von Simon Kemp von we are social/Hootsuite). Wenn Sie aktuellere Berichte finden, können Sie gerne auch diese nutzen. Was fällt Ihnen auf, wenn Sie Ihre Gewohnheiten im Umgang mit sozialen Medien mit denen der oben genannten Studierenden und dem globalen Bericht vergleichen? Halten Sie einige Ihrer Gedanken und Erkenntnisse in einer kurzen Abhandlung (max. 250 Wörter) fest.
+3. Zum Schluss, vergleichen Sie Ihre Benutzungsgewohnheiten sozialer Medien mit den Statistiken zum Land in dem Sie zur Zeit leben. Suchen Sie im Bericht über [die weltweite Benutzung sozialer Medien von 2021 Ihr jeweiliges Land. (Simon Kemp, we are social/Hootsuite, Folien 78-101)](https://wearesocial.com/digital-2021){:target="_blank"}. 
+
+* Was fällt Ihnen auf, wenn Sie Ihre Gewohnheiten mit denen der Studierenden und dem globalen Bericht vergleichen? Halten Sie Ihre Gedanken und Erkenntnisse in einem kurzen Essay fest (max. 250 Wörter).
 
 <!-- briefing-teacher -->
