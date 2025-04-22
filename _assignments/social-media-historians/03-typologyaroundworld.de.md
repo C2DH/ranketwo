@@ -20,7 +20,7 @@ In dieser Aufgabe sollen Sie eine Webrecherche durchführen, um die Profile unte
 ### 3.a Soziale Medien rund um den Globus | 20 Min.
 
 <!-- section-contents -->
-<!-->
+
 Nachfolgend ist eine Reihe von Social-Media-Plattformen aufgeführt, zu denen Sie eine Webrecherche durchführen und Informationen über einige ihrer Merkmale sammeln sollen. Ziel dieser Aufgabe ist es, Sie mit den verschiedenen Funktionsweisen dieser Plattformen vertraut zu machen. Einige von ihnen sind weltweit populär, andere vor allem in bestimmten Regionen der Welt bekannt – manche vielleicht schon gar nicht mehr aktiv, aber auch das ist interessant! Unsere Liste ist nicht erschöpfend, und Sie können natürlich nach Belieben weitere Plattformen hinzufügen oder auch nur einzelne Plattformen aus der Liste auswählen. Wir empfehlen jedoch, dass Sie Ihre Arbeit auf mindestens drei Plattformen konzentrieren. Sie können die ausgewählten Merkmale auch an Ihre eigenen Forschungsinteressen anpassen. Scheuen Sie sich außerdem nicht, bei Ihren Recherchen auf Übersetzungstools für Sprachen zurückzugreifen, die Sie nicht perfekt beherrschen.
 
 | Dienst |
@@ -45,21 +45,6 @@ Erstellen Sie nun das Profil der von Ihnen ausgewählten Dienste anhand der unte
 - *Geografische Gesichtspunkte*: In welchem Land hat das Unternehmen, das den Dienst betreibt, seinen Sitz?
 - *Bediente Regionen*: Ist der Dienst weltweit verfügbar?
 - *Vorherrschende geografische/kulturelle Regionen*: Gibt es bestimmte geografische und/oder sprachliche Regionen, in denen die Nutzung des Dienstes besonders beliebt ist?
-
--->
-<!--vérifier le rendu avec Eliane -->
-In den zwei nachfolgenden Tabellen sind eine Reihe von Plattformen sozialer Medien aufgeführt. Einige sind weltweit bekannt, andere haben eine spezifische, regionale Nutzerschaft. Füllen Sie die nachstehenden Tabellen aus und recherchieren Sie hierfür im Internet und/oder suchen Sie nach relevanter Literatur. Denken Sie daran, Sie können immer auch Google Translate o.ä. benutzen, um Sprachen, in welchen Sie nicht sattelfest sind, zu übersetzen.
-
-| | Facebook | Cloob | VK |
-| Soziales Element der Plattform: z.B.,bloggen, diskutieren, teilen, vernetzen, crowdsourcen | | | |
-| Inhalt: Was für eine Art Inhalt wird auf dieser Plattform produziert? z.B., Nachrichten, Meinungen, Fotos, persönliche Geschichten, Kommunikation, Spiele, Filme, Clips, Hobbies | | | |
-| Vergleichbare Praktiken im analogen Zeitalter: z.B. Bar, Brief, Telegram, Kino, Fotoalbum, etc. | | | |
-| Zielpublikum: An wen richtet sich diese Plattform in erster Linie? Arbeit oder Freizeit? | | | |
-| Gerät: Welche Art von technologischem Gerät benötigen Sie, um auf das soziale Medium zuzugreifen? z.B. Computer, Tablet, Smartphone, etc. | | | |
-| Kontrolle:* Wird was geposted wird kontrolliert? Wenn ja, von wem und aus welchem Grund? (Und wenn nicht, weshalb?) | | | |
-| Privatsphäre:* Welches Wissen hat das Unternehmen, das die Plattform betreibt, über seine Nutzerschaft und was passiert mit diesen Daten? | | | |
-
-
 
 <!-- section -->
 
