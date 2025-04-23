@@ -2,61 +2,58 @@
 layout: assignment
 unit: social-media-historians
 lang: de
-title: 'When does a tweet or YouTube clip become "historical"?'
+title: 'Wann werden Tweets oder YouTube-Clips „historisch“?'
 cover:
 documents:
 tags:
-- social media
-- bias
-- copyright
-- privacy
-outcomes:
+- web-social-media
+outcomes: "Verstehen, ab wann soziale Medien als Quellen für eine historische Untersuchung betrachtet werden können"
 order: 1
 ---
 
-Amongst historians, it is argued that in order to consider an event "mature" enough for historical inquiry, there should be distance in time and access to classified documents. This idea of a necessary waiting period has long  determined the historicity of a given event or topic. The advent of the web and social media—with direct access to an abundance of data, especially in the realm of private life—seems to have challenged the idea of what can be considered as "historical". In this assignment, you are going to be confronted with different opinions on the role of social media in history and whether they can be considered historical sources.
+In der Geschichtswissenschaft wird oftmals argumentiert, dass ein gewisser zeitlicher Abstand und Zugang zu unter Verschluss gehaltenen Dokumenten dafür notwendig sind, damit ein Ereignis „reif“ genug für eine historische Untersuchung ist. Diese Vorstellung einer gewissen „Wartezeit“ bestimmte lange die Historizität von Ereignissen oder Themen. Das Aufkommen des Internets und der sozialen Medien ermöglichen den direkten Zugang zu einer Fülle an Daten, insbesondere im privaten Bereich. Dies stellt die Idee davon, was als historisch betrachtet werden kann, infrage. In dieser Aufgabe werden Sie sich mit verschiedenen Meinungen über die Rolle der sozialen Medien in der Geschichte, und der Frage, ob sie als historische Quellen angesehen werden können, auseinandersetzen.
 
 {:.mosaic}
-[![social media](https://media.giphy.com/media/rB8CbdO6xSJofmOAKL/giphy.webp "Linaria Comunicación via Giphy")](https://giphy.com/gifs/comunicacion-linaria-linariacomunicacion-rB8CbdO6xSJofmOAKL){:target="_blank"}
-[![interactivity](https://media.giphy.com/media/gIMdqhwG5Xa45Mb2Ex/giphy.webp "INTO ACTION via Giphy")](https://giphy.com/gifs/IntoAction-covid-fake-news-misinformation-gIMdqhwG5Xa45Mb2Ex){:target="_blank"}
-[![interactivity](https://media.giphy.com/media/jQmn1Dkw55R3cjm3eC/giphy.webp "Flamingo Services via Giphy")](https://giphy.com/gifs/instagram-hearts-likes-jQmn1Dkw55R3cjm3eC){:target="_blank"}
+[![social media](https://media.giphy.com/media/rB8CbdO6xSJofmOAKL/giphy.webp "Bildnachweis: Linaria Comunicación, Giphy")](https://giphy.com/gifs/comunicacion-linaria-linariacomunicacion-rB8CbdO6xSJofmOAKL){:target="_blank"}
+[![interactivity](https://media.giphy.com/media/gIMdqhwG5Xa45Mb2Ex/giphy.webp "Bildnachweis: INTO ACTION, Giphy")](https://giphy.com/gifs/IntoAction-covid-fake-news-misinformation-gIMdqhwG5Xa45Mb2Ex){:target="_blank"}
+[![interactivity](https://media.giphy.com/media/jQmn1Dkw55R3cjm3eC/giphy.webp "Bildnachweis: Flamingo Services, Giphy")](https://giphy.com/gifs/instagram-hearts-likes-jQmn1Dkw55R3cjm3eC){:target="_blank"}
 
 Image credits:
-[Linaria Comunicación via Giphy](https://media.giphy.com/media/rB8CbdO6xSJofmOAKL/giphy.gif),
-[INTO ACTION via Giphy](https://media.giphy.com/media/gIMdqhwG5Xa45Mb2Ex/giphy.gif),
-[Flamingo Services via Giphy](https://media.giphy.com/media/jQmn1Dkw55R3cjm3eC/giphy.gif)
+[Bildnachweis: Linaria Comunicación, Giphy](https://media.giphy.com/media/rB8CbdO6xSJofmOAKL/giphy.gif),
+[Bildnachweis: INTO ACTION, Giphy](https://media.giphy.com/media/gIMdqhwG5Xa45Mb2Ex/giphy.gif),
+[Bildnachweis: Flamingo Services, Giphy](https://media.giphy.com/media/jQmn1Dkw55R3cjm3eC/giphy.gif)
 
 <!-- more -->
 
 <!-- briefing-student -->
 
-### 1.a What can be considered "historically relevant" social media expressions?  | 20 Min
+### 1.a Welche Ausdrucksformen in den sozialen Medien können als "historisch relevant" betrachtet werden? | 20 Min.
 <!-- section-contents -->
 
-Do you consider any of these messages, posts, photos, or web pages "historical"? Argue why or why not you would consider this content "historical" and support your answers through web research on the background and/or authors of the content. Write down your answers in the answer form.
+Halten Sie diese Nachrichten, Beiträge, Fotos oder Webseiten für historisch bedeutsam, oder nicht? Begründen Sie Ihre Antworten und untermauern Sie diese durch eine Internetrecherche über den Inhalt und/oder die AutorInnen der Inhalte.
 
 
-[A Tweet](https://www.bbc.com/news/technology-13257940)
+[Ein Tweet](https://www.bbc.com/news/technology-13257940) (Live-URL [hier](https://twitter.com/reallyvirtual/status/64780730286358528)) 
 
 ![tweetbinladen](../../../assets/images/social-media/tweetbinladen.png)
 
 {:.mt-5}
-[A Gif](https://media.giphy.com/media/LMeVjYYdUkOoE/giphy.gif)
+[Ein Gif](https://media.giphy.com/media/LMeVjYYdUkOoE/giphy.gif)
 
 ![firstfilm](../../../assets/images/social-media/firstfilm.gif)
 
 {:.mt-5}
-[A Facebook group](https://www.facebook.com/groups/1500687070143366)
+[Eine Facebook-Gruppe](https://www.facebook.com/groups/1500687070143366)
 
 ![facebook](../../../assets/images/social-media/facebook.png)
 
 {:.mt-5}
-[An Instagram account](https://www.instagram.com/lgbt_history/)
+[Ein Instagram-Konto](https://www.instagram.com/lgbt_history/)
 
 ![pink](../../../assets/images/social-media/pink.png)
 
 {:.mt-5}
-[A Wikipedia page](https://en.wikipedia.org/wiki/List_of_female_explorers_and_travelers)
+[Eine Wikipedia-Seite](https://en.wikipedia.org/wiki/List_of_female_explorers_and_travelers)
 
 ![wiki](../../../assets/images/social-media/wiki.png)
 
@@ -64,49 +61,45 @@ Do you consider any of these messages, posts, photos, or web pages "historical"?
 
 <!-- section -->
 
-### 1.b Arguments put forward by historians | 30 Min
+### 1.b Von HistorikerInnen vorgebrachte Argumente | 30 Min.
 <!-- section-contents -->
-After having argued why or why not something should be considered "historical", let's examine what professional historians have to say on the subject.
+Nachdem wir uns überlegt haben, wann etwas als historisch zu betrachten ist, und wann nicht, wollen wir uns nun mit Meinungen von HistorikerInnen zu dieser Thematik auseinandersetzen.
 
 **Option 1**
 
-Read the following two blogs by professional historians and jot down what arguments are presented by the authors about *what can be considered to be part of the "past"*:
+Lesen Sie die folgenden zwei von HistorikerInnen verfassten Blogbeiträge. Notieren Sie anschließend die Argumente der AutorInnen zur Frage, was als Teil der Vergangenheit angesehen werden kann:
 
-1. [Suzannah Lipscomb in the British history journal *Historytoday* in her blog post "How recent is History?"](https://www.historytoday.com/how-recent-history) (770 words).
-Selected quote: "Historians from the page might want to learn from those of the screen".
+1.	Suzannah Lipscomb, [„How recent is History?“](https://www.historytoday.com/how-recent-history), *Historytoday*, 29. Januar 2015 (Englisch, 770 Wörter).
+Ausgewähltes Zitat: „Historians of the page might want to learn from those of the screen.“.
 
-2. [Historian Ian Milligan in the British/Australian platform for journalism The Conversation](https://theconversation.com/historians-archival-research-looks-quite-different-in-the-digital-age-121096) (1,100 words).
-Selected quote: "Today, hundreds of billions of websites preserved at the Internet Archive alone is more archival information than scholars have ever had access to".
+2.	Ian Milligan, [„Historians’ archival research looks quite different in the digital age“](https://theconversation.com/historians-archival-research-looks-quite-different-in-the-digital-age-121096), *The Conversation*, 19. August 2019 (Englisch, 1'100 Wörter).
+Ausgewähltes Zitat: „Today, hundreds of billions of websites preserved at the Internet Archive alone is more archival information than scholars have ever had access to.“
 
 **Option 2**
 
-Watch the two clips and read the two blogs below and then list some *positive and problematic aspects of historians engaging with social media.*
+Schauen Sie sich die beiden Videos an und lesen Sie die zwei untenstehenden Blogbeiträge. Notieren Sie dann sowohl positive wie auch potenziell problematische Aspekte der Nutzung sozialer Medien durch HistorikerInnen.
 
-Clips:
+Videos:
 
-1. [Journalist/writer John Birmingham on the website of the Born Digital program of the National and State Libraries of Australia](https://youtu.be/p9BmO-HLcVk) (9 min).
-Selected quote: "All of that stuff, of which we don’t really think about, because it’s like the air around us, that’s HISTORY!"
+1.	[Journalist/Schriftsteller John Birmingham auf der Website des „Born Digital“-Programms der National and State Libraries of Australia](https://youtu.be/p9BmO-HLcVk) (9 Min.). 
+Ausgewähltes Zitat: „All of that stuff, of which we don’t really think about, because it’s like the air around us, that’s HISTORY!“
+2.	[Historikerin Rebecca Huntley auf der Website des „Born Digital“-Programms der National and State Libraries of Australia](https://www.youtube.com/watch?v=hR9VQPfNHaE&feature=youtu.be) (3:30 Min.). Ausgewähltes Zitat: „Reflecting now on my life, and the documents in my life, a lot is not written down.“
 
-2. [Historian Rebecca Huntley on the website of the Born Digital program of the National and State Libraries of Australia](https://www.youtube.com/watch?v=hR9VQPfNHaE&feature=youtu.be) (3.30 min).
-Selected quote: "Reflecting now on my life, and the documents in my life, a lot is not written down".
+Artikel:
 
-Blogs:
+1.	[Is Social Media Good for History?](https://www.historytoday.com/archive/head-head/social-media-good-history). *History Today* 70, Nr. 2, 2. Februar 2020 (Englisch,  1'480 Wörter). 
+Ausgewähltes Zitat: „In a Twitter thread last June, curator Sara Huws wrote of her concern that the histories she tweeted from a Welsh museum account got more attention if she implied they’d been suppressed.“
+2.	Caroline Muller und Frédéric Clavert, [„Scholarly conversation on Twitter“](https://consciences.hypotheses.org/2721), *Acquis de conscience*, 25. März 2021 (4'237 Wörter). 
+In diesem Blogbeitrag befassen sich die beiden AutorInnen mit den Vorurteilen von HistorikerInnen gegenüber sozialen Medien. Ausgewähltes Zitat: „The social networking service Twitter suffers from a bad reputation in the academic world and, more broadly, among those who do not use it.“
 
-1. [Historian Cathrine Fletcher in the British journal *History Today*](https://www.historytoday.com/archive/head-head/social-media-good-history) (1,480 words).
-Selected quote: "In a Twitter thread last June, curator Sara Huws wrote of her concern that the histories she tweeted from a Welsh museum account got more attention if she implied they’d been suppressed".
-
-2. [Digital historians Caroline Mueller and Frederic Clavert reflect on the prejudices of historians against social media](https://www.historytoday.com/archive/head-head/social-media-good-history) (4,237 words).
-Selected quote: ‘"The social networking service Twitter suffers from a bad reputation in the academic world and, more broadly, among those who do not use it".
-
-Combining your own thoughts with those you have now seen from professional historians, write a short essay of about 500 words with your opinion on when an event, experience, or artifact becomes "historical" and what this means for the relationship between historians and social media. Use the space in your answer form.
-(Hint: Think of the introduction of previous popular media such as radio, the telephone, film, or television and what kind of sources they yielded)
+Schreiben Sie, basierend auf Ihren eigenen Gedanken, sowie denjenigen der HistorikerInnen mit denen Sie sich soeben auseinandergesetzt haben, einen kurzen Aufsatz von ca. 500 Wörtern. Begründen Sie wann Ihres Erachtens ein Ereignis, eine Erfahrung oder ein Artefakt "historisch" wird und was dies für die Beziehung zwischen HistorikerInnen und sozialen Medien bedeutet. [Use the space in your answer form. - This is not in online version ]
+(Tipp: Denken Sie dabei auch an die Verbreitung früherer Massenmedien wie Radio, Telefon, Film oder Fernsehen und welche Art von Quellen diese hervorgebracht haben.)
 
 <!-- section -->
 
-### Reading/viewing suggestions
+### Empfehlungen Lektüre/Video
 <!-- section-contents -->
-["How does the past become history?" History on screen, University of Tartu](https://ajalugu.haridusekraanil.ee/en/theoretical/time-together/how-does-the-past-form-the-history). Last accessed 28 April 2021.
-
+Universität Tartu. „How does the past become history?“. *History on Screen*. Letzter Zugriff: 31. Dezember 2024. Website-Link: [https://ajalugu.haridusekraanil.ee/en/theoretical/time-together/how-does-the-past-form-the-history](https://ajalugu.haridusekraanil.ee/en/theoretical/time-together/how-does-the-past-form-the-history)
 
 
 <!-- briefing-teacher -->

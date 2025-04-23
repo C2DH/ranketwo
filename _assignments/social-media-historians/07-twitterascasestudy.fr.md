@@ -46,7 +46,7 @@ Lisez [cet entretien, paru dans le *Los Angeles Times*, avec Jack Dorsey, l’un
 ### 7.b Comment Twitter/X se définit | 15 min 
  <!-- section-contents -->
 
-![jacktweet](../../../assets/images/social-media/jacktweet.png)
+![140](../../assets/images/social-media/140.png)
 
 Mention de source&#x202F;: Tweet du compte The Lighthouse (@the_bercibot). Disponible sur [https://twitter.com/the_bercibot/status/1379647473640161280](https://twitter.com/the_bercibot/status/1379647473640161280). 
 
@@ -146,6 +146,5 @@ Muller, Caroline et Frédéric Clavert. «&#x202F;Une informalité bien ordonné
 
 Zimmer, Michael. «&#x202F;The Twitter Archive at the Library of Congress&#x202F;: Challenges for information practice and information policy&#x202F;», *First Monday* 20 (7), 21 juin 2015. En ligne: <http://firstmonday.org/ojs/index.php/fm/article/view/5619>.
 
-<!-- section -->
 
 <!-- briefing-teacher -->

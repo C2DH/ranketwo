@@ -2,138 +2,117 @@
 layout: assignment
 unit: social-media-historians
 lang: de
-title: "Twitter as a case study (assignment curated by Frédéric Clavert)"
+title: "Twitter/X als Fallstudie (Aufgabe kuratiert von Frédéric Clavert)"
 cover:
 documents:
 tags:
-- social media
-- personal habits
-- privacy
 outcomes:
+ - "Twitter/X aus einer historischen Perspektive betrachten"
+ - "Die verschiedenen Arten der Nutzung, Analyse und Archivierung von Twitter/X verstehen, um Quellenkritik darauf anwenden zu können"
 order: 7
 ---
+Twitter, jetzt als X bekannt, wurde im März 2006 gestartet. Nach verschiedenen Schätzungen und „offiziellen“ Zahlen, welche von Twitter Inc. veröffentlicht wurden, hat die Plattform inzwischen 300 - 400 Millionen Nutzerinnen. Twitter wurde dafür bekannt, Informationen sehr schnell zu verbreiten und große Kontroversen auszulösen (einschließlich Fälle von Belästigung), gesellschaftspolitischen Bewegungen (wie #BlackLivesMatter oder #MeToo) aktuellen Themen, sowie für Journalistinnen Raum zu geben.
 
-In this assignment, the various features/dimensions of the social medium Twitter are discussed: its history, how it is used, how it is analyzed and how it is preserved/archived.  (For instructions on how to work with social media data we refer to the module LARGE, as more time, effort and guidance is required)
-Answer the questions below in your answer form.
+Nach dem Abschluss einer rechtlichen Vereinbarung mit den Aktionärinnen von Twitter Inc. am 14. April 2022 und einer Reihe von Ereignissen kaufte Elon Musk Twitter und übernahm die Plattform offiziell per 27. Oktober 2022. Seitdem wurde Twitter umstrukturiert, viele Mitarbeitende entlassen und zu 'X' umbenannt. Viele der seit Oktober 2022 getroffenen Maßnahmen wurden angefochten, darunter die Wiederzulassung von Konten mit rechtsextremen Ansichten und die teilweise Umstellung auf ein Bezahlmodell für Nutzende. Diese Entscheidungen führten zum Verlust vieler Werbekundinnen und stellten die langfristige Zukunft der Plattform in Frage.
+
+<html>
+<div class="alert alert-info">
+Diese Lektion, die ursprünglich im Jahr 2021 veröffentlicht wurde, wurde Ende 2023 geändert, um den Übergang von Twitter zu X zu berücksichtigen, wobei ein starker historischer Schwerpunkt beibehalten wurde. Ziel ist es nicht, die Plattform so zu untersuchen, wie sie heute ist, sondern vielmehr, wie sie sich seit 2006 entwickelt hat.
+</div>
+</html>
+
+In dieser Aufgabe werden die verschiedenen Merkmale/Dimensionen des sozialen Mediums Twitter diskutiert: Geschichte, Nutzung, Analysemöglichkeiten und Archivierung. 
 
 <!-- more -->
 <!-- briefing-student -->
 
-### 7.a Twitter’s history and specific characteristics
+### 7.a Wie wurde Twitter kreiert? | 15 Min. 
 <!-- section-contents -->
-
-***How it was created***
 
 ![dorsey](../../../assets/images/social-media/dorsey.jpg){:style="max-height:500px"}
 
-Image Credit: An early sketch of the ideas that would become Twitter. Published on Jack Dorsey's Flickr account on 24 March 2006 and available at: https://flickr.com/photos/jackdorsey/182613360/.
+Bildnachweis: Eine frühe Skizze der Ideen, aus denen sich Twitter entwickeln sollte. Veröffentlicht auf dem [Flickr-Account von Jack Dorsey](https://flickr.com/photos/jackdorsey/182613360/){:target="_blank"} am 24. März 2006.
 
-Read [this interview in the Los Angeles Times of February 18 2009 with Jack Dorsey](https://latimesblogs.latimes.com/technology/2009/02/twitter-creator.html), one of the founders of Twitter
-- What was the inspiration for Dorsey to create Twitter?
-- How did he design a prototype for the application?
-- Which feature of Instant Messaging was emulated for Twitter?
+Lesen Sie [dieses Interview in der Los Angeles Times mit Jack Dorsey](https://latimesblogs.latimes.com/technology/2009/02/twitter-creator.html){:target="_blank"}, einem der Twitter-Gründer, vom 18. Februar 2009.
 
-{:.w-100}
-{:style="height:100px"}
-| |
+- Was war Dorseys Inspiration Twitter zu kreieren?
+- Wie entwarf er einen Prototypen für die Plattform?
+- Welche Funktion von Sofortnachrichten wurde für Twitter nachgeahmt?
 
+<!-- section -->
 
-***How it is defined***
+### 7.b Wie ist Twitter definiert? | 10 Min.
+ <!-- section-contents -->
 
-![jacktweet](../../../assets/images/social-media/jacktweet.png)
-Image credit: The Lighthouse(@the_bercibot) - https://twitter.com/the_bercibot/status/1379647473640161280
+![140](../../assets/images/social-media/140.png)
+Bildnachweis: [The Lighthouse(@the_bercibot)](https://twitter.com/the_bercibot/status/1379647473640161280)
 
-Go to the [Twitter beginner’s guide](https://help.twitter.com/en/new-user-faq) to answer this question:
-- What is a tweet?
-- What is the length (the number of characters) of a tweet at present?
-- Has it always been this length?
-- Why is the number of characters of a tweet limited?
-- How does the limitation of characters relate to the specificity of Twitter?
+Besuchen Sie die archivierte Version von [Twitter-Leitfaden für neue NutzerInnen](https://web.archive.org/web/20180103203839/https://help.twitter.com/en/new-user-faq){:target="_blank"} und beantworten Sie die folgenden Fragen:
+- Was ist ein Tweet?
+- Wie lang (Zeichenzahl) ist ein Tweet heute?
+- Waren Tweets schon immer diese Länge?
+- Warum ist die Zeichenzahl eines Tweets begrenzt?
+- Wie hängt die Begrenzung der Zeichenzahl mit der Besonderheit von Twitter zusammen?
 
-{:.w-100}
-{:style="height:100px"}
-| |
+<!-- section -->
 
-
-***How it changed over time***
+### 7.c Wie hat sich Twitter im Laufe der Zeit verändert? | 25 Min.
+ <!-- section-contents --> 
 
 ![bird](../../../assets/images/social-media/bird.png)
+Bildnachweis: Aktuelles Twitter-Logo gemäß Markenrichtlinien. Aus dem [Twitter Marken-Toolkit](https://about.twitter.com/en/who-we-are/brand-toolkit){:target="_blank"}.
 
-Image credit: Current Twitter logo respecting the Brand Guidelines. Taken from https://about.twitter.com/en/who-we-are/brand-toolkit.
+Hinweis: In diesem Abschnitt verwenden wir die Wayback Machine des Internet Archive. Eine Anleitung zur Nutzung dieser Ressource finden Sie hier: [Handout Wayback Machine](https://ranke2.uni.lu/assets/pdf/wayback-machine-interface.pdf){:target="_blank"}. Darüber hinaus sollten sich diejenigen, die bereits einen Twitter-Account besitzen, zunächst aus ihrem Account abmelden, um diese Aufgabe zu absolvieren.
 
-Now go to the present Twitter homepage: http://www.twitter.com
+Verwenden Sie die historische URL der Twitter-Startseite in Ihrem Navigator: `http://www.twitter.com`
+- Wie lautet der Text auf der Startseite?
+- Zeigt die Seite, die Sie erreichen, immer noch Elemente der Marke „Twitter“ an?
+- Können Sie auf der Grundlage des [Wikipedia-Artikels über die Entwicklung von Twitter](https://de.wikipedia.org/wiki/X_(soziales_Netzwerk)#X_(seit_2023)){:target="_blank"} erklären, warum?
 
-*Note 1: in this section, we will use the Internet Archive’s Wayback Machine. For a guideline on how to use this resource see: [handout Wayback machine](https://ranke2.uni.lu/assets/pdf/wayback-machine-interface.pdf)
+Gehen Sie nun zu `https://x.com/`. Was passiert? Was steht auf der Seite über den Markenwechsel von Twitter zu X?
 
-*Note 2: Those who already have a Twitter account need to first log out, to be able to complete this assignment!
+Öffnen Sie die folgenden drei Hyperlinks zum Internet Archive. Jeder davon führt zu einer archivierten Version der Twitter-Startseite zu unterschiedlichen Zeitpunkten in den Jahren 2006, 2009 und 2015. Kopieren Sie anschließend die auf der Twitter-Startseite angezeigten Texte und notieren Sie, falls vorhanden, einige Veränderungen.
 
-- What does the text say on the homepage?
+- [https://web.archive.org/web/20060930214639/https://twitter.com/](https://web.archive.org/web/20060930214639/https://twitter.com/){:target="_blank"}
+- [https://web.archive.org/web/20090413225407/http://twitter.com/](https://web.archive.org/web/20060930214639/https://twitter.com/){:target="_blank"}
+- [https://web.archive.org/web/20150319071319/https://twitter.com/](https://web.archive.org/web/20060930214639/https://twitter.com/){:target="_blank"}
 
-{:.w-100}
-{:style="height:100px"}
-| |
+<!-- section --> 
 
-- Open these three hyperlinks to the Internet Archive and copy the texts on the homepage of Twitter into the table of your answer form
-
-- https://web.archive.org/web/20060930214639/https://twitter.com/
-- https://web.archive.org/web/20090413225407/http://twitter.com/
-- https://web.archive.org/web/20150319071319/https://twitter.com/
-
-|Text Home page Twitter  |  2006 | 2009 | 2015 |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-
-- What can you say about the changes?
-
-{:.w-100}
-{:style="height:100px"}
-| |
-
-
-***How you can interact with others***
+### 7.d Wie kann man auf Twitter mit anderen interagieren? | 10 Min.
+ <!-- section-contents -->  
 
 ![obamareply](../../../assets/images/social-media/obamareply.png)
-Image credit: Screenshot of selecting "reply" to an already posted Tweet taken on a desktop computer on 14 April 2021.
+Bildnachweis: Screenshot des Klicks auf die Schaltfläche, um auf einen bereits geposteten Tweet zu „antworten“, aufgenommen auf einem Desktop-Computer am 14. April 2021.
 
-Go to this [New York Times article by Mike Isaac](https://www.nytimes.com/2017/09/26/technology/twitter-280-characters.html?smid=url-share)
-- In what ways can you respond to a Tweet?
-- Can you “like” a Tweet? Why would you?
-- Can you mention a user in a Tweet? Why?
+Gehen Sie auf diesen Artikel von Mike Isaac in der New York Times. Lesen Sie ihn und beantworten Sie anschließend die folgenden Fragen:
+- Wie kann man auf einen Tweet antworten?
+- Kann man einen Tweet „liken“? Warum könnte man das tun?
+- Kann man einen Nutzer in einem Tweet erwähnen? Warum?
 
-{:.w-100}
-{:style="height:100px"}
-| |
+<!-- section --> 
 
-
-
-***How a Tweet is archived***
+### 7.e  Wie wird ein Tweet archiviert? | 15 Min.
+<!-- section-contents --> 
 
 ![jacktweet](../../../assets/images/social-media/jacktweet.png)
-Image credit: Jack Dorsey (@jack) - https://twitter.com/jack/status/20
 
+Bildnachweis: [Jack Dorsey (@jack)](https://twitter.com/jack/status/20){:target="_blank"}
 
-- Go to https://twitter.com/jack/status/20
+- Gehen Sie auf [https://twitter.com/jack/status/20](https://twitter.com/jack/status/20){:target="_blank"} und suchen Sie dort nach dem Tweet, auf den Sie gerade zugegriffen haben.
 
-This is the first tweet ever published, by the creator of Twitter Jack Dorsey. Unlike other old tweets, it is still on-line and readable on Twitter.
-- Compare the tweet as it is on Twitter to these two snapshots of the same tweet:
-- https://web.archive.org/web/20081103142857/https://twitter.com/jack/status/20
-- https://web.archive.org/web/20150321230408/https://twitter.com/jack/status/20
+Dies ist der erste je veröffentlichte Tweet. Gepostet wurde er von Twitter-Erfinder Jack Dorsey. Im Gegensatz zu anderen alten Tweets ist dieser noch online und kann auf Twitter gelesen werden. Vergleichen Sie den Tweet, der heute auf Twitter steht, mit Schnappschüssen desselben Tweets von vor zwei Jahren:
+- [https://web.archive.org/web/20081103142857/https://twitter.com/jack/status/20](https://web.archive.org/web/20081103142857/https://twitter.com/jack/status/20){:target="_blank"}
+- [https://web.archive.org/web/20150321230408/https://twitter.com/jack/status/20](https://web.archive.org/web/20150321230408/https://twitter.com/jack/status/20){:target="_blank"}
 
-
-Those two snapshots are versions of the tweets archived by the Wayback Machine on archive.org. Jack Dorsey’s tweet such as it is displayed on Twitter is not an archive. But by comparing them, you can guess some difficulties that archivists meet to archive social media. Can you, by comparing those three versions of the same tweet, list some of those difficulties?
-
-{:.w-100}
-{:style="height:100px"}
-| |
+Diese beiden Snapshots sind Versionen eines Tweets, die vom [Internet Archive Wayback Machine](https://archive.org/web/){:target="_blank"} archiviert wurden. Die erste Aufnahme ist die früheste Version des Tweets. Im Vergleich dazu ist Jack Dorseys Tweet (der jetzt als „Post“ bezeichnet wird), so wie er derzeit auf X angezeigt wird, keine archivierte, sondern eine Live-Version – das bedeutet, dass die heutigen X-Nutzenden auch heute noch damit interagieren können. Versuchen Sie, einige der Schwierigkeiten zu verstehen, mit denen Archivar*innen bei der Archivierung von Social-Media-Inhalten konfrontiert sein könnten, indem Sie diese drei Versionen desselben Tweets/Posts in einer kurzen Antwort vergleichen.
 
 <!-- section -->
 
-### Reading/viewing suggestions
+### Empfehlungen Lektüre/Videos
 <!-- section-contents -->
 
-Zimmer Michael, « The Twitter Archive at the Library of Congress: Challenges for information practice and information policy », First Monday 20 (7), 21.06.2015. En ligne: <http://firstmonday.org/ojs/index.php/fm/article/view/5619>.
+Zimmer, Michael. „The Twitter Archive at the Library of Congress: Challenges for Information Practice and Information Policy“. *First Monday* 20 (7) (Juni 2015). [Zeitschriftenartikel](http://firstmonday.org/ojs/index.php/fm/article/view/5619){:target="_blank"}
 
-<!-- section -->
 
 <!-- briefing-teacher -->

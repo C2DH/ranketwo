@@ -2,123 +2,104 @@
 layout: assignment
 unit: social-media-historians
 lang: de
-title: "Preservation; who is responsible for archiving social media?"
+title: "Erhaltung: Wer ist für die Archivierung sozialer Medien zuständig?"
 cover:
 documents:
 tags:
-- social media
-- personal habits
-- privacy
-outcomes:
+outcomes: "Probleme bei der Archivierung sozialer Medien verstehen"
 order: 5
 ---
 
 ![digitalbevaring](../../../assets/images/social-media/digitalbevaring.png)
 
-"Digital Preservation." Image created by Jørgen Stamp and used here without adaptation from the original on Digitalbevaring.dk
-under Creative Commons License CC BY 2.5 DK.
+„Digital Preservation“. Bild von Jørgen Stamp kreiert und hier im [Original Digitalbevaring.dk](https://digitalbevaring.dk/illustration/){:target="_blank"} unter Creative Commons Lizenz CC BY 2.5 DK verwendet.
 
 <!-- more -->
 <!-- briefing-student -->
 
-### 5.a An historical inquiry into two archived social media platforms
+### 5.a Eine historische Untersuchung von zwei archivierten Social-Media-Plattformen | 25 Min.
 <!-- section-contents -->
 
 {:.text-center}
 ![six](../../../assets/images/social-media/six.png){:style="width:250px;display:inline"}
 ![friend](../../../assets/images/social-media/friend.png){:style="width:250px;display:inline"}
 
-SixDegrees: Logo in public domain. Image from https://commons.wikimedia.org/wiki/File:SixDegrees.com_logo.png.
-Friendster: Former logo used from 2002-2009. Image from https://1000logos.net/wp-content/uploads/2021/04/Friendster-Logo-2002.png.
+SixDegrees: Aktuelles, öffentlich zugängliches Logo. Bild unter [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:SixDegrees.com_logo.png).
 
-In the chronological list of social media referred to in assignment 3b two early initiatives are mentioned: SixDegrees.com (www.SixDegrees.com) and Friendster (http://www.friendster.com, now defunct). If these would be the names of telephone companies or daily newspapers from the early 1900’s, you would probably start your research in company or government archives. But who is responsible for preserving the content of web platforms that were accessible worldwide but no longer exist? We are lucky to have the non profit organisation, the Internet Archive, dedicated to instructing robots to make daily snapshots of whatever is published online, store this material in a database and make it retrievable through a search interface.
-You are now going to conduct an historical inquiry into these two social media platforms by consulting the Internet Archive.
-[see for a more in depth - our handout on how to search the Internet Archive](https://ranke2.uni.lu/assets/pdf/wayback-machine-interface.pdf)
+Friendster: Frühere Logoversion, benutzt zwischen 2002-2009. Bild unter [1000 Logos](https://1000logos.net/wp-content/uploads/2021/04/Friendster-Logo-2002.png).
 
-- Put the url of  www.SixDegrees.com in the search box of the IA and search for snapshots made on April 28th 1999. https://web.archive.org/web/19990428073521/http://www.sixdegrees.com/
+Im Geschichtsüberblick zu sozialen Medien (vgl. Aufgabe 3b) wurden zwei Initiativen erwähnt: [Six Degrees](http://sixdegrees.com){:target="_blank"} und [Friendster](http://www.friendster.com){:target="_blank"}. Würde es sich bei diesen um Telefongesellschaften oder Tageszeitungen aus den frühen 1900er-Jahren handeln, würden Sie Ihre Recherche wahrscheinlich in Firmen- oder Regierungsarchiven beginnen. Aber wer ist eigentlich für die Archivierung der Inhalte von Webplattformen zuständig, die einst weltweit zugänglich waren und heute nicht mehr existieren? Zum Glück gibt es eine gemeinnützige Organisation: [Internet Archive](https://web.archive.org/){:target="_blank"}. Internet Archive hat Roboter programmiert, um täglich Schnappschüsse von Webinhalten machen. Dieses Daten werden dann in einer Datenbank gespeichert, welche von Nutzer:innen frei durchsuchbar ist.
 
-- Open up a new tab in your browser and now search for http://www.friendster.com  and look for the snapshots made on April 1st 2004. https://web.archive.org/web/20040401183007/http://friendster.com/info/moreinfo.jsp
+Sie werden nun eine historische Recherche dieser beiden Social-Media-Plattformen via Internet Archive durchführen. 
+Eine ausführlichere Erklärung finden Sie in unserem [Handout zur Suche im Internet Archive](https://ranke2.uni.lu/assets/pdf/wayback-machine-interface.pdf){:target="_blank"}.
 
-- You now have 2 start pages with several links to other pages. Make a comparison between the two by reading the startpage, checking the links that still work, and looking up information in the  section ‘about us’, ‘about the company’, ‘about the site’ (often only to find in a very small font at the very bottom of a page)
 
-- Complete this table on the basis of the info you can find:
+- Geben Sie die URL `http://sixdegrees.com` in das Suchfeld des IA ein und suchen Sie nach Schnappschüssen vom 29. April 1999, [wie zum Beispiel diesem](https://web.archive.org/web/19990428073521/http://www.sixdegrees.com/){:target="_blank"}. Bitte beachten Sie, dass die betreffende URL im Internet zwar noch immer zugänglich ist, die Website jedoch nicht mehr funktioniert.
 
-| | Six degrees | Friendster |
-| Created: date, place, name of authors/company |  |  |
-| Business model: |  |  |
-| Objective: |  |  |
-| Target audience: |  |  |
-| Access: |  |  |
-| Design: |  |  |
-| Users: How many, their background, nationality |  |  |
-| Shut down or bought by other company:
-who when and why |  |  |
+- Öffnen Sie eine neue Registerkarte in Ihrem Browser und greifen Sie erneut auf die Wayback Machine zu. Geben Sie nun `http://www.friendster.com` ein und suchen Sie nach Schnappschüssen vom 1. April 2004, wie [zum Beispiel diesem](https://web.archive.org/web/20040401183007/http://friendster.com/info/moreinfo.jsp){:target="_blank"}.
+
+- Sie haben nun zwei Startseiten mit verschiedenen Links zu anderen Seiten. Vergleichen Sie die beiden Seiten, indem Sie die Startseite lesen, die noch funktionierenden Links überprüfen und Informationen in Abschnitten wie „Über uns“, „Über das Unternehmen“ und/oder „Über die Website“ nachschlagen. Diese Abschnitte finden Sie oft in kleinerer Schrift am unteren Seiterand.
+
+Notieren Sie sowohl für Six Degrees als auch für Friendster die Informationen, die Sie zu folgenden Elementen finden können – für einige von ihnen müssen Sie eventuell im Web recherchieren.
+- Erstellung: Datum, Ort, Name des/der Schöpfer(s), Name des Unternehmens
+- Zweck
+- Zugangsmodalitäten
+- Gestaltung der Website
+- Zielgruppe
+- Nutzer: maximale Nutzerzahl, kulturell
+- Geschäftsmodell
+- Ende der Aktivität: Datum, Gründe, ggf. Weiterentwicklung
 
 <!-- section -->
 
-### 5.b Archival efforts to preserve social media
+### 5.b Archivierungsanstrengungen zur Bewahrung sozialer Medien | 20 Min.
   <!-- section-contents -->
+Die Pflicht einer Person oder Gruppe, eine Kopie einer Publikation zu hinterlegen, oder die Pflicht einer Regierung, alle ihre Dokumente in einer Nationalbibliothek oder einem Archiv auzubewahren, wird als [„gesetzliche Hinterlegungspflicht“](https://www.ifla.org/book/export/html/8302){:target="_blank"} bezeichnet. Die genauen Bedingungen variieren von Land zu Land. Gemeinsam ist ihnen, dass diese Verpflichtung bis zum Ende des 20. Jahrhunderts nur für gedruckte, manchmal auch für audiovisuelle Materialien, galt. Mit dem Aufkommen der digitalen Technologien musste die Gesetzgebung auf digitale Dokumente ausgeweitet werden. Dies erfordert andere Maßnahmen, ist aber im Hinblick auf statische digitale Inhalte durchaus umsetzbar. Aber mit dem zunehmend dynamischen, interaktiven und unmittelbaren Charakter der Social-Media-Daten und der Frage des Urheberrechts stehen kulturelle Einrichtungen vor einer Reihe neuer Herausforderungen.
+<!--
+Werfen wir nun einen kurzen Blick auf [Twitter](https://en.wikipedia.org/wiki/Twitter){:target="_blank"}, den Sie [später](https://ranke2.uni.lu/de/u/social-media-historians/#assignment-07-twitterascasestudy.de) weiter unten noch vertiefen können. 
+-->
 
-The duty of a person or group to deposit a copy of a publication or of a  government to deposit all its documents to a national library or archive is described in a so-called  [‘legal deposit’](https://www.ifla.org/book/export/html/8302). The exact terms vary from country to country. What they do have in common is that until the late 20th century this obligation only applied to printed, and sometimes, audio-visual materials. With the advent of digital technology the legislation had to be extended to digital documents. This asks for different measures, but is fairly feasible with regard to static digital content. Yet, with the increasingly dynamic, interactive and immediate character of social media data, and the issue of copyright, cultural heritage institutions are faced with a set of new challenges.
-Read the following two blogs and make notes on arguments pro-preservation of Tweets and arguments against:
-- The Library of Congress announces on its website that it is going to preserve all tweets that have been created through Twitter, on April 14th 2010. Go through the first 30 comments on the announcement. « How Tweet It Is!: Library Acquires Entire Twitter Archive », Library of Congress Blog, 14.04.2010, <https://blogs.loc.gov/loc/2010/04/how-tweet-it-is-library-acquires-entire-twitter-archive/>
+Bitte lesen Sie die folgenden Blogbeiträge und machen Sie sich Notizen zu den Argumenten für die Erhaltung von Tweets und den Argumenten dagegen:
+- „How Tweet It Is!: Library Acquires Entire Twitter Archive“ von Matt Raymond, Blog der Library of Congress, 14.04.2010, [https://blogs.loc.gov/loc/2010/04/how-tweet-it-is-library-acquires-entire-twitter-archive](https://blogs.loc.gov/loc/2010/04/how-tweet-it-is-library-acquires-entire-twitter-archive){:target="_blank"}
+- Blog welcher sieben Jahre später publiziert wurde: „Update on the Twitter Archive at the Library of Congress“ von Gayle Osterberg, Blog der Library of Congress, 26.12.2017, [https://blogs.loc.gov/loc/2017/12/update-on-the-twitter-archive-at-the-library-of-congress-2](https://blogs.loc.gov/loc/2017/12/update-on-the-twitter-archive-at-the-library-of-congress-2){:target="_blank"} 
 
-- Blog published seven years later. «Update on the Twitter Archive at the Library of Congress», Library of
-Congress Blog, 26.12.2017, https://blogs.loc.gov/loc/2017/12/update-on-the-twitter-archive-at-the-library-of-congress-2/?loclr=blogloc
-
-{:.w-100}
-{:.text-center}
-| pro-preservation |  against preservation |
-|   |   |
-|   |   |
-|   |   |
+Der erste dieser Beiträge wurde veröffentlicht, als die [Library of Congress](https://www.loc.gov/){:target="_blank"} am 14. April 2010 auf ihrer Website bekannt gab, dass sie jeden über Twitter erstellten Tweet bewahren würde (Tipp: wir empfehlen, auch die ersten 30 Kommentare unter dem Beitrag zu lesen). Der zweite Beitrag wurde sieben Jahre später veröffentlicht und berichtet über den Fortgang des Vorhabens.
 
 <!-- section -->
 
-### 5.c Who is still covered by the Library of Congress?
+### 5.c Wer wird noch von der Library of Congress erfasst? | 25 Min. 
  <!-- section-contents -->
 
-- Read this article by Andrew McGill on how the LOC underestimated the problems that it would encounter by archiving the entire Twitter archive: , «Can Twitter Fit Inside the Library of Congress? », The Atlantic, 04.08.2016. <http://www.theatlantic.com/technology/archive/2016/08/can-twitter-fit-inside-the-library-of-congress/494339/>,
+- Lesen Sie den Artikel von Andrew McGill, der davon handelt, wie die LOC die Probleme unterschätzte, die durch die Archivierung des gesamten Twitter-Archivs entstehen würden:: „Can Twitter Fit Inside the Library of Congress?“, *The Atlantic*, 04.08.2016, [http://www.theatlantic.com/technology/archive/2016/08/can-twitter-fit-inside-the-library-of-congress/494339/](http://www.theatlantic.com/technology/archive/2016/08/can-twitter-fit-inside-the-library-of-congress/494339/){:target="_blank"}.
 
-Have a closer look at this Twitter account: <https://twitter.com/POTUS45>
+- Schauen Sie sich diesen Twitter-Account genauer an: [@POTUS45](https://twitter.com/POTUS45){:target="_blank"}.
 
 ![trump](../../../assets/images/social-media/trump.png){:style="max-height:500px"}
 
-Image credit: Screenshot of "President Trump 45 Archived (@POTUS45)" Twitter page taken on a desktop computer on 14 April 2021 - https://twitter.com/POTUS45
+Screenshot der [Twitter-Seite „President Trump 45 Archived (@POTUS45)“](https://twitter.com/POTUS45){:target="_blank"}, aufgenommen am 14. April 2021 auf einem Desktop-Computer.
 
-- Has the Library of Congress indeed applied the criteria that they describe in their change of policy in December 2017?
-- Does this mean that these archived Tweets are accessible for research? Elaborate your answer with arguments.
+Beantworten Sie nun die folgenden Fragen in einer kurzen Abhandlung von etwa 250 Wörtern.
 
-{:.w-100}
-{:style="height:100px"}
-| |
+1.  Hat die Library of Congress tatsächlich die Kriterien angewandt, die sie in ihrer geänderten Richtlinie im Dezember 2017 beschrieben hat?
+2.  Heißt das, dass diese archivierten Tweets für die Forschung zugänglich sind? Begründen Sie Ihre Antwort mit Argumenten.
+
 
 <!-- section -->
 
-### 5.d What about other social media?
+### 5.d Wie steht es um andere soziale Medien? | 20 Min. 
  <!-- section-contents -->
 
-Much attention has been given to the ‘open approach’ of Twitter with regard to access to its data. But what about the many other social platforms? Do they offer the same possibilities?
-Read this paper by Helen Hockx-Yu presented at the international conference of the Federation of Libraries and Archives in 2014 in Lyon, on the difficulties of archiving social media data for cultural heritage institutions. http://library.ifla.org/999/1/107-hockxyu-en.pdf
+Dem „offenen Zugang“ von Twitter in Bezug auf den Zugriff zu Daten wurde viel Aufmerksamkeit geschenkt. Aber wie sieht es mit den vielen anderen sozialen Plattformen aus? Bieten sie die gleichen Möglichkeiten?
 
-List three important arguments for why archiving social media is problematic.
+Lesen Sie [diesen Beitrag](http://library.ifla.org/999/1/107-hockxyu-en.pdf){:target="_blank"} von Helen Hockx-Yu, der 2014 auf der internationalen Konferenz der Föderation der Bibliotheken und Archive in Lyon über die Schwierigkeiten bei der Archivierung von Social-Media-Daten für Kultureinrichtungen vorgestellt wurde. 
 
-{:.w-100}
-| 1. |
-| 2. |
-| 3. |
+Nennen Sie drei wichtige Argumente dafür, warum die Archivierung von Inhalten sozialer Medien problematisch ist.
 
-At the end of her paper, she suggests alternative ways of preserving social media, then through key institutions that are held accountable.  Imagine your daily use of social media, and the needs of a historian in 100 years time to understand the lifestyle of young people between 2020 and 2025 (the years of Covid and its aftermath)
-  - What do you think should be preserved?
-  - In which way and by what means?
-  - What would motivate you to make this effort of preserving your private archive?
-  - What are your ideas about who owns the copyright and how your privacy and that of your social circle should be dealt with?
-
-{:.w-100}
-| 1. |
-| 2. |
-| 3. |
-| 4. |
+Am Ende ihres Papers schlägt sie alternative Wege zu den Schlüsselinstitutionen, die zur Rechenschaft gezogen werden, vor, um soziale Medien zu archivieren. Stellen Sie sich Ihren täglichen Gebrauch von sozialen Medien vor und die Bedürfnisse eines/einer Historiker*in in 100 Jahren, um den Lebensstil junger Menschen zwischen 2020 und 2025 (den Jahren von Covid und deren Folgen) zu verstehen.
+- Was sollte Ihrer Meinung nach archiviert werden?
+- Auf welche Weise und mit welchen Mitteln?
+- Was würde Sie dazu motivieren, Ihr privates Archiv zu archivieren?
+- Was denken Sie darüber, wem das Urheberrecht gehört und wie mit Ihrer Privatsphäre und der Ihrer sozialen Umgebung umgegangen werden sollte?
 
 
 <!-- briefing-teacher -->

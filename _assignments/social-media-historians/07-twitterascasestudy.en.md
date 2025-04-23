@@ -71,7 +71,7 @@ In this section, we use both the live web and the Internet Archive’s Wayback M
 Use the historic URL of the Twitter homepage in your navigator: `http://www.twitter.com`
 
 - Does the page you reach still display elements of the “Twitter” brand?
-- Based on the [Wikipedia article about Twitter’s evolution](https://en.wikipedia.org/wiki/Twitter#Since_2022), can you explain why?
+- Based on the [Wikipedia article about Twitter’s evolution](https://en.wikipedia.org/wiki/Twitter#2022–present), can you explain why?
 - Go back to the page you reached when using the URL `https://www.twitter.com/`. What does the text say on the homepage? (If you have a user account, you will need to be logged out.)
 
 Now go to `https://x.com/`. What happens? What does the page say about the brand switch from Twitter to X?
@@ -113,7 +113,7 @@ This is the first tweet ever published. It was posted by the creator of Twitter,
 - <https://web.archive.org/web/20150321230408/https://twitter.com/jack/status/20>
 
 
-These two snapshots are versions of the tweet archived by the [Internet Archive Wayback Machine](https://archive.org/web/). The first one is the earliest capture of it. In comparison, Jack Dorsey’s tweet, now called a ‘post’, as it is currently displayed on X, is not an archived but a live version - this means that today’s X users can still interact with it even today. Try to figure out some of the difficulties that archivists might encounter when they archive social media by comparing those three versions of the same tweet/post in a short response.
+These two snapshots are versions of the tweet archived by the [Internet Archive Wayback Machine](https://archive.org/web/){:target="_blank"}. The first one is the earliest capture of it. In comparison, Jack Dorsey’s tweet, now called a ‘post’, as it is currently displayed on X, is not an archived but a live version - this means that today’s X users can still interact with it even today. Try to figure out some of the difficulties that archivists might encounter when they archive social media by comparing those three versions of the same tweet/post in a short response.
 
 <!-- section -->
 
@@ -129,7 +129,5 @@ Muller, Caroline, and Frédéric Clavert. “Une informalité bien ordonnée ? L
 
 Zimmer, Michael. “The Twitter Archive at the Library of Congress&#x202F;: Challenges for information practice and information policy.” *First Monday* 20 (7), 21 juin 2015. Available at: <http://firstmonday.org/ojs/index.php/fm/article/view/5619>.
 
-
-<!-- section -->
 
 <!-- briefing-teacher -->

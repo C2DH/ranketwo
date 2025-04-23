@@ -1,5 +1,5 @@
 ---
-title: "Social media and historians; why bother?"
+title: "Warum sollten sich HistorikerInnen mit sozialen Medien befassen?"
 type: clip
 lang: de
 parent: social-media-historians
@@ -8,7 +8,7 @@ iframe: social-media-historians-german
 
 {: .headsup}
 
-This animation discusses the relevance and historical value of social media for the historical community.
+In dieser Animation wird die Relevanz und der historische Wert sozialer Medien für HistorikerInnen erörtert.
 
 
 

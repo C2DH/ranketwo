@@ -1,7 +1,11 @@
 ---
-title: "Social Media and Historians"
+title: "HistorikerInnen und soziale Medien"
 layout: unit
 publication_date: 2021-04-27
+translation_date: 2025-01-09
+translation_editors: 
+  - eliane-schmid
+  - martin-roth
 toc: on
 tags:
 authors: 
@@ -28,8 +32,8 @@ cover:
 order: 1
 answertemplate:
 og:
-  description: How historians can benefit from integrating social media in teaching and research
+  description: Wie HistorikerInnen soziale Medien in Lehre und Forschung nutzen können
 ---
-Lesson on how to deal with the abundance of digital born data, with regard to research, reaching out to audiences, teaching, and preservation strategies, using social media as a case study.
+Eine Lektion über den Umgang mit digital entstandenen Daten in der Forschung, Öffentlichkeitsarbeit, Lehre und Archivierung am Beispiel sozialer Medien
 
 <!-- more -->
