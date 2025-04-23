@@ -6,6 +6,7 @@ title: "Typologie: Soziale Medien aus der ganzen Welt und wer dahinter steckt"
 cover:
 documents:
 tags:
+- web-social-media
 outcomes: "Die verschiedenen Arten von sozialen Medien (online) verstehen"
 order: 3
 ---
