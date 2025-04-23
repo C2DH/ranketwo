@@ -6,6 +6,7 @@ title: 'Wann werden Tweets oder YouTube-Clips „historisch“?'
 cover:
 documents:
 tags:
+- web-social-media
 outcomes: "Verstehen, ab wann soziale Medien als Quellen für eine historische Untersuchung betrachtet werden können"
 order: 1
 ---
