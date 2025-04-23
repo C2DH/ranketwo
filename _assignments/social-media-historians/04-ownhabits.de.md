@@ -7,6 +7,7 @@ cover:
 documents:
   - social-media-log-comparison
 tags:
+- web-social-media
 outcomes: "Dokumentation und Analyse der eigenen Nutzung von sozialen Medien"
 order: 4
 ---
