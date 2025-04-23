@@ -8,10 +8,7 @@ documents:
   - evolution-social-media
   - history-cooperative
 tags:
-  - social media
-  - pamphlets
-  - scrolls
-  - print
+- web-social-media
 outcomes: "Den Aufstieg der sozialen Online-Medien aus einer historischen Perspektive verstehen"
 order: 2
 ---
