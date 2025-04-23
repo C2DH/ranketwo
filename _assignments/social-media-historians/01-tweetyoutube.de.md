@@ -6,10 +6,6 @@ title: 'Wann werden Tweets oder YouTube-Clips „historisch“?'
 cover:
 documents:
 tags:
-- social media
-- bias
-- copyright
-- privacy
 outcomes: "Verstehen, ab wann soziale Medien als Quellen für eine historische Untersuchung betrachtet werden können"
 order: 1
 ---
@@ -102,7 +98,7 @@ Schreiben Sie, basierend auf Ihren eigenen Gedanken, sowie denjenigen der Histor
 
 ### Empfehlungen Lektüre/Video
 <!-- section-contents -->
-Universität Tartu. [„How does the past become history?“]. *History on Screen*. Letzter Zugriff: 31. Dezember 2024. Website-Link: [https://ajalugu.haridusekraanil.ee/en/theoretical/time-together/how-does-the-past-form-the-history](https://ajalugu.haridusekraanil.ee/en/theoretical/time-together/how-does-the-past-form-the-history)
+Universität Tartu. „How does the past become history?“. *History on Screen*. Letzter Zugriff: 31. Dezember 2024. Website-Link: [https://ajalugu.haridusekraanil.ee/en/theoretical/time-together/how-does-the-past-form-the-history](https://ajalugu.haridusekraanil.ee/en/theoretical/time-together/how-does-the-past-form-the-history)
 
 
 <!-- briefing-teacher -->
