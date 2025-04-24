@@ -161,6 +161,10 @@ reviewers:
   en: "reviewers: "
   fr: "relecteurs&nbsp;: "
   de: "Rezensenten: "
+translation_editors:
+  en: "translation editors: "
+  fr: "éditeurs de traduction&nbsp;: "
+  de: "Übersetzer: "
 list of editors:
   en: "editors: "
   fr: "éditeurs&nbsp;: "
