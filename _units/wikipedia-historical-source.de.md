@@ -15,6 +15,8 @@ authors:
   - petros-apostolopoulos
 editors: 
   - sofia-papastamkou
+translation_editors:
+ - helena-jaskov
 reviewers:
  - marijke-huisman
  - alexandre-hocquet
