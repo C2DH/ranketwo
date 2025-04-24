@@ -10,7 +10,7 @@ outcomes:
   - Verständnis, wie gemeinsame Kompetenz die Bildung und Entwicklung historischer Narrative auf Wikipedia formt
 order: 4
 ---
-Viele Menschen nutzen Wikipedia, um mehr über die Geschichte zu erfahren. Allerdings wissen wahrscheinlich die wenigsten von ihnen, dass Wikipedia-Artikel das Produkt langwieriger Debatten, Konflikte, Kooperationen, Diskussionen und einem Konsens zwischen verschiedenen Wikipedia-Bearbeitenden sind. Der offene Ansatz von Wikipedia bietet uns die Möglichkeit, „hinter die Kulissen“ zu blicken und herauszufinden, wie der Artikel gestaltet wird und sich im Laufe der Zeit verändert. Die „Diskussionsseite“ und die „Versionsgeschichte“ zeigen Diskussionen zwischen Nutzenden über jeden Eintrag, Protokolle aller Änderungen und Kopien älterer Versionen des Artikels. Beide Registerkarten enthalten aussagekräftige Daten für die Geschichtsforschung. Wenn sich Wikipedia-Nutzende an der Erstellung und Bearbeitung von Artikeln beteiligen, nehmen sie an Diskussionen und Debatten teil und bieten nützliche Daten darüber, wie Wikipedianer die Vergangenheit wahrnehmen, welche historische Argumente sie verwenden, wie sie versuchen, einen Konsens zu erreichen usw. Die „Versionsgeschichte“ enthält zudem Daten darüber, wie sich das historische Narrativ eines Wikipedia-Artikels im Laufe der Zeit verändert. In diesem Teil der Lektion untersuchen wir, was „hinter den Kulissen“ eines Wikipedia-Artikels passiert, indem wir sowohl die Diskussionen zwischen den Nutzenden als auch die Versionsgeschichte eines Artikels untersuchen. Zu diesem Zweck konzentrieren wir uns auf eine Fallstudie, den Artikel über die [Terroranschläge am 11. September 2001](https://en.wikipedia.org/wiki/September_11_attacks){:target="_blank"} auf der englischen Ausgabe von Wikipedia.
+Viele Menschen nutzen Wikipedia, um mehr über Geschichte zu erfahren. Allerdings wissen wahrscheinlich die wenigsten von ihnen, dass Wikipedia-Artikel das Produkt langwieriger Debatten, Konflikte, Kooperationen, Diskussionen und einem Konsens zwischen verschiedenen Wikipedia-Bearbeitenden sind. Der offene Ansatz von Wikipedia bietet uns die Möglichkeit, „hinter die Kulissen“ zu blicken und herauszufinden, wie der Artikel gestaltet wird und sich im Laufe der Zeit verändert. Die „Diskussionsseite“ und die „Versionsgeschichte“ zeigen Diskussionen zwischen Nutzenden über jeden Eintrag, Protokolle aller Änderungen und Kopien älterer Versionen des Artikels. Beide Tabs enthalten aussagekräftige Daten für die Geschichtsforschung. Wenn sich Wikipedia-Nutzende an der Erstellung und Bearbeitung von Artikeln beteiligen, nehmen sie an Diskussionen und Debatten teil und bieten nützliche Daten darüber, wie Wikipedianer die Vergangenheit wahrnehmen, welche historischen Argumente sie verwenden, wie sie versuchen, einen Konsens zu erreichen usw. Die „Versionsgeschichte“ enthält zudem Daten darüber, wie sich das historische Narrativ eines Wikipedia-Artikels im Laufe der Zeit verändert. In diesem Teil der Lektion untersuchen wir, was „hinter den Kulissen“ eines Wikipedia-Artikels passiert, indem wir sowohl die Diskussionen zwischen den Nutzenden als auch die Versionsgeschichte eines Artikels untersuchen. Zu diesem Zweck konzentrieren wir uns auf eine Fallstudie, den Artikel über die [Terroranschläge am 11. September 2001](https://en.wikipedia.org/wiki/September_11_attacks){:target="_blank"} auf der englischen Ausgabe von Wikipedia.
 
 > Sie können die vorgeschlagene Übung anpassen, um sich auf einen Artikel über ein historisches Ereignis, eine Person oder ein Phänomen Ihrer Wahl zu konzentrieren, und zwar in einer von Ihnen gewünschten Sprache. Beispiele sind die haitianische Revolution, der Arabische Frühling, die Seidenstraße, Kleopatra, Feminismus und Sklaverei, aber es gibt noch zahlreiche andere Themen, die Sie wählen können. Bitte beachten Sie, dass in diesem Fall einige der nachstehend vorgeschlagenen Fragen, die sich auf die Terroranschläge am 11. September 2001 beziehen, möglicherweise nicht relevant sind.  
 
@@ -26,18 +26,18 @@ Die Terroranschläge vom 11. September waren ein traumatisches Ereignis, das die
 - [Diskussion über den Titel des Artikels](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_3#Article_Title){:target="_blank"} – Geschätzte Lesezeit: 20 Minuten
 - [Diskussion über das Löschen des Wortes Terrorist](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_7#Deleting_terrorist){:target="_blank"}  – Geschätzte Lesezeit: 15 Minuten
 - [Diskussion über die Begriffe „Terrorist“, „Terrorismus“ und „Freiheitskämpfer“](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_11#%22Terrorist%22,_%22terrorism%22_and_%22freedom_fighter%22){:target="_blank"} – Geschätzte Lesezeit: 6 Minuten 
-- [Diskussion über Gedanken](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_13#In_Memorium){:target="_blank"} – Geschätzte Lesezeit: 13 Sekunden  
+- [Diskussion über Andenken](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_13#In_Memorium){:target="_blank"} – Geschätzte Lesezeit: 13 Sekunden  
 - [Diskussion über eine Gedenkstätte](https://en.wikipedia.org/wiki/Talk:September_11_attacks/Archive_21#Memorial){:target="_blank"} – Geschätzte Lesezeit: 30 Sekunden  
 
 Versuchen Sie dann, die folgenden Fragen zu beantworten:
 
 - Über welche Themen in Bezug auf das Ereignis, das der Wikipedia-Artikel behandelt – hier die Terroranschläge vom 11. September 2001 – diskutieren die Wikipedia-Nutzenden am meisten?
 - Warum beteiligen sich Wikipedia-Nutzende an Diskussionen?
-- Welche Argumente verwenden sie, um ihre Meinungen zu unterbauen, und welche Reaktionen erhalten sie von anderen Wikipedianern in den spezifischen Fallstudien?
+- Welche Argumente verwenden sie, um ihre Meinungen zu untermauern, und welche Reaktionen erhalten sie von anderen Wikipedianern in den jeweiligen Fällen?
 - Wie nehmen Wikipedia-Nutzende das vom Wikipedia-Artikel behandelte Ereignis (hier die Terroranschläge vom 11. September 2001) wahr? Drücken Sie persönliche Emotionen und Erinnerungen über die Geschichte der Terroranschläge vom 11. September 2001 aus?
-- Warum möchten Wikipedianer die Wikipedia-Seite über das Ereignis (hier die Terroranschläge vom 11. September 2001) bearbeiten? Was bedeutet das Bearbeiten für sie?
+- Warum möchten Wikipedianer die Wikipedia-Seite über das Ereignis (hier die Terroranschläge vom 11. September 2001) bearbeiten? Welche Bedeutung hatt das Bearbeiten für sie?
 - Wie versuchen Wikipedia-Nutzende, die sich an Diskussionen und Debatten beteiligen, einen Konsens zu erreichen?
-- Können Sie Veränderungen in Bezug auf die aufgeworfenen Themen im Laufe der Zeit feststellen? Was sagt dies Ihrer Meinung nach über die Wahrnehmung/Aufnahme des Themas des Artikels aus?
+- Können Sie Veränderungen in Bezug auf die aufgeworfenen Themen im Laufe der Zeit feststellen? Was sagt dies Ihrer Meinung nach über die Wahrnehmung/Rezeption des Themas des Artikels aus?
 
 <!-- section -->
 
@@ -46,7 +46,7 @@ Versuchen Sie dann, die folgenden Fragen zu beantworten:
 
 Die Art und Weise, in der HistorikerInnen Fragen stellen und über die Vergangenheit schreiben, kann sich im Laufe der Zeit verändern. Eine der Grundlagen der Geschichtsforschung besteht darin, den Stand der Geschichtsschreibung über ein bestimmtes Thema festzulegen, die Entwicklung zu untersuchen und zu bestimmen, wo sie sich zum jeweiligen Zeitpunkt befindet. Auch Wikipedia-Narrative ändern sich, und HistorikerInnen müssen diese kritisch bewerten. Sehen wir uns jetzt an, wie sich der Wikipedia-Artikel über die Terroranschläge am 11. September 2001 seit seiner Erstellung verändert hat.
 
-Bitte klicken Sie die beiden nachstehenden Links mit den letzten Änderungen an dem Artikel sowie den Bearbeitenden, die diese Änderungen vorgenommen haben.
+Bitte klicken Sie die beiden nachstehenden Links welche die letzten Änderungen an dem Artikel sowie die Benutzernamen der Bearbeitenden enthalten, die diese Änderungen vorgenommen haben.
 
 [Versionsgeschichte 1](https://en.wikipedia.org/w/index.php?title=September_11_attacks&action=history&dir=prev&offset=20231126232142%7C1187018579){:target="_blank"} – Geschätzte Lesezeit: 8 Minuten 
 
@@ -64,7 +64,7 @@ Nach dem Lesen der oben genannten Auszüge versuchen Sie bitte, die folgenden Fr
 
 - Wie verändert sich das historische Narrativ des Artikels im Laufe der Zeit?
 - Welche Beiträge leisten die Bearbeitenden? Korrigieren Sie beispielsweise Grammatik- oder Rechtschreibfehler oder führen sie wesentliche Änderungen am Artikel aus?
-- Fällt Ihnen das Bestehen von Bots auf, wenn Sie sich die Namen der Bearbeitenden ansehen? Was bedeutet die Zusammenarbeit zwischen Menschen und nicht-menschlichen Agenten für die Produktion von Geschichte im digitalen Zeitalter?
+- Fallen Ihnen die Bots auf, wenn Sie sich die Namen der Bearbeitenden ansehen? Was bedeutet die Zusammenarbeit zwischen Menschen und nicht-menschlichen Akteuren für die Produktion von Geschichte im digitalen Zeitalter?
 
 <!-- section -->
 
