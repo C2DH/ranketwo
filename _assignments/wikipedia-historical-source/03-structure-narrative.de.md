@@ -1,7 +1,7 @@
 ---
 layout: assignment
 unit: wikipedia-historical-source 
-lang: 
+lang: de 
 title: "Schreiben auf Wikipedia: Struktur und historisches Narrativ "
 cover:
 documents:
