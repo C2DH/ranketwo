@@ -10,7 +10,7 @@ outcomes:
   - Lernen Sie, wie die Funktionen der Wikipedia-Infrastruktur die historischen Narrative formen
 order: 3
 ---
-Wikipedia-Artikel enthalten historische Erzählungen über die Vergangenheit. Das heißt, dass sie eine Geschichte über die Vergangenheit erzählen. Diese Geschichten sind das Ergebnis des gemeinsamen Schreibens von Wikipedia-Nutzenden. Jeder Artikel weist eine andere Struktur auf, basierend auf unterschiedlichen Kombinationen standardisierter Abschnitte (z.B. Kapitel, Abschnitte, Infoboxen, Hyperlinks), einschließlich visueller und auditiver Elemente (z.B. Graphiken, Videos, Abbildungen, Tondateien) und bibliographischer Referenzen. Nachdem Sie jetzt besser verstehen, wie Wikipedia funktioniert, sehen wir uns das historische Narrativ eines Wikipedia-Artikels an.
+Wikipedia-Artikel enthalten historische Narrative über die Vergangenheit. Das heißt, dass sie eine Geschichte über die Vergangenheit erzählen. Diese Geschichten sind das Ergebnis des gemeinsamen Schreibens von Wikipedia-Nutzenden. Jeder Artikel weist eine andere Struktur auf und setzt sich zusammen aus unterschiedlichen Kombinationen standardisierter Abschnitte (z.B. Kapitel, Abschnitte, Infoboxen, Hyperlinks), einschließlich visueller und auditiver Elemente (z.B. Graphiken, Videos, Abbildungen, Tondateien) und bibliographischer Referenzen. Nachdem Sie jetzt besser verstehen, wie Wikipedia funktioniert, sehen wir uns das historische Narrativ eines Wikipedia-Artikels an.
 
 > Sie können die vorgeschlagene Übung anpassen, um sich auf einen Artikel über ein historisches Ereignis, eine Person oder ein Phänomen Ihrer Wahl zu konzentrieren, und zwar in einer von Ihnen gewünschten Sprache. Beispiele sind die haitianische Revolution, der Arabische Frühling, die Seidenstraße, Kleopatra, Feminismus und Sklaverei, aber es gibt noch zahlreiche andere Themen, die Sie wählen können.
 
@@ -25,17 +25,17 @@ Lesen Sie den Artikel über die [Terroranschläge am 11. September 2001](https:/
 
 - Wie das historische Narrativ des Wikipedia-Artikels strukturiert ist, und wie es sich von traditionellen historischen Narrativen, die Sie in einem Buch oder Artikel finden, unterscheidet.
 
-- Das Bild- und Tonmaterial, das Teil des Narrativs dieses Artikels ist. Bitte achten Sie besonders auf die Nutzungsbedingungen dieser Elemente.
+- Das Bild- und Tonmaterial, das Teil des Narrativs dieses Artikels ist. Bitte achten Sie besonders auf die Nutzungsbedingungen für diese Elemente.
 
-- Die von den Redakteuren verwendete Bibliografie, die Hyperlinks und die Verweise auf andere historische Ereignisse.
+- Die von den Redakteuren verwendete Bibliografie, die Querverweise und die Verweise auf andere historische Ereignisse.
 
-Denken Sie dann kritisch nach und versuchen Sie, folgende Fragen zu beantworten:
+Setzen Sie sich mit dem Material kritisch auseinander und versuchen Sie, folgende Fragen zu beantworten:
 
 - Wie haben die Wikipedia-Nutzende das historische Narrativ des Wikipedia-Artikels organisiert?
 - Welche Arten von Bild- und Tonmaterial (z.B. Graphiken, Videos, Abbildungen, Tondateien usw.) enthält der Wikipedia-Artikel? Wie beeinflussen diese Materialien das historische Narrativ des Artikels?
-- Wie funktionieren Hyperlinks, und wie beeinflussen sie die Art und Weise, in der ein potenzieller Leser den Artikel liest und versteht?
-- Wie würden Sie die Arten von Nachschlagewerken charakterisieren, die Wikipedia-Nutzende im Artikel zitieren? Stützen Sie sich auf wissenschaftliche Literatur, Journalismus oder andere Arten von Materialien? Sind die zitierten Werke online verfügbar?
-- Entdecken Sie Ähnlichkeiten oder Unterschiede zwischen den bibliografischen Angaben in einem Wikipedia-Artikel und den Angaben in wissenschaftlichen Büchern oder Artikeln?
+- Wie funktionieren Querverweise, und wie beeinflussen sie die Art und Weise, in der ein potenzieller Leser den Artikel liest und versteht?
+- Wie würden Sie die Art von Nachschlagewerken charakterisieren, die Wikipedia-Nutzende im Artikel zitieren? Stützen sie sich auf wissenschaftliche Literatur, Journalismus oder andere Arten von Materialien? Sind die zitierten Werke online verfügbar?
+- Entdecken Sie Ähnlichkeiten oder Unterschiede zwischen den bibliografischen Angaben in einem Wikipedia-Artikel und den Angaben in wissenschaftlichen Abhandlungen oder Artikeln?
 
 <!-- section -->
 
