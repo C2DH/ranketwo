@@ -12,7 +12,7 @@ order: 5
 ---
 Wikipedia existiert nicht nur in englischer Sprache: Stand Juli 2024 gibt es 331 aktive Sprachversionen. Die verschiedenen Ausgaben sind nicht nur Übersetzungen von einer Sprache in eine andere Sprache. Sie können auch verschiedene Narrative enthalten. Historische Narrative über die Vergangenheit können deshalb unterschiedliche Darstellungen, Strukturen und Diskussionen umfassen. Die Mehrsprachigkeit von Wikipedia bietet HistorikerInnen die Möglichkeit, historische Narrative aus verschiedenen kulturellen Perspektiven zu vergleichen. In diesem Teil werden wir zwei verschiedene Wikipedia-Sprachversionen vergleichen, indem wir uns auf ein Ereignis aus der französischen Geschichte mit einer globalen Dimension konzentrieren, – Mai '68. Wir werden uns anschauen, wie die Bewegung in den englischen und französischen Ausgaben von Wikipedia dargestellt wird.
 
-Sie können die vorgeschlagene Übung gemäß ihrer Forschungsinteressen und Sprachkenntnisse anpassen und sich auf eine Fallstudie Ihrer Wahl  konzentrieren.Nachfolgend einige Ideen: Vergleichen Sie die englische und arabische Version des Artikels über den Arabischen Frühling, die englische und chinesische Version des Artikels über die Seidenstraße oder die englische und deutsche Version des Artikels über die Berliner Mauer.
+Sie können die vorgeschlagene Übung gemäß ihrer Forschungsinteressen und Sprachkenntnisse anpassen und sich auf eine Fallstudie Ihrer Wahl konzentrieren. Nachfolgend einige Ideen: Vergleichen Sie die englische und arabische Version des Artikels über den Arabischen Frühling, die englische und chinesische Version des Artikels über die Seidenstraße oder die englische und deutsche Version des Artikels über die Berliner Mauer.
 
 <!-- more -->
 
@@ -21,7 +21,7 @@ Sie können die vorgeschlagene Übung gemäß ihrer Forschungsinteressen und Spr
 ### 5.a Vergleich von wikipedianischen Perspektiven über ein historisches Ereignis: Mai 68 auf Englisch und Französisch | 60-120 Min.
 <!-- section-contents -->
 
-Mai 68 war ein wichtiges Ereignis der französischen Geschichte und auch im breiteren Kontext der weltweiten sozialen Unruhen und der kulturellen Revolutionen der späten 1960er Jahre. Aus diesem Grund konzentriert sich diese Teilaufgabe auf die französischsprachige Wikipedia und die englischsprachige Wikipedia, die die aktivsten registrierten Nutzenden umfasst und mehr Artikel abdeckt als andere Ausgaben.. Das Ziel ist es zu untersuchen, wie das  Wikipedia-Interface eine bestimmte Art der Präsentation und Darstellung historischer Narrative in verschiedenen Sprachausgaben fördert.
+Mai 68 war ein wichtiges Ereignis der französischen Geschichte und auch im breiteren Kontext der weltweiten sozialen Unruhen und der kulturellen Revolutionen der späten 1960er Jahre. Aus diesem Grund konzentriert sich diese Teilaufgabe auf die französischsprachige Wikipedia und die englischsprachige Wikipedia, die die aktivsten registrierten Nutzenden umfasst und mehr Artikel abdeckt als andere Ausgaben. Das Ziel ist, zu untersuchen, wie das Wikipedia-Interface eine bestimmte Art der Präsentation und Darstellung historischer Narrative in verschiedenen Sprachausgaben fördert.
 
 > Die für die Übung erforderliche Zeit kann variieren, abhängig davon, ob Sie sich für das Lesen des gesamten Inhalts der Artikel oder nur ausgewählter Abschnitte entscheiden.
 
