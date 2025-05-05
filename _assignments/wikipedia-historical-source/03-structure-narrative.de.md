@@ -31,7 +31,7 @@ Lesen Sie den Artikel über die [Terroranschläge am 11. September 2001](https:/
 
 Setzen Sie sich mit dem Material kritisch auseinander und versuchen Sie, folgende Fragen zu beantworten:
 
-- Wie haben die Wikipedia-Nutzende das historische Narrativ des Wikipedia-Artikels organisiert?
+- Wie haben Wikipedia-Nutzende das historische Narrativ des Wikipedia-Artikels organisiert?
 - Welche Arten von Bild- und Tonmaterial (z.B. Graphiken, Videos, Abbildungen, Tondateien usw.) enthält der Wikipedia-Artikel? Wie beeinflussen diese Materialien das historische Narrativ des Artikels?
 - Wie funktionieren Querverweise, und wie beeinflussen sie die Art und Weise, in der ein potenzieller Leser den Artikel liest und versteht?
 - Wie würden Sie die Art von Nachschlagewerken charakterisieren, die Wikipedia-Nutzende im Artikel zitieren? Stützen sie sich auf wissenschaftliche Literatur, Journalismus oder andere Arten von Materialien? Sind die zitierten Werke online verfügbar?
