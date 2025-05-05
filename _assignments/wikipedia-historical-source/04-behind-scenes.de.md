@@ -35,7 +35,7 @@ Versuchen Sie dann, die folgenden Fragen zu beantworten:
 - Warum beteiligen sich Wikipedia-Nutzende an Diskussionen?
 - Welche Argumente verwenden sie, um ihre Meinungen zu untermauern, und welche Reaktionen erhalten sie von anderen Wikipedianern in den jeweiligen Fällen?
 - Wie nehmen Wikipedia-Nutzende das vom Wikipedia-Artikel behandelte Ereignis (hier die Terroranschläge vom 11. September 2001) wahr? Drücken Sie persönliche Emotionen und Erinnerungen über die Geschichte der Terroranschläge vom 11. September 2001 aus?
-- Warum möchten Wikipedianer die Wikipedia-Seite über das Ereignis (hier die Terroranschläge vom 11. September 2001) bearbeiten? Welche Bedeutung hatt das Bearbeiten für sie?
+- Warum möchten Wikipedianer die Wikipedia-Seite über das Ereignis (hier die Terroranschläge vom 11. September 2001) bearbeiten? Welche Bedeutung hat das Bearbeiten für sie?
 - Wie versuchen Wikipedia-Nutzende, die sich an Diskussionen und Debatten beteiligen, einen Konsens zu erreichen?
 - Können Sie Veränderungen in Bezug auf die aufgeworfenen Themen im Laufe der Zeit feststellen? Was sagt dies Ihrer Meinung nach über die Wahrnehmung/Rezeption des Themas des Artikels aus?
 
@@ -54,7 +54,7 @@ Bitte klicken Sie die beiden nachstehenden Links welche die letzten Änderungen 
 
 Achten Sie beim Lesen der Seiten bitte auf Folgendes:
 
-1.  Die **Art der Änderungen**, z.B. Korrektur von Vokabular und Grammatikfehlern, Hinzufügung von visuellen Materialien, Reorganisation des Artikeltextes usw.
+1.  Die **Art der Änderungen**, z.B. Korrektur von Vokabular und Grammatikfehlern, Hinzufügen von visuellen Materialien, Reorganisation des Artikeltextes usw.
 
 2.  Die **Bearbeitenden**, die diese Änderungen vornehmen.
 
