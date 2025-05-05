@@ -12,7 +12,7 @@ outcomes:
   
 order: 2
 ---
-Wikipedia ist eine digital entstandene Quelle, die historisch stimulierende Informationen darüber enthält, wie Wikipedia-Nutzende die Vergangenheit wahrnehmen, wie sie diese auf Basis der Gegenwart interpretieren und wie sie die Vergangenheit in Wikipedia-Artikel umwandeln. Diese Informationen können sowohl auf Wikipedia-Artikeln als auch aus Diskussionen und Debatten zwischen Wikipedia-Nutzenden gewonnen werden, die „hinter den Kulissen“ in den „Diskussionsseiten“ der Artikel stattfinden. HistorikerInnen, die mit Wikipedia arbeiten, sollten sich sowohl mit den spezifischen Eigenschaften der Infrastruktur als auch mit den Grundsätzen vertraut machen, denen die (historische) Wissensproduktion unterliegt, damit sie die von ihnen gewonnenen Informationen kontextualisieren können.
+Wikipedia ist eine digital entstandene Quelle, die historisch stimulierende Informationen darüber enthält, wie Wikipedia-Nutzende die Vergangenheit wahrnehmen, wie sie diese auf Basis der Gegenwart interpretieren und wie sie die Vergangenheit in Wikipedia-Artikel umwandeln. Diese Informationen können sowohl aus Wikipedia-Artikeln als auch aus Diskussionen und Debatten zwischen Wikipedia-Nutzenden gewonnen werden, die „hinter den Kulissen“ in den „Diskussionsseiten“ der Artikel stattfinden. HistorikerInnen, die mit Wikipedia arbeiten, sollten sich sowohl mit den spezifischen Eigenschaften der Infrastruktur als auch mit den Grundsätzen vertraut machen, denen die (historische) Wissensproduktion unterliegt, damit sie die von ihnen gewonnenen Informationen kontextualisieren können.
 
 Seit ihrer Gründung hat sich Wikipedia zu einer selbstregulierten Gemeinschaft und einem öffentlichen Raum entwickelt, in dem Menschen historische Artikel besprechen, erstellen und bearbeiten können. Die digitale Struktur von Wikipedia, einschließlich ihrer Grundsätze, Richtlinien, Hierarchie und Untergruppierungen, fördert die dynamische, vielschichtige Beteiligung ihrer Editoren und die aktive Beteiligung an der Produktion von historischem Wissen. Die folgenden Teilaufgaben untersuchen die Infrastruktur, die Grundsätze und die Richtlinien von Wikipedia, die „Diskussionsseiten“, auf denen Wikipedianer an Diskussionen und Debatten über Geschichte teilnehmen, Editierungen von Wikipedia-Artikeln und schlussendlich die Wahrnehmung von Geschichte als Wissensgebiet durch Wikipedia.
 
@@ -31,7 +31,7 @@ Die folgenden Wikipedia-Seiten enthalten spezifische Informationen über die Gru
 
 
 - Machen Sie sich zunächst mit den [Grundprinzipien von Wikipedia](https://de.wikipedia.org/wiki/Wikipedia:Grundprinzipien){:target="_blank"} vertraut. Diese vermitteln Ihnen ein grundlegendes Verständnis der wichtigsten Prinzipien, die für Wikipedia-Autoren gelten.
-- Wenn Sie sich in das Thema vertiefen wollen, können Sie zusätzlich auch [die Grundsatzerklärung von Wikipedia-Gründer Jimbo Wales](https://en.wikipedia.org/wiki/User:Jimbo_Wales/Statement_of_principles){:target="_blank"} (in Englisch) lesen, wobei dies jedoch für die Ausführung dieser Aufgabe nicht erforderlich ist.
+- Wenn Sie sich in das Thema vertiefen wollen, können Sie zusätzlich auch [die Grundsatzerklärung von Wikipedia-Gründer Jimbo Wales](https://en.wikipedia.org/wiki/User:Jimbo_Wales/Statement_of_principles){:target="_blank"} (auf Englisch) lesen, wobei dies jedoch für die Ausführung dieser Aufgabe nicht erforderlich ist.
 
 Diskutieren Sie jetzt und versuchen Sie, die folgenden Fragen zu beantworten:
 - Was sind die wichtigsten Prinzipien und Grundsätze von Wikipedia?
@@ -58,7 +58,7 @@ In den zwei nachstehenden Links finden Sie weitere Informationen über „Diskus
 
 [„Diskussionsseiten“](https://de.wikipedia.org/wiki/Hilfe:Diskussionsseiten){:target="_blank"} (geschätzte Lesezeit: 10 Minuten) – ersatzweise können Sie ein zweiminütiges Video ansehen: [„Wikipedia bearbeiten – Diskussionsseiten”](https://de.wikipedia.org/wiki/Datei:02_Diskussionsseiten.ogv){:target="_blank"}, das auf der Seite zur Verfügung steht.   
 
-[„Versionsgeschichte“](https://de.wikipedia.org/wiki/Hilfe:Versionen){:target="_blank"} (geschätzte Lesezeit: 12 Minuten) – ersatzweise können Sie ein neunminütiges Video ansehen: [„Die Verwendung der Versionsgeschichte auf Wikipedia“](https://en.wikipedia.org/wiki/File:Using_the_view_history_tab_on_Wikipedia.webm){:target="_blank"} (in Englisch).
+[„Versionsgeschichte“](https://de.wikipedia.org/wiki/Hilfe:Versionen){:target="_blank"} (geschätzte Lesezeit: 12 Minuten) – ersatzweise können Sie ein neunminütiges Video ansehen: [„Die Verwendung der Versionsgeschichte auf Wikipedia“](https://en.wikipedia.org/wiki/File:Using_the_view_history_tab_on_Wikipedia.webm){:target="_blank"} (auf Englisch).
 
 Jetzt versuchen Sie, folgende Fragen zu beantworten:
 
@@ -94,9 +94,9 @@ Quellen mit wissenschaftlichen Definitionen von Geschichte finden Sie nötigenfa
 ### 2.d Geschichtsquellen gemäß Wikipedia | 40 Min.
 <!-- section-contents -->
 
-HistorikerInnen nutzen für ihre historischen Forschungsarbeiten Quellen aus der Vergangenheit. Sie verwenden Primärquellen, also Materialien, die während einer historischen Periode entstanden sind, wie z.B. schriftliche Archive, audiovisuelle Archive, mündliche Interviews, Objekte usw., und die Auskunft über die Gesellschaft, Kultur, Wirtschaft, Politik und Technologie der Vergangenheit geben können. HistorikerInnen verwenden auch Sekundärquellen, d.h. Bücher und Artikel, mittels dereren die Primärquellen in einen breiteren historischen Kontext des jeweiligen Zeitraums gestellt werden. Durch die Kombination von Primär- und Sekundärquellen schreiben und erzählen HistorikerInnen eine Geschichte über die Vergangenheit.
+HistorikerInnen nutzen für ihre historischen Forschungsarbeiten Quellen aus der Vergangenheit. Sie verwenden Primärquellen, also Materialien, die während einer historischen Periode entstanden sind, wie z.B. schriftliche Archive, audiovisuelle Archive, mündliche Interviews, Objekte usw., und die Auskunft über die Gesellschaft, Kultur, Wirtschaft, Politik und Technologie der Vergangenheit geben können. HistorikerInnen verwenden auch Sekundärquellen, d.h. Bücher und Artikel, mittels derer die Primärquellen in einen breiteren historischen Kontext des jeweiligen Zeitraums gestellt werden. Durch die Kombination von Primär- und Sekundärquellen schreiben und erzählen HistorikerInnen eine Geschichte über die Vergangenheit.
 
-Bitte lesen Sie [diese Wikipedia-Seite](https://en.wikipedia.org/wiki/Wikipedia:Reliable_source_examples#History){:target="_blank"} (in Englisch), auf der beschrieben wird, welche Quellen von den Bearbeitenden in ihren Artikeln über Geschichte auf Wikipedia verwendet werden dürfen.
+Bitte lesen Sie [diese Wikipedia-Seite](https://en.wikipedia.org/wiki/Wikipedia:Reliable_source_examples#History){:target="_blank"} ( Eaufnglisch), auf der beschrieben wird, welche Quellen von den Bearbeitenden in ihren Artikeln über Geschichte auf Wikipedia verwendet werden dürfen.
 
 Versuchen Sie dann, die folgenden Fragen zu beantworten:
 
@@ -111,7 +111,7 @@ Versuchen Sie dann, die folgenden Fragen zu beantworten:
 ### Empfehlungen Lektüre/Video
 <!-- section-contents --> 
 
-*Über die Infrastruktur von Wikipedia*
+*Zur die Infrastruktur von Wikipedia*
 
 Hoeres, Peter. "Hierarchien in der Schwarmintelligenz. Geschichtsvermittlung auf Wikipedia". *Wikipedia und Geschichtswissenschaft* in Thomas Wozniak, Jürgen Nemitz and Uwe Rohwedder, Berlin: De Gruyter Oldenbourg, 2015, pp. 15-32. [https://doi.org/10.1515/9783110376357-004](https://doi.org/10.1515/9783110376357-004){:target="_blank"}
 
@@ -123,7 +123,7 @@ Apostolopoulos, Petros. _Producing and Debating History: Historical Knowledge on
 Reagle, Joseph. *Good Faith Collaboration: The Culture of Wikipedia*. Massachusetts: The MIT Press, 2010. Verfügbar auf: [https://direct.mit.edu/books/book/5341/Good-Faith-CollaborationThe-Culture-of-Wikipedia](https://direct.mit.edu/books/book/5341/Good-Faith-CollaborationThe-Culture-of-Wikipedia){:target="_blank"} (Kapitel 3, 4, 6 & Schlussfolgerung)
 
 
-*Über Definitionen der Geschichte von professionellen HistorikerInnen, falls Sie Hilfe bei der Teilaufgabe 2.c benötigen.*
+*Definitionen von „Geschichte“ von professionellen HistorikerInnen, falls Sie Hilfe bei der Teilaufgabe 2.c benötigen.*
 
 Then & Now. „What is History? E.H. Carr“. YouTube-Video. 09:54 Minuten. 10. Oktober 2018. [https://youtu.be/gkdzu8X84fo](https://youtu.be/gkdzu8X84fo){:target="_blank"}  
 
@@ -131,7 +131,7 @@ Then & Now. „What is History? E.H. Carr“. YouTube-Video. 09:54 Minuten. 10. 
 
 <!--“What is History?” *History Today* 70(8), August 2020 [https://www.historytoday.com/archive/head-head/what-history](https://www.historytoday.com/archive/head-head/what-history){:target="_blank"}-->  
 
-*Über die Auffassung der Quellen in der Geschichte, falls Sie Hilfe bei Unteraufgabe 2.d benötigen*
+*Zu Quellen in der Geschichtswissenschaft,, falls Sie Hilfe bei Unteraufgabe 2.d benötigen*
 
 Universität Basel, Departement Geschichte. „Quellen und Archive“. [https://dg.philhist.unibas.ch/de/studium/werkzeugkasten-geschichte/praxiswissen-geschichte/quellen-und-archive/](https://dg.philhist.unibas.ch/de/studium/werkzeugkasten-geschichte/praxiswissen-geschichte/quellen-und-archive/)
 
