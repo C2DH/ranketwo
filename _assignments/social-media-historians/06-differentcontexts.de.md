@@ -11,7 +11,7 @@ order: 6
 ---
 
 In dieser Aufgabe wird eine Reihe von Beispielen vorgestellt, in denen soziale Medien auf unterschiedliche Weise genutzt wurden, darunter:
-1.  Zur Veranschaulichung der Veränderungen in der Praxis von Historikern
+1.  Zur Veranschaulichung der Veränderungen in der Praxis von HistorikerInnen
 2.  Um Geschichte auf eine neue Art zu lehren
 3.  Um falsche historische Fakten zu verbreiten
 4.  Um ein historisches Ereignis zu dokumentieren
@@ -34,7 +34,7 @@ Artikel: „How social media spread a historical lie“ von Jennifer Mendelsohn 
 Argumente, welche gemacht wurden:
 * Bitte fassen Sie die wichtigsten Argumente aus dem Artikel zusammen (maximal drei).
 
-Erklären Sie dann, inwieweit dieses Beispiel auf eine oder mehrere Arten der Nutzung sozialer Medien zutrifft, wie in der Einführung beschrieben. Dazu können Sie eine kurze Abhandlung (max. 150 Wörter) verfassen, sich selbst aufnehmen oder sich mit Ihren Kommilitonen/Kollegen austauschen.
+Erklären Sie nun, inwieweit dieses Beispiel auf eine oder mehrere Arten der Nutzung sozialer Medien zutrifft (siehe Einführung) beschrieben. Dazu können Sie eine kurze Abhandlung (max. 150 Wörter) verfassen, sich selbst beim lauten Nachdenken aufnehmen,  oder sich mit Ihren KommilitonInnen/KollegInnen austauschen.
 
 <!-- section -->
 
@@ -67,7 +67,7 @@ Artikel: „Born Digital: How Social Media and Paperless Offices are Reshaping t
 Argumente, welche gemacht wurden:
 * Bitte fassen Sie die wichtigsten Argumente aus dem Artikel zusammen (maximal drei).
 
-Erklären Sie dann, inwieweit dieses Beispiel auf eine oder mehrere Arten der Nutzung sozialer Medien zutrifft, wie in der Einführung beschrieben. Dazu können Sie eine kurze Abhandlung (max. 150 Wörter) verfassen, sich selbst aufnehmen oder sich mit Ihren Kommilitonen/Kollegen austauschen.
+Erklären Sie nun, inwieweit dieses Beispiel auf eine oder mehrere Arten der Nutzung sozialer Medien zutrifft (siehe Einführung). Dazu können Sie eine kurze Abhandlung (max. 150 Wörter) verfassen, sich selbst beim lauten Nachdenken aufnehmen, oder sich mit Ihren KommilitonInnen/KollegInnen austauschen.
 
 <!-- section -->
 
@@ -83,6 +83,6 @@ Web-Seite: Über Uns-Seite des „digitalpast“-Projekts. Abrufbar unter: [http
 Argumente, welche gemacht wurden:
 * Bitte fassen Sie die wichtigsten Argumente aus dem Artikel zusammen (maximal drei).
 
-Erklären Sie dann, inwieweit dieses Beispiel auf eine oder mehrere Arten der Nutzung sozialer Medien zutrifft, wie in der Einführung beschrieben. Dazu können Sie eine kurze Abhandlung (max. 150 Wörter) verfassen, sich selbst aufnehmen oder sich mit Ihren Kommilitonen/Kollegen austauschen.
+Erklären Sie nun, inwieweit dieses Beispiel auf eine oder mehrere Arten der Nutzung sozialer Medien zutrifft (siehe Einführung). Dazu können Sie eine kurze Abhandlung (max. 150 Wörter) verfassen, sich selbst beim lauten Nachdenken aufnehmen, oder sich mit Ihren KommilitonInen/KollegInnen austauschen.
 
 <!-- briefing-teacher -->

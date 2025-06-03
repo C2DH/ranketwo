@@ -12,7 +12,7 @@ tags:
 outcomes: "Den Aufstieg der sozialen Online-Medien aus einer historischen Perspektive verstehen"
 order: 2
 ---
-Betrachtet man die sozialen Medien aus der Perspektive von HistorikerInnen, ist es wichtig zu bedenken, dass sich die Meinungen von ExpertInnen bezüglich der Definition von 'sozialen Medien' unterscheiden, sowie ob diese Form der Kommunikation bereits in der Zeit vor dem Internet existierte. Viele dieser Debatten drehen sich darum, ob die technische Infrastruktur als solche das innovative Element ist, oder es darum geht wie Menschen diese technische Infrastruktur nutzen. Aus Sicht von HistorikerInnen ist der Begriff „soziale Medien“ problematisch, da Medien per Definition eine soziale Funktion haben. Im digitalen Zeitalter kann sich der Begriff auch, verwirrenderweise, auf die bahnbrechenden Austauschplattformen der frühen 2000er-Jahren beziehen, darunter MySpace und Friendster. Damals wurden diese als [*Social Networking Sites*](https://academic.oup.com/jcmc/article/13/1/210/4583062#104153860) (oder: Webseiten zur sozialen Vernetzung) bezeichnet. Mit der Einführung von Twitter, Pinterest, Instagram und Snapchat, die eher auf den Austausch von Inhalten als auf die Schaffung von Netzwerken ausgerichtet sind, gewann der umfassendere Begriff „soziale Medien“ an Zugkraft. In dieser Aufgabe werden Sie die historischen Kontinuitäten und Diskontinuitäten des Phänomens der sozialen Medien untersuchen.
+Betrachtet man die sozialen Medien aus der Perspektive von HistorikerInnen, ist es wichtig zu bedenken, dass sich die Meinungen von ExpertInnen bezüglich der Definition von „sozialen Medien“ unterscheiden, sowie ob diese Form der Kommunikation bereits in der Zeit vor dem Internet existierte. Viele dieser Diskussionen drehen sich darum, ob die technische Infrastrukturan sich das innovative Element ist, oder ob die Innovation darin liegt, wie Menschen diese Infrastruktur nutzen. Aus Sicht von HistorikerInnen ist der Begriff „soziale Medien“ problematisch, da Medien per Definition eine soziale Funktion haben. Im digitalen Zeitalter kann sich der Begriff auch, verwirrenderweise, auf die bahnbrechenden Austauschplattformen der frühen 2000er-Jahren beziehen, darunter MySpace und Friendster. Damals wurden diese als [*Social Networking Sites*](https://academic.oup.com/jcmc/article/13/1/210/4583062#104153860) (oder: Webseiten zur sozialen Vernetzung) bezeichnet. Mit der Einführung von Twitter, Pinterest, Instagram und Snapchat, die eher auf den Austausch von Inhalten als auf die Schaffung von Netzwerken ausgerichtet sind, gewann der umfassendere Begriff „soziale Medien“ an Zugkraft. In dieser Aufgabe werden Sie die historischen Kontinuitäten und Diskontinuitäten des Phänomens der sozialen Medien untersuchen.
 
 <!-- more -->
 <!-- briefing-student -->
@@ -34,7 +34,7 @@ In der untenstehenden Tabelle sind die wichtigsten Punkte dieses Videos aufgelis
 | Flugblätter |  |  |  |
 | Kaffeehäuser  |  |  |  |
 | Radiosendungen |  |  |  |
-| Filmaufnahme einer Vorlesung mit mit Folien eines renomierten Technologie- und Kommunikationswissenschaftlers (16 Min.) | Gehalten am 1-6-2013 an der Oxford Said Business School und online veröffentlicht am 19-8-2013 | Geteilt via der Videoplatform YouTube | Mit einer Digitalkamera aufgenommener Vortrag; Hochladen der Aufnahmedatei auf einen der Server von YouTube über einen PC; Übermittlung des Videos von einem der Server von YouTube an den PC eines Zuschauers, wenn das Video zur Ansicht ausgewählt wird* |
+| Filmaufnahme einer Vorlesung mit mit Folien eines renomierten Technologie- und Kommunikationswissenschaftlers (16 Min.) | Gehalten am 1-6-2013 an der Oxford Said Business School und online veröffentlicht am 19-8-2013 | Geteilt via der Videoplatform YouTube | Mit einer Digitalkamera aufgenommener Vortrag; Hochladen der Aufnahmedatei auf einen YouTube-Server über einen PC; Übermittlung des Videos von einem der YouTube-Server an den PC eines/einer ZuschauerIn, wenn das Video zur Ansicht ausgewählt wird* |
 
 `*`Dies ist eine vereinfachte Darstellung der technologischen Prozesse, die beim Hochladen und Betrachten eines YouTube-Videos vonstatten gehen. Ausführlichere Informationen zu diesen Prozessen finden Sie in dieser Infografik von [How It Works](https://www.howitworksdaily.com/wp-content/uploads/2016/04/How-YouTube-works-1024x891.jpg) aus dem Jahr 2016.
 
@@ -51,7 +51,7 @@ Lesen Sie diese kurze Geschichte der Ursprünge sozialer Medien durch. Diese wir
 
 Lesen Sie nun eine andere Version der Geschichte sozialer Medien, diesmal veröffentlicht am 16. Juni 2015 von Matthew Jones auf der Plattform [History Cooperative](https://historycooperative.org/the-history-of-social-media/), und beantworten Sie die folgende Frage:
 
-- Welche zwei Schlüsselelemente sind bei Jones' Interpretation des Phänomens der sozialen anders im Vergleich zum Text der Maryland University?
+- Welche zwei Schlüsselelemente sind bei Jones' Interpretation des Phänomens der sozialen Medien anders im Vergleich zum Text der Maryland University?
 
 [card](history-cooperative)
 

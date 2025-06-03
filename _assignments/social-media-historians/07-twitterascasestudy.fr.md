@@ -70,7 +70,7 @@ Par la suite, aidez-vous du [guide d'utilisation de X](https://help.x.com/fr/res
 
 ![bird](../../../assets/images/social-media/bird.png)
 
-Mention de source&#x202F;: Ancien logo de Twitter respectant les directives de la marque comme défini dans le  Kit de ressources de la marque à l'époque. Disponible sur cette version du kit archivée et datée du 21 juillet 2021 [https://web.archive.org/web/20210721163915/https://about.twitter.com/en/who-we-are/brand-toolkit](https://web.archive.org/web/20210721163915/https://about.twitter.com/en/who-we-are/brand-toolkit)
+Mention de source&#x202F;: Ancien logo de Twitter respectant les directives de la marque comme défini dans le Kit de ressources de la marque à l'époque. Disponible sur cette version du kit archivée et datée du 21 juillet 2021 [https://web.archive.org/web/20210721163915/https://about.twitter.com/en/who-we-are/brand-toolkit](https://web.archive.org/web/20210721163915/https://about.twitter.com/en/who-we-are/brand-toolkit)
 
 Dans cet exercice, nous allons utiliser à la fois le web vivant et la [Wayback Machine](https://web.archive.org/) de l’Internet Archive pour travailler avec des archives du web. Pour obtenir des instructions sur la façon d’utiliser cette ressource, consultez [notre guide sur Wayback Machine](https://ranke2.uni.lu/assets/pdf/wayback-machine-interface.pdf). De plus, celles et ceux qui possèdent déjà un compte Twitter/X devront d’abord se déconnecter de leur compte afin de pouvoir réaliser cet exercice.
 

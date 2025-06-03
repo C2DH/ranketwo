@@ -11,9 +11,9 @@ outcomes:
  - "Die verschiedenen Arten der Nutzung, Analyse und Archivierung von Twitter/X verstehen, um Quellenkritik darauf anwenden zu können"
 order: 7
 ---
-Twitter, jetzt als X bekannt, wurde im März 2006 gestartet. Nach verschiedenen Schätzungen und „offiziellen“ Zahlen, welche von Twitter Inc. veröffentlicht wurden, hat die Plattform inzwischen 300 - 400 Millionen Nutzerinnen. Twitter wurde dafür bekannt, Informationen sehr schnell zu verbreiten und große Kontroversen auszulösen (einschließlich Fälle von Belästigung), gesellschaftspolitischen Bewegungen (wie #BlackLivesMatter oder #MeToo) aktuellen Themen, sowie für Journalistinnen Raum zu geben.
+Twitter, jetzt als X bekannt, wurde im März 2006 lanciert. Nach verschiedenen Schätzungen und „offiziellen“ Zahlen, welche von Twitter Inc. veröffentlicht wurden, hat die Plattform inzwischen 300 - 400 Millionen NutzerInnen. Twitter wurde dafür bekannt, Informationen sehr schnell zu verbreiten und große Kontroversen auszulösen (einschließlich Fälle von Belästigungen), sowie gesellschaftspolitischen Bewegungen (wie #BlackLivesMatter oder #MeToo), aktuellen Themen, sowie Journalistinnen Raum zu geben.
 
-Nach dem Abschluss einer rechtlichen Vereinbarung mit den Aktionärinnen von Twitter Inc. am 14. April 2022 und einer Reihe von Ereignissen kaufte Elon Musk Twitter und übernahm die Plattform offiziell per 27. Oktober 2022. Seitdem wurde Twitter umstrukturiert, viele Mitarbeitende entlassen und zu 'X' umbenannt. Viele der seit Oktober 2022 getroffenen Maßnahmen wurden angefochten, darunter die Wiederzulassung von Konten mit rechtsextremen Ansichten und die teilweise Umstellung auf ein Bezahlmodell für Nutzende. Diese Entscheidungen führten zum Verlust vieler Werbekundinnen und stellten die langfristige Zukunft der Plattform in Frage.
+Nach dem Abschluss einer rechtlichen Vereinbarung mit den Aktionärinnen von Twitter Inc. am 14. April 2022 und einer Reihe von Ereignissen, kaufte Elon Musk Twitter und übernahm die Plattform offiziell per 27. Oktober 2022. Seitdem wurde Twitter umstrukturiert, viele Mitarbeitende entlassen und zu 'X' umbenannt. Viele der seit Oktober 2022 getroffenen Maßnahmen wurden angefochten, darunter die Wiederzulassung von Konten mit rechtsextremen Ansichten und die teilweise Umstellung auf ein Bezahlmodell für Nutzende. Diese Entscheidungen führten zum Verlust vieler WerbekundInnen und stellten die langfristige Zukunft der Plattform in Frage.
 
 <html>
 <div class="alert alert-info">
@@ -44,10 +44,10 @@ Lesen Sie [dieses Interview in der Los Angeles Times mit Jack Dorsey](https://la
 ### 7.b Wie ist Twitter definiert? | 10 Min.
  <!-- section-contents -->
 
-![140](../../assets/images/social-media/140.png)
+![140](../../../assets/images/social-media/140.png)
 Bildnachweis: [The Lighthouse(@the_bercibot)](https://twitter.com/the_bercibot/status/1379647473640161280)
 
-Besuchen Sie die archivierte Version von [Twitter-Leitfaden für neue NutzerInnen](https://web.archive.org/web/20180103203839/https://help.twitter.com/en/new-user-faq){:target="_blank"} und beantworten Sie die folgenden Fragen:
+Besuchen Sie die archivierte Version vom [Twitter-Leitfaden für neue NutzerInnen](https://web.archive.org/web/20180103203839/https://help.twitter.com/en/new-user-faq){:target="_blank"} und beantworten Sie die folgenden Fragen:
 - Was ist ein Tweet?
 - Wie lang (Zeichenzahl) ist ein Tweet heute?
 - Waren Tweets schon immer diese Länge?
@@ -60,9 +60,9 @@ Besuchen Sie die archivierte Version von [Twitter-Leitfaden für neue NutzerInne
  <!-- section-contents --> 
 
 ![bird](../../../assets/images/social-media/bird.png)
-Bildnachweis: Aktuelles Twitter-Logo gemäß Markenrichtlinien. Aus dem [Twitter Marken-Toolkit](https://about.twitter.com/en/who-we-are/brand-toolkit){:target="_blank"}.
+Bildnachweis: Ehemaliges Twitter-Logo gemäß Markenrichtlinien. Aus dem [Twitter Marken-Toolkit](https://about.twitter.com/en/who-we-are/brand-toolkit){:target="_blank"}.
 
-Hinweis: In diesem Abschnitt verwenden wir die Wayback Machine des Internet Archive. Eine Anleitung zur Nutzung dieser Ressource finden Sie hier: [Handout Wayback Machine](https://ranke2.uni.lu/assets/pdf/wayback-machine-interface.pdf){:target="_blank"}. Darüber hinaus sollten sich diejenigen, die bereits einen Twitter-Account besitzen, zunächst aus ihrem Account abmelden, um diese Aufgabe zu absolvieren.
+Hinweis: In diesem Abschnitt verwenden wir die Wayback Machine des Internet Archive. Eine Anleitung zur Nutzung dieser Ressource finden Sie hier: [Handout Wayback Machine](https://ranke2.uni.lu/assets/pdf/wayback-machine-interface.pdf){:target="_blank"}. Darüber hinaus sollten sich diejenigen, die bereits einen Twitter- / X-Account besitzen, zunächst aus ihrem Konto abmelden, um diese Aufgabe machen zu können.
 
 Verwenden Sie die historische URL der Twitter-Startseite in Ihrem Navigator: `http://www.twitter.com`
 - Wie lautet der Text auf der Startseite?
@@ -83,7 +83,7 @@ Gehen Sie nun zu `https://x.com/`. Was passiert? Was steht auf der Seite über d
  <!-- section-contents -->  
 
 ![obamareply](../../../assets/images/social-media/obamareply.png)
-Bildnachweis: Screenshot des Klicks auf die Schaltfläche, um auf einen bereits geposteten Tweet zu „antworten“, aufgenommen auf einem Desktop-Computer am 14. April 2021.
+Bildnachweis: Bildschirmfoto wenn auf „reply“ geklickt wird, um auf einen geposteten Tweet zu antworten. Aufgenommen auf einem Desktop-Computer am 14. April 2021.
 
 Lesen Sie auf diesen Artikel von Mike Isaac in der New York Times. Beantworten Sie anschließend die folgenden Fragen:
 - Wie kann man auf einen Tweet antworten?
@@ -99,20 +99,24 @@ Lesen Sie auf diesen Artikel von Mike Isaac in der New York Times. Beantworten S
 
 Bildnachweis: [Jack Dorsey (@jack)](https://twitter.com/jack/status/20){:target="_blank"}
 
-- Gehen Sie auf [https://twitter.com/jack/status/20](https://twitter.com/jack/status/20){:target="_blank"} und suchen Sie dort nach dem Tweet, auf den Sie gerade zugegriffen haben.
+- Gehen Sie auf [https://twitter.com/jack/status/20](https://twitter.com/jack/status/20){:target="_blank"} und analysieren Sie den Tweet.
 
 Dies ist der erste je veröffentlichte Tweet. Gepostet wurde er von Twitter-Erfinder Jack Dorsey. Im Gegensatz zu anderen alten Tweets ist dieser noch online und kann auf Twitter gelesen werden. Vergleichen Sie den Tweet, der heute auf Twitter steht, mit Schnappschüssen desselben Tweets von vor zwei Jahren:
 - [https://web.archive.org/web/20081103142857/https://twitter.com/jack/status/20](https://web.archive.org/web/20081103142857/https://twitter.com/jack/status/20){:target="_blank"}
 - [https://web.archive.org/web/20150321230408/https://twitter.com/jack/status/20](https://web.archive.org/web/20150321230408/https://twitter.com/jack/status/20){:target="_blank"}
 
-Diese beiden Snapshots sind Versionen eines Tweets, die vom [Internet Archive Wayback Machine](https://archive.org/web/){:target="_blank"} archiviert wurden. Die erste Aufnahme ist die früheste Version des Tweets. Im Vergleich dazu ist Jack Dorseys Tweet (der jetzt als „Post“ bezeichnet wird), so wie er derzeit auf X angezeigt wird, keine archivierte, sondern eine Live-Version – das bedeutet, dass die heutigen X-Nutzenden auch heute noch damit interagieren können. Versuchen Sie, einige der Schwierigkeiten zu verstehen, mit denen Archivar*innen bei der Archivierung von Social-Media-Inhalten konfrontiert sein könnten, indem Sie diese drei Versionen desselben Tweets/Posts in einer kurzen Antwort vergleichen.
+Diese beiden Schnappschüsse sind Versionen eines Tweets, die vom [Internet Archive Wayback Machine](https://archive.org/web/){:target="_blank"} archiviert wurden. Die erste Aufnahme ist die früheste Version des Tweets. Im Vergleich dazu ist Jack Dorseys Tweet (der jetzt als „Post“ bezeichnet wird), so wie er derzeit auf X angezeigt wird, keine archivierte, sondern eine Live-Version – das bedeutet, dass die heutigen X-Nutzenden immer noch damit interagieren können. Versuchen Sie, einige der Schwierigkeiten zu verstehen, mit denen ArchivarInnen bei der Archivierung von Inhalten sozialer Medien konfrontiert sein könnten, indem Sie diese drei Versionen desselben Tweets/Posts in einer kurzen Antwort vergleichen.
 
 <!-- section -->
 
 ### Empfehlungen Lektüre/Videos
 <!-- section-contents -->
 
-Zimmer, Michael. „The Twitter Archive at the Library of Congress: Challenges for Information Practice and Information Policy“. *First Monday* 20 (7) (Juni 2015). [Zeitschriftenartikel](http://firstmonday.org/ojs/index.php/fm/article/view/5619){:target="_blank"}
+boyd, danah m., und Nicole B. Ellison. „Social Network Sites: Definition, History, and Scholarship“. *Journal of Computer-Mediated Communication* 13 (1), 2007: 210–230 DOI&#x202F;: [https://doi.org/10.1111/j.1083-6101.2007.00393.x](https://doi.org/10.1111/j.1083-6101.2007.00393.x)
+
+Burgess, Jean et Nancy K. Baym. *Twitter: A Biography*. New York&#x202F;: New York University Press, 2020
+
+Zimmer, Michael. „The Twitter Archive at the Library of Congress: Challenges for Information Practice and Information Policy“. *First Monday* 20 (7) (21. Juni 2015). [Zeitschriftenartikel](http://firstmonday.org/ojs/index.php/fm/article/view/5619){:target="_blank"}
 
 
 <!-- briefing-teacher -->

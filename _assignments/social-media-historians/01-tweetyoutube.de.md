@@ -18,10 +18,10 @@ In der Geschichtswissenschaft wird oftmals argumentiert, dass ein gewisser zeitl
 [![interactivity](https://media.giphy.com/media/gIMdqhwG5Xa45Mb2Ex/giphy.webp "Bildnachweis: INTO ACTION, Giphy")](https://giphy.com/gifs/IntoAction-covid-fake-news-misinformation-gIMdqhwG5Xa45Mb2Ex){:target="_blank"}
 [![interactivity](https://media.giphy.com/media/jQmn1Dkw55R3cjm3eC/giphy.webp "Bildnachweis: Flamingo Services, Giphy")](https://giphy.com/gifs/instagram-hearts-likes-jQmn1Dkw55R3cjm3eC){:target="_blank"}
 
-Image credits:
-[Bildnachweis: Linaria Comunicación, Giphy](https://media.giphy.com/media/rB8CbdO6xSJofmOAKL/giphy.gif),
-[Bildnachweis: INTO ACTION, Giphy](https://media.giphy.com/media/gIMdqhwG5Xa45Mb2Ex/giphy.gif),
-[Bildnachweis: Flamingo Services, Giphy](https://media.giphy.com/media/jQmn1Dkw55R3cjm3eC/giphy.gif)
+Bildnachweis:
+[Linaria Comunicación, Giphy](https://media.giphy.com/media/rB8CbdO6xSJofmOAKL/giphy.gif);
+[INTO ACTION, Giphy](https://media.giphy.com/media/gIMdqhwG5Xa45Mb2Ex/giphy.gif);
+[Flamingo Services, Giphy](https://media.giphy.com/media/jQmn1Dkw55R3cjm3eC/giphy.gif).
 
 <!-- more -->
 
@@ -67,10 +67,10 @@ Nachdem wir uns überlegt haben, wann etwas als historisch zu betrachten ist, un
 
 **Option 1**
 
-Lesen Sie die folgenden zwei von HistorikerInnen verfassten Blogbeiträge. Notieren Sie anschließend die Argumente der AutorInnen zur Frage, was als Teil der Vergangenheit angesehen werden kann:
+Lesen Sie die folgenden zwei von HistorikerInnen verfassten Blogbeiträge. Notieren Sie anschließend die Argumente der AutorInnen zur Frage, was als Teil der Vergangenheit gesehen werden kann:
 
-1.	Suzannah Lipscomb, [„How recent is History?“](https://www.historytoday.com/how-recent-history), *Historytoday*, 29. Januar 2015 (Englisch, 770 Wörter).
-Ausgewähltes Zitat: „Historians of the page might want to learn from those of the screen.“.
+1.	Suzannah Lipscomb, [„How recent is History?“](https://www.historytoday.com/how-recent-history), *History Today*, 29. Januar 2015 (Englisch, 770 Wörter).
+Ausgewähltes Zitat: „Historians of the page might want to learn from those of the screen.“
 
 2.	Ian Milligan, [„Historians’ archival research looks quite different in the digital age“](https://theconversation.com/historians-archival-research-looks-quite-different-in-the-digital-age-121096), *The Conversation*, 19. August 2019 (Englisch, 1'100 Wörter).
 Ausgewähltes Zitat: „Today, hundreds of billions of websites preserved at the Internet Archive alone is more archival information than scholars have ever had access to.“
@@ -89,7 +89,7 @@ Artikel:
 
 1.	[Is Social Media Good for History?](https://www.historytoday.com/archive/head-head/social-media-good-history). *History Today* 70, Nr. 2, 2. Februar 2020 (Englisch,  1'480 Wörter). 
 Ausgewähltes Zitat: „In a Twitter thread last June, curator Sara Huws wrote of her concern that the histories she tweeted from a Welsh museum account got more attention if she implied they’d been suppressed.“
-2.	Caroline Muller und Frédéric Clavert, [„Scholarly conversation on Twitter“](https://consciences.hypotheses.org/2721), *Acquis de conscience*, 25. März 2021 (4'237 Wörter). 
+2.	Caroline Muller und Frédéric Clavert, [„Scholarly conversation on Twitter“](https://consciences.hypotheses.org/2721), *Acquis de conscience*, 25. März 2021 (Englisch, 4'237 Wörter). 
 In diesem Blogbeitrag befassen sich die beiden AutorInnen mit den Vorurteilen von HistorikerInnen gegenüber sozialen Medien. Ausgewähltes Zitat: „The social networking service Twitter suffers from a bad reputation in the academic world and, more broadly, among those who do not use it.“
 
 Schreiben Sie, basierend auf Ihren eigenen Gedanken, sowie denjenigen der HistorikerInnen mit denen Sie sich soeben auseinandergesetzt haben, einen kurzen Aufsatz von ca. 500 Wörtern. Begründen Sie wann Ihres Erachtens ein Ereignis, eine Erfahrung oder ein Artefakt "historisch" wird und was dies für die Beziehung zwischen HistorikerInnen und sozialen Medien bedeutet. [Use the space in your answer form. - This is not in online version ]
@@ -97,7 +97,7 @@ Schreiben Sie, basierend auf Ihren eigenen Gedanken, sowie denjenigen der Histor
 
 <!-- section -->
 
-### Empfehlungen Lektüre/Video
+### Empfehlungen Lektüre/Videos
 <!-- section-contents -->
 Universität Tartu. „How does the past become history?“. *History on Screen*. Letzter Zugriff: 31. Dezember 2024. Website-Link: [https://ajalugu.haridusekraanil.ee/en/theoretical/time-together/how-does-the-past-form-the-history](https://ajalugu.haridusekraanil.ee/en/theoretical/time-together/how-does-the-past-form-the-history)
 

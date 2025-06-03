@@ -13,7 +13,7 @@ order: 3
 ![typology](../../../assets/images/social-media/typology.png)
 „2021 World Map of Social Networks“. Bild erstellt von Vincenzo Cosenza und hier ohne Veränderung des Originals auf Vincos Blog unter Creative Commons Lizenz [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.de) entnommen.
 
-In dieser Aufgabe sollen Sie eine Webrecherche durchführen, um die Profile unterschiedlicher Social-Media-Plattformen zu erstellen. Es gibt zahlreiche Ansätze, um die Merkmale eines sozialen Mediums zu spezifizieren. So kann man zum Beispiel die Technologie und die Art der Kommunikation, die sie ermöglicht, bzw. die Nutzererfahrung betrachten oder sich auf die Politik und Strategie des Unternehmens konzentrieren, welches das soziale Medium betreibt, also auf das Geschäftsmodell. Diese verschiedenen Ansätze helfen, besser zu verstehen, um was es sich bei diesen verschiedenen sozialen Medien eigentlich handelt. Durch die Klassifizierung ihrer Typologie können Historiker ihre Inhalte als digitale Quellen genauer analysieren.
+In dieser Aufgabe sollen Sie eine Webrecherche durchführen, um die Profile unterschiedlicher Social-Media-Plattformen zu erstellen. Es gibt zahlreiche Ansätze, um die Merkmale eines sozialen Mediums zu spezifizieren. So kann man zum Beispiel die Technologie und die Art der Kommunikation, die sie ermöglicht, bzw. die Nutzererfahrung betrachten oder sich auf die Politik und Strategie des Unternehmens konzentrieren, welches das soziale Medium betreibt, also auf das Geschäftsmodell. Diese verschiedenen Ansätze helfen, besser zu verstehen, um was es sich bei diesen verschiedenen sozialen Medien eigentlich handelt. Durch die Klassifizierung ihrer Typologie können HistorikerInnen ihre Inhalte als digitale Quellen genauer analysieren.
 
 <!-- more -->
 <!-- briefing-student -->
@@ -36,16 +36,16 @@ Nachfolgend ist eine Reihe von Social-Media-Plattformen aufgeführt, zu denen Si
 
 Erstellen Sie nun das Profil der von Ihnen ausgewählten Dienste anhand der unten vorgeschlagenen Merkmale. Bitte beachten Sie, dass für jedes Merkmal verschiedene Optionen möglich sind – wenn Sie zum Beispiel das Gerät berücksichtigen, sind die meisten Dienste über unterschiedliche Typen zugänglich.
 
-- *Art der Plattform*: Wird sie vorrangig zum Bloggen, Diskutieren, Teilen, Vernetzen, Crowdsourcing usw. genutzt?
+- *Art der Plattform*: Wird sie hauptsächlich zum Bloggen, Diskutieren, Teilen, Vernetzen, Crowdsourcing usw. genutzt?
 - *Art der Inhalte*: Welche Art von Inhalten – Nachrichten, Meinungen, Fotos, persönliche Geschichten, Nachrichten, Spiele, Filme, Clips, Hobbys usw. – werden auf dieser Plattform erstellt?
-- *Am ehesten vergleichbare Praktiken im analogen Zeitalter*: z. B. Wirtshaus, Brief, Telegraf, Kino, Fotoalbum usw.
-- *Zielgruppe*: Wer ist die Hauptzielgruppe dieser Plattform? Unternehmer, Privatpersonen, Sonstige?
+- *Am ehesten vergleichbare Praktiken im analogen Zeitalter*: z.B. Wirtshaus, Brief, Telegraf, Kino, Fotoalbum usw.
+- *Zielgruppe*: Wer ist die Hauptzielgruppe dieser Plattform? UnternehmerInnen, Privatpersonen, sonstige?
 - *Gerät*: Welche Art von Gerät – Computer, Tablet, Smartphone usw. – braucht man, um auf das soziale Medium zuzugreifen?
-- *Moderation der Inhalte*: Werden die Beiträge der Nutzer überwacht? Falls ja, von wem und warum? Falls nein, warum nicht?
-- *Datenschutz*: Wie geht das Unternehmen, das die Plattform betreibt, mit den Daten der Nutzer um? Was geschieht mit diesen Daten?
-- *Geografische Gesichtspunkte*: In welchem Land hat das Unternehmen, das den Dienst betreibt, seinen Sitz?
+- *Moderation der Inhalte*: Werden die Beiträge der NutzerInnen überwacht? Falls ja, von wem und warum? Falls nein, warum nicht?
+- *Datenschutz*: Wie geht das Unternehmen, das die Plattform betreibt, mit den Daten der NutzerInnen um? Was geschieht mit diesen Daten?
+- *Geografische Lage*: In welchem Land hat das Unternehmen, das den Dienst betreibt, seinen Sitz?
 - *Bediente Regionen*: Ist der Dienst weltweit verfügbar?
-- *Vorherrschende geografische/kulturelle Regionen*: Gibt es bestimmte geografische und/oder sprachliche Regionen, in denen die Nutzung des Dienstes besonders beliebt ist?
+- *Vorherrschende geografische/sprachliche Regionen*: Gibt es bestimmte geografische und/oder sprachliche Regionen, in denen die Nutzung des Dienstes besonders beliebt ist?
 
 <!-- section -->
 
@@ -60,12 +60,12 @@ Nun werden Sie sich mit den Unternehmen beschäftigen, die hinter einer Reihe be
 | WhatsApp |
 | YouTube |
 
-- *Art der Plattform*: Bloggen / Diskussion / Teilen / Vernetzen / Crowdsourcing usw.?
-- *Schöpfer*: Gründer, Gründungsdatum, Name des Unternehmens, Geschäftsführer, Standort des Hauptsitzes.
+- *Art der Plattform*: zum Bloggen / Diskutieren / Teilen / Vernetzen / Crowdsourcen / usw.?
+- *Gründung*: Gründungsperson(en), Gründungsdatum, Name des Unternehmens, Geschäftsleitende, Standort des Hauptsitzes?
 - *Geschäftsmodell*: Wie wird Einkommen generiert?
 - *Verkaufsargument*: Was macht den Dienst einzigartig und seine Nutzung attraktiv?
-- *Moderation der Inhalte*: Werden die Beiträge der Nutzer überwacht? Falls ja, von wem und warum? Falls nein, warum nicht?
-- *Datenschutz*: Wie geht das Unternehmen, das die Plattform betreibt, mit den Daten der Nutzer um? Was geschieht mit diesen Daten?
+- *Moderation der Inhalte*: Werden die Beiträge der NutzerInnen überwacht? Falls ja, von wem und warum? Falls nein, warum nicht?
+- *Datenschutz*: Wie geht das Unternehmen, das die Plattform betreibt, mit den Daten der NutzerInnen um? Was geschieht mit diesen Daten?
 
 <!-- section -->
 
