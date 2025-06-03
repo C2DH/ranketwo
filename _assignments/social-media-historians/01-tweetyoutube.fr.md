@@ -6,6 +6,7 @@ title: "Comment les publications sur Twitter/X ou les vidéos YouTube peuvent de
 cover:
 documents:
 tags:
+- web-social-media
 outcomes:
  - Comprendre dans quelles conditions les réseaux sociaux numériques peuvent devenir une source pour l'histoire. 
 order: 1

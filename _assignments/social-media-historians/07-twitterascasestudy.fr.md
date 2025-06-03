@@ -46,7 +46,7 @@ Lisez [cet entretien, paru dans le *Los Angeles Times*, avec Jack Dorsey, l’un
 ### 7.b Comment Twitter/X se définit | 15 min 
  <!-- section-contents -->
 
-![jacktweet](../../../assets/images/social-media/jacktweet.png)
+![140](../../assets/images/social-media/140.png)
 
 Mention de source&#x202F;: Tweet du compte The Lighthouse (@the_bercibot). Disponible sur [https://twitter.com/the_bercibot/status/1379647473640161280](https://twitter.com/the_bercibot/status/1379647473640161280). 
 
@@ -70,7 +70,7 @@ Par la suite, aidez-vous du [guide d'utilisation de X](https://help.x.com/fr/res
 
 ![bird](../../../assets/images/social-media/bird.png)
 
-Mention de source&#x202F;: Ancien logo de Twitter respectant les directives de la marque comme défini dans le  Kit de ressources de la marque à l'époque. Disponible sur cette version du kit archivée et datée du 21 juillet 2021 [https://web.archive.org/web/20210721163915/https://about.twitter.com/en/who-we-are/brand-toolkit](https://web.archive.org/web/20210721163915/https://about.twitter.com/en/who-we-are/brand-toolkit)
+Mention de source&#x202F;: Ancien logo de Twitter respectant les directives de la marque comme défini dans le Kit de ressources de la marque à l'époque. Disponible sur cette version du kit archivée et datée du 21 juillet 2021 [https://web.archive.org/web/20210721163915/https://about.twitter.com/en/who-we-are/brand-toolkit](https://web.archive.org/web/20210721163915/https://about.twitter.com/en/who-we-are/brand-toolkit)
 
 Dans cet exercice, nous allons utiliser à la fois le web vivant et la [Wayback Machine](https://web.archive.org/) de l’Internet Archive pour travailler avec des archives du web. Pour obtenir des instructions sur la façon d’utiliser cette ressource, consultez [notre guide sur Wayback Machine](https://ranke2.uni.lu/assets/pdf/wayback-machine-interface.pdf). De plus, celles et ceux qui possèdent déjà un compte Twitter/X devront d’abord se déconnecter de leur compte afin de pouvoir réaliser cet exercice.
 
@@ -146,6 +146,5 @@ Muller, Caroline et Frédéric Clavert. «&#x202F;Une informalité bien ordonné
 
 Zimmer, Michael. «&#x202F;The Twitter Archive at the Library of Congress&#x202F;: Challenges for information practice and information policy&#x202F;», *First Monday* 20 (7), 21 juin 2015. En ligne: <http://firstmonday.org/ojs/index.php/fm/article/view/5619>.
 
-<!-- section -->
 
 <!-- briefing-teacher -->
