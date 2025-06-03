@@ -2,7 +2,7 @@
 layout: assignment
 unit: social-media-historians
 lang: de
-title: "Twitter/X als Fallstudie (Aufgabe kuratiert von Frédéric Clavert)"
+title: "Twitter/X als Fallstudie (Frédéric Clavert)"
 cover:
 documents:
 tags:
@@ -85,10 +85,10 @@ Gehen Sie nun zu `https://x.com/`. Was passiert? Was steht auf der Seite über d
 ![obamareply](../../../assets/images/social-media/obamareply.png)
 Bildnachweis: Screenshot des Klicks auf die Schaltfläche, um auf einen bereits geposteten Tweet zu „antworten“, aufgenommen auf einem Desktop-Computer am 14. April 2021.
 
-Gehen Sie auf diesen Artikel von Mike Isaac in der New York Times. Lesen Sie ihn und beantworten Sie anschließend die folgenden Fragen:
+Lesen Sie auf diesen Artikel von Mike Isaac in der New York Times. Beantworten Sie anschließend die folgenden Fragen:
 - Wie kann man auf einen Tweet antworten?
-- Kann man einen Tweet „liken“? Warum könnte man das tun?
-- Kann man einen Nutzer in einem Tweet erwähnen? Warum?
+- Kann man einen Tweet „liken“? Warum würde man das tun?
+- Kann man andere Twitter-Nutzende in einem Tweet erwähnen? Warum?
 
 <!-- section --> 
 
