@@ -12,15 +12,15 @@ Ranke.2 is a project of the C<sup>2</sup>DH. It was initiated by Andreas Fickers
 
 ## Core Team
 
-[Andreas Fickers](https://www.c2dh.uni.lu/people/andreas-fickers) - director of the C²DH, initiator of Ranke.2 <br>  
-[Stefan Krebs](https://www.c2dh.uni.lu/people/stefan-krebs) - project management and administration <br> 
-[Sofia Papastamkou](https://www.c2dh.uni.lu/people/sofia-papastamkou) - project and editorial coordination <br>
+[Andreas Fickers](https://www.c2dh.uni.lu/people/andreas-fickers) - director of the C²DH, initiator, PI of Ranke.2 <br>  
+[Sofia Papastamkou](https://www.c2dh.uni.lu/people/sofia-papastamkou) - project and editorial coordination, co-PI <br>
 [Daniele Guido](https://www.c2dh.uni.lu/people/daniele-guido) - visual concept and design, web developement <br>
 [Frédéric Reis](https://www.c2dh.uni.lu/people/frederic-reiss) - assistance web development <br> 
 
 
 ### Past Core Team
 
+[Stefan Krebs](https://www.c2dh.uni.lu/people/stefan-krebs) - project management and administration (2021-2024) <br>
 [Sean Takats](https://www.c2dh.uni.lu/people/sean-takats) - project management and administration (2020) <br>
 [Gerben Zaagsma](https://www.c2dh.uni.lu/people/gerben-zaagsma) - project management and administration (2016-2020) <br> 
 [Stefania Scagliola](https://www.c2dh.uni.lu/people/stefania-scagliola) - project concept, project and editorial coordination (2016-2021) <br> 

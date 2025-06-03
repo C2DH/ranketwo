@@ -100,6 +100,13 @@ include captures/cover_url %}
                 {% endfor %}
               </p>
             {% endif %}
+            {% if page.translation_editors %}
+              <p>
+                {% assign key='translation_editors' %}{% include t.html %}
+                {% for author_slug in page.translation_editors %} {% include author.html %}
+                {% endfor %}
+              </p>
+            {% endif %}
           </section>
 
           {% unless assignments.size == 0 %}

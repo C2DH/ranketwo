@@ -1,52 +1,52 @@
 ---
 layout: assignment
 unit: wikipedia-historical-source 
-lang: 
-title: "Writing on Wikipedia: structure and historical narrative"
+lang: de 
+title: "Schreiben auf Wikipedia: Struktur und historisches Narrativ "
 cover:
 documents:
 tags:
 outcomes: 
-  - Learn how the features of the Wikipedia infrastructure shape historical narratives
+  - Lernen Sie, wie die Funktionen der Wikipedia-Infrastruktur die historischen Narrative formen
 order: 3
 ---
-Wikipedia articles include historical narratives about the past. In other words, they tell a story about the past. These stories are the result of collaborative writing between Wikipedia users. Each article has a different structure based on various combinations of standardised sections (e.g. chapters, sections, infoboxes, hyperlinks), including visual and audio elements (e.g. graphs, videos, images, sounds) and bibliographical references. Now that you have a better understanding of how Wikipedia works, let’s look at the historical narrative of a Wikipedia article.
+Wikipedia-Artikel enthalten historische Narrative über die Vergangenheit. Das heißt, dass sie eine Geschichte über die Vergangenheit erzählen. Diese Geschichten sind das Ergebnis des gemeinsamen Schreibens von Wikipedia-Nutzenden. Jeder Artikel weist eine andere Struktur auf und setzt sich zusammen aus unterschiedlichen Kombinationen standardisierter Abschnitte (z.B. Kapitel, Abschnitte, Infoboxen, Hyperlinks), einschließlich visueller und auditiver Elemente (z.B. Graphiken, Videos, Abbildungen, Tondateien) und bibliographischer Referenzen. Nachdem Sie jetzt besser verstehen, wie Wikipedia funktioniert, sehen wir uns das historische Narrativ eines Wikipedia-Artikels an.
 
-> You can adapt the proposed exercise to focus on an article about a historical event, person or phenomenon of your choice, in a language you are more comfortable with. Examples include the Haitian revolution, the Arab Spring, the Silk Road, Cleopatra, feminism and slavery, but there are countless others to choose from.
+> Sie können die vorgeschlagene Übung anpassen, um sich auf einen Artikel über ein historisches Ereignis, eine Person oder ein Phänomen Ihrer Wahl zu konzentrieren, und zwar in einer von Ihnen gewünschten Sprache. Beispiele sind die haitianische Revolution, der Arabische Frühling, die Seidenstraße, Kleopatra, Feminismus und Sklaverei, aber es gibt noch zahlreiche andere Themen, die Sie wählen können.
 
 <!-- more -->
 
 <!-- briefing-student -->
 
-### 3.a Deconstructing a Wikipedia narrative on a historical event | 60 mins
+### 3.a Dekonstruktion eines Wikipedia-Narrativs über ein historisches Ereignis | 60 Min.
 <!-- section-contents -->
 
-Browse the article on the [September 11 attacks](https://en.wikipedia.org/wiki/September_11_attacks){:target="_blank"}  in the English edition of Wikipedia, and focus on the following elements: 
+Lesen Sie den Artikel über die [Terroranschläge am 11. September 2001](https://de.wikipedia.org/wiki/Terroranschl%C3%A4ge_am_11._September_2001){:target="_blank"} und konzentrieren Sie sich auf die folgenden Elemente:
 
-- How the historical narrative of the Wikipedia article is structured and how it differs from traditional historical narratives that you can find in a book or an article. 
+- Wie das historische Narrativ des Wikipedia-Artikels strukturiert ist, und wie es sich von traditionellen historischen Narrativen, die Sie in einem Buch oder Artikel finden, unterscheidet.
 
-- The visual and audio materials that are part of the article’s narrative. Please pay particular attention to the terms and conditions of use of these elements. 
+- Das Bild- und Tonmaterial, das Teil des Narrativs dieses Artikels ist. Bitte achten Sie besonders auf die Nutzungsbedingungen für diese Elemente.
 
-- The bibliography that the editors have used, the hyperlinks, and the references to other historical events. 
+- Die von den Redakteuren verwendete Bibliografie, die Querverweise und die Verweise auf andere historische Ereignisse.
 
-Then think critically and try to answer the following questions:
+Setzen Sie sich mit dem Material kritisch auseinander und versuchen Sie, folgende Fragen zu beantworten:
 
-- How have Wikipedia users organised the historical narrative of the Wikipedia article?
-- What kind of visual and audio materials (e.g. graphs, videos, images, sounds, etc.) does the Wikipedia article include? How do these materials affect the historical narrative of the article?
-- How do hyperlinks work and how do they affect the way a potential user reads and understands the article?
-- How would you characterise the types of reference works that Wikipedia users cite in the article? Do they use academic literature, journalism or other types of material? Are the cited works available online?
-- Do you detect any similarities or differences between the bibliographical references used in a Wikipedia article and the references used in academic books or articles?
+- Wie haben Wikipedia-Nutzende das historische Narrativ des Wikipedia-Artikels organisiert?
+- Welche Arten von Bild- und Tonmaterial (z.B. Graphiken, Videos, Abbildungen, Tondateien usw.) enthält der Wikipedia-Artikel? Wie beeinflussen diese Materialien das historische Narrativ des Artikels?
+- Wie funktionieren Querverweise, und wie beeinflussen sie die Art und Weise, in der ein potenzieller Leser den Artikel liest und versteht?
+- Wie würden Sie die Art von Nachschlagewerken charakterisieren, die Wikipedia-Nutzende im Artikel zitieren? Stützen sie sich auf wissenschaftliche Literatur, Journalismus oder andere Arten von Materialien? Sind die zitierten Werke online verfügbar?
+- Entdecken Sie Ähnlichkeiten oder Unterschiede zwischen den bibliografischen Angaben in einem Wikipedia-Artikel und den Angaben in wissenschaftlichen Abhandlungen oder Artikeln?
 
 <!-- section -->
 
 
-### Reading/viewing suggestions
+### Empfehlungen Lektüre/Video
 <!-- section-contents --> 
-Brown, Jeremy and Benedicte Melanie Olsen. “Teaching Tiananmen: Using Wikipedia in the Undergraduate Classroom to Learn How to Write about Recent History.” *Perspectives on History*, 1 April 2012 [https://www.historians.org/perspectives-article/teaching-tiananmen-using-wikipedia-in-the-undergraduate-classroom-to-learn-how-to-write-about-recent-history-april-2012/](https://www.historians.org/perspectives-article/teaching-tiananmen-using-wikipedia-in-the-undergraduate-classroom-to-learn-how-to-write-about-recent-history-april-2012/){:target="_blank"}
+Brown, Jeremy and Benedicte Melanie Olsen. „Teaching Tiananmen: Using Wikipedia in the Undergraduate Classroom to Learn How to Write about Recent History“. *Perspectives on History*, 1 April 2012 [https://www.historians.org/perspectives-article/teaching-tiananmen-using-wikipedia-in-the-undergraduate-classroom-to-learn-how-to-write-about-recent-history-april-2012/](https://www.historians.org/perspectives-article/teaching-tiananmen-using-wikipedia-in-the-undergraduate-classroom-to-learn-how-to-write-about-recent-history-april-2012/){:target="_blank"}
 
-Saxton, Martha. “Wikipedia and Women’s History: A Classroom Experience.” In *Writing History in the Digital Age*, edited by Jack Dougherty and Kristen Nawrotzki. University of Michigan Press, 2013. [https://www.jstor.org/stable/j.ctv65sx57.12](https://www.jstor.org/stable/j.ctv65sx57.12).
+Saxton, Martha. „Wikipedia and Women’s History: A Classroom Experience“. In *Writing History in the Digital Age*, edited by Jack Dougherty and Kristen Nawrotzki. University of Michigan Press, 2013. [https://www.jstor.org/stable/j.ctv65sx57.12](https://www.jstor.org/stable/j.ctv65sx57.12).
 
-Seligman, Amanda. “Teaching Wikipedia without Apologies” in *Writing History in the Digital Age*, edited by Jack Dougherty and Kristen Nawrotzki. University of Michigan Press, 2013. [https://www.jstor.org/stable/j.ctv65sx57.15](https://www.jstor.org/stable/j.ctv65sx57.15) 
+Seligman, Amanda. „Teaching Wikipedia without Apologies“ in *Writing History in the Digital Age*, edited by Jack Dougherty and Kristen Nawrotzki. University of Michigan Press, 2013. [https://www.jstor.org/stable/j.ctv65sx57.15](https://www.jstor.org/stable/j.ctv65sx57.15) 
 
 
 <!-- briefing-teacher -->

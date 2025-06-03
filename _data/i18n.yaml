@@ -161,6 +161,10 @@ reviewers:
   en: "reviewers: "
   fr: "relecteurs&nbsp;: "
   de: "Rezensenten: "
+translation_editors:
+  en: "translation editors: "
+  fr: "éditeurs de traduction&nbsp;: "
+  de: "Übersetzer: "
 list of editors:
   en: "editors: "
   fr: "éditeurs&nbsp;: "
@@ -240,6 +244,11 @@ issn:
   en: 2799-2764
   fr: 2989-7084
   de: 2989-7076
+
+copyright:
+  en: All contents are under <a href='https://creativecommons.org/licenses/by/4.0/' target='_blank'>CC-BY 4.0 license</a>
+  fr: Tous les contenus sont sous <a href='https://creativecommons.org/licenses/by/4.0/deed.fr' target='_blank'>license CC-BY 4.0</a>
+  de: Alle Inhalte stehen unter <a href='https://creativecommons.org/licenses/by/4.0/deed.de' target='_blank'>CC-BY 4.0 Lizenz</a>
 
 # contact form labels
 full-name: 

@@ -30,17 +30,9 @@ The C²DH reserves the right to modify this legal notice at any time. By using t
 {: .extra-spacing}
 ## Copyright
 
-All the information available on the website [https://ranke2.uni.lu](https://ranke2.uni.lu) is protected by copyright. Unless otherwise indicated, reproduction of texts from this site for non-commercial purposes and especially in educational situations is permitted, subject to the following three conditions being met:
+All content available on this website is protected by copyright law. Unless otherwise stated, this content is made available under a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
-- Free dissemination;
-- Respect for the integrity of the reproduced documents: no modification or alteration of any kind;
-- Explicit mention of the site [https://ranke2.uni.lu](https://ranke2.uni.lu) as a source and statement that the rights of reproduction are reserved and limited.
-
-Any exception to these rules shall be subject to the prior written approval of the University of Luxembourg and the author of the website content.
-
-Photographic credits: unless otherwise stated, the photographs on this website are protected by copyright and are the property of the University of Luxembourg.
-
-Content provided by the C²DH is not necessarily comprehensive, exhaustive, accurate or up to date. If, despite our best efforts, errors were to be found, the C²DH may not be held responsible. The C²DH would nevertheless appreciate being informed of any such errors.
+This means that you are free to share, adapt, and reuse the content on this website, including for commercial purposes, provided that you credit the original author appropriately, provide a link to the license, and indicate if any changes were made. You may not use the content in a way that suggests the author endorses or approves of your use.
 
 {: .extra-spacing}
 ## Policy regarding links
@@ -142,7 +134,7 @@ Do not track is a function that allows visitors to opt out from being tracked by
 
 [Firefox](https://support.mozilla.org/en-US/kb/how-do-i-turn-do-not-track-feature){:target="_blank"}
 
-[Internet Explorer](https://support.microsoft.com/en-us/hub/4230784/internet-explorer-help#ie=ie-11){:target="_blank"}
+[Microsoft Edge](https://support.microsoft.com/en-us/microsoft-edge/learn-about-tracking-prevention-in-microsoft-edge-5ac125e8-9b90-8d59-fa2c-7f2e9a44d869){:target="_blank"}
 
 [Chrome](https://support.google.com/chrome/answer/114836?hl=en&ref_topic=3421433){:target="_blank"}
 
