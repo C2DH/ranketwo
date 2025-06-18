@@ -104,7 +104,7 @@ Then try to answer the following questions:
 
 *On Wikipedia infrastructure*
 
-Apostolopoulos, Petros. “Discussing the Past: The Production of Historical Knowledge on Wikipedia.” (PhD, Raleigh, N.C., North Carolina State University, 2022), [https://repository.lib.ncsu.edu/items/e230ad0d-9a52-48ae-bef1-65791ebdc3e6](https://repository.lib.ncsu.edu/items/e230ad0d-9a52-48ae-bef1-65791ebdc3e6){:target="_blank"}. (Chapter 1)
+Apostolopoulos, Petros. 2024. *Producing and Debating History. Historical Knowledge on Wikipedia*. Berlin, Boston: De Gruyter Oldenbourg. Available open access at [https://doi.org/10.1515/9783111069586](https://doi.org/10.1515/9783111069586){:target="_blank"} (Chapter 1).
 
 Reagle, Joseph. *Good Faith Collaboration: The Culture of Wikipedia*. Massachusetts: The MIT Press, 2010. Available at: [https://direct.mit.edu/books/book/5341/Good-Faith-CollaborationThe-Culture-of-Wikipedia](https://direct.mit.edu/books/book/5341/Good-Faith-CollaborationThe-Culture-of-Wikipedia){:target="_blank"} (Chapters 3, 4, 6 & Conclusion)
 

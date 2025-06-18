@@ -70,7 +70,7 @@ After reading the above extracts, try to answer the following questions, even th
 ### Reading/viewing suggestions
 <!-- section-contents --> 
 
-Apostolopoulos, Petros. “Discussing the Past: The Production of Historical Knowledge on Wikipedia.” (PhD, Raleigh, N.C., North Carolina State University, 2022), [https://repository.lib.ncsu.edu/items/e230ad0d-9a52-48ae-bef1-65791ebdc3e6](https://repository.lib.ncsu.edu/items/e230ad0d-9a52-48ae-bef1-65791ebdc3e6){:target="_blank"}  (Chapters 2 & 3)
+Apostolopoulos, Petros. 2024. *Producing and Debating History. Historical Knowledge on Wikipedia*. Berlin, Boston: De Gruyter Oldenbourg. Available open access at [https://doi.org/10.1515/9783111069586](https://doi.org/10.1515/9783111069586){:target="_blank"} (Chapters 2 & 3)
 
 Ford, Heather. _Writing the Revolution. Wikipedia and the Survival of Facts in the Digital Age_. Cambridge, Massachusetts and London, England: MIT Press, 2022. (Chapters 2, 3 & 4)
 
