@@ -3,9 +3,9 @@ layout: unit
 layout-type: tutorial
 lang: en
 unit-id: guide-collecting-posts-communalytic
-link: /u/guide-collecting-posts-communalytic
-permalink: /u/guide-collecting-posts-communalytic
-title: A guide to collecting posts with Communalytic
+link: /u/guide-collecting-posts-communalytic/
+permalink: /u/guide-collecting-posts-communalytic/
+title: A guide to collecting social media posts with Communalytic
 requirements: [free text] 
 learning outcomes: [list of sentences]
 tags: 

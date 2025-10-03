@@ -3,8 +3,8 @@ layout: unit
 layout-type: tutorial
 lang: fr
 unit-id: guide-collecting-posts-communalytic
-link: /u/guide-collecting-posts-communalytic
-permalink: /fr/u/guide-collecting-posts-communalytic
+link: /u/guide-collecting-posts-communalytic/
+permalink: /fr/u/guide-collecting-posts-communalytic/
 title: A guide to collecting posts with Communalytic
 requirements: [free text] 
 learning outcomes: [list of sentences]
