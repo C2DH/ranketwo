@@ -22,7 +22,6 @@ research-phase: heuristics
 activity: web-scraping
 cover:
   url: /assets/images/guide-collecting-posts-communalytic/guide-communalytic-avatar.jpg
- 
 ---
 
 ## Introduction <a id="section0"></a> 
