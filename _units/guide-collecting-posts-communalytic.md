@@ -24,6 +24,10 @@ cover:
   url: /assets/images/guide-collecting-posts-communalytic/guide-communalytic-avatar.jpg
 ---
 
+Learn how to easily collect social media data with Communalytic software.
+
+<!-- more -->
+
 ## Introduction <a id="section0"></a> 
 
 The main learning goal of this tutorial is to enable historians and other humanists or social scientists to gather social media data that they can use as primary sources for research purposes or as teaching materials. It focuses on the [Bluesky](https://bsky.app) social media platform and shows how data can be extracted using [Communalytic](https://communalytic.org/) software, that also provides connectors to other social media platforms. The tutorial first introduces the audience to the [Bluesky application programming interface (API)](https://docs.bsky.app/), with a particular focus on its limitations. It then guides them through a first hashtag-based harvesting of Bluesky posts, with selected hashtags and examples that are relevant to historical memory. Finally, it outlines how the corpus of collected posts can be analysed with basic text mining operations and social network analysis.

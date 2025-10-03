@@ -24,6 +24,9 @@ cover:
   url: /assets/images/guide-collecting-posts-communalytic/guide-communalytic-avatar.jpg
 ---
 
+Learn how to easily collect social media data with Communalytic software.
+
+<!-- more -->
 
 ## Introduction <a id="section0"></a> 
 
