@@ -1,22 +1,29 @@
 ---
-layout: tutorial
+layout: unit
+layout-type: tutorial
 lang: en
-unit:
-slug: guide-collecting-tweets-netlytic
+unit-id: guide-collecting-posts-communalytic
+link: /u/guide-collecting-posts-communalytic
+permalink: /u/guide-collecting-posts-communalytic
 title: A guide to collecting posts with Communalytic
 requirements: [free text] 
 learning outcomes: [list of sentences]
 tags: 
-author: 
-- Frédéric Clavert
-- Hannah Smyth 
-date: 2025-07-11
-toc: true
-mediatype: web-social-media
+authors: 
+  - frederic-clavert
+  - hannah-smyth
+editors:
+  - sofia-papastamkou
+date: 2025-10-06
+toc: off
+mediatypes:
+  - web-social-media
 research-phase: heuristics
-activity: tbd 
+activity: web-scraping
+cover:
+  url: /assets/images/guide-collecting-posts-communalytic/guide-communalytic-avatar.jpg
+ 
 ---
-
 
 ## Introduction <a id="section0"></a> 
 
