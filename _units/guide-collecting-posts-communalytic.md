@@ -14,7 +14,7 @@ authors:
   - hannah-smyth
 editors:
   - sofia-papastamkou
-date: 2025-10-06
+publication_date: 2025-10-06
 toc: off
 mediatypes:
   - web-social-media
@@ -84,7 +84,7 @@ You should also consider the expected size of your corpus of posts. How big shou
 
 Some important points to understand to help you maximise your query:
 
-- The Bluesky API specifies certain search operators that work similarly to Boolean operators and are not case sensitive: you can search for exact matches by “putting statements inside double quotation marks”; if you want to search for posts containing all the words or phrases in your query, simply use a space between them, e.g. 1916 commemoration; the Boolean OR statement is acheieved by using a vertical line between words, e.g. commemoration | remembrance. For example, if I want to find posts about the commemoration of the women involved in the 1916 Easter rebellion in Ireland, “women centenary” would not be specific enough; a better search query would be women centenary #1916rising | “easter rising”. [See more about writing Bluesky search queries here](https://communalytic.org/docs/bluesky-historical-posts-data-collector/#step-2nbsp).
+- You can create complex queries using keyword and hashtag combinations. The Bluesky API specifies certain search operators that work similarly to Boolean operators and are not case sensitive: you can search for exact matches by “putting statements inside double quotation marks”; if you want to search for posts containing all the words or phrases in your query, simply use a space between them, e.g. 1916 commemoration; the Boolean OR statement is acheieved by using a vertical line between words, e.g. commemoration | remembrance. For example, if I want to find posts about the commemoration of the women involved in the 1916 Easter rebellion in Ireland, “women centenary” would not be specific enough; a better search query would be women centenary #1916rising | “easter rising”. [See more about writing Bluesky search queries here](https://communalytic.org/docs/bluesky-historical-posts-data-collector/#step-2nbsp).
 - Depending on the topic you are working on, it may not suffice to follow a small set of hashtags to build your corpus. Topics like #Trump or #ukrainewar produce a large number of posts a day; however, with some exceptions, commemorations generate far fewer posts. If your preferred topic is likely to produce a very small corpus which might hinder a meaningful analysis, you may need to use keywords in addition to hashtags. This type of query can become complex, but still you can test it using the Bluesky search bar to make sure it returns the expected results before implementing it in Communalytic. To create the dataset in Communalytic, click on the “Start Data Collection” button. A new page will then be loaded while the data is being captured.
 - You can build your corpus over a few days if necessary. You may, however, need to anticipate a major/annual commemoration or historic event. Some examples of annual “memorial” hashtags include: #WW1 #LestWeForget #Bloomsday #ArmisticeDay.
 - If there are no posts that match your query, you will receive an error message.
