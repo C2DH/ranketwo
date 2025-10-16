@@ -17,7 +17,7 @@ outcomes:
 order: 4
 ---
 
-The practice of sending and receiving letters is decreasing considerably. While it seems to have been substituted by email correspondence, there are significant differences with regard to the technologies that are applied and the conventions on how the message should be worded. Letters and emails from people in positions of political power are of special interest to the general public, as they reveal what goes on behind the scenes. In this assignment you will compare the emails by Hillary Clinton, which she was forced to disclose, with the digitised correspondence of former British Prime Minister Margaret Thatcher, which was published to honour her political legacy. Since both politicians operated in the field of international relations, their correspondence can play a key part in writing the history of their era. But as you will see, the context and options for communication in 1980 were quite different from those in 2008.  
+The practice of sending and receiving letters is decreasing considerably. While it seems to have been substituted by email correspondence, there are significant differences with regard to the technologies that are applied and the conventions on how the message should be worded. Letters and emails from people in positions of political power are of special interest to the general public, as they reveal what goes on behind the scenes. In this assignment you will compare the emails by Hillary Clinton, which she was forced to disclose, with the digitised correspondence of former British Prime Minister Margaret Thatcher. Since both politicians operated in the field of international relations, their correspondence can play a key part in writing the history of their era. But as you will see, the context and options for communication in 1980 were quite different from those in 2010.  
 
 <!-- more -->
 
@@ -26,8 +26,17 @@ The practice of sending and receiving letters is decreasing considerably. While 
 ### Instructions
 <!-- section-contents -->
 
-- Have a look at this email exchange between former [US Secretary of State Hillary Clinton and Cherie Blair, the wife of former UK Prime Minister Tony Blair](https://wikileaks.org/clinton-emails/emailid/23){:target="_blank"}, which refers to relations in Qatar.
-- Compare it with this message written in 1980 by [former UK Prime Minister Margaret Thatcher](https://c59574e9047e61130f13-3f71d0fe2b653c4f00f32175760e96e7.ssl.cf1.rackcdn.com/801222%20MT%20to%20Zhaid%20%28529-163%29.pdf){:target="_blank"} to the Crown Prince of Qatar.
+- See the 2010 email exchange between former U.S. Secretary of State Hillary Clinton and Cherie Blair, wife of former UK Prime Minister Tony Blair, which discusses relations in Qatar, [available on the WikiLeaks website](https://wikileaks.org/clinton-emails/emailid/23){:target="_blank"}. 
+- Compare it with the 1980 letter from former UK Prime Minister Margaret Thatcher to Sheikh Zayed of Qatar, [available online at Margaret Thatcher Foundation Archive](https://www.margaretthatcher.org/document/126441){:target="_blank"}.
+
+
+#### References of the documents
+WikiLeaks. Hillary Clinton Email Archive. Hillary Clinton, Email to Cherie Blair. 30 June 2010. [URL](https://wikileaks.org/clinton-emails/emailid/23){:target="_blank"}  
+
+The National Archives (UK). PREM 19/529, file 163 (T245A/80). Letter from Margaret Thatcher to Sheikh Zaid of Qatar (Hurd's visit to the UAE) [arms sales]. 20 December 1980. Declassified in 2011; [available online](https://archive.margaretthatcher.org/doc03/801222%20MT%20to%20Zhaid%20%28529-163%29.pdf){:target="_blank"} at Margaret Thatcher Foundation Archive. [URL with full reference](https://www.margaretthatcher.org/document/126441){:target="_blank"}
+
+ 
+
 
 <!-- section -->
 
