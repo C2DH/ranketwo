@@ -16,7 +16,7 @@ outcomes:
 order: 4
 ---
 
-Das Versenden und Empfangen von Briefen ist heutzutage stark rückläufig. Während diese Praxis scheinbar durch die Korrespondenz per E-Mail verdrängt wurde, unterscheiden sich die angewandten Technologien und die beim Verfassen von Nachrichten zu beachtenden Regeln deutlich. Briefe und E-Mails politischer Amtsträger sind für die allgemeine Öffentlichkeit von besonderem Interesse, weil sie einen Blick hinter die Kulissen bieten. In dieser Aufgabe vergleichen Sie die E-Mails von Hillary Clinton (die sie offenlegen musste) mit der digitalisierten Korrespondenz der früheren britischen Premierministerin Margaret Thatcher, die zur Würdigung ihres politischen Erbes veröffentlicht wurde. Da beide Politiker im Bereich der internationalen Beziehungen tätig waren, kann ihre Korrespondenz wesentlich dazu beitragen, die Geschichte ihrer Ära darzustellen. Wie Sie feststellen werden, waren Kontext und Möglichkeiten im Kommunikationsbereich 1980 ganz anders beschaffen als 2008. 
+Das Versenden und Empfangen von Briefen ist heutzutage stark rückläufig. Während diese Praxis scheinbar durch die Korrespondenz per E-Mail verdrängt wurde, unterscheiden sich die angewandten Technologien und die beim Verfassen von Nachrichten zu beachtenden Regeln deutlich. Briefe und E-Mails politischer Amtsträger sind für die allgemeine Öffentlichkeit von besonderem Interesse, weil sie einen Blick hinter die Kulissen bieten. In dieser Aufgabe vergleichen Sie die E-Mails von Hillary Clinton (die sie offenlegen musste) mit der digitalisierten Korrespondenz der früheren britischen Premierministerin Margaret Thatcher, die zur Würdigung ihres politischen Erbes veröffentlicht wurde. Da beide Politiker im Bereich der internationalen Beziehungen tätig waren, kann ihre Korrespondenz wesentlich dazu beitragen, die Geschichte ihrer Ära darzustellen. Wie Sie feststellen werden, waren Kontext und Möglichkeiten im Kommunikationsbereich 1980 ganz anders beschaffen als 2010. 
 
 <!-- more -->
 
@@ -25,8 +25,13 @@ Das Versenden und Empfangen von Briefen ist heutzutage stark rückläufig. Währ
 ### Anweisungen
 <!-- section-contents -->
 
-- Sehen Sie sich diesen E-Mail-Austausch zwischen der ehemaligen [US-Außenministerin Hillary Clinton und Cherie Blair, der Frau des ehemaligen britischen Premierministers Tony Blair](https://wikileaks.org/clinton-emails/emailid/23){:target="_blank"} an, in dem es um die Beziehungen zu Qatar geht.
-- Vergleichen Sie die E-Mails mit diesem 1980 von der [ehemaligen britischen Premierministerin Margaret Thatcher](https://c59574e9047e61130f13-3f71d0fe2b653c4f00f32175760e96e7.ssl.cf1.rackcdn.com/801222%20MT%20to%20Zhaid%20%28529-163%29.pdf){:target="_blank"} an den Kronprinzen von Qatar geschriebenen Brief.
+* Siehe den E-Mail-Austausch aus dem Jahr 2010 zwischen der ehemaligen US-Außenministerin Hillary Clinton und Cherie Blair, der Ehefrau des ehemaligen britischen Premierministers Tony Blair, der die Beziehungen zu Katar behandelt, [verfügbar auf der WikiLeaks-Website](https://wikileaks.org/clinton-emails/emailid/23){:target="_blank"}.
+* Vergleichen Sie dies mit dem Schreiben von 1980 der ehemaligen britischen Premierministerin Margaret Thatcher an Scheich Zayed von Katar, [online zugänglich im Margaret Thatcher Foundation Archive](https://www.margaretthatcher.org/document/126441){:target="_blank"}.
+
+#### Quellenangaben der Dokumente
+WikiLeaks. *Hillary Clinton Email Archive.* Hillary Clinton, E-Mail an Cherie Blair. 30. Juni 2010. [URL](https://wikileaks.org/clinton-emails/emailid/23){:target="_blank"}
+
+The National Archives (Vereinigtes Königreich). *PREM 19/529, Akte 163 (T245A/80).* Schreiben von Margaret Thatcher an Scheich Zayed von Katar (Hurds Besuch in den VAE) [Waffenverkäufe]. 20. Dezember 1980. 2011 freigegeben; [online verfügbar](https://archive.margaretthatcher.org/doc03/801222%20MT%20to%20Zhaid%20%28529-163%29.pdf){:target="_blank"} im Margaret Thatcher Foundation Archive. [URL mit vollständigem Nachweis](https://www.margaretthatcher.org/document/126441){:target="_blank"}
  
 <!-- section -->
 
