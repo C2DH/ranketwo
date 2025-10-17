@@ -17,7 +17,7 @@ outcomes:
 order: 4
 ---
 
-L’envoi et la réception de lettres sont des pratiques qui se font de plus en plus rares. Alors qu’elles semblent avoir été remplacées par la correspondance électronique, il existe des différences importantes quant aux technologies utilisées et aux conventions de rédaction des messages. Les lettres et e-mails des personnes en position de pouvoir politique sont particulièrement intéressants pour le grand public, car ils révèlent ce qui se passe en coulisses. Dans cet exercice, vous comparerez les e-mails d’Hillary Clinton, qu’elle a été obligée de divulguer, et la correspondance numérisée de l’ancien Premier ministre britannique, Margaret Thatcher, publiée pour rendre hommage à son héritage politique. Ces deux femmes politiques ayant joué un rôle important dans les relations internationales, leur correspondance a participé à l’écriture de l’histoire de leur temps. Mais, comme vous le verrez, le contexte et les options de communication en 1980 étaient assez différents de ceux de 2008.
+L’envoi et la réception de lettres sont des pratiques qui se font de plus en plus rares. Alors qu’elles semblent avoir été remplacées par la correspondance électronique, il existe des différences importantes quant aux technologies utilisées et aux conventions de rédaction des messages. Les lettres et e-mails des personnes en position de pouvoir politique sont particulièrement intéressants pour le grand public, car ils révèlent ce qui se passe en coulisses. Dans cet exercice, vous comparerez les e-mails d’Hillary Clinton, qu’elle a été obligée de divulguer, et la correspondance numérisée de l’ancien Premier ministre britannique, Margaret Thatcher, publiée pour rendre hommage à son héritage politique. Ces deux femmes politiques ayant joué un rôle important dans les relations internationales, leur correspondance a participé à l’écriture de l’histoire de leur temps. Mais, comme vous le verrez, le contexte et les options de communication en 1980 étaient assez différents de ceux de 2010.
 
 <!-- more -->
 
@@ -26,8 +26,15 @@ L’envoi et la réception de lettres sont des pratiques qui se font de plus en 
 ### Instructions
 <!-- section-contents -->
 
-- Lisez cet échange d’e-mails entre l’ancienne [secrétaire d’État américaine, Hillary Clinton, et Cherie Blair, l’épouse de l’ancien Premier ministre du Royaume-Uni, Tony Blair](https://wikileaks.org/clinton-emails/emailid/23){:target="_blank"}, qui concerne des relations au Qatar.
-- Comparez-le au message rédigé en 1980 par [l’ancien Premier ministre du Royaume-Uni, Margaret Thatcher](https://c59574e9047e61130f13-3f71d0fe2b653c4f00f32175760e96e7.ssl.cf1.rackcdn.com/801222%20MT%20to%20Zhaid%20%28529-163%29.pdf){:target="_blank"} à l’attention du Prince héritier du Qatar.
+* Consultez l’échange de courriels de 2010 entre l’ancienne secrétaire d’État des États-Unis Hillary Clinton et Cherie Blair, épouse de l’ancien premier ministre britannique Tony Blair, qui évoque les relations avec le Qatar, [disponible sur le site Web de WikiLeaks](https://wikileaks.org/clinton-emails/emailid/23){:target="_blank"}.
+* Comparez-le à la lettre de 1980 de l’ancienne première ministre britannique, Margaret Thatcher, adressée au cheikh Zayed du Qatar, [disponible en ligne sur le site de l'archive en ligne de la fondation Margaret Thatcher](https://www.margaretthatcher.org/document/126441){:target="_blank"}.
+
+#### Références des documents
+
+WikiLeaks. *Hillary Clinton Email Archive.* Hillary Clinton, courriel à Cherie Blair. 30 juin 2010. [URL](https://wikileaks.org/clinton-emails/emailid/23){:target="_blank"}
+
+The National Archives (Royaume-Uni). *PREM 19/529, dossier 163 (T245A/80).* Lettre de Margaret Thatcher au cheikh Zayed du Qatar (visite de Hurd aux Émirats arabes unis) [vente d’armes]. 20 décembre 1980. Déclassifié en 2011 ; [disponible en ligne](https://archive.margaretthatcher.org/doc03/801222%20MT%20to%20Zhaid%20%28529-163%29.pdf){:target="_blank"} sur le site de la Margaret Thatcher Foundation Archive. [URL avec référence complète](https://www.margaretthatcher.org/document/126441){:target="_blank"}
+
 
 <!-- section -->
 
