@@ -34,9 +34,9 @@ Sehen Sie sich eine archivierte Version der allerersten Website an, die 1991 von
 Das Live-Web besteht aus allen Webseiten, auf die Sie in diesem Moment zugreifen können. Wenn Sie die URL `https://www.google.com`, die Startseite der derzeit beliebtesten Suchmaschine weltweit, in Ihren Web-Browser eingeben, öffnet sich die Seite und Sie können sofort auf die Suchmaschine zugreifen. Dies unterscheidet sich vom **archivierten Web**, das aus Webseiten besteht, auf die Sie nicht mehr zugreifen können, deren Informationen aber in Form früherer Versionen dieser Webseiten gespeichert wurden. Ohne das **archivierte Web** bestünde die Gefahr, dass Web-Inhalte völlig aus der zugänglichen Geschichtsschreibung verschwinden. Deshalb ist es für den Beruf des Historikers von entscheidender Bedeutung zu wissen, wie man mit Web-Archiven umgeht und wie man sicherstellt, dass die Web-Inhalte bewahrt bleiben.
 
 Um einen ersten Einblick in Web-Archive zu erhalten, lesen Sie sich zunächst bitte drei Abschnitte aus der Veröffentlichung 
- [*Using Web Archives in Research: An Introduction* by Janne Nielsen (Aarhus: NetLab, 2016)](https://dighumlab.org/wp-content/uploads/2017/06/Nielsen_Using_Web_Archives_in_Research.pdf)
+ [*Using Web Archives in Research: An Introduction* by Janne Nielsen (Aarhus: NetLab, 2016)](https://digital.library.unt.edu/ark:/67531/metadc1743080/)
 
-[![nielsen](../../../assets/images/nielsen.png "nielsen")](https://dighumlab.org/wp-content/uploads/2017/06/Nielsen_Using_Web_Archives_in_Research.pdf){:target="_blank"}
+[![nielsen](../../../assets/images/nielsen.png "nielsen")](https://digital.library.unt.edu/ark:/67531/metadc1743080/){:target="_blank"}
 
 Answer the questions below:
 1.	Abschnitt 1 „Introduction“ (S. 6–10)
@@ -182,7 +182,7 @@ Wäre die Wayback Machine für Sie nützlich, um herauszufinden, ob sich der Cha
 ### Empfehlungen Lektüre/Video
 <!-- section-contents -->
 
--	Nielsen, Janne. *Using Web Archives in Research: An Introduction*. Aarhus: NetLab, 2016. [E-book](https://dighumlab.org/wp-content/uploads/2017/06/Nielsen_Using_Web_Archives_in_Research.pdf)
+-	Nielsen, Janne. *Using Web Archives in Research: An Introduction*. Aarhus: NetLab, 2016. [E-book](../../../assets/pdf/Nielsen_Using_Web_Archives_in_Research.pdf)
 -	Brügger, Niels, and Ralph Schroeder, eds. *The Web as History: Using Web Archives to Understand the Past and the Present.* London: UCL Press, 2017. [E-book](https://discovery.ucl.ac.uk/id/eprint/1542998/1/The-Web-as-History.pdf)
 -	Huss, Nick. “How Many Websites Are There Around The World?” Sateefy. ? Sateefy. Zuletzt geändert am 27. November 2022. [Website](https://siteefy.com/how-many-websites-are-there/)
 -	Musiani, Francesca, Camille Paloque-Bergès, Valérie Schafer, and Benjamin G. Thierry. *Qu’est-ce qu’une archive du Web?* et al. Marseille: OpenEdition, 2019. [E-book](https://books.openedition.org/oep/8713)
