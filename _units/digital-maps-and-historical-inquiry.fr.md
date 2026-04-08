@@ -22,10 +22,10 @@ editors:
 reviewers:
  - lauren-coetzee
  - julius-wilm
-lang: en
+lang: fr
 unit_id: digital-maps-and-historical-inquiry
 link: /u/digital-maps-and-historical-inquiry/
-permalink: /u/digital-maps-and-historical-inquiry/
+permalink: /fr//u/digital-maps-and-historical-inquiry/
 audience: 
 components:
   small: animation
