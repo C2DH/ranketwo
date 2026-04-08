@@ -34,9 +34,9 @@ See an archived version of the very first website ever created in 1991 by Tim Be
 The live web consists of any web page or website that you can access *at this very moment*. If you type the URL `https://www.google.com`, the home page of what is currently the world’s most popular search engine, into your web browser, the page will appear and you can immediately access the search engine. This is different from the **archived web**, which consists of web pages or websites that you can no longer access but whose information has been saved in the form of past versions of that web page or website. Without the **archived web** we would run the risk of web content disappearing from the accessible historical record entirely. This is why knowing both how to deal with web archives and how to ensure that web content is preserved are key for the historian’s profession.
 
 For a basic understanding of what web archives are, start by reading three sections from the publication
- [*Using Web Archives in Research: An Introduction* by Janne Nielsen (Aarhus: NetLab, 2016)](https://dighumlab.org/wp-content/uploads/2017/06/Nielsen_Using_Web_Archives_in_Research.pdf)
+ [*Using Web Archives in Research: An Introduction* by Janne Nielsen (Aarhus: NetLab, 2016)](https://digital.library.unt.edu/ark:/67531/metadc1743080/)
 
-[![nielsen](../../assets/images/nielsen.png "nielsen")](https://dighumlab.org/wp-content/uploads/2017/06/Nielsen_Using_Web_Archives_in_Research.pdf){:target="_blank"}
+[![nielsen](../../assets/images/nielsen.png "nielsen")](https://digital.library.unt.edu/ark:/67531/metadc1743080/){:target="_blank"}
 
 Answer the questions below:
 1.	Section 1 “Introduction” (pp. 6-10)
