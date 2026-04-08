@@ -33,9 +33,9 @@ Voyez ici une version archivée du tout premier site Web, créé en 1991 par Tim
 Le Web vivant se compose de toute page ou tout site Web auquel on peut accéder en ce moment même. Si, dans votre navigateur Web, vous tapez l’URL `https://www.google.com`, la page d’accueil de ce qui est actuellement le moteur de recherche le plus populaire du monde s’affiche et vous pouvez immédiatement y accéder. Il en va autrement pour le **Web archivé**, qui consiste en pages Web ou sites Web auxquels on ne peut plus accéder mais dont les informations ont été sauvegardées sous la forme de versions passées de ces pages ou sites Web. Sans le **Web archivé**, nous risquerions de voir des contenus Web disparaître complètement des registres historiques accessibles. C’est pourquoi il est crucial pour le métier d’historien(ne) de savoir comment gérer les archives Web et préserver les contenus Web.
 Pour comprendre les bases de ce que sont les archives Web, commencez par lire les trois sections que nous recommandons de la publication suivante&#x202F;:
 
-Janne Nielsen, [*Using Web Archives in Research: An Introduction* (Aarhus: NetLab, 2016)](https://dighumlab.org/wp-content/uploads/2017/06/Nielsen_Using_Web_Archives_in_Research.pdf)
+Janne Nielsen, [*Using Web Archives in Research: An Introduction* (Aarhus: NetLab, 2016)](https://digital.library.unt.edu/ark:/67531/metadc1743080/)
 
-[![nielsen](/../../../assets/images/nielsen.png "nielsen")](https://dighumlab.org/wp-content/uploads/2017/06/Nielsen_Using_Web_Archives_in_Research.pdf){:target="_blank"}
+[![nielsen](/../../../assets/images/nielsen.png "nielsen")](https://digital.library.unt.edu/ark:/67531/metadc1743080/){:target="_blank"}
 
 1.  Section 1 «&#x202F;Introduction&#x202F;» (pp. 6 à 10)
 2.  Section 2.1 «&#x202F;Main Types of Web Archiving&#x202F;» (pp. 11 à 12)
