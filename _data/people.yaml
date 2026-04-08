@@ -82,5 +82,12 @@
   url: https://www.uni.lu/c2dh-en/people/lauren-coetzee/
 - slug: julius-wilm
   id: julius-wilm
-  name: Julius Wilm     
+  name: Julius Wilm
+- slug: stefan-krebs
+  id: stefan-krebs
+  name: Stefan Krebs 
+  url: https://www.uni.lu/c2dh-en/people/stefan-krebs/
+- slug: werner-tschacher 
+  id: werner-tschacher
+  name: Werner Tschacher     
 
