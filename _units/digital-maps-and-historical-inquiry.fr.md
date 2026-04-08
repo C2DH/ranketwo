@@ -1,5 +1,5 @@
 ---
-title: "Digital maps and historical inquiry: critical approaches"
+title: "Cartographie numérique et enquête historique: approches critiques"
 layout: unit
 date: 2026-04-08
 publication_date: 2026-04-08
@@ -25,7 +25,7 @@ reviewers:
 lang: fr
 unit_id: digital-maps-and-historical-inquiry
 link: /u/digital-maps-and-historical-inquiry/
-permalink: /fr//u/digital-maps-and-historical-inquiry/
+permalink: /fr/u/digital-maps-and-historical-inquiry/
 audience: 
 components:
   small: animation
