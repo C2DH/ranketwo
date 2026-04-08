@@ -25,7 +25,7 @@ reviewers:
 lang: de
 unit_id: digital-maps-and-historical-inquiry
 link: /u/digital-maps-and-historical-inquiry/
-permalink: /de//u/digital-maps-and-historical-inquiry/
+permalink: /de/u/digital-maps-and-historical-inquiry/
 audience: 
 components:
   small: animation
