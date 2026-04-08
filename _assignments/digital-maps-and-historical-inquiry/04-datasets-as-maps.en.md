@@ -2,14 +2,14 @@
 layout: assignment
 unit: digital-maps-and-historical-inquiry 
 lang: en
-title: "Accessing maps in the digital age"
+title: "Datasets as maps: exploring historical Geographical information systems"
 cover:
 documents:
   - 
 tags:
 outcomes: 
   -  
-order: 1
+order: 4
 ---
 [Intro]
 
@@ -17,21 +17,21 @@ order: 1
 
 <!-- briefing-student -->
 
-### 1.a  |  mins
+### 4.a  |  mins
 <!-- section-contents -->
 
 
 
 <!-- section -->
 
-### 1.b  |  mins
+### 4.b  |  mins
 <!-- section-contents -->
 
 
 
 <!-- section -->
 
-### 1.c  |  mins
+### 4.c  |  mins
 <!-- section-contents -->
 
 
