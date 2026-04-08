@@ -181,7 +181,7 @@ Admettons que vous souhaitez enquêter sur la nature des contenus téléversés 
 ### Suggestions de lectures/vidéos
 <!-- section-contents -->
 
--	Nielsen, Janne. *Using Web Archives in Research: An Introduction*. Aarhus: NetLab, 2016. [Livre électronique](https://dighumlab.org/wp-content/uploads/2017/06/Nielsen_Using_Web_Archives_in_Research.pdf)
+-	Nielsen, Janne. *Using Web Archives in Research: An Introduction*. Aarhus: NetLab, 2016. [Livre électronique](../../../assets/pdf/Nielsen_Using_Web_Archives_in_Research.pdf)
 -	Brügger, Niels, and Ralph Schroeder, eds. *The Web as History: Using Web Archives to Understand the Past and the Present.* London: UCL Press, 2017. [Livre électronique](https://discovery.ucl.ac.uk/id/eprint/1542998/1/The-Web-as-History.pdf)
 -	Huss, Nick. “How Many Websites Are There Around The World?” Sateefy. Last modified November 27, 2022. [Site web](https://siteefy.com/how-many-websites-are-there/)
 -	Musiani, Francesca, Camille Paloque-Bergès, Valérie Schafer et Benjamin G. Thierry. *Qu’est-ce qu’une archive du Web?* Marseille: OpenEdition, 2019. [Livre électronique](https://books.openedition.org/oep/8713)
