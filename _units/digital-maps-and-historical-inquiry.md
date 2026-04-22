@@ -31,7 +31,7 @@ components:
   small: animation
   medium: animation + 5 assignments
 cover:
-  url: 
+  url: /assets/images/digital-maps-and-historical-inquiry/avatar.jpg
   position: center
   caption: 
 order: 
