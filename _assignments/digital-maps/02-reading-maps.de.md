@@ -1,6 +1,6 @@
 ---
 layout: assignment
-unit: digital-maps-and-historical-inquiry 
+unit: digital-maps 
 lang: de
 title: "Learning to read the stories maps tell"
 cover:

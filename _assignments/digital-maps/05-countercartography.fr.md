@@ -1,6 +1,6 @@
 ---
 layout: assignment
-unit: digital-maps-and-historical-inquiry 
+unit: digital-maps 
 lang: fr
 title: "Counter-cartography: shaking up the idea of a “scientific”"
 cover:

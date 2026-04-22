@@ -1,6 +1,6 @@
 ---
 layout: assignment
-unit: digital-maps-and-historical-inquiry 
+unit: digital-maps 
 lang: fr
 title: "Datasets as maps: exploring historical Geographical information systems"
 cover:
