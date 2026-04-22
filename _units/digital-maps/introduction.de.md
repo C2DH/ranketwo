@@ -1,7 +1,7 @@
 ---
 title: Einleitung
 type: introduction
-parent: digital-maps-and-historical-inquiry
+parent: digital-maps
 tags:
 research-phase: hermeneutics
 activities: 
