@@ -39,4 +39,4 @@ og:
   description: 
 ---
 
- A lesson on applying source criticism to digital maps for a historical analysis.
+ Appliquer la critique des sources aux cartes numériques et SIG à des fins d'analyse historique.
