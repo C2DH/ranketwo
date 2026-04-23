@@ -12,11 +12,6 @@ mediatypes:
 lang: en
 ---
 
- 
 
-<!-- more -->
-
-### More about the lesson
-<!-- section-contents -->
 
 

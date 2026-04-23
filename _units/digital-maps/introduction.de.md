@@ -14,10 +14,4 @@ lang: de
 
 
 
-<!-- more -->
-
-### Mehr über die Lektion
-<!-- section-contents -->
-
-
 

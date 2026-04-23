@@ -14,10 +14,5 @@ lang: fr
 
 
 
-<!-- more -->
-
-### En savoir plus sur la leçon
-<!-- section-contents -->
-
 
 
