@@ -2,7 +2,7 @@
 layout: assignment
 unit: digital-maps 
 lang: fr
-title: "Counter-cartography: shaking up the idea of a “scientific”"
+title: "Counter-cartography: shaking up the idea of a “scientific” map"
 cover:
 documents:
   - 
