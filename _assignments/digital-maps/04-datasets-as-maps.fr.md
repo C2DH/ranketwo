@@ -2,13 +2,14 @@
 layout: assignment
 unit: digital-maps 
 lang: fr
-title: "Datasets as maps: exploring historical Geographical information systems"
+title: "Datasets as maps: exploring historical geographic information systems (GIS)"
 cover:
 documents:
   - 
 tags:
 outcomes: 
-  -  
+  - Understand GIS as layered spatial information and explore the nature of its datasets
+  - Critically engage with local history using geospatial data, applying historical data criticism 
 order: 4
 ---
 [Intro]
