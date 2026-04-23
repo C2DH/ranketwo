@@ -237,7 +237,7 @@ Choices
 
 <!-- section -->
 
-### 2.e  |  mins
+### 2.e  Visualising data |  mins
 <!-- section-contents -->
 *By Sofia Papastamkou*
 
