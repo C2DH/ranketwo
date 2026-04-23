@@ -14,6 +14,9 @@ layout: default
 {% assign videolectures = components | where: "type",
 "videolecture" %} 
 
+{% assign methodologies = components | where: "type",
+"methodology" %} 
+
 {% assign workshop = components | where: "type", "workshop" %}
 
 {% assign workshopContent = site.workshops | where: "unit", page.unit_id |
@@ -167,7 +170,8 @@ include captures/cover_url %}
 
 {% for component in clips %} {% include component.html %} {% endfor %} {% for
 component in interactives %} {% include component.html %} {% endfor %} {% for
-component in videolectures %} {% include component.html %} {% endfor %} {% if
+component in videolectures %} {% include component.html %} {% endfor %} {% for
+component in methodologies %} {% include component.html %} {% endfor %} {% if
 assignments.size %}
 <a class="anchor" id="c-assignments"></a>
 {% unless assignments.size == 0 %}
