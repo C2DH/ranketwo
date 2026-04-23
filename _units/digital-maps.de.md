@@ -23,9 +23,9 @@ reviewers:
  - lauren-coetzee
  - julius-wilm
 lang: de
-unit_id: digital-maps-and-historical-inquiry
-link: /u/digital-maps-and-historical-inquiry/
-permalink: /de/u/digital-maps-and-historical-inquiry/
+unit_id: digital-maps
+link: /u/digital-maps/
+permalink: /de/u/digital-maps/
 audience: 
 components:
   small: animation

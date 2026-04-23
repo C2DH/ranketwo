@@ -23,15 +23,15 @@ reviewers:
  - lauren-coetzee
  - julius-wilm
 lang: en
-unit_id: digital-maps-and-historical-inquiry
-link: /u/digital-maps-and-historical-inquiry/
-permalink: /u/digital-maps-and-historical-inquiry/
+unit_id: digital-maps
+link: /u/digital-maps/
+permalink: /u/digital-maps/
 audience: 
 components:
   small: animation
   medium: animation + 5 assignments
 cover:
-  url: /assets/images/digital-maps-and-historical-inquiry/avatar.jpg
+  url: /assets/images/digital-maps/avatar.jpg
   position: center
   caption: 
 order: 
