@@ -57,7 +57,8 @@ You can shape your own checklist as you go through this lesson by adding element
 Fig. 
 
 
-| **1. PERSPECTIVE** | **2. AUDIENCE & PURPOSE** | **3. CHOICES** | **4. KNOWLEDGE & CHANGE** |
+{:.table.border.table-sm.text-sm.text-bold-highlight}
+| 1. PERSPECTIVE | 2. AUDIENCE & PURPOSE | 3. CHOICES | 4. KNOWLEDGE & CHANGE |
 |-------------------|--------------------------|----------------|---------------------------|
 | • Mapmaker (who? where?) | • Utility (what for?) | • What is shown? | • Scientific knowledge at the time |
 | • Geography (scope?) | • Argument (message?) | • What is missing? | • Available technologies |
@@ -102,9 +103,7 @@ Let us take the example of world maps. Observe the three maps below.
 
 * Official National Atlas of India in. Government of India, Ministry of Education and Scientific Research (Hg.): National Atlas of India (preliminary Edition), ed. by. S. P. Chatterjee, Calcutta/ Dehradun 1957
 
-
-
-![Principal Routes of the World in Kaiseikwan's Standard Atlas of Japan, 1925, Tōkyō Kaiseikan](/assets/images/maps-as-historical-sources/kaiseikan-standard-atlas-of-japan-1925-map-24-routes-world.jpg "Map 24: Principal Routes of the World in Kaiseikwan's standard atlas of Japan, 1925, Tōkyō Kaiseikan (Kaiseikan mohan Nihon chizu: Monbushō kenteizumi : shihan gakkō, chūgakkō, kōtō jogakkō chirikayō). Public Domain")
+[[iiif kaiseikan-standard-atlas-of-japan-1925-map-24-routes-world "Map 24: Principal Routes of the World in Kaiseikwan's standard atlas of Japan, 1925, Tōkyō Kaiseikan (Kaiseikan mohan Nihon chizu: Monbushō kenteizumi : shihan gakkō, chūgakkō, kōtō jogakkō chirikayō). Public Domain"]]
 
 ![German School-Atlas, World Map, 1932](/assets/images/maps-as-historical-sources/diercke-1932-schulatlas-s-17.jpg "Lange, Henry und Carl Diercke, Schulatlas (mit Karte zur Heimatkunde), Braunschweig: Westermann, 1932")  
 
