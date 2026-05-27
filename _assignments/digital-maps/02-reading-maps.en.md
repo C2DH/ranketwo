@@ -102,7 +102,7 @@ Let us take the example of world maps. Observe the three maps below.
 
 * Official National Atlas of India in. Government of India, Ministry of Education and Scientific Research (Hg.): National Atlas of India (preliminary Edition), ed. by. S. P. Chatterjee, Calcutta/ Dehradun 1957
 
-
+[[iiif kaiseikan-standard-atlas-of-japan-1925-map-24-routes-world "Map 24: Principal Routes of the World in Kaiseikwan's standard atlas of Japan, 1925, Tōkyō Kaiseikan (Kaiseikan mohan Nihon chizu: Monbushō kenteizumi : shihan gakkō, chūgakkō, kōtō jogakkō chirikayō). Public Domain"]]
 
 ![Principal Routes of the World in Kaiseikwan's Standard Atlas of Japan, 1925, Tōkyō Kaiseikan](/assets/images/maps-as-historical-sources/kaiseikan-standard-atlas-of-japan-1925-map-24-routes-world.jpg "Map 24: Principal Routes of the World in Kaiseikwan's standard atlas of Japan, 1925, Tōkyō Kaiseikan (Kaiseikan mohan Nihon chizu: Monbushō kenteizumi : shihan gakkō, chūgakkō, kōtō jogakkō chirikayō). Public Domain")
 
