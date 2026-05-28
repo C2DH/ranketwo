@@ -106,12 +106,16 @@ The authors of the dataset describe the preparation of data and the sources from
 
 Figure : Visualisation of a historical dataset, Imperiia Project, in QGIS – the Kingdom of Poland as part of the Russian Empire in the 19th century.
 
+[[iiif abb-5-1-qgis-imperiia-project-02 "Visualisation of a historical dataset, Imperiia project, in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c."]]
+
 ![Kingdom of Poland as part of the Russian Empire in the 19th c., visualisation of a dataset obtained in QGIS](/assets/images/maps-as-historical-sources/Abb-5-1_QGIS_Imperiia-Project_02.jpg "Visualisation of a historical dataset, Imperiia project, in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c.")
 Dataset reference: O’Neill, Kelly. 2016. “Administrative Boundaries of the Russian Empire (1820s): Provinces (Oblasti).” Harvard Dataverse. https://doi.org/doi:10.7910/DVN/5LUP5S. 
 
 The following screenshot shows a dataset about the border of the partitions of Poland. The dataset was created by Christopher Winters at the University of Chicago. Compared to the previous dataset, the amount of additional information is very different. While the Imperiia Project provides sources for the dataset, there are no sources given in Winters’ dataset. The absence of sources does not mean that the dataset is wrong or that the depicted line of the border is not correct. However, from a historian’s perspective, it is far more difficult to deal with material that does not provide any information about its origin.
 
 Figure 11: Visualisation of Polish historical boundaries based on datasets of historian Christopher Winters, obtained in QGIS – the Kingdom of Poland as part of the Russian Empire in the 19th century.
+
+[[iiif abb-5-2-qgis-winter-poland-borders-uchicago-01 "Visualization of Polish historical boundaries based on datasets of historian Christopher Winters, obtained in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c."]]
 
 ![Polish historical boundaries, visualization of a dataset obtained in QGIS](/assets/images/maps-as-historical-sources/Abb-5-2_QGIS_Winter-Poland-borders_UChicago_01.jpg "Visualization of Polish historical boundaries based on datasets of historian Christopher Winters, obtained in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c.")
 
