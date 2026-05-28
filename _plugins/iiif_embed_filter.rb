@@ -2,6 +2,7 @@ require "cgi"
 
 module Jekyll
   module IiifEmbedFilter
+    # Supports: [[iiif <image-id> "Optional accessible title"]]
     IIIF_TAG_REGEX = /\[\[\s*iiif\s+([^\]\s"]+)(?:\s+"([^"]+)")?\s*\]\]/.freeze
 
     def iiif_iframe_html(viewer_url, image_id, iframe_title = nil)
@@ -22,13 +23,15 @@ module Jekyll
 
             var ratio = null;
             var minHeight = 320;
-            var maxHeight = 1200;
+            var maxHeight = 1250;
+            var sectionPadding = 16; // section--contents has 32px horizontal padding
 
             function buildInfoJsonUrl() {
               try {
                 var viewerUrl = new URL(iframe.getAttribute('src'), window.location.href);
                 var dziValue = viewerUrl.searchParams.get('dzi') || '/iiif/';
                 var normalized = dziValue;
+                // Normalize trailing slashes to keep generated URLs consistent.
                 while (normalized.length > 1 && normalized.endsWith('/')) {
                   normalized = normalized.slice(0, -1);
                 }
@@ -46,18 +49,14 @@ module Jekyll
 
             function applyHeight() {
               if (!ratio) return;
-              var width = iframe.clientWidth || (iframe.parentElement && iframe.parentElement.clientWidth) || 0;
+              var section = iframe.closest && iframe.closest('.section');
+              // Fall back to section width when iframe width is 0 in collapsed content.
+              var width = iframe.clientWidth || (section && (section.clientWidth - sectionPadding * 2)) || 0;
               if (!width) return;
               var height = Math.round(width * ratio);
+              // Keep height within a sane range to avoid extreme layouts.
               height = Math.max(minHeight, Math.min(maxHeight, height));
               iframe.style.height = height + 'px';
-            }
-
-            function installVisibilityObserver() {
-              var section = iframe.closest && iframe.closest('.section--contents');
-              if (!section || !('MutationObserver' in window)) return;
-              var mo = new MutationObserver(function() { applyHeight(); });
-              mo.observe(section, { attributes: true, attributeFilter: ['style', 'class'] });
             }
 
             fetch(buildInfoJsonUrl(), { cache: 'force-cache' })
@@ -71,11 +70,6 @@ module Jekyll
 
             iframe.addEventListener('load', applyHeight);
             window.addEventListener('resize', applyHeight);
-            installVisibilityObserver();
-            if ('ResizeObserver' in window && iframe.parentElement) {
-              var observer = new ResizeObserver(function() { applyHeight(); });
-              observer.observe(iframe.parentElement);
-            }
           })();
         </script>
       HTML
