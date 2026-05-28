@@ -25,11 +25,15 @@ order: 3
 
 Mapping has always been particularly important in warfare because of the need to identify weak points and crucial targets and to secure one’s own assets. On maps for public use, information of military interest such as fortifications, garrisons and armament factories often remains invisible, at best only outlined in vague shapes or blank spaces. This is yet another demonstration of the potentially deceptive selection process in representations on maps. With World War Two, a new and powerful tool for surveying became widespread: aerial photography. Military technology enabled new ways of scouting the Earth’s surface. During World War Two, all major belligerent powers pursued aerial reconnaissance, including Germany, Japan, the United Kingdom, the United States of America and the Soviet Union. Today, archives and libraries in many countries hold aerial photography, such as the National Collection of Aerial Photography (NCAP) in the UK (https://ncap.org.uk/), the National Archives in the USA [https://www.archives.gov/research/cartographic/aerial-photography] and the Bundesarchiv in Germany [https://www.bundesarchiv.de/im-archiv-recherchieren/archivgut-recherchieren/nach-themen/luftbilder-aus-der-zeit-des-zweiten-weltkrieges/].
 
+[[iiif topografische-karte-naedlingen-1942-01 "Detail of Topografische Karte 1:25000, ed by Reichsamt für Landesaufnahme, sheet No. 4969 Nädlingen, 1942"]]
+
 ![Detail of Topografische Karte 1:25000, ed by Reichsamt für Landesaufnahme, sheet No. 4969 Nädlingen, 1942](/assets/images/maps-as-historical-sources/K3IIL58_4969_2893_Naedlingen_1942_01-Detail.jpg "Detail of Topografische Karte 1:25000, ed by Reichsamt für Landesaufnahme, sheet No. 4969 Nädlingen, 1942") 
 
 Figure . Detail of Topografische Karte 1:25000, ed by Reichsamt für Landesaufnahme, sheet No. 4969 Nädlingen, 1942. Source: Herder Institute
 
 The first illustration is a detail of the standard German topographic map (1:25000) showing the surroundings of Markstädt and Fünfteichen in Silesia, about 20km East of Breslau/Wrocław, dated 1942. Over the following years of the war, this map was not updated, although smaller-scale maps were published, such as the Karte des Deutschen Reiches (1:100000), map no. 104, in 1944.
+
+[[iiif topagrafische-karte-breslau-schweidnitz-1944-01 "Detail of Topografische Karte 1:100000, ed by Reichsamt für Landesaufnahme, sheet No. 104 Breslau, 1944"]]
 
 ![Detail of Topografische Karte 1:100000, ed by Reichsamt für Landesaufnahme, sheet No. 104 Breslau, 1944](/assets/images/maps-as-historical-sources/K3IIL63_104_Breslau-Schweidnitz_1944_01-Detail.jpg "Detail of Topografische Karte 1:100000, ed by Reichsamt für Landesaufnahme, sheet No. 104 Breslau, 1944")
 
@@ -38,11 +42,15 @@ Figure . Detail of Topografische Karte 1:100000, ed by Reichsamt für Landesaufn
 
 By the end of the war, when the Soviet Army approached German borders, the Deutsche Luftwaffe (German air force) had stepped up its reconnaissance flights to prepare its defence. The following aerial image was taken during flight 1308 on 18 September 1944.
 
+[[iiif deutsche-luftwaffe-flight-1308-689-1944 "Deutsche Luftwaffe (German air force) flight No. 1308, image No. 689, 18 September 1944"]]
+
 ![Deutsche Luftwaffe (German air force) flight No. 1308, image No. 689, 18 September 1944](/assets/images/maps-as-historical-sources/K01_1308_689.jpg "Deutsche Luftwaffe (German air force) flight No. 1308, image No. 689, 18 September 1944")
 
 Figure : Deutsche Luftwaffe (German air force) flight No. 1308, image No. 689, 18 September 1944. [Source: Herder Institute](https://dbs.herder-institut.de/karten/id/K01_1308)
 
 We can compare these different kinds of spatial representation and evaluate the content of the maps and the aerial image. To facilitate comparison, the aerial image should be rotated northwards and the maps should be adjusted so that they are on a similar scale.
+
+[[iiif montage-fuenfteichen-05 "Montage of aerial image and maps"]]
 
 ![Montage of aerial image and maps](/assets/images/maps-as-historical-sources/Montage-Fuenfteichen_05.jpg "Montage of aerial image and maps") 
 
@@ -71,6 +79,8 @@ In this part of the lesson, we compare maps from World War One and maps of the R
 
 Figure : Verein für Kriegshilfe: Map of the Western front in February 1915
 
+[[iiif reporting-war-1915-kriegshilfe-muenchen-voelkerkrieg-01 "Verein für Kriegshilfe: Map of the Western front in February 1915"]]
+
 ![Verein für Kriegshilfe: Map of the Western front in February 1915](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Muenchen_Voelkerkrieg_01.jpg "Verein für Kriegshilfe: Map of the Western front in February 1915") 
 
 These kinds of small-scale public maps were issued weekly. The regular frequency of publication made them an important medium of information and propaganda: they showed the progress or lack of progress of front lines, informed readers at least roughly about areas at risk of being directly affected by the war, and demonstrated territorial gains and losses. However, the small-scale maps did not give readers a real idea of the situation along the front line. The armies kept large-scale maps showing trenches and fortified places secret, because publicly known details would allow the enemy to direct its attacks with greater precision.
@@ -78,9 +88,13 @@ These kinds of small-scale public maps were issued weekly. The regular frequency
 Figure : Die militärischen Ereignisse im Völkerkrieg 1914-15. In wöchentlichen Karten mit Chronik zu dauernder Erinnerung. Published by Vereinigung für Private Kriegshilfe, Munich, 1914-15. Map no. 19: Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz
 
 
+[[iiif reporting-war-1915-kriegshilfe-western-front-01 "Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz. Herder Institute. Public Domain"]]
+
 ![Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Western-Front_01.jpg "Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz. Herder Institute. Public Domain") 
 
 Figure : detail of the previous map
+
+[[iiif reporting-war-1915-kriegshilfe-western-front-02 "Large scale map, Franco-German front, February 1915. Herder Institute. Public Domain"]]
 
 ![Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz. Large scale map, Franco-German front, February 1915](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Western-Front_02_Detail.jpg "Large scale map, Franco-German front, February 1915. Herder Institute. Public Domain") 
 
@@ -89,6 +103,8 @@ A couple of decades after a war is over, archives in many countries open these k
 
 Today, several small-scale maps about ongoing wars in the world, for example the war between Russia and Ukraine that began in 2022, continue to be printed in newspapers and periodicals, and there are also many more maps online at both small and large scales. These digital maps are either static images or dynamic web map services that provide specific data and illustrate changes over time (the latter are based on the use of geographic information systems, which we will see in more detail in assignment 4). Prominent examples of web map services documenting the Russia-Ukraine war are the [LiveUAmap](https://liveuamap.com/en/), the [ACLEDdata](https://acleddata.com/monitor/ukraine-conflict-monitor) map or the web map of the [Neue Zürcher Zeitung](https://www.nzz.ch/english/ukraine-war-interactive-map-of-the-current-front-line-ld.1688087].
 
+
+[[iiif reporting-war-2023_live-ukraine-map-01 "Screenshot of Ukraine on the service Live Universal Awareness Map"]]
 
 ![Screenshot of Ukraine on LiveUAmap on 7 June 2023](/assets/images/maps-as-historical-sources/reporting-war-2023_live-ukraine-map-01.jpg "Screenshot of Ukraine on the service Live Universal Awareness Map")
 Figure :Screenshot of Ukraine on LiveUAmap on 7 June 2023
