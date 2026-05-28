@@ -105,7 +105,13 @@ Let us take the example of world maps. Observe the three maps below.
 
 [[iiif kaiseikan-standard-atlas-of-japan-1925-map-24-routes-world "Map 24: Principal Routes of the World in Kaiseikwan's standard atlas of Japan, 1925, Tōkyō Kaiseikan (Kaiseikan mohan Nihon chizu: Monbushō kenteizumi : shihan gakkō, chūgakkō, kōtō jogakkō chirikayō). Public Domain"]]
 
+![Principal Routes of the World in Kaiseikwan's Standard Atlas of Japan, 1925, Tōkyō Kaiseikan](/assets/images/maps-as-historical-sources/kaiseikan-standard-atlas-of-japan-1925-map-24-routes-world.jpg "Map 24: Principal Routes of the World in Kaiseikwan's standard atlas of Japan, 1925, Tōkyō Kaiseikan (Kaiseikan mohan Nihon chizu: Monbushō kenteizumi : shihan gakkō, chūgakkō, kōtō jogakkō chirikayō). Public Domain")
+
+[[iiif diercke-1932-schulatlas-s-17 "Lange, Henry und Carl Diercke, Schulatlas (mit Karte zur Heimatkunde), Braunschweig: Westermann, 1932"]]
+
 ![German School-Atlas, World Map, 1932](/assets/images/maps-as-historical-sources/diercke-1932-schulatlas-s-17.jpg "Lange, Henry und Carl Diercke, Schulatlas (mit Karte zur Heimatkunde), Braunschweig: Westermann, 1932")  
+
+[[iiif india-national-atlas-welt "Government of India, Ministry of Education and Scientific Research (Hg.): National Atlas of India (preliminary Edition), ed. by. S. P. Chatterjee, Calcutta/ Dehradun 1957."]]
 
 ![Official National Atlas of India, 1957](/assets/images/maps-as-historical-sources/india-national-atlas-welt.jpg "Government of India, Ministry of Education and Scientific Research (Hg.): National Atlas of India (preliminary Edition), ed. by. S. P. Chatterjee, Calcutta/ Dehradun 1957.")
 
@@ -125,9 +131,13 @@ Now study two maps of the Mediterranean and note your observations on the basis 
 
 The first map is: “Petite carte d'Orient et de la Méditerranée” (1840), held by: Bibliothèque nationale de France, département Cartes et plans, GE DL 1840-261
 
+[[iiif petite-carte-orient-mediterranee "Petite carte d'Orient et de la Méditerranée (Édition pittoresque à 100 000 exemplaires) / gravée par Ch. Avril ; lith. J. Simon"]]
+
 [Petite carte d'Orient et de la Méditerranée (Édition pittoresque à 100 000 exemplaires) / gravée par Ch. Avril ; lith. J. Simon](https://commons.wikimedia.org/wiki/File:Petite_carte_d%27Orient_et_de_la_M%C3%A9diterran%C3%A9e_(%C3%89dition_pittoresque_%C3%A0_100_000_exemplaires)_-_grav%C3%A9e_par_Ch._Avril_;_lith._J._Simon_-_btv1b53088257d.jpg)
 
 The second map is: “Mediterranean without Borders” (2011) by the artist Sabine Réthoré, displayed in the [Musée des civilisations de l’Europe et de la Méditerranée](https://mucem.org/en/). 
+
+[[iiif mediterranean-without-borders "Sabine Réthoré, Mediterranean without Borders, Mucem, Marseille, France. Free Art Licence"]]
 
 ![Mediterranean Without Borders Map of Sabine Réthoré, Mucem](/assets/images/maps-as-historical-sources/MSF-copyleft3.jpg "Sabine Réthoré, Mediterranean without Borders, Mucem, Marseille, France. Free Art Licence")
 
@@ -153,12 +163,16 @@ Polish cartographer [Eugeniusz Romer](https://en.wikipedia.org/wiki/Eugeniusz_Ro
 
 Figure : Chodkiewicz, Bronisław, Bronisław Gubrynowicz, Adolf Holzhausen, Karol Nitsch, Jacek Nowak, Eugeniusz Romer, Jacek Rutkowski, Władysław Semkowicz, Władysław Szafer and Stanisław Wiktor Weigner, eds. 1916. Geograficzno-statystyczny atlas Polski [1-3]. (Geographical and Statistical Atlas of Poland). Gebethner i Wolff. PAN Kórnik Library, Kórnik, Poland. Public domain. [URL](https://www.wbc.poznan.pl/dlibra/publication/557330/edition/474699/content)
 
+[[iiif population-romer-1916-atlas-polski-nr-9-polacy-1922-A188 "Map of E. Romer representing the population of Poland, Atlas Polski, 1916. PAN Kórnik Library, Kórnik, Poland. Public Domain."]]
+
 ![“Population - Romer 1916 Atlas Polski - Nr-9-Polacy”](/assets/images/maps-as-historical-sources/population-romer-1916-atlas-polski-nr-9-Polacy-1922-A188.jpg "Map of E. Romer representing the population of Poland, Atlas Polski, 1916. PAN Kórnik Library, Kórnik, Poland. Public Domain.")
 
 
 Hungarian politician [Pál Teleki](https://en.wikipedia.org/wiki/P%C3%A1l_Teleki) (1879-1941), who served as Prime Minister on two occasions, became the leading geographer and academic mastermind of Hungarian cartography and geopolitics. Teleki’s extensive language skills had helped establish his international reputation before the war (he spoke German, French and English, as well as some Dutch, Italian and Romanian). During the peace negotiations between Hungary and the Allied Powers at Trianon, the official Hungarian delegation promoted the idea that Hungary was one of the most striking morphological units on the physical map of Europe, with the practically uninhabited belt of the Carpathians surrounding most of the country and creating a natural barrier. In preparation for the peace talks he drafted the famous “carte rouge” as early as December 1918. This map was now used alongside the Hungarian memoranda in order to retain as much territory as possible for Hungary, and was published in several editions even after the Treaty of Trianon was signed on 4 June 1920. Teleki’s method of not including areas that were less populated, and his choice of colours (red for Hungarian, pale pink for Romanian), over-emphasised the Hungarian-speaking minority population in Transylvania at the expense of the Romanian-speaking majority.
 
 Figure : Paul Teleki, Magyarorzság néprajzi térképe a népsűrűség alapján (Ethnographic map of Hungary based on population density), Den Haag: Lith. J. Smulders and Co., 1919. HM Military History Institute and Museum, Budapest, Hungary. Image reproduced courtesy of the content provider. [URL](https://maps.hungaricana.hu/en/HTITerkeptar/2751/)
+
+[[iiif population-telecki-1920-ethnogr-map-hungary-03 "P. Teleki, Ethnographic map of Hungary based on population density, 1919, HM Military History Institute and Museum. Image reproduced courtesy of the content provider."]]
 
 ![“Population - Telecki_1920_Ethnogr-Map-Hungary_03”](/assets/images/maps-as-historical-sources/population-telecki-1920-ethnogr-map-hungary-03.jpg "P. Teleki, Ethnographic map of Hungary based on population density, 1919, HM Military History Institute and Museum. Image reproduced courtesy of the content provider.")
 
@@ -200,11 +214,15 @@ Maps can be an impressive tool for visualising power. Political entities – kin
 
 **Contextual information and maps**
 
+[[iiif chambers-of-commerce-1928-world-map "Chambers of Commerce Atlas, General Reference Map, 1928"]]
+
 ![Chambers of Commerce Atlas, General Reference Map, 1928](/assets/images/maps-as-historical-sources/chambers-of-commerce-1928-world-map.jpg "Chambers of Commerce Atlas, General Reference Map, 1928")
 
 Figure : Chambers of Commerce Atlas, General Reference Map, 1928
 
 This map is part of the “Chambers of Commerce Atlas”, published in London in 1928. The [Chambers of Commerce](https://en.wikipedia.org/w/index.php?title=British_Chambers_of_Commerce&oldid=1270196576) are one of the main British institutions for facilitating worldwide trade. The Atlas was aimed at a British audience, and more broadly any English-speaking readers interested in trade routes, as well as the spatial distribution of natural resources and commercial capacities. The “General Reference Map” uses the colour pink to indicate territories that are linked to the British Empire and the Commonwealth. This is an obvious (and colourful) technique to highlight British influence across the world. However, the map also conveys dominant cultural representations of an imperial power, which is obvious in the use of place names – for example Bombay (in India) and Constantinople (in Turkey), rather than Mumbaī and İstanbul. Although the former were the place names commonly in use in the English language for these two cities, and therefore familiar to a British audience, their use also suggests a world in which the United Kingdom is culturally, financially and politically a dominant power.
+
+[[iiif international-movements-of-capital-1938 "A. Rado, International Movements of Capital, The Atlas of To-day and To-morrow, 1938. Public domain"]]
 
 ![Alexander Radó, “International Movements of Capital”, 1938](/assets/images/maps-as-historical-sources/international-movements-of-capital-1938.jpg "A. Rado, International Movements of Capital, The Atlas of To-day and To-morrow, 1938. Public domain")
 
