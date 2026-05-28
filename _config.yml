@@ -9,6 +9,7 @@ permalink: /:lang/:title.html
 title: Ranke.2
 headline: Source Criticism in the Digital Age
 ranke2_baseurl: https://ranke2.uni.lu
+iiif_viewer_url: https://ranke2.uni.lu/dzi-viewer/?dzi=/iiif/
 exclude: [scripts/, d3/]
 collections:
   units:
