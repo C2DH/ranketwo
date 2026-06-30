@@ -1,10 +1,10 @@
 ---
-title: "Digital maps and historical inquiry: critical approaches"
+title: "Maps and Historical Enquiry: Critical Approaches in Digital Contexts"
 type: clip
 lang: de
-parent: digital-maps-and-historical-inquiry
+parent: digital-maps
 duration: 5
-iframe: digital-maps-and-historical-inquiry
+iframe: digital-maps-german
 ---
 
 {: .headsup}

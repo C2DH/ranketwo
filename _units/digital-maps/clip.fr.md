@@ -1,10 +1,10 @@
 ---
-title: "Cartographie numérique et enquête historique: approches critiques"
+title: "Cartographie et enquête historique: approches critiques dans des contextes numériques"
 type: clip
 lang: fr
-parent: digital-maps-and-historical-inquiry
+parent: digital-maps
 duration: 5
-iframe: digital-maps-and-historical-inquiry 
+iframe: digital-maps-french 
 ---
 
 {: .headsup}
