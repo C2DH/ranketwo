@@ -19,7 +19,7 @@ In today’s digital age, it is easier to access maps than ever before. Large-sc
 
 <!-- briefing-student -->
 
-### 1.a Consulting digital map archives  
+### 1.a Consulting digital map archives | 15 mins  
 <!-- section-contents -->
  
 Each online library has its advantages and disadvantages, and these vary depending on the intended use of the resources and the research question(s) being studied. For some projects, a simple map giving an overview of a certain region may be sufficient; other projects may necessitate very large-scale maps, including detailed information about the date of production, the publisher, etc. In any case, the information provided by a map repository should allow historians to establish with certainty the provenance of the map and the available resources.
@@ -55,7 +55,7 @@ Please follow the links provided above. Select at least three repositories and c
 
 <!-- section -->
 
-### 1.b Understanding maps in the archive  |  mins
+### 1.b Understanding maps in the archive  | 10 mins
 <!-- section-contents -->
 Maps convey both explicit and implicit information about the time, place and perceived realities they represent. To contextualise and critically evaluate maps as historical sources, systematic descriptive information, known as [metadata](https://en.wikipedia.org/wiki/Metadata), is essential. The availability and quality of these metadata are a key added value that archives offer to historians. The following exercise invites you to explore this dimension and to understand how important it is in critically assessing both the repository and the map itself.
 
@@ -73,7 +73,7 @@ Now reflect on the following:
 
 <!-- section -->
 
-### 1.c The collaborative map archive  |  mins
+### 1.c The collaborative map archive  | 15 mins
 <!-- section-contents -->
 At least two of these websites, [OldMapsOnline](https://www.oldmapsonline.org/){:target="_blank"} and [Virtuelles Kartenforum](https://kartenforum.slub-dresden.de/en){:target="_blank"}, involve the active participation of volunteer contributors who are not part of the institution or team that runs the map repository. 
 > Tip – to find this information, explore the “about” or “community” pages.
