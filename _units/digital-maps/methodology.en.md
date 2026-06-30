@@ -72,7 +72,12 @@ Fig. 1 How to interpret a historical map. Created by the Ranke.2 team based on M
 | • Projection |  | • How is it represented? |  |
 
 
+### An example
 If you wish to see how the above principles are applied to historical map analysis, watch this video analysing a map of Africa from the 17th[SC2.1] century: [Burns Library: “How to Read a Historical Map” 1886](https://youtu.be/1jY_6mRIPag) (6 min 06 sec).
   
-*Editor's Note: The principles of the above interpretative grid were inspired by: Michelle LeBlanc, Reading maps: How to analyze a map. 31 October 2017 https://web.archive.org/web/20230529030026/https://www.choices.edu/video/reading-maps-analyze-map/ In Brown University, Choices Program Curriculum Unit, Lesson: Interpreting a Native Map. https://web.archive.org/web/20230611015533/https://www.choices.edu/video-playlist/?unit=402 These resources have been unavailable since the Choices Program stopped receiving funding on 30 June 2025; as described, the “content is not being licensed, transferred or maintained for access or classroom as of the program end date”.*
+*Editor's Note:* 
+
+The principles of the above interpretative grid were inspired by: Michelle LeBlanc, [Reading maps: How to analyze a map](https://web.archive.org/web/20230529030026/https://www.choices.edu/video/reading-maps-analyze-map). 31 October 2017. In Brown University, Choices Program Curriculum Unit, Lesson: Interpreting a Native Map. [https://web.archive.org/web/20230611015533/https://www.choices.edu/video-playlist/?unit=402](https://web.archive.org/web/20230611015533/https://www.choices.edu/video-playlist/?unit=402). 
+
+These resources have been unavailable since the Choices Program stopped receiving funding on 30 June 2025; as a result, the content is no longer licensed, transferred or maintained for access or classroom as of the program end date.
 
