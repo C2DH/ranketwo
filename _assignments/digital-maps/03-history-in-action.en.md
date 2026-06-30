@@ -41,7 +41,6 @@ By the end of the war, when the Soviet Army approached German borders, the Deuts
 
 [[iiif deutsche-luftwaffe-flight-1308-689-1944 "Deutsche Luftwaffe (German air force) flight No. 1308, image No. 689, 18 September 1944"]]
 
-![Deutsche Luftwaffe (German air force) flight No. 1308, image No. 689, 18 September 1944](/assets/images/maps-as-historical-sources/K01_1308_689.jpg "Deutsche Luftwaffe (German air force) flight No. 1308, image No. 689, 18 September 1944")
 
 Figure : Deutsche Luftwaffe (German air force) flight No. 1308, image No. 689, 18 September 1944. [Source: Herder Institute](https://dbs.herder-institut.de/karten/id/K01_1308)
 
@@ -49,7 +48,6 @@ We can compare these different kinds of spatial representation and evaluate the 
 
 [[iiif montage-fuenfteichen-05 "Montage of aerial image and maps"]]
 
-![Montage of aerial image and maps](/assets/images/maps-as-historical-sources/Montage-Fuenfteichen_05.jpg "Montage of aerial image and maps") 
 
 Figure : Montage of aerial image (rotated Northwards) and 1:25000 map and 1:100000 map
 
@@ -74,24 +72,17 @@ Huge numbers of maps are produced in times of war. While military maps are kept 
 
 In this part of the lesson, we compare maps from World War One and maps of the Russia-Ukraine war since 2022. During World War One, public maps about the war were mainly published in newspapers and periodicals. Most of these maps had a relatively small scale, often showing a rough sketch of the front line between two countries at a scale between 1:1 million and 1:5 million. If a part of the front line was of particular interest, some publishers added medium-scale maps, for example showing Verdun and its surroundings on the French-German front.
 
-Figure : Verein für Kriegshilfe: Map of the Western front in February 1915
-
 [[iiif reporting-war-1915-kriegshilfe-muenchen-voelkerkrieg-01 "Verein für Kriegshilfe: Map of the Western front in February 1915"]]
 
-![Verein für Kriegshilfe: Map of the Western front in February 1915](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Muenchen_Voelkerkrieg_01.jpg "Verein für Kriegshilfe: Map of the Western front in February 1915") 
+Figure : Verein für Kriegshilfe: Map of the Western front in February 1915
 
 These kinds of small-scale public maps were issued weekly. The regular frequency of publication made them an important medium of information and propaganda: they showed the progress or lack of progress of front lines, informed readers at least roughly about areas at risk of being directly affected by the war, and demonstrated territorial gains and losses. However, the small-scale maps did not give readers a real idea of the situation along the front line. The armies kept large-scale maps showing trenches and fortified places secret, because publicly known details would allow the enemy to direct its attacks with greater precision.
 
+[[iiif reporting-war-1915-kriegshilfe-western-front-01 "Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz. Herder Institute. Public Domain"]]
 Figure : Die militärischen Ereignisse im Völkerkrieg 1914-15. In wöchentlichen Karten mit Chronik zu dauernder Erinnerung. Published by Vereinigung für Private Kriegshilfe, Munich, 1914-15. Map no. 19: Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz
 
-
-[[iiif reporting-war-1915-kriegshilfe-western-front-01 "Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz. Herder Institute. Public Domain"]]
-
-![Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz](/assets/images/maps-as-historical-sources/Reporting-War_1915_Kriegshilfe-Western-Front_01.jpg "Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz. Herder Institute. Public Domain") 
-
-Figure : detail of the previous map
-
 [[iiif reporting-war-1915-kriegshilfe-western-front-02 "Large scale map, Franco-German front, February 1915. Herder Institute. Public Domain"]]
+Figure : detail of the previous map
 
  
 A couple of decades after a war is over, archives in many countries open these kinds of large-scale maps to public access. Such maps were usually printed by army map services. Surveying officers at the front line would observe the situation and draw and annotate maps by hand to provide a reliable image of the situation. The question “What does the map show us?” may lead us to a variety of answers: of course, the topography of the hills and valleys south of Verdun as well as the dense network of trenches are visible on the map. In addition, it served as a representation of static warfare (armies on both sides fighting over just a few hundred metres to capture the opposite trench) and also as a representation of a huge graveyard for the thousands of soldiers who died in these fields.
