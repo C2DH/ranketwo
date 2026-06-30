@@ -9,7 +9,8 @@ documents:
 tags:
 outcomes:
   - Critically analyse a digital repository to evaluate the provenance of a map
-  -  
+  - Recognise the variety of digital repositories providing access to maps
+  - Identify forms of collaborative participation in the archival descriptions of maps 
 order: 1
 ---
 In today’s digital age, it is easier to access maps than ever before. Large-scale digitisation efforts at libraries and archives have made maps far more easily available through online access. Digital libraries and repositories offer multiple cartographic sources, although not all maps are openly accessible and there can be disparities between the quality of digitisation, the technical features and the additional information provided for each map. This may reflect different purposes or conditions in which the archive was created, different means of funding, or different levels of community investment.
