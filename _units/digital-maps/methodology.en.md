@@ -12,6 +12,11 @@ mediatypes:
 lang: en
 ---
 
+This section explains how to read and analyse maps in the context of historical research. The principles outlined below will guide you throughout the lesson.
+
+### More about the methodology
+<!-- section-contents --> 
+
 In principle, all maps are thematic. We can distinguish between maps that focus on topographic features, such as maps of the Earth’s surface, and maps that depict social demographics, public transportation lines, crime, etc. However, the basic steps in the mapping process are relevant for all types of maps:
 1. Choosing the projection
 2. Defining geographic extents
@@ -55,6 +60,7 @@ You can shape your own checklist as you go through this lesson by adding element
 
 
 ![How to interpret a historical map](/assets/images/digital-maps/historical-map-criticism-conceptual.jpg "How to interpret a historical map")
+
 Fig. 1 How to interpret a historical map. Created by the Ranke.2 team based on Michelle LeBlanc, Reading maps: How to analyze a map. 31 October 2017 https://web.archive.org/web/20230529030026/https://www.choices.edu/video/reading-maps-analyze-map/  
 
 
