@@ -37,23 +37,23 @@ How should we read a historical map? Considering the aspects outlined above, we 
 
 Consider: 
 
-1. **Perspective**
-   - **Mapmaker**: who created the map and where  
-   - **Scope and scale**: what is depicted (part of the world, world, etc.)  
-   - **Projection**
+1. Perspective
+   - Mapmaker: who created the map and where  
+   - Scope and scale: what is depicted (part of the world, world, etc.)  
+   - Projection
 
-2. **Audience and purpose**
-   - **Utility of the map**  
-   - **Argument**
+2. Audience and purpose
+   - Utility of the map  
+   - Argument
 
-3. **Choices**
+3. Choices
    - What is represented in the map  
    - What is missing  
    - How is it represented  
 
-4. **Knowledge and change**
-   - **State of scientific knowledge** at the time of creation  
-   - **Available technologies** used to create the map  
+4. Knowledge and change
+   - State of scientific knowledge at the time of creation  
+   - Available technologies used to create the map  
 
 
 You can shape your own checklist as you go through this lesson by adding elements or editing the basic framework above. In the end, you will have created your own personal catalogue of map elements. 
