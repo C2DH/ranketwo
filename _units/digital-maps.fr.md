@@ -1,5 +1,5 @@
 ---
-title: "Cartographie numérique et enquête historique: approches critiques"
+title: "Cartographie et enquête historique: approches critiques dans des contextes numériques"
 layout: unit
 date: 2026-04-08
 publication_date: 2026-04-08
