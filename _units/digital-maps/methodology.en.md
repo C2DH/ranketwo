@@ -13,6 +13,7 @@ lang: en
 ---
 
 This section explains how to read and analyse maps in the context of historical research. The principles outlined below will guide you throughout the lesson.
+<!-- more -->
 
 ### More about the methodology
 <!-- section-contents --> 
