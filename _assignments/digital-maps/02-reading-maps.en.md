@@ -50,7 +50,7 @@ Let us take the example of world maps. Observe the three maps below.
 
 2. World Map in German School Atlas in Lange, Henry und Carl Diercke, Schulatlas (mit Karte zur Heimatkunde), Braunschweig [u.a.]: Westermann, [1932?]
 
-3. Official National Atlas of India in. Government of India, Ministry of Education and Scientific Research (Hg.): National Atlas of India (preliminary Edition), ed. by. S. P. Chatterjee, Calcutta/ Dehradun 1957
+3. Official National Atlas of India. Government of India, Ministry of Education and Scientific Research (Hg.): National Atlas of India (preliminary Edition), ed. by. S. P. Chatterjee, Calcutta/ Dehradun 1957
 
 [[iiif kaiseikan-standard-atlas-of-japan-1925-map-24-routes-world "Map 24: Principal Routes of the World in Kaiseikwan's standard atlas of Japan, 1925, Tōkyō Kaiseikan (Kaiseikan mohan Nihon chizu: Monbushō kenteizumi : shihan gakkō, chūgakkō, kōtō jogakkō chirikayō). Public Domain"]]
 
@@ -144,7 +144,7 @@ By Christian Lotz
 
 Maps can be an impressive tool for visualising power. Political entities – kingdoms, nation states and empires – have used them to mark borders, outline territorial ambitions or demonstrate influence. Cartographers have combined data selection with visualisation techniques to highlight power and influence and to make arguments. The following example uses two maps of the world which show the influence of the British Empire during the 1920s and 1930s from different points of view.
 
-**Contextual information and maps**
+#### Contextual information and maps
 
 [[iiif chambers-of-commerce-1928-world-map "Chambers of Commerce Atlas, General Reference Map, 1928"]]
 
@@ -183,7 +183,7 @@ Choices
 
 <!-- section -->
 
-### 2.e  Visualising data | 20 mins
+### 2.e  Visualising data | 15 mins
 <!-- section-contents -->
 *By Sofia Papastamkou*
 
