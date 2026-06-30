@@ -62,7 +62,7 @@ Go to the [street name directory for Esch-sur-Alzette](https://map.geoportail.lu
 
 Make a list of the street names you found and reflect on them (or discuss the names if you are working in groups). Try to establish a typology that groups these names into categories (names of places, people, professions, etc.).
 
-> Tip: you can compare the list you established with our non-exhaustive [list](/assets/docs/industrial-streetnames-esch.txt)
+> Tip: you can compare the list you established with our non-exhaustive [list](/assets/doc/industrial-streetnames-esch.txt)
 
 Do some research online to collect information and photos about the different street names. Prepare short information files about each street name. For example, for a person you can note their dates of birth and death, their profession, their link to the town’s industrial past and any other information you find relevant. For a place named after a profession, you might like to look for the origins of the name, how the professional activity changed over time, and any traces of the activity in the street. If you wish to dig deeper, you may conduct research in the town archives or interview people.
 
