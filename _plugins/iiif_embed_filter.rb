@@ -9,9 +9,10 @@ module Jekyll
       safe_title = CGI.escapeHTML(iframe_title.to_s.strip)
       safe_title = "IIIF Image" if safe_title.empty?
       safe_image_id = CGI.escapeHTML(image_id)
+      safe_iframe_src = CGI.escapeHTML("#{viewer_url}#{image_id}")
 
       <<~HTML
-        <iframe src="#{viewer_url}#{image_id}" data-iiif-id="#{safe_image_id}" title="#{safe_title}" width="100%" height="500" frameborder="0" allowfullscreen></iframe>
+        <iframe src="about:blank" data-iiif-id="#{safe_image_id}" data-iiif-src="#{safe_iframe_src}" data-iiif-loaded="false" loading="lazy" title="#{safe_title}" width="100%" height="500" frameborder="0" allowfullscreen></iframe>
         <script>
           (function() {
             var script = document.currentScript;
@@ -25,10 +26,76 @@ module Jekyll
             var minHeight = 320;
             var maxHeight = 1250;
             var sectionPadding = 16; // section--contents has 32px horizontal padding
+            var loadState = 'idle'; // idle | queued | loading | loaded
+
+            function getGlobalIiifLoader() {
+              if (window.__ranke2IiifLoader) return window.__ranke2IiifLoader;
+
+              // Shared queue across all IIIF embeds on the page.
+              // Limits concurrent viewer startups to reduce network/CPU spikes.
+              window.__ranke2IiifLoader = {
+                queue: [],
+                active: 0,
+                maxConcurrent: 2,
+                enqueue: function(task) {
+                  this.queue.push(task);
+                  this.pump();
+                },
+                pump: function() {
+                  while (this.active < this.maxConcurrent && this.queue.length > 0) {
+                    var nextTask = this.queue.shift();
+                    this.active += 1;
+                    nextTask(this.release.bind(this));
+                  }
+                },
+                release: function() {
+                  this.active = Math.max(0, this.active - 1);
+                  this.pump();
+                }
+              };
+
+              return window.__ranke2IiifLoader;
+            }
+
+            function requestIframeLoad() {
+              // Ignore duplicate requests once loading has been scheduled or completed.
+              if (loadState === 'loaded' || loadState === 'loading' || loadState === 'queued') return;
+
+              loadState = 'queued';
+              getGlobalIiifLoader().enqueue(function(done) {
+                var realSrc = iframe.getAttribute('data-iiif-src');
+                if (!realSrc) {
+                  loadState = 'idle';
+                  done();
+                  return;
+                }
+
+                loadState = 'loading';
+
+                var finalized = false;
+                var timeoutId = null;
+                function finalize() {
+                  // Release queue slot exactly once, regardless of success, error, or timeout.
+                  if (finalized) return;
+                  finalized = true;
+                  if (timeoutId) window.clearTimeout(timeoutId);
+                  loadState = 'loaded';
+                  done();
+                }
+
+                iframe.addEventListener('load', finalize, { once: true });
+                iframe.addEventListener('error', finalize, { once: true });
+                timeoutId = window.setTimeout(finalize, 15000);
+
+                iframe.setAttribute('src', realSrc);
+                iframe.setAttribute('data-iiif-loaded', 'true');
+              });
+            }
 
             function buildInfoJsonUrl() {
               try {
-                var viewerUrl = new URL(iframe.getAttribute('src'), window.location.href);
+                var src = iframe.getAttribute('data-iiif-src') || iframe.getAttribute('src');
+                var viewerUrl = new URL(src, window.location.href);
                 var dziValue = viewerUrl.searchParams.get('dzi') || '/iiif/';
                 var normalized = dziValue;
                 // Normalize trailing slashes to keep generated URLs consistent.
@@ -43,6 +110,7 @@ module Jekyll
                 }
                 return new URL(normalized + '/' + imageId + '/info.json', viewerUrl.origin).toString();
               } catch (e) {
+                // Last-resort local fallback if URL parsing fails.
                 return '/iiif/' + encodeURIComponent(imageId) + '/info.json';
               }
             }
@@ -68,6 +136,25 @@ module Jekyll
               })
               .catch(function() {});
 
+            function installToggleListener() {
+              var section = iframe.closest && iframe.closest('.section');
+              if (!section) return;
+              var toggler = section.querySelector('.section--toggler');
+              var sectionContents = section.querySelector('.section--contents');
+              if (!toggler || !sectionContents) return;
+
+              toggler.addEventListener('click', function() {
+                // Start loading only when the section is opened.
+                // Re-apply height during the opening animation for a stable layout.
+                requestIframeLoad();
+                applyHeight();
+                setTimeout(applyHeight, 120);
+                setTimeout(applyHeight, 300);
+              });
+            }
+
+            installToggleListener();
+            // Strict mode: load the viewer only when the section is opened.
             iframe.addEventListener('load', applyHeight);
             window.addEventListener('resize', applyHeight);
           })();
