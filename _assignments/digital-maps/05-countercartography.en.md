@@ -8,7 +8,8 @@ documents:
   - 
 tags:
 outcomes: 
-  -  
+  - Acknowledge and embrace subjectivity in mapmaking
+  - Experience how the mapmaker's situation and background shape the representation of space 
 order: 5
 ---
 *By Eliane Schmid* 
@@ -20,7 +21,7 @@ But beyond these more conventional examples of maps, there is also a movement to
 
 <!-- briefing-student -->
 
-### 5.a Reading maps against the grain |  mins
+### 5.a Reading maps against the grain | 15 mins
 <!-- section-contents -->
 
 Watch the first 6 minutes of [This Is Not an Atlas - A Documentary on Counter-Cartographies](https://www.youtube.com/watch?v=T8-GKyy3j6I). 
@@ -31,11 +32,9 @@ Then answer the following questions:
 * What does it take to remove the “counter” in counter-cartography? 
 * Are the maps that you analysed in *1.a* examples of cartography that need to be reassessed? 
 
-Watch the first 6 minutes of [This Is Not an Atlas – A Documentary on Counter-Cartographies](https://www.youtube.com/watch?v=T8-GKyy3j6I).
-
 <!-- section -->
 
-### 5.b Mapping lived experiences, past and present |  mins
+### 5.b Mapping lived experiences, past and present | 20 mins
 <!-- section-contents -->
 
 Explore the archived version of the website [Remapping Zurich](https://web.archive.org/web/20250124071233/https://remappingzurich.ch/).
@@ -47,7 +46,7 @@ Explore the archived version of the website [Remapping Zurich](https://web.archi
 
 <!-- section -->
 
-### 5.c Considering contextual ciscumstances in the mapping process |  mins
+### 5.c Considering contextual ciscumstances in the mapping process | 15 mins
 <!-- section-contents -->
 
 Draw two maps of your daily commute to school, university, work, a leisure activity or similar, by hand on a piece of paper or a tablet. One map should depict the path you take in the morning, on a warm and sunny day, when everything goes according to plan. The other map should illustrate your path home, when it is dark, rainy and cold and something does not go according to plan: there is a train strike, a traffic jam, your bike has a flat tyre, you need to pick up your child from pre-school earlier, you forget your keys, etc.
