@@ -20,7 +20,7 @@ A GIS allows the layering of information. Imagine transparent sheets laid on top
 
 <!-- briefing-student -->
 
-### 4.a Understanding the concept of layered information |  mins
+### 4.a Understanding the concept of layered information | 15 mins
 <!-- section-contents -->
 
 *By Eliane Schmid* 
@@ -42,13 +42,15 @@ Now compare this to your everyday use of Google Maps and the different functions
 
 <!-- section -->
 
-### 4.b What’s in a name? Street names as a reflection of local histories |  mins
+### 4.b What’s in a name? Street names as a reflection of local histories | 60 mins
 <!-- section-contents -->
 
 *By Werner Tschacher, Stefan Krebs*
 
 
-> This assignment is based on a [teaching dossier](https://minett-stories.lu/media/pdf/education/street-names-dossier-en.pdf) that was produced for the online exhibition [“Minett Stories”](https://minett-stories.lu/), in connection with the research project “Remixing Industrial Pasts in the Digital Ages”, carried out with the support of Esch2022 asbl between 2019 and 2023 at the University of Luxembourg’s Centre for Contemporary and Digital History (C2DH). The assignment can be adapted to other national/local contexts for which geospatial data are available.
+*This assignment is based on a [teaching dossier](https://minett-stories.lu/media/pdf/education/street-names-dossier-en.pdf) that was produced for the online exhibition [“Minett Stories”](https://minett-stories.lu/), in connection with the research project “Remixing Industrial Pasts in the Digital Ages”, carried out with the support of Esch2022 asbl between 2019 and 2023 at the University of Luxembourg’s Centre for Contemporary and Digital History (C2DH). The assignment can be adapted to other national/local contexts for which geospatial data are available.*
+
+#### Historical context: exploring place names in Southern Luxembourg 
 
 Landscape and place names play an important role as reference points for regional identity. The place names in the south of Luxembourg have changed several times in connection with the industrial transformation of the landscape. Before industrialisation, the entire southern region in Luxembourg was part of a larger region known traditionally as “Gutland” because of its fertile soil. When the southern region entered the industrial age in 1850, the landscape changed first, and then the names. As iron ore mining intensified, industrial open-cast mining and quarrying underground brought the colour of the red-brown minette ore to the surface at more and more points in the green landscape.
 
@@ -56,13 +58,15 @@ Industrialisation tore the land up, deforesting areas so that production sites c
 
 Let us examine the traces of this historical heritage in Luxembourg’s second largest urban area, [Esch-sur-Alzette](https://en.wikipedia.org/wiki/Esch-sur-Alzette). This was the traditional centre of the Minett region, often referred to as the “Métropole du fer” (iron metropolis) or “rote Stadt” (red town) in the 20th century.
 
+#### Instructions
+
 For this exercise, you will use [Luxembourg’s national official geoportal](https://www.geoportail.lu/en/), a government-developed [web portal aimed at collecting, describing and presenting geospatial data](https://en.wikipedia.org/wiki/Geoportal). Geoportals are essential resources for finding good quality geospatial data – imagine them as libraries that enable you to work with this kind of data.
 
 Go to the [street name directory for Esch-sur-Alzette](https://map.geoportail.lu/addresses/Esch-sur-Alzette/?lang=en) to access a comprehensive list of all of the town’s street names. Then look for those that are associated with industry – there are several such names, some adopting general terms (e.g. Rue de l’Acier, Rue de l’Industrie, Rue de l’Usine) and some referencing former steelworks and mines (e.g. An der Schmelz, Avenue des Hauts-Fourneaux, Ennert den Héichiewen, Rue des Mines), industrial professions (e.g. Avenue des Sidérurgistes, Rue des Fondeurs, Rue des Mineurs) and the names of inventors and industrialists (e.g. Rue Henry Bessemer, Place Norbert Metz, Rue Émile Mayrisch, Rue Léon Metz, Rue Sidney Thomas). All these names refer to the multiple facets of the industrial history of the Minett region and its centre, Esch-sur-Alzette. The same applies to other towns and locations in the southern region such as Pétange, Differdange, Dudelange, Bettembourg and Rumelange.
 
 Make a list of the street names you found and reflect on them (or discuss the names if you are working in groups). Try to establish a typology that groups these names into categories (names of places, people, professions, etc.).
 
-> Tip: you can compare the list you established with our non-exhaustive [list](/assets/docs/industrial-streetnames-esch.txt)
+> Tip: you can compare the list you established with our non-exhaustive [list](/assets/doc/industrial-streetnames-esch.txt)
 
 Do some research online to collect information and photos about the different street names. Prepare short information files about each street name. For example, for a person you can note their dates of birth and death, their profession, their link to the town’s industrial past and any other information you find relevant. For a place named after a profession, you might like to look for the origins of the name, how the professional activity changed over time, and any traces of the activity in the street. If you wish to dig deeper, you may conduct research in the town archives or interview people.
 
@@ -70,24 +74,25 @@ Finally, you can do some field work: visit the streets you found and familiarise
 
 Now you have enough information to link to geospatial data and create your own map! You could simply create a map by tagging the names of the streets related to the industrial past of Esch-sur-Alzette. Or you could go a step further and integrate the photos you took during your field work. If you do this, you will have created a new layer that you can integrate into a user-friendly service like [Google Maps](https://www.google.com/maps/d/) or an open source service like [uMap](https://umap.openstreetmap.fr/en/).
 
-To use Google Maps, please read the instructions available in: Clifford, Jim, Josh MacFadyen, and Daniel Macfarlane. “Intro to Google Maps and Google Earth”. _Programming Historian 2_ (2013), [https://doi.org/10.46430/phen0028] (https://doi.org/10.46430/phen0028)
+To use Google Maps, please read the instructions available in: Clifford, Jim, Josh MacFadyen, and Daniel Macfarlane. “Intro to Google Maps and Google Earth”. _Programming Historian 2_ (2013), [https://doi.org/10.46430/phen0028](https://doi.org/10.46430/phen0028)
 
 To use uMap, please follow the instructions available in [this tutorial](https://youtu.be/sfyw8fJOIJY).
 
+<!--
 If you wish to use an interface exclusively in French, instructions on how to use [GoGoCarto](https://gogocarto.fr/) are provided in the French version of this lesson.
-
-If you publish your map, please contact us so that we can include the link in this lesson!
+-->
+If you publish your map, please [contact us](mailto:ranke2@uni.lu) so that we can include the link in this lesson!
 
 <!-- section -->
 
-### 4.c Evaluating GIS datasets about historical phenomena |  mins
+### 4.c Evaluating GIS datasets about historical phenomena | 30 mins
 <!-- section-contents -->
 
 *By Christian Lotz*
 
 This assignment does not provide an introduction to GIS and mapping software, as such resources are already available online (see reading suggestions below). Instead, it focuses on how historians can critically evaluate available GIS datasets and the maps created based on such data.
 
-Simply put, GIS data, known as [geopackages](https://en.wikipedia.org/wiki/GeoPackage), are a combination of folders containing spatial data, attribute data and metadata. Spatial data are necessary to create the representation of the space the map focuses on, whereas attribute data serve to describe the space with a variety of features, depending the point of view/intention of the map. These data create the layers of the map. Finally, the metadata provide descriptive and technical information about the two other types of data. Once imported into a GIS application, these data serve to create the layers of the map that we previously imagined as sheets of different information attached to a map.
+Simply put, GIS data, known as [geopackages](https://en.wikipedia.org/wiki/GeoPackage), are a combination of folders containing spatial data, attribute data and metadata<!--Integrate here the links to the lessons of Moritz Feichtinger on data and Sofia Papastamkou on metadata once they are published - to explain further attribute data and metadata-->. Spatial data are necessary to create the representation of the space the map focuses on, whereas attribute data serve to describe the space with a variety of features, depending the point of view/intention of the map. These data create the layers of the map. Finally, the metadata provide descriptive and technical information about the two other types of data. Once imported into a GIS application, these data serve to create the layers of the map that we previously imagined as sheets of different information attached to a map.
 
 GIS data are available in various repositories, such as [Harvard-GIS](https://library.harvard.edu/services-tools/harvard-geospatial-library){:target="_blank"}, which specialises in geospatial data. They can also be available in scientific repositories not necessarily specialising in geospatial data, or centralised repositories where governments enable open datasets to be published. Historians and other users can download geopackages from these repositories to use with the software of their choice, or they can create and contribute their own datasets.
 
@@ -101,23 +106,21 @@ Good quality metadata, and the existence of detailed documentation, are crucial 
 
 Let’s take a closer look at two datasets imported and opened with QGIS software, displayed in the two screenshots below.
 
-The screenshot below (figure 10) shows a dataset about the Kingdom of Poland as part of the Russian Empire at the beginning of the 19th century. The dataset comes from the [Imperiia Project](https://imperiia.omeka.fas.harvard.edu/) run by researcher Kelly O’Neill at Harvard University, which created datasets about the administrative borders of the Russian Empire.
+The screenshot below (figure ) shows a dataset about the Kingdom of Poland as part of the Russian Empire at the beginning of the 19th century. The dataset comes from the [Imperiia Project](https://imperiia.omeka.fas.harvard.edu/) run by researcher Kelly O’Neill at Harvard University, which created datasets about the administrative borders of the Russian Empire.
 The authors of the dataset describe the preparation of data and the sources from which they extracted the information about borders. For each administrative entity, its name is given in Russian (both in Cyrillic and in a Latin transliteration).
 
 Figure : Visualisation of a historical dataset, Imperiia Project, in QGIS – the Kingdom of Poland as part of the Russian Empire in the 19th century.
 
 [[iiif abb-5-1-qgis-imperiia-project-02 "Visualisation of a historical dataset, Imperiia project, in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c."]]
 
-![Kingdom of Poland as part of the Russian Empire in the 19th c., visualisation of a dataset obtained in QGIS](/assets/images/maps-as-historical-sources/Abb-5-1_QGIS_Imperiia-Project_02.jpg "Visualisation of a historical dataset, Imperiia project, in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c.")
 Dataset reference: O’Neill, Kelly. 2016. “Administrative Boundaries of the Russian Empire (1820s): Provinces (Oblasti).” Harvard Dataverse. https://doi.org/doi:10.7910/DVN/5LUP5S. 
 
 The following screenshot shows a dataset about the border of the partitions of Poland. The dataset was created by Christopher Winters at the University of Chicago. Compared to the previous dataset, the amount of additional information is very different. While the Imperiia Project provides sources for the dataset, there are no sources given in Winters’ dataset. The absence of sources does not mean that the dataset is wrong or that the depicted line of the border is not correct. However, from a historian’s perspective, it is far more difficult to deal with material that does not provide any information about its origin.
 
-Figure 11: Visualisation of Polish historical boundaries based on datasets of historian Christopher Winters, obtained in QGIS – the Kingdom of Poland as part of the Russian Empire in the 19th century.
+Figure : Visualisation of Polish historical boundaries based on datasets of historian Christopher Winters, obtained in QGIS – the Kingdom of Poland as part of the Russian Empire in the 19th century.
 
-[[iiif abb-5-2-qgis-winter-poland-borders-uchicago-01 "Visualization of Polish historical boundaries based on datasets of historian Christopher Winters, obtained in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c."]]
+[[iiif abb-5-2-qgis-winter-poland-borders-uchicago-01 "Visualisation of Polish historical boundaries based on datasets of historian Christopher Winters, obtained in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c."]]
 
-![Polish historical boundaries, visualization of a dataset obtained in QGIS](/assets/images/maps-as-historical-sources/Abb-5-2_QGIS_Winter-Poland-borders_UChicago_01.jpg "Visualization of Polish historical boundaries based on datasets of historian Christopher Winters, obtained in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c.")
 
 Dataset reference: Brown, Sam. n.d. “Polish historical boundaries”. Includes shapefiles showing the boundaries of Poland at the time of the Third Partition; the Duchy of Warsaw in 1807; the Kingdom of Poland under the Czars; and Interwar Poland; also województwa, 1945-1968. Library of the University of Chicago. https://www.lib.uchicago.edu/e/collections/maps/uofcgis.html
 

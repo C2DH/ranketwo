@@ -4,7 +4,7 @@ type: clip
 lang: fr
 parent: digital-maps
 duration: 5
-iframe: digital-maps-french 
+iframe: digital-maps 
 ---
 
 {: .headsup}
