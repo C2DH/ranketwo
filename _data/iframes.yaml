@@ -174,3 +174,10 @@
     aspectratio: aspect-16-9
     thumbnail: "https://i.vimeocdn.com/video/1924929085-f9abea7f741532cb78e18ff7ae40cb6d47ce90beb6157ad2201d53a30af12d27-d_900x506"
     src: "https://player.vimeo.com/video/1026501544" 
+
+-
+    id: digital-maps
+    type: vimeo
+    aspectratio: aspect-16-9
+    thumbnail: "https://i.vimeocdn.com/video/2180372636-903a365c73f3af3defe82f9aea0e207e684adf6557c387bbe6d9be173c45188e-d_900"
+    src: "https://player.vimeo.com/video/1210462376"
