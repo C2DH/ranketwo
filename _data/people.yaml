@@ -63,5 +63,31 @@
 - slug: helena-jaskov
   id: helena-jaskov 
   name: Helena Jaskov
-  url: https://www.c2dh.uni.lu/people/helena-jaskov  
+  url: https://www.c2dh.uni.lu/people/helena-jaskov
+- slug: peter-haslinger
+  id: peter-haslinger
+  name: Peter Haslinger
+  url: https://www.herder-institut.de/en/node/44
+- slug: christian-lotz
+  id: christian-lotz
+  name: Christian Lotz
+  url: https://www.herder-institut.de/en/node/65 
+- slug: tabitha-redepenning
+  id: tabitha-redepenning
+  name: Tabitha Redepenning
+  url: https://www.herder-institut.de/en/node/85
+- slug: lauren-coetzee
+  id: lauren-coetzee
+  name: Lauren Coetzee 
+  url: https://www.uni.lu/c2dh-en/people/lauren-coetzee/
+- slug: julius-wilm
+  id: julius-wilm
+  name: Julius Wilm
+- slug: stefan-krebs
+  id: stefan-krebs
+  name: Stefan Krebs 
+  url: https://www.uni.lu/c2dh-en/people/stefan-krebs/
+- slug: werner-tschacher 
+  id: werner-tschacher
+  name: Werner Tschacher     
 

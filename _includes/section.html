@@ -18,7 +18,7 @@
   </div>
   <div class='section--contents collapsible-content' style='display: none'>
     <div>
-      {{ contents | last | markdownify}}
+      {{ contents | last | iiif_embed | markdownify }}
     </div>
   </div>
   <div class='section--line'></div>
