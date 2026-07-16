@@ -153,9 +153,6 @@ This map is part of the “Chambers of Commerce Atlas”, published in London in
 
 [[iiif international-movements-of-capital-1938 "A. Rado, International Movements of Capital, The Atlas of To-day and To-morrow, 1938. Public domain"]]
 
-![Alexander Radó, “International Movements of Capital”, 1938](/assets/images/maps-as-historical-sources/international-movements-of-capital-1938.jpg "A. Rado, International Movements of Capital, The Atlas of To-day and To-morrow, 1938. Public domain")
-
-
 Figure : Alexander Radó, “International Movements of Capital”. In *The Atlas of To-day and To-morrow*. London, UK: Victor Gollanz, 1938. Public Domain.  
 
 The map “International Movements of Capital” is included in the “Atlas of To-day and To-morrow”, published by Alexander (Sándor) Radó, also in London, in 1938. The atlas outlines the cleavages caused by global conflicts in the early 20th century. Most of the maps in the atlas are in black and white, although some also include red. On the map, circles and arrows demonstrate the amount of capital flowing from major powers to other parts of the world. The visual strength of the map derives from the arrows and lines linking different parts of the world. Various interpretations are possible: Do the lines and arrows demonstrate the competition between the British Empire and the rising power of the United States of America? Or does the map allow for a visual comparison of investment strategies: British capital is invested overseas, while, for example, French capital mainly goes to Central and Eastern European countries? Or do these lines represent symbolic tentacles, reaching out to grab more and more parts of the world?
