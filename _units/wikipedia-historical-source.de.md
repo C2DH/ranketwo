@@ -32,7 +32,7 @@ cover:
   url: assets/images/wikipedia-historical-source/avatar.jpg 
   position: center
   caption: "Quelle: [Luis Alvaz. Entstehungsprozess des zweiten Wandbildes zur Feier des 20-jährigen Bestehens von Wikipedia auf Spanisch. 16. Mai 2021](https://commons.wikimedia.org/wiki/File:Proceso_de_creaci%C3%B3n_del_segundo_mural_Wikipedia_20_en_Aguascalientes_38.jpg)"
-order: 
+order: 0 
 og:
   description: 
 ---
