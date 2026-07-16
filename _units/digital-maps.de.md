@@ -34,7 +34,7 @@ cover:
   url: /assets/images/digital-maps/avatar.jpg
   position: center
   caption: 
-order: 
+order: -2 
 og:
   description: 
 ---

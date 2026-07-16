@@ -30,7 +30,7 @@ cover:
   url: assets/images/wikipedia-historical-source/avatar.jpg 
   position: center
   caption: "Source: [Luis Alvaz. Création en cours d'une peinture murale pour célébrer le vingtième anniversaire de Wikipedia en espagnol. 16 mai 2021)](https://commons.wikimedia.org/wiki/File:Proceso_de_creaci%C3%B3n_del_segundo_mural_Wikipedia_20_en_Aguascalientes_38.jpg)"
-order: 
+order: 0 
 og:
   description: "Une leçon sur Wikipédia en tant que source historique nativement numérique et sur la manière d’y appliquer la critique des sources numériques." 
 ---

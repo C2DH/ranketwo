@@ -22,6 +22,7 @@ research-phase: heuristics
 activity: web-scraping
 cover:
   url: /assets/images/guide-collecting-posts-communalytic/guide-communalytic-avatar.jpg
+order: -1
 ---
 
 Learn how to easily collect social media data with Communalytic software.
