@@ -2,7 +2,7 @@
 title: "Maps and Historical Enquiry: Critical Approaches in Digital Contexts"
 layout: unit
 date: 2026-04-08
-publication_date: 2026-07-16
+publication_date: 2026-07-17
 toc: on
 research-phase: hermeneutics
 activities: 
