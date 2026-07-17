@@ -25,6 +25,7 @@ COPY _assignments ./_assignments
 COPY _data ./_data
 COPY _includes ./_includes
 COPY _layouts ./_layouts
+COPY _plugins ./_plugins
 COPY _sass ./_sass
 COPY _units ./_units
 COPY _workshops ./_workshops
