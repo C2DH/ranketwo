@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+{% assign paragraphs = page.content | split: site.excerpt_separator %} {%
+include page.top.html %}
+<div class="container">
+  <div class="contents mt-5 mb-5" id="contents">
+    <section>
+      <h2 class="mb-3">Activities</h2>
+    </section>
+    <div class="row">
+      {% for item in site.data.activities %}
+      <div class="col-md-6 col-lg-4">
+        <div class="card">
+          <div class="card-body">
+            <h5 class="card-title">{{ item.displayname[page.lang] }}</h5>
+            <p class="card-tags">
+              <span class="label">
+                {% assign key=item.category %}{% include t.html %}
+              </span>
+            </p>
+            <p class="card-text">
+              {{item.definition[page.lang] | markdownify}}
+            </p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <section>
+      <h2 class="mb-3">Tags</h2>
+    </section>
+    <div class="row">
+      {% for item in site.data.tags %}
+      <div class="col-md-6 col-lg-4">
+        <div class="card">
+          <div class="card-body">
+            <h5 class="card-title">{{ item.displayname[page.lang] }}</h5>
+            <p class="card-tags">
+              <span class="label">
+                {% assign key=item.category %}{% include t.html %}
+              </span>
+            </p>
+            <p class="card-text">
+              {{item.definition[page.lang] | markdownify}}
+            </p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
