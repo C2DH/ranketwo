@@ -33,10 +33,10 @@ components:
 cover:
   url: /assets/images/digital-maps/avatar.jpg
   position: center
-  caption: 
+  caption: "[Carte faite par les Japonais, apportée en Europe par Kaempfer et déposée dans le cabinet de M. Hans Sloane, président de la Société royale de Londres. 1784. Collection Gossellin, 0317](https://images.bnf.fr/detail/1821076). Bibliothèque nationale de France. Domaine public" 
 order: -2 
 og:
-  description: 
+  description: "A lesson on applying source criticism to digital maps for a historical analysis."
 ---
 
  A lesson on applying source criticism to digital maps for a historical analysis.
