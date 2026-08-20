@@ -29,27 +29,27 @@ Mapping has always been particularly important in warfare because of the need to
 
 [[iiif topografische-karte-naedlingen-1942-01 "Detail of Topografische Karte 1:25000, ed. by Reichsamt für Landesaufnahme, sheet No. 4969 Nädlingen, 1942"]]
 
-Figure . Detail of Topografische Karte 1:25000, ed. by Reichsamt für Landesaufnahme, sheet No. 4969 Nädlingen, 1942. Source: Herder Institute
+Figure 11. Detail of Topografische Karte 1:25000, ed. by Reichsamt für Landesaufnahme, sheet No. 4969 Nädlingen, 1942. Source: Herder Institute
 
 The first illustration is a detail of the standard German topographic map (1:25000) showing the surroundings of Markstädt and Fünfteichen in Silesia, about 20km East of Breslau/Wrocław, dated 1942. Over the following years of the war, this map was not updated, although smaller-scale maps were published, such as the Karte des Deutschen Reiches (1:100000), map no. 104, in 1944.
 
 [[iiif topagrafische-karte-breslau-schweidnitz-1944-01 "Detail of Topografische Karte 1:100000, ed by Reichsamt für Landesaufnahme, sheet No. 104 Breslau, 1944"]]
 
-Figure . Detail of Topografische Karte 1:100000, ed by Reichsamt für Landesaufnahme, sheet No. 104 Breslau, 1944. Source: Herder Institute
+Figure 12. Detail of Topografische Karte 1:100000, ed by Reichsamt für Landesaufnahme, sheet No. 104 Breslau, 1944. Source: Herder Institute
 
 By the end of the war, when the Soviet Army approached German borders, the Deutsche Luftwaffe (German air force) had stepped up its reconnaissance flights to prepare its defence. The following aerial image was taken during flight 1308 on 18 September 1944.
 
 [[iiif deutsche-luftwaffe-flight-1308-689-1944 "Deutsche Luftwaffe (German air force) flight No. 1308, image No. 689, 18 September 1944"]]
 
 
-Figure : Deutsche Luftwaffe (German air force) flight No. 1308, image No. 689, 18 September 1944. [Source: Herder Institute](https://dbs.herder-institut.de/karten/id/K01_1308)
+Figure 13: Deutsche Luftwaffe (German air force) flight No. 1308, image No. 689, 18 September 1944. [Source: Herder Institute](https://dbs.herder-institut.de/karten/id/K01_1308)
 
 We can compare these different kinds of spatial representation and evaluate the content of the maps and the aerial image. To facilitate comparison, the aerial image should be rotated northwards and the maps should be adjusted so that they are on a similar scale.
 
 [[iiif montage-fuenfteichen-05 "Montage of aerial image and maps"]]
 
 
-Figure : Montage of aerial image (rotated Northwards) and 1:25000 map and 1:100000 map
+Figure 14: Montage of aerial image (rotated Northwards) and 1:25000 map and 1:100000 map
 
 Analysing the picture and comparing it with the topographic maps, the same settlements and the same converging train rails are recognisable. But there is more: the aerial image shows some huge buildings (A) as well as a regular structure of small buildings (B).
 
@@ -74,27 +74,26 @@ In this part of the lesson, we compare maps from World War One and maps of the R
 
 [[iiif reporting-war-1915-kriegshilfe-muenchen-voelkerkrieg-01 "Verein für Kriegshilfe: Map of the Western front in February 1915"]]
 
-Figure : Verein für Kriegshilfe: Map of the Western front in February 1915
+Figure 15. Verein für Kriegshilfe: Map of the Western front in February 1915
 
 These kinds of small-scale public maps were issued weekly. The regular frequency of publication made them an important medium of information and propaganda: they showed the progress or lack of progress of front lines, informed readers at least roughly about areas at risk of being directly affected by the war, and demonstrated territorial gains and losses. However, the small-scale maps did not give readers a real idea of the situation along the front line. The armies kept large-scale maps showing trenches and fortified places secret, because publicly known details would allow the enemy to direct its attacks with greater precision.
 
 [[iiif reporting-war-1915-kriegshilfe-western-front-01 "Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz. Herder Institute. Public Domain"]]
-Figure : Die militärischen Ereignisse im Völkerkrieg 1914-15. In wöchentlichen Karten mit Chronik zu dauernder Erinnerung. Published by Vereinigung für Private Kriegshilfe, Munich, 1914-15. Map no. 19: Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz
+Figure 16. Die militärischen Ereignisse im Völkerkrieg 1914-15. In wöchentlichen Karten mit Chronik zu dauernder Erinnerung. Published by Vereinigung für Private Kriegshilfe, Munich, 1914-15. Map no. 19: Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz
+
 
 [[iiif reporting-war-1915-kriegshilfe-western-front-02 "Large scale map, Franco-German front, February 1915. Herder Institute. Public Domain"]]
-Figure : detail of the previous map
+Figure 16bis. Detail of the previous map
 
  
 A couple of decades after a war is over, archives in many countries open these kinds of large-scale maps to public access. Such maps were usually printed by army map services. Surveying officers at the front line would observe the situation and draw and annotate maps by hand to provide a reliable image of the situation. The question “What does the map show us?” may lead us to a variety of answers: of course, the topography of the hills and valleys south of Verdun as well as the dense network of trenches are visible on the map. In addition, it served as a representation of static warfare (armies on both sides fighting over just a few hundred metres to capture the opposite trench) and also as a representation of a huge graveyard for the thousands of soldiers who died in these fields.
 
-Today, several small-scale maps about ongoing wars in the world, for example the war between Russia and Ukraine that began in 2022, continue to be printed in newspapers and periodicals, and there are also many more maps online at both small and large scales. These digital maps are either static images or dynamic web map services that provide specific data and illustrate changes over time (the latter are based on the use of geographic information systems, which we will see in more detail in assignment 4). Prominent examples of web map services documenting the Russia-Ukraine war are the [LiveUAmap](https://liveuamap.com/en/), the [ACLEDdata](https://acleddata.com/monitor/ukraine-conflict-monitor) map or the web map of the [Neue Zürcher Zeitung](https://www.nzz.ch/english/ukraine-war-interactive-map-of-the-current-front-line-ld.1688087].
+Today, several small-scale maps about ongoing wars in the world, for example the war between Russia and Ukraine that began in 2022, continue to be printed in newspapers and periodicals, and there are also many more maps online at both small and large scales. These digital maps are either static images or dynamic web map services that provide specific data and illustrate changes over time (the latter are based on the use of geographic information systems, which we will see in more detail in assignment 4). Prominent examples of web map services documenting the Russia-Ukraine war are the [LiveUAmap](https://liveuamap.com/en/), the [ACLEDdata](https://acleddata.com/monitor/ukraine-conflict-monitor) map or the web map of the [Neue Zürcher Zeitung](https://www.nzz.ch/english/ukraine-war-interactive-map-of-the-current-front-line-ld.1688087).
 
 
 [[iiif reporting-war-2023_live-ukraine-map-01 "Screenshot of Ukraine on the service Live Universal Awareness Map"]]
 
-Figure :Screenshot of Ukraine on LiveUAmap on 7 June 2023
-URL: https://liveuamap.com/en/time/07.06.2023 
-Images reproduced for the purpose of this lesson in accordance with [terms of use](https://liveuamap.com/about#terms). 
+Figure 17. Screenshot of Ukraine on LiveUAmap on 7 June 2023. [URL](https://liveuamap.com/en/time/07.06.2023). Image reproduced for the purpose of this lesson in accordance with [terms of use](https://liveuamap.com/about#terms). 
 
 These web map services illustrating the Russia-Ukraine war offer multi-scale maps. At small scales they provide an overview, while at larger scales users can zoom in to the front line in a particular region. The content of the maps is derived from various sources, such as messenger services, military press briefings, etc. Although we can zoom in to a large-scale map, and although we can find detailed information about the front line, most maps do not provide data about the positions of fortified places or military installations on the Ukrainian side.
 
