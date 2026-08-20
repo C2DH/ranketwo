@@ -146,16 +146,17 @@ Maps can be an impressive tool for visualising power. Political entities – kin
 
 #### Contextual information and maps
 
+The map shown in Figure 9 below is part of the “Chambers of Commerce Atlas”, published in London in 1928. The [Chambers of Commerce](https://en.wikipedia.org/w/index.php?title=British_Chambers_of_Commerce&oldid=1270196576) are one of the main British institutions for facilitating worldwide trade. The Atlas was aimed at a British audience, and more broadly any English-speaking readers interested in trade routes, as well as the spatial distribution of natural resources and commercial capacities. The “General Reference Map” uses the colour pink to indicate territories that are linked to the British Empire and the Commonwealth. This is an obvious (and colourful) technique to highlight British influence across the world. However, the map also conveys dominant cultural representations of an imperial power, which is obvious in the use of place names – for example Bombay (in India) and Constantinople (in Turkey), rather than Mumbaī and İstanbul. Although the former were the place names commonly in use in the English language for these two cities, and therefore familiar to a British audience, their use also suggests a world in which the United Kingdom is culturally, financially and politically a dominant power.
+
 [[iiif chambers-of-commerce-1928-world-map "Chambers of Commerce Atlas, General Reference Map, 1928"]]
 
-
-This map is part of the “Chambers of Commerce Atlas”, published in London in 1928. The [Chambers of Commerce](https://en.wikipedia.org/w/index.php?title=British_Chambers_of_Commerce&oldid=1270196576) are one of the main British institutions for facilitating worldwide trade. The Atlas was aimed at a British audience, and more broadly any English-speaking readers interested in trade routes, as well as the spatial distribution of natural resources and commercial capacities. The “General Reference Map” uses the colour pink to indicate territories that are linked to the British Empire and the Commonwealth. This is an obvious (and colourful) technique to highlight British influence across the world. However, the map also conveys dominant cultural representations of an imperial power, which is obvious in the use of place names – for example Bombay (in India) and Constantinople (in Turkey), rather than Mumbaī and İstanbul. Although the former were the place names commonly in use in the English language for these two cities, and therefore familiar to a British audience, their use also suggests a world in which the United Kingdom is culturally, financially and politically a dominant power.
+Figure 9. The Chambers of Commerce Atlas issued under the auspices of the association of British Chambers of Commerce : a systematic survey of the world's trade, economic resources & communications. S.l.: George Philip & Son, ltd, 1928. Public Domain.
 
 [[iiif international-movements-of-capital-1938 "A. Rado, International Movements of Capital, The Atlas of To-day and To-morrow, 1938. Public domain"]]
 
-Figure 9. Alexander Radó, “International Movements of Capital”. In *The Atlas of To-day and To-morrow*. London, UK: Victor Gollanz, 1938. Public Domain.  
+The map shown in Figure 10 below, “International Movements of Capital”, is included in the “Atlas of To-day and To-morrow”, published by Alexander (Sándor) Radó, also in London, in 1938. The atlas outlines the cleavages caused by global conflicts in the early 20th century. Most of the maps in the atlas are in black and white, although some also include red. On the map, circles and arrows demonstrate the amount of capital flowing from major powers to other parts of the world. The visual strength of the map derives from the arrows and lines linking different parts of the world. Various interpretations are possible: Do the lines and arrows demonstrate the competition between the British Empire and the rising power of the United States of America? Or does the map allow for a visual comparison of investment strategies: British capital is invested overseas, while, for example, French capital mainly goes to Central and Eastern European countries? Or do these lines represent symbolic tentacles, reaching out to grab more and more parts of the world?
 
-The map “International Movements of Capital” is included in the “Atlas of To-day and To-morrow”, published by Alexander (Sándor) Radó, also in London, in 1938. The atlas outlines the cleavages caused by global conflicts in the early 20th century. Most of the maps in the atlas are in black and white, although some also include red. On the map, circles and arrows demonstrate the amount of capital flowing from major powers to other parts of the world. The visual strength of the map derives from the arrows and lines linking different parts of the world. Various interpretations are possible: Do the lines and arrows demonstrate the competition between the British Empire and the rising power of the United States of America? Or does the map allow for a visual comparison of investment strategies: British capital is invested overseas, while, for example, French capital mainly goes to Central and Eastern European countries? Or do these lines represent symbolic tentacles, reaching out to grab more and more parts of the world?
+Figure 10. Alexander Radó, “International Movements of Capital”. In *The Atlas of To-day and To-morrow*. London, UK: Victor Gollanz, 1938. Public Domain.  
 
 Look at the maps, bearing in mind the contextual information provided above. If you need further information about the context of creation, you can also do your own research online. The Wikipedia articles on the map creators can be useful to answer the questions below:
 
@@ -176,7 +177,7 @@ Choices
 * What is shown? What is missing?
 * Representation strategies
   * Use of colours
-  * Use of symbols, if any: type, size... 
+  * Use of symbols, if any: type, size...
 
 <!-- section -->
 
