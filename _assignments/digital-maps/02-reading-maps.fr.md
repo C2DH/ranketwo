@@ -12,9 +12,9 @@ outcomes:
 order: 2 
 ---
 
-It is important to understand how the steps outlined in the [Methodology section](/#methodology) apply to source criticism. When analysing maps as historical sources, we need to start with fundamental questions, such as: Who produced the map, and when? For what purpose, and for whom? What is the content of the map? How is the map content presented? Some of these questions can be answered with the help of the descriptive information provided alongside maps or information contained in other sources, or by closely studying the maps’ content. We should keep in mind that the creators, i.e. the authors, cartographers and editors, of maps have to make decisions in the course of map production to select particular features, objects or information to be represented in the map. They also need to follow conventions regarding map design, i.e. symbols and styles developed over centuries, especially since the 19th century. Maps therefore develop from a chain of decisions which result in a 2D or 3D rendering of specific elements of space. In this way maps are a medium for categorising, systematising, levelling, reducing and stereotyping spatial features and individual characteristics of the objects depicted in them. They are based on the visual equation of different manifestations of the same phenomenon, arbitrarily set as a standard or group of characteristics. The choice of the area that can be seen on a map and the allocation of centres and peripheral locations are thereby connected.
+It is important to understand how the steps outlined in the [Methodology section](/#c-methodology.en) apply to source criticism. When analysing maps as historical sources, we need to start with fundamental questions, such as: Who produced the map, and when? For what purpose, and for whom? What is the content of the map? How is the map content presented? Some of these questions can be answered with the help of the descriptive information provided alongside maps or information contained in other sources, or by closely studying the maps’ content. We should keep in mind that the creators, i.e. the authors, cartographers and editors, of maps have to make decisions in the course of map production to select particular features, objects or information to be represented in the map. They also need to follow conventions regarding map design, i.e. symbols and styles developed over centuries, especially since the 19th century. Maps therefore develop from a chain of decisions which result in a 2D or 3D rendering of specific elements of space. In this way maps are a medium for categorising, systematising, levelling, reducing and stereotyping spatial features and individual characteristics of the objects depicted in them. They are based on the visual equation of different manifestations of the same phenomenon, arbitrarily set as a standard or group of characteristics. The choice of the area that can be seen on a map and the allocation of centres and peripheral locations are thereby connected.
 
-Please refer to the [Methodology section](/#methodology) while working on the exercices that follow.  
+Please refer to the [Methodology section](/#c-methodology.en) while working on the exercices that follow.  
 
 <!-- more -->
 
@@ -43,20 +43,20 @@ There is a wide variety of methodological reflections concerning map analysis, u
 
 We can start with basic questions such as: why does a certain map show a feature in a particular way, and why is this feature shown differently on another map? Step by step, we can go deeper into the details of the map and explore possible explanations for these differences.
 
-Let us take the example of world maps. Observe the three maps below.
+Let us take world maps as an example. Observe the three maps shown in Figures 2, 3 and 4 below.
 
-
-1. Map 24: Principal Routes of the World in Kaiseikwan’s Standard Atlas of Japan, 1925, Tōkyō Kaiseikan (Kaiseikan mohan Nihon chizu: Monbushō kenteizumi: shihan gakkō, chūgakkō, kōtō jogakkō chirikayō)
-
-2. World Map in German School Atlas in Lange, Henry und Carl Diercke, Schulatlas (mit Karte zur Heimatkunde), Braunschweig [u.a.]: Westermann, [1932?]
-
-3. Official National Atlas of India. Government of India, Ministry of Education and Scientific Research (Hg.): National Atlas of India (preliminary Edition), ed. by. S. P. Chatterjee, Calcutta/ Dehradun 1957
 
 [[iiif kaiseikan-standard-atlas-of-japan-1925-map-24-routes-world "Map 24: Principal Routes of the World in Kaiseikwan's standard atlas of Japan, 1925, Tōkyō Kaiseikan (Kaiseikan mohan Nihon chizu: Monbushō kenteizumi : shihan gakkō, chūgakkō, kōtō jogakkō chirikayō). Public Domain"]]
 
+Figure 2. Map 24: Principal Routes of the World in Kaiseikwan’s Standard Atlas of Japan, 1925, Tōkyō Kaiseikan (Kaiseikan mohan Nihon chizu: Monbushō kenteizumi: shihan gakkō, chūgakkō, kōtō jogakkō chirikayō). Public Domain
+
 [[iiif diercke-1932-schulatlas-s-17 "German School-Atlas, World Map, 1932. Lange, Henry und Carl Diercke, Schulatlas (mit Karte zur Heimatkunde), Braunschweig: Westermann, 1932"]]
 
+Figure 3. World Map in German School Atlas in Lange, Henry und Carl Diercke, Schulatlas (mit Karte zur Heimatkunde), Braunschweig [u.a.]: Westermann, [1932?]. Public Domain
+
 [[iiif india-national-atlas-welt "Government of India, Ministry of Education and Scientific Research (Hg.): National Atlas of India (preliminary Edition), ed. by. S. P. Chatterjee, Calcutta/ Dehradun 1957."]]
+
+Figure 4. Official National Atlas of India. Government of India, Ministry of Education and Scientific Research (Hg.): National Atlas of India (preliminary Edition), ed. by. S. P. Chatterjee, Calcutta/ Dehradun 1957
 
 Apply source criticism to the maps with the help of the key questions introduced above: Who produced the map? When was it created? What is the content of the map? How is the map content presented? Why was the map created? Who was the map aimed at?
 
@@ -66,24 +66,22 @@ After this first step, go deeper into cartographic details to analyse the partic
 
 Focusing on the details of maps and tackling comparative questions may prove rather difficult as we do not necessarily have the relevant background material to give us an insight into the production process and the cartographer’s decisions. So we should proceed carefully when starting our interpretation and elaborating on explanations regarding the appearance and content of maps. When analysing a map, we should bear in mind that the authors, cartographers and editors of maps have to make many decisions in the course of map production, whether implicit or explicit, conscious or unconscious. Map makers select particular features from the wealth of spatial information available, and focus on a few features they want to visualise. Specific cartographic “languages” and styles (symbols, colours etc.) have developed over centuries. Since the 19th century, increasing international exchanges among cartographers and editors have led to various conventions regarding map design, such as placing the geographic north at the top of the map.
 
-Now study two maps of the Mediterranean and note your observations on the basis of what you have learned above.
-
-Map 1: “Petite carte d'Orient et de la Méditerranée” (1840), held by: Bibliothèque nationale de France, département Cartes et plans, GE DL 1840-261. (The image is used courtesy of the holding institution)
+Now study two maps of the Mediterranean shown in Figures 5 and 6 below and note your observations on the basis of what you have learned above.
 
 [[iiif petite-carte-orient-mediterranee "Petite carte d'Orient et de la Méditerranée (Édition pittoresque à 100 000 exemplaires) / gravée par Ch. Avril ; lith. J. Simon"]]
 
+Figure 5. “Petite carte d'Orient et de la Méditerranée” (1840), held by: Bibliothèque nationale de France, département Cartes et plans, GE DL 1840-261. (The image is used courtesy of the holding institution)
 
-Map 2: “Mediterranean without Borders” (2011) by the artist Sabine Réthoré, displayed in the [Musée des civilisations de l’Europe et de la Méditerranée](https://mucem.org/en/) and freely available on the website of the artist. 
 
 [[iiif mediterranean-without-borders "Sabine Réthoré, Mediterranean without Borders, Mucem, Marseille, France. Free Art Licence"]]
 
-Source: [http://sabine-rethore.net/fr/cartes/mediterraneesans.html](http://sabine-rethore.net/fr/cartes/mediterraneesans.html)
+Figure 6. “Mediterranean without Borders” (2011) by the artist Sabine Réthoré, displayed in the [Musée des civilisations de l’Europe et de la Méditerranée](https://mucem.org/en/). The map is freely available on the website of the artist under Licence Art Libre. Source: [http://sabine-rethore.net/fr/cartes/mediterraneesans.html](http://sabine-rethore.net/fr/cartes/mediterraneesans.html)
 
 Reflect on how the production of maps is based on a chain of decisions and therefore filters spatial reality. It is likely that the cartographer has applied particular techniques to support a specific perception of their map and counter unwanted interpretations. Maps are a way of categorising, systematising, levelling and stereotyping spatial features and individual characteristics of the objects depicted in them. 
 
 <!-- section -->
 
-### 2.c Elucidating choices, audience and purpose: imagining populations in maps  | 45 mins
+### 2.c Elucidating choices, audience and purpose: imagining populations in maps | 45 mins
 <!-- section-contents -->
 
 *By Peter Haslinger*
@@ -97,15 +95,17 @@ You will work with two maps that were created in the context of [World War One](
 
 Polish cartographer [Eugeniusz Romer](https://en.wikipedia.org/wiki/Eugeniusz_Romer) (1871-1954) produced maps during World War One. In the aftermath of the war, these maps served as cartographic templates for the Polish delegation’s maps at the Paris Peace Conference (published as Polski Atlas Kongresowy in 1921). Romer’s credibility among international geographers and his personal friendships with some experts on the side of the Allied Powers, especially the highly influential American expert [Isaiah Bowman](https://en.wikipedia.org/wiki/Isaiah_Bowman), increased the authoritative nature of the maps presented by the Polish delegation to the decision-makers. In a map entitled “The political and ethnographical territory of Poland (1772)”, Romer supports a maximalist approach to Polish territorial claims by combining the territory of the Polish–Lithuanian Commonwealth (“Poland” in its borders prior to the First Partition of 1772) with additional areas in the west containing some Polish populations. We can see the strategy of creating a normative connection between language use and political boundaries.
 
-Figure : Chodkiewicz, Bronisław, Bronisław Gubrynowicz, Adolf Holzhausen, Karol Nitsch, Jacek Nowak, Eugeniusz Romer, Jacek Rutkowski, Władysław Semkowicz, Władysław Szafer and Stanisław Wiktor Weigner, eds. 1916. Geograficzno-statystyczny atlas Polski [1-3]. (Geographical and Statistical Atlas of Poland). Gebethner i Wolff. PAN Kórnik Library, Kórnik, Poland. Public domain. [URL](https://www.wbc.poznan.pl/dlibra/publication/557330/edition/474699/content)
 
 [[iiif population-romer-1916-atlas-polski-nr-9-polacy-1922-A188 "Map of E. Romer representing the population of Poland, Atlas Polski, 1916. PAN Kórnik Library, Kórnik, Poland. Public Domain."]]
 
+Figure 7. Chodkiewicz, Bronisław, Bronisław Gubrynowicz, Adolf Holzhausen, Karol Nitsch, Jacek Nowak, Eugeniusz Romer, Jacek Rutkowski, Władysław Semkowicz, Władysław Szafer and Stanisław Wiktor Weigner, eds. 1916. Geograficzno-statystyczny atlas Polski [1-3]. (Geographical and Statistical Atlas of Poland). Gebethner i Wolff. PAN Kórnik Library, Kórnik, Poland. Public domain. [URL](https://www.wbc.poznan.pl/dlibra/publication/557330/edition/474699/content)
+
+
 Hungarian politician [Pál Teleki](https://en.wikipedia.org/wiki/P%C3%A1l_Teleki) (1879-1941), who served as Prime Minister on two occasions, became the leading geographer and academic mastermind of Hungarian cartography and geopolitics. Teleki’s extensive language skills had helped establish his international reputation before the war (he spoke German, French and English, as well as some Dutch, Italian and Romanian). During the peace negotiations between Hungary and the Allied Powers at Trianon, the official Hungarian delegation promoted the idea that Hungary was one of the most striking morphological units on the physical map of Europe, with the practically uninhabited belt of the Carpathians surrounding most of the country and creating a natural barrier. In preparation for the peace talks he drafted the famous “carte rouge” as early as December 1918. This map was now used alongside the Hungarian memoranda in order to retain as much territory as possible for Hungary, and was published in several editions even after the Treaty of Trianon was signed on 4 June 1920. Teleki’s method of not including areas that were less populated, and his choice of colours (red for Hungarian, pale pink for Romanian), over-emphasised the Hungarian-speaking minority population in Transylvania at the expense of the Romanian-speaking majority.
 
-Figure : Paul Teleki, Magyarorzság néprajzi térképe a népsűrűség alapján (Ethnographic map of Hungary based on population density), Den Haag: Lith. J. Smulders and Co., 1919. HM Military History Institute and Museum, Budapest, Hungary. Image reproduced courtesy of the content provider. [URL](https://maps.hungaricana.hu/en/HTITerkeptar/2751/)
-
 [[iiif population-telecki-1920-ethnogr-map-hungary-03 "P. Teleki, Ethnographic map of Hungary based on population density, 1919, HM Military History Institute and Museum. Image reproduced courtesy of the content provider."]]
+
+Figure 8. Paul Teleki, Magyarorzság néprajzi térképe a népsűrűség alapján (Ethnographic map of Hungary based on population density), Den Haag: Lith. J. Smulders and Co., 1919. HM Military History Institute and Museum, Budapest, Hungary. Image reproduced courtesy of the content provider. [URL](https://maps.hungaricana.hu/en/HTITerkeptar/2751/)
 
 
 Check the maps and the contextual information provided above. If you feel you need further information, you can also conduct some research on the web. Then answer the following questions:
@@ -146,16 +146,17 @@ Maps can be an impressive tool for visualising power. Political entities – kin
 
 #### Contextual information and maps
 
+The map shown in Figure 9 below is part of the “Chambers of Commerce Atlas”, published in London in 1928. The [Chambers of Commerce](https://en.wikipedia.org/w/index.php?title=British_Chambers_of_Commerce&oldid=1270196576) are one of the main British institutions for facilitating worldwide trade. The Atlas was aimed at a British audience, and more broadly any English-speaking readers interested in trade routes, as well as the spatial distribution of natural resources and commercial capacities. The “General Reference Map” uses the colour pink to indicate territories that are linked to the British Empire and the Commonwealth. This is an obvious (and colourful) technique to highlight British influence across the world. However, the map also conveys dominant cultural representations of an imperial power, which is obvious in the use of place names – for example Bombay (in India) and Constantinople (in Turkey), rather than Mumbaī and İstanbul. Although the former were the place names commonly in use in the English language for these two cities, and therefore familiar to a British audience, their use also suggests a world in which the United Kingdom is culturally, financially and politically a dominant power.
+
 [[iiif chambers-of-commerce-1928-world-map "Chambers of Commerce Atlas, General Reference Map, 1928"]]
 
+Figure 9. The Chambers of Commerce Atlas issued under the auspices of the association of British Chambers of Commerce : a systematic survey of the world's trade, economic resources & communications. S.l.: George Philip & Son, ltd, 1928. Public Domain.
 
-This map is part of the “Chambers of Commerce Atlas”, published in London in 1928. The [Chambers of Commerce](https://en.wikipedia.org/w/index.php?title=British_Chambers_of_Commerce&oldid=1270196576) are one of the main British institutions for facilitating worldwide trade. The Atlas was aimed at a British audience, and more broadly any English-speaking readers interested in trade routes, as well as the spatial distribution of natural resources and commercial capacities. The “General Reference Map” uses the colour pink to indicate territories that are linked to the British Empire and the Commonwealth. This is an obvious (and colourful) technique to highlight British influence across the world. However, the map also conveys dominant cultural representations of an imperial power, which is obvious in the use of place names – for example Bombay (in India) and Constantinople (in Turkey), rather than Mumbaī and İstanbul. Although the former were the place names commonly in use in the English language for these two cities, and therefore familiar to a British audience, their use also suggests a world in which the United Kingdom is culturally, financially and politically a dominant power.
+The map shown in Figure 10 below, “International Movements of Capital”, is included in the “Atlas of To-day and To-morrow”, published by Alexander (Sándor) Radó, also in London, in 1938. The atlas outlines the cleavages caused by global conflicts in the early 20th century. Most of the maps in the atlas are in black and white, although some also include red. On the map, circles and arrows demonstrate the amount of capital flowing from major powers to other parts of the world. The visual strength of the map derives from the arrows and lines linking different parts of the world. Various interpretations are possible: Do the lines and arrows demonstrate the competition between the British Empire and the rising power of the United States of America? Or does the map allow for a visual comparison of investment strategies: British capital is invested overseas, while, for example, French capital mainly goes to Central and Eastern European countries? Or do these lines represent symbolic tentacles, reaching out to grab more and more parts of the world?
 
 [[iiif international-movements-of-capital-1938 "A. Rado, International Movements of Capital, The Atlas of To-day and To-morrow, 1938. Public domain"]]
 
-Figure : Alexander Radó, “International Movements of Capital”. In *The Atlas of To-day and To-morrow*. London, UK: Victor Gollanz, 1938. Public Domain.  
-
-The map “International Movements of Capital” is included in the “Atlas of To-day and To-morrow”, published by Alexander (Sándor) Radó, also in London, in 1938. The atlas outlines the cleavages caused by global conflicts in the early 20th century. Most of the maps in the atlas are in black and white, although some also include red. On the map, circles and arrows demonstrate the amount of capital flowing from major powers to other parts of the world. The visual strength of the map derives from the arrows and lines linking different parts of the world. Various interpretations are possible: Do the lines and arrows demonstrate the competition between the British Empire and the rising power of the United States of America? Or does the map allow for a visual comparison of investment strategies: British capital is invested overseas, while, for example, French capital mainly goes to Central and Eastern European countries? Or do these lines represent symbolic tentacles, reaching out to grab more and more parts of the world?
+Figure 10. Alexander Radó, “International Movements of Capital”. In *The Atlas of To-day and To-morrow*. London, UK: Victor Gollanz, 1938. Public Domain.  
 
 Look at the maps, bearing in mind the contextual information provided above. If you need further information about the context of creation, you can also do your own research online. The Wikipedia articles on the map creators can be useful to answer the questions below:
 
