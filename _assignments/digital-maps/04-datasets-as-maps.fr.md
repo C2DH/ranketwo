@@ -148,9 +148,9 @@ Yan Wu, Cameron Blevins, Steven Braun. Gossamer Network. Companion website to Ca
 
 *Case studies in historical research using GIS*
 
-Vieira Paulino, Joana. 2025. “Child Abandonment in 19th Century Lisbon: The Provenance and Distribution of Foundlings Through a GIS Lens”. European Journal of Geography 16 (1):s75-s89. https://doi.org/10.48088/ejg.si.spat.hum.j.pau.75.89 
+Vieira Paulino, Joana. 2025. “Child Abandonment in 19th Century Lisbon: The Provenance and Distribution of Foundlings Through a GIS Lens”. European Journal of Geography 16 (1):s75-s89. [DOI](https://doi.org/10.48088/ejg.si.spat.hum.j.pau.75.89) 
 
-Fretwell, Laura Brannan, and Eliane Schmid. 2025. “Layering Public Park Histories: Uncovering the Effects of Restoration Idea[l]s in Post-War Urban Spaces in Germany and the U.S.”. European Journal of Geography 16 (1):s30-s44. https://doi.org/10.48088/ejg.si.spat.hum.l.bra.30.44
+Fretwell, Laura Brannan, and Eliane Schmid. 2025. “Layering Public Park Histories: Uncovering the Effects of Restoration Idea[l]s in Post-War Urban Spaces in Germany and the U.S.”. European Journal of Geography 16 (1):s30-s44. [DOI](https://doi.org/10.48088/ejg.si.spat.hum.l.bra.30.44)
 
 
 *Watch:*
