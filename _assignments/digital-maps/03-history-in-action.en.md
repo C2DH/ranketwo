@@ -72,14 +72,16 @@ Huge numbers of maps are produced in times of war. While military maps are kept 
 
 In this part of the lesson, we compare maps from World War One and maps of the Russia-Ukraine war since 2022. During World War One, public maps about the war were mainly published in newspapers and periodicals. Most of these maps had a relatively small scale, often showing a rough sketch of the front line between two countries at a scale between 1:1 million and 1:5 million. If a part of the front line was of particular interest, some publishers added medium-scale maps, for example showing Verdun and its surroundings on the French-German front.
 
-[[iiif reporting-war-1915-kriegshilfe-muenchen-voelkerkrieg-01 "Verein für Kriegshilfe: Map of the Western front in February 1915"]]
+[[iiif reporting-war-1915-kriegshilfe-muenchen-voelkerkrieg-01 "Die militärischen Ereignisse im Völkerkrieg 1914-15. Ed. by Verein für Kriegshilfe. Östlicher Kriegsschauplatz (The Eastern Theater of War). 30 August to 6 September 1915"]]
 
-Figure 15. Verein für Kriegshilfe: Map of the Western front in February 1915
+Figure 15. “Östlicher Kriegsschauplatz” - The Eastern Theater of War, from 30 August to 6 September 1915. In *Die militärischen Ereignisse im Völkerkrieg 1914-15*. Vereinigung für Private Kriegshilfe, Munich, 1914-15. Public Domain   
 
 These kinds of small-scale public maps were issued weekly. The regular frequency of publication made them an important medium of information and propaganda: they showed the progress or lack of progress of front lines, informed readers at least roughly about areas at risk of being directly affected by the war, and demonstrated territorial gains and losses. However, the small-scale maps did not give readers a real idea of the situation along the front line. The armies kept large-scale maps showing trenches and fortified places secret, because publicly known details would allow the enemy to direct its attacks with greater precision.
 
-[[iiif reporting-war-1915-kriegshilfe-western-front-01 "Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz. Herder Institute. Public Domain"]]
-Figure 16. Die militärischen Ereignisse im Völkerkrieg 1914-15. In wöchentlichen Karten mit Chronik zu dauernder Erinnerung. Published by Vereinigung für Private Kriegshilfe, Munich, 1914-15. Map no. 19: Die militärischen Ereignisse vom 24. Januar bis 1. Februar 1915, Westlicher Kriegsschauplatz
+[[iiif reporting-war-1915-kriegshilfe-western-front-01 "Map no. 21: Die militärischen Ereignisse vom 9. bis 16. Februar 1915, Westlicher Kriegsschauplatz. In *Die militärischen Ereignisse im Völkerkrieg 1914-15*. Published by Vereinigung für Private Kriegshilfe, Munich, 1914-15. Public Domain"]]
+
+Figure 16. “Westlicher Kriegsschauplatz” - The Western Theater of War, from 9 to 16 February 1915. In *Die militärischen Ereignisse im Völkerkrieg 1914-15*. Vereinigung für Private Kriegshilfe, Munich, 1914-15. Public Domain   
+
 
 
 [[iiif reporting-war-1915-kriegshilfe-western-front-02 "Large scale map, Franco-German front, February 1915. Herder Institute. Public Domain"]]
