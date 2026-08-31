@@ -150,7 +150,10 @@ The map shown in Figure 9 below is part of the “Chambers of Commerce Atlas”,
 
 [[iiif chambers-of-commerce-1928-world-map "Chambers of Commerce Atlas, General Reference Map, 1928"]]
 
-Figure 9. The Chambers of Commerce Atlas issued under the auspices of the association of British Chambers of Commerce : a systematic survey of the world's trade, economic resources & communications. S.l.: George Philip & Son, ltd, 1928. Public Domain.
+Figure 9. “World - General Reference Map Showing Political Divisions”. In *The Chambers of Commerce Atlas issued under the auspices of the association of British Chambers of Commerce: a systematic survey of the world's trade, economic resources & communications*. S.l.: George Philip & Son, ltd, 1928. Public Domain.
+Figure 9. "World - General Reference Map Showing Political Divisions".
+In The Chambers of Commerce Atlas, ed. by George Philip and T. Swinborne
+Sheldrake, London/Liverpool 1928. Public Domain.
 
 
 The map shown in Figure 10 below, “International Movements of Capital”, is included in the “Atlas of To-day and To-morrow”, published by Alexander (Sándor) Radó, also in London, in 1938. The atlas outlines the cleavages caused by global conflicts in the early 20th century. Most of the maps in the atlas are in black and white, although some also include red. On the map, circles and arrows demonstrate the amount of capital flowing from major powers to other parts of the world. The visual strength of the map derives from the arrows and lines linking different parts of the world. Various interpretations are possible: Do the lines and arrows demonstrate the competition between the British Empire and the rising power of the United States of America? Or does the map allow for a visual comparison of investment strategies: British capital is invested overseas, while, for example, French capital mainly goes to Central and Eastern European countries? Or do these lines represent symbolic tentacles, reaching out to grab more and more parts of the world?
