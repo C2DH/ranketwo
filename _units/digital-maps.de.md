@@ -1,5 +1,5 @@
 ---
-title: "Maps and Historical Enquiry: Critical Approaches in Digital Contexts"
+title: "Maps and historical enquiry: critical approaches in digital contexts"
 layout: unit
 date: 2026-04-08
 publication_date: 2026-07-17
