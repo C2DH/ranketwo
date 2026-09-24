@@ -2,7 +2,7 @@
 layout: assignment
 unit: digital-maps 
 lang: en
-title: "History in action: Maps as real-time data"
+title: "History in action: maps as real-time data"
 cover:
 documents:
   - 
