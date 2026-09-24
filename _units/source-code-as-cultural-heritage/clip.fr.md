@@ -9,7 +9,7 @@ iframe: source-code-as-cultural-heritage-french
 
 {: .headsup}
 
-Une animation vidéo présentant brièvement Wikipédia et expliquant pourquoi les historiens et historiennes devraient s’y intéresser.
+Une animation vidéo sur le code source des logiciels comme patrimoine culturel expliquant pourquoi les historiens et historiennes devraient s’y intéresser.
 
 Créée par [Gorille](https://www.gorille.co/){:target="_blank"}.  
 
