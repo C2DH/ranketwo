@@ -1,5 +1,5 @@
 ---
-title: "Social Media and Historians"
+title: "Social media and historians"
 layout: unit
 publication_date: 2021-04-27
 toc: on
