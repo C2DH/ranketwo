@@ -2,7 +2,7 @@
 layout: assignment
 unit: digital-maps
 lang: de
-title: "History takes place"
+title: "History in action: maps as real-time data"
 cover:
 documents:
   - 
