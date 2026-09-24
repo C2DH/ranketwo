@@ -1,5 +1,5 @@
 ---
-title: "Maps and Historical Enquiry: Critical Approaches in Digital Contexts"
+title: "Maps and historical enquiry: critical approaches in digital contexts"
 type: clip
 lang: en
 parent: digital-maps
