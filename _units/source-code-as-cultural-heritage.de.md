@@ -28,7 +28,7 @@ components:
   small: animation
   medium: animation + 4 assignments
 cover:
-  url: /assets/images/source-code-as-cultural-heritage/avatar.jpg
+  url: /assets/images/source-code-as-cultural-heritage/avatar.png
   position: center
   caption: "" 
 order:  
