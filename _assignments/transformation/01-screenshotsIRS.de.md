@@ -85,6 +85,8 @@ Sehen Sie sich nun die Metadaten des ersten der beiden Screenshots an, die Sie e
 
 - Prüfen Sie, ob die von Ihnen ermittelten Metadaten korrekt waren. Nutzen Sie dazu das Online-Tool [Metadata2Go](https://www.metadata2go.com), mit dem Sie die Exif- und Metadaten eines Bildes leichter ermitteln und überprüfen können und das darüber hinaus Erklärungen zu einer Reihe von Metadatenkategorien oder -feldern liefert, mit denen Sie möglicherweise nicht vertraut sind.
 
+- Für sensible Dateien können Sie alternativ den [browser-lokalen Metadata Viewer von Metadata Remover](https://metadataremover.ai/metadata-viewer){:target="_blank"} verwenden; überprüfen Sie wichtige Ergebnisse zusätzlich mit einem zweiten Werkzeug, da Metadaten allein keine sichere Zuschreibung erlauben.
+
 <!-- section -->
 
 ### 1.b Bilderkennungstools erkunden | 50 min
