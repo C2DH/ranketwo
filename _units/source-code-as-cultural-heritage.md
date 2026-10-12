@@ -1,7 +1,7 @@
 ---
 title: "Source code as cultural heritage"
 layout: unit
-date: 2026-09-24
+date: 2026-10-12
 publication_date: 
 toc: on
 research-phase: analysis
@@ -30,7 +30,7 @@ components:
 cover:
   url: /assets/images/source-code-as-cultural-heritage/avatar.png
   position: center
-  caption: "" 
+  caption: "Monitor Commodore CBM 3016 with BASIC program. © Raimond Spekking / CC BY-SA 4.0 (via Wikimedia Commons)" 
 order:  
 og:
   description: ""

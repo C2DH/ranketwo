@@ -30,7 +30,7 @@ components:
 cover:
   url: /assets/images/source-code-as-cultural-heritage/avatar.png
   position: center
-  caption: "" 
+  caption: "Monitor Commodore CBM 3016 with BASIC program. © Raimond Spekking. CC BY-SA 4.0. Wikimedia Commons" 
 order:  
 og:
   description: ""
