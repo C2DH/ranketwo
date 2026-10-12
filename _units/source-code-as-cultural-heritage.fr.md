@@ -35,3 +35,5 @@ order:
 og:
   description: ""
 ---
+
+Learn to apply source criticism to source code by treating it as both a technical object and a cultural artefact. The lesson emphasizes contextual, critical, and comparative analysis over technical mastery.
