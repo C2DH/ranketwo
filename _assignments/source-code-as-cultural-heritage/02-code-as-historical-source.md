@@ -61,7 +61,7 @@ When approaching any piece of code, the following questions can guide your analy
 
 **What is absent or missing:** Sometimes what code doesn’t include reveals as much about historical context as what it does. What programming practices, security measures or accessibility features that we might expect today are missing? It is also important to identify any absences in the historical record itself. The systematic exclusion of the six women who programmed [ENIAC](https://en.wikipedia.org/wiki/ENIAC) from historical documentation for decades demonstrates how what is missing reveals as much as what is included ([Light 1999](https://rybn.org/human_computers/articles/when_computers_were_women.pdf)).
 
-![Women programmers holding parts of early Army computers including ENIAC, EDVAC, ORDVAC, and BRLESC-I boards](/assets/images/code-as-heritage/Women_holding_parts_of_the_first_four_Army_computers.jpg "Women holding parts of the first four Army computers")
+![Women programmers holding parts of early Army computers including ENIAC, EDVAC, ORDVAC, and BRLESC-I boards](/assets/images/source-code-as-cultural-heritage/women-holding-parts-of-the-first-four-army-computers.jpg "Women holding parts of the first four Army computers")
 
 **Figure 3:** Four women programmers – Patsy Simmers, Gail Taylor, Milly Beck and Norma Stec – holding boards from early US Army computers (1962). *Credit: U.S. Army Photo 163-12-62, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Women_holding_parts_of_the_first_four_Army_computers.jpg)*
 
@@ -95,7 +95,7 @@ Previously, we introduced some key analytical aspects that historians can consid
 
 Examine the following digitised document carefully. Before reading further, spend five minutes observing the document. What clues can you identify about its origins, authors, purpose, and historical context?
 
-![A historical code artefact](/assets/images/code-as-heritage/Original-Microsoft-Source-Code.jpg "A historical code artefact")
+![A historical code artefact](/assets/images/source-code-as-cultural-heritage/original-microsoft-source-code.jpg "A historical code artefact")
 
 **Figure 4:** Original source code for Microsoft BASIC, written in 1975 by Bill Gates and Paul Allen with contributions from Monte Davidoff. *Source: Gates Notes, 2025.*
 
