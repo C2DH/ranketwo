@@ -30,16 +30,14 @@ Now try to execute the same piece of code yourself. Click on the link and press 
 
 You’ve just executed a program that has been reproduced by generations of programmers. The phrase “Hello, World!” has become a classic first output, symbolising the first step in learning any new programming language.
 
-<details>
-<summary><strong>Background: “Hello, World!” tradition</strong></summary>
-If you have ever opened a programming tutorial, textbook or online course, you have likely encountered “Hello, World!” – a simple program that displays these two words on the screen. This modest example has become a shared tradition, in part because it is one of the shortest programs that actually produces a visible result, making it an efficient first example when introducing any programming language. The <a href="https://rosettacode.org/wiki/Hello_world/Text">Rosetta Code repository</a> documents the historical persistence and cultural significance of this tradition with a collection of implementations of “Hello, World!” in over 300 programming languages, organised chronologically from early mainframe languages to contemporary ones.
+#### Background: “Hello, World!” tradition
+If you have ever opened a programming tutorial, textbook or online course, you have likely encountered “Hello, World!” – a simple program that displays these two words on the screen. This modest example has become a shared tradition, in part because it is one of the shortest programs that actually produces a visible result, making it an efficient first example when introducing any programming language. The [Rosetta Code repository](https://rosettacode.org/wiki/Hello_world/Text) documents the historical persistence and cultural significance of this tradition with a collection of implementations of “Hello, World!” in over 300 programming languages, organised chronologically from early mainframe languages to contemporary ones.
 
 But where did this tradition come from? It can be traced back to Brian Kernighan, who first documented it in a 1972 Bell Labs memorandum titled A Tutorial Introduction to the Language B. It gained widespread adoption through The C Programming Language (1978), co-authored by Kernighan and Dennis Ritchie, one of the most influential programming textbooks ever published ([Wikipedia: “Hello, World!” program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)). The persistence of this tradition across five decades and hundreds of programming languages shows that programming, like any human practice, develops shared traditions. The appearance of “Hello, World!” in contemporary Python tutorials reveals a direct historical lineage from Kernighan’s 1972 memorandum and a form of cultural transmission preserved in code.
-</details>
 
 <!-- section -->
 
-### 1.b Source code: a historical source with its own specificities
+### 1.b Source code: a historical source with its own specificities | 30 mins
 <!-- section-contents -->
 
 Examine the following document from the *Source Code Exhibition*: [OPTIMIZING THE FUTURE: the Fortran Source Code of the Latin American World Model](https://www.sourcecode-exhibition.softwareheritage.org/optimizing-the-future-the-fortran-source-code-of-the-latin-american-world-model/)
@@ -75,7 +73,7 @@ Many classic video games survive only as reverse-engineered approximations after
 
 Look at the image below. You are looking at a storage medium from 1984. It contains a complete software program – a video game called Jet Set Willy, popular in the early home computing era. Before reading on, consider the following questions: What do you think is stored on this cassette? And what do you think might be missing from it?
 
-![Original cassette tape of Jet Set Willy for the Commodore 64, showing the game label on a standard audio cassette](/assets/images/code-as-heritage/Jet_Set_Willy_Cassette.jpg "Jet Set Willy cassette tape")
+![Original cassette tape of Jet Set Willy for the Commodore 64, showing the game label on a standard audio cassette](/assets/images/source-code-as-cultural-heritage/jet-set-willy-cassette.jpg "Jet Set Willy cassette tape")
 
 **Figure 2:** Original cassette tape of *Jet Set Willy* (Commodore 64 version, 1984). *Source: “The Ultimate Tape Archive” collection, [Internet Archive](https://archive.org/details/uta_Jet_Set_Willy_1984_Software_Projects_387).* 
 
@@ -94,10 +92,8 @@ Questions for reflection:
 2. Analyse preservation challenges: What specific technical and cultural obstacles do both authors encounter in their preservation efforts?
 3. Compare methodological approaches: How do their different approaches reflect the broader challenge of code preservation? 
 
-<details>
-<summary><strong>Need help? (click to expand)</strong></summary> 
+**Need help?** 
 Like games, early web applications, mobile apps and desktop software that fundamentally shaped our computer interactions have also disappeared, taking with them vital evidence of the evolution of digital culture  ([Kirschenbaum, Ovenden, and Redwine 2010](https://www.clir.org/pubs/reports/pub149/)). This loss goes far beyond individual programs, affecting entire development ecosystems. As programming languages become obsolete and development tools disappear, specialised knowledge about how to work with these particular systems is gradually scattered as communities evolve and move on to newer technologies ([Shustek 2006](https://ieeexplore.ieee.org/document/4042496)). The resulting impact is both technical and cultural: we lose valuable access to the creative processes that developers used, the collaborative practices they established, the innovative solutions they created, and even the humour embedded by programming teams. All these aspects reflect significant periods in computing history and provide unique insights into computing culture that descriptive historical sources alone could never capture.
-</details>
 
 <!-- section -->
 
