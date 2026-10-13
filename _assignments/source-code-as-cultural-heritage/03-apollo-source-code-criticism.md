@@ -22,7 +22,7 @@ order: 3
  
 The preservation of Apollo’s source code represents a rare exception in software history. Source code from the 1960s presents particular challenges: very little has survived, and what has often did so by accident. The Apollo Guidance Computer software survived because paper listings ended up in institutional collections, primarily the MIT Museum, and because dedicated individuals later undertook the task of digitisation and transcription. Yet even when source code survives, it doesn’t carry everything with it – paper listings document technical decisions but not the conditions in which they were made, the labour that produced them or the institutional dynamics that shaped the project.
 
-![Original source code page 731 of Luminary 099 from Apollo 11, showing the beginning of the BURN_BABY_BURN master ignition routine](/assets/images/code-as-heritage/apollo-11-luminary-099-page-731.jpg "Page 731 of Luminary 099: BURN_BABY_BURN--MASTER_IGNITION_ROUTINE")
+![Original source code page 731 of Luminary 099 from Apollo 11, showing the beginning of the BURN_BABY_BURN master ignition routine](/assets/images/source-code-as-cultural-heritage/apollo-11-luminary-099-page-731.jpg "Page 731 of Luminary 099: BURN_BABY_BURN--MASTER_IGNITION_ROUTINE")
 
 **Figure 6:** Page 731 of the Luminary 099 source code listing for Apollo 11's Lunar Module Guidance Computer, 14 July 1969. *Source: [ibiblio.org Apollo Archive](http://www.ibiblio.org/apollo/ScansForConversion/Luminary099/), digitised from MIT Museum collections.*
 
@@ -62,7 +62,7 @@ This exercise demonstrates a key principle and the limitations of that principle
 
 The code alone does not reveal who produced it, in what conditions, or what that labour cost. To learn about those aspects, historians need other sources, such as oral history.
 
-![Margaret Hamilton standing beside software code listings for the Apollo program](/assets/images/code-as-heritage/Margaret_Hamilton_-_restoration.jpg "Margaret Hamilton with Apollo source code, 1969")
+![Margaret Hamilton standing beside software code listings for the Apollo program](/assets/images/source-code-as-cultural-heritage/margaret-hamilton-restoration.jpg "Margaret Hamilton with Apollo source code, 1969")
 
 **Figure 7:** [Margaret Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer), director of MIT’s Software Engineering Division, beside the Apollo program's source code listings, 1969. *Credit: Draper Laboratory, Public Domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Margaret_Hamilton_-_restoration.jpg)*
 
