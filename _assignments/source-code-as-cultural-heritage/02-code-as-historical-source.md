@@ -32,13 +32,6 @@ order: 2
 
 <!-- section -->
 
-<!--
-### 2.c 
-<!-- section-contents -->
-
-
-
-<!-- section -->
 
 ### Reading/viewing suggestions
 <!-- section-contents --> 
