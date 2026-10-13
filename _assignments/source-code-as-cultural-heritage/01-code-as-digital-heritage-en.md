@@ -39,7 +39,7 @@ But where did this tradition come from? It can be traced back to Brian Kernighan
 
 <!-- section -->
 
-### 1.b 
+### 1.b Source code: a historical source with its own specificities
 <!-- section-contents -->
 
 Examine the following document from the *Source Code Exhibition*: [OPTIMIZING THE FUTURE: the Fortran Source Code of the Latin American World Model](https://www.sourcecode-exhibition.softwareheritage.org/optimizing-the-future-the-fortran-source-code-of-the-latin-american-world-model/)
@@ -62,7 +62,7 @@ This vulnerability is not abstract. Source code is facing what has been called a
 
 <!-- section -->
 
-### 1.c The fragility of code: understanding the challenges involved in digital preservation – 20 mins
+### 1.c The fragility of code: understanding the challenges involved in digital preservation | 20 mins
 <!-- section-contents -->
 
 The preceding section introduced the general risks that threaten the survival of source code: technological obsolescence, platform change and the physical fragility of storage media. This section examines what those risks have meant in practice, by looking at the history of video game preservation.
