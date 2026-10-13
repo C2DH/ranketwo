@@ -2,13 +2,13 @@
 layout: assignment
 unit: source-code-as-cultural-heritage 
 lang: en
-title: ""
+title: "The journey of the Apollo code: preservation, heritagisation and hidden histories"
 cover:
 documents:
   - 
 tags:
 outcomes:
-  - 
+  - Engage with the materiality, technicality and embedded cultural references of code for the purposes of historical analysis
 order: 3
 ---
 
