@@ -23,7 +23,7 @@ Every app, website and digital service we use today is built on layers of source
  
 Look at the image below. It is a piece of paper from 1978, containing a short handwritten text by computer scientist [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan), reproduced on dot-matrix computer paper. Before reading on, take a moment to consider: what do you think this document does? Who was it written for, a human or a machine?
 
-![The famous “Hello, World!” program written in C by Brian Kernighan on dot-matrix computer paper, from The C Programming Language (1978)](/assets/images/code-as-heritage/Hello_World_Brian_Kernighan_1978.jpg "Hello World program by Brian Kernighan")
+![The famous “Hello, World!” program written in C by Brian Kernighan on dot-matrix computer paper, from The C Programming Language (1978)](/assets/images/source-code-as-cultural-heritage/hello-world-brian-kernighan-1978.jpg "Hello World program by Brian Kernighan")
 Figure 1 Brian Kernighan,“Hello, World!” program in C, handwritten and reproduced on dot-matrix computer paper. Published in *The C Programming Language*, 1978. *Credit: Brian Kernighan, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hello_World_Brian_Kernighan_1978.jpg)*
 
 Now try to execute the same piece of code yourself. Click on the link and press `Run`: [W3Schools editor](https://www.w3schools.com/cpp/trycpp.asp?filename=demo_helloworld) 
