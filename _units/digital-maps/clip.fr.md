@@ -9,7 +9,7 @@ iframe: digital-maps
 
 {: .headsup}
 
-Une animation vidéo sur la cartographie numérique expliquant pourquoi les historiens et historiennes devraient s’y intéresser.
+Une animation vidéo proposant une brève introduction aux cartes numériques et expliquant pourquoi les historiens et historiennes devraient s’y intéresser.
 
 Créée par [Gorille](https://www.gorille.co/){:target="_blank"}.  
 
