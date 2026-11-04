@@ -49,6 +49,18 @@ order: 4
 
 <!-- section -->
 
+### 4.f  |  mins
+<!-- section-contents -->
+
+
+<!-- section -->
+
+### 4.g  |  mins
+<!-- section-contents -->
+
+
+<!-- section -->
+
 ### Reading/viewing suggestions
 <!-- section-contents --> 
 
