@@ -63,7 +63,7 @@ Finally, please write a small essay (up to 500 words) reflecting on:
 
 <!-- section -->
 
-### 2.b Exploring text encoding  | 
+### 2.b Exploring text encoding  | 25 mins
 <!-- section-contents -->
 
 In section 2.a you explored how punch cards translated characters into machine-readable information through an encoding scheme. As digital technologies evolved, new encoding systems were developed to represent increasingly complex forms of information such as texts, images, colours and sounds.
@@ -89,7 +89,7 @@ Even if you do not fully understand what you see, such codes can be a source of 
 
 <!-- section -->
 
-### 2.c Images as encoded data |  mins
+### 2.c Images as encoded data | 25 mins
 <!-- section-contents -->
 Encoding does not only apply to text: digital images are also encoded numerically. Imagine an image as a grid made of many tiny units called [pixels](https://en.wikipedia.org/wiki/Pixel). Each pixel receives a numerical value corresponding to its colour or brightness. In colour images, systems such as [RGB](https://www.rapidtables.com/web/color/RGB_Color.html) combine separate values for red, green and blue to create millions of possible colour combinations; the same logic produces 8-bit greyscale, where each pixel holds one of 256 shades between black and white. The same grid-like principle extends to digital sound: a piece of music can be mapped onto a grid where one axis marks time and the other marks pitch, with each marked cell indicating which note sounds at which moment – give it a try [here!](https://8bitcomposer.com/)
 
@@ -138,7 +138,7 @@ Reflect on the following questions:
 
 <!-- section -->
 
-### 2.d Why encoding schemes matter for historians
+### 2.d Why encoding schemes matter for historians | 20 mins
 <!-- section-contents -->
 
 The choice of encoding scheme is not something we usually think much about when dealing with digital data and objects. However, it is important to keep in mind that it is a choice that determines what can be done with the data. Remember, ASCII excluded non-Western characters and symbols (this is referred to “ASCII imperialism”). Storing and transmitting an image in a higher or lower resolution, in greyscale or RGB, can affect the accuracy of the representation of real-world objects. So we should be critically aware of the encoding scheme used and its effects.

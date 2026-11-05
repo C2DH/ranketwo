@@ -70,7 +70,7 @@ What have we learned so far? Data only make sense if the symbols representing th
 
 <!-- section -->
 
-### 1.c Understanding data as cultural constructions |  mins
+### 1.c Understanding data as cultural constructions | 20 mins
 <!-- section-contents -->
 
 Dates also remind us that data depend on cultural and technical norms of representation, which can be loose conventions, e.g. socially agreed, or normative, meaning standardised. The same day can be written differently depending on the cultural or historical context.
