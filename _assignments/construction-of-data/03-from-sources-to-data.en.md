@@ -23,7 +23,7 @@ We will now explore how data are produced to describe and study the world around
  
 Let’s take a simple example: a “Wanted” poster of the kind that you might see in Westerns or comics (see figure below). Look carefully at the poster and the information it provides. 
 
-![Wanted poster](/assets/images/data-criticism/Wanted_Poster_marx_new.jpg)
+![Wanted poster](/assets/images/construction-of-data/Wanted_Poster_marx_new.jpg)
 
 Then think of the poster as a simple table that focuses on a given person and lists a number of characteristics in different columns with the purpose of identifying that person.
 
@@ -42,6 +42,7 @@ Fill in the table. For the attributes (the characteristics listed in the column 
 <summary><strong>Need help? (click to expand)</strong></summary> 
 In the above scaffold table, attribute 1 would be the person’s first name, attribute 2 would be the person’s last name, attribute 3 would be the gender, attribute 4 the place of birth and so on (please refer to the poster). Such a table would now describe a person, Karl Marx.
 </details> 
+
 
 STEP 2
 By selecting specific attributes, we create *descriptive categories*. Obviously, our selection of attributes would be different if we wanted to describe the same person in another context, for example as an author, or if we were describing something else, like a place, a piece of art, an animal or a book. In other words, the selection of descriptive categories depends on the aim. In the case of the “Wanted” poster, the aim is to identify and catch a fugitive. For this reason, identifying a person’s favourite dessert, for example, might not be the most significant property, especially if we can only list a limited number of them on our Wanted poster.
