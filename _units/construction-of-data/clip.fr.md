@@ -4,7 +4,7 @@ type: clip
 lang: fr
 parent: construction-of-data
 duration: 00:02:23
-iframe: tbd 
+iframe: construction-of-data-french 
 ---
 
 {: .headsup}
