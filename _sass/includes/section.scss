@@ -94,3 +94,26 @@
     background: yellow;
   }
 }
+
+details{
+  height: 2.25rem;
+
+  summary{
+    background-color: #FFF8F0;
+    padding: 0.25rem 0.5rem;
+  }
+
+  p{
+    background-color: #FFF8F0;
+    padding: 0.25rem 1rem;
+    position: relative;
+    opacity: 0 !important;
+    transition: opacity 0.25s ease-in-out;
+  }
+
+  &[open]{
+    p{
+      opacity: 1 !important;
+    }
+  }
+}
