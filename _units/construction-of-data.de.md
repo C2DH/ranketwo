@@ -28,7 +28,7 @@ components:
 cover:
   url: /assets/images/construction-of-data/avatar.jpg
   position: center
- caption: "George P. Lewis. A woman changes jacquard cards in a lace machine while working in a Nottingham factory during the First World War. September 1918. [Imperial War Museum](https://commons.wikimedia.org/wiki/File:Industry_during_the_First_World_War-_Leicestershire_Q28124.jpg)" 
+  caption: "George P. Lewis. A woman changes jacquard cards in a lace machine while working in a Nottingham factory during the First World War. September 1918. [Imperial War Museum](https://commons.wikimedia.org/wiki/File:Industry_during_the_First_World_War-_Leicestershire_Q28124.jpg)" 
 order: -3    
 og:
   description: "A lesson on historical data criticism"
