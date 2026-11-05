@@ -18,7 +18,7 @@ We will now explore how data are produced to describe and study the world around
 
 <!-- briefing-student -->
 
-### 3.a Designing descriptive categories |   
+### 3.a Designing descriptive categories | 25 mins 
 <!-- section-contents -->
  
 Let’s take a simple example: a “Wanted” poster of the kind that you might see in Westerns or comics (see figure below). Look carefully at the poster and the information it provides. 
