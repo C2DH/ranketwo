@@ -98,7 +98,7 @@ Which entities were easiest to identify? Which were more ambiguous?
 
 <!-- section -->
 
-### 4.c Organising complex historical information |  mins
+### 4.c Organising complex historical information | 25 mins
 <!-- section-contents -->
 Building a data model in practice raises further questions, such as how to handle a person known by several different names or titles or how to show that one person can be linked to several different jobs or roles (as with Karl’s many publications in Section 3). These are not flaws in your model, but design decisions every historian working with data has to make.
 
@@ -114,7 +114,7 @@ The database software itself doesn’t know that “Lord Palmerston” and “th
 
 <!-- section -->
 
-### 4.d Implementing a data model in a relational database |  mins
+### 4.d Implementing a data model in a relational database | 30 mins
 <!-- section-contents -->
 Databases are the main carrier for digital data. They can store a great variety of different types of data. But their true value comes from their ability to run queries over all of their content. By using queries, we can obtain specific information, evaluate the magnitude or duration of phenomena and detect patterns in the data.
 
@@ -280,7 +280,7 @@ However, a database is subject to good old source criticism too: entering a piec
 
 <!-- section -->
 
-### 4.f Linking the database |  mins
+### 4.f Linking the database | 20 mins
 <!-- section-contents -->
 So far, every relationship in our database has allowed at least one side to have several partners. But historians and archivists also regularly work with [authority records](https://en.wikipedia.org/wiki/Authority_control) – external, standardised vocabularies defined by cultural institutions.
 
@@ -305,7 +305,7 @@ The relational model is not the only way to organise data. [NoSQL](https://en.wi
 
 <!-- section -->
 
-### 4.g Extending the database |  mins
+### 4.g Extending the database | 30 mins
 <!-- section-contents -->
 This exercise builds on the previous subsections.
 
