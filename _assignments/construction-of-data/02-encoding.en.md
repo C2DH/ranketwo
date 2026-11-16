@@ -162,7 +162,7 @@ Go back to Lea’s digital collection of her grandmother’s possessions from th
 
 Haigh, Thomas. *Defining Digitalities I.* 2023. [DOI](https://doi.org/10.25819/ubsi/10259).
 
-“The Punched Card | IBM”. 10 November 2025. https://www.ibm.com/history/punched-card.
+“The IBM Punched Card”. *IBM website [https://www.ibm.com/](https://www.ibm.com/)*. 10 November 2025. https://www.ibm.com/history/punched-card.
 
 http://www.injosoft.se, Injosoft AB. “The Beginner’s Guide to ASCII”. Accessed 4 November 2026. https://www.ascii-code.com/articles/Beginners-Guide-to-ASCII.
 
