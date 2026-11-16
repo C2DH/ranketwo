@@ -102,7 +102,7 @@ Loukissas, Yanni Alexander. (2019).*All data are local: Thinking critically in a
 
 Putnam, Lara. “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast”. *The American Historical Review* 121 (2), 2016: 377‑402. [DOI](https://doi.org/10.1093/ahr/121.2.377).
 
-Rosenberg, D. (2013). “Data before the Fact”. In L. Gitelman (Ed.), *“Raw Data” Is an Oxymoron* (pp. 15–40). The MIT Press. [DOI](https://doi.org/10.7551/mitpress/9302.003.0003). Available at [https://eswg.hsites.harvard.edu/sites/g/files/omnuum9476/files/eswg/files/rosenburg_-_rawdata.pdf](https://eswg.hsites.harvard.edu/sites/g/files/omnuum9476/files/eswg/files/rosenburg_-_rawdata.pdf)
+Rosenberg, D. (2013). “Data before the Fact”. In L. Gitelman (Ed.), *“Raw Data” Is an Oxymoron* (pp. 15–40). The MIT Press. [DOI](https://doi.org/10.7551/mitpress/9302.003.0003). Available at [URL](https://eswg.hsites.harvard.edu/sites/g/files/omnuum9476/files/eswg/files/rosenburg_-_rawdata.pdf)
 
 
 <!-- briefing-teacher -->
