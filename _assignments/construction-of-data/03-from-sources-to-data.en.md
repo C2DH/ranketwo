@@ -65,7 +65,8 @@ We can now expand our table to list several historical figures by adding further
 |P0002|...|...|...|...|...|...|...|...|
 |P0003|...|...|...|...|...|...|...|...|
 
-[Link to editable table: Historical figures](/assets/docs/data-criticism/historical-persons-table.docx)
+<!--
+[Link to editable table: Historical figures](/assets/docs/data-criticism/historical-persons-table.docx)-->
 
 When we want to describe and compare several historical personalities, objects or events, we can organise information in tables made of rows and columns. Each column represents a category or attribute – that is, a feature we want to record, such as a name, date, place or other characteristic. The top row of the table usually contains headers identifying these categories. Each subsequent row contains the information describing one individual entry, while the recorded information itself is called a value. Organised in tables, these categories and values form data collections that can be searched, sorted, extended and analysed with the help of digital tools such as spreadsheets or databases.
 
