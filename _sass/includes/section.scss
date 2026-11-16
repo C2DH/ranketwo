@@ -57,6 +57,9 @@
 }
 
 .section--contents table{
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
   margin-bottom: 20px;
 
   th {
@@ -109,7 +112,6 @@ details{
     position: relative;
     opacity: 0 !important;
     transition: opacity 0.25s ease-in-out;
-    overflow: scroll;
   }
 
   &[open]{
