@@ -103,16 +103,17 @@ details{
     padding: 0.25rem 0.5rem;
   }
 
-  p{
+  div{
     background-color: #FFF8F0;
     padding: 0.25rem 1rem;
     position: relative;
     opacity: 0 !important;
     transition: opacity 0.25s ease-in-out;
+    overflow: scroll;
   }
 
   &[open]{
-    p{
+    div{
       opacity: 1 !important;
     }
   }
