@@ -156,7 +156,7 @@ Remember the video animation: out of all the things available in her grandmother
   </tbody>
 </table>
 
-If your purpose is instead to *document* the object in detail – for example, to preserve or analyse it later – you need more attributes:
+If your purpose is instead to <i>document</i> the object in detail – for example, to preserve or analyse it later – you need more attributes:
 
 <table>
   <thead>
