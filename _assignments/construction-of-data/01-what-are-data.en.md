@@ -96,13 +96,13 @@ If we look at a date like 28 June 1914 (`28-06-1914`), we can see another import
 ### Reading/viewing suggestions
 <!-- section-contents --> 
 
-Drucker, Johanna. “Humanities Approaches to Graphical Display”. *Digital Humanities Quarterly* 5 (1), 2011. [DOI](https://doi.org/10.63744/r4ysrh7ae534).
+Drucker, Johanna. “Humanities Approaches to Graphical Display”. *Digital Humanities Quarterly* 5 (1), 2011. [DOI](https://doi.org/10.63744/r4ysrh7ae534){:target="_blank"}.
 
 Loukissas, Yanni Alexander. (2019).*All data are local: Thinking critically in a data-driven society*. The MIT Press
 
-Putnam, Lara. “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast”. *The American Historical Review* 121 (2), 2016: 377‑402. [DOI](https://doi.org/10.1093/ahr/121.2.377).
+Putnam, Lara. “The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast”. *The American Historical Review* 121 (2), 2016: 377‑402. [DOI](https://doi.org/10.1093/ahr/121.2.377){:target="_blank"}.
 
-Rosenberg, D. (2013). “Data before the Fact”. In L. Gitelman (Ed.), *“Raw Data” Is an Oxymoron* (pp. 15–40). The MIT Press. [DOI](https://doi.org/10.7551/mitpress/9302.003.0003). Available at [URL](https://eswg.hsites.harvard.edu/sites/g/files/omnuum9476/files/eswg/files/rosenburg_-_rawdata.pdf)
+Rosenberg, D. (2013). “Data before the Fact”. In L. Gitelman (Ed.), *“Raw Data” Is an Oxymoron* (pp. 15–40). The MIT Press. [DOI](https://doi.org/10.7551/mitpress/9302.003.0003){:target="_blank"}. Available at [URL](https://eswg.hsites.harvard.edu/sites/g/files/omnuum9476/files/eswg/files/rosenburg_-_rawdata.pdf){:target="_blank"}
 
 
 <!-- briefing-teacher -->

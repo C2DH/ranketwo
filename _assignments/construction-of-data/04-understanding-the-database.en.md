@@ -13,7 +13,7 @@ outcomes:
   - Understand the transition from the abstract data model to the physical database
 order: 4
 ---
-The previous section highlighted the creation of single tables to describe one type of object. But historical sources usually involve many different kinds of objects at once – people, places, organisations, events, etc. – and various connections between these objects. Furthermore, if historians need to analyse hundreds or thousands of documents, the information may quickly become repetitive and complex to manage. When spreadsheets are no longer sufficient to effectively work with sources, relational databases come into play. Based on [specific software](https://en.wikipedia.org/wiki/Database#Database_management_system), databases were designed to organise large amounts of information while preserving the connections between the described objects.
+The previous section highlighted the creation of single tables to describe one type of object. But historical sources usually involve many different kinds of objects at once – people, places, organisations, events, etc. – and various connections between these objects. Furthermore, if historians need to analyse hundreds or thousands of documents, the information may quickly become repetitive and complex to manage. When spreadsheets are no longer sufficient to effectively work with sources, relational databases come into play. Based on [specific software](https://en.wikipedia.org/wiki/Database#Database_management_system){:target="_blank"}, databases were designed to organise large amounts of information while preserving the connections between the described objects.
 
 This section focuses on the concept of data models and the principles underpinning their implementation, using a simple example of a historical source (a newspaper article). Technical notions are explained briefly, but mastering them in depth is beyond the scope of this lesson. Help can be found in the resources proposed in the reading suggestions.
 
@@ -24,9 +24,9 @@ This section focuses on the concept of data models and the principles underpinni
 ### Instructions
 <!-- section-contents -->
 
-Look at the following source: Karl Marx. Whose Atrocities? New York Daily Tribune, 10 April 1857. [URL](https://www.marxists.org/archive/marx/works/1857/04/10.htm).
+Look at the following source: Karl Marx. Whose Atrocities? New York Daily Tribune, 10 April 1857. [URL](https://www.marxists.org/archive/marx/works/1857/04/10.htm){:target="_blank"}.
 
-If you have a problem accessing the resource, please consult this [archived URL](https://web.archive.org/web/20260000000000*/https://www.marxists.org/archive/marx/works/1857/04/10.htm).
+If you have a problem accessing the resource, please consult this [archived URL](https://web.archive.org/web/20260000000000*/https://www.marxists.org/archive/marx/works/1857/04/10.htm){:target="_blank"}.
 
 ![Source: “Whose Atrocities?”](/assets/images/construction-of-data/source-full.jpg "Whose Atrocities? article title")
 
@@ -34,13 +34,13 @@ Figure 4. “Whose Atrocities?” - digitised article of Karl Marx available on 
 
 The source is a newspaper article by Karl Marx, published on 10 April 1857. For the purpose of this lesson, it will be considered as part of a collection of articles on UK policy towards China from which a database should be constructed. 
 
-The image you see in the above figure represents the transcribed version of the article as published on the website [marxists.org](https://www.marxists.org/). This version is itself a digitisation of an edited volume published in 1951 assembling all articles on China authored by Marx in the *New York Daily Tribune*. The media archaeology that traces the different ontological levels of our source (web page, book chapter, newspaper article) can be traced in the screenshots below that display different captures taken from [Zotero](https://www.zotero.org/), the popular software for managing bibliographical information.
+The image you see in the above figure represents the transcribed version of the article as published on the website [marxists.org](https://www.marxists.org/){:target="_blank"}. This version is itself a digitisation of an edited volume published in 1951 assembling all articles on China authored by Marx in the *New York Daily Tribune*. The media archaeology that traces the different ontological levels of our source (web page, book chapter, newspaper article) can be traced in the screenshots below that display different captures taken from [Zotero](https://www.zotero.org/){:target="_blank"}, the popular software for managing bibliographical information.
 
 ![Screenshot of three Zotero entries](/assets/images/construction-of-data/zotero-entries.jpg "Screenshot of three Zotero entries")
 
 Figure 5. Screenshot of Zotero entries corresponding to different possible levels of a digitised source
 
-The same source would look like this if captured in [Tropy](https://www.tropy.org/), the software specifically designed to manage archive photos:
+The same source would look like this if captured in [Tropy](https://www.tropy.org/){:target="_blank"}, the software specifically designed to manage archive photos:
 
 ![Screenshot of Tropy entry](/assets/images/construction-of-data/tropy-object.jpg "Screenshot of Tropy entry")
 
@@ -90,7 +90,7 @@ Building a data model in practice raises further questions, and the following su
 
 ### 4.b  Extracting historical information from sources | 10 mins
 <!-- section-contents -->
-Before building a database, historians must identify the information they want to record. In this exercise, we are going to extract names, places, organisations and events from our historical sources. We are actually going to perform a simplified, non-automatised form of [named entity recognition (NER)](https://en.wikipedia.org/wiki/Named-entity_recognition).
+Before building a database, historians must identify the information they want to record. In this exercise, we are going to extract names, places, organisations and events from our historical sources. We are actually going to perform a simplified, non-automatised form of [named entity recognition (NER)](https://en.wikipedia.org/wiki/Named-entity_recognition){:target="_blank"}.
 
 Look at the source excerpt above.
 
@@ -161,7 +161,7 @@ Check the example database in 4.e. Can you explain in your own words why `P003` 
 
 Figure 9. Example: junction table Person-Event
 
-Of course, there are rules to follow when creating a database: primary keys cannot be empty, the types of data (textual, numerical, etc.) need to be specified and so on. But any software used to create a database (like the free [Libre Office Base](https://www.libreoffice.org/DISCOVER/BASE/)) will remind you of these rules to ensure that your database works. As the aim of this lesson is to explain what lies behind a database, please consult the references (Julien 2024) and (Cosovschi 2024) in the reading suggestions to learn more about implementing a data model.
+Of course, there are rules to follow when creating a database: primary keys cannot be empty, the types of data (textual, numerical, etc.) need to be specified and so on. But any software used to create a database (like the free [Libre Office Base](https://www.libreoffice.org/DISCOVER/BASE/){:target="_blank"}) will remind you of these rules to ensure that your database works. As the aim of this lesson is to explain what lies behind a database, please consult the references (Julien 2024) and (Cosovschi 2024) in the reading suggestions to learn more about implementing a data model.
 
 <!-- section -->
 
@@ -178,7 +178,7 @@ If we create tables for all the different types of information or entities, we c
 
 | source_id | author | publication | date | url |
 |---|---|---|---|---|
-| S001 | Karl Marx | New York Daily Tribune | 1857-04-10 | [https://www.marxists.org/archive/marx/works/1857/04/10.htm](https://www.marxists.org/archive/marx/works/1857/04/10.htm) |
+| S001 | Karl Marx | New York Daily Tribune | 1857-04-10 | <https://www.marxists.org/archive/marx/works/1857/04/10.htm>{:target="_blank"} |
 
 Table 5. Table 1 – Source of the database. 
 
@@ -209,7 +209,7 @@ This table records genuine historical information: **which role a person held in
 Table 7. Table 3 – Role of the database. 
 
 
-**A note on structuring dates.** Historical dates are rarely exact, and a plain text field like “ca. 1853” or “before 1857” can’t be sorted, filtered or compared by a computer – it’s just a string of characters to the software. A more analysable approach splits the date into two parts: a **value** the software can actually read (a year, or a full date when known), and a **precision** label from a fixed small vocabulary (exact, circa, before, after, unknown) that records how certain that value is. You lose nothing – the historical uncertainty is still fully recorded – but the value column now becomes something a database can genuinely work with. Historians working with larger or more uncertain date ranges may want to look at the [Extended Date/Time Format (EDTF)](https://www.loc.gov/standards/datetime/) standard, which offers a more comprehensive vocabulary for precisely this problem.
+**A note on structuring dates.** Historical dates are rarely exact, and a plain text field like “ca. 1853” or “before 1857” can’t be sorted, filtered or compared by a computer – it’s just a string of characters to the software. A more analysable approach splits the date into two parts: a **value** the software can actually read (a year, or a full date when known), and a **precision** label from a fixed small vocabulary (exact, circa, before, after, unknown) that records how certain that value is. You lose nothing – the historical uncertainty is still fully recorded – but the value column now becomes something a database can genuinely work with. Historians working with larger or more uncertain date ranges may want to look at the [Extended Date/Time Format (EDTF)](https://www.loc.gov/standards/datetime/){:target="_blank"} standard, which offers a more comprehensive vocabulary for precisely this problem.
 
 #### Table 4 – Place
 
@@ -271,7 +271,7 @@ Now we have a very basic architecture of a database containing several different
 
 Figure 10. Scheme and connections with description.
 
-**Reading the diagram: cardinality and optionality.** Every relationship line carries two pieces of information at each end: *cardinality* (how many – a single bar means “one”, a crow’s foot means “many”) and *optionality* (whether it is required – a bar means “must exist”, an open circle means “zero is allowed”). Take Source–Person: the bar next to Source means every Person must belong to exactly one source (mandatory); the crow’s foot next to Person means one source may be linked to many people – or, in principle, to none at all if a source names no individuals (optional). [Wikipedia](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model#Crow's_foot_notation) uses the same three symbols: ring = zero, dash = one, crow’s foot = many.
+**Reading the diagram: cardinality and optionality.** Every relationship line carries two pieces of information at each end: *cardinality* (how many – a single bar means “one”, a crow’s foot means “many”) and *optionality* (whether it is required – a bar means “must exist”, an open circle means “zero is allowed”). Take Source–Person: the bar next to Source means every Person must belong to exactly one source (mandatory); the crow’s foot next to Person means one source may be linked to many people – or, in principle, to none at all if a source names no individuals (optional). [Wikipedia](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model#Crow's_foot_notation){:target="_blank"} uses the same three symbols: ring = zero, dash = one, crow’s foot = many.
 
 | Symbol | Meaning |
 |---|---|
@@ -319,9 +319,9 @@ However, a database is subject to good old source criticism too: entering a piec
 
 ### 4.f Linking the database | 20 mins
 <!-- section-contents -->
-So far, every relationship in our database has allowed at least one side to have several partners. But historians and archivists also regularly work with [authority records](https://en.wikipedia.org/wiki/Authority_control) – external, standardised vocabularies defined by cultural institutions.
+So far, every relationship in our database has allowed at least one side to have several partners. But historians and archivists also regularly work with [authority records](https://en.wikipedia.org/wiki/Authority_control){:target="_blank"} – external, standardised vocabularies defined by cultural institutions.
 
-[Wikidata](https://www.wikidata.org/), a free and open knowledge base, assigns exactly one unique identifier (a “QID”, e.g. `Q193656`) to each distinct real-world entity it describes. Linking our Person table to Wikidata gives a genuine **one-to-one relationship**: each Person in our database corresponds to at most one Wikidata entry, and each Wikidata entry we link corresponds to exactly one Person – never several.
+[Wikidata](https://www.wikidata.org/){:target="_blank"}, a free and open knowledge base, assigns exactly one unique identifier (a “QID”, e.g. `Q193656`) to each distinct real-world entity it describes. Linking our Person table to Wikidata gives a genuine **one-to-one relationship**: each Person in our database corresponds to at most one Wikidata entry, and each Wikidata entry we link corresponds to exactly one Person – never several.
 
 **Identifier** (new table)
 
@@ -331,14 +331,14 @@ So far, every relationship in our database has allowed at least one side to have
 
 Table 15. Identifier table, a new table in the database.
 
-1. Go to [wikidata.org](https://www.wikidata.org/) and use the search bar at the top of the page.
+1. Go to [wikidata.org](https://www.wikidata.org/){:target="_blank"} and use the search bar at the top of the page.
 2. Search for “Lord Palmerston” (or one of the other people from our source, e.g. “Earl of Clarendon”).
 3. Open the corresponding entry. The QID appears directly under the title, in the form (Qxxxxxx), and also in the page’s URL.
 4. Add the QID as a new row in the Identifier table above.
 
 Which people from our source were easy to find on Wikidata? Were there any for which you were unsure whether you had found the right entry?
 
-The relational model is not the only way to organise data. [NoSQL](https://en.wikipedia.org/wiki/NoSQL) databases (a loose family including document stores, key–value stores and graph databases) work without fixed tables and predefined columns: each record can have its own structure, providing more flexibility for heterogenous data or dynamic, evolving collections. A popular model that could also be used for the example used in this lesson is [RDF (Resource Description Framework)](https://en.wikipedia.org/wiki/Resource_Description_Framework): it does not use tables but expresses information in simple three-part statements consisting of subject–predicate–object (so-called “triples”). In our case, one triple would be `Palmerston` – `held office` – `Prime Minister`. Wikidata is based on this principle, and linking the Person table to a Wikidata QID is a first step towards an RDF-based linked-data model that connects data from various sources and in various formats.
+The relational model is not the only way to organise data. [NoSQL](https://en.wikipedia.org/wiki/NoSQL){:target="_blank"} databases (a loose family including document stores, key–value stores and graph databases) work without fixed tables and predefined columns: each record can have its own structure, providing more flexibility for heterogenous data or dynamic, evolving collections. A popular model that could also be used for the example used in this lesson is [RDF (Resource Description Framework)](https://en.wikipedia.org/wiki/Resource_Description_Framework){:target="_blank"}: it does not use tables but expresses information in simple three-part statements consisting of subject–predicate–object (so-called “triples”). In our case, one triple would be `Palmerston` – `held office` – `Prime Minister`. Wikidata is based on this principle, and linking the Person table to a Wikidata QID is a first step towards an RDF-based linked-data model that connects data from various sources and in various formats.
 
 ![Types of data fields](/assets/images/construction-of-data/odb.jpg "Types of data fields")
 
@@ -352,7 +352,7 @@ This exercise builds on the previous subsections.
 
 The article by Karl Marx provided at the beginning of section 4 refers to the Arrow Incident.
 
-Consult the [Wikipedia article on the Second Opium War](https://en.wikipedia.org/wiki/Second_Opium_War) to learn more.
+Consult the [Wikipedia article on the Second Opium War](https://en.wikipedia.org/wiki/Second_Opium_War){:target="_blank"} to learn more.
 
 * Add the event to the Events table.
 * Identify any additional people, organisations or places that should be included.
@@ -362,15 +362,15 @@ Consult the [Wikipedia article on the Second Opium War](https://en.wikipedia.org
 
 ### Reading/viewing suggestions
 <!-- section-contents --> 
-Nodegoat. What Is a Relational Database? Accessed 4 June 2026. [URL](https://nodegoat.net/blog.s/20/what-is-a-relational-database).
+Nodegoat. What Is a Relational Database? Accessed 4 June 2026. [URL](https://nodegoat.net/blog.s/20/what-is-a-relational-database){:target="_blank"}.
 
-Cosovschi, Agustín. “From Sources to Data: Designing a Database for the Humanities and Social Sciences with Nodegoat”. *Programming Historian* 15 (2024). [DOI](https://doi.org/10.46430/phen0130)
+Cosovschi, Agustín. “From Sources to Data: Designing a Database for the Humanities and Social Sciences with Nodegoat”. *Programming Historian* 15 (2024). [DOI](https://doi.org/10.46430/phen0130){:target="_blank"}
 
-Julien, Octave. Creating and using databases in medieval history: historiography, concepts and practice. Seminários do GIHM, April 2024, Porto, Portugal. halshs-04550456 [URL](https://shs.hal.science/halshs-04550456v1)
+Julien, Octave. Creating and using databases in medieval history: historiography, concepts and practice. Seminários do GIHM, April 2024, Porto, Portugal. halshs-04550456 [URL](https://shs.hal.science/halshs-04550456v1){:target="_blank"}
 
-Robertson, Stephen. “The properties of digital history”. *History and Theory* 61 (4) (2022): 86‑106. [DOI](https://doi.org/10.1111/hith.12286).
+Robertson, Stephen. “The properties of digital history”. *History and Theory* 61 (4) (2022): 86‑106. [DOI](https://doi.org/10.1111/hith.12286){:target="_blank"}.
 
-Viale, Mattia. “From the Historical Source to a Database: A Short Story”. *Refashioning the Renaissance*, 21 November 2018. [URL](https://refashioningrenaissance.eu/from-the-historical-source-to-a-database/).
+Viale, Mattia. “From the Historical Source to a Database: A Short Story”. *Refashioning the Renaissance*, 21 November 2018. [URL](https://refashioningrenaissance.eu/from-the-historical-source-to-a-database/){:target="_blank"}.
 
 
 <!-- briefing-teacher -->

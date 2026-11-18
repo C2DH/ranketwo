@@ -110,7 +110,7 @@ Now that you have entered the data, let’s observe the different types of value
 
 <details>
 <summary><strong>Need help? (click to expand)</strong></summary> 
-<div>In this column, the values could be pre-defined: would you define two or more types of values? Whatever you decide, would these values be textual or integers? Think in terms of <a href="https://en.wikipedia.org/wiki/Coding_(social_sciences)">coding data</a>.</div>
+<div>In this column, the values could be pre-defined: would you define two or more types of values? Whatever you decide, would these values be textual or integers? Think in terms of <a href="https://en.wikipedia.org/wiki/Coding_(social_sciences)" target="_blank">coding data</a>.</div>
 </details>
 
 * What values can you enter in the eighth column? 
@@ -120,7 +120,7 @@ Now that you have entered the data, let’s observe the different types of value
 <div>The eighth column can only hold a “yes” or “no” answer (in most computational contexts, this is expressed in “Boolean” values: `true` or `false`).</div>
 </details>
 
-What you have encountered here is called [data types](https://en.wikipedia.org/wiki/Data_type). Like the descriptive categories that you should select before you begin collecting data, you also need to think of the appropriate data types for each of them.
+What you have encountered here is called [data types](https://en.wikipedia.org/wiki/Data_type){:target="_blank"}. Like the descriptive categories that you should select before you begin collecting data, you also need to think of the appropriate data types for each of them.
 
 <!-- section -->
 
@@ -198,9 +198,9 @@ Critically thinking about data assembled by somebody else is crucial if we want 
 
 Lemercier, Claire, and Claire Zalc. 2019. *Quantitative Methods in the Humanities: An Introduction*. Translated by Arthur Goldhammer. Charlottesville: University of Virginia Press.
 
-Roberts, Spencer W. Spreadsheets for Historians – Spencer W. Roberts. 12 August 2014. [https://swroberts.ca/scholarship/spreadsheets-for-historians/](https://swroberts.ca/scholarship/spreadsheets-for-historians/)
+Roberts, Spencer W. Spreadsheets for Historians – Spencer W. Roberts. 12 August 2014. <https://swroberts.ca/scholarship/spreadsheets-for-historians/>{:target="_blank"}
 
-Rogers, Jonathan. LibGuides: Working with Quantitative Data: Home. Accessed 2 June 2026. [https://libguides.law.ucla.edu/data/home](https://libguides.law.ucla.edu/data/home).
+Rogers, Jonathan. LibGuides: Working with Quantitative Data: Home. Accessed 2 June 2026. <https://libguides.law.ucla.edu/data/home>{:target="_blank"}.
 
 
 <!-- briefing-teacher -->

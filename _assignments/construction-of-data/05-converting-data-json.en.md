@@ -16,7 +16,7 @@ Historians increasingly work with digital tools that require data in specific fo
 
 When working with digital tools, structured formats make it easier to exchange data between information systems. Structured formats use standardised rules regarding the architecture and form of the data they contain, commonly called the data schema.
 
-For example, in assignment 3, we worked with data in the form of a table. Tabular data are best stored, displayed, used and shared in [CSV (comma-separated values)](https://en.wikipedia.org/wiki/Comma-separated_values) format. Tables are extremely useful, but data often need to be converted from one format to another.
+For example, in assignment 3, we worked with data in the form of a table. Tabular data are best stored, displayed, used and shared in [CSV (comma-separated values)](https://en.wikipedia.org/wiki/Comma-separated_values){:target="_blank"} format. Tables are extremely useful, but data often need to be converted from one format to another.
 
 Why is this useful?
 
@@ -26,7 +26,7 @@ Why is this useful?
 
 All data formats are based on a simple principle: they employ a small set of agreed-upon rules (a syntax) for marking the beginning and end of one piece of information after another, allowing the data to be read by machines and expanded or manipulated as long as the rules are known to the specific software and system. 
 
-Several formats are commonly used in digital humanities and digital history. XML (Extensible Markup Language) is mainly used to annotate text or describe layout (it underlies all Microsoft Word documents). Most formats, for example [JSON (JavaScript Object Notation)](https://www.json.org/json-en.html), can be adapted to store and structure any sort of information. We will work with JSON in the following sections of this lesson because it is widely used and works well for the hierarchical data often employed by historians.
+Several formats are commonly used in digital humanities and digital history. XML (Extensible Markup Language) is mainly used to annotate text or describe layout (it underlies all Microsoft Word documents). Most formats, for example [JSON (JavaScript Object Notation)](https://www.json.org/json-en.html){:target="_blank"}, can be adapted to store and structure any sort of information. We will work with JSON in the following sections of this lesson because it is widely used and works well for the hierarchical data often employed by historians.
 
 JSON is designed to:
 * represent structured data in a way that computers can easily process
@@ -152,11 +152,11 @@ Rewrite this table in JSON using:
 * at least one list (`[ ]`)
 * at least one nested object (`{ }`)
 
-If you need help, you can check the [JSON user documentation](https://json-schema.org/learn/getting-started-step-by-step).
+If you need help, you can check the [JSON user documentation](https://json-schema.org/learn/getting-started-step-by-step){:target="_blank"}.
 
 Validate your JSON to check if your work is correctly formatted:
 
-Paste your JSON into a validator: https://jsonchecker.com/
+Paste your JSON into a validator: <https://jsonchecker.com/>{:target="_blank"}
 
 Try to identify and fix errors yourself before using automatic correction tools. 
 
@@ -180,11 +180,11 @@ Some JSON datasets follow more formal rules called a data schema, which define:
 * What fields exist
 * What kind of values they contain
 
-Explore the [JSON schema](https://json-schema.org/learn).
+Explore the [JSON schema](https://json-schema.org/learn){:target="_blank"}.
 
-After reading [what a schema is](https://json-schema.org/understanding-json-schema/about), try to imagine when you might need to write your own schema and when it would be better to rely on the official JSON schema (or another schema used by a large community).
+After reading [what a schema is](https://json-schema.org/understanding-json-schema/about){:target="_blank"}, try to imagine when you might need to write your own schema and when it would be better to rely on the official JSON schema (or another schema used by a large community).
 
-For historians and humanities scholars it is wise to use a schema that is established by others. However, you can of course write your own schema. We recommend [this comprehensive tutorial](https://json-schema.org/learn). If you’re not sure or don’t have time, you might as well use one of the many online schema generators listed in the reading suggestions below.
+For historians and humanities scholars it is wise to use a schema that is established by others. However, you can of course write your own schema. We recommend [this comprehensive tutorial](https://json-schema.org/learn){:target="_blank"}. If you’re not sure or don’t have time, you might as well use one of the many online schema generators listed in the reading suggestions below.
 
 <!-- section -->
 
@@ -222,7 +222,7 @@ Reflect on the following:
 - Are there situations where proprietary formats might still be useful?
 
 
-You can find a list of open formats on [this list available on Wikipedia](https://en.wikipedia.org/wiki/List_of_open_file_formats)
+You can find a list of open formats on [this list available on Wikipedia](https://en.wikipedia.org/wiki/List_of_open_file_formats){:target="_blank"}
 
 <!-- section -->
 
@@ -232,11 +232,11 @@ You can find a list of open formats on [this list available on Wikipedia](https:
 
 *Online JSON schema generators*
 
-JSON Forge. JSON Schema Generator [URL](https://www.jsonforge.com/tools/schema-generator)
+JSON Forge. JSON Schema Generator [URL](https://www.jsonforge.com/tools/schema-generator){:target="_blank"}
 
-JSON Swiss [URL](https://jsonswiss.com/)
+JSON Swiss [URL](https://jsonswiss.com/){:target="_blank"}
 
-Introducing JSON [URL](https://www.json.org/json-en.html)
+Introducing JSON [URL](https://www.json.org/json-en.html){:target="_blank"}
 
 
 <!-- briefing-teacher -->
