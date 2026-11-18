@@ -135,7 +135,7 @@ Remember the video animation: out of all the things available in her grandmother
 
 <details>
 <summary><strong>Need help? (click to expand)</strong></summary> 
-<div>If your purpose is to create an *inventory* that will give a quick indication of what exists and where, a few basic attributes are enough:
+<div>If your purpose is to create an <i>inventory</i> that will give a quick indication of what exists and where, a few basic attributes are enough:
 
 <table>
   <thead>
