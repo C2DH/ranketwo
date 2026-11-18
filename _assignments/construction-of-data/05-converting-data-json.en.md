@@ -222,8 +222,7 @@ Reflect on the following:
 - Are there situations where proprietary formats might still be useful?
 
 
-You can find a list of open formats here:
-https://en.wikipedia.org/wiki/List_of_open_file_formats
+You can find a list of open formats on [this list available on Wikipedia](https://en.wikipedia.org/wiki/List_of_open_file_formats)
 
 <!-- section -->
 
@@ -233,11 +232,11 @@ https://en.wikipedia.org/wiki/List_of_open_file_formats
 
 *Online JSON schema generators*
 
-JSON Forge. JSON Schema Generator https://www.jsonforge.com/tools/schema-generator
+JSON Forge. JSON Schema Generator [URL](https://www.jsonforge.com/tools/schema-generator)
 
-JSON Swiss https://jsonswiss.com/
+JSON Swiss [URL](https://jsonswiss.com/)
 
-Introducing JSON https://www.json.org/json-en.html
+Introducing JSON [URL](https://www.json.org/json-en.html)
 
 
 <!-- briefing-teacher -->
