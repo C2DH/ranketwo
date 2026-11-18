@@ -96,7 +96,7 @@ If we look at a date like 28 June 1914 (`28-06-1914`), we can see another import
 ### Reading/viewing suggestions
 <!-- section-contents --> 
 
-Drucker, Johanna. “Humanities Approaches to Graphical Display”. *Digital Humanities Quarterly* 5 (1), 2011. https://doi.org/10.63744/r4ysrh7ae534.
+Drucker, Johanna. “Humanities Approaches to Graphical Display”. *Digital Humanities Quarterly* 5 (1), 2011. [DOI](https://doi.org/10.63744/r4ysrh7ae534).
 
 Loukissas, Yanni Alexander. (2019).*All data are local: Thinking critically in a data-driven society*. The MIT Press
 
