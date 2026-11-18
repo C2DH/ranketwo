@@ -39,6 +39,7 @@ Table 1. Person table
 <!--
 [Link to editable table: Person](/assets/docs/construction-of-data/person-table.pdf)
 -->
+
 STEP 1
 Fill in the table. For the attributes (the characteristics listed in the column headers, such as “First Name:”), refer to the poster. For the values (the actual dates and information entered in the columns, such as “Karl”), use your critical skills and get help from the image in the poster and research on the web.
 
