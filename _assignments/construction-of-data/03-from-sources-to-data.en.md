@@ -23,7 +23,9 @@ We will now explore how data are produced to describe and study the world around
  
 Let’s take a simple example: a “Wanted” poster of the kind that you might see in Westerns or comics (see figure below). Look carefully at the poster and the information it provides. 
 
-![Wanted poster](/assets/images/construction-of-data/Wanted_Poster_marx_new.jpg)
+![Wanted poster](/assets/images/construction-of-data/Wanted_Poster_marx_new.jpg "Wanted poster")
+
+Figure 3. Wanted poster. Image courtesy of Moritz Feichtinger. 
 
 Then think of the poster as a simple table that focuses on a given person and lists a number of characteristics in different columns with the purpose of identifying that person.
 
@@ -33,8 +35,10 @@ Then think of the poster as a simple table that focuses on a given person and li
 |:---------|:---------|:--------|:-------|:--------|
 |Person0001|Value1|Value2|Value3|Value4|
 
+Table 1. Person table
+<!--
 [Link to editable table: Person](/assets/docs/construction-of-data/person-table.pdf)
-
+-->
 STEP 1
 Fill in the table. For the attributes (the characteristics listed in the column headers, such as “First Name:”), refer to the poster. For the values (the actual dates and information entered in the columns, such as “Karl”), use your critical skills and get help from the image in the poster and research on the web.
 
@@ -65,6 +69,7 @@ We can now expand our table to list several historical figures by adding further
 |P0002|...|...|...|...|...|...|...|...|
 |P0003|...|...|...|...|...|...|...|...|
 
+Table 2. Historical figures table
 <!--
 [Link to editable table: Historical figures](/assets/docs/data-criticism/historical-persons-table.docx)-->
 
