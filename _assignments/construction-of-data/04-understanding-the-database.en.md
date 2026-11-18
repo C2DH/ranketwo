@@ -28,18 +28,23 @@ Look at the following source: Karl Marx. Whose Atrocities? New York Daily Tribun
 
 If you have a problem accessing the resource, please consult this [archived URL](https://web.archive.org/web/20260000000000*/https://www.marxists.org/archive/marx/works/1857/04/10.htm).
 
-![Source: “Whose Atrocities?”](/assets/images/construction-of-data/source-full.jpg)
-Figure
+![Source: “Whose Atrocities?”](/assets/images/construction-of-data/source-full.jpg "Whose Atrocities? article title")
+
+Figure 4. “Whose Atrocities?” - digitised article of Karl Marx available on marxists.org   
 
 The source is a newspaper article by Karl Marx, published on 10 April 1857. For the purpose of this lesson, it will be considered as part of a collection of articles on UK policy towards China from which a database should be constructed. 
 
 The image you see in the above figure represents the transcribed version of the article as published on the website [marxists.org](https://www.marxists.org/). This version is itself a digitisation of an edited volume published in 1951 assembling all articles on China authored by Marx in the *New York Daily Tribune*. The media archaeology that traces the different ontological levels of our source (web page, book chapter, newspaper article) can be traced in the screenshots below that display different captures taken from [Zotero](https://www.zotero.org/), the popular software for managing bibliographical information.
 
-![Screenshot of Zotero entries](/assets/images/construction-of-data/zotero-entries.jpg)
+![Screenshot of three Zotero entries](/assets/images/construction-of-data/zotero-entries.jpg "Screenshot of three Zotero entries")
+
+Figure 5. Screenshot of Zotero entries corresponding to different possible levels of a digitised source
 
 The same source would look like this if captured in [Tropy](https://www.tropy.org/), the software specifically designed to manage archive photos:
 
-![Screenshot of Tropy entry](/assets/images/construction-of-data/tropy-object.jpg)
+![Screenshot of Tropy entry](/assets/images/construction-of-data/tropy-object.jpg "Screenshot of Tropy entry")
+
+Figure 6. Screenshot of Tropy entry 
 
 The exercises in the following subsections use the source as specified at the beginning of the section (newspaper article) and provide specific instructions.
 
@@ -71,7 +76,9 @@ Imagine you are researching British political figures involved in the UK’s pol
 Use a pencil and paper to draw your ideas.
 Now look at the following image. This is what a data model for this source could look like. Ignore the technical details and focus instead on what you can understand.
 
-![Scheme and connections](/assets/images/construction-of-data/database_scheme_simple.jpg)
+![Scheme and connections](/assets/images/construction-of-data/database_scheme_simple.jpg "Scheme and connections")
+
+Figure 7. Scheme and connections 
 
 1. Can you recognise types of information that represent descriptive categories based on the article?
 2. Can you identify what kind of information is considered important based on the attributes of each category?
@@ -94,7 +101,9 @@ Look at the source excerpt above.
 
 Which entities were easiest to identify? Which were more ambiguous?
 
-![first paragraphs](/assets/images/construction-of-data/source-zoom.jpg)
+![First paragraphs](/assets/images/construction-of-data/source-zoom.jpg "First paragraphs")
+
+Figure 8. Extracting entities from the first paragraphs.
 
 <!-- section -->
 
@@ -144,7 +153,9 @@ Check the example database in 4.e. Can you explain in your own words why `P003` 
 
 **Junction tables**. Some relationships cannot be stored with a simple foreign key. Take the Lord Mayor’s banquet (E002): both Palmerston (P002) and Clarendon (P003) took part in it. If you tried to add a person_id column to the Event table, you could only fit one person per event – there is no room for a second. If instead you tried adding an event_id column to the Person table, you would run into the same wall from the other side: Palmerston alone appears at several events, not just one. Junction tables solve this by giving the relationship itself its own table, with one row per pairing rather than per person or per event. A row like P002 – E002 simply states “Palmerston took part in the banquet”; a second row, P003 – E002, states “Clarendon took part in the banquet too” – both can exist side by side, without forcing either the Person or the Event table to hold more than one value per field. This is exactly what the Person–Event table does: every row links exactly one person to exactly one event, and as many rows as needed can share the same person_id or the same event_id. Together with primary and foreign keys, junction tables let historians ask questions that cut across many sources at once – “who attended which events, and when?” – in ways a single spreadsheet, with its one-row-per-record limit, cannot represent.
 
-![Junction table Person-Event](/assets/images/construction-of-data/junction_table.jpg)
+![Junction table Person-Event](/assets/images/construction-of-data/junction_table.jpg "Junction table Person-Event")
+
+Figure 9. Example: junction table Person-Event
 
 Of course, there are rules to follow when creating a database: primary keys cannot be empty, the types of data (textual, numerical, etc.) need to be specified and so on. But any software used to create a database (like the free [Libre Office Base](https://www.libreoffice.org/DISCOVER/BASE/)) will remind you of these rules to ensure that your database works. As the aim of this lesson is to explain what lies behind a database, please consult the references (Julien 2024) and (Cosovschi 2024) in the reading suggestions to learn more about implementing a data model.
 
@@ -238,7 +249,9 @@ A *query* is simply a question you ask the database in its own language – usua
 
 Now we have a very basic architecture of a database containing several different types of tables that are related to each other (much like hyperlinks in a web document, but more powerful and flexible). A visual representation would look something like this:
 
-![Scheme and connections](/assets/images/construction-of-data/database_scheme_detail.jpg)
+![Scheme and connections with description](/assets/images/construction-of-data/database_scheme_detail.jpg "Scheme and connections with description")
+
+Figure 10. Scheme and connections with description.
 
 **Reading the diagram: cardinality and optionality.** Every relationship line carries two pieces of information at each end: *cardinality* (how many – a single bar means “one”, a crow’s foot means “many”) and *optionality* (whether it is required – a bar means “must exist”, an open circle means “zero is allowed”). Take Source–Person: the bar next to Source means every Person must belong to exactly one source (mandatory); the crow’s foot next to Person means one source may be linked to many people – or, in principle, to none at all if a source names no individuals (optional). [Wikipedia](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model#Crow's_foot_notation) uses the same three symbols: ring = zero, dash = one, crow’s foot = many.
 
@@ -301,7 +314,9 @@ Which people from our source were easy to find on Wikidata? Were there any for w
 
 The relational model is not the only way to organise data. [NoSQL](https://en.wikipedia.org/wiki/NoSQL) databases (a loose family including document stores, key–value stores and graph databases) work without fixed tables and predefined columns: each record can have its own structure, providing more flexibility for heterogenous data or dynamic, evolving collections. A popular model that could also be used for the example used in this lesson is [RDF (Resource Description Framework)](https://en.wikipedia.org/wiki/Resource_Description_Framework): it does not use tables but expresses information in simple three-part statements consisting of subject–predicate–object (so-called “triples”). In our case, one triple would be `Palmerston` – `held office` – `Prime Minister`. Wikidata is based on this principle, and linking the Person table to a Wikidata QID is a first step towards an RDF-based linked-data model that connects data from various sources and in various formats.
 
-![Types](/assets/images/construction-of-data/odb.jpg) 
+![Types of data fields](/assets/images/construction-of-data/odb.jpg "Types of data fields")
+
+Figure 11. Types of data fields. 
 
 <!-- section -->
 
