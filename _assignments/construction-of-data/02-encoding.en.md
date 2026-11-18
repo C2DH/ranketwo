@@ -37,9 +37,9 @@ Carefully inspect the image below: it represents an [IBM](https://en.wikipedia.o
 
 Now think about this question: if you wanted to write your name and make it machine-readable, what knowledge would it take to be able to punch it using this card? (We will come back to this question but for the moment please follow the next step below.)
 
-![IBM-EBCDIC punchcard](/assets/images/construction-of-data/punchcard.jpg)
+![IBM-EBCDIC punchcard](/assets/images/construction-of-data/punchcard.jpg "IBM-EBCDIC punchcard")
 
-Caption: An IBM 5081-style punched card showing the encoding of the 1964 EBCDIC Latin character set, including numerals 0-9, upper-case letters A-Z and special characters. The contrast of the human-readable strip at the top of the card has been artificially enhanced. Source: [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=File:Blue-punch-card-front-horiz_top-char-contrast-stretched.png&oldid=865403764)
+Figure 1. An IBM 5081-style punched card showing the encoding of the 1964 EBCDIC Latin character set, including numerals 0-9, upper-case letters A-Z and special characters. The contrast of the human-readable strip at the top of the card has been artificially enhanced. Source: [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=File:Blue-punch-card-front-horiz_top-char-contrast-stretched.png&oldid=865403764)
 
 STEP 2 
 Now try this great [emulator](https://masswerk.at/keypunch/) built by Austrian artist and web designer Norbert Landsteiner. You can use the SYMBOLIC configuration to type your name with the help of a virtual [typewriter](https://en.wikipedia.org/wiki/Typewriter) and the emulator will punch the card for you.
@@ -95,9 +95,9 @@ Encoding does not only apply to text: digital images are also encoded numericall
 
 The image below represents a simple circle on a 16 x 16 grid:
 
-![Circle in 16 x 16 grid](/assets/images/construction-of-data/16x16-circle-table.jpg)
+![Circle in 16 x 16 grid](/assets/images/construction-of-data/16x16-circle-table.jpg "Circle in 16 x 16 grid")
 
-Caption: simple representation of a circle on a 16 x 16 grid, author: Moritz Feichtinger
+Figure 2. Simple representation of a circle on a 16 x 16 grid. Image courtesy of Moritz Feichtinger.
 
 Each position in the grid can be identified numerically and assigned an RGB scheme colour value. Together, these encoded positions create the visual impression of a circle.
 
@@ -162,7 +162,7 @@ Go back to Lea’s digital collection of her grandmother’s possessions from th
 
 Haigh, Thomas. *Defining Digitalities I.* 2023. [DOI](https://doi.org/10.25819/ubsi/10259).
 
-“The IBM Punched Card”. *IBM website [https://www.ibm.com/](https://www.ibm.com/)*. 10 November 2025. https://www.ibm.com/history/punched-card.
+“The IBM Punched Card”. *IBM website [https://www.ibm.com/](https://www.ibm.com/)*. 10 November 2025. [URL](https://www.ibm.com/history/punched-card).
 
 http://www.injosoft.se, Injosoft AB. “The Beginner’s Guide to ASCII”. Accessed 4 November 2026. https://www.ascii-code.com/articles/Beginners-Guide-to-ASCII.
 
