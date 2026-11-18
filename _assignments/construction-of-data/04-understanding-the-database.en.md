@@ -139,6 +139,8 @@ The key principles presented below are based on the specific case of the example
 | P002 | Lord Palmerston | S001 |
 | P003 | Earl of Clarendon | S001 |
 
+Table 3. Exaple of table with primary keys
+
 `P003` always means *this specific* Earl of Clarendon – the one described in our source –, no matter how many other Earls of Clarendon existed before or after him.
 
 **Foreign keys**. Once every row has its own permanent ID, tables can be linked without repeating information. A foreign key is simply a primary key from one table copied into another table to point back to it. Instead of adding “Lord Palmerston, Premier of England” to every event he attended, we just write `P002`, and the database follows that pointer back to the full record for that person whenever needed.
@@ -146,6 +148,8 @@ The key principles presented below are based on the specific case of the example
 | role_id | person_id | org_id | title |
 |---|---|---|---|
 | RO003 | P003 | O002 | Minister of Foreign Affairs |
+
+Table 4. Example of table with foreign keys. 
 
 Here,  `person_id` and `org_id` are foreign keys: they don’t describe the Role row itself but instead point to where the full details are found.
 
@@ -176,6 +180,8 @@ If we create tables for all the different types of information or entities, we c
 |---|---|---|---|---|
 | S001 | Karl Marx | New York Daily Tribune | 1857-04-10 | [https://www.marxists.org/archive/marx/works/1857/04/10.htm](https://www.marxists.org/archive/marx/works/1857/04/10.htm) |
 
+Table 5. Table 1 – Source of the database. 
+
 #### Table 2 – Person
 
 | person_id | name | source_id |
@@ -183,6 +189,8 @@ If we create tables for all the different types of information or entities, we c
 | P001 | Sir James Hogg | S001 |
 | P002 | Lord Palmerston | S001 |
 | P003 | Earl of Clarendon | S001 |
+
+Table 6. Table 2 – Person of the database. 
 
 In a relational database, Palmerston exists exactly once as row `P002`. Every event, office or source that mentions him simply stores `P002`. You can then ask questions that cut across all your sources at once: *“Select every event involving people who held an office in the British Government, sorted by date.”* A spreadsheet cannot answer that, but a relational database answers it in a single query, however many sources you have gathered.
 
@@ -198,6 +206,8 @@ This table records genuine historical information: **which role a person held in
 | RO002 | P002 | O002 | Premier of England | 1857 | before | 1857 | after |
 | RO003 | P003 | O002 | Minister of Foreign Affairs | 1857 | before | 1857 | after |
 
+Table 7. Table 3 – Role of the database. 
+
 
 **A note on structuring dates.** Historical dates are rarely exact, and a plain text field like “ca. 1853” or “before 1857” can’t be sorted, filtered or compared by a computer – it’s just a string of characters to the software. A more analysable approach splits the date into two parts: a **value** the software can actually read (a year, or a full date when known), and a **precision** label from a fixed small vocabulary (exact, circa, before, after, unknown) that records how certain that value is. You lose nothing – the historical uncertainty is still fully recorded – but the value column now becomes something a database can genuinely work with. Historians working with larger or more uncertain date ranges may want to look at the [Extended Date/Time Format (EDTF)](https://www.loc.gov/standards/datetime/) standard, which offers a more comprehensive vocabulary for precisely this problem.
 
@@ -208,6 +218,8 @@ This table records genuine historical information: **which role a person held in
 | L001 | India | TRUE | TRUE | FALSE | S001 |
 | L002 | England | FALSE | TRUE | FALSE | S001 |
 | L003 | Canton | FALSE | FALSE | TRUE | S001 |
+
+Table 8. Table 4 – Place of the database. 
 
 
 Why do you think there are three separate columns to specify the type of place? Why not only one? 
@@ -222,6 +234,8 @@ Why do you think there are three separate columns to specify the type of place? 
 | O002 | British Government | State authority | S001 |
 | O003 | British Parliament | Legislative body | S001 |
 
+Table 9. Table 5 – Organisation of the database.
+
 #### Table 6 – Event
 
 The Event table is the connecting hub.
@@ -232,6 +246,8 @@ The Event table is the connecting hub.
 | E002 | Lord Mayor’s banquet – Palmerston’s speech | 1857 | circa | L002 | O002 | S001 |
 | E003 | Arrest of sailors aboard the *Arrow* | 1856-10-08 | exact | L003 | O001 | S001 |
 
+Table 10. Table 6 – Event of the database 
+
 #### Table 7 – Person–Event 
 
 The Person–Event table is the junction table.
@@ -240,7 +256,9 @@ The Person–Event table is the junction table.
 |---|-----------|----------|-------------------------------------------|
 | PE001  | P002      | E002     | Speaker (as Premier)                 |
 | PE002  | P001      | E001     | Director (respondent)           |
-| PE003  | P003      | E002     | Attendee (as Minister of Foreign Affairs) |
+| PE003  | P003      | E002     | Attendee (as Minister of Foreign Affairs) |7
+
+Table 11. Table 7 – Person–Event of the database
 
 
 Because one person can participate in many events and one event can involve many people, this relationship is **many-to-many** – it cannot be stored in either the Person or Event table alone. The junction table holds one row per person–event pairing. Both person_id and `event_id` are foreign keys; **together** they form the primary key of this table (a *composite* primary key), because what is unique here is the *combination* – the same person can appear in multiple events, and the same event can appear across multiple persons, but a specific person can only be linked to a specific event once.
@@ -262,6 +280,8 @@ Figure 10. Scheme and connections with description.
 | `\|<` | one or many (mandatory: minimum 1, maximum many) |
 | `o<` | zero or many (optional: minimum 0, maximum many) |
 
+Table 12. Symbols of relations. 
+
 *Reading rule: the symbol placed next to an entity’s name describes **that entity’s** multiplicity per one instance of the entity on the other end of the line. Example: Source || ⋯ o< Person reads as “one Source may be linked to zero or many Persons; every Person belongs to exactly one Source.”*
 
 #### Comprehensive relation type overview
@@ -273,6 +293,8 @@ Figure 10. Scheme and connections with description.
 | One-to-many, mandatory many (1,1 – 1,N) | `Organisation \|\| -- \|< Office` | An Organisation only enters our database because at least one Office (a role held within it) was recorded; the same Organisation may have many recorded office holders. |
 | Many-to-one ((mirror image of the row above) | `Office o< -- \|\| Person` | Many Office records can point back to the same Person – Palmerston alone accounts for two (Foreign Secretary, then Prime Minister) – but every single Office record belongs to exactly one Person. |
 | Many-to-many, optional both sides (0,N – 0,N) | `Person o< -- o< Event` | One person can take part in many events, and one event can involve many people – captured by the Person–Event junction table. |
+
+Table 13. Types of relations. 
 
 
 **One-to-many and many-to-one describe the same relationship from two directions.** Looking from Source to Person, one article can mention many people (*one-to-many*); looking from Person to Source, every Person record belongs to exactly one article (*many-to-one*). It is the same arrow, just read from opposite ends – which is why you will sometimes see the identical relationship labelled “1:N” in one textbook and “N:1” in another.
@@ -286,6 +308,8 @@ Mention Table (Person ↔ Source junction table)
 | M001 | P002 | S001 |
 | M002 | P002 | S045 |
 | M003 | P002 | S078 |
+
+Table 14. Mention table (junction table). 
 
 Palmerston (`P002`) still exists only once in the Person table but now appears in three rows of the Mention table, making this a many-to-many relationship between Person and Source.
 
@@ -304,6 +328,8 @@ So far, every relationship in our database has allowed at least one side to have
 | person_id | wikidata_qid |
 |---|---|
 | P002 | Q193656 |
+
+Table 15. Identifier table, a new table in the database.
 
 1. Go to [wikidata.org](https://www.wikidata.org/) and use the search bar at the top of the page.
 2. Search for “Lord Palmerston” (or one of the other people from our source, e.g. “Earl of Clarendon”).
