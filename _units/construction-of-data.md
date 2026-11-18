@@ -1,8 +1,8 @@
 ---
 title: "The construction of data"
 layout: unit
-date: 2026-11-03
-publication_date: 
+date: 2026-11-18
+publication_date: 2026-11-18  
 toc: on
 research-phase: hermeneutics
 activities: 
