@@ -280,7 +280,7 @@ Figure 10. Scheme and connections with description.
 | `\|<` | one or many (mandatory: minimum 1, maximum many) |
 | `o<` | zero or many (optional: minimum 0, maximum many) |
 
-Table 12. Symbols of relations. 
+Table 12. Relationship contraints. 
 
 *Reading rule: the symbol placed next to an entity’s name describes **that entity’s** multiplicity per one instance of the entity on the other end of the line. Example: Source || ⋯ o< Person reads as “one Source may be linked to zero or many Persons; every Person belongs to exactly one Source.”*
 
@@ -294,7 +294,7 @@ Table 12. Symbols of relations.
 | Many-to-one ((mirror image of the row above) | `Office o< -- \|\| Person` | Many Office records can point back to the same Person – Palmerston alone accounts for two (Foreign Secretary, then Prime Minister) – but every single Office record belongs to exactly one Person. |
 | Many-to-many, optional both sides (0,N – 0,N) | `Person o< -- o< Event` | One person can take part in many events, and one event can involve many people – captured by the Person–Event junction table. |
 
-Table 13. Types of relations. 
+Table 13. Types of relationships. 
 
 
 **One-to-many and many-to-one describe the same relationship from two directions.** Looking from Source to Person, one article can mention many people (*one-to-many*); looking from Person to Source, every Person record belongs to exactly one article (*many-to-one*). It is the same arrow, just read from opposite ends – which is why you will sometimes see the identical relationship labelled “1:N” in one textbook and “N:1” in another.
