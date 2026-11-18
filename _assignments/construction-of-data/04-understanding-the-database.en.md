@@ -336,15 +336,15 @@ Consult the [Wikipedia article on the Second Opium War](https://en.wikipedia.org
 
 ### Reading/viewing suggestions
 <!-- section-contents --> 
-Nodegoat. What Is a Relational Database? Accessed 4 June 2026. https://nodegoat.net/blog.s/20/what-is-a-relational-database.
+Nodegoat. What Is a Relational Database? Accessed 4 June 2026. [URL](https://nodegoat.net/blog.s/20/what-is-a-relational-database).
 
-Cosovschi, Agustín. “From Sources to Data: Designing a Database for the Humanities and Social Sciences with Nodegoat”. *Programming Historian*, 29 February 2024. https://programminghistorian.org/en/lessons/designing-database-nodegoat.
+Cosovschi, Agustín. “From Sources to Data: Designing a Database for the Humanities and Social Sciences with Nodegoat”. *Programming Historian* 15 (2024). [DOI](https://doi.org/10.46430/phen0130)
 
-Julien, Octave. Creating and using databases in medieval history: historiography, concepts and practice. Seminários do GIHM, April 2024, Porto, Portugal. ￿[halshs-04550456￿](https://shs.hal.science/halshs-04550456v1)
+Julien, Octave. Creating and using databases in medieval history: historiography, concepts and practice. Seminários do GIHM, April 2024, Porto, Portugal. ￿halshs-04550456￿ [URL](https://shs.hal.science/halshs-04550456v1)
 
 Robertson, Stephen. “The properties of digital history”. *History and Theory* 61 (4) (2022): 86‑106. [DOI](https://doi.org/10.1111/hith.12286).
 
-Viale, Mattia. “From the Historical Source to a Database: A Short Story”. *Refashioning the Renaissance*, 21 November 2018. https://refashioningrenaissance.eu/from-the-historical-source-to-a-database/.
+Viale, Mattia. “From the Historical Source to a Database: A Short Story”. *Refashioning the Renaissance*, 21 November 2018. [URL](https://refashioningrenaissance.eu/from-the-historical-source-to-a-database/).
 
 
 <!-- briefing-teacher -->
