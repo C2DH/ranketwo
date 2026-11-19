@@ -51,7 +51,6 @@ The exercises in the following subsections use the source as specified at the be
 ### 4.a Designing a data model | 35 mins  
 <!-- section-contents -->
  
-Designing a data model
 Historians decide what information they want to record in a spreadsheet or database depending on their research question. This is the basis on which they select categories and determine which data they want to capture from a historical source. The selection of categories and the way they relate to each other is called a data model.
 
 A data model defines how the information is divided and organised:
