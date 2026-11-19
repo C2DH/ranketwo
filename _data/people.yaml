@@ -89,5 +89,19 @@
   url: https://www.uni.lu/c2dh-en/people/stefan-krebs/
 - slug: werner-tschacher 
   id: werner-tschacher
-  name: Werner Tschacher     
+  name: Werner Tschacher
+- slug: moritz-feichtinger
+  id: moritz-feichtinger
+  name: Moritz Feichtinger
+- slug: aida-horaniet-ibanez
+  id: aida-horaniet-ibanez
+  name: Aida Horaniet Ibanez
+  url: https://www.uni.lu/c2dh-en/people/aida-horaniet-ibanez/
+- slug: cecile-armand
+  id: cecile-armand
+  name: Cécile Armand 
+- slug: daniel-richter
+  id: daniel-richter
+  name: Daniel Richter 
+  url: https://www.uni.lu/c2dh-en/people/daniel-richter/      
 
