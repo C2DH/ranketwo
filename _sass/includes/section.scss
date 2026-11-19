@@ -57,6 +57,9 @@
 }
 
 .section--contents table{
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
   margin-bottom: 20px;
 
   th {
@@ -92,5 +95,28 @@
   }
   &.text-bold-highlight td strong{
     background: yellow;
+  }
+}
+
+details{
+  height: 2.25rem;
+
+  summary{
+    background-color: #FFF8F0;
+    padding: 0.25rem 0.5rem;
+  }
+
+  div{
+    background-color: #FFF8F0;
+    padding: 0.25rem 1rem;
+    position: relative;
+    opacity: 0 !important;
+    transition: opacity 0.25s ease-in-out;
+  }
+
+  &[open]{
+    div{
+      opacity: 1 !important;
+    }
   }
 }
