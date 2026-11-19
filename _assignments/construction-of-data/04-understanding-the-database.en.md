@@ -161,7 +161,7 @@ Check the example database in 4.e. Can you explain in your own words why `P003` 
 
 Figure 9. Example: junction table Person-Event
 
-Of course, there are rules to follow when creating a database: primary keys cannot be empty, the types of data (textual, numerical, etc.) need to be specified and so on. But any software used to create a database (like the free [Libre Office Base](https://www.libreoffice.org/DISCOVER/BASE/){:target="_blank"}) will remind you of these rules to ensure that your database works. As the aim of this lesson is to explain what lies behind a database, please consult the references (Julien 2024) and (Cosovschi 2024) in the reading suggestions to learn more about implementing a data model.
+Of course, there are rules to follow when creating a database: primary keys cannot be empty, the types of data (textual, numerical, etc.) need to be specified and so on. But any software used to create a database (like the free Libre Office Base) will remind you of these rules to ensure that your database works. As the aim of this lesson is to explain what lies behind a database, please consult the references (Julien 2024) and (Cosovschi 2024) in the reading suggestions to learn more about implementing a data model.
 
 <!-- section -->
 
