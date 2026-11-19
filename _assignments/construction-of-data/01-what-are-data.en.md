@@ -4,8 +4,6 @@ unit: construction-of-data
 lang: en
 title: "What are data?"
 cover:
-documents:
-  - 
 tags:
 outcomes:
   - Understand that data are structured representations with specific characteristics

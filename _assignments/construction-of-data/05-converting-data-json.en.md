@@ -4,8 +4,6 @@ unit: construction-of-data
 lang: en
 title: "Converting data: the example of JSON format"
 cover:
-documents:
-  - 
 tags:
 outcomes:
   - Understand the principle and aims of converting data between formats.

@@ -4,8 +4,6 @@ unit: construction-of-data
 lang: en
 title: "Encoding and digital representation"
 cover:
-documents:
-  - 
 tags:
 outcomes:
   - Understand how encoding mediates the transformation of information into machine-readable digital data

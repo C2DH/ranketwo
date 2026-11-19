@@ -4,8 +4,6 @@ unit: construction-of-data
 lang: en
 title: "Understanding the relational database"
 cover:
-documents:
-  - 
 tags:
 outcomes:
   - Understand a simple data model designed for historical sources

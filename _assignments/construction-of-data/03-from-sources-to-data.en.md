@@ -4,8 +4,6 @@ unit: construction-of-data
 lang: en
 title: "From sources to data"
 cover:
-documents:
-  - 
 tags:
 outcomes:
   - Select descriptive categories and attributes that are appropriate for a specific research purpose
