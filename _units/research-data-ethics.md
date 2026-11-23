@@ -28,7 +28,7 @@ components:
 cover:
   url: /assets/images/research-data-ethics/avatar.jpg
   position: center
-  caption: "" 
+  caption: "Kuikens. Jakuun (possibly), Japan. 1900-1910. Rijks Museum. www.rijksmuseum.nl. Public domain." 
 order: -4  
 og:
   description: "A lesson on historical data criticism with focus on ethics and responsibility"
