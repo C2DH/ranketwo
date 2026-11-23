@@ -28,7 +28,7 @@ Simply put, data lifecycles illustrate the stages that data go through and the n
 
 [RDMkit](https://rdmkit.elixir-europe.org/data_life_cycle) is the research data management toolkit developed by ELIXIR Europe, the European research infrastructure for life science data. Its data management principles are widely applicable across disciplines, including history and the humanities (Coppens et al. 2021).  
 
-![Data lifecycle](assets/images/research-data-ethics/datalifecycle.jpg)
+![Data lifecycle](/assets/images/research-data-ethics/datalifecycle.jpg)
 
 Figure 1. The data lifecycle. Source: [RDMkit: A research data management toolkit for life sciences](https://doi.org/10.1016/j.patter.2025.101345). CC BY. 
 
@@ -96,8 +96,7 @@ For guidance: [Oral History Association. Archiving Oral History — Ownership an
 
 * What licence should Lea attach to the published material? What are the implications of choosing a [Creative Commons](https://creativecommons.org/) attribution licence versus a more restrictive licence, or no licence at all?
 
-<summary><strong>What is a licence? (click to expand)</strong></summary> 
-
+<summary><strong>What is a licence? (click to expand)</strong></summary>
 When you make a document, photograph or any other creation publicly available, a licence tells others what they are and are not allowed to do with it. Without a licence, the default position in most countries is that all rights are reserved, meaning that no one can legally reuse the material without requesting permission. Creative Commons (CC) licences offer a flexible middle ground. They allow creators to share their work while specifying the conditions of reuse. The most common conditions are:
 BY (Attribution) – anyone can reuse the material, provided they credit the creator
 NC (Non-Commercial) – reuse is permitted for non-commercial purposes only 
