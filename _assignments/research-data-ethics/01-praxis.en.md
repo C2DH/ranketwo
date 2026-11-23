@@ -7,9 +7,6 @@ cover:
 tags:
 outcomes:
   - Identify key ethical principles – consent, ownership, and integrity – in real archival situations
-  -
-  -
-
 order: 1
 ---
 In everyday language, the terms data, information and knowledge are often used interchangeably. In the context of data management, however, they refer to distinct categories with different ethical implications (Floridi 2013). Clarifying these distinctions is essential for understanding how ethical responsibility operates at different stages of historical research.
