@@ -95,7 +95,7 @@ For each category, consider the following questions:
 * What licence would you attach to the material that can be shared?
 
 
-Then reflect on the two frameworks together using the [Data Ethics Canvas](https://theodi.org/tools), a planning tool developed by the Open Data Institute (ODI) to help projects think through who could be affected by how data is used and shared.
+Then reflect on the two frameworks together using the [Data Ethics Canvas](https://theodi.org/tools), a planning tool developed by the Open Data Institute (ODI) to help people involved in projects think through who could be affected by how data is used and shared.
 
 ![Data Ethics Canvas](/assets/images/research-data-ethics/data-ethics-canvas.jpg)
 
@@ -104,15 +104,29 @@ Figure 2. The Data Ethics Canvas. Source: [Open Data Institute](https://theodi.o
 * Negative effects on people: who could be harmed if this material is published, and how? Could it expose someone, including living relatives who were never contacted, or reveal sensitive details about them?
 * Sharing data with others: which part of the material would you share, with whom, and under what conditions or licence? Which part would you restrict or not deposit?
 * The phrase *handle data with care and share if possible* captures the practical spirit of both frameworks together. Do you think *if possible* is doing important work in the phrase? What conditions would make sharing impossible, or irresponsible?
-* Finally, consider the initial question and reflect on how the GDPR and the CARE principles point in the same direction for your category, and where they pull apart.
+* Finally, consider the initial question and reflect on how the GDPR and the CARE principles point in the same direction for your category, and where they diverge.
 
 
 <!-- section -->
 
 ### Reading/viewing suggestions
 <!-- section-contents --> 
+GO-FAIR. FAIR Principles. https://www.go-fair.org/fair-principles/
 
-{:target="_blank"}.
+Wilkinson, Mark D. *et al.* “The FAIR Guiding Principles for Scientific Data Management and Stewardship”. *Scientific Data* 3 2016: 160018. https://doi.org/10.1038/sdata.2016.18
+
+Global Indigenous Data Alliance. CARE Principles. https://www.gida-global.org/care
+
+Carroll, Stephanie Russo *et al.* 2020. “The CARE Principles for Indigenous Data Governance”. *Data Science Journal* 19 (1): 43. https://doi.org/10.5334/dsj-2020-043.
+
+O’Donnell, Dan. “Thinking about the CARE Principles in the Digital Humanities”. DARIAH-Campus, 16 December 2021. https://campus.dariah.eu/resources/hosted/thinking-about-the-care-principles-in-the-digital-humanities.
+
+D'Ignazio, Catherine, and Lauren F. Klein. *Data Feminism*. MIT Press, 2020. https://data-feminism.mitpress.mit.edu/ (see Chapter 4: “What Gets Counted Counts”).
+
+[Traditional Knowledge (TK) Labels](https://localcontexts.org/labels/traditional-knowledge-labels/){:target="_blank"}. *A concrete tool for applying CARE principles to digital cultural heritage, developed by the non-profit organisation Local Contexts. TK Labels are digital notices that communities can attach to cultural heritage materials held in archives and museums, specifying their terms for access and use. Unlike licences, they do not define legal rights of use; rather, they add a layer of community-specific information about the cultural context and sensitivity of materials*.
+
+[Mukurtu](https://mukurtu.org/){:target="_blank"}.. *A content management system designed specifically for Indigenous cultural heritage. Mukurtu integrates TK Labels directly into the browsing experience, allowing communities to communicate the cultural protocols that govern access to and use of their material.*
+
 
 
 
