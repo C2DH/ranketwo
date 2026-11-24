@@ -202,3 +202,24 @@
     aspectratio: aspect-16-9
     thumbnail: "https://i.vimeocdn.com/video/2222440902-c8e9e963ed02d2050a8c2ec3acc6574b5110f9fcf9f153f52268ebc8b1355260-d_900"
     src: "https://player.vimeo.com/video/1198350228"
+
+-
+    id: source-code-as-cultural-heritage
+    type: vimeo
+    aspectratio: aspect-16-9
+    thumbnail: "https://i.vimeocdn.com/video/2229674527-98c0a9f94e4e7aad412f00f7f0fd6eb178a1f971b508cb9bd7f1046e5d79da35-d_900"
+    src: "https://player.vimeo.com/video/1249338311"
+
+-
+    id: source-code-as-cultural-heritage-french
+    type: vimeo
+    aspectratio: aspect-16-9
+    thumbnail: "https://i.vimeocdn.com/video/2229674527-98c0a9f94e4e7aad412f00f7f0fd6eb178a1f971b508cb9bd7f1046e5d79da35-d_900"
+    src: "https://player.vimeo.com/video/1249339514"
+
+-
+    id: source-code-as-cultural-heritage-german
+    type: vimeo
+    aspectratio: aspect-16-9
+    thumbnail: "https://i.vimeocdn.com/video/2229674527-98c0a9f94e4e7aad412f00f7f0fd6eb178a1f971b508cb9bd7f1046e5d79da35-d_900"
+    src: "https://player.vimeo.com/video/1249337195"
