@@ -90,6 +90,21 @@
 - slug: werner-tschacher 
   id: werner-tschacher
   name: Werner Tschacher
+- slug: titayna-kauffmann
+  name: Titaÿna Kauffmann Will
+  url: https://www.uni.lu/c2dh-en/people/titayna-kauffmann-will/
+- slug: liesbeth-de-mol
+  name: Liesbeth de Mol
+  url: https://pro.univ-lille.fr/liesbeth-de-mol
+- slug: pawel-kaminski
+  name: Pawel Kaminski
+  url: https://www.uni.lu/c2dh-en/people/pawel-kaminski/
+- slug: emilien-schultz
+  name: Émilien Schultz
+  url: https://eschultz.fr/
+- slug: thomas-soubiran
+  name: Thomas Soubiran
+  url: https://cv.hal.science/thomas-soubiran
 - slug: moritz-feichtinger
   id: moritz-feichtinger
   name: Moritz Feichtinger
@@ -99,9 +114,9 @@
   url: https://www.uni.lu/c2dh-en/people/aida-horaniet-ibanez/
 - slug: cecile-armand
   id: cecile-armand
-  name: Cécile Armand 
+  name: Cécile Armand
 - slug: daniel-richter
   id: daniel-richter
-  name: Daniel Richter 
-  url: https://www.uni.lu/c2dh-en/people/daniel-richter/      
+  name: Daniel Richter
+  url: https://www.uni.lu/c2dh-en/people/daniel-richter/
 
