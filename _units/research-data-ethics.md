@@ -34,4 +34,4 @@ og:
   description: "A lesson on historical data criticism with focus on ethics and responsibility"
 ---
 
-A lesson on historical data criticism with focus on ethics and responsibility. 
+A lesson on historical data criticism with a focus on ethics and responsibility. 
