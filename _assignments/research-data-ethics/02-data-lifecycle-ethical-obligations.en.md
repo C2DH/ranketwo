@@ -26,13 +26,13 @@ Watch the video animation above following Lea as she discovers and documents the
 <!-- section-contents -->
 Simply put, data lifecycles illustrate the stages that data go through and the notions that are tied to them (e.g. datasets and databases – see lesson 1). The notion was developed as part of data management practices.
 
-[RDMkit](https://rdmkit.elixir-europe.org/data_life_cycle) is the research data management toolkit developed by ELIXIR Europe, the European research infrastructure for life science data. Its data management principles are widely applicable across disciplines, including history and the humanities (Coppens et al. 2021).  
+[RDMkit](https://rdmkit.elixir-europe.org/data_life_cycle){:target="_blank"} is the research data management toolkit developed by ELIXIR Europe, the European research infrastructure for life science data. Its data management principles are widely applicable across disciplines, including history and the humanities (Coppens et al. 2021).  
 
 ![Data lifecycle](/assets/images/research-data-ethics/datalifecycle.jpg)
 
-Figure 1. The data lifecycle. Source: [RDMkit: A research data management toolkit for life sciences](https://doi.org/10.1016/j.patter.2025.101345). CC BY. 
+Figure 1. The data lifecycle. Source: [RDMkit: A research data management toolkit for life sciences](https://doi.org/10.1016/j.patter.2025.101345){:target="_blank"}. CC BY. 
 
-Go to the [RDMkit website](https://rdmkit.elixir-europe.org/data_life_cycle and look at the lifecycle diagram.
+Go to the [RDMkit website](https://rdmkit.elixir-europe.org/data_life_cycle){:target="_blank"} and look at the lifecycle diagram.
 
 The RDMkit model describes a research lifecycle with the following stages: 
 * Plan 
@@ -57,7 +57,7 @@ For the purposes of this lesson, we use a combined model that draws on RDMkit an
 * Publication: sharing findings – and, increasingly, the underlying data – with other researchers and the public.
 * Archiving and Reuse: depositing data in a repository for long-term preservation and potential reuse by others.
 
-Extra: The SSHOC League of Data (SSHOC LoD) is a pilot gamification of the CESSDA Data Management Expert Guide® (DMEG) (https://lod.sshopencloud.eu). 
+Extra: The SSHOC League of Data (SSHOC LoD) is a pilot gamification of the CESSDA Data Management Expert Guide® (DMEG) (<https://lod.sshopencloud.eu>{:target="_blank"}). 
 
 
 <!-- section -->
@@ -66,13 +66,13 @@ Extra: The SSHOC League of Data (SSHOC LoD) is a pilot gamification of the CESSD
 <!-- section-contents -->
 Return to the video animation: we know that Lea has her family’s oral testimonies and photographs from community members, and that she has digitised them. Now she wishes to make this material available through the online archive of a local history project.
 
-When Lea digitised these materials, [she turned them into digital data](https://ranke2.uni.lu/u/construction-of-data/#assignment-01-what-are-data.en). Following the data lifecycle stages, we will trace the main ethical questions that arise at each stage for this project.
+When Lea digitised these materials, [she turned them into digital data](../construction-of-data/#assignment-01-what-are-data.en). Following the data lifecycle stages, we will trace the main ethical questions that arise at each stage for this project.
 
 For the sake of the exercise, focus on the stages of acquisition/collection, publication and archiving/reuse. For each stage, we have provided a brief description of the situation and a set of questions. If you are working in a class, these can be discussed in small groups; if working alone, write brief notes on each.
 
 #### Acquisition/Collection
 
-Imagine that Lea conducts recorded interviews with twelve community members; she also receives donations of more family photographs. She obtains [consent forms](https://kclpure.kcl.ac.uk/portal/en/publications/consent-in-the-digital-context-the-example-of-oral-history-interv/) from each participant.
+Imagine that Lea conducts recorded interviews with twelve community members; she also receives donations of more family photographs. She obtains [consent forms](https://kclpure.kcl.ac.uk/portal/en/publications/consent-in-the-digital-context-the-example-of-oral-history-interv/){:target="_blank"} from each participant.
 
 * One participant asks that their interview be kept confidential during their lifetime but made available after their death. How should Lea record and manage this condition? What happens if she loses the consent form? 
 * The photographs were taken by various family members over several decades. Who holds copyright: the person who took the photograph, the person depicted in it, the person who donated it or the family as a whole? How can you find out?
@@ -89,12 +89,12 @@ Lea is now ready to make the collection available online.
 
 <details>
 <summary><strong>What happens to consent when a contributor dies? (click to expand)</strong></summary> 
-In most legal frameworks, privacy rights do not survive death, meaning that the personal data of a deceased individual is generally no longer protected under regulations such as the GDPR. However, legal frameworks vary by country, and some national laws do extend certain protections beyond death. Beyond the legal question, there is also an ethical one: even if the law does not require it, many archivists and researchers consider it good practice to notify next of kin before publishing material involving deceased individuals, particularly when that material is of a sensitive or personal nature. Oral history associations have developed specific guidelines on this matter.
+<div>In most legal frameworks, privacy rights do not survive death, meaning that the personal data of a deceased individual is generally no longer protected under regulations such as the GDPR. However, legal frameworks vary by country, and some national laws do extend certain protections beyond death. Beyond the legal question, there is also an ethical one: even if the law does not require it, many archivists and researchers consider it good practice to notify next of kin before publishing material involving deceased individuals, particularly when that material is of a sensitive or personal nature. Oral history associations have developed specific guidelines on this matter.</div>
 </details> 
 
-For guidance: [Oral History Association. Archiving Oral History — Ownership and Rights Management](https://oralhistory.org/archives-principles-and-best-practices-complete-manual/)
+For guidance: [Oral History Association. Archiving Oral History — Ownership and Rights Management](https://oralhistory.org/archives-principles-and-best-practices-complete-manual/){:target="_blank"}
 
-* What licence should Lea attach to the published material? What are the implications of choosing a [Creative Commons](https://creativecommons.org/) attribution licence versus a more restrictive licence, or no licence at all?
+* What licence should Lea attach to the published material? What are the implications of choosing a [Creative Commons](https://creativecommons.org/){:target="_blank"} attribution licence versus a more restrictive licence, or no licence at all?
 
 <summary><strong>What is a licence? (click to expand)</strong></summary>
 When you make a document, photograph or any other creation publicly available, a licence tells others what they are and are not allowed to do with it. Without a licence, the default position in most countries is that all rights are reserved, meaning that no one can legally reuse the material without requesting permission. Creative Commons (CC) licences offer a flexible middle ground. They allow creators to share their work while specifying the conditions of reuse. The most common conditions are:
@@ -145,14 +145,14 @@ Fill in one row for one item of your choice. This exercise is designed to help y
 ### Reading/viewing suggestions
 <!-- section-contents --> 
 
-RDMkit (ELIXIR Europe). Data Life Cycle overview. https://rdmkit.elixir-europe.org/data_life_cycle – especially the “Human Data” section.
+RDMkit (ELIXIR Europe). Data Life Cycle overview. <https://rdmkit.elixir-europe.org/data_life_cycle>{:target="_blank"} – especially the “Human Data” section.
 
-Digital Curation Centre. “Data Management Plans”. https://www.dcc.ac.uk/resources/data-management-plans
+Digital Curation Centre. “Data Management Plans”. <https://www.dcc.ac.uk/resources/data-management-plans>{:target="_blank"}
 
-The Turing Way Community. “A Handbook for Reproducible, Ethical and Collaborative Data Science”. https://the-turing-way.netlify.app/
+ehe Turing Way Community. “A Handbook for Reproducible, Ethical and Collaborative Data Science”. <https://the-turing-way.netlify.app/>{:target="_blank"}
 
-Oral History Society. “Ethical and Legal Matters”. https://www.ohs.org.uk/ethics/
-UK Data Service. “Consent for Data Sharing”. https://ukdataservice.ac.uk/learning-hub/research-data-management/ethical-issues/consent-for-data-sharing/
+Oral History Society. “Ethical and Legal Matters”. <https://www.ohs.org.uk/ethics/>{:target="_blank"}
+UK Data Service. “Consent for Data Sharing”. <https://ukdataservice.ac.uk/learning-hub/research-data-management/ethical-issues/consent-for-data-sharing/>{:target="_blank"}
 
 
 
