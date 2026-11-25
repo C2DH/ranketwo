@@ -1,8 +1,8 @@
 ---
 title: "Data ethics and responsibility"
 layout: unit
-date: 2026-11-23
-publication_date: 2026-11-23  
+date: 2026-11-25
+publication_date: 2026-11-25  
 toc: on
 research-phase: dissemination
 activities: 
