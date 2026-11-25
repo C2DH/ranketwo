@@ -115,7 +115,7 @@ GO-FAIR. FAIR Principles. <https://www.go-fair.org/fair-principles/>{:target="_b
 
 Wilkinson, Mark D. *et al.* “The FAIR Guiding Principles for Scientific Data Management and Stewardship”. *Scientific Data* 3 2016: 160018. <https://doi.org/10.1038/sdata.2016.18>{:target="_blank"}
 
-Global Indigenous Data Alliance. CARE Principles. <https://www.gida-global.org/care>{:target="_blank"}
+Global Indigenous Data Alliance. CARE Principles. <https://www.gida-global.org/careprinciples>{:target="_blank"}
 
 Carroll, Stephanie Russo *et al.* 2020. “The CARE Principles for Indigenous Data Governance”. *Data Science Journal* 19 (1): 43. <https://doi.org/10.5334/dsj-2020-043>{:target="_blank"}.
 
