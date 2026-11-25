@@ -53,7 +53,11 @@ Does this change anything about how you answered the questions above?
 <!-- section-contents -->
 For this exercise, you will work with the [September 11 Digital Archive](https://911digitalarchive.org/){:target="_blank"}. If for any reason you do not wish to engage with this topic, a list of alternative resources is provided at the end of the subsection. You can use one of these in conjunction with the questions provided below.
 
-> CONTENT WARNING: The archives provided in this exercise may contain raw, unfiltered primary sources, including audio recordings, emails and firsthand accounts detailing a major disaster or traumatic experience. Readers are encouraged to engage with this material at their own pace and to use the archives’ search filters to manage their exposure to sensitive content.
+<html>
+<div class="alert alert-warning">
+<strong>CONTENT WARNING:</strong> The archives provided in this exercise may contain raw, unfiltered primary sources, including audio recordings, emails and firsthand accounts detailing a major disaster or traumatic experience. Readers are encouraged to engage with this material at their own pace and to use the archives’ search filters to manage their exposure to sensitive content.
+</div>
+</html>
 
 The September 11 Digital Archive is a born-digital collection created in the aftermath of the 2001 attacks to preserve personal accounts, photographs and emails contributed by members of the public. At the time of its creation, online social networks did not yet exist; this was one of the first large-scale experiments in crowdsourced digital archiving. The archive was later transferred to the Library of Congress (Cohen and Rosenzweig 2005; Townsend 2010).
 
