@@ -1,8 +1,8 @@
 ---
-title: "Maps and historical enquiry: critical approaches in digital contexts"
+title: "Karten und historische Forschung: Kritische Ansätze in digitalen Kontexten"
 layout: unit
 date: 2026-04-08
-publication_date: 2026-07-17
+publication_date: 2026-11-26
 toc: on
 research-phase: hermeneutics
 activities: 
@@ -36,7 +36,7 @@ cover:
   caption: "[Carte faite par les Japonais, apportée en Europe par Kaempfer et déposée dans le cabinet de M. Hans Sloane, président de la Société royale de Londres. 1784. Collection Gossellin, 0317](https://images.bnf.fr/detail/1821076). Bibliothèque nationale de France. Domaine public" 
 order: -2 
 og:
-  description: "A lesson on applying source criticism to digital maps for a historical analysis." 
+  description: "Eine Lektion zur Anwendung der Quellenkritik auf digitale Karten im Rahmen einer historischen Analyse." 
 ---
 
- A lesson on applying source criticism to digital maps for a historical analysis.
+Eine Lektion zur Anwendung der Quellenkritik auf digitale Karten im Rahmen einer historischen Analyse.
