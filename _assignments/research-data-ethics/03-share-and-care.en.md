@@ -19,13 +19,6 @@ As open data initiatives expanded, marginalised voices pointed out that framewor
 
 <!-- briefing-student -->
 
-### Instructions
-<!-- section-contents -->
-
-
-
-<!-- section -->
-
 ### 3.a Looking at data through the FAIR lens | 40 mins  
 <!-- section-contents -->
  
