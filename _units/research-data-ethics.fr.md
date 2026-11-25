@@ -28,10 +28,10 @@ components:
 cover:
   url: /assets/images/research-data-ethics/avatar.jpg
   position: center
-  caption: "" 
+  caption: "A character that shares information digitally. Original by WMF, character extracted by User:Yuriy Bulka, CC BY-SA 3.0, via Wikimedia Commons" 
 order: -4  
 og:
   description: "A lesson on historical data criticism with focus on ethics and responsibility"
 ---
 
- 
+A lesson on historical data criticism with a focus on ethics and responsibility. 
