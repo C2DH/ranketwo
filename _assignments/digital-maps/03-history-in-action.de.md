@@ -90,7 +90,7 @@ Auch heute noch werden in Zeitungen und Zeitschriften zahlreiche Karten in klein
 
 [[iiif reporting-war-2023_live-ukraine-map-01 "Screenshot of Ukraine on the service Live Universal Awareness Map"]]
 
-Abbildung 17. Screenshot von LiveUAmap vom 7. Juni 2023, auf dem der Frontverlauf in der Ukraine gezeigt wird. [URL](https://liveuamap.com/en/time/07.06.2023). Das Bild wird für die Zwecke dieser Lektion gemäß den [Nutzungsbedingungen]((https://liveuamap.com/about#terms) wiedergegeben.
+Abbildung 17. Screenshot von LiveUAmap vom 7. Juni 2023, auf dem der Frontverlauf in der Ukraine gezeigt wird. [URL](https://liveuamap.com/en/time/07.06.2023). Das Bild wird für die Zwecke dieser Lektion gemäß den [Nutzungsbedingungen](https://liveuamap.com/about#terms) wiedergegeben.
 
 Diese Webkartendienste zum Krieg zwischen Russland und der Ukraine bieten Karten in verschiedenen Maßstäben an. In kleinen Maßstäben bieten sie einen Überblick, während NutzerInnen in größeren Maßstäben die Frontlinie in einer bestimmten Region heranzoomen können. Die Inhalte der Karten stammen aus verschiedenen Quellen, wie beispielsweise Messenger-Diensten, militärischen Pressekonferenzen usw. Obwohl wir eine großmaßstäbliche Karte vergrößern und detaillierte Informationen über die Frontlinie abrufen können, enthalten die meisten Karten keine Angaben zu den Positionen befestigter Stellungen oder militärischer Anlagen auf ukrainischer Seite.
 
