@@ -2,65 +2,65 @@
 layout: assignment
 unit: digital-maps
 lang: de
-title: "Counter-cartography: shaking up the idea of a “scientific” map"
+title: "Countercartography: Die Ideeeiner „wissenschaftlichen“ Karte auf den Kopf stellen"
 cover:
 documents:
   - 
 tags:
 outcomes: 
-  - Understand GIS as layered spatial information and explore the nature of its datasets
-  - Critically engage with local history using geospatial data, applying historical data criticism  
+  - Anerkennung und Akzeptanz von Subjektivität bei der Kartenerstellung
+  - Nachvollziehen, wie die Situation und der Hintergrund des Kartografen die Darstellung des Raums prägen
+
 order: 5
 ---
-*By Eliane Schmid* 
+*Von Eliane Schmid* 
 
-All the different map examples you have studied in the previous assignments show how varied the design of maps can be, despite the general consensus on what elements most maps should include. We have also learned that the primary goal of mapping is to pass on information: users should get a spatial sense and understanding of the data, as well as engaging with a specific story.
-But beyond these more conventional examples of maps, there is also a movement to uncloak maps from their scientific veil. Maps do not depict *one* truth. We learned in the story *Of Exactitude in Science* that this is neither possible nor desirable.
+Die Kartenbeispiele aus den vorangegangenen Aufgaben zeigen, wie vielfältig Karten gestaltet sein können, trotz weitgehender Einigkeit darüber, welche Elemente die meisten Karten enthalten sollten. Wir haben zudem gelernt, dass das vorrangige Ziel des Kartografierens darin besteht, Informationen weiterzugeben: Die NutzerInnen sollen ein räumliches Gespür und Verständnis für die Daten entwickeln und sich gleichzeitig mit einer bestimmten Geschichte auseinandersetzen. Doch abgesehen von diesen eher konventionellen Beispielen für Karten gibt es auch eine Bewegung, die darauf abzielt, Karten von ihrem wissenschaftlichen Schleier zu befreien. Karten bilden nicht die eine Wahrheit ab. Aus der Parabel „Von der Strenge der Wissenschaft“ haben wir gelernt, dass dies weder möglich noch wünschenswert ist.
 
 <!-- more -->
 
 <!-- briefing-student -->
 
-### 5.a Reading maps against the grain | 15 mins
+### 5.a Karten kritisch hinterfragen | 15 Min.
 <!-- section-contents -->
 
-Watch the first 6 minutes of [This Is Not an Atlas - A Documentary on Counter-Cartographies](https://www.youtube.com/watch?v=T8-GKyy3j6I). 
+Schauen Sie sich die ersten 6 Minuten des folgenden Videos an: [This Is Not an Atlas - A Documentary on Counter-Cartographies](https://www.youtube.com/watch?v=T8-GKyy3j6I). 
 
-Then answer the following questions: 
+Beantworten Sie anschließend die folgenden Fragen:
 
-* Why should we rethink the trustworthiness of maps?
-* What does it take to remove the “counter” in counter-cartography? 
-* Are the maps that you analysed in *1.a* examples of cartography that need to be reassessed? 
+* Warum sollten wir die Glaubwürdigkeit von Karten hinterfragen?
+* Was ist erforderlich, um das “counter” [„gegen“] aus dem Countermapping [wortwörtlich: Gegenkartografieren] zu entfernen?
+* Sind die Karten, die Sie bei Aufgabe 1.a analysiert haben, Beispiele für Kartografie, die einer Neubewertung bedürfen?
 
 <!-- section -->
 
-### 5.b Mapping lived experiences, past and present | 20 mins
+### 5.b Erfahrungen aus Vergangenheit und Gegenwart kartografisch darstellen | 20 Min.
 <!-- section-contents -->
 
-Explore the archived version of the website [Remapping Zurich](https://web.archive.org/web/20250124071233/https://remappingzurich.ch/).
+Erkunden Sie die archivierte Version der Website [Remapping Zurich](https://web.archive.org/web/20250124071233/https://remappingzurich.ch/).
 
-* What different kinds of mapping did this project engage with? Do they still count as maps? Why? Why not? 
-* What is the benefit of maps not being “scientific”? How can we play with different designs?
-* Why are maps such powerful tools for communication? How can this be useful in historical analysis and dissemination?
-* What is the value of thinking about space? How can it help us become conscious of different lived experiences – also in the past?
+* Welche unterschiedlichen Formen des Kartografierens wurden in diesem Projekt getestet? Sind diese Karten immer noch “Karten” im herkömmlichen Sinne? Warum? Warum nicht?
+* Welche Vorteile kann es haben, wenn Karten nicht streng wissenschaftlichen Maßstäben folgen? Wie können wir mit verschiedenen Gestaltungsmöglichkeiten spielen?
+* Was macht Karten zu so wirkungsvollen Kommunikationsmitteln? Inwiefern kann dies für die historische Analyse und Wissensvermittlung von Nutzen sein?
+* Welche Erkenntnisse lassen sich gewinnen, wenn wir uns mit Raumvorstellungen und –konzeptionen beschäftigen? Inwiefern kann uns dies helfen, unterschiedliche Lebenserfahrungen in Gegenwart und Vergangenheit besser nachzuvollziehen?
 
 <!-- section -->
 
-### 5.c Considering contextual ciscumstances in the mapping process | 15 mins
+### 5.c Berücksichtigung der kontextuellen Gegebenheiten im Kartierungsprozess | 15 Min.
 <!-- section-contents -->
 
-Draw two maps of your daily commute to school, university, work, a leisure activity or similar, by hand on a piece of paper or a tablet. One map should depict the path you take in the morning, on a warm and sunny day, when everything goes according to plan. The other map should illustrate your path home, when it is dark, rainy and cold and something does not go according to plan: there is a train strike, a traffic jam, your bike has a flat tyre, you need to pick up your child from pre-school earlier, you forget your keys, etc.
+Zeichnen Sie zwei Karten einer Ihrer täglichen Wege zur Schule, zur Universität, zur Arbeit, zu einer Freizeitaktivität oder zu einem anderen für Sie alltäglichen Ort von Hand auf ein Blatt Papier oder ein Tablet. Auf einer Karte sollte der Weg dargestellt sein, den Sie morgens an einem warmen und sonnigen Tag zurücklegen, wenn alles nach Plan verläuft. Die andere Karte soll Ihren Heimweg zeigen, wenn es dunkel, regnerisch und kalt ist und etwas nicht nach Plan verläuft: Es gibt einen Bahnstreik, einen Stau, Ihr Fahrrad hat einen Platten, Sie müssen Ihr Kind früher aus dem Kindergarten abholen, Sie haben Ihre Schlüssel vergessen usw.
 
-How do your maps differ depending on the time of day and the contextual circumstances? Are the two maps the same? Are some elements more prominent than others? Do you take a different path?
+Inwiefern unterscheiden sich Ihre Karten je nach Tageszeit und den jeweiligen Umständen? Sind die beiden Karten identisch? Sind bestimmte Elemente stärker hervorgehoben als andere? Nehmen Sie einen anderen Weg?
 
-Think about how your personal background shapes the way you perceive space and how you consequently represent that perception on a piece of paper. Think about how your map design would change if you had a different personal background.
+Denken Sie darüber nach, wie Ihr persönlicher Hintergrund Ihre Wahrnehmung von Raum prägt und wie Sie diese Wahrnehmung folglich auf einem Blatt Papier darstellen. Überlegen Sie sich, wie sich die Gestaltung Ihrer Karte unterscheiden würde, wenn Sie einen anderen persönlichen Hintergrund hätten.
 
 <!-- section -->
 
-### Reading/viewing suggestions
+### Empfehlungen Lektüre/Videos
 <!-- section-contents --> 
 
-Zwer, Nepthys. “When Jacques Bertin anticipated radical cartography.” *imago mundi*, 31 October 2023. https://www.imagomundi.fr/article51.html
+Zwer, Nepthys. „When Jacques Bertin anticipated radical cartography“. *imago mundi*, 31 October 2023. https://www.imagomundi.fr/article51.html
 
 kollektiv orangotango+, ed. 2018. *This Is Not an Atlas: A Global Collection of Counter-Cartographies*. Bielefeld: transcript-Verlag. [DOI](https://doi.org/10.14361/9783839445198).
 
