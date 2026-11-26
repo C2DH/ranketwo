@@ -1,5 +1,5 @@
 ---
-title: Methodology
+title: Methodik
 type: methodology
 parent: digital-maps
 tags:
@@ -12,72 +12,73 @@ mediatypes:
 lang: de
 ---
 
-This section explains how to read and analyse maps in the context of historical research. The principles outlined below will guide you throughout the lesson.
+In diesem Abschnitt beschäftigen wir uns damit, wie man Karten im Rahmen der Geschichtsforschung liest und analysiert. Die nachfolgend dargelegten Grundsätze sollen Ihnen während der gesamten Lektion als Leitfaden dienen.
 <!-- more -->
 
-### More about the methodology
+### Mehr über die Methodik
 <!-- section-contents --> 
 
-In principle, all maps are thematic. We can distinguish between maps that focus on topographic features, such as maps of the Earth’s surface, and maps that depict social demographics, public transportation lines, crime, etc. However, the basic steps in the mapping process are relevant for all types of maps:
-1. Choosing the projection
-2. Defining geographic extents
-3. Designing the map
-4. Choosing classification methods and categories
-5. Choosing a colour scheme for data visualisation
-6. Clearly defining the audience
-7. Labelling
-8. Adding a legend
-9. Defining a layout
-10. Being conscious of visual hierarchy
+Im Prinzip sind alle Karten thematische Karten. Wir können zwischen Karten unterscheiden, die sich auf topografische Merkmale konzentrieren, wie beispielsweise Karten der Erdoberfläche, und Karten, die soziodemografische Daten, Strecken von öffentlichen Verkehrsmitteln, Kriminalität usw. darstellen. Die grundlegenden Schritte des Kartierungsprozesses gelten jedoch für alle Arten von Karten:
+1. Auswahl der Kartenprojektion
+2. Festlegung des dargestellten Gebiets
+3. Gestaltung der Karte
+4. Auswahl von Klassifizierungsmethoden und Kategorien
+5. Auswahl eines Farbschemas für die Datenvisualisierung
+6. Klare Definition der Zielgruppe
+7. Beschriftung
+8. Hinzufügung einer Legende
+9. Festlegung eines Kartenlayouts
+10. Bewusstsein für die visuelle Hierarchie
 
 
-### Instructions
+### Anleitung
 
-How should we read a historical map? Considering the aspects outlined above, we need to combine traditional source criticism principles with specific approaches that are inherent to the process of creating maps.
+Wie sollten wir historische Karten lesen? Unter Berücksichtigung der oben dargelegten Aspekte müssen wir die traditionellen Prinzipien der Quellenkritik mit Ansätzen kombinieren, die auf die Besonderheiten bei der Herstellung von Karten zugeschnitten sind.
 
-Consider: 
+Folgende Punkte sind dabei zu beachten: 
 
-1. Perspective
-   - Mapmaker: who created the map and where  
-   - Scope and scale: what is depicted (part of the world, world, etc.)  
-   - Projection
+1. Perspektive
+   - Kartograf: Wer hat die Karte hergestellt und wo?  
+   - Kartenausschnitt und Maßstab: Was wird dargestellt (ein Teil der Welt, die Welt usw.) 
+   - Kartenprojektion
 
-2. Audience and purpose
-   - Utility of the map  
-   - Argument
+2. Zielgruppe und Zweck
+   - Verwendungszweck der Karte 
+   - Aussage
 
-3. Choices
-   - What is represented in the map  
-   - What is missing  
-   - How is it represented  
+3. Entscheidungen
+   - Was ist auf der Karte dargestellt?
+   - Welche Elemente fehlen?
+   - Wie sieht die Darstellung aus?
+  
+4. Wissen und Wandel
+   - Stand der Wissenschaft zum Zeitpunkt der Entstehung
+   - Verfügbare Technologien zur Herstellung der Karte
 
-4. Knowledge and change
-   - State of scientific knowledge at the time of creation  
-   - Available technologies used to create the map  
 
-
-You can shape your own checklist as you go through this lesson by adding elements or editing the basic framework above. In the end, you will have created your own personal catalogue of map elements. 
+Beim Durcharbeiten dieser Lektion können Sie Ihre eigene Checkliste zusammenstellen. Ergänzen Sie dazu weitere Elemente oder passen Sie die oben gezeigte Grundstruktur an. Am Ende werden Sie Ihren ganz persönlichen Katalog mit Kartenelementen erstellt haben.
 
 
 ![How to interpret a historical map](/assets/images/digital-maps/historical-map-criticism-conceptual.jpg "How to interpret a historical map")
 
-Fig. 1 How to interpret a historical map. Created by the Ranke.2 team based on Michelle LeBlanc, Reading maps: How to analyze a map. 31 October 2017 https://web.archive.org/web/20230529030026/https://www.choices.edu/video/reading-maps-analyze-map/  
+Abb. 1: Wie historische Karten interpretiert werden. Erstellt vom Ranke.2-Team, basierend auf Michelle LeBlanc, Reading maps: How to analyze a map. 31. Oktober 2017 https://web.archive.org/web/20230529030026/https://www.choices.edu/video/reading-maps-analyze-map/  
 
 
 {:.table.border.table-sm.text-sm.text-bold-highlight}
-| 1. PERSPECTIVE | 2. AUDIENCE & PURPOSE | 3. CHOICES | 4. KNOWLEDGE & CHANGE |
+| 1. PERSPEKTIVE | 2. ZIELGRUPPE UND ZWECK | 3. ENTSCHEIDUNGEN | 4. WISSEN UND WANDEL |
 |-------------------|--------------------------|----------------|---------------------------|
-| • Mapmaker (who? where?) | • Utility (what for?) | • What is shown? | • Scientific knowledge at the time |
-| • Geography (scope?) | • Argument (message?) | • What is missing? | • Available technologies |
-| • Projection |  | • How is it represented? |  |
+| Kartograf (Wer? Wo?) | Verwendungszweck (Welchem Zweck dient die Karte?) | Was wird gezeigt?| Damaliger Stand der Wissenschaft |
+| Geografie (Umfang?) | Aussage (Botschaft?) | Welche Elemente fehlen? | Verfügbare Technologien |
+| Kartenprojektion |  | Wie sieht die Darstellung aus? |  |
 
 
-### An example
-If you wish to see how the above principles are applied to historical map analysis, watch this video analysing a map of Africa from the 17th[SC2.1] century: [Burns Library: “How to Read a Historical Map” 1886](https://youtu.be/1jY_6mRIPag) (6 min 06 sec).
-  
-*Editor's Note:* 
+### Ein Beispiel
+Dieses Video zeigt am Beispiel einer Afrikakarte aus dem 17. Jahrhundert, wie sich die oben erläuterten Prinzipien bei der Analyse historischer Karten anwenden lassen: Burns Library: [„How to Read a Historical Map“](https://youtu.be/1jY_6mRIPag) (6 Min. und 6 Sek.).
 
-The principles of the above interpretative grid were inspired by: Michelle LeBlanc, [Reading maps: How to analyze a map](https://web.archive.org/web/20230529030026/https://www.choices.edu/video/reading-maps-analyze-map). 31 October 2017. In Brown University, Choices Program Curriculum Unit, Lesson: Interpreting a Native Map. [https://web.archive.org/web/20230611015533/https://www.choices.edu/video-playlist/?unit=402](https://web.archive.org/web/20230611015533/https://www.choices.edu/video-playlist/?unit=402). 
+*Redaktioneller Hinweis:*
 
-These resources have been unavailable since the Choices Program stopped receiving funding on 30 June 2025; as a result, the content is no longer licensed, transferred or maintained for access or classroom as of the program end date.
+*Die Grundsätze des oben genannten Interpretationsrahmens wurden inspiriert von: Michelle LeBlanc, [Reading maps: How to analyze a map](https://web.archive.org/web/20230529030026/https://www.choices.edu/video/reading-maps-analyze-map). 31.10.2017 Brown University, Choices Program Curriculum Unit, Lesson: Interpreting a Native Map.  [https://web.archive.org/web/20230611015533/https://www.choices.edu/video-playlist/?unit=402](https://web.archive.org/web/20230611015533/https://www.choices.edu/video-playlist/?unit=402).*
+
+Diese Ressourcen sind seit dem 30. Juni 2025 nicht mehr verfügbar, da an diesem Tag die Finanzierung des „Choices Program“ endete. Mit der Einstellung des Programms wurden auch die Lizenzierung, Weitergabe und Pflege der Inhalte eingestellt. Damit stehen sie auch für die Nutzung im Unterricht nicht mehr zur Verfügung.
+
 
