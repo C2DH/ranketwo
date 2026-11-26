@@ -2,127 +2,124 @@
 layout: assignment
 unit: digital-maps
 lang: de
-title: "History in action: maps as real-time data"
+title: "Geschichte in Aktion: Karten als Echtzeitdaten "
 cover:
 documents:
   - 
 tags:
 outcomes: 
-  -  
+  - Vergleich und Gegenprüfung verschiedener Technologien zur Darstellung von Räumen
+  - Verstehen, wie sich die Verfügbarkeit vernetzter digitaler Daten auf die Erstellung und Vermittlung von Karten auswirkt
+
 order: 3 
 ---
-In the previous assignments we worked mainly with flat two-dimensional maps. Throughout history, different technologies have transformed how space is represented: from aerial photography to today's interactive web maps based on networked digital data, each technology offers new possibilities while also introducing new limitations and biases.
+Bei den bisherigen Aufgaben haben wir hauptsächlich mit flachen, zweidimensionalen Karten gearbeitet. Im Laufe der Geschichte haben verschiedene Technologien die Darstellung des Raums verändert: Von der Luftbildfotografie bis hin zu den heutigen interaktiven Webkarten, die auf vernetzten digitalen Daten basieren – jede Technologie eröffnet neue Möglichkeiten, bringt jedoch zugleich neue Einschränkungen und Verzerrungen mit sich.
 
-In this assignment, you will compare different forms of spatial representation and examine how the technologies behind them influence what becomes visible, what remains hidden, and how information is interpreted. By confronting historical maps, aerial photographs and contemporary digital mapping platforms, you will develop a critical understanding of how maps are produced, how they communicate information, and how digital data is reshaping cartographic practices.
+Bei dieser Aufgabe werden Sie verschiedene Formen der räumlichen Darstellung vergleichen und untersuchen, wie die ihnen zugrunde liegenden Technologien beeinflussen, was sichtbar wird, was verborgen bleibt und wie Informationen interpretiert werden. Durch den Vergleich historischer Karten, Luftbilder und moderner digitaler Kartografieplattformen werden Sie ein kritisches Verständnis dafür entwickeln, wie Karten erstellt werden, wie sie Informationen vermitteln und wie digitale Daten die kartografische Praxis neu gestalten.
 
 <!-- more -->
 
 <!-- briefing-student -->
 
-### 3.a Comparing maps and aerial photography | 30 mins
+### 3.a Vergleich von Karten und Luftbildern | 30 Min.
 <!-- section-contents -->
 
-*By Tabitha Redepenning*
+*Von Tabitha Redepenning*
 
-Mapping has always been particularly important in warfare because of the need to identify weak points and crucial targets and to secure one’s own assets. On maps for public use, information of military interest such as fortifications, garrisons and armament factories often remains invisible, at best only outlined in vague shapes or blank spaces. This is yet another demonstration of the potentially deceptive selection process in representations on maps. With World War Two, a new and powerful tool for surveying became widespread: aerial photography. Military technology enabled new ways of scouting the Earth’s surface. During World War Two, all major belligerent powers pursued aerial reconnaissance, including Germany, Japan, the United Kingdom, the United States of America and the Soviet Union. Today, archives and libraries in many countries hold aerial photography, such as the [National Collection of Aerial Photography](https://ncap.org.uk/) (NCAP) in the UK, the [National Archives](https://www.archives.gov/research/cartographic/aerial-photography) in the USA and the [Bundesarchiv](https://www.bundesarchiv.de/im-archiv-recherchieren/archivgut-recherchieren/nach-themen/luftbilder-aus-der-zeit-des-zweiten-weltkrieges/) in Germany.
+In der Kriegführung war es schon immer wichtig Schwachstellen und Ziele zu identifizieren, dabei spielte eine exakte Kartierung eine entscheidende Rolle. Öffentlich zugängliche Karten verzeichneten militärisch relevante Einrichtungen wie Befestigungsanlagen, Militärgelände und Rüstungsfabriken häufig nicht oder allenfalls nur mit vagen Umrissen oder sie deuteten leere Flächen an. Auch dieses Beispiel zeigt, dass die Auswahl von dargestellten Informationen auf Karten irreführend sein kann. Im Zuge des Zweiten Weltkriegs setzte sich ein neues und leistungsfähiges Vermessungsinstrument durch: die Luftbildfotografie. Mit dieser Militärtechnologie ließ sich die Erdoberfläche auf völlig neue Art erkunden. Luftaufklärung war ein Mittel, dass alle großen kriegführenden Staaten, darunter Deutschland, Japan, das Vereinigte Königreich, die Vereinigten Staaten von Amerika und die Sowjetunion nutzten. Die Aufnahmen sind heute in den Archiven und Bibliotheken der jeweiligen Länder wie beispielsweise die [National Collection of Aerial Photography](https://ncap.org.uk/) (NCAP) im Vereinigten Königreich, die [National Archives](https://www.archives.gov/research/cartographic/aerial-photography) in den USA und das [Bundesarchiv](https://www.bundesarchiv.de/im-archiv-recherchieren/archivgut-recherchieren/nach-themen/luftbilder-aus-der-zeit-des-zweiten-weltkrieges/) in Deutschland zu finden.
 
 [[iiif topografische-karte-naedlingen-1942-01 "Detail of Topografische Karte 1:25000, ed. by Reichsamt für Landesaufnahme, sheet No. 4969 Nädlingen, 1942"]]
 
-Figure 11. Detail of Topografische Karte 1:25000, ed. by Reichsamt für Landesaufnahme, sheet No. 4969 Nädlingen, 1942. Source: Herder Institute
+Abbildung 11. Ausschnitt aus der topografischen Karte im Maßstab 1:25.000, herausgegeben vom Reichsamt für Landesaufnahme, Blatt Nr. 4969 Nädlingen, 1942. Quelle: Herder-Institut
 
-The first illustration is a detail of the standard German topographic map (1:25000) showing the surroundings of Markstädt and Fünfteichen in Silesia, about 20km East of Breslau/Wrocław, dated 1942. Over the following years of the war, this map was not updated, although smaller-scale maps were published, such as the Karte des Deutschen Reiches (1:100000), map no. 104, in 1944.
+Die erste Abbildung ist ein Ausschnitt aus einer amtlichen topografischen Karte im Maßstab 1:25.000 (Messtischblatt), der die Umgebung von Markstädt und Fünfteichen in Schlesien, etwa 20 km östlich von Breslau/Wrocław, zeigt und aus dem Jahr 1942 stammt. Die offizielle Behörde aktualisierte diese Karte nicht in den folgenden Kriegsjahren, obwohl Karten in kleinerem Maßstab veröffentlicht wurden, wie beispielsweise die „Karte des Deutschen Reiches“ (1:100.000), Karte Nr. 104, im Jahr 1944.
 
-[[iiif topagrafische-karte-breslau-schweidnitz-1944-01 "Detail of Topografische Karte 1:100000, ed by Reichsamt für Landesaufnahme, sheet No. 104 Breslau, 1944"]]
+[[iiif topografische-karte-naedlingen-1942-01 "Detail of Topografische Karte 1:25000, ed. by Reichsamt für Landesaufnahme, sheet No. 4969 Nädlingen, 1942"]]
 
-Figure 12. Detail of Topografische Karte 1:100000, ed by Reichsamt für Landesaufnahme, sheet No. 104 Breslau, 1944. Source: Herder Institute
+Abbildung 12. Ausschnitt aus der topografischen Karte im Maßstab 1:100.000, herausgegeben vom Reichsamt für Landesaufnahme, Blatt Nr. 104 Breslau, 1944. Quelle: Herder-Institut
 
-By the end of the war, when the Soviet Army approached German borders, the Deutsche Luftwaffe (German air force) had stepped up its reconnaissance flights to prepare its defence. The following aerial image was taken during flight 1308 on 18 September 1944.
+Als die sowjetische Armee gegen Ende des Krieges an die deutsche Grenze vorrückte, intensivierte die deutsche Luftwaffe ihre Aufklärungsflüge, um die eigene Verteidigung vorzubereiten. Das folgende Luftbild wurde während des Fluges 1308 am 18. September 1944 aufgenommen.
 
 [[iiif deutsche-luftwaffe-flight-1308-689-1944 "Deutsche Luftwaffe (German air force) flight No. 1308, image No. 689, 18 September 1944"]]
 
+Abbildung 13: Deutsche Luftwaffe, Flug 1308, Bild 689, 18. September 1944 Quelle: Herder-Institut
 
-Figure 13: Deutsche Luftwaffe (German air force) flight No. 1308, image No. 689, 18 September 1944. [Source: Herder Institute](https://dbs.herder-institut.de/karten/id/K01_1308)
-
-We can compare these different kinds of spatial representation and evaluate the content of the maps and the aerial image. To facilitate comparison, the aerial image should be rotated northwards and the maps should be adjusted so that they are on a similar scale.
+Wir können nun diese unterschiedlichen räumlichen Darstellungen miteinander vergleichen und die Inhalte der Karten und des Luftbildes bewerten. Um den Vergleich zu erleichtern, rotiert man das Luftbild in eine für Karten übliche nördliche Ausrichtung.
 
 [[iiif montage-fuenfteichen-05 "Montage of aerial image and maps"]]
 
+Abbildung 14: Montage aus einem Luftbild (rotiert und nördlich ausgerichtet) sowie einer Karte im Maßstab 1:25.000 und einer Karte im Maßstab 1:100.000
 
-Figure 14: Montage of aerial image (rotated Northwards) and 1:25000 map and 1:100000 map
+Der Bildvergleich zwischen den Abbildungen zeigt dieselben Siedlungen (Fünfteichen und Jeltsch) und dieselben zusammenlaufenden Bahnlinien. Doch es gibt noch mehr: Das Luftbild zeigt einige riesige Gebäude zwischen Jeltsch und Fünfteichen (A) sowie eine regelmäßige Anordnung kleiner Gebäude (B) an der Bahnlinie.
 
-Analysing the picture and comparing it with the topographic maps, the same settlements and the same converging train rails are recognisable. But there is more: the aerial image shows some huge buildings (A) as well as a regular structure of small buildings (B).
+Erst der Vergleich der topografischen Karten mit der Luftaufnahme macht die Unterschiede sichtbar und gibt außerdem Aufschluss über den jeweiligen Wissensstand der beteiligten Akteure zu einem bestimmten Zeitpunkt. Er zeigt die vielfältigen Einsatzmöglichkeiten der Luftbildfotografie als wertvolle Ergänzung zur topografischen Kartierung. Das Fachwissen von HistorikerInnen ist oft entscheidend, um diese unterschiedlichen Informationen zusammenzuführen und für die Darstellung eines Ortes zu einem bestimmten historischen Zeitpunkt auszuwerten.
 
-Comparing the topographic maps with the aerial photograph reveals some differences, while also showing the different states of knowledge of the various actors at a specific moment in time. It demonstrates the wide range of applications for aerial photography as a valuable supplement to topographic mapping. The subject-specific knowledge of historians is often crucial in integrating and assimilating all these different elements into the visualisation and representation of a place in time.
+Um weitere Informationen über Gebäude und Infrastruktur zu erhalten, können wir den [Wikipedia-Artikel zur Geschichte von Fünfteichen und Markstädt](https://de.wikipedia.org/wiki/Mi%C5%82oszyce_(Jelcz-Laskowice)) heranziehen.
 
-To collect more information about buildings and infrastructure, we can use the [Wikipedia article on the history of Fünfteichen and Markstädt](https://en.wikipedia.org/wiki/Mi%C5%82oszyce).
+Weitere Informationen über die Rüstungsfabrik bei Jeltsch/Jelcz und ihre heute kaum noch erkennbaren Überreste finden Sie in [diesem Artikel auf Polnisch](https://wposzukiwaniu.pl/bertha-werk-krupp-fabryka/).
 
-More information about the armaments factory near Jeltsch/Jelcz and its almost invisible remnants today is available in [this article in Polish](https://wposzukiwaniu.pl/bertha-werk-krupp-fabryka/).
-
-Now reflect on the following: What advantage does the topographic map still hold compared to an aerial photograph? Consider also the circumstances of aerial photography as a new technology from this period. Comparing different photographs with regard to their quality, the image section and their informative value as a standalone document will give you more insight. Additionally, consider the conditions in which these photographs were taken during wartime, as well as the different strategies used by each side to hide important information. You may use the further reading suggestions provided below.
+Denken Sie nun über folgende Punkte nach: Welchen Vorteil bieten topografische Karten im Vergleich zu Luftaufnahmen? Berücksichtigen Sie dabei auch die Umstände der Luftbildfotografie als neue Technologie aus dieser Zeit. Ein Vergleich verschiedener Aufnahmen in den Archiven hinsichtlich ihrer Qualität, des Bildausschnitts und ihres Informationswerts als eigenständiges Dokument wird Ihnen einen besseren Einblick verschaffen. Berücksichtigen Sie zudem die Umstände, unter denen diese Fotos während des Krieges aufgenommen wurden, sowie die unterschiedlichen Strategien, die beide Seiten zur Verschleierung wichtiger Informationen anwandten. Hinweise auf weiterführende Literatur finden Sie unten.
 
 <!-- section -->
 
-### 3.b Reporting war: 1914 and 2024 | 40 mins
+### 3.b Kriegsberichterstattung: 1914 und 2024 | 40 Min.
 <!-- section-contents -->
 
-*By Christian Lotz*
+*Von Christian Lotz*
 
-Huge numbers of maps are produced in times of war. While military maps are kept secret because they depict points of strategic interest, many maps are also produced for public use to inform about the war (advancement of troops, loss of territory, etc.) or as means of propaganda to promote one particular view of the war over another. Public maps about warfare are a highly sensitive source for historiography, since wars are fought not only with weapons but also with images. So we should pay particular attention to questions like who provided information and data to be shown on the maps, and what was the particular purpose in producing such maps for the public.
+In Kriegszeiten werden unzählige Karten erstellt. Während militärische Karten geheim gehalten werden, da sie strategisch wichtige Punkte darstellen, werden viele Karten auch für die Öffentlichkeit erstellt, um über den Krieg zu informieren (Vorrücken der Truppen, Gebietsverluste usw.) oder als Propagandamittel, um eine bestimmte Sichtweise auf den Krieg gegenüber einer anderen zu fördern. Öffentlich zugängliche Kriegskarten sind eine äußerst sensible Quelle für die Geschichtsschreibung, da Kriege nicht nur mit Waffen, sondern auch mit Bildern geführt werden. Vor diesem Hintergrund sollten wir uns insbesondere mit Fragen befassen wie: Wer hat die Informationen und Daten auf den Karten bereitgestellt? Welchen konkreten Zweck verfolgte die Erstellung solcher Karten für die Öffentlichkeit?
 
-In this part of the lesson, we compare maps from World War One and maps of the Russia-Ukraine war since 2022. During World War One, public maps about the war were mainly published in newspapers and periodicals. Most of these maps had a relatively small scale, often showing a rough sketch of the front line between two countries at a scale between 1:1 million and 1:5 million. If a part of the front line was of particular interest, some publishers added medium-scale maps, for example showing Verdun and its surroundings on the French-German front.
+In diesem Teil der Lektion vergleichen wir Karten aus dem Ersten Weltkrieg mit Karten des Russland-Ukraine-Kriegs seit 2022. Während des Ersten Weltkriegs wurden öffentliche Kriegskarten hauptsächlich in Zeitungen und Zeitschriften veröffentlicht. Die meisten dieser Karten wiesen einen relativ kleinen Maßstab auf und zeigten häufig eine grobe Skizze der Frontlinie zwischen zwei Ländern im Maßstab zwischen 1:1 Million und 1:5 Millionen. War ein Abschnitt der Front von besonderem Interesse, fügten einige Verlage Karten in mittlerem Maßstab hinzu, die beispielsweise Verdun und seine Umgebung an der französisch-deutschen Front darstellten.
 
 [[iiif reporting-war-1915-kriegshilfe-muenchen-voelkerkrieg-01 "Die militärischen Ereignisse im Völkerkrieg 1914-15. Ed. by Verein für Kriegshilfe. Östlicher Kriegsschauplatz (The Eastern Theater of War). 30 August to 6 September 1915"]]
 
-Figure 15. “Östlicher Kriegsschauplatz” - The Eastern Theater of War, from 30 August to 6 September 1915. In *Die militärischen Ereignisse im Völkerkrieg 1914-15*. Vereinigung für Private Kriegshilfe, Munich, 1914-15. Public Domain
+Abbildung 15. „Östlicher Kriegsschauplatz“, vom 30. August bis zum 6. September 1915. In Die militärischen Ereignisse im Völkerkrieg 1914-15. Vereinigung für Private Kriegshilfe, München, 1914-15. Public Domain
 
-These kinds of small-scale public maps were issued weekly. The regular frequency of publication made them an important medium of information and propaganda: they showed the progress or lack of progress of front lines, informed readers at least roughly about areas at risk of being directly affected by the war, and demonstrated territorial gains and losses. However, the small-scale maps did not give readers a real idea of the situation along the front line. The armies kept large-scale maps showing trenches and fortified places secret, because publicly known details would allow the enemy to direct its attacks with greater precision.
+Solche für die Öffentlichkeit bestimmten Karten in kleinem Maßstab erschienen wöchentlich. Die regelmäßige Veröffentlichung machte sie zu einem wichtigen Informations- und Propagandamedium: Sie zeigten den Vormarsch oder Stillstand an den Frontlinien auf, informierten die Leser zumindest grob über Gebiete, die Gefahr liefen, direkt vom Krieg betroffen zu sein, und verdeutlichten territoriale Gewinne und Verluste. Die Karten mit geringem Maßstab vermittelten den Lesern jedoch keinen wirklichen Eindruck von der Lage an der Front. Die Armeen hielten Karten in großem Maßstab, auf denen Schützengräben und befestigte Stellungen eingezeichnet waren, streng geheim, da diese Informationen dem Feind ermöglicht hätten, seine Angriffe präziser zu lenken.
 
 [[iiif reporting-war-1915-kriegshilfe-western-front-01 "Map no. 21: Die militärischen Ereignisse vom 9. bis 16. Februar 1915, Westlicher Kriegsschauplatz. In *Die militärischen Ereignisse im Völkerkrieg 1914-15*. Published by Vereinigung für Private Kriegshilfe, Munich, 1914-15. Public Domain"]]
 
-Figure 16. “Westlicher Kriegsschauplatz” - The Western Theater of War, from 9 to 16 February 1915. In *Die militärischen Ereignisse im Völkerkrieg 1914-15*. Vereinigung für Private Kriegshilfe, Munich, 1914-15. Public Domain 
+Abbildung 16. „Westlicher Kriegsschauplatz“, vom 9. bis zum 16. Februar 1915. In Die militärischen Ereignisse im Völkerkrieg 1914-15. Vereinigung für Private Kriegshilfe, München, 1914-15. Public Domain
 
 [[iiif reporting-war-1915-kriegshilfe-western-front-02 "Large scale map, Franco-German front, February 1915. Herder Institute. Public Domain"]]
-Figure 16bis. Detail of the previous map
+Abbildung 16bis. Ausschnitt aus der vorherigen Karte
 
- 
-A couple of decades after a war is over, archives in many countries open these kinds of large-scale maps to public access. Such maps were usually printed by army map services. Surveying officers at the front line would observe the situation and draw and annotate maps by hand to provide a reliable image of the situation. The question “What does the map show us?” may lead us to a variety of answers: of course, the topography of the hills and valleys south of Verdun as well as the dense network of trenches are visible on the map. In addition, it served as a representation of static warfare (armies on both sides fighting over just a few hundred metres to capture the opposite trench) and also as a representation of a huge graveyard for the thousands of soldiers who died in these fields.
+Einige Jahrzehnte nach Kriegsende machten Archive in vielen Ländern solche Karten in großem Maßstab öffentlich zugänglich. Diese Karten wurden üblicherweise von den Kartendiensten der Streitkräfte gedruckt. Vermessungsoffiziere an der Front beobachteten die Lage und zeichneten Karten von Hand, die sie mit Anmerkungen versahen, um ein zuverlässiges Lagebild zu vermitteln. Die Frage „Was zeigt uns die Karte?“ kann zu einer Vielzahl von Antworten führen: Selbstverständlich sind auf der Karte die Topografie der Hügel und Täler südlich von Verdun sowie das dichte Netz aus Schützengräben zu erkennen. Darüber hinaus diente die Karte als Symbol für den Stellungskrieg (Armeen beider Seiten, die um nur wenige hundert Meter kämpften, um den gegnerischen Schützengraben einzunehmen) und zugleich als Symbol für einen riesigen Friedhof für die Tausenden von Soldaten, die auf diesen Schlachtfeldern ihr Leben ließen.
 
-Today, several small-scale maps about ongoing wars in the world, for example the war between Russia and Ukraine that began in 2022, continue to be printed in newspapers and periodicals, and there are also many more maps online at both small and large scales. These digital maps are either static images or dynamic web map services that provide specific data and illustrate changes over time (the latter are based on the use of geographic information systems, which we will see in more detail in assignment 4). Prominent examples of web map services documenting the Russia-Ukraine war are the [LiveUAmap](https://liveuamap.com/en/), the [ACLEDdata](https://acleddata.com/monitor/ukraine-conflict-monitor) map or the web map of the [Neue Zürcher Zeitung](https://www.nzz.ch/english/ukraine-war-interactive-map-of-the-current-front-line-ld.1688087).
-
+Auch heute noch werden in Zeitungen und Zeitschriften zahlreiche Karten in kleinem Maßstab zu den aktuellen Kriegen in der Welt abgedruckt, beispielsweise zum Krieg zwischen Russland und der Ukraine, der 2022 begann; darüber hinaus sind online zahlreiche weitere Karten sowohl in kleinem als auch in großem Maßstab verfügbar. Bei diesen digitalen Karten handelt es sich entweder um statische Bilder oder um dynamische Webkartendienste, die spezifische Daten bereitstellen und Veränderungen im Zeitverlauf veranschaulichen (letztere basieren auf dem Einsatz von Geografischen Informationssystemen, auf die wir in Aufgabe 4 näher eingehen werden). Prominente Beispiele für Webkartendienste, die den Krieg zwischen Russland und der Ukraine dokumentieren, sind die [LiveUAmap](https://liveuamap.com/en/), the [ACLEDdata](https://acleddata.com/monitor/ukraine-conflict-monitor), der Ukraine Conflict Monitor von [ACLEDdata](https://acleddata.com/monitor/ukraine-conflict-monitor) sowie die Karte zum aktuellen Frontverlauf der [Neuen Zürcher Zeitung](https://www.nzz.ch/english/ukraine-war-interactive-map-of-the-current-front-line-ld.1688087).
 
 [[iiif reporting-war-2023_live-ukraine-map-01 "Screenshot of Ukraine on the service Live Universal Awareness Map"]]
 
-Figure 17. Screenshot of Ukraine on LiveUAmap on 7 June 2023. [URL](https://liveuamap.com/en/time/07.06.2023). Image reproduced for the purpose of this lesson in accordance with [terms of use](https://liveuamap.com/about#terms). 
+Abbildung 17. Screenshot von LiveUAmap vom 7. Juni 2023, auf dem der Frontverlauf in der Ukraine gezeigt wird. [URL](https://liveuamap.com/en/time/07.06.2023). Das Bild wird für die Zwecke dieser Lektion gemäß den [Nutzungsbedingungen]((https://liveuamap.com/about#terms) wiedergegeben.
 
-These web map services illustrating the Russia-Ukraine war offer multi-scale maps. At small scales they provide an overview, while at larger scales users can zoom in to the front line in a particular region. The content of the maps is derived from various sources, such as messenger services, military press briefings, etc. Although we can zoom in to a large-scale map, and although we can find detailed information about the front line, most maps do not provide data about the positions of fortified places or military installations on the Ukrainian side.
+Diese Webkartendienste zum Krieg zwischen Russland und der Ukraine bieten Karten in verschiedenen Maßstäben an. In kleinen Maßstäben bieten sie einen Überblick, während NutzerInnen in größeren Maßstäben die Frontlinie in einer bestimmten Region heranzoomen können. Die Inhalte der Karten stammen aus verschiedenen Quellen, wie beispielsweise Messenger-Diensten, militärischen Pressekonferenzen usw. Obwohl wir eine großmaßstäbliche Karte vergrößern und detaillierte Informationen über die Frontlinie abrufen können, enthalten die meisten Karten keine Angaben zu den Positionen befestigter Stellungen oder militärischer Anlagen auf ukrainischer Seite.
 
-Now it’s over to you: apply the basic principles of source criticism in all three cases below (refer to the Methodology section).
+Nun sind Sie an der Reihe: Wenden Sie die Grundprinzipien der Quellenkritik auf alle drei unten aufgeführten Fälle an (beachten Sie dabei den Abschnitt „Methodik“).
 
-First, compare maps from World War One and the Russia-Ukraine war. Are you able to identify the context of creation, the intention of the maps and the sources of information? What do you notice about the creators? Are there any significant differences, and if so, why?
+Vergleichen Sie zunächst Karten aus dem Ersten Weltkrieg und aus dem Krieg zwischen Russland und der Ukraine. Können Sie den Entstehungskontext, den Zweck der Karten und die Informationsquellen herausarbeiten? Was fällt Ihnen an den Urhebern auf? Gibt es wesentliche Unterschiede, und wenn ja, warum?
 
-Second, focus on the online maps about the Russia-Ukraine war. Explore and compare maps provided by LiveUAmap and the [Institute for the Study of War](https://understandingwar.org/analysis/map-room/?_map_type=interactive-map).
-* Apply source criticism (use the questions provided in the Methodology section)
-* Analyse any differences you identify between them.   
+Zweitens: Konzentrieren Sie sich auf die Online-Karten zum Krieg zwischen Russland und der Ukraine. Entdecken und vergleichen Sie die Karten von LiveUAmap und dem [Institute for the Study of War](https://understandingwar.org/analysis/map-room/?_map_type=interactive-map).
+* Wenden Sie die Quellenkritik an (verwenden Sie dazu die im Abschnitt „Methodik“ aufgeführten Fragen).
+* Analysieren Sie alle Unterschiede, die Sie zwischen den Karten feststellen.
 
-Finally, choose at least two web map services documenting conflicts and wars in the world. You may use some of those mentioned above or do some research on the web to find services you are particularly interested in. If you are short of ideas, we provide some references in the reading suggestions below. Once your choice is made:
-* Apply source criticism as previously
-* Explore additional sources of information that can be combined with the maps: instant messaging services, (social) media, etc. 
-* Can you identify government and non-government institutions that provide details about events of war shown on the map? 
-* Is there more information about one side of the front than the other? If so, why? 
+Wählen Sie abschließend mindestens zwei Webkartendienste aus, die Konflikte und Kriege weltweit dokumentieren. Sie können einige der oben genannten Angebote nutzen oder im Internet recherchieren, um Dienste zu finden, die Sie besonders interessant finden. Falls Ihnen die Ideen ausgehen, finden Sie in den nachstehenden Leseempfehlungen einige Anregungen. Sobald Sie zwei Webkartendienste ausgewählt haben:
+
+* Wenden Sie die Quellenkritik wie zuvor beschrieben an.
+* Erkunden Sie weitere Informationsquellen, die mit den Karten kombiniert werden können: Instant-Messaging-Dienste, (soziale) Medien usw.
+* Können Sie staatliche und nichtstaatliche Einrichtungen nennen, die Einzelheiten zu den auf der Karte dargestellten Kriegsereignissen bereitstellen?
+* Gibt es zu einer Seite der Front mehr Informationen als zur anderen? Falls ja, warum?
 
 <!-- section -->
 
 
-### Reading/viewing suggestions
+### Empfehlungen Lektüre/Videos
 <!-- section-contents --> 
 
-*Aerial photography*
+*Luftbildfotografie*
 
-A prisoner-focused article highlighting the importance of aerial photography for reconstructing memory:
+„Fünfteichen camp – Overview“. *Holocaust Matters*. Resource for Holocaust Education. 18 May 2017. Ressource für die Aufklärung über den Holocaust. 18.05.2017 Übersicht mit freundlicher Genehmigung des United States Holocaust Memorial Museum, ENCYCLOPEDIA OF CAMPS AND GHETTOS, 1933–1945. [https://www.holocaustmatters.org/fnfteichen-camp-overview/](https://www.holocaustmatters.org/fnfteichen-camp-overview/)
 
-“Fünfteichen camp – Overview”. *Holocaust Matters*. Resource for Holocaust Education. 18 May 2017. Overview courtesy of The United States Holocaust Memorial Museum ENCYCLOPEDIA OF CAMPS AND GHETTOS, 1933–1945. [https://www.holocaustmatters.org/fnfteichen-camp-overview/](https://www.holocaustmatters.org/fnfteichen-camp-overview/)
-
-*Conflict related web map services* 
+*Konfliktbezogene Web-Kartendienste* 
 
 [War Watch](https://warwatch.ch/)
 
