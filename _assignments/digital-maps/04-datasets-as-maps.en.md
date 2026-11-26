@@ -106,7 +106,7 @@ Good quality metadata, and the existence of detailed documentation, are crucial 
 
 Let’s take a closer look at two datasets imported and opened with QGIS software, displayed in the two screenshots below.
 
-The screenshot below (figure ) shows a dataset about the Kingdom of Poland as part of the Russian Empire at the beginning of the 19th century. The dataset comes from the [Imperiia Project](https://imperiia.omeka.fas.harvard.edu/) run by researcher Kelly O’Neill at Harvard University, which created datasets about the administrative borders of the Russian Empire.
+The screenshot below (figure 18) shows a dataset about the Kingdom of Poland as part of the Russian Empire at the beginning of the 19th century. The dataset comes from the [Imperiia Project](https://imperiia.omeka.fas.harvard.edu/) run by researcher Kelly O’Neill at Harvard University, which created datasets about the administrative borders of the Russian Empire.
 The authors of the dataset describe the preparation of data and the sources from which they extracted the information about borders. For each administrative entity, its name is given in Russian (both in Cyrillic and in a Latin transliteration).
 
 [[iiif abb-5-1-qgis-imperiia-project-02 "Visualisation of a historical dataset, Imperiia project, in QGIS - the Kingdom of Poland as part of the Russian Empire in the 19th c."]]
@@ -158,12 +158,6 @@ Fretwell, Laura Brannan, and Eliane Schmid. 2025. “Layering Public Park Histor
 The European public service channel Arte has a program called “Mapping the World”, where maps take center stage to explain geopolitical events, past and present. Scan through the episode that shows different ways data is visualized and mapped and ask yourself what kind of information these maps communicate and to what effect:
 
 [Mapping the World. Rising Sea Levels: A Global Issue](https://www.arte.tv/en/videos/119961-011-A/mapping-the-world/) (12min16)
-
-In German
-[Mit offenen Karten. Der Globale Anstieg des Meerespiegels](https://www.arte.tv/de/videos/119961-011-A/mit-offenen-karten/)
-
-In French
-[Quand la mer monte : un enjeu mondial | Le Dessous des cartes | ARTE](https://www.arte.tv/fr/videos/119961-011-A/le-dessous-des-cartes/)
 
 
 *Educational resources to obtain technical skills on GIS*
