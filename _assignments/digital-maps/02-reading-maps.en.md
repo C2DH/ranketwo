@@ -138,9 +138,7 @@ After their actual use, these maps were archived, and more recently they were di
 ### 2.d Visualising power | 45 mins
 <!-- section-contents -->
 
-By Christian Lotz
-
-*Learning outcome - initiation to maps as data visualisations*
+*By Christian Lotz*
 
 Maps can be an impressive tool for visualising power. Political entities – kingdoms, nation states and empires – have used them to mark borders, outline territorial ambitions or demonstrate influence. Cartographers have combined data selection with visualisation techniques to highlight power and influence and to make arguments. The following example uses two maps of the world which show the influence of the British Empire during the 1920s and 1930s from different points of view.
 
