@@ -33,7 +33,7 @@ components:
 cover:
   url: /assets/images/digital-maps/avatar.jpg
   position: center
-  caption: "[Carte faite par les Japonais, apportée en Europe par Kaempfer et déposée dans le cabinet de M. Hans Sloane, président de la Société royale de Londres. 1784. Collection Gossellin, 0317](https://images.bnf.fr/detail/1821076). Bibliothèque nationale de France. Domaine public" 
+  caption: "[Eine von den Japanern angefertigte Karte, die von Engelbert Kaempfer nach Europa gebracht und in die Sammlung von Herrn Hans Sloane, dem Präsidenten der Royal Society in London, aufgenommen wurde. 1784. Collection Gossellin, 0317](https://images.bnf.fr/detail/1821076). Bibliothèque nationale de France. Public Domain" 
 order: -2 
 og:
   description: "Eine Lektion zur Anwendung der Quellenkritik auf digitale Karten im Rahmen einer historischen Analyse." 
