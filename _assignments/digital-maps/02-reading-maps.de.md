@@ -40,45 +40,43 @@ Sie können sich auch die [Liste von Kartenprojektionen](https://de.wikipedia.or
 ### 2.b  Vergleich von Perspektiven | 30 Min.
 <!-- section-contents -->
 
-There is a wide variety of methodological reflections concerning map analysis, usually referred to as “[critical cartography](https://en.wikipedia.org/wiki/Critical_cartography)”. The approach we should take to maps largely depends upon the specific type of cartographic material at hand and the research question. Despite the variety of analytical tools, many researchers prefer to apply comparative approaches.
+Zur Kartenanalyse gibt es vielfältige methodische Überlegungen, die häufig unter dem Begriff [kritische Kartographie](https://de.wikipedia.org/wiki/Kritische_Kartographie) zusammengefasst werden. Wie wir bei der Analyse von Karten vorgehen, hängt maßgeblich von der Art des kartografischen Materials und der jeweiligen Forschungsfrage ab. Trotz der Vielfalt an Analyseinstrumenten bevorzugen viele Forscher den Einsatz vergleichender Ansätze.
 
-We can start with basic questions such as: why does a certain map show a feature in a particular way, and why is this feature shown differently on another map? Step by step, we can go deeper into the details of the map and explore possible explanations for these differences.
+Wir können mit grundlegenden Fragen beginnen, wie zum Beispiel: Warum wird ein bestimmtes Objekt auf einer Karte auf eine bestimmte Art und Weise dargestellt, und warum wird dieses Objekt auf einer anderen Karte anders dargestellt? Schritt für Schritt können wir uns eingehender mit den Einzelheiten der Karte befassen und mögliche Erklärungen für diese Unterschiede untersuchen.
 
-Let us take world maps as an example. Observe the three maps shown in Figures 2, 3 and 4 below.
-
+Nehmen wir Weltkarten als Beispiel. Schauen Sie sich die drei Karten in den Abbildungen 2, 3 und 4 unten an.
 
 [[iiif kaiseikan-standard-atlas-of-japan-1925-map-24-routes-world "Map 24: Principal Routes of the World in Kaiseikwan's standard atlas of Japan, 1925, Tōkyō Kaiseikan (Kaiseikan mohan Nihon chizu: Monbushō kenteizumi : shihan gakkō, chūgakkō, kōtō jogakkō chirikayō). Public Domain"]]
 
-Figure 2. Map 24: Principal Routes of the World in Kaiseikwan’s Standard Atlas of Japan, 1925, Tōkyō Kaiseikan (Kaiseikan mohan Nihon chizu: Monbushō kenteizumi: shihan gakkō, chūgakkō, kōtō jogakkō chirikayō). Public Domain
+Abbildung 2. Karte 24: Die wichtigsten Verkehrswege der Welt im Standardatlas Japans von Kaiseikwan, 1925, Tōkyō Kaiseikan (Kaiseikan mohan Nihon chizu: Monbushō kenteizumi: shihan gakkō, chūgakkō, kōtō jogakkō chirikayō). Public Domain
 
 [[iiif diercke-1932-schulatlas-s-17 "German School-Atlas, World Map, 1932. Lange, Henry und Carl Diercke, Schulatlas (mit Karte zur Heimatkunde), Braunschweig: Westermann, 1932"]]
 
-Figure 3. World Map in German School Atlas in Lange, Henry und Carl Diercke, Schulatlas (mit Karte zur Heimatkunde), Braunschweig [u.a.]: Westermann, [1932?]. Public Domain
+Abbildung 3. Weltkarte im deutschen Schulatlas von Henry Lange und Carl Diercke, Schulatlas (mit Karte zur Heimatkunde), Braunschweig [u.a.]: Westermann, [1932?]. Public Domain
 
 [[iiif india-national-atlas-welt "Government of India, Ministry of Education and Scientific Research (Hg.): National Atlas of India (preliminary Edition), ed. by. S. P. Chatterjee, Calcutta/ Dehradun 1957."]]
 
-Figure 4. Official National Atlas of India. Government of India, Ministry of Education and Scientific Research (Hg.): National Atlas of India (preliminary Edition), ed. by. S. P. Chatterjee, Calcutta/ Dehradun 1957
+Abbildung 4. Offizieller Nationalatlas von Indien. Regierung von Indien, Ministerium für Bildung und wissenschaftliche Forschung (Hrsg.): Nationalatlas von Indien (vorläufige Ausgabe), herausgegeben von S. P. Chatterjee, Kalkutta/Dehradun 1957
 
-Apply source criticism to the maps with the help of the key questions introduced above: Who produced the map? When was it created? What is the content of the map? How is the map content presented? Why was the map created? Who was the map aimed at?
+Wenden Sie die Quellenkritik auf die Karten an, wobei Sie sich an den oben vorgestellten Leitfragen orientieren: Wer hat die Karte hergestellt? Wann wurde sie hergestellt? Was ist der Inhalt der Karte? Wie werden die Karteninhalte dargestellt? Warum wurde die Karte hergestellt? An wen richtete sich die Karte?
 
-After this first step, go deeper into cartographic details to analyse the particular purposes the map was meant to achieve, and examine possible intentions of the map creators. For the time being, you can focus on the questions below:
+Nach diesem ersten Schritt sollten Sie sich eingehender mit den kartografischen Details befassen, um die spezifischen Ziele zu analysieren, die mit der Karte erreicht werden sollten, und die möglichen Absichten der Kartografen zu untersuchen. Vorerst können Sie sich auf die folgenden Fragen konzentrieren:
 
-*  Which continent does each map depict at its centre? Did the cartographers choose different map projections, and if so, why?
+* Welchen Kontinent zeigt die jeweilige Karte in ihrer Mitte? Haben die Kartografen unterschiedliche Kartenprojektionen gewählt, und wenn ja, warum?
 
-Focusing on the details of maps and tackling comparative questions may prove rather difficult as we do not necessarily have the relevant background material to give us an insight into the production process and the cartographer’s decisions. So we should proceed carefully when starting our interpretation and elaborating on explanations regarding the appearance and content of maps. When analysing a map, we should bear in mind that the authors, cartographers and editors of maps have to make many decisions in the course of map production, whether implicit or explicit, conscious or unconscious. Map makers select particular features from the wealth of spatial information available, and focus on a few features they want to visualise. Specific cartographic “languages” and styles (symbols, colours etc.) have developed over centuries. Since the 19th century, increasing international exchanges among cartographers and editors have led to various conventions regarding map design, such as placing the geographic north at the top of the map.
+Sich auf die Details von Karten zu konzentrieren und vergleichende Fragen zu bearbeiten, könnte sich als recht schwierig erweisen, da uns nicht unbedingt das entsprechende Hintergrundmaterial zur Verfügung steht, das uns Einblicke in den Entstehungsprozess und die Entscheidungen des Kartografen gewährt. Daher sollten wir bei der Interpretation und der Ausarbeitung von Erläuterungen zur Gestaltung und zum Inhalt von Karten mit Bedacht vorgehen. Beim Analysieren einer Karte sollten wir bedenken, dass die Autoren, Kartografen und Herausgeber von Karten im Verlauf der Kartenerstellung zahlreiche Entscheidungen treffen müssen – seien diese nun implizit oder explizit, bewusst oder unbewusst. Kartenersteller wählen aus der Fülle der verfügbaren räumlichen Informationen bestimmte Merkmale aus und konzentrieren sich auf einige wenige Merkmale, die sie darstellen möchten. Im Laufe der Jahrhunderte haben sich spezifische kartografische „Sprachen“ und Stile (Symbole, Farben usw.) entwickelt. Seit dem 19. Jahrhundert hat der zunehmende internationale Austausch zwischen Kartografen und Herausgebern zu verschiedenen Konventionen hinsichtlich der Kartengestaltung geführt, wie beispielsweise der Platzierung des geografischen Nordens am oberen Rand der Karte.
 
-Now study two maps of the Mediterranean shown in Figures 5 and 6 below and note your observations on the basis of what you have learned above.
+Betrachten Sie nun die beiden Mittelmeerkarten in den Abbildungen 5 und 6 und notieren Sie Ihre Beobachtungen anhand des bisher Gelernten.
 
 [[iiif petite-carte-orient-mediterranee "Petite carte d'Orient et de la Méditerranée (Édition pittoresque à 100 000 exemplaires) / gravée par Ch. Avril ; lith. J. Simon"]]
 
-Figure 5. “Petite carte d'Orient et de la Méditerranée” (1840), held by: Bibliothèque nationale de France, département Cartes et plans, GE DL 1840-261. (The image is used courtesy of the holding institution)
-
+Abbildung 5. „Petite carte d’Orient et de la Méditerranée“ (1840), aufbewahrt von: Französische Nationalbibliothek, Abteilung für Karten und Pläne, GE DL 1840-261. (Das Bild wird mit freundlicher Genehmigung der aufbewahrenden Einrichtung verwendet.)
 
 [[iiif mediterranean-without-borders "Sabine Réthoré, Mediterranean without Borders, Mucem, Marseille, France. Free Art Licence"]]
 
-Figure 6. “Mediterranean without Borders” (2011) by the artist Sabine Réthoré, displayed in the [Musée des civilisations de l’Europe et de la Méditerranée](https://mucem.org/en/). The map is freely available on the website of the artist under Licence Art Libre. Source: [http://sabine-rethore.net/fr/cartes/mediterraneesans.html](http://sabine-rethore.net/fr/cartes/mediterraneesans.html)
+Abbildung 6. „Mediterranean without Borders“ (2011) von der Künstlerin Sabine Réthoré, ausgestellt im [Museum der Zivilisationen Europas und des Mittelmeers](https://mucem.org/en/). Die Karte steht auf der Website der Künstlerin unter der sog. Lizenz Freie Kunst (orig. franz. Licence Art Libre) frei zur Verfügung. Quelle: [http://sabine-rethore.net/fr/cartes/mediterraneesans.html](http://sabine-rethore.net/fr/cartes/mediterraneesans.html)
 
-Reflect on how the production of maps is based on a chain of decisions and therefore filters spatial reality. It is likely that the cartographer has applied particular techniques to support a specific perception of their map and counter unwanted interpretations. Maps are a way of categorising, systematising, levelling and stereotyping spatial features and individual characteristics of the objects depicted in them. 
+Denken Sie darüber nach, inwiefern die Erstellung von Karten auf einer Kette von Entscheidungen beruht und somit die räumliche Realität filtert. Vermutlich hat der Kartograf gezielt Gestaltungsmittel eingesetzt, um die Wahrnehmung seiner Karte zu lenken und unerwünschte Deutungen zu vermeiden. Karten dienen dazu, räumliche Merkmale und individuelle Eigenschaften der darin dargestellten Objekte zu kategorisieren, zu systematisieren, zu vereinheitlichen und zu stereotypisieren.
 
 <!-- section -->
 
