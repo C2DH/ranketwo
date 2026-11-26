@@ -2,41 +2,42 @@
 layout: assignment
 unit: digital-maps 
 lang: de
-title: "Learning to read the stories maps tell"
+title: "Lernen, die Geschichten hinter Karten zu entschlüsseln"
 cover:
 documents:
   - 
 tags:
 outcomes: 
-  -  Gaining map literacy to apply source criticism
+  -  Erwerb von Kartenkompetenz zur Anwendung der Quellenkritik
 order: 2 
 ---
 
-It is important to understand how the steps outlined in the [Methodology section](#c-methodology.en) apply to source criticism. When analysing maps as historical sources, we need to start with fundamental questions, such as: Who produced the map, and when? For what purpose, and for whom? What is the content of the map? How is the map content presented? Some of these questions can be answered with the help of the descriptive information provided alongside maps or information contained in other sources, or by closely studying the maps’ content. We should keep in mind that the creators, i.e. the authors, cartographers and editors, of maps have to make decisions in the course of map production to select particular features, objects or information to be represented in the map. They also need to follow conventions regarding map design, i.e. symbols and styles developed over centuries, especially since the 19th century. Maps therefore develop from a chain of decisions which result in a 2D or 3D rendering of specific elements of space. In this way maps are a medium for categorising, systematising, levelling, reducing and stereotyping spatial features and individual characteristics of the objects depicted in them. They are based on the visual equation of different manifestations of the same phenomenon, arbitrarily set as a standard or group of characteristics. The choice of the area that can be seen on a map and the allocation of centres and peripheral locations are thereby connected.
+Es ist wichtig zu verstehen, inwiefern die im [Abschnitt Methodik](#c-methodology.de) beschriebenen Schritte auf die Quellenkritik zutreffen. Beim Analysieren von Karten als historische Quellen müssen wir von grundlegenden Fragen ausgehen, wie zum Beispiel: Wer hat die Karte hergestellt und wann? Zu welchem Zweck und für wen? Was ist der Inhalt der Karte? Wie werden die Karteninhalte dargestellt? Einige dieser Fragen lassen sich mithilfe der beschreibenden Informationen, die neben den Karten bereitgestellt werden, oder anhand von Informationen aus anderen Quellen beantworten, oder durch genaue Betrachtung des Karteninhalts. Wir sollten bedenken, dass die Ersteller – d. h. die Autoren, Kartografen und Herausgeber – von Karten im Verlauf der Kartenerstellung Entscheidungen treffen müssen, um bestimmte Merkmale, Objekte oder Informationen auszuwählen, die auf der Karte dargestellt werden sollen. Zudem müssen sie sich an die Konventionen der Kartengestaltung halten, d. h. an Symbole und Stile, die sich über Jahrhunderte hinweg, insbesondere seit dem 19. Jahrhundert, entwickelt haben. Karten entstehen somit aus einer Abfolge von Entscheidungen, die zu einer 2D- oder 3D-Darstellung bestimmter Elemente des Raums führen. Auf diese Weise dienen Karten als Medium zur Kategorisierung, Systematisierung, Vereinheitlichung, Reduzierung und Stereotypisierung räumlicher Merkmale sowie individueller Eigenschaften der darin dargestellten Objekte. Sie basieren auf der visuellen Gleichsetzung verschiedener Erscheinungsformen desselben Phänomens, die willkürlich als Standard oder Merkmalsgruppe festgelegt wurden. Die Wahl des Kartenausschnitts und die Verteilung von Zentren und Randgebieten hängen somit miteinander zusammen.
 
-Please refer to the [Methodology section](#c-methodology.en) while working on the exercices that follow.  
+Bitte beachten Sie bei der Bearbeitung der folgenden Übungen die Hinweise im [Abschnitt Methodik](#c-methodology.de) 
+  
 
 <!-- more -->
 
 <!-- briefing-student -->
 
-### 2.a Playing with perspective and distortion | 20 mins
+### 2.a Spiel mit Perspektive und Verzerrung | 20 Min.
 <!-- section-contents -->
 
-To understand what a map projection is and how distortion is inherent to it, please read [the introduction of the Wikipedia article](https://en.wikipedia.org/wiki/Map_projection).
+Um zu verstehen, was eine Kartenprojektion ist und inwiefern Verzerrungen untrennbar mit ihr verbunden sind, lesen Sie bitte die [Einführung zum Wikipedia-Artikel](https://de.wikipedia.org/wiki/Kartennetzentwurf) zur Kartenprojektion.
 
-Then watch the 6-minute video [“Why all world maps are wrong”](https://youtu.be/kIID5FDi2JQ).
+Schauen Sie sich dann das 6-minütige Video an [Warum alle Weltkarten falsch sind](https://youtu.be/kIID5FDi2JQ).
 
-Play with different map projections. Consult [Country Centered Map Projections](https://engaging-data.com/country-centered-map-projections/) and click on the country you are currently living in. Try different map projections to see how this changes the way the country is displayed. Think about why different map projections exist. What is their purpose?
+Probieren Sie verschiedene Kartenprojektionen aus. Konsultieren Sie die [Country Centered Map Projections](https://engaging-data.com/country-centered-map-projections/) (auf einzelne Länder zentrierte Kartenprojektionen) und klicken Sie auf das Land, in dem Sie derzeit leben. Probieren Sie verschiedene Kartenprojektionen aus, um zu sehen, wie sich dadurch die Darstellung des Landes verändert. Denken Sie darüber nach, warum es verschiedene Kartenprojektionen gibt. Welchem Zweck dienen sie?
 
-To learn more about projections, you may continue reading the Wikipedia article. 
+Um mehr über Projektionen zu erfahren, empfehlen wir Ihnen, den Wikipedia-Artikel weiterzulesen.
 
-You can also study the [list of projections](https://en.wikipedia.org/wiki/List_of_map_projections#) to familiarise yourself with the variety of existing projections.
+Sie können sich auch die [Liste von Kartenprojektionen](https://de.wikipedia.org/wiki/Liste_von_Kartennetzentw%C3%BCrfen) bzw. Kartennetzentwürfen ansehen, um sich mit der Vielfalt der vorhandenen Projektionen vertraut zu machen.
 
 
 <!-- section -->
 
-### 2.b  Comparing perspectives | 30 mins
+### 2.b  Vergleich von Perspektiven | 30 Min.
 <!-- section-contents -->
 
 There is a wide variety of methodological reflections concerning map analysis, usually referred to as “[critical cartography](https://en.wikipedia.org/wiki/Critical_cartography)”. The approach we should take to maps largely depends upon the specific type of cartographic material at hand and the research question. Despite the variety of analytical tools, many researchers prefer to apply comparative approaches.
@@ -81,128 +82,120 @@ Reflect on how the production of maps is based on a chain of decisions and there
 
 <!-- section -->
 
-### 2.c Elucidating choices, audience and purpose: imagining populations in maps | 45 mins
+### 2.c Entscheidungen, Zielgruppen und Zwecke beleuchten: Die Darstellung von Bevölkerungsgruppen in Karten | 45 Min.
 <!-- section-contents -->
 
-*By Peter Haslinger*
+*Von Peter Haslinger*
 
-Since the 19th century, the rise of nationalism in Europe and worldwide has highlighted the importance of population: ethnicity, language and religion have been central to political tensions over perceived majorities and minorities and contested borders. Regular censuses conducted at national level have provided a statistical basis for measuring the use of language, demographic development, etc. over a longer period. Political debates have been reflected in cartographic production and census data have been used to depict both populations and national(istic) arguments.
+Seit dem 19. Jahrhundert hat das Aufkommen des Nationalismus in Europa und weltweit die Bedeutung der Bevölkerung für staatliches Handeln deutlich gemacht: Ethnizität, Sprache und Religion spielten eine zentrale Rolle bei politischen Spannungen um Mehrheiten und Minderheiten sowie um umstrittene Grenzen. Regelmäßige Volkszählungen auf nationaler Ebene schufen eine statistische Grundlage für die Erfassung des Sprachgebrauchs, der demografischen Entwicklung usw. über einen längeren Zeitraum hinweg. Politische Debatten schlugen sich daher auch in der kartografischen Darstellung nieder, und Volkszählungsdaten wurden herangezogen, um sowohl Bevölkerungsgruppen als auch national(istische) Aussagen darzustellen.
 
-You will work with two maps that were created in the context of [World War One](https://en.wikipedia.org/wiki/World_War_I) and used respectively by the Polish and Hungarian delegations during the [Paris Peace Conference](https://en.wikipedia.org/wiki/Paris_Peace_Conference_(1919%E2%80%931920)) in 1919-1920 to legitimise national territorial claims. These examples give an insight into aspects of cartographic debates about populations at the time. Both map authors were founding fathers of geography in their respective countries.
+Sie arbeiten mit zwei Karten, die im Zusammenhang mit dem [Ersten Weltkrieg](https://de.wikipedia.org/wiki/Erster_Weltkrieg) entstanden sind. Die polnische bzw. die ungarische Delegation nutzte sie bei der [Pariser Friedenskonferenz 1919–1920](https://de.wikipedia.org/wiki/Pariser_Friedenskonferenz_1919), um eigene Gebietsansprüche zu begründen. Diese Beispiele geben einen Einblick in Aspekte der damaligen kartografischen Debatten über Bevölkerungsgruppen. Beide Kartografen gelten in ihren jeweiligen Heimatländern als Begründer der Geografie.
 
+#### Kontextbezogene Informationen und Karten
 
-#### Contextual information and maps
-
-Polish cartographer [Eugeniusz Romer](https://en.wikipedia.org/wiki/Eugeniusz_Romer) (1871-1954) produced maps during World War One. In the aftermath of the war, these maps served as cartographic templates for the Polish delegation’s maps at the Paris Peace Conference (published as Polski Atlas Kongresowy in 1921). Romer’s credibility among international geographers and his personal friendships with some experts on the side of the Allied Powers, especially the highly influential American expert [Isaiah Bowman](https://en.wikipedia.org/wiki/Isaiah_Bowman), increased the authoritative nature of the maps presented by the Polish delegation to the decision-makers. In a map entitled “The political and ethnographical territory of Poland (1772)”, Romer supports a maximalist approach to Polish territorial claims by combining the territory of the Polish–Lithuanian Commonwealth (“Poland” in its borders prior to the First Partition of 1772) with additional areas in the west containing some Polish populations. We can see the strategy of creating a normative connection between language use and political boundaries.
-
+Der polnische Kartograf [Eugeniusz Romer](https://de.wikipedia.org/wiki/Eugeniusz_Romer) (1871–1954) erstellte bereits während des Ersten Weltkriegs Karten, die nach Kriegsende als Vorlagen für die Karten der polnischen Delegation auf der Pariser Friedenskonferenz dienten (veröffentlicht 1921 als „Polski Atlas Kongresowy“). Romers Ansehen unter internationalen Geografen und seine persönlichen Freundschaften mit einigen Experten auf Seiten der Alliierten, insbesondere mit dem äußerst einflussreichen amerikanischen Experten [Isaiah Bowman](https://de.wikipedia.org/wiki/Isaiah_Bowman), trugen dazu bei, dass die Entscheidungsträger den Karten der polnischen Delegation besonderes Gewicht beimaßen. In einer Karte mit dem Titel „Das politische und ethnografische Gebiet Polens (1772)“ vertritt Romer einen maximalistischen Ansatz hinsichtlich der polnischen Gebietsansprüche, indem er das Gebiet des Königreichs Polen  und des Großfürstentums Litauen („Polen“ in seinen Grenzen vor der Ersten polnischen Teilung von 1772) mit weiteren Gebieten im Westen verbindet, in denen teilweise polnische Bevölkerungsgruppen leben. Wir erkennen die Strategie, eine normative Verbindung zwischen Sprachgebrauch und politischen Grenzen herzustellen.
 
 [[iiif population-romer-1916-atlas-polski-nr-9-polacy-1922-A188 "Map of E. Romer representing the population of Poland, Atlas Polski, 1916. PAN Kórnik Library, Kórnik, Poland. Public Domain."]]
 
-Figure 7. Chodkiewicz, Bronisław, Bronisław Gubrynowicz, Adolf Holzhausen, Karol Nitsch, Jacek Nowak, Eugeniusz Romer, Jacek Rutkowski, Władysław Semkowicz, Władysław Szafer and Stanisław Wiktor Weigner, eds. 1916. Geograficzno-statystyczny atlas Polski [1-3]. (Geographical and Statistical Atlas of Poland). Gebethner i Wolff. PAN Kórnik Library, Kórnik, Poland. Public domain. [URL](https://www.wbc.poznan.pl/dlibra/publication/557330/edition/474699/content)
+Abbildung 7. Chodkiewicz, Bronisław, Bronisław Gubrynowicz, Adolf Holzhausen, Karol Nitsch, Jacek Nowak, Eugeniusz Romer, Jacek Rutkowski, Władysław Semkowicz, Władysław Szafer und Stanisław Wiktor Weigner, Hrsg. 1916. Geograficzno-statystyczny atlas Polski [1-3]. (Geografischer und statistischer Atlas von Polen). Gebethner i Wolff. PAN Kórnik Library, Kórnik, Polen. Gemeinfreiheit. [URL](https://www.wbc.poznan.pl/dlibra/publication/557330/edition/474699/content)
 
-
-Hungarian politician [Pál Teleki](https://en.wikipedia.org/wiki/P%C3%A1l_Teleki) (1879-1941), who served as Prime Minister on two occasions, became the leading geographer and academic mastermind of Hungarian cartography and geopolitics. Teleki’s extensive language skills had helped establish his international reputation before the war (he spoke German, French and English, as well as some Dutch, Italian and Romanian). During the peace negotiations between Hungary and the Allied Powers at Trianon, the official Hungarian delegation promoted the idea that Hungary was one of the most striking morphological units on the physical map of Europe, with the practically uninhabited belt of the Carpathians surrounding most of the country and creating a natural barrier. In preparation for the peace talks he drafted the famous “carte rouge” as early as December 1918. This map was now used alongside the Hungarian memoranda in order to retain as much territory as possible for Hungary, and was published in several editions even after the Treaty of Trianon was signed on 4 June 1920. Teleki’s method of not including areas that were less populated, and his choice of colours (red for Hungarian, pale pink for Romanian), over-emphasised the Hungarian-speaking minority population in Transylvania at the expense of the Romanian-speaking majority.
+Der ungarische Politiker [Pál Teleki](https://de.wikipedia.org/wiki/P%C3%A1l_Teleki) (1879–1941), der zweimal das Amt des Ministerpräsidenten bekleidete, hatte sich bereits zum führenden Geografen und wissenschaftlichen Vordenker der ungarischen Kartografie und Geopolitik entwickelt. Telekis umfassende Sprachkenntnisse hatten bereits vor dem Krieg dazu beigetragen, seinen internationalen Ruf zu festigen (er sprach Deutsch, Französisch und Englisch und hatte Grundkenntnisse in Niederländisch, Italienisch und Rumänisch). Während der Friedensverhandlungen zwischen Ungarn und den Alliierten in Trianon vertrat die offizielle ungarische Delegation die Auffassung, dass Ungarn eine der markantesten morphologischen Einheiten auf der physischen Karte Europas darstelle, da der nahezu unbewohnte Gürtel der Karpaten den größten Teil des Landes umgab und eine natürliche Barriere bildete. In Vorbereitung auf die Friedensverhandlungen entwarf er bereits im Dezember 1918 die berühmte „carte rouge“. Diese Karte wurde nun zusammen mit den ungarischen Memoranden herangezogen, um so viel Gebiet wie möglich für Ungarn zu sichern, und erschien auch nach der Unterzeichnung des Vertrags von Trianon am 4. Juni 1920 noch in mehreren Auflagen. Telekis Vorgehensweise, weniger dicht besiedelte Gebiete nicht zu berücksichtigen, sowie seine Farbwahl (Rot für Ungarisch, Hellrosa für Rumänisch) stellten die ungarischsprachige Minderheit in Siebenbürgen zum Nachteil der rumänischsprachigen Mehrheit deutlich überproportional dar.
 
 [[iiif population-telecki-1920-ethnogr-map-hungary-03 "P. Teleki, Ethnographic map of Hungary based on population density, 1919, HM Military History Institute and Museum. Image reproduced courtesy of the content provider."]]
 
-Figure 8. Paul Teleki, Magyarorzság néprajzi térképe a népsűrűség alapján (Ethnographic map of Hungary based on population density), Den Haag: Lith. J. Smulders and Co., 1919. HM Military History Institute and Museum, Budapest, Hungary. Image reproduced courtesy of the content provider. [URL](https://maps.hungaricana.hu/en/HTITerkeptar/2751/)
+Abbildung 8. Pál Teleki, Magyarország néprajzi térképe a népsűrűség alapján (Ethnografische Karte Ungarns auf der Grundlage der Bevölkerungsdichte), Den Haag: Lith. J. Smulders and Co., 1919. Heeresgeschichtliches Institut und Museum, Budapest, Ungarn. Das Bild wird mit freundlicher Genehmigung des Inhaltsanbieters wiedergegeben. [URL](https://maps.hungaricana.hu/en/HTITerkeptar/2751/)
 
+Sehen Sie sich die Karten und die oben angegebenen Hintergrundinformationen an. Sollten Sie weitere Informationen benötigen, können Sie auch im Internet recherchieren. Beantworten Sie anschließend die folgenden Fragen:
 
-Check the maps and the contextual information provided above. If you feel you need further information, you can also conduct some research on the web. Then answer the following questions:
+Perspektive und Entstehungskontext
+* Wer hat die Karte hergestellt? Für wen? Wann?
 
-Perspective and context of creation
-* Who made the map? For whom? When?
+Entscheidungen
+* Was genau ist auf der Karte dargestellt?
+* Welche nationalen Perspektiven werden erkennbar?
+* Darstellungsstrategien:
+  * Welche Art von Grenzen sehen Sie?
+  * Wofür stehen die verschiedenfarbigen Gebiete?
+  * Auf welcher statistischen Grundlage basiert diese Karte?
+  * Wofür steht die Farbe Rot und welche visuelle Wirkung soll damit erzielt werden?
+  * Wie sind die weißen Bereiche auf der Karte zu interpretieren?
 
-Choices
-* What exactly is shown on the map? 
-* What national perspectives are presented?
-* Representation strategies: 
-  * What kind of borders do you see? 
-  * What do the differently coloured territories stand for? 
-  * What is the statistical basis for this map? 
-  * What does the colour red stand for and what visual effect is it supposed to achieve? 
-  * How should the white areas on the map be interpreted?
+Zielgruppe und Zweck
+* Was lässt die Karte durch die Auswahl des Kartenausschnitts und die eingezeichneten Grenzen über die politische Absicht ihres Verfassers erkennen?
 
-Audience and purpose 
-* What does the map tell us about the political intention of its author through the choice of map section and the drawn boundaries? 
+Verfassen Sie nun einen kurzen Absatz, in dem Sie Ihre Ergebnisse zusammenfassen:
+* Welche Geschichten erzählen die Karten?
 
-Now write a short paragraph to summarize your findings: 
-* What stories do the maps tell?
-
-After their actual use, these maps were archived, and more recently they were digitised. Conduct your own research on the web about both maps, using the title of each as your search query.
-* Which libraries digitised the maps and made them available, in which countries? 
-* Based on your findings, what does this tell us on the cultural heritagisation of these maps? 
+Nach ihrer tatsächlichen Verwendung wurden diese Karten archiviert und in jüngerer Zeit digitalisiert. Recherchieren Sie selbst im Internet zu beiden Karten und verwenden Sie dabei jeweils den Titel der Karte als Suchbegriff.
+* Welche Bibliotheken haben die Karten digitalisiert und zugänglich gemacht, und in welchen Ländern?
+* Was lässt sich anhand Ihrer Erkenntnisse über die Einordnung dieser Karten in das kulturelle Erbe ableiten?
 
 <!-- section -->
 
-### 2.d Visualising power | 45 mins
+### 2.d Visualisierung von Macht | 45 Min.
 <!-- section-contents -->
 
-By Christian Lotz
+*Von Christian Lotz*
 
-*Learning outcome - initiation to maps as data visualisations*
+Karten können ein eindrucksvolles Mittel zur Visualisierung von Macht sein. Politische Einheiten – Königreiche, Nationalstaaten und Reiche – haben sie genutzt, um Grenzen zu markieren, territoriale Ambitionen zu verdeutlichen oder ihren Einfluss zu demonstrieren. Kartografen haben die Auswahl von Daten mit Visualisierungstechniken kombiniert, um Macht und Einfluss hervorzuheben und Aussagen zu untermauern. Im folgenden Beispiel werden zwei Weltkarten herangezogen, die den Einfluss des Britischen Empire in den 1920er und 1930er Jahren aus unterschiedlichen Blickwinkeln veranschaulichen.
 
-Maps can be an impressive tool for visualising power. Political entities – kingdoms, nation states and empires – have used them to mark borders, outline territorial ambitions or demonstrate influence. Cartographers have combined data selection with visualisation techniques to highlight power and influence and to make arguments. The following example uses two maps of the world which show the influence of the British Empire during the 1920s and 1930s from different points of view.
-
-#### Contextual information and maps
-
-The map shown in Figure 9 below is part of the “Chambers of Commerce Atlas”, published in London in 1928. The [Chambers of Commerce](https://en.wikipedia.org/w/index.php?title=British_Chambers_of_Commerce&oldid=1270196576) are one of the main British institutions for facilitating worldwide trade. The Atlas was aimed at a British audience, and more broadly any English-speaking readers interested in trade routes, as well as the spatial distribution of natural resources and commercial capacities. The “General Reference Map” uses the colour pink to indicate territories that are linked to the British Empire and the Commonwealth. This is an obvious (and colourful) technique to highlight British influence across the world. However, the map also conveys dominant cultural representations of an imperial power, which is obvious in the use of place names – for example Bombay (in India) and Constantinople (in Turkey), rather than Mumbaī and İstanbul. Although the former were the place names commonly in use in the English language for these two cities, and therefore familiar to a British audience, their use also suggests a world in which the United Kingdom is culturally, financially and politically a dominant power.
+#### Kontextbezogene Informationen und Karten
+Die in Abbildung 9 unten abgebildete Karte stammt aus dem [„Chambers of Commerce Atlas“](https://en.wikipedia.org/w/index.php?title=British_Chambers_of_Commerce&oldid=1270196576), der 1928 in London veröffentlicht wurde. Die Chambers of Commerce gehören zu den wichtigsten britischen Institutionen zur Förderung des weltweiten Handels.  Der Atlas richtete sich an ein britisches Publikum sowie allgemein an alle englischsprachigen Leser, die sich für Handelswege sowie für die räumliche Verteilung natürlicher Ressourcen und wirtschaftlicher Kapazitäten interessierten. Auf der „General Reference Map“ werden Gebiete, die mit dem Britischen Empire und dem Commonwealth verbunden sind, in Rosa dargestellt. Dies ist eine naheliegende (und farbenfrohe) Technik, um den britischen Einfluss weltweit hervorzuheben. Die Karte vermittelt jedoch auch vorherrschende kulturelle Darstellungen einer imperialen Macht, was sich deutlich in der Verwendung von Ortsnamen zeigt – beispielsweise „Bombay“ (in Indien) und „Constantinople“ (in der Türkei) anstelle von „Mumbaī“ und „İstanbul“. Obwohl es sich bei den erstgenannten Bezeichnungen um die im Englischen gebräuchlichen Namen für diese beiden Städte handelte und sie daher einem britischen Publikum vertraut waren, deutet ihre Verwendung zugleich auf eine Welt hin, in der das Vereinigte Königreich kulturell, finanziell und politisch eine dominierende Macht ist.
 
 [[iiif chambers-of-commerce-1928-world-map "Chambers of Commerce Atlas, General Reference Map, 1928"]]
 
-Figure 9. “World - General Reference Map Showing Political Divisions”. In *The Chambers of Commerce Atlas issued under the auspices of the association of British Chambers of Commerce: a systematic survey of the world's trade, economic resources & communications*. S.l.: George Philip & Son, ltd, 1928. Public Domain
+Abbildung 9. „World - General Reference Map Showing Political Divisions“. In The Chambers of Commerce Atlas issued under the auspices of the association of British Chambers of Commerce: a systematic survey of the world’s trade, economic resources & communications. S.l.: George Philip & Son, ltd, 1928. Gemeinfreiheit
 
-The map shown in Figure 10 below, “International Movements of Capital”, is included in the “Atlas of To-day and To-morrow”, published by Alexander (Sándor) Radó, also in London, in 1938. The atlas outlines the cleavages caused by global conflicts in the early 20th century. Most of the maps in the atlas are in black and white, although some also include red. On the map, circles and arrows demonstrate the amount of capital flowing from major powers to other parts of the world. The visual strength of the map derives from the arrows and lines linking different parts of the world. Various interpretations are possible: Do the lines and arrows demonstrate the competition between the British Empire and the rising power of the United States of America? Or does the map allow for a visual comparison of investment strategies: British capital is invested overseas, while, for example, French capital mainly goes to Central and Eastern European countries? Or do these lines represent symbolic tentacles, reaching out to grab more and more parts of the world?
+Die in Abbildung 10 unten gezeigte Karte mit dem Titel „International Movements of Capital“ stammt aus dem „Atlas of To-day and To-morrow“, der 1938 ebenfalls in London von Alexander (Sándor) Radó herausgegeben wurde. Der Atlas veranschaulicht die Spaltungen, die durch globale Konflikte zu Beginn des 20. Jahrhunderts verursacht wurden. Die meisten Karten in dem Atlas sind in Schwarz-Weiß gehalten, einige enthalten jedoch auch rote Farbtöne. Auf der Karte veranschaulichen Kreise und Pfeile den Umfang des Kapitalflusses von den Großmächten in andere Teile der Welt. Die visuelle Wirkung der Karte beruht auf den Pfeilen und Linien, die verschiedene Teile der Welt miteinander verbinden. Unterschiedliche Interpretationen sind möglich: Veranschaulichen die Linien und Pfeile den Wettbewerb zwischen dem Britischen Empire und der aufstrebenden Macht der Vereinigten Staaten von Amerika? Oder ermöglicht die Karte einen visuellen Vergleich von Investitionsstrategien: Britisches Kapital wird in Übersee investiert, während beispielsweise französisches Kapital hauptsächlich in mittel- und osteuropäische Länder fließt? Oder stellen diese Linien symbolische Tentakel dar, die danach greifen, immer mehr Teile der Welt zu erobern?
 
 [[iiif international-movements-of-capital-1938 "A. Rado, International Movements of Capital, The Atlas of To-day and To-morrow, 1938. Public domain"]]
 
-Figure 10. Alexander Radó, “International Movements of Capital”. In *The Atlas of To-day and To-morrow*. London, UK: Victor Gollanz, 1938. Public Domain.  
+Abbildung 10. Sándor Radó, „International Movements of Capital“. In The Atlas of To-day and To-morrow. London, UK: Victor Gollancz, 1938. Gemeinfreiheit.
 
-Look at the maps, bearing in mind the contextual information provided above. If you need further information about the context of creation, you can also do your own research online. The Wikipedia articles on the map creators can be useful to answer the questions below:
+Sehen Sie sich die Karten an und berücksichtigen Sie dabei die oben genannten Hintergrundinformationen. Falls Sie weitere Informationen zum Entstehungskontext benötigen, können Sie auch selbst online recherchieren. Wikipedia-Artikel über die Urheber der Karten können Ihnen bei der Beantwortung der folgenden Fragen hilfreich sein:
 
-Wikipedia contributors, “British Chambers of Commerce”, Wikipedia, The Free Encyclopedia, [https://en.wikipedia.org/w/index.php?title=British_Chambers_of_Commerce&oldid=1270196576](https://en.wikipedia.org/w/index.php?title=British_Chambers_of_Commerce&oldid=1270196576) (accessed 17 February 2025).
+Wikipedia-Autoren, „British Chambers of Commerce“, Wikipedia, Die freie Enzyklopädie, [https://en.wikipedia.org/w/index.php?title=British_Chambers_of_Commerce&oldid=1270196576](https://en.wikipedia.org/w/index.php?title=British_Chambers_of_Commerce&oldid=1270196576) (abgerufen am 17. Februar 2025).
 
-Wikipedia contributors, “Alexander Radó”, Wikipedia, The Free Encyclopedia, [https://en.wikipedia.org/w/index.php?title=Alexander_Rad%C3%B3&oldid=1262810919](https://en.wikipedia.org/w/index.php?title=Alexander_Rad%C3%B3&oldid=1262810919) (accessed 17 February 2025).
+Wikipedia-Autoren, „Sándor Radó”, Wikipedia, Die freie Enzyklopädie, [https://en.wikipedia.org/w/index.php?title=Alexander_Rad%C3%B3&oldid=1262810919](https://en.wikipedia.org/w/index.php?title=Alexander_Rad%C3%B3&oldid=1262810919) (abgerufen am 17. Februar 2025).
 
+Beantworten Sie anschließend für jede Karte die folgenden Fragen:
 
-Then answer the following questions for each map: 
+Perspektive und Entstehungskontext
+* Wer hat die Karte hergestellt? Wann? Wo?
 
-Perspective and context of creation
-* Who created the map? When? Where? 
+Zielgruppe und Zweck
+* Zu welchem Zweck wurde die Karte hergestellt? Für wen?
 
-Audience and purpose 
-* For what purpose was the map created? For whom?  
-
-Choices 
-* What is shown? What is missing?
-* Representation strategies
-  * Use of colours
-  * Use of symbols, if any: type, size...
+Entscheidungen
+* Was wird gezeigt? Was fehlt?
+* Darstellungsstrategien
+* Verwendung von Farben
+* Gegebenenfalls Verwendung von Symbolen: Art, Größe …
 
 <!-- section -->
 
-### 2.e  Visualising data | 15 mins
+### 2.e  Visualisierung von Daten | 15 Min.
 <!-- section-contents -->
-*By Sofia Papastamkou*
+*Von Sofia Papastamkou*
 
-The map by Radó presented in 2.d has a particular sense of movement which brings it closer to the contemporary dynamic of interactive visualisations based on the availability of digital data and dedicated software. However, we do not have direct access to the data the map creator used, as the technologies of his time did not make this possible – even presuming that he would have wanted to provide us with access to his dataset.
+Die in Abschnitt 2.d vorgestellte Karte von Radó vermittelt Dynamik und erinnert damit an heutige interaktive Visualisierungen auf der Grundlage digitaler Daten und spezieller Software. Wir haben jedoch keinen direkten Zugriff auf die Daten, die der Kartograf verwendet hat, da die Technologien seiner Zeit dies nicht zuließen – selbst unter der Annahme, dass er uns Zugang zu seinem Datensatz hätte gewähren wollen.
 
-To further explore this dimension, take a look at the website [Our World In Data](https://ourworldindata.org/). Consult the “[About](https://ourworldindata.org/about)” page to find out about the aim of the initiative and the contributors.
+Um mehr über diesen Aspekt zu erfahren, werfen Sie doch einen Blick auf die Website [Our World In Data](https://ourworldindata.org/). Auf der Seite [About](https://ourworldindata.org/about) erfahren Sie mehr über das Ziel der Initiative und die Mitwirkenden.
 
-Pick a map of your choice. Here we use the world map that presents the gross domestic product (GDP) per capita for the current year: [GDP per capita](https://ourworldindata.org/grapher/gdp-per-capita-worldbank).
+Wählen Sie eine beliebige Karte aus. Wir verwenden hier die Weltkarte, auf der das Bruttoinlandsprodukt (BIP) pro Kopf für das laufende Jahr dargestellt ist: [GDP per capita](https://ourworldindata.org/grapher/gdp-per-capita-worldbank).
 
-* What types of visualisation do you have access to besides the map? Tip: use the table provided at the top of the map to navigate the different visualisations.
-* Do you have access to the data the map creator(s) worked with?
-* Can you trace the origin of the data? Can you contextualise the visualisations by applying source criticism?
-* What other elements and information do you find interesting?
+* Welche Arten von Visualisierungen stehen Ihnen neben der Karte noch zur Verfügung? Tipp: Nutzen Sie die Tabelle oben auf der Karte, um durch die verschiedenen Visualisierungen zu navigieren.
+* Haben Sie Zugriff auf die Daten, mit denen der bzw. die Ersteller der Karte gearbeitet haben?
+* Können Sie die Herkunft der Daten zurückverfolgen? Können Sie die Visualisierungen durch die Anwendung der Quellenkritik in einen Kontext einordnen?
+* Welche weiteren Aspekte und Informationen finden Sie interessant?
 
 
 <!-- section -->
 
-### Reading/viewing suggestions
+### Empfehlungen Lektüre/Videos
 <!-- section-contents --> 
 
-National Archives. “Analyze a Map”. 15 August 2016. https://www.archives.gov/education/lessons/worksheets/analyze-a-map-intermediate.
+National Archives. „Analyze a Map“. 15. August 2016. https://www.archives.gov/education/lessons/worksheets/analyze-a-map-intermediate.
 
 Górny, Maciej. *Drawing fatherlands. Geographers and borders in inter-war Europe*. Leiden: Brill 2022
 
@@ -210,6 +203,6 @@ Seegle, Steven. *Map men. Transnational lives and deaths of geographers in the m
 
 Haslinger, Peter. National geopolitics in Habsburg Central Europe. Imperial and post-imperial perspectives on Hungary and Poland, 1890-1930. In: Jan Arend (ed.): *Science and Empire in Eastern Europe. Imperial Russia and the Habsburg Monarchy in the 19th Century*. Göttingen:  Vandenhoeck & Ruprecht, 2020: 205-236
 
-Osowska, Anna, and Dariusz Przybytek. “Thematic maps in Eugeniusz Romer’s Geographical and Statistical Atlas of Poland from 1916 – the historical and methodological perspective (on the 100-year anniversary of the publication)”. *Polish Cartographical Review* Sciendo, 48, no. 2 (2016): 77-86. DOI: [https://doi.org/10.1515/pcr-2016-0007](https://doi.org/10.1515/pcr-2016-0007)
+Osowska, Anna, and Dariusz Przybytek. „Thematic maps in Eugeniusz Romer’s Geographical and Statistical Atlas of Poland from 1916 – the historical and methodological perspective (on the 100-year anniversary of the publication)“. *Polish Cartographical Review* Sciendo, 48, no. 2 (2016): 77-86. DOI: [https://doi.org/10.1515/pcr-2016-0007](https://doi.org/10.1515/pcr-2016-0007)
 
 <!-- briefing-teacher -->
