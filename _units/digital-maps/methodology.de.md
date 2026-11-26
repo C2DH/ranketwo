@@ -59,7 +59,7 @@ Folgende Punkte sind dabei zu beachten:
 Beim Durcharbeiten dieser Lektion können Sie Ihre eigene Checkliste zusammenstellen. Ergänzen Sie dazu weitere Elemente oder passen Sie die oben gezeigte Grundstruktur an. Am Ende werden Sie Ihren ganz persönlichen Katalog mit Kartenelementen erstellt haben.
 
 
-![How to interpret a historical map](/assets/images/digital-maps/historical-map-criticism-conceptual.jpg "How to interpret a historical map")
+![How to interpret a historical map](/assets/images/digital-maps/kritische_perspektiven_kartenanalyse.jpg "How to interpret a historical map")
 
 Abb. 1: Wie historische Karten interpretiert werden. Erstellt vom Ranke.2-Team, basierend auf Michelle LeBlanc, Reading maps: How to analyze a map. 31. Oktober 2017 https://web.archive.org/web/20230529030026/https://www.choices.edu/video/reading-maps-analyze-map/  
 
