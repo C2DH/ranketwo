@@ -16,9 +16,9 @@ authors:
   - tabitha-redepenning
   - eliane-schmid
   - werner-tschacher
-  - stefan-krebs
 editors: 
   - sofia-papastamkou
+  - stefan-krebs
 reviewers:
  - lauren-coetzee
  - julius-wilm
