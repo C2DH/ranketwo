@@ -156,6 +156,14 @@ div.page.unit {
   }
 }
 
+@media (max-width: 768px){
+  .unit .introduction .lines {
+    .type {
+      top: 165px;
+    }
+  }
+}
+
 .unit .lines{
   position:absolute;
   left:0;top:0;bottom:0;

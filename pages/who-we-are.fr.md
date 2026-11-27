@@ -16,7 +16,7 @@ Ranke.2 est un projet du C<sup>2</sup>DH. Initié par Andreas Fickers et à l'or
 [Andreas Fickers](https://www.c2dh.uni.lu/people/andreas-fickers) - directeur du C²DH, initiateur du projet Ranke.2, coordinateur scientifique <br>  
 [Sofia Papastamkou](https://www.c2dh.uni.lu/people/sofia-papastamkou) - coordination éditoriale et scientifique du projet <br>
 [Daniele Guido](https://www.c2dh.uni.lu/people/daniele-guido) - conception visuelle et design, développement web <br>
-[Frédéric Reis](https://www.c2dh.uni.lu/people/frederic-reiss) - assistance développement web <br>
+[Frédéric Reis](https://www.c2dh.uni.lu/people/frederic-reis) - assistance développement web <br>
 
 
 ### Ont fait partie de l'équipe
