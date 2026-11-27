@@ -73,7 +73,7 @@ Fig. 1 How to interpret a historical map. Created by the Ranke.2 team based on M
 
 
 ### An example
-If you wish to see how the above principles are applied to historical map analysis, watch this video analysing a map of Africa from the 17th[SC2.1] century: [Burns Library: “How to Read a Historical Map” 1886](https://youtu.be/1jY_6mRIPag) (6 min 06 sec).
+If you wish to see how the above principles are applied to historical map analysis, watch this video analysing a map of Africa from the 17th century: [Burns Library: “How to Read a Historical Map”](https://youtu.be/1jY_6mRIPag) (6 min 06 sec).
   
 *Editor's Note:* 
 

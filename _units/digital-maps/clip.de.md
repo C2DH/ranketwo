@@ -1,5 +1,5 @@
 ---
-title: "Maps and historical enquiry: critical approaches in digital contexts"
+title: "Karten und historische Forschung: Kritische Ansätze in digitalen Kontexten"
 type: clip
 lang: de
 parent: digital-maps
@@ -9,7 +9,7 @@ iframe: digital-maps
 
 {: .headsup}
 
-Eine Videoanimation mit einer kurzen Einführung in Digitale Karten, die erklärt, warum sich HistorikerInnen dafür interessieren sollten.
+Eine Videoanimation mit einer kurzen Einführung in digitale Karten, die erklärt, warum sich HistorikerInnen dafür interessieren sollten.
 
 Erstellt von [Lars Schönfelder](https://lars-schoenfelder.de/){:target="_blank"}.  
 

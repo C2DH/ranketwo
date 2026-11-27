@@ -15,10 +15,10 @@ authors:
   - christian-lotz  
   - tabitha-redepenning
   - eliane-schmid
-  - werner-tschacher
-  - stefan-krebs
+  - werner-tschacher  
 editors: 
   - sofia-papastamkou
+  - stefan-krebs
 reviewers:
  - lauren-coetzee
  - julius-wilm
